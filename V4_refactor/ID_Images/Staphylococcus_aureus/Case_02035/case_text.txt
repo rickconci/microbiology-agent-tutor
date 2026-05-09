@@ -1,0 +1,38 @@
+History of Present Illness
+Summary: A man with fever and a gangrenous leg.
+A man in his thirties with diet-controlled type II diabetes mellitus had three days of left foot pain and presented to the emergency room where he was diagnosed with left foot cellulitis and hyperosmolar non-ketotic state. Vancomycin, sulbactam and ampicillin were started on admission.
+His cellulitis progressed over three days in the hospital despite intravenous antibiotics and he was taken to the operating room for exploration. Pus was seen throughout the muscles in his calf and, consequently, the planned above-ankle Guillotine amputation was extended to a below-the-knee amputation (BKA) which was left open to drain. Operating room cultures and multiple sets of blood cultures grew methicillin-susceptible Staphylococcus aureus.
+He seemed to improve post-operatively and his metabolic derangements resolved quickly. However, he had persistent fevers, despite negative blood cultures, and developed pain and swelling at his left sternoclavicular joint.
+Past Medical History
+He had hypertension, morbid obesity, and Type II diabetes mellitus.
+Medications
+Medications included nafcillin, gentamicin, heparin (subcutaneously), ranitidine and insulin.
+Epidemiological History
+e lived in the northeast United States, and had a sedentary occupation. He did not smoke and reported no history of alcohol abuse, intravenous drug abuse, pets, other animal exposure or recent travel. There was a positive family history for type II diabetes mellitus.
+Physical Examination
+He appeared toxic and tachypneic. The temperature was 102.2°F (39°C), blood pressure 120/60 mm Hg, pulse 115/minute, oxygen saturation 92% on oxygen (5 liters). There was mild tenderness and swelling at his left sternoclavicular joint. The surgical wound looked relatively benign, although there was evidence of necrosis at the distal edges.
+Studies
+The white blood cell count (WBC) was 20,100 cells/mm³ (85% neutrophils, 8% bands), hematocrit 41% and platelets 307,000/mm³. The serum level of urea nitrogen (BUN) 48 mg/dL and creatinine 2.1 mg/dL. The urinalysis revealed 3+ glucose and 2+ protein. A chest radiograph revealed trace bilateral pleural effusions.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) was performed ( Figures 1 through 4 ).
+Figure 1. Sagittal chest CT scan.
+Figure 2. Sagittal chest CT scan.
+Figure 3. Chest CT scan.
+Figure 4. Chest CT scan.
+Diagnostic Procedure(s) and Result(s)
+Sternoclavicular osteomyelitis was seen on the CT scan ( Figure 1 ). The lung windows of the chest CT scan revealed small, peripheral nodular infiltrates consistent with septic emboli ( Figure 4 ).
+Treatment and Followup
+A transthoracic echocardiogram was non-diagnostic, but a transesophageal echocardiogram demonstrated a vegetation on his tricuspid valve. His below-the-knee amputation was revised and closed, and he was transferred to a rehabilitation center to complete a six-week course of nafcillin for osteomyelitis and endocarditis. His sternoclavicular osteomyelitis responded slowly to medical therapy and over six months of follow-up, he continued to do well.
+Discussion
+Primary hematogenous osteomyelitis is more common in children, but can occur in adults as a consequence of high-grade bacteremia including endocarditis. While vertebral osteomyelitis is a well-known complication of endocarditis, especially in intravenous drug users, seeding of the sternoclavicular joint or the clavicular head has also been described.
+Surgical debridement is frequently required. Staphylococcus aureus is the most common organism implicated.
+This case illustrates both the high frequency of acute bacterial endocarditis with S. aureus bacteremia, as well as the high incidence of severe metastatic foci of disease. Patients who have persistent fever or signs of sepsis despite clearance of S. aureus bacteremia with appropriate antibiotics should be thoroughly evaluated for foci of infection.
+Final Diagnosis
+Hematogenous osteomyelitis caused by Staphylococcus aureus .
+References
+Jeffcoate, W.J., and Lipsky, B.A. (2004). Controversies in diagnosing and managing osteomyelitis of the foot in diabetes. Clin Infect Dis 39 Suppl 2, S115-122.
+PMID:15306989 ( PubMed abstract )
+Ross, J.J., and Shamsuddin, H. (2004). Sternoclavicular septic arthritis: review of 180 cases. Medicine (Baltimore) 83, 139-148.
+PMID:15118542 ( PubMed abstract )
+Senneville, E., Morant, H., Descamps, D., Dekeyser, S., Beltrand, E., Singer, B., Caillaux, M., Boulogne, A., Legout, L., Lemaire, X., Lemaire, C., and Yazdanpanah, Y. (2009). Needle puncture and transcutaneous bone biopsy cultures are inconsistent in patients with diabetes and suspected osteomyelitis of the foot. Clin Infect Dis 48, 888-893.
+PMID:19228109 ( PubMed abstract )

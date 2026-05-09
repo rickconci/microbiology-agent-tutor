@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A child with leg pain and a fever.
+A pre-teen child presented with left lower leg pain and a fever. Eleven days earlier, the child had fallen while running to catch a baseball. A radiograph was read as negative and a pediatrician prescribed antipyretics/analgesics and rest. Three days before admission, the patient developed a fever and pounding pain in the medial aspect of the left lower leg. The child was brought to the hospital.
+Past Medical History
+None.
+Physical Examination
+The patient was in no apparent distress; the temperature was 38.4ºC (101.1ºF). The cardiovascular examination was normal, and there was no lymphadenopathy. There was mild erythema and swelling over medial lower left calf; the range of motion was full at the hip, knee, and ankle and occurred without pain.
+Studies
+The white blood cell count was 10,300 cells/mm³ and the differential was normal. The erythrocyte sedimentation rate (ESR) was 56 millimeters per hour and the C-reactive protein was elevated at 6.7 mg/dL.
+Clinical Course Prior to Diagnosis
+Blood cultures were drawn.
+Radiography and magnetic resonance imaging (MRI) of the left lower leg were obtained ( Figures 1 and 2 ).
+Figure 1. Radiograph of the left lower leg.
+Figure 2. MRI scan of the lower legs.
+Diagnostic Procedure(s) and Result(s)
+Radiography of the lower leg ( Figure 1 ) revealed a linear sclerotic band in midshaft of the left tibia that was worrisome for a nondisplaced fracture.
+MRI scanning with the administration of contrast ( Figure 2 ) revealed a diffuse signal abnormality involving the mid and distal left tibia with almost complete replacement of normal marrow signal (low on T1 weighted and high on T2 weighted images). Enhancement was heterogeneous circumferentially and absent centrally, which raised the concern for abscesses. The serpiginous area of high T2 signal distally, which did not enhance, suggested infarction. This appearance was suggestive of osteomyelitis, but a diffuse infiltrative process involving the bone marrow could not be excluded.
+The blood culture was positive for methicillin-susceptible Staphylococcus aureus .
+Treatment and Followup
+Intravenous cefazolin was administered empirically at presentation. Because of concern for an intramedullary abscess with involvement of the distal growth plate, the patient was taken to the operating room for a surgical procedure. Purulent material was found to be under pressure when the tibia was opened; pulse lavage was used to debride the entire metaphysis.
+The patient was treated with intravenous cefazolin for six weeks.
+Discussion
+Osteomyelitis in children is usually of hematogenous origin. Acute hematogenous osteomyelitis occurs especially in young children, presumably because of the rich vascular supply of their rapidly growing bones. The femur and tibia are the most frequent sites; growth plate involvement occurs infrequently. Osteomyelitis in children is frequently treated with oral antibiotics alone.
+In this case, the dramatic MRI scanning prompted concern primarily for an intramedullary abscess, although a concomitant neoplasm was also considered. Under these circumstances, surgical intervention to establish the diagnosis is important.
+Final Diagnosis
+Staphylococcus aureus bacteremia with an intramedullary abscess of the tibia.
+References
+Kaplan, S.L. (2010). Acute hematogenous osteomyelitis in children: differences in clinical manifestations and management. Pediatr Infect Dis J 29, 1128-1129.
+PMID:21099652 ( PubMed abstract )
+Peltola, H., Paakkonen, M., Kallio, P., and Kallio, M.J. (2010). Short- versus long-term antimicrobial treatment for acute hematogenous osteomyelitis of childhood: prospective, randomized trial on 131 culture-positive cases. Pediatr Infect Dis J 29, 1123-1128.
+PMID:20842069 ( PubMed abstract )
+Thomsen, I., and Creech, C.B. (2011). Advances in the diagnosis and management of pediatric osteomyelitis. Curr Infect Dis Rep 13, 451-460.
+PMID:21789499 ( PubMed abstract )

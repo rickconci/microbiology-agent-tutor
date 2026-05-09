@@ -1,0 +1,35 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Presentation Summary: A man with weakness and cognitive changes.
+A man in his forties presented to the emergency department with progressive weakness in his legs and unstable gait. He had recently fallen several times at home. A cough had developed several weeks before, which was productive of brownish sputum and associated with dyspnea on exertion.
+The patient’s family reported that the patient had undergone personality and cognitive changes over the preceding six months, becoming isolated from family members and exhibiting lapses in memory and judgment. There was a history of weight loss of 40 pounds (18.2 kilograms) during the previous year.
+Past Medical History
+There was a history of depression.
+Medications
+None.
+Allergies
+He was not allergic to medications.
+Epidemiological History
+He had had sexual intercourse with men, including 6 partners in the last five years, but none in the past year. There was a 30 pack-year tobacco history, and no use of illicit drugs. In the previous year, he had traveled to Southern California. He had no pets. A member of his household had been treated decades earlier for pulmonary tuberculosis; he did not recall being tested for tuberculosis and had never received anti-tuberculosis treatment.
+Physical Examination
+The patient was gaunt, and appeared chronically ill. He coughed frequently, but was not in acute respiratory distress. The temperature was 100.1°F (37.8°C); other vital signs were normal. The affect was flat, and he was inattentive during the interview. There were raised white plaques on the palate and tongue, and rales were heard throughout the right lung, with no percussive dullness or egophony. Neurological examination revealed a paucity of conversation; inability to name any of 3 objects at 5 minutes; an ataxic, wide-based gait; and diminished strength and deep tendon reflexes in the legs, which were more prominent on the right than left.
+Studies
+The hematocrit was 26%, platelets 563,000 per cubic millimeter and a white cell count of 12,500 per cubic millimeter. Serological testing for antibody to human immunodeficiency virus (HIV) (enzyme-linked immunosorbent assay or ELISA test) was positive. The CD4 T-lymphocyte cell count was 26 cells per cubic millimeter, with HIV-RNA level of 30,018 copies per milliliter. Tests of renal and liver function were normal.
+Magnetic resonance imaging (MRI) of the brain, shown in Figures 1, 2 and 3 , revealed a ring-enhancing lesion in the right frontal lobe, and T2 signal changes in the periventricular white matter and pontine region.
+Analysis of cerebrospinal fluid (CSF) revealed a white cell count of 1 cell per cubic millimeter; red cell count 1 cell per cubic millimeter; glucose 57 mg/dL; protein 50 mg/dL; and an HIV-RNA level of 30,000 copies/mL. Results of other CSF studies (gram stain, fungal stain, cryptococcal antigen, cultures, testing for JC virus, and venereal disease research laboratory (VDRL) testing) were negative.
+Figure 1. MRI of the brain, T1 post-gadolinium.
+Figure 2. MRI of the brain, T2 FLAIR.
+Figure 3. MRI of the brain, T2 FLAIR.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) of the chest ( Figure 4 ) showed mediastinal lymphadenopathy, a bulky mediastinal homogeneous mass (5 centimeters (cm) by 7.6 cm in maximum diameter) on the right and multiple right-sided lung masses. A drainage procedure of the mediastinum was performed by thoracic surgeons, and the aspirate was cultured. A gram stain of the culture growth is shown in Figure 5 .
+Figure 4. CT scan of the chest.
+Figure 5. Gram stain of culture of aspirate.
+Diagnostic Procedure(s) and Result(s)
+The gram stain reveals beaded, thin, filamentous gram-positive rods ( Figure 5 ). The culture of the aspirate grew Nocardia asteroides .
+Treatment and Followup
+Trimethoprim-sulfamethoxazole was administered intravenously at first and then the patient was placed on an oral regimen. Anti-retroviral therapy with tenofovir-emtricitabine and lopinavir-ritonavir was begun. After six months on therapy, he had an excellent response with virtual resolution of the pulmonary and brain abscesses, an undetectable HIV-RNA viral load, 30-pound weight gain, and nearly full recovery of his gait.
+Discussion
+Although nocardiosis is not a common opportunistic infection in patients with HIV infection and AIDS, it should be suspected in any patient presenting with simultaneous pulmonary and intracranial disease evolving over an extended time course. The portal of entry for Nocardia is the respiratory tract and the skin. Pulmonary manifestations are the most common and include nodules, often cavitating, as well as pneumonia and empyema. The differential for similar indolent pulmonary processes includes mycobacteria, Cryptococcus and Aspergillus . Central nervous system involvement occurs in up to 40% of patients with systemic nocardiosis, and includes abscess and granuloma formation. The infectious differential for such a ring-enhancing lesion might include toxoplasmosis, lymphoma, or less likely amoebic, pyogenic or fungal abscess. Definitive diagnosis relies on obtaining aspirates of suspected lesions for culture. Growth of Nocardia may take 48 hours to several weeks in standard media, and isolation can be facilitated by usage of special media, such as buffered charcoal-yeast extract.
+Final Diagnosis
+Mediastinal empyema and brain abscess, caused by Nocardia asteroides infection, in a patient with HIV infection and AIDS.
+References
+Gerald Mandell, Raphael Dolin, John Bennett. Principle's and Practice of Infectious Diseases, Sixth Edition. Elsevier 2007.
