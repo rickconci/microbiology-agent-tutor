@@ -12,6 +12,7 @@ const DOM = {
 
     // Case setup
     startCaseBtn: null,
+    startRandomBtn: null,
     organismSelect: null,
 
     // Module checkboxes
@@ -94,6 +95,7 @@ const DOM = {
         this.statusMessage = document.getElementById('status-message');
 
         this.startCaseBtn = document.getElementById('start-case-btn');
+        this.startRandomBtn = document.getElementById('start-random-btn');
         this.organismSelect = document.getElementById('organism-select');
 
         this.modHistory = document.getElementById('mod-history');

@@ -18,6 +18,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     if (DOM.startCaseBtn) {
         DOM.startCaseBtn.addEventListener('click', handleStartCase);
     }
+    if (DOM.startRandomBtn && typeof handleStartRandomCase === 'function') {
+        DOM.startRandomBtn.addEventListener('click', handleStartRandomCase);
+    }
 
     // ── chat ─────────────────────────────────────────────────────────────
     if (DOM.sendBtn) {

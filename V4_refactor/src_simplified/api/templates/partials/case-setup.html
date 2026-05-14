@@ -5,9 +5,8 @@
     <div class="setup-row setup-row-primary">
         <div class="setup-group organism-group">
             <label for="organism-select">Select a Case:</label>
-            <select id="organism-select">
-                <option value="">-- Choose a curated case --</option>
-                <option value="random">Random</option>
+            <select id="organism-select" disabled>
+                <option value="">Loading cases...</option>
             </select>
         </div>
     </div>
@@ -67,9 +66,10 @@
         <span class="mcq-toggle-label">Generate MCQs after each deep-dive module</span>
     </label>
 
-    <!-- Start button -->
+    <!-- Start buttons: explicit case start + blind random -->
     <div class="setup-actions">
         <button id="start-case-btn" class="btn btn-primary btn-large">Start New Case</button>
+        <button id="start-random-btn" class="btn btn-secondary btn-large" title="Start a random case without revealing which one was picked">🎲 Random Case</button>
     </div>
 
     <!-- Advanced Settings (Collapsible) -->

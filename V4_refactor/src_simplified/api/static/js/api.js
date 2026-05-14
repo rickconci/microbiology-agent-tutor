@@ -70,22 +70,12 @@ function formatOrganismLabel(key) {
 }
 
 /**
- * Fetch cases from the API and fill the organism select (placeholder + Random preserved).
+ * Fetch cases from the API and fill the organism select with the real case list.
  * @returns {Promise<void>}
  */
 async function populateOrganismSelect() {
     const sel = DOM.organismSelect;
     if (!sel) return;
-
-    const frag = document.createDocumentFragment();
-    const optPlaceholder = document.createElement('option');
-    optPlaceholder.value = '';
-    optPlaceholder.textContent = '-- Choose a curated case --';
-    const optRandom = document.createElement('option');
-    optRandom.value = 'random';
-    optRandom.textContent = 'Random';
-    frag.appendChild(optPlaceholder);
-    frag.appendChild(optRandom);
 
     try {
         const res = await fetch(`${API_BASE}/organisms`);
@@ -94,9 +84,11 @@ async function populateOrganismSelect() {
         const manual = Array.isArray(data.manual_cases) ? data.manual_cases : [];
         const cached = Array.isArray(data.cached_organisms) ? data.cached_organisms : [];
 
+        const frag = document.createDocumentFragment();
+
         if (manual.length) {
             const g = document.createElement('optgroup');
-            g.label = 'ID Images cases';
+            g.label = `ID Images cases (${manual.length})`;
             for (const key of manual) {
                 const o = document.createElement('option');
                 o.value = key;
@@ -107,7 +99,7 @@ async function populateOrganismSelect() {
         }
         if (cached.length) {
             const g = document.createElement('optgroup');
-            g.label = 'Cached curriculum';
+            g.label = `Cached curriculum (${cached.length})`;
             for (const key of cached) {
                 const o = document.createElement('option');
                 o.value = key;
@@ -116,12 +108,58 @@ async function populateOrganismSelect() {
             }
             frag.appendChild(g);
         }
+
+        sel.innerHTML = '';
+        if (frag.childNodes.length === 0) {
+            const o = document.createElement('option');
+            o.value = '';
+            o.textContent = 'No cases available';
+            sel.appendChild(o);
+            sel.disabled = true;
+            console.warn('[ORGANISMS] /organisms returned an empty list');
+            return;
+        }
+        sel.appendChild(frag);
+        sel.disabled = false;
+
+        // Auto-select the first real option so a user can always click Start.
+        const firstReal = sel.querySelector('option[value]:not([value=""])');
+        if (firstReal) {
+            sel.value = firstReal.value;
+            State.currentOrganismKey = firstReal.value;
+        }
+        console.log(`[ORGANISMS] Loaded ${manual.length + cached.length} cases`);
     } catch (e) {
         console.error('[ORGANISMS] Failed to load case list:', e);
+        sel.innerHTML = '';
+        const o = document.createElement('option');
+        o.value = '';
+        o.textContent = 'Error loading cases (see console)';
+        sel.appendChild(o);
+        sel.disabled = true;
+    }
+}
+
+/**
+ * Pick a uniformly random case from the populated dropdown and start it.
+ * The selection is intentionally hidden from the user.
+ */
+async function handleStartRandomCase() {
+    const sel = DOM.organismSelect;
+    if (!sel) return;
+    const options = Array.from(sel.querySelectorAll('option[value]:not([value=""])'));
+    if (options.length === 0) {
+        if (typeof setStatus === 'function') setStatus('No cases available to pick from.', true);
+        return;
+    }
+    const modules = getSelectedModules();
+    if (modules.length === 0) {
+        if (typeof setStatus === 'function') setStatus('Please select at least one module.', true);
+        return;
     }
 
-    sel.innerHTML = '';
-    sel.appendChild(frag);
+    const choice = options[Math.floor(Math.random() * options.length)].value;
+    await handleStartCaseWithOrganism(choice, { hideOrganism: true });
 }
 
 // ── module selection helpers ─────────────────────────────────────────────
@@ -529,7 +567,8 @@ async function handleStartCase() {
     await handleStartCaseWithOrganism(selectedOrganism);
 }
 
-async function handleStartCaseWithOrganism(selectedOrganism) {
+async function handleStartCaseWithOrganism(selectedOrganism, opts = {}) {
+    const hideOrganism = opts.hideOrganism === true;
     clearConversationState();
     State.chatHistory = [];
     State.pinnedImages = [];
@@ -575,7 +614,7 @@ async function handleStartCaseWithOrganism(selectedOrganism) {
         console.log('[START_CASE] Response:', data);
 
         // Store the actual organism (may differ if random)
-        if (data.display_organism === 'Random') {
+        if (hideOrganism || data.display_organism === 'Random') {
             State.displayOrganism = 'Random';
         } else {
             State.displayOrganism = data.organism || selectedOrganism;

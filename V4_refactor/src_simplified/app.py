@@ -59,24 +59,25 @@ def _feedback_file_path() -> Path:
 
 
 def _load_feedback_entries() -> List[Dict[str, Any]]:
+    """Read ``new_feedback.json``. Missing file → []. Malformed JSON → raises."""
     path = _feedback_file_path()
     if not path.exists():
         return []
-    try:
-        with open(path, "r") as f:
-            data = json.load(f)
-        return data if isinstance(data, list) else []
-    except Exception:
-        return []
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    if not isinstance(data, list):
+        raise ValueError(f"{path} must contain a JSON list, got {type(data).__name__}")
+    return data
 
 
 def _parse_iso_day(ts: str) -> Optional[str]:
+    """Parse ``ts`` into a YYYY-MM-DD string. Returns None ONLY for empty/invalid format."""
     if not ts:
         return None
     try:
-        dt = datetime.fromisoformat(ts.replace("Z", "+00:00"))
-        return dt.date().isoformat()
-    except Exception:
+        return datetime.fromisoformat(ts.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        logger.warning("Skipping invalid ISO timestamp: %r", ts)
         return None
 
 
@@ -239,24 +240,30 @@ async def start_case(request: StartCaseRequest):
         }
     except HTTPException:
         raise
+    except KeyError as e:
+        logger.warning("Unknown organism/case requested: %s", e)
+        raise HTTPException(status_code=404, detail=f"Unknown case: {e}") from e
     except Exception as e:
-        logger.error(f"Failed to start case: {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+        logger.exception("Failed to start case")
+        raise HTTPException(status_code=500, detail=str(e)) from e
 
 @app.post("/api/v1/chat")
 async def chat(request: ChatRequest):
     case_id = request.case_id
     if case_id not in sessions:
-        if request.organism_key:
-            try:
-                orchestrator = Orchestrator(request.organism_key)
-                sessions[case_id] = orchestrator
-                if request.history:
-                    orchestrator.conversation_history = request.history
-            except Exception:
-                raise HTTPException(status_code=404, detail="Session expired. Please start a new case.")
-        else:
+        if not request.organism_key:
             raise HTTPException(status_code=404, detail="Session expired. Please start a new case.")
+        try:
+            orchestrator = Orchestrator(request.organism_key)
+        except KeyError as e:
+            logger.warning("Cannot resume session: unknown organism %s", e)
+            raise HTTPException(status_code=404, detail=f"Unknown case: {e}") from e
+        except Exception as e:
+            logger.exception("Failed to recreate session for case_id=%s", case_id)
+            raise HTTPException(status_code=500, detail=str(e)) from e
+        sessions[case_id] = orchestrator
+        if request.history:
+            orchestrator.conversation_history = request.history
 
     orchestrator = sessions[case_id]
 
@@ -387,19 +394,17 @@ async def clarify_question(request: Dict[str, Any]):
     if not message:
         return {"response": "Please ask a question!"}
     
+    system_prompt = "You are a helpful medical education assistant. Answer questions clearly and concisely. Keep answers brief (2-4 sentences)."
+    messages = [{"role": "system", "content": system_prompt}]
+    if history:
+        messages.extend(history[-4:])
+    messages.append({"role": "user", "content": message})
+
     try:
-        system_prompt = "You are a helpful medical education assistant. Answer questions clearly and concisely. Keep answers brief (2-4 sentences)."
-        messages = [{"role": "system", "content": system_prompt}]
-        if history:
-             # Take last few messages for context
-             messages.extend(history[-4:])
-        messages.append({"role": "user", "content": message})
-        
-        response = chat_complete(messages)
-        return {"response": response}
+        return {"response": chat_complete(messages)}
     except Exception as e:
-        logger.error(f"Clarify failed: {e}")
-        return {"response": "Sorry, I couldn't process that question."}
+        logger.exception("Clarify failed")
+        raise HTTPException(status_code=502, detail=f"Upstream LLM error: {e}") from e
 
 @app.get("/api/v1/config")
 async def get_config():
@@ -418,10 +423,13 @@ async def get_feedback_stats():
 
     ratings: List[float] = []
     for e in entries:
+        raw = e.get("rating")
+        if raw is None:
+            continue
         try:
-            ratings.append(float(e.get("rating")))
-        except Exception:
-            pass
+            ratings.append(float(raw))
+        except (TypeError, ValueError):
+            logger.warning("Skipping non-numeric rating: %r", raw)
     avg_rating = round(sum(ratings) / len(ratings), 2) if ratings else 0.0
 
     today = datetime.now().date().isoformat()
