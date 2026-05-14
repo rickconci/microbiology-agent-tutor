@@ -1,0 +1,28 @@
+History of Present Illness
+IDSA 2001 Case Summary: A man in his sixties with confusion and a seizure.
+A man in his sixties was brought to an emergency department (ED) by his wife because he appeared confused and had not been himself for several weeks. While in the ED, he had a myoclonic seizure. His wife reported that he had been complaining of a frontal headache, and had had a 10-pound weight loss over the previous 3 months.
+Past Medical History
+There was a history of interstitial pulmonary fibrosis, for which he took prednisone and cyclophosphamide; pulmonary hypertension; and non-insulin-dependent diabetes mellitus (NIDDM). Twenty years earlier, he had had a brain abscess and was status post craniotomy.
+Epidemiological History
+He had stopped smoking 3 years before presentation. There was no history of alcohol or intravenous drug use. He worked in a foundry, and had had occupational exposure to gases and dust.
+Physical Examination
+The patient was confused and disoriented. The temperature was 37.4 °C (99.3 °F) and respirations 22 breaths per minute. There was conjunctival injection, a grade II/VI systolic murmur, scrotal edema and erythema, right hemiparesis and a right-sided neglect. Ophthalmologic examination showed a right choroidal abscess. There were no splinter hemorrhages.
+Studies
+The hematocrit was 31%, erythrocyte sedimentation rate 135 millimeters per hour. A radiograph of the chest revealed lingular and left basilar infiltrates. Computed tomography (CT) of the head, with contrast, is shown in Figure 1 .
+Figure 1. Head CT scan.
+Clinical Course Prior to Diagnosis
+A brain biopsy was performed. Gram stain of the pathologic specimen is shown in Figure 2 , Fite stain in Figure 3 , and Gomori's methenamine silver (GMS) stain in Figure 4 .
+Figure 2. Gram stain.
+Figure 3. Fite stain.
+Figure 4. GMS stain.
+Diagnostic Procedure(s) and Result(s)
+The GMS stain shows filamentous organisms characteristic of Nocardia . Fite stain is a modified acid-fast stain; Nocardia appears as a weakly acid-fast organism.
+Discussion
+Nocardiosis generally affects immunocompromised hosts. This patient was on immunosuppressive medication, which increased his risk for nocardiosis. The organism has a tropism for the central nervous system, and can cause brain abscesses as seen in this case.
+Final Diagnosis
+Nocardiosis with dissemination to the brain, possibly to the epididymis, scrotum, and choroid, in an immunocompromised patient with diabetes mellitus and pulmonary fibrosis.
+References
+Ambrosioni, J., Lew, D., and Garbino, J. (2010). Nocardiosis: updated clinical review and experience at a tertiary center. Infection 38, 89-97.
+PMID:20306281 ( PubMed abstract )
+Minero, M.V., Marin, M., Cercenado, E., Rabadan, P.M., Bouza, E., and Munoz, P. (2009). Nocardiosis at the turn of the century. Medicine (Baltimore) 88, 250-261.
+PMID:19593231 ( PubMed abstract )

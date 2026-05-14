@@ -1,0 +1,38 @@
+History of Present Illness
+2008 March Featured Case and IDSA 2007 Fellows Day Case Presentation Summary: A woman with fevers and skin lesions after surgery.
+A woman in her fifties suffered an intraparenchymal hemorrhage of the brain, for which hemi-craniotomy and clot evacuation were performed. The four-week post-operative course was complicated by a ventilator-associated pneumonia that was treated with vancomycin and cefepime. Fevers persisted while she was receiving these antibiotics, despite resolution of the pneumonia by radiography. Cultures of blood, urine and cerebral spinal fluid were sterile. Vancomycin and cefepime were discontinued after fourteen days, and the temperatures returned to normal.
+The patient remained afebrile for six days off all antibiotics, and then returned to the operating room for placement of ventriculoperitoneal (VP) shunt, followed by revision of the right craniotomy flap. Immediately post-operatively, fever to 38.9°C developed and the blood pressure transiently dropped to 80s/40s mm Hg. Specimens of blood and urine were cultured, and vancomycin and cefepime administered. Over the next twelve hours, the temperature rose to 40.6°C (105.1°F) and a rash developed.
+Past Medical History
+There was a past medical history of hypercholesterolemia.
+Medications
+Other medications included levetiracetam, lansoprazole, lisinopril and metoprolol.
+Allergies
+She was allergic to penicillin, but the reaction to this medication was unknown.
+Physical Examination
+The patient was sedated and mechanically ventilated with minimal oxygen requirements. The maximum temperature was 40.1°C (104.2°F), pulse 108 beats per minute and blood pressure 112/52 mm Hg. A tracheostomy tube, gastric tube and subclavian triple lumen catheter were in place. There was a non-blanching erythematous eruption with tense bullae on the skin ( Figures 1 through 3 ). Nikolsky sign was negative.
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Figure 3. Physical findings.
+Studies
+The white blood cell count was 11,900 cells/microliter with a normal differential and no eosinophils. The creatinine was 0.7 milligrams/deciliter and urinalysis revealed trace protein, but was otherwise normal. A gram stain of the culture sent from the operative site during the craniotomy revision revealed gram-positive cocci.
+Clinical Course Prior to Diagnosis
+A punch biopsy of the skin was performed. Hematoxylin and eosin staining of the sample showed a sub-epidermal blister with numerous neutrophils (Figure 4).
+Figure 4. H and E stain of biopsy.
+Diagnostic Procedure(s) and Result(s)
+A portion of the punch biopsy of the skin was sent for direct immunofluorescence, which revealed linear deposits of immunoglobulin (Ig) A along the dermal-epidermal junction ( Figure 5 ).
+Figure 5. IgA immunofluorescent stain of biopsy.
+Treatment and Followup
+Cultures from the operative site grew methicillin-resistant Staphylococcus aureus (MRSA). Cefepime was discontinued, but fevers persisted and new bullous lesions extended proximally up the patient’s extremities. Vancomycin was then discontinued and linezolid was begun; the fever resolved and the bullous rash improved. The patient completed a course of linezolid and rifampin for treatment of post-operative MRSA meningitis and ventriculoperitoneal (VP) shunt infection. Several weeks later, after the patient had recovered, she recalled that she had had a similar skin reaction (described as a “blistering sunburn”) several years earlier, possibly after receiving vancomycin.
+Discussion
+Linear immunoglobulin (Ig) A bullous dermatosis (LABD) is an autoantibody-mediated subepidermal blistering disease that is often idiopathic or, less commonly, drug-induced. Drug-induced LABD usually develops within one to 15 days after the first dose of the offending medication and resolves within two weeks of its discontinuation. Clinically, this disorder is characterized by tense blisters in linear or annular groups that cluster preferentially on the trunk, extremities, palms, soles, and spare the head and neck. On histological examination, the blisters are sub-epidermal and filled with neutrophils, as seen in this case. Direct immunofluorescence reveals linear deposition of IgA at the dermal-epidermal junction; the antigenic targets of the autoantibodies are located in the basement membrane zone. Drug-induced LABD is most frequently reported with vancomycin, but has also been reported with penicillins, cephalosporins, lithium, furosemide, amiodarone and phenytoin. The development of vancomycin-induced LABD is not dose dependent and the severity of the eruption does not correlate with serum trough levels.
+Final Diagnosis
+Antibiotic-induced linear IgA bullous dermatosis, caused by vancomycin.
+References
+Navi, D., Michael, D.J., and Fazel, N. (2006). Drug-induced linear IgA bullous dermatosis. Dermatol Online J 12, 12.
+PMID:16962027 ( PubMed abstract )
+Neughebauer, B.I., Negron, G., Pelton, S., Plunkett, R.W., Beutner, E.H., and Magnussen, R. (2002). Bullous skin disease: an unusual allergic reaction to vancomycin. Am J Med Sci 323, 273-278.
+PMID:12018672 ( PubMed abstract )
+Nousari, H.C., Kimyai-Asadi, A., Caeiro, J.P., and Anhalt, G.J. (1999). Clinical, demographic, and immunohistologic features of vancomycin-induced linear IgA bullous disease of the skin. Report of 2 cases and review of the literature. Medicine (Baltimore) 78, 1-8.
+PMID:9990350 ( PubMed abstract )
+Onodera, H., Mihm, M.C., Jr., Yoshida, A., and Akasaka, T. (2005). Drug-induced linear IgA bullous dermatosis. J Dermatol 32, 759-764.
+PMID:16361722 ( PubMed abstract )

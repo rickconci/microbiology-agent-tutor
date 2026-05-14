@@ -1,0 +1,37 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Submission Summary: A man with draining abscesses on his buttock.
+A man in his fifties was admitted to the hospital with two abscesses on his right buttock.
+Approximately three weeks before admission, a firm nodule developed on the patient's right buttock. Within one week, the nodule rapidly increased in size, became indurated, painful, and drained a purulent discharge. He was seen in Dermatology clinic two weeks before admission and had no constitutional symptoms or fever. Physical examination revealed two nodular lesions on the right buttock. One nodule was firm, tender and measured 10 centimeter (cm) by 5 cm. Just inferior to this was a second nodule that was 3 cm in diameter and draining purulent fluid. The larger nodule was incised and drained, and a sample of the discharge was sent for gram stain and culture. Oral clindamycin was administered, but discontinued by the patient after one dose because of nausea and vomiting.
+Seven days later, he returned to the Dermatology clinic because of persistent drainage and enlargement of the second nodule. The second nodule was then incised and drained, and oral trimethoprim-sulfamethoxazole begun. One week later, the evening before admission, he developed a tactile temperature. He returned to the clinic the next day because of increasing pain and fever, and was admitted to the hospital. An infectious disease consult was obtained.
+Past Medical History
+There was a history of pustular psoriasis, psoriatic arthritis, diabetes, hypertension, glaucoma, osteoporosis, and gastric reflux. He had pulmonary tuberculosis, which was fully treated several years earlier.
+Medications
+For many years, while living in Africa, the patient intermittently applied topical steroids and frequently took tapering courses of steroids orally for treatment of his psoriatic disease. He also occasionally received intramuscular injections of steroids, his last dose having been administered in his right buttock approximately 2.5 months before this illness while he resided in a refugee facility in Africa.
+The most recent intensive psoriasis therapy was administered four weeks before admission when he was hospitalized for a severe flare. At that time, he was treated with cyclosporine and topical triamcinolone with a sauna suit.
+Epidemiological History
+The patient was from eastern Africa, and had immigrated to the Northwestern United States approximately eight weeks before the onset of this illness. He had worked in an office in a large city.
+Physical Examination
+The patient appeared well nourished. Vital signs were normal. There was a scaling and pustular rash on his skin, and two large draining nodules on the right buttock ( Figure 1 ). The remainder of the examination was normal.
+Figure 1. Physical findings.
+Studies
+The white blood cell count was 13,100 cells per microliter. Two sets of blood cultures were sterile and results of testing for human immunodeficiency virus (HIV) were negative. Gram's stain of the swab from the first incision and drainage procedure is shown in Figure 2 and modified acid-fast stain is shown in Figure 3 .
+Figure 2. Gram stain of swab of lesion.
+Figure 3. Modified acid-fast stain of swab of lesion.
+Diagnostic Procedure(s) and Result(s)
+Nocardia cyriacigeorgica ( Figure 3 ) was identified by molecular analysis.
+Treatment and Followup
+High dose trimethoprim-sulfamethoxazole (TMP-SMX) was administered intravenously. Computed tomography (CT) of the right buttock revealed enhancement of soft tissue in the right buttock with extension into the gluteus maximus, and a fluid collection that measured 6.8 centimeter (cm) by 6.1 cm, consistent with abscess. Magnetic resonance imaging (MRI) of the brain was normal. CT scanning of the lung showed patchy tree-in-bud formation in the right lower lobes that was consistent with an endobronchial infectious process. (It was unclear if this was related to the Nocardia skin infection.)
+A deep incision and drainage procedure of the abscesses was performed in the operating room.
+He was discharged from the hospital on intravenous TMP-SMX. Two weeks later, he was re-admitted because of continued pain and local drainage. Another incision and drainage procedure was performed and he was continued on high-dose TMP-SMX. Upon discharge after this admission, he was sent to a skilled nursing facility for intravenous antibiotics and wound care.
+At last follow-up in the Infectious Diseases clinic, he had completed a 6-month course of trimethoprim-sulfamethoxazole and was feeling well. Physical examination revealed two well-healed buttock incisions and no evidence of residual abscess.
+Discussion
+The skin is the second most common site of Nocardia infection, after the lung. There are four clinical forms of Nocardia skin infection – 1) superficial, 2) lymphocutaneous, resembling sporotrichosis, 3) disseminated, and 4) actinomycetoma (an indurated mass with draining sinuses, as seen in this patient). Organisms that cause actinomycetoma include Actinomadura pelletieri , Actinomadura madurae , Streptomyces somaliensis , and Nocardia species (mostly N. brasiliensis ). Among these organisms, only Nocardia species are weakly acid fast or modified acid fast staining positive (as seen in the image above).
+Nocardia brasiliensis causes the majority of Nocardia cutaneous infections and is found mainly in the tropics. N. asteroides group skin infections are rarely reported. N. cyriacigeorgica is a unique Nocardia species, previously grouped with N. asteroides , which was identified in 2001 based upon 16S rRNA gene sequence data and biochemical characteristics. One study from Japan and Thailand found approximately 25% of past N. asteroides isolates were actually N. cyriacigeorgica . At this writing, there are five cases of N. cyriacigeorgica specific infections reported in the literature; all were in immunocompromised patients and infection sites included the lung, brain and blood stream. There have been no reported cases of N. cyriacigeorgica causing skin/soft tissue infections.
+Final Diagnosis
+Nocardia cyriacigeorgica mycetoma.
+References
+Lum, C.A., and Vadmal, M.S. (2003). Case report: Nocardia asteroides mycetoma. Ann Clin Lab Sci 33, 329-333.
+PMID:12956451 ( PubMed abstract )
+Maraki, S., Panagiotaki, E., Tsopanidis, D., Scoulica, E., Miari, N.M., Hainis, K., Dotis, G., Katsoula, I., and Tselentis, Y. (2006). Nocardia cyriacigeorgica pleural empyema in an immunocompromised patient. Diagn Microbiol Infect Dis 56, 333-335.
+PMID:16854553 ( PubMed abstract )
+Rosenthal DR Chapter 260 Agents of Mycetoma in Mandell, Principles and Practice of Infectious Diseases. 6th edition, 2005, pages 2991-2992.

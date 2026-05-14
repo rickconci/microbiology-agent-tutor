@@ -1,0 +1,28 @@
+History of Present Illness
+IDSA 2001 Case Summary: A 5-month-old with failure-to-thrive and a rash.
+A 5-month-old male presented with failure-to-thrive and bacteremia caused by Pseudomonas aeruginosa and Staphylococcus aureus . During hospitalization, he developed a pustulo-nodular rash. Pathological examination of a skin biopsy showed a non-specific neutrophilic inflammation. The rash progressed despite a prolonged course of anti-staphylococcal antibiotics.
+Past Medical History
+Atopic dermatitis and hepatomegaly had been diagnosed at 5 weeks of age. A liver biopsy showed non-specific inflammation. The infant's mother had had a positive tuberculosis skin test (PPD) during pregnancy; chest radiograph was negative. Isoniazid (INH) therapy was deferred until after pregnancy.
+Epidemiological History
+There was no history of travel, sick contacts, or animal exposure. The infant had missed the recommended 4-month immunizations.
+Physical Examination
+The infant appeared malnourished and without distress. The weight and height were below the 5th percentile for age, the temperature was 98.6°F (37°C). The abdomen was protuberant with the liver extending 10 centimeters below the right costal margin and the spleen 5 centimeters below the left costal margin. Scaling erythroderma, numerous erythematous subcutaneous nodules (3 - 5 mm in diameter) and pustules were present on his lower and upper extremities. ( See Figures 1 through 4 .)
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Figure 3. Physical finding.
+Figure 4. Physical finding.
+Studies
+The white blood cell count (WBC) was 8,700 cells per cubic millimeter (38% neutrophils, 6% bands, 24% lymphs, 7% monocytes, 25% eosinophils), hematocrit 26%, and platelets 63,000 per cubic millimeter. The levels of T-lymphocyte and B-lymphocyte cell counts were normal, but the CD8 T-lymphocyte cell count was very low. There was a diffuse elevation of immunoglobulin (Ig) G, IgM, IgA and IgE levels. No antibody response to tetanus was seen. Mitogen stimulation showed significantly decreased lymphocyte response to concavalin A, phytohemaglutinin and pokeweed mitogen. The findings were consistent with severe combined immunodeficiency.
+Clinical Course Prior to Diagnosis
+Numerous blood cultures were negative. A diagnostic test was performed.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of a skin biopsy revealed mixed granulomatous dermatitis with numerous acid-fast bacilli (AFB) present. Examination of a bone marrow biopsy revealed multiple small non-caseating granulomas. Cultures of the skin and bone marrow grew Mycobacterium marinum .
+Discussion
+Mycobacterium marinum is a well-described cause of cutaneous infection. After an exposure to contaminated waters, the infection can disseminate systematically especially in an immunocompromised host. M. marinum grows poorly at temperatures greater than 37°C, which explains the typical distribution of the skin lesions over upper and lower extremities.
+Final Diagnosis
+Disseminated Mycobacterium marinum infection in an infant with severe combined immunodeficiency.
+References
+Parent LJ, Salam MM, Appelbaum PC, Dossett JH. (1995).Disseminated Mycobacterium marinum infection and bacteremia in a child with severe combined immunodeficiency.Clin Infect Dis. 1995 Nov;21(5):1325-7.
+PMID:8589169 ( PubMed abstract )
+Petrini B. (2006). Mycobacterium marinum: ubiquitous agent of waterborne granulomatous skin infections.Eur J Clin Microbiol Infect Dis. 2006 Oct;25(10):609-13.
+PMID:17047903 ( PubMed abstract )

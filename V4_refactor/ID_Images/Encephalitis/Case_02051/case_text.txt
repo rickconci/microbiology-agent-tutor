@@ -1,0 +1,25 @@
+History of Present Illness
+Summary: A man with headache, fever and confusion.
+A man in his sixties developed a frontal headache, fever to 104°F (40°C), lethargy, and rapidly progressive extremity weakness (right greater than left) over 24 hours in late August.
+Past Medical History
+There was a history of hypertension and prostate cancer, for which he had had a transurethral resection of the prostate (TURP), with a negative metastatic evaluation, a few years earlier.
+Medications
+Medications included atenolol and aspirin.
+Epidemiological History
+He lived in Massachusetts, and had traveled to Cape Cod 3 weeks before admission. He had no animal exposures and enjoyed gardening as a hobby.
+Physical Examination
+On examination, the temperature was 101°F (38.3°C), and there was marked lethargy, confusion, and spastic quadriparesis with sensory sparing.
+Studies
+The peripheral white blood cell (WBC) count was 9900 cells/mm³ with a normal differential. The level of plasma sodium was 134 mmol/liter; the glucose level was normal. The lumbar puncture revealed a white cell count of 1196 cells/mm³ (80% neutrophils, 2% lymphocytes, and 18% monocytes); the red cell count was 12 cells/mm³; protein measured 140 mg/dL and glucose 74 mg/dL. Magnetic resonance imaging (MRI) is shown in Figures 1 and 2 .
+Figure 1. Head MRI scan.
+Figure 2. Diffusion-weighted MRI scan.
+Diagnostic Procedure(s) and Result(s)
+Serum and CSF were positive for Eastern Equine Encephalitis indirect fluorescent antibody and IgM capture by enzyme immunoassay (EIA). A tenfold rise in the titer of the serum IgM capture EIA occurred over 5 days.
+His MRI findings were notable for upper pons, tectal plate, left temporal lobe, left occipital lobe, bilateral internal capsule and left postero-lateral fourth ventricle hyperintensities in T2 and FLAIR images ( Figure 1 ) with a bright signal in the diffusion-weighted images in these areas ( Figure 2 ).
+Discussion
+The presentation with fever, headache, confusion, and basal ganglia changes on MRI in August all strongly suggest an arboviral infection, particularly Eastern Equine Encephalitis. Herpes encephalitis typically involves the temporal lobes. Pneumococcus, Listeria , and Cryptococcus can all cause meningitis, but typically these abscesses are associated with enhancement on imaging.
+Final Diagnosis
+Eastern Equine Encephalitis
+References
+Davis, L.E., Beckham, J.D., and Tyler, K.L. (2008). North American encephalitic arboviruses. Neurol Clin 26, 727-757, ix.
+PMID:18657724 ( PubMed abstract )
