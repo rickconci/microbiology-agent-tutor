@@ -3,8 +3,12 @@
  * Wires all modules together on DOMContentLoaded.
  */
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', async () => {
     DOM.init();
+
+    if (typeof populateOrganismSelect === 'function') {
+        await populateOrganismSelect();
+    }
 
     if (typeof initCaseImageLightbox === 'function') {
         initCaseImageLightbox();

@@ -45,7 +45,7 @@ templates = Jinja2Templates(directory=str(SRC_SIMPLIFIED_DIR / "api" / "template
 
 # Mount static files using absolute paths so startup cwd does not matter.
 app.mount("/static", StaticFiles(directory=str(SRC_SIMPLIFIED_DIR / "api" / "static")), name="static")
-app.mount("/images", StaticFiles(directory=str(PROJECT_ROOT / "ID_Images")), name="images")
+app.mount("/images", StaticFiles(directory=str(PROJECT_ROOT / "data" / "cases" / "ID_Images")), name="images")
 
 # Initialize Feedback Tool
 feedback_tool = FeedbackTool(
@@ -151,14 +151,21 @@ async def root(request: Request):
 
 @app.get("/api/v1/organisms")
 async def get_available_organisms():
-    """Get list of organisms that have pre-generated cases available."""
+    """Get list of organisms / case paths available from cache and ID_Images."""
     loader = CaseLoader()
-    organisms = loader.list_available_organisms()
+    manual_keys = sorted(loader.manual_cases.keys(), key=str.lower)
+    cached_only = sorted(
+        [k for k in loader.cases.keys() if k not in loader.manual_cases],
+        key=str.lower,
+    )
+    combined = loader.list_available_organisms()
     return {
         "status": "success",
-        "organisms": organisms,
-        "hpi_organisms": organisms, # Simplified: same list
-        "count": len(organisms)
+        "manual_cases": manual_keys,
+        "cached_organisms": cached_only,
+        "organisms": combined,
+        "hpi_organisms": combined,
+        "count": len(combined),
     }
 
 @app.post("/api/v1/start_case")

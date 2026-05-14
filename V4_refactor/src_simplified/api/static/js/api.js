@@ -48,6 +48,82 @@ function getAllOrganisms() {
     return orgs;
 }
 
+/**
+ * Human-readable label for a backend organism / case path key.
+ * @param {string} key
+ * @returns {string}
+ */
+function formatOrganismLabel(key) {
+    if (!key) return '';
+    if (key.includes('/')) {
+        const idx = key.indexOf('/');
+        const folder = key.slice(0, idx);
+        const casePart = key.slice(idx + 1);
+        const topic = folder.replace(/_/g, ' ');
+        const caseNum = casePart.replace(/^Case_/, '').replace(/_/g, ' ');
+        return `Case ${caseNum} (${topic})`;
+    }
+    if (key.startsWith('Case_')) {
+        return `Case ${key.replace(/^Case_/, '').replace(/_/g, ' ')}`;
+    }
+    return key.replace(/_/g, ' ');
+}
+
+/**
+ * Fetch cases from the API and fill the organism select (placeholder + Random preserved).
+ * @returns {Promise<void>}
+ */
+async function populateOrganismSelect() {
+    const sel = DOM.organismSelect;
+    if (!sel) return;
+
+    const frag = document.createDocumentFragment();
+    const optPlaceholder = document.createElement('option');
+    optPlaceholder.value = '';
+    optPlaceholder.textContent = '-- Choose a curated case --';
+    const optRandom = document.createElement('option');
+    optRandom.value = 'random';
+    optRandom.textContent = 'Random';
+    frag.appendChild(optPlaceholder);
+    frag.appendChild(optRandom);
+
+    try {
+        const res = await fetch(`${API_BASE}/organisms`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        const manual = Array.isArray(data.manual_cases) ? data.manual_cases : [];
+        const cached = Array.isArray(data.cached_organisms) ? data.cached_organisms : [];
+
+        if (manual.length) {
+            const g = document.createElement('optgroup');
+            g.label = 'ID Images cases';
+            for (const key of manual) {
+                const o = document.createElement('option');
+                o.value = key;
+                o.textContent = formatOrganismLabel(key);
+                g.appendChild(o);
+            }
+            frag.appendChild(g);
+        }
+        if (cached.length) {
+            const g = document.createElement('optgroup');
+            g.label = 'Cached curriculum';
+            for (const key of cached) {
+                const o = document.createElement('option');
+                o.value = key;
+                o.textContent = formatOrganismLabel(key);
+                g.appendChild(o);
+            }
+            frag.appendChild(g);
+        }
+    } catch (e) {
+        console.error('[ORGANISMS] Failed to load case list:', e);
+    }
+
+    sel.innerHTML = '';
+    sel.appendChild(frag);
+}
+
 // ── module selection helpers ─────────────────────────────────────────────
 
 function getSelectedModules() {

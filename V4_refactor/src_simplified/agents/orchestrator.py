@@ -87,6 +87,10 @@ class Orchestrator:
             self.image_path: str | None = case_data["path"]
             if organism_name == "Case_07011":
                 self.organism_name = "staphylococcus aureus"
+            elif "/" in organism_name:
+                # Nested ID_Images layout: OrganismFolder/Case_ID → CSV / prompts organism slug
+                folder = organism_name.split("/", 1)[0]
+                self.organism_name = folder.replace("_", " ").lower()
             else:
                 self.organism_name = organism_name
         else:

@@ -735,7 +735,7 @@ def build_parser() -> argparse.ArgumentParser:
         help="Top-nav search type for --search-query (default: Cases).",
     )
 
-    parser.add_argument("--output-dir", default="ID_Images", help="Output root directory (default: ID_Images).")
+    parser.add_argument("--output-dir", default="data/cases/ID_Images", help="Output root directory (default: data/cases/ID_Images).")
     parser.add_argument(
         "--storage-state",
         default=str(DEFAULT_STORAGE_STATE),
