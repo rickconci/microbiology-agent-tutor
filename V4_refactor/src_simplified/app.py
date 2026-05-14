@@ -147,7 +147,7 @@ class ClarifyRequest(BaseModel):
 
 @app.get("/", response_class=HTMLResponse)
 async def root(request: Request):
-    return templates.TemplateResponse("index.html", {"request": request})
+    return templates.TemplateResponse(request, "index.html")
 
 @app.get("/api/v1/organisms")
 async def get_available_organisms():
