@@ -1,28 +1,46 @@
-"""Thin OpenAI chat-completion wrapper.
+"""Thin chat-completion wrapper for OpenAI or Azure OpenAI.
 
-LLM errors are logged with full traceback and re-raised — never swallowed.
+Uses ``USE_AZURE_OPENAI``. LLM errors are logged with full traceback and re-raised.
 """
 
 from __future__ import annotations
 
 import logging
+from typing import Union
 
-from openai import OpenAI
+from openai import AzureOpenAI, OpenAI
 
 from ..config.config import config
 
 logger = logging.getLogger(__name__)
 
-_client: OpenAI | None = None
+_client: Union[OpenAI, AzureOpenAI, None] = None
 
 
-def _get_client() -> OpenAI:
-    """Lazy-init the OpenAI client so importing this module never fails."""
+def _get_client() -> Union[OpenAI, AzureOpenAI]:
+    """Lazy-init client; Azure uses deployment names as ``model``."""
     global _client
-    if _client is None:
-        if not config.OPENAI_API_KEY:
-            raise RuntimeError("OPENAI_API_KEY is not set; cannot create OpenAI client.")
-        _client = OpenAI(api_key=config.OPENAI_API_KEY)
+    if _client is not None:
+        return _client
+
+    if config.USE_AZURE_OPENAI:
+        if not config.AZURE_OPENAI_ENDPOINT or not config.AZURE_OPENAI_API_KEY:
+            raise RuntimeError(
+                "USE_AZURE_OPENAI=true but AZURE_OPENAI_ENDPOINT or AZURE_OPENAI_API_KEY is missing."
+            )
+        endpoint = config.AZURE_OPENAI_ENDPOINT.rstrip("/")
+        _client = AzureOpenAI(
+            azure_endpoint=endpoint,
+            api_key=config.AZURE_OPENAI_API_KEY,
+            api_version=config.AZURE_OPENAI_API_VERSION,
+        )
+        logger.info("LLM client: Azure OpenAI (%s, api_version=%s)", endpoint, config.AZURE_OPENAI_API_VERSION)
+        return _client
+
+    if not config.OPENAI_API_KEY:
+        raise RuntimeError("USE_AZURE_OPENAI=false but OPENAI_API_KEY is not set.")
+    _client = OpenAI(api_key=config.OPENAI_API_KEY)
+    logger.info("LLM client: OpenAI (personal key)")
     return _client
 
 
@@ -33,12 +51,8 @@ def chat_complete(
     max_tokens: int = 1000,
     response_format: dict | None = None,
 ) -> str:
-    """Call OpenAI chat-completion and return the assistant's text content.
-
-    Raises whatever the OpenAI SDK raises (``openai.OpenAIError`` and subclasses)
-    — callers must decide how to recover.
-    """
-    del temperature, max_tokens  # not currently forwarded; preserved for API stability
+    """Call chat completions; ``model`` is an Azure deployment ID or OpenAI model name."""
+    del temperature, max_tokens  # preserved for API stability with callers
     kwargs: dict = {"model": model, "messages": messages}
     if response_format:
         kwargs["response_format"] = response_format

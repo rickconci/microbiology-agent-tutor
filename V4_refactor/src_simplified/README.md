@@ -13,7 +13,7 @@ cd V4_refactor
 PYTHONPATH=. uvicorn src_simplified.app:app --reload --port 5001
 ```
 
-Open <http://localhost:5001>. Required env: `OPENAI_API_KEY` (see `config/config.py` for the rest).
+Open <http://localhost:5001>. With `USE_AZURE_OPENAI=true`, set `AZURE_OPENAI_*` (deployment ID usually `gpt-5-mini`). Otherwise set `OPENAI_API_KEY` and `PERSONAL_OPENAI_MODEL`. See `config/config.py`.
 
 ---
 

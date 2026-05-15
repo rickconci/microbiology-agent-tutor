@@ -409,8 +409,9 @@ async def clarify_question(request: Dict[str, Any]):
 @app.get("/api/v1/config")
 async def get_config():
     return {
-        "use_azure": True,
-        "current_model": config.MODEL_NAME
+        "use_azure": config.USE_AZURE_OPENAI,
+        "current_model": config.MODEL_NAME,
+        "azure_deployment": config.AZURE_OPENAI_DEPLOYMENT_NAME if config.USE_AZURE_OPENAI else None,
     }
 
 # --- Stub Endpoints for Missing Features ---
