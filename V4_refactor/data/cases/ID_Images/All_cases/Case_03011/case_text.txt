@@ -1,0 +1,50 @@
+History of Present Illness
+IDSA 2003 Summary: A man with fever, fatigue, and abdominal pain.
+A man in his thirties was seen in the Emergency Room with fatigue, fever, new-onset jaundice, and right upper quadrant abdominal pain. The patient reported fatigue for the previous six weeks. Two weeks before admission, fevers, chills, and night sweats developed. He was evaluated at a health services clinic. Blood tests revealed elevated liver transaminases. A monospot test was negative; a presumptive diagnosis of mononucleosis was made. The patient was advised to take antipyretics for symptomatic relief.
+He continued to experience fatigue and fever. The patient medicated himself with oral tetracycline during the week before admission. He was seen in an Emergency Department with persistent fever, two days of intermittent epigastric and right upper quadrant pain, and one day of scleral icterus. He denied rash, nausea, vomiting, or diarrhea.
+Past Medical History
+He had a history of depression. Testing for hepatitis B virus surface antigen and antibodies to hepatitis A and C viruses and human immunodeficiency virus (HIV) had been negative within the preceding two years.
+Medications
+Medications included fluoxetine, ibuprofen and naproxen.
+Epidemiological History
+The patient was originally from southern Europe. He had most recently traveled there seven months earlier, without illness at that time. He denied other travel, as well as alcohol, tobacco, or intravenous drug use. He was bisexual.
+Physical Examination
+In the emergency room, he was an ill-appearing, diaphoretic male, lying in bed. The temperature was 38.7°C (101.7°F) orally, pulse 119 beats per minute, respirations 29 breaths per minute, blood pressure 93/56 mm Hg, and oxygen saturation 95% while breathing ambient air. He had scleral icterus, clear lungs, and normal heart sounds with tachycardia. There was mild tenderness to deep palpation in the epigastric region and right upper quadrant, without rebound or guarding. The liver was enlarged; the edge was palpable below the costal margin. The rectal exam was guaiac-negative. There was no peripheral edema, and the remainder of the examination was normal.
+Studies
+The white blood cell count (WBC) was 17,000/mm³ with increased bands, hemoglobin 10.1 g/dL, and platelets 69,000/mm³. The level of serum urea nitrogen (BUN) was 28 mg/dL, creatinine 1.8 mg/dL, the anion gap 10, aspartate aminotransferase (AST) 76 U/L, alanine aminotransferase (ALT) 121 U/L, alkaline phosphatase 419 U/L, total bilirubin 7.1 mg/dL, and direct bilirubin 5.2 mg/dL.
+The arterial blood gas had a pH of 7.41, partial pressure of carbon dioxide (pCO2) 42 mm Hg, and partial pressure of oxygen (pO2) 77 mm Hg on ambient air.
+Abdominal ultrasonography revealed moderate gallbladder wall thickening, measuring 6.7 mm, with pericholecystic edema. There was no evidence of cholecystitis or ductal dilatation, and mild hepatosplenomegaly was noted.
+Clinical Course Prior to Diagnosis
+The systolic blood pressures ranged from 80 to 100 mm Hg, and intravenous fluids were administered. The patient was admitted to the Intensive Care Unit for presumed ascending cholangitis and septic shock. He was empirically treated with ampicillin-sulbactam. During the following eight hours, the patient became increasingly hypotensive, tachypneic and hypoxic. A chest radiograph revealed bilateral patchy infiltrates and the patient was subsequently intubated.
+On the second hospital day, computed tomography (CT) of the abdomen and pelvis with intravenous and oral contrast revealed marked hepatosplenomegaly with possible splenic infarcts, moderate upper abdominal, retroperitoneal, and pelvic adenopathy and a dilated heart. There was no evidence for cholangitis. A bronchoscopy was performed to evaluate the possibility of infection and alveolar hemorrhage after the appearance of bloody mucus in endotracheal secretions.
+On the third hospital day, blood cultures that were drawn on admission grew gram-variable coccobacilli from both the aerobic and anaerobic cultures. The carbol fuchsin stain from a culture is shown in Figure 1.
+Figure 1. Carbol fuchsin stain of blood culture.
+Diagnostic Procedure(s) and Result(s)
+A transthoracic echocardiogram showed normal left ventricular function with mild chamber enlargement. The study also showed an abnormality consistent with either a flail aortic valve cusp or aortic valve vegetation with severe aortic insufficiency. Two large vegetations (measuring roughly 1.5 cm by 1.7cm and 0.7 cm by 0.7cm) were on the mitral valve, and two regurgitant jets of mitral regurgitation were evident.
+Two sets of blood cultures from admission grew Haemophilus parainfluenzae on the fifth hospital day.
+Treatment and Followup
+The patient rapidly developed cardiogenic shock requiring vasopressor and inotropic support. Antibiotic therapy was changed to imipenem and dialysis was initiated for worsening acidosis. CT scanning of the head showed multiple focal hypodensities within the right frontal lobe.
+Emergent aortic and mitral valve replacements with St. Jude’s mechanical valves were performed on the fourth hospital day. Intraoperative findings included perforated anterior and posterior leaflets of the mitral valve and vegetations on the aortic valve. (See Figure 2 below.)
+Therapy was changed to ceftriaxone following the identification of the pathogen as Haemophilus species. The post-operative course was complicated by congestive heart failure, which was managed medically, and the development of a pericardial effusion that required drainage.
+Following a six-week hospitalization, the patient had a complete recovery of his renal function and a mild residual left upper and lower extremity weakness.
+Other laboratory tests included a positive Hepatitis B surface antigen, negative Hepatitis B surface antibody, positive Hepatitis B core antibody, and the presence of HIV-1 antibodies with CD4 T-lymphocyte cell count of 408 cells/mm³.
+Figure 2. Mitral and aortic valves following resection.
+Figure 3. Haemophilus speciation plate (see Discussion).
+Discussion
+This is a case of subacute endocarditis that presented as right upper quadrant pain. The patient’s abdominal complaints and the absence of other peripheral signs of endocarditis led to increased difficulty in making the diagnosis of endocarditis for several days. Prior to diagnosis, the patient underwent multiple studies including abdominal ultrasound, CT scanning, and bronchoscopy. The patient did eventually develop evidence of septic embolization to multiple organs including spleen, brain, kidney, as well as (presumably) the liver and gastrointestinal tract emboli that had resulted in his abdominal pain.
+The pathogen Haemophilus parainfluenzae belongs to the group of pleomorphic, fastidious gram-negative rods collectively referred to as the HACEK organisms (Mandell, Douglas and Bennett 2000). The microbiological growth characteristics of this group are notable for slow growth and a preference for carbon dioxide for growth on solid medium. Haemophilus species are usually coccobacillary to rod-shaped (see Figure 1 above), and most are normal oral and pharyngeal flora (Mandell, Douglas and Bennett 2000).
+Classification among Haemophilus species is based on requirements of X (hemin) and V (nicotinamide adenine dinucleotide) growth factors, carbon dioxide, and biochemical testing (King 1983). The initial identification of this patient isolate as Haemophilus species was expedited with the use of 16S ribosomal sequence analysis.
+The species specific identification of our patient’s isolate is based on requirement of V but not X growth factor, lack of hemolysis, and additional biochemical tests. Figure 3 (above) shows these growth characteristics in a plate divided in quadrants. In counterclockwise direction from the top, lack of hemolysis on horse blood, no growth in presence of X factor, growth in presence of V factor, and growth in presence of both X and V factor is seen.
+This case illustrates many features classically seen with Haemophilus endocarditis. Haemophilus parainfluenzae is the most common cause of Haemophilus endocarditis (Darras-Jolly et al 1997). The typical clinical syndrome consists of the insidious onset of an unexplained, prolonged febrile illness and nonspecific signs and symptoms (Ellner et al 1979). In a review of 42 cases of Haemophilus endocarditis from France, the mean duration of disease before diagnosis was 34 days, with a range from two days to one year.
+H. parainfluenzae endocarditis is frequently associated with a high incidence of systemic embolization (Darras-Jolly et al 1997, Ellner et al 1979, Lynn et al 1977). Despite bacteriologic response to antibiotics, significant morbidity and mortality usually results from the development of systemic embolization and congestive heart failure both during and following the course of antibiotic therapy (Ellner et al 1979). This case illustrates the challenge of diagnosing endocarditis and the importance of a high index of clinical suspicion.
+Final Diagnosis
+Haemophilus parainfluenzae endocarditis.
+References
+Darras-Joly, C., Lortholary, O., Mainardi, J.L., Etienne, J., Guillevin, L., and Acar, J. (1997). Haemophilus endocarditis: report of 42 cases in adults and review. Haemophilus Endocarditis Study Group. Clin Infect Dis 24, 1087-1094.
+PMID:9195062 ( PubMed abstract )
+Ellner, J.J., Rosenthal, M.S., Lerner, P.I., and McHenry, M.C. (1979). Infective endocarditis caused by slow-growing, fastidious, Gram-negative bacteria. Medicine (Baltimore) 58, 145-158.
+PMID:431400 ( PubMed abstract )
+King, E. (1983). Revised Tables from The Identification of Unusual Pathogenic Gram Negative Bacteria (Atlanta, Department of Health and Human Services, CDC)
+Lynn, D.J., Kane, J.G., and Parker, R.H. (1977). Haemophilus parainfluenzae and influenzae endocarditis: a review of forty cases. Medicine (Baltimore) 56, 115-128.
+PMID:321916 ( PubMed abstract )
+Mandell GL, B.J., Dolin R (2000). Principles and Practice of Infectious Diseases (Philadelphia, Churchill Livingstone)

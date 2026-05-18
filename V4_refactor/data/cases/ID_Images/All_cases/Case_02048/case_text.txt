@@ -1,0 +1,32 @@
+History of Present Illness
+Summary: A man in his fifties with rapidly progressive fever and leg swelling.
+A man in his fifties with a history of type II diabetes and morbid obesity underwent a vein stripping on both lower extremities at a tertiary care medical center. The procedure was complicated by cellulitis, necessitating two weeks in hospital for intravenous antibiotics and two more weeks of outpatient oral antibiotics. He noted that an ulcer had never completely healed at his surgical site on his right lower extremity. The ulcer initially drained purulent material, but with the extended course of antibiotics, it had developed an eschar and closed over. He was able to return to work.
+In early summer, two weeks before this presentation, he went on a vacation to Virginia Beach and submerged his ulcer in seawater. On the day of presentation, he went swimming in his backyard pool and noted some right lower extremity pain. He then went to work, but over the next several hours, the right leg pain dramatically worsened and he developed swelling of his leg, with fever, malaise and rigors.
+Past Medical History
+He had type II diabetes mellitus, hypertension, morbid obesity, obstructive sleep apnea and gout.
+Medications
+Medications included atenolol, enteric-coated acetylsalicylic acid, furosemide, lisinopril and insulin (NPH and lispro).
+Epidemiological History
+He lived and worked in suburban New England. A scratch on his leg by his cat had healed over several days before his acute illness. He had a history of previous tobacco abuse, and reported no alcohol abuse, illicit drugs use or foreign travel.
+Physical Examination
+He appeared uncomfortable and toxic. The temperature was 102.2°F (39°C), pulse 73 beats/minute, blood pressure 144/78 mm Hg, respiratory rate 20/minute and oxygen saturation 98% on supplemental oxygen (3L). There were dry mucous membranes, chronic venous stasis changes on both legs, a very edematous right lower extremity, with purple discoloration notable over the shin, a crusted shallow ulcer (1 cm diameter) medially and exquisite tenderness below his right knee. (See Figures 1 and 2 .)
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count (WBC) was 13,200 cells/mm³ (84% neutrophils, 5% bands, 6% lymphocytes, 3% monocytes). The serum level of urea nitrogen (BUN) was 51 mg/dL, creatinine 1.7 mg/dL (baseline 1.5 mg/dL). Electrolytes and tests of liver function were normal. Urinalysis and a chest radiograph were negative. A radiograph of his right leg was reported to show pronounced distal soft-tissue swelling and mid-tibial periosteal reaction; the radiologist noted that one “cannot exclude osteomyelitis”.
+Clinical Course Prior to Diagnosis
+He was felt to have cellulitis and ampicillin-sulbactam was administered given concern for polymicrobial involvement. Doppler ultrasound of the lower extremity was negative for a deep venous thrombosis (DVT). However, he remained febrile. By the 3rd hospital day, his leg had not yet responded to intravenous antibiotics.
+Diagnostic Procedure(s) and Result(s)
+Blood cultures drawn on admission grew Vibrio parahaemolyticus ( Figure 3 ).
+Figure 3. Gram stain of blood culture. (Photo by Lynn Bry, M.D.)
+Treatment and Followup
+After the patient’s blood cultures grew V. parahaemolyticus , the antibiotic regimen was changed to levofloxacin and clindamycin to cover for possible Gram-positive superinfection. Bone and gallium scans were negative for osteomyelitis. After the isolate was found to be sensitive to tetracyclines, he was discharged on a two-week course of doxycycline.
+Discussion
+Vibrio parahaemolyticus is a relatively common cause of food-borne gastrointestinal illness worldwide. As the organism grows relatively poorly in a colder environment, the incidence of disease increases in the summer. This species, like most Vibrio species, grows best in the presence of salt. Vibrio species generally grow well on laboratory media but automated systems may have difficulty correctly identifying isolates. Filter-feeding organisms, particularly shellfish and mollusks, can accumulate large numbers of Vibrio species in the process of eating; this, in turn, exposes humans who eat raw shellfish to a large inoculum. The gastrointestinal illness caused by V. parahaemolyticus is relatively benign and self-limited; antibiotics are generally not indicated. Primary septicemia is much less common than with V. vulnificus , but presents with fulminant shock after oral ingestion of contaminated food. Most cases occur in patients with underlying liver disease or alcohol abuse, and mortality approaches 30%. Wound infection with V. parahaemolyticus (as in our patient) is also uncommon and usually follows an injury on a submerged body part or exposing an existing wound to seawater. Mortality is less than 5%, but most cases occur in patients with diabetes, liver disease or alcohol abuse.
+Final Diagnosis
+Vibrio parahaemolyticus wound infection with bacteremia.
+References
+Howard, R.J., Pessa, M.E., Brennaman, B.H., and Ramphal, R. (1985). Necrotizing soft-tissue infections caused by marine vibrios. Surgery 98, 126-130.
+PMID:4012603 ( PubMed abstract )
+Oliver, J.D. (2005). Wound infections caused by Vibrio vulnificus and other marine bacteria. Epidemiol Infect 133, 383-391.
+PMID:15962544 ( PubMed abstract )

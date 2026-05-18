@@ -1,0 +1,47 @@
+History of Present Illness
+2015 May-June Featured Case: A man in his fifties was in good health until three days before presentation when he reportedly relapsed from a period of abstinence from drug use and injected into his left forearm a single dose of heroin, using an old hypodermic needle he had previously used (but not shared). The injected drug was reportedly boiled in tap water, without alcohol.
+The next day, he noted redness of his conjunctiva and itching of the eye, with normal vision. Later that day, nausea, vomiting and increasing fatigue occurred. The following day, one day before presentation, he awoke with periorbital swelling, eyelid erythema, and pain and blurred vision of the left eye. He was seen by local healthcare providers, and ophthalmic preparations of tobramycin, steroids and cyclopentolate hydrochloride were administered. The next day, two days after the onset of his symptoms, his symptoms worsened, pain increased to 9 on a scale of 0 to 10 (where 10 is the most severe) and vision worsened to perception of light only. He went to the emergency department of another hospital for evaluation, where brimonidine and timolol were administered, and he was referred to a hospital specializing in ophthalmology.
+He reported no ocular trauma, recent fevers, chills, sweats, weight loss, headache, sinus pain, rhinorrhea, ear ache, neck stiffness, chest pain, respiratory symptoms, back pain, diarrhea, rash or skin changes, dysuria, penile discharge, joint pain or swelling, or edema.
+Past Medical History
+He had a past history of injection drug use, reportedly with negative screening tests for HIV and hepatitis B and C virus infection.
+Medications
+He was taking methadone.
+Physical Examination
+The temperature was 100.0°F (37.8°C), and the remaining vital signs were normal. On ophthalmologic examination, there was corneal edema and chemosis, with very poor view of the anterior chamber, and a hypopyon (3mm in height) in the left eye. He had an afferent pupillary defect. On dilated examination, the retina could not be seen. There was significant vitreal debris and choroidal thickening. There was no evidence of corneal injury or trauma. The right eye and extraocular movements were normal. The injection site in the left arm was clean and dry, without evidence of cellulitis, and the remainder of the examination was normal.
+Studies
+The white blood count was 14,000 per cubic millimeter, (reference range 4500-11,000), with 77.4% polymorphonuclear leukocytes. Toxic screening of the urine was positive for opioids.
+Computed tomography (CT) of his orbit, performed with intravenous contrast, showed orbital stranding around and posterior to the globe and around the optic nerve, with some preseptal edema. The aqueous and vitreous compartments of the left globe appeared symmetric in size and attenuation with respect to the right eye and there was mild left proptosis. The extraocular muscles were symmetric in size and attenuation with respect to the right. There was no retrobulbar mass lesion, erosion of the bony structures of the left orbit and, with the exception of mild mucosal thickening in the ethmoid air cells, the paranasal sinuses were clear. Ultrasound of the left eye revealed extensive hyperreflective vitreous opacities.
+Transthoracic echocardiography showed no evidence of valvular lesions.
+Clinical Course Prior to Diagnosis
+A diagnosis of endophthalmitis was made. After the administration of local anesthetics, a tap of the anterior chamber (AC) of the left eye was performed; 0.1 cc of fluid was aspirated and cultured. Gram stain of the aspirate showed many polymorphonuclear leukocytes but no organisms
+An attempt was also made to tap the posterior chamber vitreous, however no fluid was removed. This procedure was followed by intravitreal injection of vancomycin (1mg), ceftazidime (2mg), and amphotericin (5mcg), and placement of a drop of gatifloxacin. Intraocular pressure was recorded at 68 mm Hg, and decreased to 20 mm Hg after an additional AC tap was performed.
+The patient was transferred and admitted to another hospital for further care. Physical findings of the left eye after the anterior chamber fluid aspiration and intravitreal injection are shown in Figure 1 (with hypopyon within the anterior chamber). Medications included drops of moxifloxacin four times daily, timolol 0.5% two times daily, dorzolamide 2% two times daily, and brimonidine tartrate 0.2% three times daily, all to the left eye, and vancomycin, ampicillin, and sulbactam intravenously.
+The next day, the culture broth of the anterior chamber aspirate was positive; gram stain of the culture is shown in Figure 2 .
+Figure 1. Physical findings after anterior aspiration.
+Figure 2. Gram stain of culture of anterior chamber aspirate.
+Diagnostic Procedure(s) and Result(s)
+Cultures of the anterior chamber aspirate grew gram-positive rods, and Bacillus cereus group (but not B. anthracis) was identified. Culture of the organism grown on trypticase soy agar (TSA) with sheep blood is seen in Figure 3 (showing hemolysis); gram stain of the organism is seen in Figure 4 .
+Figure 3. Bacillus cereus group, not B. anthracis , grown on TSA with sheep blood.
+Figure 4. Gram stain of Bacillus cereus group, not B. anthracis .
+Treatment and Followup
+The day after admission, pars plana vitrectomy was performed, with removal of the lens, membrane peel and injection of antibiotics.
+External view of the left eye after surgery ( Figure 5 ) revealed aphakia (lens removal) with synthetic absorbable sutures on the nasal side, extensive corneal edema and no evidence of a hypopyon. Discomfort significantly decreased after the surgical procedure.
+During the next month, a tractional retinal detachment and ciliary body detachment developed. Three months after his initial presentation, a repeat vitrectomy was performed, with membrane peel, retinectomy, and placement of silicone oil. However, a combined tractional and rhegmatogenous retinal detachment of the left eye occurred, resulting in persistent loss of vision. Further surgical repair was not possible due to the extensive scarring and fibrosis.
+Additional testing during his first admission revealed the presence of hepatitis C virus and hepatitis B surface antibodies and no evidence of hepatitis B surface antigen. The patient declined other serologic testing.
+Figure 5. Physical findings on 2nd day, after pars plana vitrectomy.
+Discussion
+This patient was diagnosed with endophthalmitis caused by a gram-positive rod, Bacillus cereus group (non-anthracis) after an episode of injection drug use. Bacillus cereus is a spore-forming rod that produces toxins, including multiple enzymes, and has been associated with gastrointestinal illness and asymptomatic fecal carriage [Dobniewski 1993]. Case reports of endogenous endophthalmitis after injection drug use caused by this organism have been published [Kumar et al. 2014; Hatem et al. 1979], but are relatively rare in occurrence. The rapidly progressive nature and poor clinical outcomes associated with eye infections by this organism have been attributed, at least in part, to the production of its destructive enzymes [Drobniewski 1993; Kumar et al. 2014].
+More than 90% of cases of infectious endophthalmitis are caused by exogenous sources [Nishida et al. 2015], following exposure to organisms from penetrating trauma, surgery, injection of medications into the vitreous, or from direct extension from a corneal source [Durand 2013; Miller et al. 2008]. Coagulase-negative staphylococcal species, streptococci and Propionibacterium acnes are organisms frequently identified in exogenous infections following surgery and vitreal injections; when Bacillus cereus infections occur, 70% to 87% have been identified after penetrating trauma [Miller et al. 2008]. Endogenous endophthalmitis may occur with bacteremia associated with endocarditis (often caused by gram-positive cocci including Staphylococcus aureus or streptococci), liver abscess (when seen in Asia, caused by gram-negatives bacilli including Klebsiella), and in immunocompromised and/or hospitalized patients with indwelling intravenous catheters (conditions in which candidal infections may be seen).
+Final Diagnosis
+Endophthalmitis caused by Bacillus cereus group, not B. anthracis , in a patient with injection drug use.
+References
+Drobniewski FA. (1993) Bacillus cereus and related species. Clin Microbiol Rev. 1993 Oct;6(4):324-38.
+PMID:8269390 ( PubMed abstract )
+Durand ML. (2013) Endophthalmitis. Clin Microbiol Infect. 2013 Mar;19(3):227-34.
+PMID:23438028 ( PubMed abstract )
+Kumar N, Garg N, Kumar N, Van Wagoner N. (2014) Bacillus cereus panophthalmitis associated with injection drug use. Int J Infect Dis. 2014 Sep;26:165-6.
+PMID:25016038 ( PubMed abstract )
+Miller JJ, Scott IU, Flynn HW Jr, Smiddy WE, Murray TG, Berrocal A, Miller D (2008) Endophthalmitis caused by Bacillus species. Am J Ophthalmol. 2008 May;145(5):883-8.
+PMID:18295182 ( PubMed abstract )
+Nishida T, Ishida K, Niwa Y, Kawakami H, Mochizuki K, Ohkusu K. (2015) An eleven-year retrospective study of endogenous bacterial endophthalmitis. J Ophthalmol. 2015;2015:261310. Epub 2015 Jan 31.
+PMID:25802752 ( PubMed abstract )

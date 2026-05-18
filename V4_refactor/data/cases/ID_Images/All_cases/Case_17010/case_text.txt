@@ -1,0 +1,64 @@
+History of Present Illness
+An immunosuppressed man in his sixties on adalimumab, methotrexate and prednisone for rheumatoid arthritis presented with 3 weeks of generalized weakness and fatigue, palpitations and confusion preceded by 3 days of dry cough. He reported chills during the first few days but no fever or night sweats. He had no headache, blurry vision, chest pain, diarrhea, rash, dysuria, weight loss. He reported recent constipation.
+He was noted to be in atrial fibrillation (AF) with rapid ventricular rate of 120 per minute, and was sent to a tertiary care center emergency room where he was admitted to the cardiology service for anticoagulation and rate control. He reported a self-resolving episode of post-operative AF and had had an acute myocardial infarction many years ago, which was complicated by mitral regurgitation necessitating valve replacement. His dry cough apparently occurred annually which he attributed to allergies. He experienced no rhinorrhea or post nasal drip.
+Past Medical History
+1. Rheumatoid arthritis on adalimumab (TNF-alpha blocker) every two weeks, methotrexate 15mg oral tablet weekly, and prednisone 10mg oral tablet daily
+2. Skin squamous cell carcinoma
+Epidemiological History
+He is a teetotaler, is married and in a monogamous relationship. He works in construction and lives in Tennessee. He has a dog and cats; all of them stay primarily indoors. He has no known exposure history to tuberculosis. There was no significant recent travel.
+Physical Examination
+The patient appeared comfortable but paused to take a breath after every 2-3 words. His blood pressure was 101/63 mm Hg, pulse was irregular at 89 beats per minute, temperature 98.4°F (Max 100 ° F earlier that day), and respirations 24 breaths per minute. Despite him pausing to take breaths as above, he did not appear to be in distress, nor was he using accessory muscles of respiration. He was oriented but easily distracted. While most of his speech was intact, he would occasionally utter an incomprehensible word. This mental status was noted to be improved according to family who noted confusion prior to his admission. Neurological examination was otherwise normal. The only other positive finding on examination was some tenderness to palpation over his prior adalimumab injection sites at the left lower abdominal quadrant.
+Studies
+The white cell count was 11.2 x 10³ cells per cubic milliliter (normal range, 3.9-10.7) and platelet count of 110 x 10³ cells per cubic milliliter (135-371). Other abnormal initial laboratory findings included a creatinine of 1.72 milligrams per deciliter (0.72-1.25) and a calcium level of 12.7 milligrams per deciliter (8.4-10.5), ionized calcium of 6.38 milligrams per deciliter (4.48-5.28). The albumin level was 2.3 grams per deciliter (thus with a corrected calcium level of 14.1 milligrams per deciliter).
+The parathyroid hormone (PTH) level was 4 picograms per milliliter (normal range, 16-77), 25-hydroxy vitamin D level was 44 nanograms per milliliter (25-80), and the 1,25 dihydroxy-vitamin D level was 177 picograms per milliliter (19.9-79.3). PTH related protein was below the detectable range. Serum and urine protein electrophoreses were normal. Blood cultures were negative.
+Computed tomography of the chest revealed multiple mildly enlarged nodes in the mediastinum, supraclavicular region, mesentery and retroperitoneum, the largest measuring 1.5 centimeters (see Figure 1).
+Figure 1. Computed tomography (CT) scan of the chest demonstrating enlarged mediastinal, supraclavicular, mesenteric, and retroperitoneal lymph nodes, the largest of which was 1.52 cm in diameter (red arrow).
+Clinical Course Prior to Diagnosis
+Patient’s mental status and constipation resolved with improvement in the calcium level after intravenous hydration. Given that this symptomatic hypercalcemia appeared to be driven by an elevated 1,25 dihydroxy-vitamin D, diagnostic studies aimed at elucidating its etiology were planned. During hospital stay, he developed worsening shortness of breath.
+Diagnostic Procedure(s) and Result(s)
+An ultrasound guided right supraclavicular lymph node core biopsy was performed. A DiffQuik -stained touch preparation showed macrophages with numerous small (3-4 microns) intracytoplasmic yeast forms consistent with histoplasmosis. This was confirmed on Gomori Methenamine Silver (GMS) and Periodic acid-Schiff (PAS)-diastase stained samples. The biopsy revealed significant granulomatous inflammation (see Figure 3).
+His urine and serum histoplasma antigen returned positive at 2.42 ng/mL and 13.5 ng/mL, respectively.
+Figure 2. A Diff-Quik stained specimen from a right supraclavicular lymph node core biopsy at 40X magnification reveals macrophages with numerous small (3-4 microns) intracytoplasmic yeast forms consistent with histoplasmosis (red arrow).
+Figure 3. H&E stain of the right supraclavicular lymph node core biopsy demonstrating granulomatous inflammation (red arrow) and giant cells (blue arrow). (40x)
+Treatment and Followup
+He was started on liquid itraconazole loading dose of 200 mg three times a day for three days, followed by maintenance dose of 200 mg twice a day, with plans to treat for at least a year.
+He was seen in Infectious Diseases Clinic a month later for follow up. He noted a significant improvement in his respiratory symptoms. His rheumatologist discontinued adalimumab. The urine and serum histoplasma antigen levels were noted to slowly be decreasing.
+Discussion
+Histoplasma are common endemic fungi, found most abundantly in the Mississippi and Ohio River valleys in the United States [1]. They are dimorphic, found in the soil as mold, usually in soil contaminated with bird and bat droppings [1]. When its spores are inhaled, it transforms into its yeast form in the host tissue [2]. Most patients exposed to Histoplasma infection either remain asymptomatic or experience a self-limiting non-specific flu-like syndrome [2]. Occasionally, patients become symptomatic with pulmonary histoplasmosis. Histoplasmosis can disseminate in certain patients, especially those with a compromised immune system (about 1 in 2000 cases) [3]. This can result in systemic symptoms such as low-grade fevers, weight loss, night sweats, and lymphadenopathy. Rarely, hypercalcemia can be seen with this infection, which is attributed to increased production of 1,25 dihydroxy vitamin D in the granulomas [4]. Symptomatic hypercalcemia as the initial presentation of this infection is extremely rare, and can result in a diagnostic dilemma [4-12].
+Only 9 previous reported instances of disseminated histoplasmosis presenting with hypercalcemia have been reported in the literature [4-12]. Among these, only two cases were on immunosuppressive medications: one was a 56-year-old male who was status-post splenectomy and was on steroid therapy [5]; the other was a 40-year-old woman with rheumatoid arthritis on infliximab, methotrexate, and prednisone, similar to the case presented here [10]. TNF-alpha, a pro-inflammatory cytokine, is required for the efficient clearing of intracellular pathogens and in the formation of granulomas [13]. Thus, the use of TNF-alpha inhibitors may increase the chance of developing chronic granulomatous infections such as histoplasmosis [14].
+In our case, his initial presentation of dehydration, constipation, and confusion resolved quickly with intravenous hydration and correction of the hypercalcemia. Further workup revealed that the hypercalcemia was not mediated by parathyroid hormone (PTH), given his suppressed PTH level. With his constellation of symptoms and mediastinal lymphadenopathy on imaging, malignancy was high on the differential. Thus, a PTH related protein (PTHrP) was checked, which was negative. The next step was to look at the levels of both 1,25 dihydroxy vitamin D and 25 hydroxy vitamin D – usually elevated in granulomatous inflammation and the use of supplements, respectively. The elevated 1,25 vitamin D level pointed towards a granulomatous inflammatory process such as sarcoidosis, histoplasmosis, tuberculosis, etc. The biopsy and the urine histoplasma antigen helped to confirm the diagnosis of histoplasmosis. Sensitivity of the urine histoplasma antigen is higher in more severe disease as well as in immunocompromised patients. A multicenter study in 2011 found that in disseminated infection, antigen testing sensitivity was 91.8% and 100% when tested in urine and serum respectively. Specificity was noted to be 99% among healthy subjects and in patients with nonfungal infections. However, cross-reactivity was noted in patients with blastomycosis [15].
+Given the involvement of multiple non-contiguous lymph nodes, the infection was disseminated. He was assessed to have mild-to-moderate disease given his hemodynamic stability. He was treated with itraconazole, in accordance with guidelines [16], and responded to this medication
+This case highlights the importance of the need for a high index of suspicion for atypical presentations of relatively common endemic infections. These can mimic other conditions such as malignancy, thus delaying accurate diagnosis and, potentially, life-saving therapy.
+Final Diagnosis
+Symptomatic hypercalcemia secondary to histoplasmosis
+References
+Benedict K, Mody RK. Epidemiology of Histoplasmosis Outbreaks, United States, 1938-2013. Emerg Infect Dis 2016; 22:370.
+PMID:26890817 ( PubMed abstract )
+Goodwin RA, Loyd JE, Des Prez RM. Histoplasmosis in normal hosts. Medicine(Baltimore) 1981; 60:231.
+PMID:7017339 ( PubMed abstract )
+Assi MA, Sandid MS, Baddour LM, et al. Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore) 2007; 86:162.
+PMID:17505255 ( PubMed abstract )
+Khasawneh FA, Ahmed S, Halloush RA. Progressive disseminated histoplasmosis presenting with cachexia and hypercalcemia. International Journal of General Medicine. 2013;6:79-83. doi:10.2147/IJGM.S41520.
+PMID:23467543 ( PubMed abstract )
+Walker JV, Baran D, Yakub N, Freeman RB. Histoplasmosis with hypercalcemia, renal failure, and papillary necrosis. Confusion with sarcoidosis. JAMA. 1977;237(13):1350–1352.
+PMID:576482 ( PubMed abstract )
+Murray JJ, Heim CR. Hypercalcemia in disseminated histoplasmosis. Aggravation by vitamin D. Am J Med. 1985;78(5):881–884.
+PMID:3993669 ( PubMed abstract )
+Steele CJ, Kleiman MB. Disseminated histoplasmosis, hypercalcemia and failure to thrive. Pediatr Infect Dis J. 1994;13(5):421–422.
+PMID:8072830 ( PubMed abstract )
+Liu JW, Huang TC, Lu YC, et al. Acute disseminated histoplasmosis complicated with hypercalcaemia. J Infect. 1999;39(1):88–90.
+PMID:10468135 ( PubMed abstract )
+Liang KV, Ryu JH, Matteson EL. Histoplasmosis with tenosynovitis of the hand and hypercalcemia mimicking sarcoidosis. J Clin Rheumatol. 2004;10(3):138–142.
+PMID:17043488 ( PubMed abstract )
+Kamili QA, Menter A. Atypical presentation of histoplasmosis in a patient with psoriasis and psoriatic arthritis on infliximab therapy. J Drugs Dermatol. 2010;9(1):57–60.
+PMID:20120426 ( PubMed abstract )
+Chalhoub E, Elhomsy G, Brake M. Hypercalcemia in histoplasmosis aggravated with antifungal treatment. J Med Liban. 2012;60(3):165–168.
+PMID:23198458 ( PubMed abstract )
+Gupta V, Singhal V, Singh MK, Xess I, Ramam M. Disseminated histoplasmosis with hypercalcemia. J Am Acad Dermatol. 2013 Nov;69(5):e250-1.
+PMID:24124848 ( PubMed abstract )
+Koo S, Marty FM, Baden LR. Infectious complications associated with immunomodulating biologic agents. Infect Dis Clin North Am. 2010;24(2):285–306
+PMID:20466271 ( PubMed abstract )
+Wallis RS, Broder M, Wong J, Lee A, Hoq L. Reactivation of latent granulomatous infections by infliximab. Clin Infect Dis. 2005;41(Suppl 3):S194–S198.
+PMID:15983899 ( PubMed abstract )
+Hage CA, Ribes JA, Wengenack NL, et al. A multicenter evaluation of tests for diagnosis of histoplasmosis. Clin Infect Dis 2011;53:448-54
+PMID:21810734 ( PubMed abstract )

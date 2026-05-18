@@ -1,0 +1,50 @@
+History of Present Illness
+2014 November-December Featured Case: A man in his sixties was seen because of persistent erythema and swelling of the left wrist and distal forearm 18 months after carpal tunnel release.
+Three months after the surgical procedure, debridement of the left wrist was performed and revealed 'rice bodies'. Histopathological examination of the synovial tissue showed chronic inflammation with small non-necrotizing granulomas. No organisms were seen on gram stain or stains for fungi or mycobacteria, and routine bacterial cultures were negative. Testing for rheumatoid factor was negative and angiotensin converting enzyme and serum calcium levels were normal. After the procedure, he reported persistent wrist swelling with mild redness. On examination, there was crepitus in the palm, without pain associated with the swelling.
+Nine months before this evaluation, a course of empiric clarithromycin and rifampin was administered for one month, without improvement. Swelling persisted with progressive deformity of the hand and wrist, resulting in limitation of function, associated with numbness and tingling in the left fourth and fifth digits. He did not have any fever, night sweats or weight loss.
+Past Medical History
+He had hyperlipidemia and a history of carpal tunnel release for ulnar nerve compressive symptoms eighteen months before this presentation.
+Medications
+His only medication was simvastatin.
+Allergies
+He had no drug allergies.
+Social History
+The patient lived with his wife.
+Epidemiological History
+The patient worked as a dairy farmer. He had not traveled outside the country and he did not have any exposure to tuberculosis. A neighbor had been diagnosed with Q fever.
+Physical Examination
+He appeared well. The blood pressure was 143/86 mm Hg, pulse 60 beats per minute, temperature 97.4°F (36.3°C), and respirations 16 breaths per minute. The left wrist was markedly erythematous and swollen. There was no lymphadenopathy and the remainder of the examination was normal.
+Studies
+The erythrocyte sedimentation rate was 32mm/hr (reference range 0-15) and C-reactive protein was 2 mg/dL (reference range 0-1). Testing for rheumatoid factor and antinuclear antibody (ANA) was negative. Results of the quantiferon TB gold test and serological testing for Q fever, Bartonella, and Brucella were also negative. Results of other routine laboratory tests were normal.
+Magnetic resonance imaging (MRI) of the wrist was performed, which showed evidence of marked tenosynovitis and innumerable low-densities resembling 'rice bodies', with no joint abnormalities ( Figure 1 and 2 ).
+Figure 1. MRI of left wrist (axial T2-weighted view) with low-signal masses.
+Figure 2. MRI of the left forearm (sagittal T2-weighted view).
+Clinical Course Prior to Diagnosis
+Irrigation and debridement of the left forearm and left hand were repeated and tenosynovectomy was performed ( ). Tissue removed during the debridement is shown in .
+Figure 3. Intraoperative image of the left wrist.
+Figure 4. Tissue removed during surgical debridement.
+Diagnostic Procedure(s) and Result(s)
+After three weeks, the mycobacterial culture from the tissue grew Mycobacterium avium complex (MAC).
+Treatment and Followup
+The patient was empirically treated with azithromycin, moxifloxacin, rifampin and doxycycline before the culture results were known.
+Susceptibility testing revealed resistance to amikacin (8.0) and rifabutin (0.5), sensitivity to clarithromycin (<4.0) and clofazimine (0.25), and intermediate susceptibility to ciprofloxacin (2.0), rifampin (4.0), ethambutol (5.0) and streptomycin (4.0). When the final culture and susceptibility results were available, doxycycline and moxifloxacin were stopped and ethambutol was started. However, peripheral neuropathy developed; ethambutol was stopped, and levofloxacin was begun.
+At follow up, swelling had improved and he had regained range of motion and function of the hand. The sedimentation rate decreased to 9 mm/hr and the level of C-reactive protein was 0 mg/dL. After six months, therapy was changed to azithromycin and rifampin. The patient did well until five months of a two-drug regimen, when his symptoms relapsed. He was referred to the orthopedic surgeon for another debridement.
+Discussion
+'Rice body' formation is an uncommon inflammatory disorder associated with systemic disorders such as rheumatoid arthritis and tuberculosis infection [Forse et al., 2012]. Rice bodies were first described in 1985 as intra-articular proteinaceous masses composed of fibrin and collagen associated with tuberculosis. Incidence is most common in rheumatoid arthritis, where rice bodies were found in 72% of adult rheumatoid joints upon synovial lavage [Forse et al., 2012]. Musculoskeletal involvement occurs in 5-10% of patients with non-tuberculous mycobacterial infection, which is commonly precipitated by trauma, such as surgery or penetrating injury. The hand and the wrist are the most frequent sites of musculoskeletal involvement for non-tuberculous mycobacterial infection [Chau et al., 2003]. The pathogenesis of rice body formation has not yet been completely determined. Micro-infarction of the synovium with release of tissue into the joint, encasement of fibrin and alteration in viscosity and content of synovial fluid are thought to be contributing factors. Rice bodies have also been isolated from pleural fluid, along tendon sheaths and within bursae, suggestive of a non-synovial origin. [Iyengar et al., 2011].
+The symptoms are nonspecific and usually include local pain and swelling, joint stiffness along with constitutional symptoms. The diagnosis of mycobacterial tenosynovitis is often delayed due to insidious onset of symptoms. The erythrocyte sedimentation rate and C-reactive protein level may be elevated in some patients, but blood tests are generally not helpful [Iyengar et al., 2011; Zenone et al., 1999].
+Both sonography and MR imaging can reveal the presence of rice bodies. Histologic examination may reveal granulomatous inflammation associated with fibrinous rice bodies. The Ziehl-Neelson stain is usually negative and tissue culture is the most important means of identifying the pathogen, although it may take months to obtain a positive result. Mycobacterium marinum is the most common offending agent; however, other mycobacterial species are known to cause tenosynovitis as well [Zenone et al., 1999]. There has been one case report of candidal septic arthritis with rice body formation reported in the literature [Yeong et al., 2013]. Treatment is usually started empirically and patients often respond to synovectomy and antimycobacterial treatment.
+Actinomyces infections can be associated with the production of sulfur granules,
+which are yellow granules that can extrude from abscesses.
+Final Diagnosis
+'Rice body' formation caused by Mycobacterium avium complex (MAC) tenosynovitis.
+References
+Chau CL, Griffith JF, Chan PT, Lui TH, Yu KS, Ngai WK. Rice-body formation in atypical mycobacterial tenosynovitis and bursitis: findings on sonography and MR imaging. AJR Am J Roentgenol. 2003;180(5):1455-9. Epub 2003/04/22. doi: 10.2214/ajr.180.5.1801455.
+PMID:12704068 ( PubMed abstract )
+Forse CL, Mucha BL, Santos ML, Ongcapin EH. Rice body formation without rheumatic disease or tuberculosis infection: a case report and literature review. Clin Rheumatol. 2012;31(12):1753-6. Epub 2012/09/04. doi: 10.1007/s10067-012-2063-8.
+PMID:22941257 ( PubMed abstract )
+Iyengar K, Manickavasagar T, Nadkarni J, Mansour P, Loh W. Bilateral recurrent wrist flexor tenosynovitis and rice body formation in a patient with sero-negative rheumatoid arthritis: A case report and review of literature. Int J Surg Case Rep. 2011;2(7):208-11.
+PMID:22096729 ( PubMed abstract )
+Jeong YM, Cho HY, Lee SW, Hwang YM, Kim YK. (2013) Candida septic arthritis with rice body formation: a case report and review of literature. Korean J Radiol. 2013 May-Jun;14(3):465-9.
+PMID:23690715 ( PubMed abstract )
+Zenone T, Boibieux A, Tigaud S, Fredenucci JF, Vincent V, Chidiac C, et al. Non-tuberculous mycobacterial tenosynovitis: a review. Scand J Infect Dis. 1999;31(3):221-8. Epub 1999/09/11.
+PMID:10482048 ( PubMed abstract )

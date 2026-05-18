@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2001 Case Summary: A man with a fever, cough, arthralgias and abdominal pain.
+A man in his thirties from a large Midwestern city presented with the sudden onset of fever to 103°F (39.4°C) and rigors. Also noted headache, extreme myalgias, arthralgias. He complained of non-productive cough with pleuritic chest pain and shortness of breath, and reported dark urine, abdominal pain, and nausea with one episode of vomiting.
+Two weeks prior, he had returned from a country in Southeastern Africa, and one week prior he had been in Northern Idaho.
+Prior to leaving for Africa, he had received hepatitis A virus (HAV), diphtheria-tetanus (dT) toxoid, measles, and polio vaccines. Once there, he took mefloquine prophylaxis, drank bottled water only, wore N,N-Diethyl-meta-toluamide (DEET) and long pants. He denied bites, had been primarily in major cities, but did venture into rural areas. No one else on the trip was ill.
+In Idaho, he had stayed in a very modern “log” house on a big lake, and had spent time on the water, in the woods on major trails, covered “head to toe” with clothing as the riding was very dusty. He denied insect bites and contact with animals. No one else was ill.
+Epidemiological History
+Refer to the history of the present illness.
+Physical Examination
+The temperature was 99.0°F (37.2°C); the abdomen was diffusely tender, and a faint erythematous rash with light desquamation was present over his trunk and extremities.
+Studies
+The erythrocyte sedimentation rate (ESR) was 65 mm per hour, the white blood cell count (WBC) 6,200 per cubic millimeter, hematocrit 38.8%, and the platelet count was 73,000 per cubic millimeter. Peripheral blood smears are shown in Figures 1 and 2 .
+Figure 1. Thick blood smear.
+Figure 2. Thin blood smear.
+Diagnostic Procedure(s) and Result(s)
+The diagnosis of Tick-borne Relapsing Fever due to Borrelia hermsii was made. The diagnosis was based on the history, clinical findings, and the observance of spirochetes on thick and thin peripheral smears ( Figures 1 and 2 ). Serology is usually not helpful, but IgM was weakly positive for B. hermsii .
+Treatment and Followup
+The patient received a course of doxycycline, with prompt resolution of his symptoms. No Jarisch-Herxheimer reaction was observed.
+Discussion
+Tick-borne Relapsing Fever due to Borrelia hermsii is endemic in Northern Idaho. Its Ornithodoros (soft tick) vector feeds on rodent reservoirs, and inhabits decaying wood and caves. Previous cases have occurred in campers staying in log cabins.
+Final Diagnosis
+Tick-borne relapsing fever due to Borrelia hermsii .
+References
+Dworkin, M.S., Anderson, D.E., Jr., Schwan, T.G., Shoemaker, P.C., Banerjee, S.N., Kassen, B.O., and Burgdorfer, W. (1998). Tick-borne relapsing fever in the northwestern United States and southwestern Canada. Clin Infect Dis 26, 122-131.
+PMID:9455520 ( PubMed abstract )
+Schwan, T.G., Raffel, S.J., Schrumpf, M.E., Webster, L.S., Marques, A.R., Spano, R., Rood, M., Burns, J., and Hu, R. (2009). Tick-borne relapsing fever and Borrelia hermsii, Los Angeles County, California, USA. Emerg Infect Dis 15, 1026-1031.
+PMID:19624916 ( PubMed abstract )

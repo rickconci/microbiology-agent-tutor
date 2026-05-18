@@ -1,0 +1,64 @@
+History of Present Illness
+2013 IDWEEK Case Presentation: A man in his sixties, with a history of chronic lymphocytic leukemia and lymphoma developed fever, cough, shortness of breath, generalized weakness and fatigue.
+The patient had a history of chronic lymphocytic leukemia and lymphoma, diagnosed seven years earlier. Therapy had included chlorambucil administered intermittently since his diagnosis; the most recent administration of chemotherapy was three years earlier. Three months before admission, pathological examination of a bone marrow biopsy showed interval progression of disease and possible relapse. Chlorambucil (8mg orally, daily) and prednisone (20mg oral daily) were administered.
+Four weeks before admission, a productive cough developed and two weeks later, fever up to 102°F (38.9°C) occurred, associated with chills, night sweats, and weight loss of about 20 pounds, which he attributed to decreased appetite. Two courses of oral azithromycin were administered as an outpatient, without improvement.
+He was admitted to the hospital. On admission, the temperature was 101°F (38.3°C). The absolute neutrophil count (ANC) was 575 cells per cubic millimeter. A chest radiograph revealed a right middle lobe and right perihilar infiltrate ( Figures 1 and 2 ). Computerized tomography (CT) of chest ( Figure 3 ) showed extensive lymphadenopathy of mediastinal, cervical, axillary lymph nodes and consolidation of the right middle lobe. Sputum and blood culture grew methicillin-sensitive Staphylococcus aureus (MSSA). Transthoracic echocardiography (TTE) showed a left ventricular ejection fraction of 54%, severe aortic stenosis without evidence of regurgitation or vegetation.
+Nafcillin (2 grams every 4hours, intravenously) was administered, and his symptoms improved. Repeat blood cultures after 48 hours of treatment were sterile. He was discharged home on cefazolin (1 gram every 8 hours, intravenously) for a 3 weeks' treatment course. Upon discharge, the absolute neutrophil count was more than 1000 cells per cubic millimeter. Chemotherapy was held because of the presence of active infection.
+One month after discharge, increasing weakness, recurrent fever, chills and productive cough developed. He had not received any chemotherapy since previous admission. The patient was re-evaluated and admitted to the hospital.
+Figure 1. Image
+Figure 1. A chest radiograph.
+Figure 2. Image
+Figure 2. Radiograph of the chest, lateral view.
+Figure 3. Image
+Figure 3. CT of the chest
+Past Medical History
+He had history of chronic lymphocytic leukemia and lymphoma diagnosed seven years earlier. Therapy included intermittent chlorambucil since his diagnosis, and rituximab to which he had responded well in the past.
+Medications
+As noted, chlorambucil (8mg orally, daily) and prednisone (20mg orally, daily) had been restarted three months before, and multiple antibiotics had been administered.
+Allergies
+Vancomycin caused urticaria and hives.
+Epidemiological History
+He was retired and lived in the region of the Central Valley of California for more than a decade. He did not smoke, drink alcohol or use illicit drugs. He had no known exposure to farm animals, tuberculosis, sick people or those who were homeless or incarcerated. He had traveled to Eastern Europe 3 years earlier.
+Studies
+Laboratory test results revealed pancytopenia, including hemoglobin 8.5 gm/dl, hematocrit 26%, absolute neutrophil count 405 cells per cubic millimeter (reference range, above 1500), and platelet count 13,000 per cubic millimeter (reference range 140,000-440,000).
+A chest radiograph revealed a new cavitary lesion in the right middle lobe ( Figure 4 ). Computerized tomography (CT) of chest demonstrated the new right middle lobe cavitary lesion (2.8cm by 2.9cm by 2.1cm) ( Figure 5 ).
+Figure 4. Radiograph of the chest, one month after first admission.
+Figure 5. CT of the chest, one month after first admission.
+Clinical Course Prior to Diagnosis
+Two doses of piperacillin-tazobactam were administered on admission, followed by the administration of cefepime, empirically for neutropenic fever. The patient remained febrile and voriconazole was later added empirically to cover invasive fungal infection.
+Subsequent bronchoscopy and biopsy showed normal mucosa and no endobronchial lesions. Pathological examination of bronchoalveolar lavage fluid revealed numerous pulmonary histiocytes with background lymphocytes. There was no evidence of malignancy, and stains for fungus, acid fast bacilli (AFB), and Pneumocystis jirovecii (by direct fluorescent antibody (DFA)) from a bronchial fluid specimen and respiratory viral cultures were negative. Cultures of the fluid did not grow fungi or tuberculosis.
+The Aspergillus galactomannan antigen index by enzyme immunoassay was 6.5 (normal index value equal to or greater than 0.5), which was thought to be a false-positive because of the administration of piperacillin-tazobactam on admission. A repeat galactomannan level was negative (0.13). Bronchoalveolar fluid bacterial cultures later grew Achromobactor xylosoxidans that was sensitive to sulfamethoxazole-trimethoprim, ceftazidime, meropenem and piperacillin; cefepime was stopped and ceftazidime begun.
+The patient's clinical condition rapidly deteriorated and he was admitted to the intensive care unit. He was intubated due to progressive respiratory distress and required vasopressors for blood pressure support. Antibiotics coverage was empirically broadened, and meropenem and tigecycline were administered to cover hospital acquired resistant bacteria.
+The patient remained persistently febrile, pancytopenic and critically ill, requiring ventilator support and vasopressors.
+The serum total bilirubin was 1.5 mg/dl (reference range 0.3 - 1.1), direct bilirubin 0.6 mg/dl (reference range 0.0 - 0.4), aspartate aminotransferase 10 U/L (reference range 11 - 47), alanine aminotransferase 11 U/L (reference range 7 - 53), and creatinine 1.8 mg/dl (reference range 0.70 - 1.30). Results of blood tests for antibodies to human immunodeficiency virus (HIV), cytomegalovirus DNA by polymerase chain reaction, Mycoplasma antibody, TB gold quantiferon test, cryptococcal antigen, and beta-D-glucan were negative. Serological testing for Coccidioides , performed at the University of California Davis reference laboratory, was negative by both immunodiffusion and complement fixation on three separate occasions.
+Urine tests for Legionella antigen, pneumococcal antigen and Histoplasma antigen were also negative. Sputum stain and culture for acid fast bacilli were negative. A repeat bone marrow biopsy revealed 95% lymphocytes and marked suppression of normal hematopoietic cells.
+On the ninth hospital day, blood cultures drawn on the first day of admission were positive. Gram stain of the organism is shown in Figure 6.
+Figure 6. Blood culture growth, gram stain (400x magnification).
+Diagnostic Procedure(s) and Result(s)
+Blood cultures showed thin filamentous hyphal elements ( Figures 6 and 7 ); Coccidioides immitis was identified by gene probe. Hanks acid fast stain for Nocardia was negative.
+Figure 7. Blood culture growth, Hanks Acid Fast Stain.
+Treatment and Followup
+A diagnosis of septic shock secondary to disseminated coccidioidomycosis and fungemia in the setting of profound and prolonged neutropenia was made. He became hemodynamically unstable and responded poorly to vasopressors and fluid resuscitation. After blood culture result became available, voriconazole was changed to liposomal amphotericin B. Despite broad spectrum antibiotics and antifungal therapy, he died on the eleventh hospital day from septic shock and multiple organ failure.
+Discussion
+The diagnosis of coccidioidomycosis can be challenging in immunocompromised patients. This patient had stage 4 chronic lymphocytic leukemia and lymphoma with signs and symptoms of disseminated fungal infection, radiologic findings of cavitary lesions on imaging studies of the lungs and positive blood cultures showing filamentous hyphae; however serum Coccidioides serology, both immunodiffusion and complement fixation tests, were repeatedly negative on three separate occasions performed at University of California-Davis Reference laboratory. Negative serologies were suspected to be caused by the patient's underlying malignancy and profound immunosuppression resulting in an inability to produce a humoral immune response to his disseminated fungal infection.
+Disseminated coccidioidomycosis in patients with hematologic malignancies is associated with considerable morbidity and mortality [Blair, Smilack and Caples, 2005]. Rapid diagnosis and efficient therapeutic measures are essential. Treatments for coccidioidomycosis include azole antifungals, primarily fluconazole and itraconazole as initial therapy for most chronic pulmonary or disseminated infections. Amphotericin B is now usually reserved for patients with respiratory failure due to infection with Coccidioides species, those with rapidly progressive infections, or women during pregnancy (particularly the first trimester) [Galgiani et al, 2005].
+Coccidioides fungemia is an uncommon manifestation of fulminant, disseminated coccidioidomycosis. Survival is significantly worse in immunocompromised patients [Keckich, et al., 2010]. A retrospective review of sixteen episodes of fungemia due to Coccidioides immitis in 15 patients over a 7-year period by Ampel and colleagues identified 13 patients who had underlying conditions, including malignancy in 6 and AIDS in 3. Ten of the patients were receiving corticosteroids at the time of fungemia. Eleven of the 16 episodes ended in death within 1 month of the positive blood culture [Ampel et al, 1986].
+Physicians should be aware of the possibility of negative serology in immunocompromised patients and should start empiric antifungal therapy when clinical suspicion is high, particularly in patients from endemic regions. Development of new diagnostic studies and effective therapeutic and preventive antifungal therapy especially in patients with hematological malignancy and disseminated coccidioidomycosis may improve outcomes.
+Final Diagnosis
+Disseminated coccidioidomycosis caused by in a febrile neutropenic patient with underlying hematological malignancy.
+References
+Ampel NM, Ryan KJ, Carry PJ, Wieden MA, Schifman RB. Fungemia due to Coccidioides immitis. An analysis of 16 episodes in 15 patients and a review of the literature. Medicine (Baltimore). 1986 Sep;65(5):312-21. Review.
+PMID:3528738 ( PubMed abstract )
+Blair JE, Coakley B, Santelli AC, Hentz JG, Wengenack NL. (2006) Serologic testing for symptomatic coccidioidomycosis in immunocompetent and immunosuppressed hosts. Mycopathologia. 2006 Nov; 162(5):317-24.
+PMID:17123029 ( PubMed abstract )
+Blair JE, Smilack JD, Caples SM. (2005) Coccidioidomycosis in patients with hematologic malignancies. Arch Intern Med. 2005 Jan 10; 165(1):113-7. Review PubMed
+PMID:15642886 ( PubMed abstract )
+Centers for Disease Control and Prevention. http://www.cdc.gov/fungal/coccidioidomycosis/information.html
+Galgiani JN, Ampel NM, Blair JE, Catanzaro A, Johnson RH, Stevens DA, Williams PL; Infectious Diseases Society of America. Coccidioidomycosis. Clin Infect Dis. 2005 Nov 1;41(9):1217-23. Epub 2005 Sep 20. http://www.idsociety.org/Organism/#Coccidioidomycosis
+PMID:16206093 ( PubMed abstract )
+Hombach M, Stulz P, Arnold W, Pfyffer GE. (2008) Pulmonary Coccidioides nodule in a Swiss patient with chronic lymphatic leukaemia J Med Microbiol November 2008 57:1427-1430.
+PMID:18927424 ( PubMed abstract )
+Keckich DW, Blair JE, Vikram HR. (2010) Coccidioides fungemia in six patients, with a review of the literature. Mycopathologia. 2010 Aug;170(2):107-15. Epub 2010 Mar 25. Review. PubMed
+PMID:20336378 ( PubMed abstract )
+Walsh TJ, De Pauw B, Anaissie E, Martino P. (1994) Recent advances in the epidemiology, prevention and treatment of invasive fungal infections in neutropenic patients. J Med Vet Mycol 1994; 32:33-51.
+PMID:7722797 ( PubMed abstract )

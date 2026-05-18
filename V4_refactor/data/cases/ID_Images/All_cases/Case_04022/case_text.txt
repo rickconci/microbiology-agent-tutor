@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A woman with a history of colon cancer and a pulmonary nodule.
+A woman in her sixties had a pulmonary nodule (1-centimeter in diameter) found incidentally on computed tomography (CT) scanning of the chest, without parenchymal disease. The study ( Figure 1 below) had been performed for a routine follow-up of colon cancer. The patient reported no respiratory symptoms, fever, chills, night sweats or weight loss. Previous CT scanning from three months before admission was negative.
+A positron emission tomographic (PET) scan was obtained and showed increased metabolic activity in the area of the nodule. She was admitted and underwent surgical resection of the nodule.
+Past Medical History
+Stage II colon cancer had been diagnosed two years before admission. A sigmoid colectomy was performed and adjuvant chemotherapy, comprised of 5-fluorouracil and leucovorin, was administered. There had been no evidence of relapse on prior studies.
+Epidemiological History
+She was born and raised in New England, lived in a suburb, and had no pets. She had traveled to Europe many years ago, and spent a few days in the United States Southwest four months before admission. There was no other history of travel to other states or countries. She was retired, and had worked in a medical facility in the past. She had no known exposure to tuberculosis; a PPD test had been negative years ago.
+Physical Examination
+The patient was afebrile with stable vital signs. The examination was normal except for a healing surgical scar.
+Studies
+The complete blood count and metabolic profile were normal. A tuberculin skin test (PPD) was negative. Sputum cultures were also negative.
+CT scanning of the chest ( Figure 1 ) showed a one-centimeter soft tissue, nodular opacity deep to the right margin of the sternum, at the level of the top of the right mainstem bronchus.
+Figure 1. CT scan of the chest.
+Clinical Course Prior to Diagnosis
+The patient did well following the surgical resection of the nodule. Pathologic examination of the tissue is shown in Figures 2 and 3 .
+Figure 2. Stain of resected lung nodule.
+Figure 3. Stain of resected lung nodule.
+Diagnostic Procedure(s) and Result(s)
+Pathologic examination of the excised nodule showed necrotizing granulomas with organisms consistent with Histoplasma capsulatum . Hematoxylin and eosin staining ( Figure 2 ) showed necrotizing caseating granulomas, and Gomori methenamine silver (GMS) staining of the organisms revealed budding forms ( Figure 3 ). Cultures taken during the surgical procedure were negative.
+Treatment and Followup
+The patient was started on itraconazole (200 mg oral solution twice daily) with the plan of continuing therapy for three months.
+Discussion
+Histoplasma capsulatum is a dimorphic fungus that causes a wide spectrum of disease in both immunocompetent and immunocompromised individuals. It is found in temperate zones around the world.
+In the United States, H. capsulatum is endemic within the Ohio and Mississippi River Valleys. A few cases of histoplasmosis in the New England area without travel to the histoplasmosis “belt” have been described. The natural habitat of H. capsulatum is soil, especially soil with high organic content such as that enriched with bird, chicken, or bat excrement. Many types of occupational and recreational activities (e.g. cave exploring, excavation) have resulted in outbreaks of histoplasmosis.
+The vast majority of infections caused by H. capsulatum are acquired by inhalation and deposition of mycelial fragments into the alveoli. The organism converts into its pathogenic yeast form and is phagocytosed by alveolar macrophages. The yeast forms multiply within the macrophages, eventually causing the destruction of these macrophages. The released yeasts spread to the regional lymph nodes and other organs via the lymphatics and blood. Specific T cell-mediated immunity develops in 2-4 weeks and inhibits the growth of the organisms. Resolution occurs with production of a granulomatous inflammatory reaction, which may be caseating but usually becomes calcified. The yeasts persist for prolonged periods within these caseating granulomas.
+The severity of illness after inhalation exposure to H. capsulatum varies, depending on the intensity of exposure and the immunity of the host. Asymptomatic infection or mild pulmonary disease follows low-intensity exposures in healthy individuals, whereas heavy exposure may cause severe diffuse pulmonary infection. Progressive dissemination occurs primarily in those with underlying immunosuppressive disorders or those at the extremes of age. Progressive pulmonary infection is common in patients with underlying centrilobular emphysema. A variety of acute and chronic manifestations of histoplasmosis appear to result from unusual inflammatory or fibrotic responses to the infection, including rheumatologic syndromes and pericarditis during the first year after exposure, and chronic mediastinal inflammation or fibrosis, broncholithiasis, and enlarging parenchymal granulomas occurring later.
+The indications for treatment in patients with histoplasmosis vary. In this case, because the patient showed active inflammation and necrotizing granulomas, and because there was a risk of immunosuppression in the future due to her history of colon cancer, itraconazole was administered for three months.
+Final Diagnosis
+Histoplasmosis.
+References
+Wheat, L.J., Freifeld, A.G., Kleiman, M.B., Baddley, J.W., McKinsey, D.S., Loyd, J.E., and Kauffman, C.A. (2007). Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 45, 807-825.
+PMID:17806045 ( PubMed abstract )

@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: A young adult woman with fever, joint pain and a vaginal discharge.
+A young adult woman presented to her primary care clinic with fever, chills, pain in multiple joints and a purulent vaginal discharge. One week earlier, she had noted a yellow-greenish vaginal discharge. The day before presentation, she developed right elbow pain. Over the next several hours, she also developed pain in her right wrist and right fingers.
+On the morning of presentation, she awakened with increased pain in the involved joints, and new pain in her right knee and bilateral shoulders. She also began to feel feverish and chilled, and noticed a rash on her left fourth finger and left shin. Her most recent menstrual period had been three weeks before this presentation. She was referred to the emergency department.
+Past Medical History
+She had a previous history of Chlamydia and gonorrhea, and had had varicella virus (chickenpox) during childhood.
+Medications
+None.
+Epidemiological History
+She had lived in a city in the United States Northeast her entire life and worked in an office. She had one current sexual partner and multiple previous partners.
+Physical Examination
+The patient appeared moderately uncomfortable. Her temperature was 99.8°F (37.7°C), pulse 96 beats per minute and blood pressure 136/84 mm Hg. She had severe pain on passive motion of her shoulders, right elbow, right wrist and right knee. There was a pustule (3 mm by 3 mm) on her left 4th finger ( Figure 1 ) and three vesiculopustules (1 mm by 1 mm) with erythematous bases on her left shin. A vaginal examination using a speculum revealed purulent discharge from the cervical os and the cervix appeared inflamed. The neurological exam was normal.
+Figure 1. Left hand with fourth finger pustule.
+Studies
+The white blood cell count (WBC) was 10,700/mm³ (neutrophils 70%, lymphocytes 15%, monocytes 5%, eosinophils 1%).
+Diagnostic Procedure(s) and Result(s)
+A cervical swab was taken for Neisseria gonorrhoeae ( gonococcus) and Chlamydia trachomatis amplification. Both results were positive. A throat swab and fluid from a pustule were obtained following the initiation of antibiotics, both of which returned negative. Two sets of blood cultures drawn prior to the initiation of antibiotics showed no growth.
+Attempts were made to aspirate the right elbow, which was the most severely affected joint, but no fluid was recovered.
+Treatment and Followup
+The patient received ceftriaxone one gram intravenously daily for 7 days and a single dose of azithromycin one gram orally to treat disseminated gonococcus and Chlamydia , respectively. She was sent home on the fifth hospital day after her joint pain had subsided significantly. She also underwent screening for human immunodeficiency virus (HIV) infection and syphilis (RPR), both of which were negative.
+Discussion
+This patient had the typical features of disseminated gonococcal infection (DGI), including the triad of tenosynovitis, dermatitis and polyarthralgias without purulent arthritis. Another presentation of DGI is purulent arthritis in the absence of skin lesions. It should be noted that these two syndromes often overlap.
+This patient had a history of prior sexually transmitted diseases (STDs), highlighting the importance of counseling patients about safe sex and of testing for HIV and syphilis in any patient who presents with an STD. Patients with gonococcal infection should also be treated concurrently for Chlamydia .
+It is difficult to culture Neisseria gonorrhoeae from joint fluid (<50%), blood (<1/3) and pustular skin lesions. When gonococcal septic arthritis is suspected, culture material should be collected on chocolate agar or Thayer-Martin medium. Additional cultures of the cervix, urethra, rectum and throat may lead to a higher rate of recovery of the organism.
+Final Diagnosis
+Disseminated Neisseria gonorrhoeae infection (gonorrhea) associated with acute cervical discharge, right elbow arthritis, and skin pustules with concurrent Chlamydia trachomatis cervicitis.
+References
+Creighton, S. (2011). Gonorrhoea. Clin Evid (Online) 2011.
+PMID:21401969 ( PubMed abstract )
+Horner, P. (2010). Chlamydia (uncomplicated, genital). Clin Evid (Online) 2010.
+PMID:21718568 ( PubMed abstract )
+Moran, J.S. (2007). Gonorrhoea. Clin Evid (Online) 2007.
+PMID:19454057 ( PubMed abstract )
+Sholter DE and Russell AS. Synovial fluid analysis and the diagnosis of septic arthritis. UpToDate January 2010.

@@ -1,0 +1,65 @@
+History of Present Illness
+A woman in her forties with acquired immunodeficiency syndrome (AIDS) associated with HIV who previously declined antiretroviral therapy (ART) presented with 4 months of progressive ataxia.
+She developed unsteadiness with ambulation 4 months before admission. She reported that her symptoms began abruptly and slowly progressed in severity. Over the next 4 months, her progressive imbalance required using a cane, and then later, a walker, to even stand up. She also noted mild coordination impairment in her upper extremities and reported frequently dropping objects. She had no loss of strength or sensory deficit in her extremities.
+On review of symptoms, the patient denied cognitive decline, dysarthria, visual or hearing deficits, bowel or bladder incontinence, fever, constitutional symptoms, respiratory or gastrointestinal symptoms, or rash.
+Past Medical History
+She was diagnosed with HIV infection during pregnancy. She briefly took ART during her previous pregnancies but otherwise had not been on therapy. She had no history of ART resistance and had been off antiretrovirals or chemoprophylaxis for opportunistic infections for years.
+Medications
+None
+Allergies
+None
+Epidemiological History
+The patient was born in the Northeastern United States and lived there with her son and cat, for whom she cleaned the litter box. She was not sexually active. The patient had a distant history of heavy alcohol use; she did not smoke and denied recreational drug use.
+Physical Examination
+The patient appeared well. Her blood pressure was 167/95 mm Hg, pulse 79 beats per minute, temperature 36.8° C (98.3° F), and respiratory rate 16 breaths per minute. Cardiopulmonary and abdominal exams were normal. Extremities were without edema, and no rash was noted on the skin.
+On neurologic exam, she was alert and oriented, her speech was fluent, and her short-term memory was not significantly impaired. Her cranial nerve exam was within normal limits; no nystagmus was noted, but she did have mild dysarthria. Her strength was normal in all extremities, and her sensation was intact to light touch, vibration, and position. She had appendicular dysmetria with abnormal finger-to-nose and heel-to-shin tests bilaterally. She also had bilateral dysdiadochokinesia and truncal ataxia with a wide-based gait. Her deep tendon reflexes were brisk and symmetric.
+Studies
+Laboratory findings were notable for a normal metabolic panel, white blood cell count 4.2 K/uL [reference range 4.0-10.0 K/µL] with 69.3% neutrophils [reference range 48-76%], and 19.4% lymphocytes [reference range 18-41%]. HIV plasma viral load was 89,300 copies/ml, CD4+ lymphocyte count was 48 cells/µL (6.1%) [reference range 441-2,156 cells/µL (10-40%)], and HIV genotyping did not evidence of resistance.
+Magnetic resonance imaging (MRI) of the brain with and without contrast did not show acute infarct, mass, hemorrhage, or abnormal enhancement but did demonstrate disproportionate cerebellar parenchymal volume loss (Figure 1). A CT neck obtained 6 years before for an unrelated odontogenic infection is shown (Figure 2) to provide a better comparison of the parenchymal volume loss. A spine MRI with and without contrast showed non-specific faint leptomeningeal enhancement along the cauda equina nerve roots.
+Cerebrospinal fluid (CSF) studies showed 4 total nucleated cells [reference range 0 - 5 /uL] with 0% neutrophils, 84% lymphocytes, and 16% monocytes. The total protein was elevated at 78.2 mg/d [reference range 10.0 - 44.0 mg/dL], and glucose was 55 mg/dL [reference range: 40 - 70 mg/dL].
+Figure 1. Figure 1, Brain MRI with contrast. Parenchymal volume loss, disproportionately involving the cerebellum, appears increased compared to CT neck performed 6 years earlier.
+Figure 2. Figure 2, Neck CT without contrast. Performed 6 years earlier, shown for comparison.
+Diagnostic Procedure(s) and Result(s)
+CSF studies showed a non-reactive VDRL and negative cryptococcus antigen. CSF PCR was negative for herpes simplex type 1 and 2, cytomegalovirus, Epstein-Barr virus, varicella-zoster, and Toxoplasma gondii, but positive for JC virus (JCV). JC virus PCR in blood was also detectable. CSF cytology, paraneoplastic, and autoimmune panels were negative.
+Based on her clinical presentation, radiologic findings, and the presence of the JC virus in blood and CSF, a final diagnosis of JC virus granule cell neuronopathy (JCV-GCN) was determined.
+Treatment and Followup
+The patient agreed to resume antiretroviral therapy and was started on Bictegravir-emtricitabine-tenofovir alafenamide. Cessation of alcohol intake was also recommended. She was seen in the clinic 2 weeks after restarting antiretrovirals. Her cerebellar symptoms did not progress, and she noted a mild improvement in her balance and functional status. A repeat HIV PCR showed a significant decline to 91 copies/ml. A repeat brain MRI obtained after three months of therapy did not show significant changes in cerebellar atrophy.
+Discussion
+There are several clinical syndromes associated with the reactivation of JC virus in the central nervous system. Progressive multifocal leukoencephalopathy (PML) is the more classical presentation characterized by a lytic infection of glial cells resulting in areas of demyelination in the brain parenchyma (1). Importantly, JCV can infect cells other than oligodendrocytes and astrocytes, leading to the description of novel neurological presentations, including JCV-associated encephalopathy, JCV-associated meningitis, and JCV-GCN (2,3).
+JC-GCN is characterized by cerebellar granule cell destruction with sparing of Purkinje cells and may occur in isolation or in conjunction with classic PML findings (3,4). It has been proposed that specific mutations in the VP1 capsid gene of the virus are responsible for its unique tropism (5). The destruction of granule cell neurons causes a subacute to chronic presentation characterized by cerebellar dysfunction, with symptoms including incoordination, gait ataxia, and dysarthria (2).
+While JC-GCN appears to be relatively rare, this syndrome may be under-recognized. Cases of previously unexplained cerebellar atrophy in patients with HIV may not have been attributed to JCV infection (6), as not all previously reported cases underwent cerebellar biopsy or JCV studies. Since its original description in patients with HIV infection (3), JCV-GCN has been reported in other immunosuppressive conditions unrelated to HIV infection, including primary immunodeficiencies (7), autoimmune conditions (8), and associated with rituximab (9) and natalizumab treatment (10,11).
+MRI characteristically shows bilateral and diffuse cerebellar atrophy and may demonstrate confluent T2 and FLAIR hyperintensities in the cerebellum without contrast enhancement or diffusion restriction (12). Similar concomitant lesions within the cerebellar peduncles and the pons have also been reported (13).
+A confirmatory diagnosis can be established by cerebellar biopsy, showing JCV-mediated lytic infection of the granule cell neurons; however, JC-GCN is generally diagnosed in the proper clinical and radiological setting, with the concurrent detection of JCV DNA by PCR in the CSF (2,13), as this patient had. In addition, the patient possibly had a component of concomitant alcohol-induced cerebellar ataxia, even though her alcohol consumption history and acuity of symptoms are not conclusive.
+Currently, no JCV-targeted treatment is available; treatment mainly focuses on reversing the underlying immunosuppressive conditions. In patients with HIV infection, rapid initiation of antiretroviral treatment is considered the cornerstone of treatment (14).
+This case report highlights the clinical and radiological presentation of JC-GCN, a unique neurologic presentation associated with JCV infection, and a likely underreported cause of cerebellar disorders in patients with advanced HIV and other immunosuppressive conditions. Infectious disease providers should be aware of its distinctive presentation and have a high index of suspicion in the correct clinical setting. Isolated cerebellar disease in an immunocompromised patient should suggest the possibility of JC-GCN even in the absence of typical findings of PML.
+Final Diagnosis
+Cerebellar atrophy due to JC virus granule cell neuronopathy in a patient with HIV/AIDS.
+References
+Brew BJ, Davies NWS, Cinque P, Clifford DB, Nath A. Progressive multifocal leukoencephalopathy and other forms of JC virus disease. Nat Rev Neurol. 2010 Dec;6(12):667–79.
+PMID:21131916 ( PubMed abstract )
+Tan CS, Koralnik IJ. Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol. 2010 Apr;9(4):425–37.
+PMID:20298966 ( PubMed abstract )
+Koralnik IJ, Wüthrich C, Dang X, Rottnek M, Gurtman A, Simpson D, et al. JC virus granule cell neuronopathy: A novel clinical syndrome distinct from progressive multifocal leukoencephalopathy. Ann Neurol. 2005 Apr;57(4):576–80.
+PMID:15786466 ( PubMed abstract )
+Du Pasquier RA, Corey S, Margolin DH, Williams K, Pfister LA, De Girolami U, et al. Productive infection of cerebellar granule cell neurons by JC virus in an HIV+ individual. Neurology. 2003 Sep 23;61(6):775–82.
+PMID:14504320 ( PubMed abstract )
+Dang X, Vidal JE, Penalva de Oliveira AC, Simpson DM, Morgello S, Hecht JH, et al. JC virus granule cell neuronopathy is associated with VP1 C terminus mutants. J Gen Virol. 2012 Jan;93(Pt 1):175–83.
+PMID:21940415 ( PubMed abstract )
+Tagliati M, Simpson D, Morgello S, Clifford D, Schwartz RL, Berger JR. Cerebellar degeneration associated with human immunodeficiency virus infection. Neurology. 1998 Jan;50(1):244–51.
+PMID:9443487 ( PubMed abstract )
+Hecht JH, Glenn OA, Wara DW, Wu YW. JC virus granule cell neuronopathy in a child with CD40 ligand deficiency. Pediatr Neurol. 2007 Mar;36(3):186–9.
+PMID:17352955 ( PubMed abstract )
+Granot R, Lawrence R, Barnett M, Masters L, Rodriguez M, Theocharous C, et al. What lies beneath the tent? JC-virus cerebellar granule cell neuronopathy complicating sarcoidosis. J Clin Neurosci. 2009 Aug;16(8):1091–2.
+PMID:19394827 ( PubMed abstract )
+Dang L, Dang X, Koralnik IJ, Todd PK. JC polyomavirus granule cell neuronopathy in a patient treated with rituximab. JAMA Neurol. 2014 Apr;71(4):487–9.
+PMID:24515530 ( PubMed abstract )
+Agnihotri SP, Dang X, Carter JL, Fife TD, Bord E, Batson S, et al. JCV GCN in a natalizumab-treated MS patient is associated with mutations of the VP1 capsid gene. Neurology. 2014 Aug 19;83(8):727–32.
+PMID:25037207 ( PubMed abstract )
+Schippling S, Kempf C, Büchele F, Jelcic I, Bozinov O, Bont A, et al. JC virus granule cell neuronopathy and GCN-IRIS under natalizumab treatment. Ann Neurol. 2013 Oct;74(4):622–6.
+PMID:23868420 ( PubMed abstract )
+Bag AK, Curé JK, Chapman PR, Roberson GH, Shah R. JC virus infection of the brain. AJNR Am J Neuroradiol. 2010 Oct;31(9):1564–76.
+PMID:20299430 ( PubMed abstract )
+Henry C, Jouan F, De Broucker T. JC virus granule cell neuronopathy: A cause of infectious cerebellar degeneration. J Neurol Sci. 2015 Jul 15;354(1-2):86–90.
+PMID:26003226 ( PubMed abstract )
+Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.
+PMID:34405435 ( PubMed abstract )

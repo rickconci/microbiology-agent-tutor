@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: A teenager with pneumonia.
+A girl in her mid-teens developed a cough five days before admission. She was seen by her primary provider as an outpatient and sent home.
+One day before admission, fever, vomiting, fatigue, and increased productive cough occurred. She was seen at a community hospital; on examination, the respiratory rate was 40-60 breaths per minute, temperature 104.5°F (40.3°C), and a chest radiograph revealed bilateral pulmonary infiltrates consistent with pneumonia. She was treated with ceftriaxone and azithromycin.
+Her medical condition rapidly deteriorated, however, and she developed increasing respiratory distress, tachypnea, hypotension to 70/50 mm Hg and decreasing oxygen saturation. She was intubated, treated with intravenous fluids and dopamine, and transferred to a tertiary care facility.
+Past Medical History
+There was a history of mild asthma, recent extremity fracture in an accident, occasional headaches, and a history of smoking 2 packs per day.
+Medications
+She had taken acetaminophen as needed for headaches. At the community hospital, ceftriaxone, azithromycin and dopamine were initiated.
+Physical Examination
+The temperature was 100.6°F (38.1°C), pulse 123 beats/minute, respirations 20 per minute (intubated), and blood pressure 91/39 mm/Hg. Coarse breath sounds were heard.
+Studies
+The hematocrit was 31.3%, hemoglobin 10.9 g/dL, white blood cell count 2,200 cells/mm³ (44% neutrophils, 13% bands, and 29% lymphocytes), platelets 98,000/mm³; sodium 133 mmol/L, potassium 3.0 mmol/L, chloride 112 mmol/L, carbon dioxide 21.5 mmol/L, glucose 112 mg/dL, urea nitrogen 9 mg/dL, and creatinine 0.6 mg/dL.
+A chest radiograph revealed pneumonia ( Figure 1 ).
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) of the chest was performed later in her course and revealed extensive pneumatoceles, abscesses and loculated hydropneumothoraces ( Figures 2 and 3 ).
+Figure 2. Chest CT scan.
+Figure 3. Chest CT scan.
+Diagnostic Procedure(s) and Result(s)
+Staphylococcus aureus was present on gram stain and grew from her sputum. It was sensitive to methicillin.
+Treatment and Followup
+The patient's course was complicated by septic shock, disseminated intravascular coagulation (DIC), adult respiratory distress syndrome (ARDS), and the development of pneumatoceles and hydropneumothorax. She required a right thoracotomy with pulmonary debridement and decortication, chest tube placement, tracheostomy and gastrostomy tube placement. She gradually improved.
+Discussion
+Staphylococcal pneumonia is a virulent, rapidly progressive, necrotizing pneumonia. It typically occurs in the elderly on the heels of a respiratory viral infection, such as influenza. Due to the necrosis, multiple mechanical complications are common, as seen in this case. Legionella , RSV, and EBV do not cause necrosis. Pneumocystis jiroveci (formerly known as Pneumocystis carinii ) pneumonia (PCP) would be an important consideration if this patient were immunosuppressed, such as with acquired immunodeficiency syndrome (AIDS) or corticosteroid use.
+Final Diagnosis
+Severe necrotizing pneumonia due to methicillin-sensitive Staphylococcus aureus (MSSA).
+References
+Kallen, A.J., Brunkard, J., Moore, Z., Budge, P., Arnold, K.E., Fosheim, G., Finelli, L., Beekmann, S.E., Polgreen, P.M., Gorwitz, R., and Hageman, J. (2009). Staphylococcus aureus community-acquired pneumonia during the 2006 to 2007 influenza season. Ann Emerg Med 53, 358-365.
+PMID:18534715 ( PubMed abstract )
+Kreienbuehl, L., Charbonney, E., and Eggimann, P. (2011). Community-acquired necrotizing pneumonia due to methicillin-sensitive Staphylococcus aureus secreting Panton-Valentine leukocidin: a review of case reports. Ann Intensive Care 1, 52.
+PMID:22192614 ( PubMed abstract )
+Mongkolrattanothai, K., Aldag, J.C., Mankin, P., and Gray, B.M. (2009). Epidemiology of community-onset Staphylococcus aureus infections in pediatric patients: an experience at a Children's Hospital in central Illinois. BMC Infect Dis 9, 112.
+PMID:19607683 ( PubMed abstract )

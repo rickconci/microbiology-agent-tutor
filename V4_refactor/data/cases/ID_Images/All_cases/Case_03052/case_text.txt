@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A woman in her fifties with acute myeloid leukemia and a new skin lesion.
+A woman in her fifties had been diagnosed with acute myeloid leukemia (AML) three months before presentation. She had been treated with daunorubacin, etoposide, and araC, and initially achieved a remission. One month before, she developed recurrent disease manifested as thrombocytopenia and recurrent left cervical adenopathy. She was treated with high dose araC.
+Two weeks later, she was admitted with fever and neutropenia. She was treated empirically with vancomycin and ceftazidime. Approximately one week into her hospitalization, she developed a lesion on her left breast. She recalled itching in that area at the tape around her Hickman catheter three weeks earlier, which she had scratched. The area had then become red and developed a central black eschar.
+She also noted several lesions on her back, which had been present since admission at a site where she had received a moxibustion, a traditional Chinese therapy in which mugwort (Artemisia vulgaris) is placed over acupuncture sites and burned.
+Past Medical History
+She also had a history of hepatitis C virus infection.
+Medications
+As above, she had received vancomycin and ceftazidime.
+Epidemiological History
+She worked in the healthcare industry. She had a distant history of intravenous drug use and smoking. She smoked marijuana occasionally and had used it for nausea after chemotherapy. She denied gardening, and had traveled years ago to Mexico and the Southwest United States.
+Physical Examination
+She was in no acute distress. The temperature was 101.3°F (38.5°C), pulse 86/minute, blood pressure 100/70 mm Hg, and oxygen saturation 96% on room air. There was poor dentition and left cervical adenopathy. The cardiac, pulmonary, and neurologic examinations were normal. There was mild right upper quadrant pain, and the rest of the abdominal examination was normal. The skin had a necrotic left breast lesion surrounded by erythema ( Figure 1 ), and three similar lesions on her back in a linear array ( Figure 2 ).
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count was 280 cells/mm³, hematocrit 28%, and platelets 10,000/mm³, and results of serum chemistries were normal. The aspartate aminotransferase (AST) was 113 U/L and alanine aminotransferase (ALT) was 112 U/L, with normal alkaline phosphatase and bilirubin. The level of hepatitis C virus (HCV) RNA by PCR was >850,000 copies/mL. Blood cultures and urine cultures were sterile.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of a skin biopsy with fungal staining showed widespread dermal hemorrhage associated with septate hyphae showing dichotomous branching and an arboreal growth pattern consistent with Aspergillus species. Vascular involvement was noted. Subsequently, fungal culture grew Aspergillus .
+Treatment and Followup
+She was treated with amphotericin and voriconazole.
+Shortly after her skin biopsy, she developed pleuritic chest pain. Computed tomography (CT) of the chest showed a nodule in her left upper lobe and a small area of focal consolidation in the right base with surrounding ground-glass opacity that were consistent with fungal infection. CT scan of the head was unrevealing.
+Her fungal disease remained relatively stable on antifungal therapy despite her prolonged neutropenia. She did not achieve a remission and ultimately underwent an allogenic bone marrow transplantation (allo-BMT). She still failed to achieve a hematologic remission and was discharged with hospice services.
+Discussion
+The profound neutropenia in this patient put her at risk for invasive fungal infection and impaired the success of potential anti-fungal therapy. In this case, the necrotic nature of the lesion is quite suggestive of an angio-invasive fungus. Most commonly this would be caused by Aspergillus , but Fusarium , Pseudoallescheria boydii or Scedosporium prolificans could cause similar appearing lesions.
+The pulmonary nodules suggest that she had disseminated disease, as opposed to inoculation confined to her skin. The lesions on her back had a similar appearance, but were apparently caused by burns and never evolved over time to suggest an infectious etiology.
+Final Diagnosis
+Invasive Aspergillus infection in a patient with acute myeloid leukemia (AML).
+References
+Nicolle, M.C., Benet, T., Thiebaut, A., Bienvenu, A.L., Voirin, N., Duclos, A., Sobh, M., Cannas, G., Thomas, X., Nicolini, F.E., De Monbrison, F., Piens, M.A., Picot, S., Michallet, M., and Vanhems, P. (2011). Invasive aspergillosis in patients with hematologic malignancies: incidence and description of 127 cases enrolled in a single institution prospective survey from 2004 to 2009. Haematologica 96, 1685-1691.
+PMID:21791468 ( PubMed abstract )
+Warnock, D.W., Hajjeh, R.A., and Lasker, B.A. (2001). Epidemiology and Prevention of Invasive Aspergillosis. Curr Infect Dis Rep 3, 507-516.
+PMID:11722807 ( PubMed abstract )

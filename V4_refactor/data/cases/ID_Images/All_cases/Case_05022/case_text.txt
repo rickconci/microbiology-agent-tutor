@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: A woman in her twenties with diabetic ketoacidosis.
+A woman in her twenties presented in diabetic ketoacidosis. She had recently had poor control of glucose levels. During the preceding two months, nausea, fatigue, anorexia and a 20-pound weight loss had been noted.
+Past Medical History
+Type 1 insulin-dependent diabetes mellitus had been diagnosed in her early teens. There had been poor adherence to insulin and monitoring regimen during recent years and the HgB A1C level was 10.6%. She had a history of lower leg abscess and furunculosis.
+Medications
+Medications included insulin.
+Epidemiological History
+The patient lived alone. She denied sexual activity or the use of alcohol, tobacco or illicit drugs. She had traveled to the islands in the mid-Atlantic in the past.
+Physical Examination
+The patient appeared ill. The temperature was 102.9°F (39.4°C), pulse 130 beats per minute, and the blood pressure was hypotensive. Retinopathy was present. There was no abdominal tenderness.
+Studies
+The hematocrit was 30.7% and glucose 179 mg/dL. The electrolytes and anion gap were consistent with diabetic ketoacidosis, and normalized after treatment. The alkaline phosphatase was 138 U/liter. Computed tomography (CT) of abdomen ( Figures 1 and 2 ) showed multiloculated cystic structures in the liver that were consistent with abscesses.
+Figure 1. CT scan of the abdomen.
+Figure 2. CT scan of the abdomen.
+Clinical Course Prior to Diagnosis
+Blood cultures were obtained and broad-spectrum antimicrobial therapy was started. Severe abdominal pain developed after a diagnostic interventional radiology procedure. Low-grade fevers continued. Testing for human immunodeficiency virus (HIV) was negative.
+Diagnostic Procedure(s) and Result(s)
+Percutaneous aspiration of the largest cystic lesion by interventional radiologists yielded fluid that grew Candida albicans in culture. Percutaneous drainage was limited by loculations.
+Treatment and Followup
+Caspofungin therapy was started. The patient did not defervesce in first few days of treatment, and fluconazole was added. The Candida isolate was sent for susceptibility testing, which showed good sensitivity to fluconazole. After two weeks, she was discharged home on high-dose oral fluconazole (600mg daily). Repeat CT scanning showed no change in her loculated abscesses.
+At home, the patient's abdominal pain and nausea worsened progressively and, two weeks later, she became febrile again. CT scanning was repeated and showed partial rupture of one of the abscesses into the liver capsule ( Figure 3 ). Percutaneous drainage was attempted but again limited due to loculations. She was taken to the operating room for open debridement which she tolerated well and a surgical drain was left in place.
+Intravenous (IV) liposomal amphoteracin was administered briefly and followed by a four-month course of intravenous caspofungin and high-dose oral fluconazole (800 mg daily). The larger lesions drained fully and resolved after evacuation ( Figure 4 ), but one smaller lesion remained stable on follow-up imaging ( Figure 5 ). The patient remained on lower-dose fluconazole (200-400mg) for a prolonged treatment course.
+Figure 3. Abdominal CT scan with rupture into capsule.
+Figure 4. Post-operative CT scan.
+Figure 5. CT scan one year later with right lobe lesion.
+Discussion
+Liver abscesses may be bacterial, parasitic or fungal in etiology. The Candida species may account for as many as 22% of pyogenic liver abscesses, as found in a large series of cases spanning 42 years. Diabetes mellitus may predispose to Candida albicans infection in particular.
+Susceptibility testing may be useful in selecting antifungal therapy for Candida , as it is for bacterial pathogens. Liver abscesses that are not fully drained may rupture into the hepatic capsule. When complete percutaneous drainage is not possible, surgical intervention may be required.
+Final Diagnosis
+Liver abscess due to Candida albicans in a patient with diabetes mellitus.
+References
+Huang, C.J., Pitt, H.A., Lipsett, P.A., Osterman, F.A., Jr., Lillemoe, K.D., Cameron, J.L., and Zuidema, G.D. (1996). Pyogenic hepatic abscess. Changing trends over 42 years. Ann Surg 223, 600-607; discussion 607-609.
+PMID:8651751 ( PubMed abstract )

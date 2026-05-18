@@ -1,0 +1,37 @@
+History of Present Illness
+2006 March Featured Case Summary: A man from Morocco with epigastric pain, obstructive jaundice and eosinophilia.
+A man in his thirties presented to a community hospital with epigastric and right upper quadrant pain that had begun acutely. The pain was colicky and severe and associated with mild nausea. There was no fever, chills or other constitutional symptoms. The eyes appeared slightly yellow. Computed tomography (CT) scanning of the abdomen showed a 5 centimeter by 6 centimeter lesion in the right lobe of the liver. He was transferred to a tertiary medical center for further evaluation and treatment. Three months earlier, he had presented to the same hospital complaining of mild pain and “heaviness” over the epigastric region. A proton pump inhibitor had been administered with little relief.
+Past Medical History
+None.
+Medications
+The patient was not taking any medications at the time of admission. A proton pump inhibitor prescribed earlier had been discontinued.
+Epidemiological History
+The patient had lived in Morocco until immigrating to the United States one year before presentation. In Morocco, he had visited rural areas multiple times, having contact with farm animals including sheep, cattle and goats, and with domesticated animals including cats and dogs.
+Physical Examination
+The patient was awake, alert and in mild discomfort. The temperature was 98.5°F (36.9°C), blood pressure 126/64 mm Hg and pulse 95 beats per minute. The oxygen saturation was 98% on room air. The sclera were icteric; the oral mucosa moist. There were no oropharyngeal lesions. The neck was supple and there was no lymphadenopathy. He had slightly decreased breath sounds at the right base with normal percussion. Cardiac sounds were regular and rhythmic without murmurs heard. There The abdomen was soft and not distended; bowel sounds were present. There was voluntary guarding and tenderness to superficial and deep palpation in the epigastric and right upper quadrant areas, without rebound tenderness. The skin was jaundiced without lesions. There was no hepatomegaly, splenomegaly or peripheral edema and the remainder of the examination was normal.
+Studies
+Laboratory testing revealed a white blood count of 7000 cells/mm³ (60% neutrophils, 17% lymphocytes, 5% monocytes, 18% eosinophils), platelets 203,000/mm³, and hematocrit 45.8%. The urea nitrogen was 11 mg/dL and the creatinine 0.9 mg/dL, aspartate aminotransferase 109 U/L, alanine aminotransferase 252 U/L, alkaline phosphatase 142 U/L, total bilirubin 6.7 mg/dL, and direct bilirubin 3.4 mg/dl.
+Computed tomography (CT) of the abdomen showed a lesion (5.5 centimeters by 6.4 centimeters) with multiple cysts in segment four of the liver. The lesion had a central matrix around which cysts were arranged peripherally. (See Figure 1 .) In some views, the lesion bulged out from the contour of the liver, but there was no evidence of diffuse peritoneal spread. A cluster of lesions approximately 1-centimeter in diameter was seen within the liver near the fundus of the gallbladder. There was diffuse intrahepatic biliary dilatation.
+Blood cultures were negative. Stool examination showed no evidence of protozoa or helminths.
+Figure 1. Abdominal CT scan.
+Clinical Course Prior to Diagnosis
+Endoscopic retrograde cholangiopancreatography (ERCP) revealed two large amorphous, mobile filling defects in the common bile duct and common hepatic duct. (See Figures 2 and 3 .) A biliary sphincterotomy was performed and two clear gelatinous cysts were extracted. There was some internal debris within the cysts. (See Figures 4 and 5 and video stream of ERCP.)
+Video 1. ERCP findings.
+Figure 2. ERCP scanning.
+Figure 3. ERCP scanning.
+Figure 4. ERCP findings.
+Figure 5. ERCP findings.
+Diagnostic Procedure(s) and Result(s)
+Cannulation of the bile duct and administration of contrast during ERCP showed multiple filling defects. (See Figures 6 and 7. ) Gelatinous and cystic material, subsequently discharged into the duodenum via the common bile duct, was consistent with Echinococcus . Fluid aspirated during the ERCP and serologic testing were positive for Echinococcus granulosus was.
+Figure 6. Biliary tree filling defects seen in Figure 4.
+Figure 7. Biliary tree filling defects seen in Figure 5.
+Treatment and Followup
+The ERCP and sphincterotomy were diagnostic and therapeutic. Combination anti-parasitic therapy with albendazole and praziquantel was initiated during the procedure followed by significant symptomatic improvement. Biliary dilatation decreased, associated with decreasing cholestasis, resolving jaundice and improvement on CT scanning. Three weeks after initiation of therapy, the patient underwent surgical resection of hydatid cysts. (See Figures 8 and 9 .) The post-operative course was uneventful. He completed a seven-day course of praziquantel peri-operatively and three months of albendazole treatment. Imaging was repeated 10 months after surgery and showed a healing cyst bed with no evidence of relapse.
+Figure 8. H and E stain of liver and cyst, magnified x 4.
+Figure 9. H and E stain of cyst wall, magnified x 20.
+Discussion
+Human Hydatid Disease is caused by infection with larval stages of cestodes (tapeworms), of the genus Echinococcus , which belongs to the family Taeniidae. Four species of Echinococcus produce infection in humans; E. granulosus and E. multilocularis are the most common, causing cystic echinococcosis (CE) and alveolar echinococcosis (AE), respectively.
+Epidemiologically, E. granulosus represents a public health problem in rural grazing areas in the Middle East, Mediterranean countries, Russia, China, Northern Africa and South America. Up to 30-60% of hydatid cysts cases are asymptomatic. Symptoms usually occur in the setting of an allergic or immunological phenomenon to the parasite after cyst rupture or as a result of mechanical factors associated with the cysts in the affected organs. The incubation period is months to years and signs and symptoms vary depending on the location of the cysts. The most common affected organs are: liver 70%, lung 20%, bone 1%, central nervous system 1%, cardiac 1%, spleen 1%, retroperitoneum 1%, and renal disease 1%.
+The clinical features of hepatic hydatid cysts typically include symptoms of right upper quadrant pain, nausea, vomiting and jaundice. Complications include biliary obstruction resulting in cholestasis and/or obstructive jaundice and cholangitis, Budd-Chiari syndrome, cyst rupture and secondary bacterial infection. Until recently, surgery was the only option for the treatment of echinococcal cysts, and to date it is still considered the treatment of choice. However other potential treatment modalities are available including chemotherapy and the PAIR (Percutaneous Aspiration, Introduction of a protoscolicidal agent and Reaspiration) procedure.
+Final Diagnosis
+Echinococcus granulosus infection of the liver and biliary tree, with hydatid cyst of the right lobe of the liver complicated by obstruction and biliary rupture.

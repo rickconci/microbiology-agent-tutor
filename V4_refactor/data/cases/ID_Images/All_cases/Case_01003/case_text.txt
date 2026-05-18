@@ -1,0 +1,19 @@
+History of Present Illness
+IDSA 2001 Case Summary: A 9-day-old infant with fever and hypotension.
+A 9-day-old infant had an anatomic defect at birth that required abdominal surgery. She then developed fever and hypotension. She had been receiving total parenteral nutrition (TPN) through a central venous line.
+Physical Examination
+The temperature was 39°C (102.2°F), blood pressure 104/52 mm Hg, and pulse 148 per minute.
+Studies
+The white blood cell count (WBC) was 25,000/mm³. Results of laboratory tests of cerebrospinal fluid (CSF) parameters were normal, and the CSF culture was sterile. Blood cultures were positive; colonies that grew on blood agar after 48 hours are shown in Figure 1 .
+Figure 1. Culture results.
+Diagnostic Procedure(s) and Result(s)
+Pseudomonas oryzihabitans (formerly called Flavobacterium oryzihabitans ) was identified. This organism is notable for its unusual yellow, rough colonies that are oxidase-negative.
+Discussion
+Pseudomonas oryzihabitans has recently gained recognition as a cause of sepsis in immunodeficient patients with central venous access. This organism has an environmental reservoir similar to other non-fermentative gram negative rods.
+Final Diagnosis
+Line-related sepsis due to Pseudomonas oryzihabitans (formerly called Flavobacterium oryzihabitans ) in an infant.
+References
+Decker CF, Simon GL, Keiser JF. (1991). Flavimonas oryzihabitans (Pseudomonas oryzihabitans; CDC group Ve-2) bacteremia in the immunocompromised host. Arch Intern Med. 1991 Mar;151(3):603-4.
+PMID:2001143 ( PubMed abstract )
+Marín M, García de Viedma D, Martín-Rabadán P, Rodríguez-Créixems M, Bouza E. (2000). Infection of hickman catheter by Pseudomonas (formerly flavimonas) oryzihabitans traced to a synthetic bath sponge. J Clin Microbiol. 2000 Dec;38(12):4577-9.
+PMID:11101598 ( PubMed abstract )

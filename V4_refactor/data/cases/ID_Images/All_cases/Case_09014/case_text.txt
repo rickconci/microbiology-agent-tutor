@@ -1,0 +1,49 @@
+History of Present Illness
+2009 IDSA Fellows' Day Case Presentation Summary: A man with fevers, four years after liver transplantation.
+A man in his fifties, status post liver transplantation 4 years earlier, presented to an emergency department in late summer after a two-week history of fevers, with temperatures ranging up to 101-104°CF (38.3-40.0°C). During the previous 2 months, night sweats and weight loss of 20 pounds (9.1 kilograms) had occurred, with minimal dyspnea on exertion. He had also had mild nausea, right upper quadrant pain (which he rated 4 on a scale of 1 to 10, where 10 is the most severe) and intermittent diarrhea. There was no history of cough, chest pain or vomiting.
+Past Medical History
+He had a history of hepatitis C virus infection, and liver transplantation had occurred 4 years earlier. He had had one episode of acute rejection, immediately post-transplantation. Results of laboratory tests had shown normal levels of neutrophils for the preceding 8 months. He also had hypertension, coronary artery disease, and a history of small bowel obstruction.
+Medications
+Medications included tacrolimus, filgrastim every other week and pegylated interferon injection every week.
+Allergies
+He had no drug allergies.
+Epidemiological History
+He worked in the construction industry in the mid-Atlantic region of the United States. There was no recent travel or exposure to sick contacts.
+Physical Examination
+The temperature was 36.0°C (96.8°F), which rose to a maximal temperature of 40.0°C (104.0°F), blood pressure 118/67 mm Hg, pulse 78 beats per minute, respirations 17 breaths per minute, and oxygen saturation 99% while breathing ambient air. There were healed surgical scars on the abdomen, and the remainder of the examination was normal.
+Studies
+The white cell count was 3100 cells per cubic millimeter (reference range 4800-10,800), with neutrophils 60.8% (ref 53-79), lymphocytes 25.5% (ref 13-46), monocytes 12.8% (ref 3-9), eosinophils 0.5% (ref 0-4) and basophils 0.2% (ref 0-2). The sodium was 134 mmol/L (ref 135-145), glucose 111 mg/dL (ref 70-105), protein 6.9 g/dL (ref 6.0-8.3), albumin 3.0 g/dL (ref 3.5-5.0), total bilirubin 2.6 mg/dL (ref 0.1-1.0); aspartate aminotransferase (AST) 58 IU/L (ref 10-37), alanine aminotransferase (ALT) 44 IU/L (ref 10-40), alkaline phosphatase 181 IU/L (ref 39-117), calcium 8.1 mg/dL (ref 8.4-10.2) and erythrocyte sedimentation rate 60 millimeters per hour (ref 0-20). The level of tacrolimus was 6.9 ng/mL. Results for other electrolytes and routine screening tests were normal. Six hours after presentation, the white cell count was 2600/mm³, with 55.8% neutrophils, and the absolute neutrophil count was 1450 cells per cubic millimeter (ref 1800-7800).
+The chest radiograph, shown in Figure 1 , demonstrated scattered pulmonary nodules, less than 1-centimeter in diameter. Computed tomography (CT) of the chest ( Figure 2 ) and abdomen revealed numerous new pulmonary nodules. Findings also included mild apical pleural thickening, small bilateral hilar and mediastinal lymphadenopathy, mild abdominal lymphadenopathy, and splenomegaly; the splenomegaly, when compared to findings on CT done one year earlier, was stable and exerted a mass effect on the left kidney.
+Figure 1. Chest radiograph.
+Figure 2. CT of the chest.
+Clinical Course Prior to Diagnosis
+Results of tests of the urine for Histoplasma antigen and of the serum for cryptococcal antigen and antibodies to human immunodeficiency virus (HIV, by ELISA) were negative. A specimen obtained from a bronchial washing grew a few colonies of Staphylococcus aureus, which was methicillin sensitive.
+Video-assisted thorascopic surgery (VATS) was performed. Pathological examination of the specimens is shown in Figures 3 through 5 .
+Figure 3. Hematoxylin and eosin stain of lung tissue.
+Figure 4. Gomori methenamine silver stain of lung tissue.
+Figure 5. Modified Giemsa stain of lung tissue.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the specimen obtained from the VATS revealed organisms consistent with Histoplasma ( Figures 4 and 5 ). Results of cultures from bronchoalveolar lavage initially grew Staphylococcus aureus and later, 3 weeks after admission, were positive for Histoplasma capsulatum .
+Treatment and Followup
+The patient was initially treated with intravenous liposomal amphotericin B (5 mg/kg intravenously daily) for twelve days, followed by oral itraconazole. The level of creatinine increased slightly while on amphotericin, and corrected once the medication was discontinued. Approximately one month after starting treatment, follow-up chest CT showed an overall improvement with decrease in the size of many of the pulmonary nodules.
+At follow-up after eleven months of treatment, the patient had done well clinically, however significant increases in the level of bilirubin and aminotransferases had occurred. These elevations were thought to be caused by either the azole therapy or the hepatitis C virus infection, as the level of hepatitis C viral nucleic acid had remained elevated. However, after voriconazole was stopped, there was no improvement in the liver enzyme abnormalities, suggesting the HCV infection was responsible for the elevated liver enzymes.
+Discussion
+Histoplasmosis is not common in solid organ transplant recipients, and particularly is not common in liver transplant recipients. Most case series have focused on renal transplant recipients, and even then in larger case series an infection rate of <1% has been found [Freifeld 2005]. In one case series, of nine patients with histoplasmosis after receiving a liver transplant, all presented with fever, fatigue, and dry cough. All of the patients had abnormal imaging (either diffuse military pattern, mediastinal adenopathy, or lung nodules) and all nine patients had a positive histoplasma antigen. The average time of onset was eleven months post-transplant and in seven patients, onset was within 18 months [Freifeld 2005].
+Antigen testing may provide a relatively rapid non-invasive means of establishing a diagnosis, although the sensitivity may not be as high as it is among patients with HIV infection. Treatment in this transplant patient likely requires prolonged therapy and also may require a decrease in the immunosuppression regimen, although it is difficult to make any firm conclusions given the relatively small number of case reports.
+Final Diagnosis
+Histoplasma capsulatum infection of the lung in a liver transplant recipient.
+References
+Cuellar-Rodriguez, J., Avery, R.K., Lard, M., Budev, M., Gordon, S.M., Shrestha, N.K., van Duin, D., Oethinger, M., and Mawhorter, S.D. (2009). Histoplasmosis in solid organ transplant recipients: 10 years of experience at a large transplant center in an endemic area. Clin Infect Dis 49, 710-716.
+PMID:19635026 ( PubMed abstract )
+Davies, S.F., Sarosi, G.A., Peterson, P.K., Khan, M., Howard, R.J., Simmons, R.L., and Najarian, J.S. (1979). Disseminated histoplasmosis in renal transplant recipients. Am J Surg 137, 686-691.
+PMID:378009 ( PubMed abstract )
+Freifeld, A.G., Iwen, P.C., Lesiak, B.L., Gilroy, R.K., Stevens, R.B., and Kalil, A.C. (2005). Histoplasmosis in solid organ transplant recipients at a large Midwestern university transplant center. Transpl Infect Dis 7, 109-115.
+PMID:16390398 ( PubMed abstract )
+Hage, C.A., Davis, T.E., Egan, L., Parker, M., Fuller, D., Lemonte, A.M., Durkin, M., Connelly, P., Joseph Wheat, L., Blue-Hnidy, D., and Knox, K.S. (2007). Diagnosis of pulmonary histoplasmosis and blastomycosis by detection of antigen in bronchoalveolar lavage fluid using an improved second-generation enzyme-linked immunoassay. Respir Med 101, 43-47.
+PMID:16753290 ( PubMed abstract )
+Peddi, V.R., Hariharan, S., and First, M.R. (1996). Disseminated histoplasmosis in renal allograft recipients. Clin Transplant 10, 160-165.
+PMID:8664511 ( PubMed abstract )
+Wheat, L.J., Freifeld, A.G., Kleiman, M.B., Baddley, J.W., McKinsey, D.S., Loyd, J.E., and Kauffman, C.A. (2007). Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 45, 807-825.
+PMID:17806045 ( PubMed abstract )
+Wheat, L.J., Garringer, T., Brizendine, E., and Connolly, P. (2002). Diagnosis of histoplasmosis by antigen detection based upon experience at the histoplasmosis reference laboratory. Diagn Microbiol Infect Dis 43, 29-37.
+PMID:12052626 ( PubMed abstract )

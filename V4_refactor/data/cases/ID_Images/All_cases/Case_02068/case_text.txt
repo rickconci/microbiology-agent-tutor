@@ -1,0 +1,27 @@
+History of Present Illness
+Summary: A man with AIDS and pain on defecation.
+A man in his forties with human immunodeficiency virus (HIV) and AIDS presented with four weeks of pain on defecation. Evaluations revealed pyuria, and he received multiple courses of antibiotics. Urine cultures were sterile.
+Past Medical History
+He had HIV-1 infection; the most recent CD4 T-lymphocyte cell count was 43 cells/mm³, and level of HIV-1 RNA was 225,000 copies/mL.
+Medications
+His only medication was trimethoprim-sulfamethoxazole.
+Physical Examination
+The temperature was 100.5°F (38.1°C). Examination revealed a tender, boggy prostate.
+Studies
+The white blood cell (WBC) count was 2,500 cells/mm³. Urinalysis revealed 5-10 white cells per high powered field. Urine culture was sterile. Computed tomography (CT) scan of the pelvis was performed and revealed a prostatic abscess ( Figure 1 ).
+Figure 1. Pelvic CT scan.
+Clinical Course Prior to Diagnosis
+The patient underwent aspiration of the abscess, and stains of the prostatic aspirate are shown ( Figures 2 and 3 ).
+Figure 2. Silver stain of prostatic aspirate.
+Figure 3. Hematoxylin and eosin stain.
+Diagnostic Procedure(s) and Result(s)
+The silver stain and hematoxylin and eosin (H and E) stain revealed yeast forms ( Figures 2 and 3 ). Culture of the prostatic aspirate grew Cryptococcus neoformans .
+Discussion
+Cryptococcus neoformans enters the body via the respiratory route. The organism has a tropism for the central nervous system, and cryptococcal meningitis is a common site of disseminated disease in patients with advanced HIV-1 infections. Other focal sites of cryptococcal involvement include the skin, bone and prostate, as seen in this case.
+Final Diagnosis
+Prostate abscess caused by Cryptococcus neoformans in a patient with HIV infection and AIDS.
+References
+Li, S.S., and Mody, C.H. (2010). Cryptococcus. Proc Am Thorac Soc 7, 186-196.
+PMID:20463247 ( PubMed abstract )
+Wise, G.J., and Shteynshlyuger, A. (2006). How to diagnose and treat fungal infections in chronic prostatitis. Curr Urol Rep 7, 320-328.
+PMID:16930504 ( PubMed abstract )

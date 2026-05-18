@@ -1,0 +1,50 @@
+History of Present Illness
+2006 July Featured Case Summary: A woman in the third trimester of her pregnancy presented with cough, edema and fever.
+A woman in her thirties presented during the third trimester of pregnancy with a dry cough, general malaise and fatigue for fourteen days. During the five days preceding her presentation, lower extremity edema and orthopnea developed. She had also noted dyspnea with minimal exertion, chills, and intermittent chest tightness. One day before admission, the patient had subjective symptoms associated with fever.
+The pregnancy had been complicated by:
+1. Hyperemesis gravidarum requiring a two-week hospitalization six months earlier. A peripherally inserted central catheter (PICC line) placement had occurred for total parenteral nutrition and had been removed shortly before this presentation.
+2. A urine culture had grown coagulase-negative Staphylococcus three weeks before this presentation.
+Past Medical History
+There was a history of a heart murmur since childhood and marfanoid habitus for which an echocardiogram was performed annually. The most recent echocardiogram had been without abnormalities.
+Allergies
+There were no allergies to medications.
+Social History
+The patient lived with her husband in a suburban community in the United States.
+Epidemiological History
+There was no history of tobacco, alcohol or illicit drug use.
+Physical Examination
+The blood pressure was 110/85 mm Hg, pulse 90 beats per minute, temperature 97.9°F (36.6°C), respirations 25 per minute and oxygen saturation 97% on 2 liters of oxygen delivered by nasal cannula. The patient appeared fatigued, pale, and in mild distress. There was generalized pallor; the conjuctiva were clear. Breath sounds were decreased at the bases greater on the right than the left, the jugulovenous pressure was elevated, and the point of maximal cardiac impulse (PMI) was located in the 5th intercostal space of the mid-clavicular line. The heart sounds were normal, and there was a holosystolic murmur at the apex, and a 2/4 diastolic murmur in the right sternal border. The abdomen was gravid, and no hepatosplenomegaly was noted. The extremities had 2 + pitting edema and no clubbing. The skin was clear.
+Studies
+The white blood cell count was 10,300 cells/mm³, hematocrit 26% and platelets 282,000/mm³. The electrocardiogram showed sinus rhythm with poor R-wave progression and a P-R interval of 122 milliseconds. Chest radiography revealed vascular cephalization and bilateral bronchial opacities. Lower extremity non-invasive studies were negative for deep venous thrombosis.
+Clinical Course Prior to Diagnosis
+Diuretics were administered and blood cultures drawn. Vancomycin and gentamicin were administered empirically. On the second hospital day, a cesarean section was performed and the infant delivered without complications.
+On the fourth hospital day, an echocardiogram performed. (See Figures 1, 2, and 3. )
+Video 1. Echocardiography of aortic valve.
+Figure 1. Echocardiography of aortic valve.
+Figure 2. Doppler flow study across aortic valve.
+Figure 3. Echocardiography.
+Diagnostic Procedure(s) and Result(s)
+Four sets of blood cultures grew coagulase-negative Staphylococcus epidermidis . The organism was resistant to penicillin, erythromycin and ampicillin, and sensitive to the other agents routinely tested including oxacillin, gentamicin, vancomycin and rifampin. Echocardiography revealed the following: Figures 1 and 4 show a view of the aortic valve with a prominent elongated mobile echo density consistent with a vegetation prolapsing into the left ventricular outflow tract. This appears to be attached to the noncoronary leaflet and measures 1.9 x 0.4 centimeters in orthogonal dimensions.
+Figures 2 and 5 show a Doppler image showing moderate aortic insufficiency with an eccentric anteroseptally directed jet (no systolic flow reversal is documented in the descending aorta).
+Figures 3 and 6 reveal the trileaflet aortic valve with an echo density consistent with a vegetation measuring 0.5 cm at the leaflet base in the cross-sectional diameter.
+Figure 4. Aortic valve lesion by echocardiography.
+Figure 5. Aortic valve lesion by echocardiography.
+Figure 6. Aortic valve lesion by echocardiography.
+Treatment and Followup
+After diuresis and transfusion with packed red blood cells, the patient noted slight improvement of her dyspnea on exertion. On the fifth hospital day, there was a symptomatic episode of ventricular tachycardia that was not sustained.
+On the sixth hospital day, an aortic valve replacement with a St. Jude's valve was performed. The gram stain and culture of the excised valve were negative. Hematoxylin and eosin (H and E) stains of the valve are shown in Figures 7 and 8 and revealed active endocarditis with valve destruction, mural thrombus and abundant coccal organisms. The outflow surface of the cusp had a thick fibrous appearance.
+Nafcillin was administered for six weeks, and gentamicin and rifampin for 2 weeks post-operatively.
+Figure 7. Valve pathology (H and E stain).
+Figure 8. Valve pathology (H and E stain).
+Discussion
+Historically, coagulase negative Staphylococci (CoNS) were regarded as culture contaminants or non-pathogenic skin colonizers. In recent years, the importance of these organisms as a human pathogen has been recognized. As the utilization of artificial devices becomes more widespread, the role of CoNS as nosocomial pathogens is on the rise. Resistance to multiple antibiotics makes the treatment an increasing challenge.
+The presenting symptoms of coagulase-negative Staphylococcus endocarditis are similar to those found in infective endocarditis by other organisms: fever, malaise and unexplained weight loss. CoNS native valve endocarditis remains uncommon. A striking feature is the frequency of complications leading to surgery, caused by an organism that is often disregarded as a blood culture contaminant.
+Community-acquired infections are associated with underlying valvular disease, with a significant number of patients having chronic indwelling catheters as the identifiable risk factor.
+Medical therapy for coagulase-negative Staphylococcus endocarditis remains challenging, as multiple drug resistance and heterotypic phenotypes are commonly seen. Typically, a bactericidal antibiotic or a combination that is bactericidal is used.
+Final Diagnosis
+Endocarditis caused by coagulase-negative Staphylococcus epidermidis infection.
+References
+Ameen, M., Talhari, C., and Talhari, S. (2010). Advances in paracoccidioidomycosis. Clin Exp Dermatol 35, 576-580.
+PMID:19874328 ( PubMed abstract )
+Brazao-Silva, M.T., Andrade, M.F., Franco, T., Ribeiro, R.I., Silva Wdos, S., Faria, G., Faria, P.R., Cardoso, S.V., and Loyola, A.M. (2011). Paracoccidioidomycosis: a series of 66 patients with oral lesions from an endemic area. Mycoses 54, e189-195.
+PMID:20406390 ( PubMed abstract )

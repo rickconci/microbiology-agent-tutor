@@ -1,0 +1,32 @@
+History of Present Illness
+Summary: A middle-aged adult with altered mental status.
+A middle-aged adult presented with altered mental status. According to family members, the patient appeared to have difficulty hearing for several days before presentation. Two days before admission, the patient seemed to have difficulty walking, fell down, and thereafter was not acting normally. Increasing lethargy developed, and the patient was taken to a hospital emergency room. Computed tomography (CT) of the head and a toxicology screen were negative.
+Upon transfer to a tertiary care hospital, the patient was minimally responsive and had nuchal rigidity. A lumbar puncture demonstrated an opening pressure of greater than 550 mm of water. After the lumbar puncture, the patient became more responsive. Ceftriaxone, vancomycin, ampicillin and acyclovir were administered in the emergency room.
+Past Medical History
+None.
+Epidemiological History
+The patient had emigrated from sub-Saharan Africa several years earlier.
+Physical Examination
+The temperature was 99.0°F (37.2°C), pulse 72 beats per minute, and the blood pressure 141/81 mm Hg. Oxygen saturation was 100% while breathing ambient air. Nuchal rigidity and thrush were present; there were no conjunctival lesions or adenopathy. The pulmonary, cardiac and abdominal examinations were normal. An ulcerated lesion was noted on the genitalia; the remainder of the skin was normal.
+The patient was resting comfortably, able to track visual stimuli, but unable to hear. Questions were answered if they were written, but not if they were spoken. Responses were in full sentences, and the question, “How do you stop this noise?” was asked. The remainder of the neurological examination was normal.
+Studies
+The white blood cell count was 9,000/mm³ with 93% leukocytes, 5% lymphocytes, 2% monocytes, hematocrit 32%, platelet count 347,000/mm³, and sodium 123 mmol/L. Chest radiography and head CT scanning, without the administration of contrast, were normal.
+The level of glucose in the cerebrospinal fluid (CSF) was 36 mg/dL, protein 34 mg/dL, with 17 white blood cells/mm³ (predominantly lymphocytes with a few mononuclear cells) and 64 red blood cells/mm³. An organism, shown in Figure 1 , was seen.
+Figure 1. Cerebrospinal fluid.
+Diagnostic Procedure(s) and Result(s)
+Gram stain and fungal stain of the cerebrospinal fluid (CSF) showed abundant round budding yeast. An India ink was also positive. The CSF cryptococcal antigen was 1:8192; CSF cultures grew Cryptococcus neoformans .
+Treatment and Followup
+Amphotericin B and flucytosine were administered. The patient had a waxing and waning course, requiring repeated lumbar punctures to reduce the opening pressure; a lumbar drain was placed. Despite therapy for the cryptococcal infection, permanent neurologic deficits of blindness and deafness developed. Testing for human immunodeficiency virus (HIV) infection was positive; the CD4 T-lymphocyte count was 19 cells/mm³ and the level of human immunodeficiency virus (HIV) RNA was 18,300 copies/mL.
+Discussion
+This patient presented with a subacute meningoencephalitis. The presence of thrush suggested severe immunocompromise.
+Having lived in sub-Saharan Africa, the patient was at increased risk for HIV and tuberculosis. Arguing against an acute bacterial meningitis (such as Streptococcus pneumoniae or Hemophilus influenza) was the rather subacute course, the low number of white blood cells in the cerebrospinal fluid (CSF), and the lymphocytic predominance.
+The diagnosis of cryptococcal meningitis was quickly made based upon results of the lumbar puncture. The very elevated opening pressure and a clinical improvement after lumbar puncture is common in cryptococcal meningitis. There was a significant burden of infection with a low number of white blood cells in the CSF, characteristic of AIDS patients with cryptococcal meningitis, in contrast to immunocompetent patients who develop cryptococcal disease.
+Final Diagnosis
+Meningitis caused by in a patient with HIV infection and AIDS.
+References
+Anekthananon, T., Manosuthi, W., Chetchotisakd, P., Kiertiburanakul, S., Supparatpinyo, K., Ratanasuwan, W., Pappas, P.G., Filler, S.G., Kopetskie, H.A., Nolen, T.L., Kendrick, A.S., and Larsen, R.A. (2011). Predictors of poor clinical outcome of cryptococcal meningitis in HIV-infected patients. Int J STD AIDS 22, 665-670.
+PMID:22096053 ( PubMed abstract )
+Brouwer, A.E., Rajanuwong, A., Chierakul, W., Griffin, G.E., Larsen, R.A., White, N.J., and Harrison, T.S. (2004). Combination antifungal therapies for HIV-associated cryptococcal meningitis: a randomised trial. Lancet 363, 1764-1767.
+PMID:15172774 ( PubMed abstract )
+Jarvis, J.N., Dromer, F., Harrison, T.S., and Lortholary, O. (2008). Managing cryptococcosis in the immunocompromised host. Curr Opin Infect Dis 21, 596-603.
+PMID:18978527 ( PubMed abstract )

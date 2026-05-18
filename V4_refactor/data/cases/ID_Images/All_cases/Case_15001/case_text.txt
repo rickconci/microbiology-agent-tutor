@@ -1,0 +1,45 @@
+History of Present Illness
+2015 March-April Featured Case: A man in his thirties was seen in an outpatient clinic because of an abdominal skin ulcer that developed after a trip to Brazil.
+Approximately two months before this presentation, the patient sustained a superficial abrasion (approximately 25 mm in diameter) on his abdomen while bodysurfing in the ocean while in Brazil. One month later, he noted increasing erythema, drainage and ulceration at the site of the enlarging lesion. Topical over-the-counter antibacterial ointment and an occlusive bandage were applied, without improvement. He saw a physician and cephalexin was administered; however, the lesion continued to worsen, with extension toward his left flank.
+He was referred to an outpatient clinic at a hospital. On evaluation, he noted the lesion was initially painless, but had become more tender.
+Medications
+He took no other medications.
+Allergies
+He had no allergies.
+Social History
+He worked in an office.
+Epidemiological History
+Two months earlier he had traveled for several weeks to Brazil, including the Amazon (where he and his girlfriend reportedly received numerous mosquito bites), Brasilia, and Rio de Janeiro. His girlfriend had recently developed a lesion on her arm. He drank alcohol in moderation and did not smoke or use illicit drugs.
+Physical Examination
+He was afebrile, with normal vital signs. There was a non-healing ulcer (3-to-5 cm by 8cm) in the lower left quadrant of his abdomen, with minimal purulent drainage and a ring (0.5 cm in width) of erythema and induration (Figure 1) . The subcutaneous tissue was exposed, with increased warmth along the surrounding erythema. The abdomen was soft, without distension or tenderness.
+Figure 1. Physical finding.
+Studies
+The blood level of globulin was 1.7g/dl (reference range 1.9-4.1) and aspartate aminotransferase was 57 U/L (reference range 10-40). A complete blood count, white cell differential, and levels of electrolytes, glucose, total protein, urea nitrogen, creatinine, total bilirubin, alkaline phosphatase, and alanine aminotransferase were normal; a test for HIV-antibodies and p24 was non-reactive.
+Clinical Course Prior to Diagnosis
+A skin biopsy was performed and amoxicillin-clavulanate administered. A gram stain showed no organisms and a wound culture was negative. Hematoxylin and eosin (HE) staining of the biopsy is shown (Figure 2) .
+Figure 2. Hematoxylin and eosin stain of skin biopsy (100x magnification).
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the skin biopsy by HE and Giemsa stains (Figures 2 and 3) revealed ulceration with a marked granulomatous reaction and scattered histiocytic aggregates with numerous intracellular organisms. The organisms were ovoid with eccentrically located nuclei and kinetoplasts at the opposite pole, and were seen at the periphery of histiocytes. Taken together, these findings were consistent with the amastigotes of leishmaniasis. Tissue from a punch biopsy was sent to the Centers for Disease Control and Prevention (CDC) for PCR and DNA sequencing and Leishmania culture was positive for Leishmania guyanensis .
+Figure 3. Giemsa stain of skin biopsy (100x magnification).
+Treatment and Followup
+Because of the size of the lesion, the patient was admitted for initiation of a course of liposomal amphotericin B (with daily doses on days 1 through 5, day 10 and day 15). The treatment was complicated by nephrotoxicity that improved with hydration and a nonocclusive thrombosis associated with the peripherally inserted central line, for which he was anticoagulated and received a change in the line. Follow-up images of his skin lesion are shown in Figures 4 and 5 .
+Figure 4. Follow-up 14 days after treatment.
+Figure 5. Follow-up 6 weeks after treatment.
+Discussion
+Cutaneous leishmaniasis is endemic in more than 70 countries worldwide. Of the approximately 1.5 million new cases each year, 90% occur in Afghanistan, Algeria, Brazil, Pakistan, Peru, Saudi Arabia, and Syria [Tiuman et al., 2011]. The protozoan is transmitted through the bite of female phlebotomine sandflies and leads to either local (cutaneous) or systemic (visceral) infection.
+Cutaneous manifestations represent the most common forms, ranging from small cutaneous nodules to gross mucosal tissue destruction. The lesions are normally chronic, developing over weeks to months, and frequently painless. Multiple species of Leishmania exist, often classified by their geographical occurrence into “Old World” and “New World” species. Species identification from skin-biopsy samples is available via PCR ((http://www.cdc.gov/laboratory/specimen-submission/form.html) and recommended for guiding therapy selection.
+Treatment options include pentavalent antimonials (IND required), amphotericin B, pentamidine and, more recently, miltefosine. Recommendations on treatment selection and schedules are based on small clinical trials and expert opinions [Blum et al., 2014].
+Non-tuberculous mycobacterial (NTM) soft tissue infections can occur following exposure to NTM at sites of cutaneous trauma, including in swimming pools, lakes or the ocean. The local infection often develops as a painless, slowly growing indurated area that can ulcerate after a few weeks. Causative organisms include Mycobacterium fortuitum , M. abscessus , M. chelonae , M. marinum , and M. ulcerans . On histological examination, non-tuberculous mycobacterial infections can be recognized by a mixed inflammatory infiltrate with a granulomatous reaction. Acid-fast bacilli may be recognized by special stains.
+Paracoccidioides brasiliensis is endemic in Brazil. The organism typically causes asymptomatic pulmonary infection and then develops into an either acute or chronic form. While the acute form is rare and almost always observed in children or adolescents, the chronic form is more common and develops over month and years, primarily manifesting as pulmonary infiltrates and upper respiratory mucosal lesions, but skin manifestations have been reported in endemic areas. On histological examination, paracoccidioidomycosis can be recognized by a chronic granulomatous dermatitis with pseudoepitheliomatous hyperplasia. Organisms may be recognized as large round yeast cells with multiple narrow-based buds, giving the appearance of the classical “pilot’s (or mariner’s) wheel.”
+Chromoblastomycosis infections are caused by the traumatic implantation of dematiaceous hyphomycetes forms into the skin. Lesions usually start as small scaly, painless papules that can develop into verrucose, wart-like lesions due to increased tissue proliferation. On histological examination, pigmented fungi known as medlar bodies (and described as “copper pennies”) are seen amidst a nonspecific inflammatory response.
+The ulcerative form of pyoderma gangrenosum is the most common variant and typically starts as a tender papule that develops on the legs or the trunk, in areas of prior trauma but also on normal-appearing skin. Lesions often develop rapidly and are associated with a significant level of pain. If no superinfection occurred, the lesions are sterile. On histological examination, ulcerative pyoderma gangrenosum most typically has a nonspecific inflammatory infiltrate with concomitant abscess formation. The edge of the lesion may show a lymphocytic or neutrophilic vasculitis.
+Dermatologic malignancies or metastases have very variable presentations and range from papules, plaques, or nodules to ulceration and/or areas of necrosis. On histological examination, the lesion would show extensive dermal involvement by malignant epithelial or mesenchymal elements.
+Final Diagnosis
+Cutaneous leishmaniasis caused by .
+References
+Blum J, Buffet P, Visser L, Harms G, Bailey MS, Caumes E, Clerinx J, van Thiel PP, Morizot G, Hatz C, Dorlo TP, Lockwood DN. 2014.LeishMan recommendations for treatment of cutaneous and mucosal leishmaniasis in travelers, 2014. J Travel Med. 2014 Mar-Apr;21(2):116-29.
+PMID:24745041 ( PubMed abstract )
+de Vries HJ, Reedijk SH, Schallig HD. 2015.Cutaneous Leishmaniasis: Recent Developments in Diagnosis and Management. Am J Clin Dermatol. 2015 Feb 17. [Epub ahead of print]
+PMID:25687688 ( PubMed abstract )
+Tiuman TS, Santos AO, Ueda-Nakamura T, Filho BP, Nakamura CV. 2011. Recent advances in leishmaniasis treatment. Int J Infect Dis. 2011 Aug;15(8):e525-32. doi: 10.1016/j.ijid.2011.03.021. Epub 2011 May 24.
+PMID:21605997 ( PubMed abstract )

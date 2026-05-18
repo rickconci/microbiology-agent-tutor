@@ -1,0 +1,25 @@
+History of Present Illness
+Summary: A middle-aged man with AML, fevers and a skin eruption.
+A middle-aged man with a history of acute myelogenous leukemia (AML) and status post an allogeneic bone marrow transplant (BMT), presented with fevers and a skin eruption, which progressed to confluent blisters and necrosis.
+Past Medical History
+As above, there was a history of acute myelogenous leukemia (AML) and bone marrow transplantation.
+Medications
+The patient had recently received vancomycin and meropenem.
+Physical Examination
+The patient appeared uncomfortable, with temperatures to 101°F (38.3°C). There was a diffuse blistering skin eruption, which involved the mucous membranes of his mouth and genital region, and conjunctival injection was present.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Clinical Course Prior to Diagnosis
+The patient’s skin lesions progressed to involve approximately 80% of his body surface area ( Figures 1 and 2 ).
+Diagnostic Procedure(s) and Result(s)
+Skin biopsy revealed full thickness epidermal necrosis and subepidermal vesicle formation consistent with toxic epidermal necrolysis (TEN).
+Treatment and Followup
+The patient received intravenous immunoglobulin (IVIg) and was treated supportively with aggressive local skin care and intravenous fluids. Unfortunately, he expired due to sepsis.
+Discussion
+Erythema multiforme typically presents with target-like macular skin lesions without mucosal involvement. Pemphigus vulgaris is predominantly a bullous skin disorder. The presence of mucosal lesions argues against staphylococcal skin syndrome. A biopsy is the only way to exclude an IgA-associated vancomycin reaction.
+Toxic epidermal necrolysis (TEN) is characterized by full thickness epidermal necrosis and is considered part of the spectrum of Stevens-Johnson Syndrome. Cases with involvement of >30% of the body surface area are labeled as TEN, and mortality rates can be higher than 40%. The majority of cases of TEN are drug-induced. Treatment is largely supportive, although small case series have suggested that IVIg may be beneficial in shortening the duration of symptoms.
+Final Diagnosis
+Toxic epidermal necrolysis (TEN).
+References
+Gerull, R., Nelle, M., and Schaible, T. (2011). Toxic epidermal necrolysis and Stevens-Johnson syndrome: a review. Crit Care Med 39, 1521-1532.
+PMID:21358399 ( PubMed abstract )

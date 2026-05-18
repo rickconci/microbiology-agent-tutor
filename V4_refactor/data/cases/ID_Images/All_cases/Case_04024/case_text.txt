@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A woman with suprapubic and left flank pain.
+A woman in her thirties presented to the hospital with a three-month history of suprapubic and left flank pain. She was initially evaluated in the Caribbean, diagnosed with a kidney stone and a urinary tract infection, and treated with ciprofloxacin. She had persistent symptoms and presented for further evaluation.
+Epidemiological History
+The patient was originally from an island in the Caribbean.
+Physical Examination
+The patient appeared well. The temperature was 97.9°F (36.6°C), vital signs were normal. There was tenderness in the left costo-vertebral and suprapubic regions. The remainder of the examination was normal.
+Studies
+Computed tomography (CT) scanning of the abdomen and pelvis showed a ureteral stone (4-millimeter in diameter) with hydroureter, a low-attenuation rounded lesion (2.3cm by 3.4cm) in the left kidney that enhanced and had thickened walls ( Figure 1 ), and an irregularly thickened bladder wall ( Figure 2 ).
+Figure 1. CT scan of the abdomen.
+Figure 2. CT scan of the abdomen.
+Diagnostic Procedure(s) and Result(s)
+A mantoux test (PPD) was placed and was positive with 17 millimeters induration. Aspiration of the renal mass revealed 3+ acid-fast bacilli (AFB) and cultures grew Mycobacterium tuberculosis that was sensitive to all drugs tested. M. tuberculosis from renal aspirate is shown in Figure 3 .
+Figure 3. Mycobacterium tuberculosis from renal aspirate, acid-fast stain.
+Treatment and Followup
+The patient was treated with isoniazid, rifampin, pyrazinamide and ethambutol. A stent was placed and she was discharged home. After two months, the medications were changed to isoniazid and rifampin to complete a six-month course of therapy.
+Discussion
+Renal tuberculosis begins with hematogenous seeding, usually at the time of primary pulmonary infection. Disease may occur in the immediate post-primary period or, more commonly, due to reactivation of a renal focus. Less often, late reactivation at another site may lead to miliary disease and hematogenous seeding of the kidney, followed by clinical disease. The majority of patients develop granulomatous lesions in the glomeruli that, in most cases, heal without producing any significant renal disease. An autopsy study of pulmonary tuberculosis revealed unsuspected renal foci in 73% of patients.
+Occasionally the granulomas may caseate and rupture into the tubular lumen, with passage of bacilli into the medullary interstitium, eventually leading to granuloma formation and progressive medullary injury. The onset is usually insidious. Dysuria and gross hematuria are the most common symptoms. Renal colic, respiratory complaints and systemic symptoms are uncommon, since rupture of the glomerular granulomas is independent of disease elsewhere. Some patients are asymptomatic and are incidentally found to have pyuria or microscopic hematuria.
+Radiologic studies are often helpful. Intravenous pyelogram (IVP) may be normal in early disease, however, moderate to marked urinary tract abnormalities are usually present by the time the patient becomes symptomatic. Changes on IVP include erosion of the tips of the calyces, blunting of the calyces, papillary necrosis and parenchymal scarring and calcification. Computed tomography may show similar findings. Occasionally patients can present with mass-like lesions or tuberculomas.
+Signs of extrarenal disease include ureteral strictures and a contracted bladder. In males, calcification of the vas deferens, seminal vesicles or prostate may be seen.
+The finding of acid-fast organisms in the urine is not pathognomonic for tuberculosis, since nonpathogenic mycobacteria may rarely be present. Although sterile pyuria is typical of renal tuberculosis, positive urine cultures for routine bacterial pathogens may lead to misdiagnosis. Urine culture for mycobacteria is the gold standard for establishing the diagnosis. Three large volume specimens should be sent to maximize sensitivity. Appropriate treatment with antituberculous agents is usually successful.
+Final Diagnosis
+Renal tuberculosis caused by Mycobacterium tuberculosis .
+References
+Mandell, Douglas and Bennett's Principles and Practice of Infectious Diseases, Fifth Edition (2000), Chapter 240, page 2602.
+Wise, G.J., and Marella, V.K. (2003). Genitourinary manifestations of tuberculosis. Urol Clin North Am 30, 111-121.
+PMID:12580563 ( PubMed abstract )

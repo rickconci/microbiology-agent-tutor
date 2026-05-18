@@ -1,0 +1,39 @@
+History of Present Illness
+Summary of IDSA 2006 Case Submission: A woman with cough and chest pain following kidney transplantation.
+A woman in her fifties presented with a two-week history of pleuritic chest pain and a cough that was not productive. The symptoms had developed four months after kidney transplantation. There was no history of fevers, chills, rigors, or weight loss.
+Past Medical History
+She had undergone kidney transplantation from a related donor four months earlier. There was also a history of cerebral vascular accident that had affected the mid-brain and pons, and from which she had minimal residual deficits.
+Medications
+Medications included prednisone (10 mg daily), tacrolimus (2 mg in the morning and 1 mg in evening), and mycophenolate (500 mg every 12 hours).
+Epidemiological History
+The patient was of African-American ethnicity. There was no history of illicit drug use, or alcohol and tobacco use. She tended numerous potted plants inside of the home, and had no travel history outside her home region in a mid-Atlantic state. She did not live near the coast.
+Physical Examination
+The temperature was normal. There were crackles upon inspiration noted in the upper lobe of the right lung. The remainder of the examination was otherwise normal.
+Studies
+The white cell count was 8,700/µl, hemoglobin 11.6 g/dl, serum urea nitrogen 16 mg/dl, and creatinine 1.2 mg/dl.
+A chest radiograph ( Figure 1 ) revealed a wedge-shaped opacity seen in the periphery. Computed tomography (CT) of the chest ( Figure 2 ) showed a mass-like consolidation that measured 4.3 centimeters (cm) by 4.0 cm.
+Figure 1. Chest radiograph.
+Figure 2. CT scan of the chest.
+Clinical Course Prior to Diagnosis
+Bronchoscopy was performed and specimens were sent for culture, acid-fast bacilli and fungal stains, but results were not diagnostic. A right upper lobectomy with mediastinal lymph node dissection was performed. Pathological examination of surgical specimens are shown in Figures 3, 4, and 5 .
+Figure 3. Hematoxylin and eosin stain of the lung, 40 x magnification.
+Figure 4. Gomori-methenamine stain of the lung, 40 x magnification.
+Figure 5. GMS stain of the lung, 100x magnification.
+Diagnostic Procedure(s) and Result(s)
+Cultures of specimens from the brain and lung grew Cladophialophora bantiana .
+Treatment and Followup
+Following recovery from the thoracotomy, the patient was discharged from the hospital on voriconazole (200 mg orally every 12 hours) and caspofungin (50 mg intravenously daily), and the same immunosuppressive medications as on admission.
+Six weeks after discharge, mild headache developed, associated with vertigo, decreased manual dexterity, and loss of balance to the left. Two weeks later, magnetic resonance imaging (MRI) of the brain ( Figures 6 and 7 ) revealed findings consistent with a brain abscess.
+The patient was re-admitted and aspiration of the brain lesion performed, followed by complete resection of the lesion. A gram stain of the aspirate is shown in Figure 8 . Due to the patient’s development of central nervous system (CNS) disease while on a combination of voriconazole and caspofungin therapy, amphotericin B lipid complex (5mg/kg/day), flucytosine (5-FC) (12.5 mg/kg every 6 hours), and itraconazole oral solution (300 mg every 12 hours) were administered.
+Micafungin was also initiated at a dose of 150mg intravenously, daily. Aggressive surgical excision of the lesion was performed with minimal neurologic sequela. At follow-up three months after discharge, the patient had improved clinically and tolerated the antifungal medications without adverse renal or hematological toxicities. A follow-up MRI scan, after resection of the brain abscess, is shown in Figure 9 .
+Figure 6. MRI scan of the brain.
+Figure 7. MRI scan of the brain.
+Figure 8. Gram stain of the aspirate, 100 x magnification.
+Figure 9. Follow-up MRI scan of the brain.
+Discussion
+Cladophialophora bantiana is a dematiaceous, or “black mold” fungus, which contains melanin pigments in the cell walls. These organisms appear to have a neurotropism for causing CNS infections. Treatment of CNS lesions requires both surgical excision and combination antifungal therapy with amphotericin B, azoles (itraconazole or voriconazole), and flucytocine. Echinocandins have activity against some dematiaceous fungi, although clinical experience is limited. Despite aggressive therapy, mortality rates approach 75% [Revankar et al 2004].
+Final Diagnosis
+Brain abscess caused by Cladophialophora bantiana , in a patient following renal transplantation.
+References
+Revankar, S.G., Sutton, D.A., and Rinaldi, M.G. (2004). Primary central nervous system phaeohyphomycosis: a review of 101 cases. Clin Infect Dis 38, 206-216
+PMID:14699452 ( PubMed abstract )

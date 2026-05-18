@@ -1,0 +1,49 @@
+History of Present Illness
+A man in his fifties was referred to infectious disease clinic for progressive left corneal ulcer. Several weeks prior to his initial presentation to ophthalmology, he had two eye injuries. The first occurred when removing insulation from an attic and the second when mowing his lawn and his left eye was struck by plant debris. Fluorescein stains of his left eye demonstrated a corneal ulcer and he had ongoing follow-up with ophthalmology (Figures 1 and 2 taken on day 30 of initial presentation). On day 40, he complained of complete loss of vision in the left eye.
+Figure 1. Image
+Figure 1: Photograph of fluorescein stained left eye on day 30 of presentation demonstrated a central infiltrate and the extent of corneal ulceration.
+Figure 2. Image
+Figure 2: Photograph of fluorescein stained left eye under blue light on day 30 of presentation. This adds contrast and helps delineate the full extent of corneal ulceration.
+Past Medical History
+Diet-controlled diabetes mellitus and hypertension.
+Epidemiological History
+He lives with his wife and dog, and has had no recent fresh water or small rodent exposures. He smoked 1 pack of cigarettes a day.
+Physical Examination
+T 99°F (37.2°C), P 61 beats per minute, BP 141/78 mmHg. He was in no acute distress. His right eye was normal. On the left, his cornea was completely opacified (figure 3) suggestive of progressive keratitis. His dentition was poor. He had no palpable cervical or pre-auricular lymphadenopathy and the remainder of the exam was normal.
+Figure 3. Figure 3: Photograph of left eye taken on day 40 of presentation. Rapid progression seen with complete opacification of the cornea suggestive of progressive keratitis
+Studies
+Routine laboratory studies, including complete blood count were within normal ranges.
+Diagnostic Procedure(s) and Result(s)
+Corneal scrapings taken at his initial presentation (day 1) grew a white mold on Sabaroud culture plate (Figure 4); this was later identified as Paecilomyces lilacinus (recently renamed Purpureocillum lilacinus ). Subsequent cultures from corneal scrapings on days 8 and 21 also showed Paecilomyces spp ., with the latter also positive for Candida glabrata .
+He underwent a left eye penetrating keratoplasty and corneal transplant on day 40 (figure 5). Intraoperative specimens grew Paecilomyces spp . and Candida albicans . The MIC for P. lilacinus were: Amphotericin >16, Fluconazole >64, Flucytosine >64, Itraconazole 4, Voriconazole 0.5 (μg/ml).
+Figure 4. Figure 4: SAB plate with a powdery white mold on day 5 of culture
+Figure 5. Figure 5: Photograph of left eye on day 41 after presentation (1 day after his first corneal transplant)
+Treatment and Followup
+He received intraocular and topical voriconazole and topical natamycin eye drops and systemic voriconazole. Despite this, 14 days after his first corneal transplant (day 54 of presentation), recurrence of an infiltrate was noted in the inferior aspect of the temporary cornea graft, necessitating further surgery (figure 6).
+He became intolerant of systemic voriconazole with intractable nausea and vomiting after two months and transitioned to systemic posaconazole for six months on day 92 (with confirmed therapeutic levels). On day 275, he was transitioned to isavuconazole in the hope of improved tissue penetration and better tolerability. Despite this, he continued to have recurrent fungal infection of all six of his transplanted corneas. He ultimately underwent enucleation of the infected eye.
+Figure 6. Figure 6: Photograph of left eye 54 days from presentation and 14 days post his first corneal transplant. Recurrence of an infiltrate at the inferior aspect of the temporary corneal graft.
+Discussion
+The evaluation of ocular inflammation includes determining the affected compartment(s), consideration of typical pathogens and non-infectious etiologies, and determination of need for emergent treatment.(1) Keratitis involves the cornea, may be caused by foreign body exposure with incomplete lid closure, ultraviolet radiation, or infection with bacteria, viruses, fungi and protozoa.(2) The patient discussed in this case had a severe and progressive fungal keratitis. Fungal keratitis is most often associated with ocular trauma, may be complicated by endophthalmitis, and has a higher rate of corneal perforation than bacterial keratitis. Patients with keratitis often complain of eye pain and report a history of foreign body or trauma.
+Uveitis is classified as anterior (anterior chamber), posterior (chorioretinal inflammation), intermediate (cells in the vitreous), or pan-uveitis, which involves anterior, vitreous, and posterior chambers. Endophthalmitis is the term used by convention to describe such inflammation when it is caused by bacterial or fungal infection, while uveitis is the term used by convention to describe such inflammation when it is caused by viral, parasitic, or noninfectious processes. Endophthalmitis is a medical emergency and may be due to exogenous (external sources including trauma) or endogenous seeding (via hematogenous spread).
+In keratitis, examination with fluorescein may delineate the extent of corneal involvement. Other examination findings may include hypopyon (leucocytic infiltrate seen as a milky white fluid level in the inferior part of the anterior chamber) or corneal infiltrate. The presence of branching, dendritic ulcers in the cornea suggests HSV keratitis.
+Paecilomyces spp. are an uncommon cause of fungal infections in humans. They are generally found as an environmental mold in food, soil, air and wood (3). The organism grows rapidly on standard agar and forms velvety whitish, olive or tanned colonies (3). Speciation is important as case series have described distinct antifungal susceptibilities. For example, P. variotii is typically resistant to voriconazole, while P. lilacinus may be resistant to most antifungals other than newer triazoles like voriconazole and posaconazole.(4) Based on whole genome sequencing Paecilomyces lilacinus has been separated from the Paecilomyces family and recently renamed as Purpureocillum lilacinus (5).
+A review of published cases of Paecilomyces reported many presented with devastating oculomycosis that required enucleation in 35% of cases.(3) The remainder of reported cases were cutaneous or subcutaneous infections or rarely disseminated infection.(3) Treatment of Paecilomyces keratitis is challenging and often requires surgery, though there is one case report of successful treatment with posaconazole despite the lower intraocular drug-levels anticipated with this drug.(6,7) The organism appears to be susceptible to echinocandins in vitro but this has not been confirmed in vivo . It typically has high MICs to amphotericin, fluconazole, flucytosine and itraconazole. (6-8)
+Final Diagnosis
+Purpureocillum (previously Paecilomyces ) lilacinus fungal keratitis.
+References
+Tarff A, Behrens A. Ocular Emergencies: Red Eye. Med Clin North Am. Elsevier Inc; 2017;101(3):615–39.
+PMID:28372717 ( PubMed abstract )
+Deibel JP, Cowling K. Ocular Inflammation and Infection. Emerg Med Clin North Am. Elsevier Inc; 2013;31(2):387–97.
+PMID:23601478 ( PubMed abstract )
+Pastor FJ, Guarro J. Clinical manifestations, treatment and outcome of Paecilomyces lilacinus infections. Clin Microbiol Infect. 2006 Oct;12(10):948–60.
+PMID:16961630 ( PubMed abstract )
+Castelli MV, Alastruey-Izquierdo A, Cuesta I, Monzon A, Mellado E, Rodriguez-Tudela JL, et al. Susceptibility testing and molecular classification of Paecilomyces spp. Antimicrob Agents Chemother. 2008;52(8):2926–8.
+PMID:18519716 ( PubMed abstract )
+Luangsa-Ard J, Houbraken J, van Doorn T. Purpureocillium, a new genus for the medically important Paecilomyces lilacinus. FEMS Microbiol Lett. 2011 Aug;321(2):141-9.
+PMID:21631575 ( PubMed abstract )
+Arnoldner M, Kheirkhah A, Jakobiec F, Durand ML, Hamrah P. Successful treatment of Paecilomyces lilacinus keratitis with oral posaconazole. Cornea. 2014 Jul;33(7):747–9.
+PMID:24858020 ( PubMed abstract )
+Aguilar C, Pujol I, Sala J, Guarro J. Antifungal susceptibilities of Paecilomyces species. Antimicrob Agents Chemother. 1998 Jul;42(7):1601–4.
+PMID:9660991 ( PubMed abstract )
+Houbraken J, Verweij PE, Rijs AJMM, Borman AM, Samson RA. Identification of Paecilomyces variotii in clinical samples and settings. J Clin Microbiol. 2010 Aug;48(8):2754–61
+PMID:20519470 ( PubMed abstract )

@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A man with headaches and mental status changes.
+A male in his thirties presented with severe headaches and decreased mental status over two weeks.
+Past Medical History
+He had a history of hepatitis C virus infection, which had previously failed to respond to a six-month course of interferon therapy.
+Epidemiological History
+He was raised in the Caribbean, had moved to the United States 10 years before presentation and lived in the Northeast. His last trip overseas was two years previously. He denied other international travel and had no pets.
+Physical Examination
+The patient was afebrile. There was temporal wasting and findings consistent with oral thrush was noted in the posterior pharynx. Examination of the heart and lung was normal. There were no skin abnormalities, and no evidence of septic embolic phenomena. His mental status was greatly reduced, and he was unable to answer questions. There was a left facial droop and mild left hand weakness. Gait could not be assessed.
+Studies
+The white blood cell count was 8,000 cells/mm³ (4.6% lymphocytes, 1.1% monocytes, and 94% neutrophils). Computed tomography (CT) of the head revealed multiple ring enhancing lesions. Blood cultures were unrevealing.
+Clinical Course Prior to Diagnosis
+Magnetic resonance imaging (MRI) of the brain revealed multiple ring enhancing lesions ( Figures 1 and 2 ) and entrapment of the right temporal horn.
+A lumbar puncture was performed; analysis of the cerebrospinal fluid (CSF) revealed total protein 162 mg/dL, glucose 56 mg/dL, and 5 white blood cells/mm³.
+Figure 1. MRI scan of the head.
+Figure 2. MRI scan of the head.
+Diagnostic Procedure(s) and Result(s)
+Serological testing for human immunodeficiency virus antibody was positive, with HIV-RNA level of greater than 500,000 copies/ml and CD4 T-lymphocyte count level of 16 cells/mm³. Testing for serum Toxoplasma IgG was positive.
+Treatment and Followup
+The patient was treated empirically with sulfadiazine and pyrimethamine for presumed toxoplasmosis. Later cerebrospinal fluid (CSF) studies confirmed Toxoplasma with a positive polymerase chain reaction test (PCR). The patient was treated for this and clinically improved, before the initiation of antiretroviral therapy.
+Discussion
+The patient presented with neurologic complaints and lesions on CT scan, but without a previous diagnosis of HIV infection. Although the MRI scan confirmed the presence of lesions, it was not specific enough to determine the etiology of disease. Based on his clinical presentation, he was thought to have a moderate likelihood of being HIV-positive (e.g., hepatitis C infection and the presence of oral thrush) and was treated empirically for toxoplasmosis while further studies were pending. Ultimately studies confirmed this diagnosis.
+Final Diagnosis
+Cerebral toxoplasmosis in a patient with human immunodeficiency virus (HIV) and AIDS, and a history of hepatitis C virus infection.
+References
+Barratt, J.L., Harkness, J., Marriott, D., Ellis, J.T., and Stark, D. (2010). Importance of nonenteric protozoan infections in immunocompromised people. Clin Microbiol Rev 23, 795-836.
+PMID:20930074 ( PubMed abstract )
+Mamidi, A., DeSimone, J.A., and Pomerantz, R.J. (2002). Central nervous system infections in individuals with HIV-1 infection. J Neurovirol 8, 158-167.
+PMID:12053271 ( PubMed abstract )
+Offiah, C.E., and Turnbull, I.W. (2006). The imaging appearances of intracranial CNS infections in adult HIV and AIDS patients. Clin Radiol 61, 393-401.
+PMID:16679111 ( PubMed abstract )
+Pereira-Chioccola, V.L., Vidal, J.E., and Su, C. (2009). Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol 4, 1363-1379.
+PMID:19995194 ( PubMed abstract )

@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A man with headaches and hallucinations.
+A man in his fifties presented with a five-day history of headaches, diffuse myalgias, chills, and anorexia. He had discontinued alcohol intake three days prior to admission. On the evening of admission, he became disoriented with visual hallucinations.
+In the emergency room, he was hypertensive and tachycardic. The patient was treated with a benzodiazepine and intubated for airway protection. Computed tomography (CT) of the head without contrast showed no acute abnormality. He was admitted to the intensive care unit.
+A lumbar puncture demonstrated 267 white blood cells per cubic millimeter (82% lymphocytes), 56 red blood cells per cubic millimeter, protein 333 mg/dL, and glucose 83 mg/dL. The cerebrospinal fluid (CSF) results revealed negative gram stain, bacterial, fungal and viral cultures, cryptococcal antigen, and testing for syphilis (VDRL). He was treated with intravenous vancomycin (2 g/d), ceftriaxone (4g/d), and acyclovir (30 mg/kg/d). Magnetic resonance imaging (MRI) of the brain with gadolinium was normal. An electroencephalogram (EEG) demonstrated diffuse slowing without epileptiform discharge or localization.
+Past Medical History
+There was a history of alcohol abuse, and two episodes of aseptic meningitis that had occurred a decade earlier.
+Physical Examination
+He was lethargic. His blood pressure was 160/90 mm Hg, heart rate 100 beats/minute, and temperature 100.6°F (38.1°C). There was minimal nuchal rigidity. There was no rash, and no oral or genital ulcers were seen. The remainder of his examination was normal.
+Studies
+Two days later, a repeat lumbar puncture revealed 313 white blood cells (WBCs) per cubic millimeter, with 95% lymphocytes, protein 305 mg/dL, and glucose 75 mg/dL. The gram stain was negative. All cultures for microorganisms were negative.
+Clinical Course Prior to Diagnosis
+Eleven days after the first lumbar puncture, a third lumbar puncture was performed and showed 538 white blood cells per cubic millimeter, with 91% lymphocytes, total protein 111 mg/dL, and glucose 83 mg/dL. Cerebrospinal fluid cultures remained negative. Cytology of the cerebrospinal fluid showed large, atypical cells with abundant pale blue cytoplasm and large, footprint nuclei ( Figure 1 ).
+Figure 1. Laboratory finding.
+Diagnostic Procedure(s) and Result(s)
+Herpes simplex virus (HSV) was detected in the cerebrospinal fluid by PCR amplification (See Figure 2 .) Type-specific ELISA of serum showed no evidence of prior HSV-1 infection but was strongly positive for HSV-2 IgG.
+Figure 2. Laboratory finding.
+Treatment and Followup
+The patient received 3 weeks of acyclovir (30 mg/kg/d). He improved clinically, but his headache persisted and fevers occurred intermittently. He discontinued alcohol use, according to family, but continued to have headaches. A subsequent lumbar puncture showed 30 WBCs per cubic millimeter (98% lymphocytes), 0 RBCs, total protein 58 mg/dL, and glucose 70 mg/dL. The repeat HSV PCR was negative.
+Discussion
+A syndrome of recurrent episodes of aseptic meningitis was first described by Mollaret. Patients present with acute onset of fever, headache and neck stiffness. Cerebrospinal fluid (CSF) examination reveals a mixed pleocytosis with lymphocytes and polymorphonuclear leukocytes. In addition, there are large atypical cells with abundant pale blue cytoplasm and irregular footprint shaped nuclei (Mollaret cells). Initially thought to represent endothelial cells, recent evidence suggests Mollaret cells are actually derived from the monocytic lineage. The unusual features of this case are (1) the long duration of symptoms and CSF pleocytosis (typically the clinical and CSF findings resolve after 2-5 days) and (2) the high CSF protein (generally the CSF protein is <100 mg/ml in cases of Mollaret's meningitis). The discovery that some cases of Mollaret's meningitis are linked to HSV infection has resulted in the use of acyclovir to prevent recurrences. Although both HSV-1 and HSV-2 have been associated with Mollaret's meningitis, the latter is more common in this syndrome.
+Final Diagnosis
+Herpes Simplex Virus Type-2 meningitis with Mollaret's cells.
+References
+Picard, F.J., Dekaban, G.A., Silva, J., and Rice, G.P. (1993). Mollaret's meningitis associated with herpes simplex type 2 infection. Neurology 43, 1722-1727.
+PMID:8414021 ( PubMed abstract )
+Tyler, K.L. (2004). Herpes simplex virus infections of the central nervous system: encephalitis and meningitis, including Mollaret's. Herpes 11 Suppl 2, 57A-64A.
+PMID:15319091 ( PubMed abstract )

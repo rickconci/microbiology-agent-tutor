@@ -1,0 +1,27 @@
+History of Present Illness
+Summary: A man in his twenties with leukemia and ulcers on the lip and hard palate.
+A man in his twenties with acute myelogenous leukemia (AML) presented with a painful ulcer on his hard palate and a painless ulcer above his right upper lip. He had received induction chemotherapy for AML three months earlier, but had not achieved clinical remission. He therefore underwent re-induction chemotherapy several weeks after the initial cycle, and subsequently had marrow aplasia. The patient had been neutropenic for three months at the time the oral lesions developed. He was on broad-spectrum antibacterial and anti-fungal therapies. Because of the oral lesions, he received intravenous acyclovir, but the ulcers did not resolve.
+Past Medical History
+He had acute myelogenous leukemia (AML), M4 sub-type.
+Medications
+The medications are noted above.
+Physical Examination
+The patient was in no acute distress. The temperature was 101°F (38.3°C). There was a macular lesion above right upper lip and an ulcerated lesion with a white base on his hard palate ( Figure 1 ). The gums were markedly hypertrophied, which was thought to be due to tissue infiltration from his underlying M4-AML. The examination was otherwise normal.
+Figure 1. Physical findings on hard palate.
+Studies
+The white blood cell count (WBC) was 90 cells/mm³ with 85% lymphocytes, 3% monocytes and 12% atypical cells.
+Diagnostic Procedure(s) and Result(s)
+Cultures of the lip and hard palate were positive for herpes simplex virus, type 1 (HSV-1).
+Treatment and Followup
+Because the oral lesions persisted while the patient received acyclovir, there was concern that the virus may be resistant to this medicine. Acyclovir was stopped and intravenous foscarnet begun, and the lesions slowly improved. The patient subsequently underwent a non-myeloablative matched related donor allogeneic stem cell transplant for his failure of marrow recovery following chemotherapy.
+Discussion
+Acyclovir-resistant herpes simplex virus (HSV) should be considered in patients whose HSV lesions do not improve with therapy, especially if cultures remain positive despite treatment doses of acyclovir or related antivirals. Candidiasis generally causes whitish plaques in the oropharynx, although erythematous lesions and angular cheilitis may also occur. Histoplasmosis can cause deep and painless oral ulcers, usually as part of the syndrome of chronic progressive disseminated histoplasmosis. Both cytomegalovirus (CMV) and aspergillosis can cause oral ulcers in patients with prolonged neutropenia; a biopsy is often necessary to exclude these diagnoses.
+Final Diagnosis
+Herpes simplex virus Type 1 (HSV-1) lesion of the lip and hard palate in a neutropenic patient with M4-AML.
+References
+Bergmann, O.J., Mogensen, S.C., Ellermann-Eriksen, S., and Ellegaard, J. (1997). Acyclovir prophylaxis and fever during remission-induction therapy of patients with acute myeloid leukemia: a randomized, double-blind, placebo-controlled trial. J Clin Oncol 15, 2269-2274.
+PMID:9196140 ( PubMed abstract )
+Lam, M.T., Pazin, G.J., Armstrong, J.A., and Ho, M. (1981). Herpes simplex infection in acute myelogenous leukemia and other hematologic malignancies: a prospective study. Cancer 48, 2168-2171.
+PMID:6271382 ( PubMed abstract )
+Morfin, F., and Thouvenot, D. (2003). Herpes simplex virus resistance to antiviral drugs. J Clin Virol 26, 29-37.
+PMID:12589832 ( PubMed abstract )

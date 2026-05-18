@@ -1,0 +1,43 @@
+History of Present Illness
+2009 IDSA Pediatric Fellows' Day Case Presentation Summary: A teenaged male with back pain and leg weakness.
+A teenaged male developed back pain and leg weakness approximately 2 weeks before presentation. He was seen at a hospital one week after the onset of pain, and a herniated disc at L5-S1 vertebral disc space was diagnosed. He was referred to physical therapy and given naproxen for pain relief. During the next week, weakness increased, involving both legs, and was associated with numbness in his feet, bilateral hand tingling, and urinary hesitancy. He was seen at another hospital for evaluation. There was no history of fevers, constitutional symptoms, and bowel or bladder incontinence.
+Past Medical History
+Three weeks before this presentation, he had had an upper respiratory tract infection. He had no prior hospitalizations or surgeries.
+Medications
+His only medication was naproxen for 2 weeks.
+Allergies
+He had no known drug allergies.
+Social History
+He lived with his parents and sibling.
+Epidemiological History
+He lived in a city in the northeastern United States, and had no pets. He had traveled to East Africa several years before, and while there, he swam in a lake. He smoked tobacco and marijuana, did not consume alcohol or use other illicit drugs, and reported no history of sexual activity.
+Physical Examination
+He appeared comfortable and was talkative. The temperature was 98.8°F (37.1°C), blood pressure 129/63 mm Hg, pulse 70 beats per minute, and respirations 14 breaths per minute. On neurologic examination, the cranial nerves were intact. Bilateral hip flexion, knee flexion, and dorsal and plantar flexion strength was 4 out of 5. Sensation was mildly decreased in both feet below the ankles. His gait was mildly wide-based. All reflexes were intact; coordination and the remainder of the examination were normal.
+Studies
+The white blood cell count was 9100 per cubic millimeter (reference range 4000-10,500) with neutrophils 68%, lymphocytes 18%, monocytes 8%, and eosinophils 6%. The hematocrit was 49% (ref 36-47) and platelet count 273,000 per cubic millimeter (ref 150,000-400,000). Test results of routine chemistries and tests of liver function were normal. The erythrocyte sedimentation rate (ESR) was 2 millimeters per hour (ref 0-10); C-reactive protein (CRP) was less than 7 mg/L (ref <10), and creatine kinase was 115 U/L (ref 30-170).
+Clinical Course Prior to Diagnosis
+A lumbar puncture was performed; examination of the cerebrospinal fluid revealed a total protein of 119 mg/dL (ref 12-60), glucose 60 mg/dL (ref 40-70), 1 red blood cell per cubic millimeter (ref 0), 110 white blood cells per cubic millimeter (ref 0-5) with 86% lymphocytes and 10% monocytes. The gram stain and bacterial culture of the CSF, and a viral encephalitis panel, were negative. Tests for Lyme disease, syphilis, Epstein Barr virus, ova and parasite of the stool and urine, and a tuberculin skin test were negative. A serum test for antibodies to cytomegalovirus (CMV) was immunoglobulin (Ig) M positive and IgG negative. Magnetic resonance imaging (MRI) of the spine showed a conus medullaris that was mildly enlarged ( Figure 1, A, before gadolinium ) with patchy enhancement ( Figure 2, B, after gadolinium ), with thickened and enhancing ventral nerve roots from the T12 to L1 vertebrae, and increased signal at the level of the T8 to T10 vertebrae ( Figure 3, C ).
+Figure 1. MRI of spine, before gadolinium.
+Figure 2. MRI of the spine, T1-weighted, after gadolinium.
+Figure 3. MRI of the spine, T2-weighted.
+Diagnostic Procedure(s) and Result(s)
+A sample of peripheral blood and cerebral spinal fluid were sent to the Centers for Disease Control for Schistosoma antibody testing. Both were positive for S. mansoni .
+Treatment and Followup
+The patient was treated with praziquantel for 3 days, which was repeated after 4 weeks, and corticosteroids for six months, with complete resolution of his symptoms. A follow-up MRI at 4 months was normal.
+Discussion
+Spinal neuroschistosomiasis should be considered in any patient with myelopathy and a history of travel to an endemic area. Schistosomiasis infects 200 million people worldwide, mostly in sub-Saharan Africa [Gryseels et al 2006]. Neuroschistosomiasis is a rare and threatening complication of chronic infection. Although this patient had complete resolution of his symptoms, up to 25% of patients may have functional limitations after appropriate therapy [Silva et al 2004]. Such sequelae may be prevented with testing for peripheral eosinophilia and stool ova and parasites in patients after travel to endemic areas. This patient’s symptoms are inconsistent with transverse myelitis since his deep tendon reflexes were normal. Although this patient did have an upper respiratory infection 3 weeks before presentation, neurologic complications of Mycoplasma pneumoniae are extremely rare, whereas neuroschistosomiasis is more common in a patient with a consistent travel history. Cytomegalovirus (CMV) myeloradiculitis has been reported in AIDS patients. This patient denied sexual activity and had no other risk factors for HIV infection, making this diagnosis as well as the diagnosis of neurosyphilis unlikely. Tuberculous spondylitis (Pott’s disease) generally involves vertebral bodies rather than the spinal cord itself. It may present with myeloradiculopathy, but this is usually secondary to spinal cord compression from either bony deformity (skeletal destruction or kyphosis) or from extension of a cold abscess. Tuberculosis is unlikely to produce the enhancement in the spinal cord on MRI seen in this patient. There was no history of tick bites, travel to wooded areas, or erythema migrans to suggest Lyme disease.
+Final Diagnosis
+Spinal neuroschistosomiasis, caused by Schistosoma mansoni .
+References
+Ferrari, M.L., Coelho, P.M., Antunes, C.M., Tavares, C.A., and da Cunha, A.S. (2003). Efficacy of oxamniquine and praziquantel in the treatment of Schistosoma mansoni infection: a controlled trial. Bull World Health Organ 81, 190-196.
+PMID:12764515 ( PubMed abstract )
+Ferrari, T.C., Moreira, P.R., and Cunha, A.S. (2008). Clinical characterization of neuroschistosomiasis due to Schistosoma mansoni and its treatment. Acta Trop 108, 89-97.
+PMID:18499080 ( PubMed abstract )
+Gryseels, B., Polman, K., Clerinx, J., and Kestens, L. (2006). Human schistosomiasis. Lancet 368, 1106-1118.
+PMID:16997665 ( PubMed abstract )
+Lighter, J., Kim, M., and Krasinski, K. (2008). Intramedullary schistosomiasis presenting in an adolescent with prolonged intermittent back pain. Pediatr Neurol 39, 44-47.
+PMID:18555172 ( PubMed abstract )
+Ross, A.G., Bartley, P.B., Sleigh, A.C., Olds, G.R., Li, Y., Williams, G.M., and McManus, D.P. (2002). Schistosomiasis. N Engl J Med 346, 1212-1220.
+PMID:11961151 ( PubMed abstract )
+Silva, L.C., Maciel, P.E., Ribas, J.G., Souza-Pereira, S.R., Antunes, C.M., and Lambertucci, J.R. (2004). Treatment of schistosomal myeloradiculopathy with praziquantel and corticosteroids and evaluation by magnetic resonance imaging: a longitudinal study. Clin Infect Dis 39, 1618-1624.
+PMID:15578361 ( PubMed abstract )

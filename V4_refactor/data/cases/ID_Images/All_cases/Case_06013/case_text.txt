@@ -1,0 +1,25 @@
+History of Present Illness
+IDSA 2006 Case Submission Summary: A man from Southeast Asia with HIV and AIDS, fever and a rash.
+A man in his forties, with a history of human immunodeficiency virus (HIV) and AIDS, presented with fever, weakness, malaise, cough, occasional hemoptysis, and a rash. His symptoms had developed during the preceding week.
+Past Medical History
+The patient had HIV and AIDS. The most recent CD4 T-lymphocyte cell count was 13 cells per microliter and the level of HIV RNA was 177,000 copies per milliliter. He had been diagnosed with pulmonary tuberculosis and had been taking directly observed therapy for seven months.
+Medications
+Medications included lopinavir-ritonavir, abacavir-lamivudine, sulfamethoxazole-trimethoprim, azithromycin, isoniazid and rifampin.
+Epidemiological History
+He was born and raised in Southeast Asia, and had been living in the Southwest United States for approximately five years. He was divorced and worked as a laborer. He denied alcohol or drug abuse, recent travel or exposure to pets.
+Physical Examination
+The patient was cachectic and lethargic, but arousable. The temperature was 101.3°F (38.5°C), respirations 20 breaths per minute, pulse 118 beats per minute, and blood pressure 98/56 mm Hg. The oral mucosa revealed white patchy areas consistent with thrush. Rales were heard in the right basal area of the chest. The abdomen was soft and the spleen tip was palpable. There were multiple ecchymoses and bleeding from puncture sites including in the area where a lumbar puncture had been performed. A maculopapular rash, with an erythematous base, was scattered on the face, torso and arms ( Figure 1 ).
+Figure 1. Physical finding.
+Studies
+The hemoglobin was 10.4 g/dL, white blood cell count 9,800 cells/uL, platelets 78,000/uL. Partial thromboplastin time was 64.2 seconds, prothrombin time 16 seconds, and INR 1.6. The plasma level of urea nitrogen was 35 mg/mL, creatinine 3.2 mg/dL, alanine aminotransferase 148 U/L, aspartate aminotransferase 894 U/L, alkaline phosphatase 651 U/L, lactate dehydrogenase 5805 U/L, and total bilirubin 1.1 mg/dL. The D-dimer was positive. An image of the blood smear is shown in Figure 2 .
+Figure 2. Blood smear.
+Clinical Course Prior to Diagnosis
+The patient developed melena and bleeding from puncture sites soon after admission and was transferred to the intensive care unit. An Infectious Diseases consult was obtained.
+Diagnostic Procedure(s) and Result(s)
+A diagnosis of disseminated histoplasmosis was made upon examination of the blood smear. A specimen of urine revealed a positive Histoplasma antigen at a titer of 55.93 EIA units and a culture of the blood grew H. capsulatum .
+Treatment and Followup
+Liposomal amphotericin B was administered with excellent response. At the time of discharge, the antifungal therapy was changed to oral itraconazole.
+Discussion
+The natural reservoir of Histoplasma capsulatum is in the soil, including bat and avian habitats in the mid- and southwest regions of the United States. Disseminated disease is associated with AIDS, steroid use, renal allografts, hematologic malignancies and use of tumor necrosis factor inhibitors. The urinary Histoplasma antigen test is highly sensitive in AIDS patients and can be followed to monitor response to therapy. Itraconazole can be discontinued in patients who are treated and have a sustained response to highly active antiretroviral therapy (HAART) with a CD4 T-lymphocyte cell count of greater than 150 cells/ul for at least 6 months.
+Final Diagnosis
+Disseminated histoplasmosis, caused by Histoplasma capsulatum , in a patient with HIV infection and AIDS.

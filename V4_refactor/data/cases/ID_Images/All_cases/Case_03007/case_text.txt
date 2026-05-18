@@ -1,0 +1,34 @@
+History of Present Illness
+IDSA 2003 Summary: A man in his sixties with pulmonary infiltrates.
+A man in his sixties presented with the acute onset of fever, hemoptysis, and dyspnea.
+Past Medical History
+He had chronic obstructive pulmonary disease (COPD), coronary artery disease, sick sinus syndrome requiring a pacemaker, micronodular cirrhosis (Child’s Class B) and a history of alcohol abuse.
+Medications
+Medications included ramipril, albuterol metered dose inhaler, and ipratropium metered dose inhaler.
+Epidemiological History
+He lived in Tennessee, and denied travel to the southwestern United States, South America, Europe, Asia, or Australia. He had a history of alcohol abuse and 30 pack-year history of smoking, with no use of illicit substances or injection drug use. He denied exposures to tuberculosis, other ill contacts, animals or arthropods.
+Physical Examination
+The patient was in severe respiratory distress. The temperature was 96°F (35.6°C), blood pressure 90/50 mm Hg, pulse 100 beats per minute, respirations 30 breaths per minute. He appeared jaundiced and had scleral icterus. There were increased bronchial breath sounds in the right middle and upper lung fields, and 1+ bilateral pitting edema of the legs. The remainder of his examination was normal.
+Studies
+The white blood cell count (WBC) was 28,700/mm³, 91% polymorphonuclear neutrophils, platelet count 114,000/mm³, creatinine 1.3 mg/dL, albumin 1.8 g/dL, total bilirubin 5 mg/dL, and INR 1.4. An arterial blood gas, while breathing 40% inspired oxygen, revealed pH 7.34, partial pressure of oxygen (pO2) of 54 mm Hg, and partial pressure of carbon dioxide (pCO2) of 46 mm Hg.
+A chest radiograph revealed a new right upper lobe infiltrate ( Figure 1 ). Computed tomography (CT) of the chest is shown in Figure 2 .
+Figure 1. Chest radiograph.
+Figure 2. CT scan of the chest.
+Clinical Course Prior to Diagnosis
+The patient was intubated and placed on a mechanical ventilator. Bronchoscopic examination was performed. The gram stain of the bronchial washings of the right upper lobe is shown in Figure 3 .
+Figure 3. Gram stain (100x magnification).
+Diagnostic Procedure(s) and Result(s)
+The bronchoscopy did not reveal any endobronchial lesions. In Figure 3 (Gram stain of right upper lobe bronchial washing), the arrows point to gram negative rods, a neutrophil, and (on the bottom of the image) a respiratory epithelial cell. Cytology of the right upper lobe brushings ( Figure 4 ) revealed reactive atypical bronchial epithelial cells with degenerative changes, reactive atypical bronchial epithelial cells, neutrophils, and normal typical bronchial epithelial cells.
+Routine culture of the bronchial brushings and washings grew Klebsiella pneumoniae resistant only to ampicillin and ticarcillin. Other cultures of the bronchial specimens and blood cultures were sterile; acid-fast and silver stains of the brushings and washings were negative. Tests for antibodies to human immunodeficiency virus (HIV) and urinary Legionella antigens were also negative.
+Figure 4. Bronchoalveolar lavage cytology, Papanicolaou stain (40x magnification).
+Treatment and Followup
+The patient was diagnosed with Klebsiella pneumoniae community-acquired pneumonia. He was treated with two weeks of pipercillin-tazobactam and levofloxacin. He was eventually transferred to a skilled-nursing facility, where he unfortunately acquired and ultimately succumbed to a methicillin-resistant Staphylococcus aureus nosocomial pneumonia.
+Discussion
+Klebsiella has been a known human pathogen since it was first isolated in the late nineteenth century by Edwin Klebs. It is often referred to as Friedlander’s bacillus in honor of Carl Friedlander who identified it as a significant respiratory pathogen in 1882. Klebsiella pneumoniae is a gram-negative, lactose-fermenting, non-motile, aerobic rod. There is a prominent polysaccharide capsule with more than 80,000 antigen serotypes. No unique virulence factors have been identified save for the capsule that inhibits phagocytosis and endotoxin. Humans are the primary reservoir for Klebsiella although these organisms can also be found in soil and water. Nasopharyngeal colonization in the general population has been estimated to be about 5%. However, certain risk factors such as chronic obstructive pulmonary disease, diabetes mellitus, and alcoholism increase the rate of colonization and infection.
+Klebsiella has been estimated to cause about 5% of community-acquired pneumonia and along with Enterobacter about 10% of nosocomial pneumonia. Klebsiella pneumoniae has a tendency for abscess formation, cavitation, and empyema. Rarely, there are metastatic complications such as pericarditis, arthritis, meningitis, or pulmonary gangrene.
+The disease is typically acute with the sudden onset of cough, pleurisy, dyspnea, and fever. It is a very inflammatory process with necrosis that can culminate in the classic thick, bloody, “currant jelly” sputum. Fever, tachypnea, and lung consolidation are usually features on physical examination. Leukocytosis and hypoxemia are typical laboratory features. The radiographic appearance is typically dense lobar consolidation with a predilection for the posterior segment of the right upper lobe. Bowing of the fissure downward due to intense consolidation give rise to the bulging fissure sign.
+The diagnosis is suggested by the findings of many polymorphonuclear neutrophils and plump gram-negative rods on a sputum gram stain. Definitive diagnosis is made by recovery of Klebsiella from lower respiratory tract secretions or from blood cultures. Bacteremia is common and seen in about 75% of cases.
+The mainstay of therapy has traditionally been comprised of combination therapy with a cephalosporin and aminoglycoside. However, due to the acquisition of various genetic elements such as R plasmids, resistance of Klebsiella to cephalosporins and aminoglycosides has been increasing. Newer agents such as carbapenems, and fluoroquinolones have thus been used either as monotherapy or in combination with good results. Recently, multi-drug resistant Klebsiella pneumoniae outbreaks have been described, especially in intensive care units with strains that elaborate an extended-spectrum Beta-lactamase. The antibiotic treatment of nosocomial Klebsiella infections requires susceptibility determination for optimal results. Empirical antibiotic coverage should be tailored to the drug resistance pattern seen in the local hospital setting.
+The mortality rate from Klebsiella pneumoniae is quite significant. In the pre-antibiotic era, classic Klebsiella pneumoniae was considered almost universally fatal. The use of antibiotic therapy has markedly decreased the mortality rate. A poor prognosis is usually associated with severe underlying medical diseases or inadequate therapy.
+Final Diagnosis
+Klebsiella pneumoniae pneumonia.

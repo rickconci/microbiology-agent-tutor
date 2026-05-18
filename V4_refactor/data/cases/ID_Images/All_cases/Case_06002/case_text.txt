@@ -1,0 +1,42 @@
+History of Present Illness
+2006 February Featured Case and Medical Student Curriculum Case Summary: A man with shortness of breath and respiratory failure.
+A man in his thirties presented during the winter season with progressive shortness of breath and fever .
+Four days before admission , the patient stayed home from work due to fevers and flu-like symptoms, which included nausea, generalized malaise and fatigue. He traveled out of town the following two days and continued to feel unwell.
+One day before admission, he presented to the emergency room of an outside hospital with fever to 101°F (38.3°C), vomiting and diarrhea. Five liters of intravenous fluid were infused and a prescription for ciprofloxacin was given for presumed infectious gastroenteritis . The patient returned the following day with worsening shortness of breath and the sensation that his lungs were filling with fluid. There was no history of rashes, arthralgias, chest pain, neck stiffness, rectal bleeding, hematemesis, headache, sinus pressure, cough or hemoptysis.
+On presentation to the outside hospital, the patient was able to speak in full sentences and appeared diaphoretic . The temperature was 97.9°F (36.6°C), pulse 118 beats per minute, blood pressure 133/73 mm Hg and the oxygen saturation ranged between 90-95% on 100% inspired oxygen . An echocardiogram did not show any evidence of left ventricular dysfunction or valvular pathology . Results of arterial blood gases included pH 7.25 , partial pressure of oxygen 54 mm Hg , and partial pressure of carbon dioxide 44 mm Hg while breathing 70% inspired oxygen by face mask. Cultures and sputum samples drawn. Chest radiography showed dense bilateral alveolar infiltrates .
+The patient's respiratory status declined, and he required intubation. Prednisone (40 milligrams) and broad spectrum antibiotics, including doxycycline, ceftriaxone, and trimethoprim sulfamethoxazole, were administered. The patient was admitted to the intensive case unit of the outside hospital and gatifloxacin and rifampin were added. He was then transferred to a tertiary care hospital.
+Past Medical History
+The patient had previously been in good health .
+Medications
+None .
+Epidemiological History
+The patient lived in an urban area. He was employed in the scientific sector, and his laboratory space had recently been moved to a temporary structure . He did not work with biological agents . Two weeks earlier, he had traveled to the Midwestern United States . He smoked cigarettes, occasionally drank alcohol and denied illicit drug use . He owned a dog and had no other recent exposures to animals . A friend had recently returned from Asia with pneumonia .
+Physical Examination
+On examination at the tertiary care hospital, the temperature was 99.1°F (37.3°C), pulse 98-120 beats per minute, blood pressure 73-104/41-63 mm Hg, respiratory rate 20-24 breaths per minute and oxygen saturation 90% on 100% inspired oxygen. The patient was intubated, sedated, and paralyzed. He appeared his stated age and well-nourished . There were coarse breath sounds present bilaterally; the remainder of the examination was normal.
+Studies
+The white blood cell count was 10,800 cells/mm³ (reference range 4500-11,000); (differential of 77% neutrophils, 12% bands, 7% lymphocytes and 3% monocytes), hematocrit 41.2% and hemoglobin 14.7 grams/dL. The level of alanine aminotransferase was 93 U/L (reference range 10-55), aspartate aminotransferase 109 U/L (reference range 10-40) and albumin 2.4 grams/dL (reference range 3.3-5.0); other routine laboratory tests were normal.
+A chest radiograph showed diffuse dense infiltrates bilaterally.
+Figure 1. Chest radiograph
+Clinical Course Prior to Diagnosis
+A sputum specimen was obtained and cultured. A gram stain of the sputum is shown in Figure 2 , and gram stain of the culture plate is shown in Figure 3 below.
+Figure 2. Gram stain of sputum sample.
+Figure 3. Gram stain of culture growth from a sputum specimen.
+Diagnostic Procedure(s) and Result(s)
+The urine was positive for Legionella pneumophila antigen , serogroup 1. The primary sputum gram stain showed a few polymorphonuclear leukocytes but no organisms. The sputum was then cultured on several types of media including a buffered charcoal yeast extract (CYE) plate, which grew Legionella pneumophila , serogroup 1. (See Figure 4.) PCR testing for Mycoplasma , an examination for Pneumocystis and fungal culture were negative. Testing for HIV infection was negative.
+Treatment and Followup
+Azithromycin was administered daily for 21 days. The patient gradually improved and was discharged.
+Figure 4. Detail of Figure 3.
+Discussion
+This patient had Legionnaires’ disease, an acute consolidating pneumonia. There is usually a prodrome of fever and generalized malaise, often with gastrointestinal complaints including nausea, vomiting and diarrhea. This can delay diagnosis in the early phase, as illustrated by this patient. Legionnaires’ disease is caused by Legionella pneumophila , a gram negative bacillus with fastidious growth requirements. While there are at least 16 different serogroups, L. pneumophila , serogroup 1, causes 70-90% of human infections and is the only serotype identified by the urinary antigen test. Legionella pneumonia is initiated by aerosolization, generally by an infected water source. It is often indistinguishable from other causes of acute community acquired pneumonia, particularly pneumococcal pneumonia; however, Legionella tends to cause multi-lobar, diffuse consolidation and there may be significant gastrointestinal symptoms with abnormalities of the liver function tests.
+In any previously healthy person with an acute serious pulmonary process, other considerations, including emerging infections such as SARS and community-acquired necrotizing MRSA (methicillin-resistant Staphylococcus aureus ) pneumonia, agents of bioterrorism, such as plague and tularemia, and an undiagnosed immunodeficiency, such as HIV infection or malignancy, with an opportunistic infection must be considered.
+Final Diagnosis
+Legionella pneumophila , serogroup 1, pneumonia.
+References
+(2011). Legionellosis --- United States, 2000-2009. MMWR Morb Mortal Wkly Rep 60, 1083-1086.
+PMID:21849965 ( PubMed abstract )
+Centers for Disease Control and Prevention (CDC). (2011) Legionellosis --- United States, 2000-2009. MMWR Morb Mortal Wkly Rep. 60(32):1083-6.
+PMID:21849965 ( PubMed abstract )
+O'Loughlin, R.E., Kightlinger, L., Werpy, M.C., Brown, E., Stevens, V., Hepper, C., Keane, T., Benson, R.F., Fields, B.S., and Moore, M.R. (2007). Restaurant outbreak of Legionnaires' disease associated with a decorative fountain: an environmental and case-control study. BMC Infect Dis 7, 93.
+PMID:17688692 ( PubMed abstract )
+Neil and Berkelman. (2008)Increasing incidence of legionellosis in the United States, 1990-2005: changing epidemiologic trends. Clin Infect Dis. 2008 Sep 1;47(5):591-9.
+PMID:18665818 ( PubMed abstract )

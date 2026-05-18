@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A man with fatigue, jaundice and dark urine.
+A man in his forties with a history of an aortic valve replacement and pacemaker placement presented to his primary care physician with fatigue, abdominal pain, jaundice and dark urine. Hepatitis serologies revealed that the patient had acquired hepatitis A. Blood cultures drawn in clinic grew a gram-positive bacillus, and the patient was admitted to an outside hospital.
+At the outside hospital, a transesophageal echocardiogram was positive for an aortic vegetation (1.3 centimeter by 1.5 centimeter) that was new when compared to a study one year earlier. The patient was transferred to a tertiary medical center.
+Past Medical History
+The patient had previously used intravenous drugs, and six years earlier had developed native valve enterococcal endocarditis. A homograft aortic valve replacement and one-vessel coronary artery bypass graft were performed. A dual chamber pacemaker was inserted for treatment of complete heart block in the setting of an embolic coronary event. He also had Hepatitis C virus infection and hypertension, and had had a cerebrovascular stroke and a splenic infarct in the past.
+Epidemiological History
+The patient resided in the southern United States. He denied intravenous drug use for the preceding three years, and also denied other recent drug use, tobacco or alcohol use. He was employed and lived with a relative.
+Physical Examination
+The temperature was 98.2°F (36.8°C), pulse 67 beats per minute, blood pressure 100/70 mm Hg, respirations 12 per minute, and oxygen saturation 97%. A systolic ejection murmur was present, unchanged from earlier examinations.
+Clinical Course Prior to Diagnosis
+The patient was transferred to the tertiary medical center, and was not receiving antibiotics. Additional blood cultures were obtained and were positive for the same organism found growing in the blood cultures that had been drawn at the outside hospital ( Figures 1 and 2 ).
+Figure 1. Stain of growth from blood culture.
+Figure 2. Detail of Figure 1.
+Diagnostic Procedure(s) and Result(s)
+All blood cultures eventually grew out a gram-positive bacillus in the aerobic bottles. This was initially identified at the outside hospital as modified acid-fast bacilli (AFB) stain positive, and later shown to be AFB-stain positive, shown in Figures 1 and 2 , as well. Probes were negative for Mycobacterium tuberculosis and Mycobacterium avium complex (MAC).
+Blood cultures drawn at the tertiary hospital were positive after five days, and the organism was classified as a rapidly growing mycobacterium. Subsequent biochemical tests identified the organism as Mycobacterium chelonae .
+Treatment and Followup
+After cultures were obtained, vancomycin, cefotaxime, and doxycycline were administered to treat common gram-positive rods as well as atypical causes of endocarditis. Soon after the patient's admission, an embolic lesion on his left fifth digit appeared.
+When the organism was found to exhibit modified acid-fast-bacilli (AFB) staining, cefotaxime was discontinued and imipenem was administered. The doxycycline was changed to minocycline for increased activity against possible Nocardia infection.
+The following day, when the laboratory of the initial hospital determined that the isolate was also AFB-stain positive and probes were negative for M. tuberculosis and M. avium complex (MAC), clarithromycin and levofloxacin were added for their activity against the rapidly growing mycobacteria. The patient received imipenem, clarithromycin, amikacin and levofloxacin while the M. chelonae susceptibilities were being determined.
+Fourteen days after the patient's admission to the tertiary center, with negative blood cultures documented, an ascending aortic resection was performed with St. Jude's aortic valve replacement and partial homograft endarterectomy.
+Life-long suppression with oral antibiotics based on susceptibility testing was planned.
+Discussion
+There are few reported cases of rapidly growing mycobacteria (RGM) causing endocarditis. The majority of cases were reported in patients with prosthetic valves and occurred soon after valve replacement raising the possibility of hospital acquisition. Only one other “late occurrence” is reported.
+Surgery is critical in managing these patients with close to 100% mortality resulting if the valve is not removed. Antimicrobials should be selected based on susceptibilities of the known RGM. Mycobacterium fortuitum is usually susceptible to amikacin, cefoxitin, amikacin, and quinolones. Mycobacterium abscessus and Mycobacterium chelonae are more resistant but these mycobacteria are generally susceptible to clarithromycin. These organisms are also usually susceptible to amikacin.
+Final Diagnosis
+Prosthetic valve endocarditis due to a rapidly growing mycobacterium, Mycobacterium chelonae .
+References
+Bush, L.M., Paturi, A., Chaparro-Rojas, F., and Perez, M.T. (2010). Mycobacterial prosthetic valve endocarditis. Curr Infect Dis Rep 12, 257-265.
+PMID:21308540 ( PubMed abstract )
+Vail, G., Kohler, R., Steiner, F., and Donepudi, R. (2000). Successful treatment of Mycobacterium fortuitum prosthetic valve endocarditis: case report. Clin Infect Dis 30, 629-630.
+PMID:10722472 ( PubMed abstract )

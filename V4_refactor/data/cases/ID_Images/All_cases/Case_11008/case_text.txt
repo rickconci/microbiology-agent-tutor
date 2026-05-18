@@ -1,0 +1,63 @@
+History of Present Illness
+2012 January-February Featured Case and 2011 IDSA Fellows’ Day Case Presentation Summary: An elderly man with fever, abdominal pain, myalgias, arthralgias, and headache.
+A man in his seventies presented to the hospital during the summer with fever, abdominal pain, myalgias, arthralgias, and headache. He also reported malaise, dyspnea, loss of appetite secondary to early satiety, mild diarrhea, and scrotal pain. His symptoms had begun four days before presentation.
+Past Medical History
+He had a history of gout and hyperlipidemia.
+Medications
+Medications included simvastatin and allopurinol.
+Epidemiological History
+Three days before admission, he had worked on a horse ranch in mountains of the Western United States, where he received multiple mosquito bites. One week before presentation, he slept in an old, musty cabin near a lake in a neighboring state, and he had recently attended a livestock fair. He owned a dog that slept in his bed with him at night.
+Physical Examination
+The patient appeared apprehensive. The temperature was 102.3°F (39.1°C), pulse 98 beats per minute, blood pressure 110/78 mm Hg, and respirations 20-25 per minute. The abdomen and scrotum were diffusely tender, and there was lower extremity edema, and a petechial rash on his lower extremities.
+Studies
+The level of serum sodium was 130 mmol/L (reference range 133-145), creatinine 2.1 mg/dL (reference range 0.4-1.2), aspartate aminotransferase 101 U/L (reference range 0-47), alanine aminotransferase 70 U/L (reference range 0-47), alkaline phosphatase 77 U/L (reference range 3-117), total bilirubin 2.4 mg/dL (reference range 0.0-1.3), direct bilirubin 1.4 mg/dL (reference range 0.0-0.4), platelets 105,000/cubic millimeter (reference range 150,000-400,000), erythrocyte sedimentation rate 28 mm/hr (reference range 0-38), and C-reactive protein 171 mg/L (reference range 0-10). Other routine laboratory tests were normal. Computed tomography (CT) of the abdomen and pelvis revealed gallstones and was otherwise normal. A chest radiograph was normal.
+Clinical Course Prior to Diagnosis
+Doxycycline was administered empirically. He initially defervesced, but fever recurred on the fourth day of therapy, and persisted through the tenth hospital day; doxycycline was discontinued. Anemia developed, and serum protein electrophoresis (SPEP) revealed a monoclonal IgG kappa spike.
+A bone marrow biopsy was performed and shown in Figure 1 . The clinical data were not consistent with multiple myeloma, and a diagnosis of monoclonal gammopathy of undetermined significance (MGUS) was made.
+A hepatobiliary imino-diacetic acid (HIDA) scan revealed abnormal uptake with a reduced ejection fraction of approximately 24% (normal greater than 35%). A tagged white blood cell scan was non-diagnostic.
+The patient was discharged on moxifloxacin for presumed cholecystitis. Four days after discharge, he returned to the hospital because of tachycardia, fever, and hypotension. A repeat CT scan of the abdomen and pelvis revealed periportal edema, lymphadenopathy along the celiac axis, gallstones, gallbladder wall thickening, and pericholecystic fat stranding.
+Figure 1. Bone marrow biopsy, hematoxylin and eosin stain (100x magnification).
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of bone marrow biopsy specimens with hematoxylin and eosin (H and E) stain revealed granuloma with fibrin rings and lipid-filled vacuoles ( Figures 2 and 3 ).
+Coxiella burnetii IgG phase I antibodies were present at 1:128 dilution and IgG phase II antibodies were detected at 1:512 dilution.
+Anti-Parvovirus IgM and IgG antibodies were positive at titers of 1:1.3 and 1:1.8, respectively. Polymerase chain reaction (PCR) testing for Parvovirus was negative. Coccidiodes IgG EIA was slightly positive. A transthoracic echocardiogram was normal.
+Figure 2. Bone marrow biopsy.
+Figure 3. Bone marrow biopsy.
+Treatment and Followup
+The options for therapy, including doxycycline with either hydroxychloroquine or rifampin, were discussed with the patient, who chose the doxycycline and rifampin because he preferred the side effect profile of rifampin to hydroxychloroquine. He improved clinically on therapy, and within a month felt well enough to resume his active lifestyle. Coxiella titers initially increased, and a longer course of treatment for acute Q fever was recommended. He took doxycycline and rifampin for one year.
+Discussion
+Q fever is caused by Coxiella burnetii , an intracellular gram negative coccobacillus that contains a chromosome and plasmid. There are four different plasmid types which vary in virulence characteristics. The usual host cell in mammals is the macrophage. The bacteria exhibit antigenic alteration, called phase variation. Phase I antigen is associated with expression of full-length lipopolysaccharide and infection. Phase II antigen expression is associated with the noninfectious phase and involves a chromosomal deletion resulting in an irreversible modification of lipopolysaccharide molecules [Fournier et al. 1998; Raoult et al. 2005].
+Q fever occurs worldwide, with the most reported cases coming from France and Australia [Hartzell et al. 2008]. It often occurs in outbreaks; 808 cases were reported in the Netherlands from January – August 2008 [Delsing and Kullberg 2008]. More than 30 cases have been reported in military personnel returning from Iraq and Afghanistan [Hartzell et al. 2007]. An outbreak involving seroconversion of 137 people at the University of Colorado Medical School in 1981 occurred in association with exposure to pregnant sheep which were used for perinatal research. 70% of the people who seroconverted had no direct contact with the sheep but were located along routes followed by sheep carts [Meiklejohn et al. 1981].
+Natural reservoirs for C. burnetii include mammals, birds, reptiles, and arthropods. Infected animals shed the bacteria in urine, feces, milk, and birth products, particularly the placenta. The dessicated bacteria become aerosolized and may remain virulent for months. Humans can become infected by inhalation, or less commonly by ingestion or skin penetration [Hartzell et al. 2008]. The bacterium is highly contagious, and only a few organisms can cause disease. One gram of infected placenta may contain enough bacteria to infect 100,000,000 guinea pigs [Parker et al. 2006].
+Primary infection is commonly asymptomatic [Tissot-Dupont and Raoult 2008]. The incubation period is about 20 days, and the illness has acute and chronic forms, with chronic infection defined as infection for more than 6 months. The most common clinical presentations include flu-like illness, pneumonia, or hepatitis. Pneumonia is usually mild with a nonproductive cough and nonspecific chest radiograph findings. Hepatitis is granulomatous on histologic assessment and is typically asymptomatic except for fever. Chronic infection (<5% of cases) usually involves the heart, bones, arteries, or liver. Q fever endocarditis is the most serious form of chronic Q fever and usually develops in patients with previous valvular disease or in immunocompromised patients [Hartzell et al. 2008; Parker et al. 2006; Tissot-Dupont and Raoult 2008].
+Q fever cholecystitis has been previously described in 15 patients. This diagnosis has been based on the presence of radiographic evidence of cholecystitis, positive phase I and II serologies, demonstration of C. burnetii in the gallbladder using PCR, or liver biopsy showing a “doughnut granuloma,” (a granuloma surrounded by a fibrin ring and containing a lipid-filled vacuole). This histologic finding in the liver or bone marrow is suggestive of Q fever in the correct clinical setting, though it can also be present in other infections (such as Epstein-Barr virus, cytomegalovirus or ehrlichiosis) or in Hodgkin’s Disease. The first case series, published in 2003, described seven new cases of Q fever cholecystitis from France, and reviewed the two cases previously reported [Rolain et al. 2003]. Subsequently, 6 additional cases have been reported from Spain, France, Israel, Australia, and Iraq [Hartzell et al. 2007; Reina-Serrano et al. 2005; Gonzalez Delgado et al. 2005;Ergas et al. 2008; Figtree et al. 2010]. Following an outbreak of 30 cases of Q fever in soldiers in Iraq and Afghanistan, empiric treatment of Q fever cholecystitis was administered to two patients who demonstrated clinical improvement within 48 hours [Hartzell et al . 2007]. Over half of reported cases of Q fever cholecystitis resolved on medical therapy alone, and did not require cholecystectomy.
+Laboratory findings for Q fever are nonspecific but may include leukocyte elevation or depression, high erythrocyte sedimentation rate, anemia, hypergammaglobulinemia, thrombocytopenia (in 25% of cases), or elevated liver enzymes (85%). The diagnosis is usually made by serologic testing for IgM, IgA, and IgG to the phase I and phase II antigens. A titer of greater than 1:200 for IgG or1:50 for IgM against Phase II signifies acute infection. Phase I IgG titer above 1:800 is associated with chronic infection [Fournier et al. 1998]. It is recommended that all patients with chronic Q fever have an echocardiogram to assess for endocarditis or underlying valvular disease, a condition which predisposes Q-fever-infected individuals to endocarditis [Raoult et al. 2000].
+Final Diagnosis
+Acute Q Fever cholecystitis, caused by Coxiella burnetii .
+References
+Delsing, C.E., and Kullberg, B.J. (2008). Q fever in the Netherlands: a concise overview and implications of the largest ongoing outbreak. Neth J Med 66, 365-367.
+PMID:18931396 ( PubMed abstract )
+Ergas, D., Abdul-Hai, A., and Sthoeger, Z.M. (2008). Acalculous cholecystitis: an unusual presentation of acute Q fever masquerading as infectious endocarditis. Am J Med Sci 336, 356-357.
+PMID:18854682 ( PubMed abstract )
+Figtree, M., Miyakis, S., Stenos, J., Graves, S., Botham, S., Ferson, M., and Krilis, S. (2010). Q fever cholecystitis in an unvaccinated butcher diagnosed by gallbladder polymerase chain reaction. Vector Borne Zoonotic Dis 10, 421-423.
+PMID:19725764 ( PubMed abstract )
+Fournier, P.E., Marrie, T.J., and Raoult, D. (1998). Diagnosis of Q fever. J Clin Microbiol 36, 1823-1834.
+PMID:9650920 ( PubMed abstract )
+Gonzalez Delgado, L., Lopez Larramona, G., Santolaria Piedrafita, S., Garcia Prats, D., Ferrero Cancer, M., and Montoro Huguet, M. (2005). [Acalculous cholecystitis: an uncommon form of presentation of Q fever]. Gastroenterol Hepatol 28, 232-236.
+PMID:15811266 ( PubMed abstract )
+Hartzell, J.D., Peng, S.W., Wood-Morris, R.N., Sarmiento, D.M., Collen, J.F., Robben, P.M., and Moran, K.A. (2007). Atypical Q fever in US soldiers. Emerg Infect Dis 13, 1247-1249.
+PMID:17953104 ( PubMed abstract )
+Hartzell, J.D., Wood-Morris, R.N., Martinez, L.J., and Trotta, R.F. (2008). Q fever: epidemiology, diagnosis, and treatment. Mayo Clin Proc 83, 574-579.
+PMID:18452690 ( PubMed abstract )
+Meiklejohn, G., Reimer, L.G., Graves, P.S., and Helmick, C. (1981). Cryptic epidemic of Q fever in a medical school. J Infect Dis 144, 107-113.
+PMID:7276623 ( PubMed abstract )
+Parker, N.R., Barralet, J.H., and Bell, A.M. (2006). Q fever. Lancet 367, 679-688.
+PMID:16503466 ( PubMed abstract )
+Raoult, D., Marrie, T., and Mege, J. (2005). Natural history and pathophysiology of Q fever. Lancet Infect Dis 5, 219-226.
+PMID:15792739 ( PubMed abstract )
+Raoult, D., Tissot-Dupont, H., Foucault, C., Gouvernet, J., Fournier, P.E., Bernit, E., Stein, A., Nesri, M., Harle, J.R., and Weiller, P.J. (2000). Q fever 1985-1998. Clinical and epidemiologic features of 1,383 infections. Medicine (Baltimore) 79, 109-123.
+PMID:10771709 ( PubMed abstract )
+Rolain, J.M., Lepidi, H., Harle, J.R., Allegre, T., Dorval, E.D., Khayat, Z., and Raoult, D. (2003). Acute acalculous cholecystitis associated with Q fever: report of seven cases and review of the literature. Eur J Clin Microbiol Infect Dis 22, 222-227.
+PMID:12687414 ( PubMed abstract )
+Tissot-Dupont, H., and Raoult, D. (2008). Q fever. Infect Dis Clin North Am 22, 505-514, ix.
+PMID:18755387 ( PubMed abstract )

@@ -1,0 +1,42 @@
+History of Present Illness
+IDSA 2006 Case Submission Summary: A woman in her fifties presented with a lesion on her neck.
+A woman in her fifties was well until one month before presentation, when a painful left neck swelling developed, associated with arthralgias, myalgias, fevers, and chills. Tenderness and swelling of the left shin occurred episodically, less severe in the morning and worse later in the day. The swelling in left neck dissipated after 3-5 days, and a new circular, painless area of erythema and induration (3 centimeters (cm) by 4 cm) developed on the anterior neck. Two weeks before presentation, fevers, chills, arthralgias, and myalgias resolved. However, the lesion increased in size and became more indurated, beefy, heaped-up and, later in the course, more friable. Two days before presentation, scleral injection of the left eye developed. There was no history of headache, neck stiffness, photophobia, cough, sputum production, nausea, vomiting, diarrhea, abdominal pain, joint pains, or other skin lesions or rash. On the day of admission, the patient was evaluated in an otolaryngology outpatient clinic.
+On examination, there was left ear fullness and tinnitus, and injection of the sclera of the left eye. The neck lesion was present and the left shin was tender. A fine needle aspirate was performed in the clinic, and the patient was then admitted to the hospital.
+Past Medical History
+Two months earlier, a skin test for tuberculosis was negative. Twelve months before, she had had an influenza-like illness, with cough, myalgias, and arthralgias, for which she had not taken antibiotics.
+Medications
+None.
+Allergies
+She had no allergies.
+Epidemiological History
+She was born in China, spoke Cantonese and immigrated to the United States more than five years earlier. She lived with relatives in a predominantly Asian community on the West Coast. She had not traveled out of the country in recent years, had no exposures to pets, farms, birds, fish tanks, freshwater ponds or salt water, and had not seen visitors from East Asia. She did not smoke tobacco, drink alcohol or use intravenous drugs. There was no family history of cancer, diabetes or cardiovascular disease.
+Physical Examination
+On examination, she appeared anxious. The temperature was 37.0°C (98.6°F), the blood pressure 160/90 mm Hg, pulse 95 beats per minute, respirations 16 breaths per minute, and oxygen saturation of 100% on ambient air. The left sclera was injected; the neck was supple, with a round, indurated, beefy-looking lesion (4 cm by 5 cm) on the anterior neck ( Figures 1 and 2 ). The tissue appeared friable and was not tender. The left shin had subtle soft tissue swelling and was tender to palpation. The remainder of the examination was normal.
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The white blood cell count was 12,100 cells/mm³ (76% neutrophils and 20% lymphocytes), hematocrit 40.2%, and platelet count 435,000/mm³. Serum levels of electrolytes, glucose, liver enzymes and tests of renal function were normal.
+Clinical Course Prior to Diagnosis
+A fine needle aspirate of the lesion was performed in the clinic. Pathological examination of the biopsy specimen with hematoxylin and eosin staining is shown in Figure 3 .
+Cultures of the biopsy specimens were sent.
+Figure 3. H and E stain of biopsy.
+Diagnostic Procedure(s) and Result(s)
+Cultures of fluid obtained by fine needle aspirate grew Coccidioides immitis . Figure 4 shows the growth on Sabouraud dextrose agar, and Figure 5 reveals the fungus stained with lacto-phenol-cotton blue stain. Coccidioides complement fixation titer was 1:16.
+Figure 4. Cultures of biopsy specimen.
+Figure 5. Culture growth with lacto-phenol-cotton blue stain.
+Treatment and Followup
+Initially, amphotericin B was administered intravenously, until a lumbar puncture was performed and central nervous system involvement was ruled out. The patient was then treated with itraconazole for six months, during which time the Coccidioides complement fixation titer decreased from 1:16 to 1:4, and the lesion resolved.
+Discussion
+Coccidioides is a dimorphic fungus endemic to the Central Valley region of California, the desert of the Southwest United States, Mexico, and Central and South America. The mycelial (or mold) form grows in the soil in endemic areas, and the branching, septate hyphae produce arthroconidia, which become airborne. In tissues, a characteristic spherule is formed.
+Coccidioides immitis was first identified in the 1890s in an Argentinian soldier, who developed a lesion resembling mycosis fungoides. It was initially thought to be due to a protozoan. Emmet Rixford, a surgeon from Stanford University, identified two additional cases in the 1890s. In 1905, it was speciated as a fungus (Ophuls, 1905). Surges in the number of cases are related to cycles of drought and rain. In 1992-1993, a 10-fold increase in cases was seen in California. Person-to-person transmission is not possible but caution with secretions is advised. Approximately 60% of people infected with C. immitis are asymptomatic while the other 40% of those infected develop upper respiratory symptoms (including fevers, diaphoresis, arthralgias, cough sputum, chest pain). Erythema nodosum or erythema multiforme may also develop.
+Symptomatic extrapulmonary symptoms develop in 0.5-1% of those infected, usually within the first year, but possibly later if the host is or becomes immunocompromised. Common sites of involvement are the meninges, bone, joints, skin, and soft tissues. The frequency of dissemination is higher in pregnant individuals, and immunocompromised hosts, and in individuals of specific ethnicities. Those of Filipino ancestry are affected more often than African Americans, and then, in descending frequency of infection, are native Americans, Hispanics, other Asians and Caucasians.
+Symptoms, especially central nervous systems and musculoskeletal complaints, should prompt further investigation, including a lumbar puncture and analysis of the cerebrospinal fluid (CSF), imaging, and bone scans. A definitive diagnosis requires biopsy and culture of lesions and/or the CSF.
+Coccidioides immitis and Coccidioides posadasii , the two recognized etiologies of coccidioidomycosis, may be detected by direct microscopy, culture, and serologic documentation. C. immitis grows rapidly, and if the organism is suspected, the microbiology laboratory staff should be notified in advance. Stains that are used include the Grocott methenamine silver and the calcofluor white. Other useful stains used in histopathology include hematoxylin and eosin stain and periodic acid schiff. Nucleic acid amplification tests to detect Coccidioides spp. are being developed in research settings. Isolates may be confirmed as Coccidioides spp. by molecular probes. Speciation of C. immitis and C. posadasii is achieved by specialized molecular techniques, and is not normally available in routine clinical laboratories. Humoral antibodies are used for the diagnosis and prognosis of coccidioidomycosis. Although positive serologies are specific for coccidioidomycosis, negative serologies cannot be used to rule out the disease. Enzyme immunoassays (EIA) and immunodiffusion methods are commonly used for detection of both immunoglobulin (Ig) M and IgG antibody groups. Sequential complement fixation (CF) studies for the IgG antibody class are also useful. Serologic testing plays a role in diagnosis and management. CF antigen test results correlate with the degree of dissemination. Antibodies to Coccidioides can also be assessed in the cerebrospinal fluid (CSF) by complement fixation and may be helpful since the culture of the CSF is negative in 5% of patients with meningeal infection. Other testing includes skin testing to Coccidioides antigen, which may be positive in 83% during the 1st week of infection, and 99% after the 4th week (Saubolle, 2007).
+Final Diagnosis
+Cutaneous coccidioidomycosis, caused by Coccidioides immitis .
+References
+Ophuls W, Further Observations on a Pathogenic Mould formerly described as a Protozoon. J Exp Med 1905; 6:443-86.
+Saubolle, M.A. (2007). Laboratory aspects in the diagnosis of coccidioidomycosis. Ann N Y Acad Sci 1111, 301-314.
+PMID:17363434 ( PubMed abstract )
+Saubolle, M.A., McKellar, P.P., and Sussland, D. (2007). Epidemiologic, clinical, and diagnostic aspects of coccidioidomycosis. J Clin Microbiol 45, 26-30.
+PMID:17108067 ( PubMed abstract )

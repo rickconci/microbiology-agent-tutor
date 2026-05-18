@@ -1,0 +1,42 @@
+History of Present Illness
+A man in his eighties from Puerto Rico was admitted to the hospital because of a productive cough, subjective fever, and dizziness. His family reported that one week before admission, he had slipped in the shower, hitting his face and chest. He was evaluated at a hospital in Puerto Rico where reportedly there was no evidence of a fracture.
+Two days later, he was taken by a relative to another hospital because of pain in his chest, back, and left arm, and a non-productive cough. The evaluation included chest radiographs, computed tomography (CT) of the brain, an electrocardiogram, complete blood count, basic metabolic profile, and serial cardiac enzymes and was reportedly negative. His appetite was poor after the fall. His son noted his father was very warm to touch, and had a cough productive of yellow sputum, which progressively worsened over a week. The patient traveled to Florida and was brought to the hospital by relatives for evaluation.
+Past Medical History
+The patient had Alzheimer’s disease, peripheral vascular disease (status post right below knee amputation with phantom limb syndrome), low back pain, and benign prostatic hypertrophy. He had had a cholecystectomy and appendectomy in the past.
+Medications
+Pneumococcal, tetanus, and influenza immunizations were current. Medications at home include aspirin (81mg daily), citalopram, donepezil, gemfibrozil, simvastatin, atenolol, omeprazole and pregabalin.
+Allergies
+He had no allergies.
+Epidemiological History
+He lived alone in Puerto Rico with family assistance until this illness, when he moved to Florida to live with relatives. His only previous travel was to Korea 60 years before. He had a dog and his activities included gardening.
+Physical Examination
+The patient appeared tired, in no acute distress and able to engage in conversation. The blood pressure was 101/57 mm Hg, pulse 73 beats per minute, temperature 97.7°F (36.5°C), and respirations 20 breaths per minute. He had healing bruises around the right eye, and chest examination revealed bibasilar crackles. The scar of the below-the-knee amputation was well-healed, and the remainder of the general examination was normal.
+Studies
+On admission, the white count was 23,000 cells/mL (reference range 3,900-9,900), sodium 129 mEq/L (reference range 136 – 145), creatinine 2.0 mg/dL (from baseline of 1.1 mg/dL), and glucose at 219 mg/dL. Procalcitonin was 4.58 ng/mL (reference range 0.0-0.1). Tests of liver function were normal.
+A nasal specimen screening for methicillin-resistant Staphylococcus aureus (MRSA) by PCR was negative. Two sets of blood cultures were obtained; he could not provide a sputum specimen.
+Images of a chest radiograph ( Figure 1 ) and CT scan of the thorax ( Figure 2 ) are shown.
+Figure 1. Chest radiograph with infiltrate in the left lung and a pleural-based density.
+Figure 2. Chest CT, with areas of consolidation.
+Diagnostic Procedure(s) and Result(s)
+Both sets of blood cultures grew gram-negative rods from the aerobic bottles within 24 hours. The hospital microbiology laboratory was unable to identify the isolate definitively, but could not rule out Burkholderia species. The isolate was sent to the Florida State Laboratory, where a presumptive identification of Burkholderia pseudomallei was made, which was confirmed by the laboratories of the Centers for Disease Control and Prevention (CDC). MIC E-tests susceptibility revealed susceptibility to ceftazidime, meropenem, and minocycline.
+Treatment and Followup
+The patient initiated treatment with levofloxacin, vancomycin and piperacillin-tazobactam for possible healthcare-associated pneumonia; follow-up blood cultures done 48 hours after admission remained negative.
+On the sixth hospital day, the laboratory reported possible Burkholderia species, and the Infectious Disease service was consulted for management of the possible Burkholderia pseudomallei pneumonia and sepsis. The antibiotics were changed to oral doxycycline (150mg twice daily) and oral sulfamethoxazole/trimethoprim (1600/320mg twice daily) after completion of intravenous therapy (piperacillin/tazobactam and levofloxacin).
+The patient was discharged with improved condition after thirteen days hospitalization. A skin reaction developed 2 days after discharge and sulfamethoxazole/trimethoprim was subsequently changed to amoxicillin-clavulanate. He completed 20 weeks of treatment with doxycycline and amoxicillin-clavulanate with clinical improvement. Follow-up CT scan of the chest ( Figure 3 ) obtained 4 weeks after the first study was improved. He remained asymptomatic three years after his pneumonia.
+Figure 3. Follow-up CT of the chest, 4 weeks later.
+Discussion
+Melioidosis, caused by Burkholderia pseudomallei (a gram-negative, bipolar, aerobic, motile rod-shaped bacterium) occurs predominantly in Southeast Asia, Northern Australia, South Asia and China [Wiersinga et al. 2012]. Its known global distribution is expanding, a reflection of improvements in diagnostic microbiology and increasing numbers of cases in travelers. The Caribbean is not known to be endemic for the disease [Inglis et al. 2006], but cases originating from Puerto Rico have been described [CDC, MMWR 2006; Christenson et al. 2003; Dorman et al. 1998].
+Common manifestations of infection include severe community-acquired pneumonia and sepsis. B. pseudomallei can cause abscesses, particularly of the skin and soft tissues. The greatest risk factor for B. pseudomallei infection is type 2 diabetes; other risk factors include thalassemia, renal disease, chronic alcoholism, and liver disease. Melioidosis should be an etiologic consideration for pneumonia in patients from Puerto Rico.
+Final Diagnosis
+Burkholderia pseudomallei pneumonia with bacteremia.
+References
+Centers for Disease Control and Prevention (CDC). (2006) Imported melioidosis--South Florida, 2005. MMWR Morb Mortal Wkly Rep 2006 Aug 18;55(32):873-6.
+PMID:16915220 ( PubMed abstract )
+Christenson B, Fuxench Z, Morales JA, Suarez-Villamil RA, Souchet LM. Severe community-acquired pneumonia and sepsis caused by Burkholderia pseudomallei associated with flooding in Puerto Rico. Bol Asoc Med P R 2003
+PMID:15449787 ( PubMed abstract )
+Dorman SE, Gill VJ, Gallin JI, Holland SM. Burkholderia pseudomallei infection in a Puerto Rican patient with chronic granulomatous disease: case report and review of occurrences in the Americas. Clin Infect Dis 1998 Apr;26(4):889-94.
+PMID:9564470 ( PubMed abstract )
+Inglis TJ, Rolim DB, Sousa Ade Q. Melioidosis in the Americas. Am J Trop Med Hyg 2006 Nov;75(5):947-54.
+PMID:17123994 ( PubMed abstract )
+Wiersinga WJ, Currie BJ, Peacock SJ. Melioidosis. N Engl J Med 2012 Sep 13;367(11):1035-44.
+PMID:22970946 ( PubMed abstract )

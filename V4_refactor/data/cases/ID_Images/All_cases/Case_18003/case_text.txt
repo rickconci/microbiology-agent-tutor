@@ -1,0 +1,57 @@
+History of Present Illness
+Previously healthy man in his 30s presents to a New England hospital in the summertime with three days of headache, fatigue, myalgias and a rash.
+He reports he developed a bright red rash on his trunk which began on the day prior to admission, and over the next 24 hours spread up to his head and face and down his extremities. About 12 hours into illness, he states “water bubbles broke out” on top of his areas of redness.
+He reports he felt well until 5 days prior to presentation, on which day he went to the beach where he was exposed to full sun for 4-5 hours. Thereafter, he felt tired, and developed a frontal headache which he attributed to being dehydrated. He awoke the next morning with slight myalgias, and fatigue, but no arthralgias. He did not take his temperature during this time but may have "felt a little warm." He did have chills, then developed the rash. Denied anorexia, ocular symptoms, runny nose, sore throat nor cough. He denied sick contacts or other exposures.
+Past Medical History
+None
+Medications
+None
+Epidemiological History
+He lives in New England. He is a nonsmoker without pets.
+Physical Examination
+The patient appeared well. He had a temperature of 100.6 degrees Fahrenheit, blood pressure of 140/75 mm Hg, pulse of 75 beats per minute. The examination was notable for the truncal rash shown in Figure 1. On his trunk, there were scattered confluent raised erythematous and pruritic red plaques with vesicles atop plaques, many at the same stage. Few had erupted and ulcerated down his arms and legs, sparing palms and soles. His rash extended over the face into his scalp. His back was notable for a confluent rash, erythematous plaques with papules and vesicles. In his mouth, he had 3 small ulcers inside of his lower lip.
+Figure 1. Figure 1a. Confluent raised erythematous and pruritic red plaques with vesicles atop plaques densely clustered on patient’s back.
+Figure 2. Figure 1b. Close-up of clustered plaques with vesicles atop plaques
+Figure 3. Figure 1c. Well-demarcated dense lesions separated from cleared skin at the line of patient’s swim trunks
+Studies
+His labs were notable for a WBC 3.5 K/uL (normal 4.5-11) with 57% neutrophils, 24% lymphocytes, and 17% atypical lymphocytes. His hematocrit was 40% (normal 41-53%), and his platelets were 95 K/uL (normal 150-400 K/uL). Otherwise, his liver function tests and renal panel were normal. He had blood cultures collected which did not grow any organisms.
+Diagnostic Procedure(s) and Result(s)
+A vesicular lesion on the patient’s posterior left shoulder was unroofed and the vesicle base was sampled along with vesicular fluid, using a nylon flocked swab. The swab was submitted to the virology laboratory for direct detection of Varicella Zoster Virus (VZV) antigen using fluorescent monoclonal antibodies (DFA= Direct Fluorescent Antibody).
+After specimen centrifugation and staining, examination using a fluorescent microscope revealed nuclear and cytoplasmic fluorescence, indicating the presence of VZV antigen (see Figure 2). In addition, VZV IgM and IgG antibody testing was obtained with a positive and negative result respectively, a pattern potentially consistent with primary VZV infection. As lesions were mainly present in sun-exposed areas of the patient’s body, a diagnosis of photolocalized or actinic varicella was made.
+Figure 4. Immunofluorescent stain of varicella zoster virus from a vesicular lesion (60x). Using the fluorescein isothiocyanate (FITC) filter, VZV infected basal and/or parabasal epithelial cells will appear yellow-gold in color (white arrow).
+Treatment and Followup
+He was supportively managed with antipyretics, and with diphenhydramine for itching. Upon diagnosis, he was started on valacyclovir therapy with plan to complete 1-2 weeks of therapy until lesions were crusted over and no new lesions were identified. He was maintained on airborne precautions through his course. He recovered quickly.
+Discussion
+Primary Varicella zoster virus infection, or chicken pox, classically produces a syndrome of fever, malaise and pruritis with an exanthematous rash of maculopapular, vesicular, and papular lesions which erupt in clusters and are present in varying stages at the same time. Varicella most commonly infects unimmunized children and is spread via respiratory route, but with introduction of childhood vaccination, the incidence has fallen [1].
+In this case, an adult man presented with lesions consistent with varicella but arising in the same stages simultaneously, after sun exposure. Through skin scrapings and direct fluorescence antibody testing, the diagnosis of photolocalized or actinic varicella was confirmed.
+Actinic varicella is a rare presentation of primary varicella zoster virus infection. It has been described only rarely in case reports, more commonly in infants than in adults [2-9]. Initially described as part of a larger category of accentuated viral exanthems in areas of inflammation (such as, diaper areas, feet) [10], it is thought that sun exposure produces a specific unique form of disease. One hypothesis is that exposure to the varicella zoster virus shortly followed by extensive sun exposure allows rapid proliferation of virus into UV-irradiated areas of skin that suffer from local cutaneous inflammation, increased capillary permeability, and the subsequent localized eruptions [11-12]. Other hypotheses suggest that areas of UV exposure are locally immunocompromised which allow for a more severe presentation [13].
+In this patient, a particular curiosity was the patient’s age, as well as history later collected that he had been varicella IgG positive previously, although he noted neither primary varicella as a child, nor immunization, leading the team to suspect that this may have been a false positive result. Repeat testing at the time of presentation revealed a negative varicella IgG.
+The differential diagnosis at the time of presentation included such concerning diagnoses as smallpox and measles. While smallpox was highly unlikely given lack of occupational exposure or risk of exposure, the question of varicella versus smallpox in this setting with atypical natural history of rash for primary varicella, was very important to differentiate. Hence, the rapid diagnostic of direct fluorescence antibody proved critically important. Regarding measles, the pattern of rash development was not in the classic head down to toe fashion, and the oral lesions did not precede the exanthema nor were they classic Koplik’s spots. He did not have conjunctivitis, coryza, nor cough. The appearance of the rash was not classic either, and the patient had been immunized with MMR.
+Final Diagnosis
+Actinic Varicella
+References
+Whitley RJ. Chickenpox and herpes zoster (Varicella-Zoster Virus). [edited by] John E. Bennett, Raphael Dolin, Martin J. Blaser. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2015.
+Castrow FF 2nd, Wolf JE Jr. Photolocalized varicella. Arch Dermatol 1973; 107:628.
+PMID:4697698 ( PubMed abstract )
+Gilchrest B, Baden HP. Photodistribution of viral exanthems. Pediatrics 1974; 54:136–8.
+PMID:4847846 ( PubMed abstract )
+Newell GB. Photolocalized varicella. J Ky Med Assoc 1978; 76:443– 4.
+PMID:701973 ( PubMed abstract )
+Ridgway D, Avera SP, Jaffe A. Actinic varicella. Pediatr Infect Dis J 1996; 15:921–2.
+PMID:8895933 ( PubMed abstract )
+Varella TC, Machado MC. Photolocalized varicella. Acta Derm Venereol 2004; 84:494–5.
+PMID:15844653 ( PubMed abstract )
+Findlay GH, Forman L, Hull PR. Actinic chickenpox. S Afr Med J . 1979;55:989-991
+PMID:472951 ( PubMed abstract )
+Boyd AS, Neldner KH. Photolocalized varicella in an adult. JAMA 1991; 266:2204.
+PMID:1920713 ( PubMed abstract )
+Sakiyama M, Maeshima H, Higashino T, Kawakubo Y. Photolocalized varicella in an adult. British Journal of Dermatology (2014) 170, pp1187–1207.
+PMID:24372142 ( PubMed abstract )
+Messner J, Miller JJ et al. Accentuated viral exanthems in areas of inflammation. Journal of the American Academy of Dermatology 1999; 40:345-6
+PMID:10025865 ( PubMed abstract )
+Schwarz T. Mechanisms of UV-induced immunosuppression. Keio J Med 2005; 54:165–71.
+PMID:16452825 ( PubMed abstract )
+Norval M, Gibbs NK, Gilmour J. The role of urocanic acid in UV- induced immunosuppression: recent advances (1992–1994). Photo- chem Photobiol 1995; 62:209–17.
+PMID:7480130 ( PubMed abstract )
+Shreedhar V, Giese T, Sung VW, Ullrich SE. A cytokine cascade including prostaglandin E2, IL-4, and IL-10 is responsible for UV- induced systemic immune suppression. J Immunol 1998; 160:3783–9
+PMID:9558081 ( PubMed abstract )

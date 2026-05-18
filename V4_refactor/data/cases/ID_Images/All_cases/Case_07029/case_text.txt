@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: An African man in his twenties with human immunodeficiency virus (HIV) infection and cough, fever and shortness of breath.
+A South African man in his twenties presented to a hospital in Kwa-Zulu Natal province because of cough, fever and acute shortness of breath, which was not related to exertion or position. He had not felt well for the previous two months, and reported symptoms of cough with white sputum, fever, poor appetite and loss of weight. At a clinic visit three weeks earlier, a chest radiograph was normal and the sputum was negative for acid-fast bacilli. He had recently completed a short course of antibiotics, without improvement. There was no pleuritic chest pain, hemoptysis or leg pain or swelling.
+Past Medical History
+He was HIV positive; the level of CD4 T-lymphocyte cells was not known. There was no history of asthma.
+Epidemiological History
+He lived with a sibling, who had been hospitalized for one month with tuberculosis two years earlier. He had smoked cigarettes briefly in the past.
+Physical Examination
+The patient appeared cachectic and in mild respiratory distress. The temperature was 99.5°F (37.5°C) orally, pulse 126 beats per minute, blood pressure 95/53 mm Hg, and respirations 26 breaths per minute. There was oral thrush and no lymphadenopathy. The jugular venous pressure was normal. The trachea was midline. The chest was clear to auscultation on the right side and there were absent breath sounds and hyperresonance to percussion on the left side. Extremities were symmetrical without swelling, tenderness, or erythema.
+Studies
+The white blood count was 6,400/uL, hematocrit 18%, and platelet count 418,000/uL. Serum testing for sodium was 133 mEq/L, potassium 5.2 mEq/L, chloride 107 mEq/L, and bicarbonate 14 mEq/L. An arterial blood gas revealed a pH of 7.47, partial pressure of carbon dioxide of 26.5 mm Hg, and partial pressure of oxygen of 161 mm Hg, on supplemental oxygen. The CD4 T-lymphocyte cell count was 78 cells/uL.
+A chest radiograph is shown in Figure 1 . An electrocardiogram showed sinus tachycardia.
+Figure 1. Chest radiograph.
+Diagnostic Procedure(s) and Result(s)
+A chest radiograph revealed a large left-sided pneumothorax ( Figure 1 ). The patient was continued on supplemental oxygen, and a chest tube was placed. Upon re-expansion of the lung, a parenchymal cavity became evident ( Figure 2 ).
+On the 3rd hospital day, a stain of a sputum specimen revealed acid-fast bacilli, consistent with Mycobacterium tuberculosis infection.
+Figure 2. Chest radiograph, after chest tube placement.
+Treatment and Followup
+Four-drug tuberculosis therapy was initiated. The chest tube was clamped five days after placement. There was no evidence of recurrence of the pneumothorax by chest radiograph 24 hours later. The patient’s dyspnea and fever curve improved on therapy. He was discharged to a step-down facility and referred for outpatient HIV care.
+Discussion
+Patients with HIV infection and acquired immunodeficiency syndrome (AIDS) are at increased risk of spontaneous pneumothorax. Most reported cases in patients with HIV have been related to Pneumocystis jiroveci (PCP) infection and, in patients with PCP, pneumothorax is an independent risk factor for poor outcome. Pulmonary tuberculosis (TB) also can cause pneumothorax among patients with or without HIV infection through rupture of a cavitary lesion into the pleural space. Any pneumothorax in a patient with HIV infection is an indication to rule out concurrent infection with PCP or TB. Other less common causes of pneumothorax in patients with HIV infection include pulmonary cryptococcosis, cavitary bacterial or fungal pneumonia, and pulmonary Kaposi’s sarcoma [Floris et al 1989; Martinez-Vazquez et al 2001;Torre et al 1995].
+Small pneumothoraces (<1 cm rim) can often be managed conservatively with oxygen therapy and followed to resolution with serial imaging. However for large or symptomatic pneumothoraces, tube thoracostomy is normally indicated. Bronchopleural fistula is a feared complication and in such cases surgical or medical pleurodesis may be effective. Patients with Pneumocystis jiroveci tend to have large subpleural cysts and parenchymal necrosis, and are more likely to have a persistent air leak requiring aggressive management.
+References:
+1. Martínez-Vázquez C, Seijas M, Ocampo A, López A, Oliveira I, Sopeña B, de la Fuente J, Freita S. Pneumothorax in patients infected by the human immunodeficiency virus. An Med Interna, 2001. 18(10): p. 521-4. (Spanish) PMID: 11766281
+2. Torre D, Martegani R, Speranza F, Zeroli C, Fiori GP. Pulmonary cryptococcosis presenting as pneumothorax in a patient with AIDS. Clin Infect Dis, 1995. 21(6): p. 1524-5. PMID: 8749661
+3. Floris C, Sulis ML, Bernascani M, Turno R, Tedde A, Sulis E. Pneumothorax in pleuropulmonary Kaposi's sarcoma related to acquired immunodeficiency syndrome. Am J Med, 1989. 87(1): p. 123-4. PMID: 2741975
+Final Diagnosis
+Pneumothorax secondary to pulmonary tuberculosis, in an African patient with HIV infection and AIDS.

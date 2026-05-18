@@ -1,0 +1,62 @@
+History of Present Illness
+2016 IDWeek Fellows' Day Case Presentation: A man in his fifties presented with a 3-week history of skin lesions that were located on the left forearm and both legs.
+Three months before this presentation, the patient was diagnosed with HIV infection after evaluation for oral candidiasis and weight loss. The CD4 T-cell count was 90 cells per microliter and the level of HIV RNA was 573,998 copies per milliliter. Treatment was begun with tenofovir-emtricitabine-efavirenz, as well as trimethoprim-sulfamethoxazole for prophylaxis.
+Two months after the initiation of antiretroviral therapy, five lesions appeared on his left arm and his legs. The lesions were initially macular and then developed into hyperpigmented desquamative plaques (approximately 50 mm by 40mm each in size), and were hyperesthesic. The level of CD4 T-cells was 98 per microliter and the level of HIV RNA was 118 copies per milliliter.
+Past Medical History
+HIV infection had been diagnosed three months earlier, as above. At that time, he was diagnosed with HIV-associated peripheral neuropathy.
+Medications
+Medications were tenofovir-emtricitabine-efavirenz daily and trimethoprim-sulfamethoxazole every other day, as well as amitriptyline 50 mg daily for peripheral neuropathy.
+Social History
+He lived near the coast in Mexico and traveled often to Mexico City.
+Epidemiological History
+He had had multiple female partners in the past, and had no known history of other sexually transmitted diseases. He had smoked cigarettes for many years and had stopped alcohol and cocaine use 10 years earlier. He had no animal exposures.
+Physical Examination
+The patient appeared well. The blood pressure was 120/80 mmHg, pulse 80 beats per minute, temperature 97.7ºF (36.5ºC) and respiratory rate 18 breaths per minute. Pupils were equal, round and reactive to light and accommodation. Extraocular movements were intact. The oropharynx was moist, and there was no evidence of thrush. The skin was warm and dry, with erythematous-violaceous desquamative plaques (50 by 40 mm) that were hyperesthesic, on the external left elbow and on both knees and legs ( Figures 1 through 5 ). There was no lymphadenopathy, and the remainder of the examination was normal.
+Figure 1. Lesion on the left elbow.
+Figure 2. Lesion on the left knee.
+Figure 3. Lesion on the left leg.
+Figure 4. Lesion on the right knee.
+Figure 5. Lesion on the right leg.
+Studies
+The level of hemoglobin was 11.8 grams per deciliter (reference range: 14.5 to 17.7), and red cells were normocytic and normochromic; other routine laboratory test results were normal. VDRL testing was negative, as was testing for hepatitis B surface antigen and hepatitis C antibodies. The HIV RNA level was 2.0 log10 copies per milliliter and the CD4 T-cell count was 98 cells per microliter.
+A tuberculosis skin test was negative (0 mm induration) and the chest radiograph was normal. A nerve conduction study reported moderate axonal sensory-motor polyneuropathy with a length dependent pattern.
+Diagnostic Procedure(s) and Result(s)
+A punch skin biopsy was performed. The routine and the mycobacterial cultures of the specimen yielded no growth. The histopathological examination of the tissue with hematolylin and eosin staining revealed a multifocal granulomatous infiltrate with epithelioid histiocytes and giant multinucleated cells in the superficial, mid and deep dermis associated with perineural distribution ( Figures 6 through 8 ). Fite-Faraco and Ziehl-Neelsen stains were positive ( Figures 9 and 10 ). The S-100 immunohistochemical stain was also positive identifying Schwann cells ( Figure 11 ). The slit skin direct smear examination from the earlobes was positive with at least 1 acid-fast bacillus in 10 microscopic fields (Bacterial Index: 2+; Figure 12 ).
+Figure 6. Skin biopsy, hematoxylin and eosin stain, with multifocal granulomatous infiltrate (4x).
+Figure 7. Skin biopsy with H and E stain showing epithelioid histiocytes, giant multinucleated cells and interstitial edema (40x).
+Figure 8. Skin biopsy with H and E stain showing epithelioid histiocytes, giant multinucleated cells and interstitial edema (40x, oil).
+Figure 9. Skin biopsy with Ziehl - Neelsen stain and acid-fast bacilli.
+Figure 10. Skin biopsy with Fite-Faraco stain showing acid-fast bacilli.
+Figure 11. Positive Immunohistochemical staining for S100 protein.
+Figure 12. Slit skin direct smears of earlobes, Ziehl-Neelsen stain, with at least 1 bacillus in 10 microscopic fields (Bacterial Index: 2+)
+Treatment and Followup
+Based on the clinical presentation and the histological findings, a diagnosis of borderline leprosy (type 1 reversal reaction) as an immune reconstitution inflammatory syndrome was made. Treatment was administered according to the WHO recommendations for Borderline Leprosy: dapsone 100mg/day, clofazimine 50mg/day, rifampin 600mg 1/month and clofazimine 300mg 1/month.
+Discussion
+Leprosy or Hansen disease is a chronic infectious disease associated with skin, eye and peripheral nerves damage. The etiological agent Mycobacterium leprae is a gram positive and acid-fast rod-shaped organism that is 1 to 8 μm long and unable to grow in vitro [Reibel et al., 2015].
+The clinical spectrum of leprosy depends on the specific host immunity and can be classified as:
+-Tuberculoid Leprosy: Vigorous cell-mediated immune response to infection
+-Lepromatous Leprosy: Ineffective cell-mediated immune response but high humoral response.
+-Borderline Leprosy: Some cell-mediated immune response but often immunologically unstable [Scollard et al., 2006]
+All types of leprosy have been reported in patients with HIV infection, although the exact incidence has never been properly estimated [Talhari et al., 2010]. The cutaneous manifestations of leprosy in HIV patients are not different from those in conventional leprosy [Massone et al., 2011]. The granulomatous response in both HIV-negative and HIV-positive leprosy patients is morphologically identical. Skin biopsies of patients with leprosy show well-formed granulomas that contained significant CD4 lymphocytes independent of the low peripheral blood CD4 cells count.
+After the introduction of antiretroviral therapy, leprosy has presented as immune reconstitution inflammatory syndrome (IRIS), typically as paucibacillary leprosy with type 1 reaction.
+Patients with leprosy and HIV can present with skin lesions and nerve damage, but the diagnosis of leprosy may be challenging in patients with AIDS because of the variety of presentations such as those seen with unmasking or paradoxical IRIS [Talhari et al., 2010]. Tuberculoid leprosy (borderline tuberculoid) is the clinical form observed most often but patients may present with atypical presentations, such as nodules or hyperkeratotic ulcerated lesions.
+Leprosy nerve damage may be confounded by neuropathy associated with HIV or may even act synergistically [Ustianowski et al., 2006].
+Dermatological signs are the clinical indicators of leprosy in 90% of patients; 10% present with neurological signs only [Lastoria and Abreu, 2014]. Skin biopsy remains the “gold standard” for making the diagnosis, providing information such as the histological patterns of the host response, involvement of cutaneous nerves and, using the Fite-Faraco and Ziehl Neelsen stains, identification of acid-fast bacilli within nerves.
+Another method to diagnose leprosy is polymerase chain reaction (PCR) testing. PCR sensitivity is close to 100% in patients with a positive bacteriological index, but it is significantly lower in patients with a negative bacteriological index (when bacilli are not observed by the microscopist). On the other hand, serologic testing using phenolic glycolipid-1 (PGL1) antigen of Mycobacterium leprae is not recommended because of its low sensitivity [Lastoria and Abreu, 2014].
+M. leprae in HIV patients responds to multi-drug treatment. Corticosteroid therapy can be used in cases of IRIS to prevent neural damage. The recommended treatment duration for multibacillary leprosy according to the WHO guidelines is 12 months [WHO, retrieved 2016].
+Final Diagnosis
+Borderline leprosy (type 1 reversal reaction) caused by Mycobacterium leprae presenting as an immune reconstitution inflammatory syndrome in a patient with HIV-infection.
+References
+Lastória JC, Abreu MA. (2014). Leprosy: review of the epidemiological, clinical, and etiopathogenic aspects - part 1. Anais Brasileiros De Dermatologia, 89(2), 205–218.
+PMID:24770495 ( PubMed abstract )
+Massone C, Talhari C, Ribeiro-Rodrigues R, Sindeaux RH, Mira MT, Talhari S, Naafs B.(2011). Leprosy and HIV coinfection: a critical approach. Expert Review of Anti-Infective Therapy, 9(6), 701–710.
+PMID:21692674 ( PubMed abstract )
+Reibel F, Cambau E, Aubry A (2015). Update on the epidemiology, diagnosis, and treatment of leprosy. Médecine Et Maladies Infectieuses, 45(9), 383–393.
+PMID:26428602 ( PubMed abstract )
+Scollard DM, Adams LB, Gillis TP, Krahenbuhl JL, Truman RW, Williams DL. (2006). The continuing challenges of leprosy. Clinical Microbiology Reviews, 19(2), 338–381.
+PMID:16614253 ( PubMed abstract )
+Talhari C, Mira MT, Massone C, Braga A, Chrusciak-Talhari A, Santos M, Orsi AT, Matsuo C, Rabelo R, Nogueira L, de Lima Ferreira LC, Ribeiro-Rodrigues R, Talhari S (2010). Leprosy and HIV coinfection: a clinical, pathological, immunological, and therapeutic study of a cohort from a Brazilian referral center for infectious diseases. The Journal of Infectious Diseases, 202(3), 345–354.
+PMID:20565258 ( PubMed abstract )
+Ustianowski AP, Lawn SD, Lockwood DN. (2006). Interactions between HIV infection and leprosy: a paradox. The Lancet. Infectious Diseases, 6(6), 350–360.
+PMID:16728321 ( PubMed abstract )
+World Health Organization (WHO)/ WHO Multidrug therapy (MDT). (n.d.). Retrieved May 8, 2016, from http://www.who.int/lep/mdt/en/

@@ -1,0 +1,31 @@
+History of Present Illness
+IDSA 2003 Case Summary: A man with psoriatic arthritis who presented with hypoxia after transit via an area affected by severe acute respiratory syndrome (SARS).
+A man in his fifties with psoriatic arthritis traveled from the United States to India at the end of February 2003. In March 2003, he traveled to Singapore, where he stayed for only one day. (See Figure 1 .) He continued that evening on a flight back to his home in the Southeastern United States.
+Approximately 2 weeks after his visit to Singapore, he developed a low-grade fever with malaise. He was evaluated at a walk-in clinic and diagnosed with a probable viral illness and sent home with symptomatic therapy.
+Six days later, he returned and reported daily high fevers with occasional cough. In the emergency room, he was found to have a temperature to 103.3°F (39.6°C) and oxygen saturation 96%. The lungs were clear and a chest radiograph was normal. He was discharged and given empiric treatment for malaria (quinine sulfate and doxycycline), without improvement.
+A few days later, he was admitted for evaluation because of persistent symptoms.
+Figure 1. Image
+Figure 1. Graph of SARS cases in Singapore.
+Past Medical History
+He had psoriatic arthritis with scleritis and diabetes mellitus.
+Medications
+Medications included glipizide, celecoxib, methotrexate for several years, and infliximab for approximately six months. He had not taken malaria prophylaxis during his trip to India.
+Epidemiological History
+He was a native of India, and had immigrated to the United States many years before. He did not drink alcohol and smoked cigarettes rarely. He denied animal exposures and he noted some “mosquito-bites” while abroad.
+Physical Examination
+He was an obese and appeared slightly dyspneic. The temperature was 103.0°F (39.4°C) and oxygen saturation was 89% on room air. The oropharynx was normal, the lungs were clear and there was no hepatosplenomegaly, abdominal tenderness or rash.
+Studies
+Arterial blood gases (ABG) revealed a pH 7.55, partial pressure of carbon dioxide 30.0 mm Hg and partial pressure of oxygen 50.0 mm Hg. The hematocrit was 35.6%, white blood cell count (WBC) 9,400/mm³ (including 29% band forms, 41% neutrophils, and 21% lymphocytes), platelets 326,000/mm³, alanine aminotransferase (ALT) 313 U/L, lactate dehydrogenase (LDH) 729 U/L, and total bilirubin 1.8 mg/dl.
+Blood cultures, drawn five days apart, and malaria smears were negative. A chest radiograph revealed no infiltrates or effusion.
+Clinical Course Prior to Diagnosis
+The patient was placed in respiratory isolation (not SARS-isolation) and empiric therapy (trimethoprim-sulfamethoxazole and steroids) for Pneumocystis jiroveci pneumonia (PCP, formerly known as Pneumocystis carinii ) was initiated. Bronchoscopy was performed on the third hospital day. He became hypoxic after the procedure and required intubation and mechanical ventilation. He was transferred to the intensive care unit where SARS-isolation procedures were instituted.
+Diagnostic Procedure(s) and Result(s)
+Induced sputum was negative for PCP, and three sputum samples showed no acid fast bacilli (AFB). Bronchoscopy revealed 142 cells (6% neutrophils, 12% lymphocytes, 57% macrophages, 25% pneumocytes); staining of bronchoscopic specimens were negative for PCP and AFB. An in-house SARS PCR assay, based on published sequence data, was negative and the patient gradually improved on PCP therapy and was extubated on hospital day#10. He had been transferred to a rehabilitation facility when the laboratory identified Mycobacterium tuberculosis growing from the bronchoalveolar lavage (BAL) fluid ( Figure 2 ). The three sputum samples subsequently grew M. tuberculosis as well.
+Figure 2. TB cording in culture.
+Treatment and Followup
+The patient improved on rifampin, isoniazid, pyrazinamide, ethambutol and vitamin B6. The culture subsequently grew a pan-sensitive Mycobacterium tuberculosis . He had received Bacillus Calmette-Guérin (BCG) as a child in India and prior to initiating infliximab, had had a 10 mm reaction to a PPD test. His chest radiograph was previously normal and he was not treated for latent tuberculosis.
+Discussion
+This case highlights two important points. First, little has been reported about the clinical presentation of SARS coronavirus infection in immune-compromised patients. If the pathogenesis of SARS coronavirus infection is at least in part mediated through immune dysregulation, epidemiologic (incubation period) and clinical clues may be misleading.
+Secondly, although it is unknown to what extent we will see new, emerging infections in years to come, it is certainly the case that we will see more patients with immunosuppression using new and more potent immune-modifying agents. As such, our more “traditional” infections will increasingly emerge as a larger percentage of the population joins the ranks of the immunocompromised.
+Final Diagnosis
+Tuberculosis, caused by pan-sensitive Mycobacterium tuberculosis .

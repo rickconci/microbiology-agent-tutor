@@ -1,0 +1,36 @@
+History of Present Illness
+Medical Student Curriculum Case Summary: A woman with HIV infection and AIDS and profuse watery diarrhea.
+A woman in her twenties was diagnosed with Pneumocystis jirovecii (formerly known as Pneumocystis carinii ) pneumonia (PCP) and thrush ten days after delivering a healthy baby. She was subsequently found to be infected with human immunodeficiency virus (HIV) and a diagnosis of acquired immunodeficiency syndrome (AIDS) was made. The level of CD4 T-lymphocyte cells was 20 cells/mm³, and the HIV viral RNA level was 485,000 copies/mL. She completed a 21-day course of trimethoprim-sulfamethoxazole (TMP/SMX) for the PCP, and began prophylaxis for PCP, Mycobacterium avium complex, and thrush.
+Approximately three weeks later, crampy abdominal pain, nausea, and non-bloody, watery diarrhea developed. She reported that the diarrhea smelled “like rotten eggs” and was slimy in consistency. She denied fever, chest pain, cough, headache, vomiting, poor oral intake or any urinary symptoms.
+Past Medical History
+The past history included HIV, AIDS, hypertension, and mild intermittent asthma.
+Medications
+Medications included trimethoprim-sulfamethoxazole (double strength 1 tab) and fluconazole (100 mg) daily, and azithromycin (1200 mg) weekly.
+Social History
+She lived with her children and another adult relative, and was thought to have contracted HIV from her male sexual partner.
+Epidemiological History
+She owned a cat, and denied travel outside of New England.
+Physical Examination
+She appeared comfortable while breathing room air. A flat affect was noted. The temperature was 101.9°F (38.8°C), pulse 120 beats/minute, blood pressure 98/58 mm Hg, oxygen saturation 98% while breathing ambient air. The abdomen was soft, with bowel sounds and diffuse tenderness, and mild rebound tenderness in the right lower quadrant. A rectal exam was notable for brown stool, which was negative for occult blood. The remainder of the physical examination was normal.
+Studies
+The white blood cell count (WBC) was 2,600 cells/mm³ (70% neutrophils, 2% bands, 19% lymphocytes, and 2% atypical lymphocytes). The hematocrit was 29.9%. Laboratory test results of serum electrolytes, renal function, and liver function were normal.
+Serologic testing performed during her prior admission for syphilis (RPR), toxoplasmosis, hepatitis C virus (HCV), hepatitis B virus surface antigen and hepatitis B surface antibody was negative; testing for cytomegalovirus immunoglobulin (Ig) G and varicella-zoster virus IgG was positive.
+Although she did not appear toxic, the abdominal exam was concerning for peritonitis. Computed tomography (CT) of the abdomen was performed with both oral and intravenous contrast ( Figures 1 and 2 ). The bowel wall was significantly thickened, suggestive of colitis. Due to her ongoing antibiotic exposure as well her profound immunosuppression, infectious colitis was thought to be likely.
+Figure 1. Abdominal CT scan.
+Figure 2. Abdominal CT scan.
+Clinical Course Prior to Diagnosis
+She was admitted and given metronidazole as well as intravenous fluid resuscitation. Three stool tests were negative for Clostridium difficile toxin. She underwent a colonoscopy and biopsy. (See Figures 3, 4 and 5 .)
+Figure 3. Colonoscopy images.
+Figure 4. Histopathology stain of biopsy.
+Figure 5. Hematoxylin and eosin stain of biopsy.
+Diagnostic Procedure(s) and Result(s)
+Blood cultures and stool cultures were negative. Colonoscopy demonstrated patches of inflammation throughout the colon with friable mucosa, but no pseudomembranes. Histopathology demonstrated a dense inflammatory infiltrate, and hematoxylin-eosin stain of the epithelium revealed viral inclusion bodies ( Figures 4 and 5 ). Immunoperoxidase staining with a monoclonal antibody specific for cytomegalovirus (CMV) confirmed the diagnosis of CMV colitis ( Figure 6 ).
+Figure 6. Immunoperoxidase stain of biopsy.
+Treatment and Followup
+The CMV viral load by hybrid capture was 377 pg/mL (lower limit of detection is 1 pg/mL) and intravenous ganciclovir was begun. After one week, the CMV viral load had decreased to 1.2 pg/mL and ganciclovir was changed to oral valganciclovir. Ganciclovir therapy was complicated by the development of neutropenia, for which granulocyte colony-stimulating factor (G-CSF) was administered. As there was concern that an immune reconstitution syndrome may increase her symptoms, antiretroviral medications were not started until she had recovered clinically and was able to tolerate a normal diet with no abdominal pain, nausea, vomiting, or diarrhea. Following discharge, she did well on antiretroviral therapy, and had an undetectable HIV RNA viral load and a slowly recovering CD4 T-lymphocyte count. She remained on secondary prophylaxis for both Pneumocystis and CMV.
+Discussion
+Cytomegalovirus colitis is a potentially life-threatening opportunistic infection in patients with profound immunosuppression. In patients with HIV, gastrointestinal disease with CMV is most common when the CD4 cell count is less than 50/mm³. Esophagitis seems to be the most common manifestation of GI involvement by CMV, but any region of the GI tract can be involved. Diagnosis of CMV colitis is based on pathologic findings.
+Intravenous ganciclovir is the best-studied therapy for CMV. Based on clinical data in the treatment of CMV retinitis, valganciclovir is likely to have a significant role in the therapy of end-organ CMV disease.
+Over the long-term, antiretroviral therapy and immune reconstitution are likely the most effective therapy. While in the past lifelong secondary prophylaxis was recommended for life after an episode of CMV disease, the advent of highly-active antiretroviral therapy has led to remarkable improvements in immunological and clinical parameters in patients with advanced HIV. Evidence from case series suggest that secondary prophylaxis against CMV can be discontinued when a patient has a sustained CD4 T-lymphocyte count above 100-150 cells/mm³ as long as there is no evidence of active infection and with close follow-up by an ophthalmologist.
+Final Diagnosis
+Cytomegalovirus (CMV) colitis in a patient with HIV infection and AIDS.

@@ -1,0 +1,30 @@
+History of Present Illness
+Medical Student Curriculum Case Summary: A young adult with headache and fever.
+A young adult male student presented with fever and headache . One week before his presentation, the patient was seen at an outside clinic with a sore throat. An upper respiratory viral syndrome was diagnosed and supportive care, including fluids, non-steroidal anti-inflammatory drugs and decongestants, advised.
+Sore throat and low-grade fevers continued.
+On the day of presentation, headache developed. His friends reported that the patient was not behaving normally. He was brought back to the clinic and, after he became more confused and combative, transferred to a hospital.
+Past Medical History
+The patient had received the meningococcal vaccine .
+Epidemiological History
+He lived in a dormitory and was sexually active , with men . He denied any sick contacts or drug use .
+Physical Examination
+The patient appeared confused and combative. The temperature was 100.3°F (37.9°C), pulse 117 beats per minute, blood pressure 120/82 mm Hg, respirations 20 per minute, and oxygen saturation 99%. There were no exudates on his tonsils; the neck was stiff ; the lungs were clear and there was a II/VI holosystolic murmur. The skin and joints were normal. On neurological examination, he alternated between confused and somnolent; Kernig’s and Brudinski’s signs were negative .
+Studies
+Computed tomography (CT) of the head was negative. The white blood cell count was 18,000/mm³ with 25% band forms . Tests of liver function were normal.
+Clinical Course Prior to Diagnosis
+The patient was started emergently on steroids , ceftriaxone , vancomycin , and acyclovir . A lumbar puncture was performed after the above treatment was administered. A gram stain of the cerebrospinal fluid is shown in Figures 1 and 2 .
+Figure 1. Gram stain of spun cerebrospinal fluid.
+Figure 2. Detail of Figure 1.
+Diagnostic Procedure(s) and Result(s)
+The gram stain of the cerebrospinal fluid was positive for gram-negative diplococci consistent with Neisseria meningitidis . The gram stain is shown under high power in Figure 3 .
+Figure 3. Gram stain of cerebrospinal fluid, high power.
+Treatment and Followup
+Steroids were administered for three days and the antibiotic therapy changed to intravenous penicillin 24 million units daily. The patient's mental status improved within 36 hours, and he was discharged home to complete ten days of penicillin.
+The culture of the cerebrospinal fluid did not grow the organism, most likely due to the treatment with antibiotics prior to his lumbar puncture. Blood cultures remained negative.
+Discussion
+In cases such as this one, it is important to treat for bacterial meningitis expeditiously even though several more benign diagnoses may be in the differential.
+Epidemiologically, the patient is at risk for meningococcal meningitis given his group-living situation in a dormitory. The risk of invasive meningococcal infection appears to be higher during the first year than in subsequent years of college attendance. Pneumococcal meningitis also remains a significant possibility, and therefore both should be covered. Lack of exposure to areas endemic for the vectors responsible for the spread of rickettsial disease and the absence of rash make Rocky Mountain Spotted Fever less likely.
+Viral causes of meningitis/encephalitis should also be entertained, including HIV and herpes simplex virus (HSV). Bacteremic seeding of the meninges from endocarditis or other sources is possible, though less likely than the previously mentioned causes of meningitis.
+Given the patient’s altered mental status, CT scanning of the head is a reasonable first step in evaluation, but antibiotics should not be withheld while awaiting data.
+Final Diagnosis
+Meningococcal meningitis.

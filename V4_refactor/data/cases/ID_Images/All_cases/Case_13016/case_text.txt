@@ -1,0 +1,51 @@
+History of Present Illness
+A man in his sixties was admitted to the hospital because of progressive shortness of breath and fatigue.
+His symptoms had been increasing during the previous 2 years, and were associated with increasing fatigue and weight gain. He also reported chest pain, ankle swelling, orthopnea, paroxysmal nocturnal dyspnea, palpitations and occasional diarrhea. An evaluation included cardiac catheterization, which demonstrated constrictive pericarditis.
+He was admitted to the hospital. On the night of admission, a temperature of 39.2°C (102.6°F) developed.
+Past Medical History
+He had had Hodgkin's disease for which radiation treatment had been administered. He also had congestive heart failure, sero-negative rheumatoid arthritis, diabetes mellitus and hypertension. He had had a pulmonary embolism and deep vein thrombosis, and 35 years earlier, an exploratory laparotomy and splenectomy.
+Medications
+Medications included prednisone (10 mg twice daily), torsemide, methotrexate (2.5 mg weekly), metolazone, carvedilol, and fondaparinux. He had received etanercept, which was stopped one month before this presentation.
+Epidemiological History
+He worked on a farm in the Great Lakes region of the United States, owned cats and dogs, and had traveled to the northeastern United States one year before this presentation.
+Physical Examination
+The patient appeared chronically ill. The blood pressure was 92/54 mm Hg, pulse 95 beats per minute, temperature 96.4°F (35.8°C), and respirations 20 breaths per minute. The jugular venous pressure was elevated, heart sounds were distant and there were dilated veins on the upper chest. The abdomen was slightly distended and the legs were edematous (2+). The remainder of the examination was negative.
+Studies
+The white blood cell count was 17,350 per cubic millimeter (reference range 3,700-11,000) on the day of admission, and rose to 25,420 on the third hospital day. The level of hemoglobin was 9.6 g/dl, platelets 151,000 per cubic millimeter. The creatinine level was 1.01 mg/dl and results of other blood chemistries and tests of liver function were normal. The urinalysis revealed cloudy urine, with trace protein, 1+ blood, 3+ leukocytes esterase, and 11-25 white cells per high-power field.
+Computed tomography (CT) of the chest, performed without the administration of contrast, showed small pleural effusions and linear atelectasis and/or scar in the right lower lobe ( Figure 1 ).
+Figure 1. CT of the chest, without contrast.
+Clinical Course Prior to Diagnosis
+The blood culture showed no growth at 5 days. Culture of the urine grew 100,000 colony-forming units of Escherichia coli.
+Transthoracic echocardiogram (TTE) demonstrated moderate (2+) mitral valve (MV) regurgitation, with an attached mobile calcified echodensity on the anterior MV leaflet ( Figure 2 and Video 1 , in a video loop). Trans-esophageal echocardiogram (TEE) demonstrated a brightly echodense mobile lesion (1.8cm by 0.8cm) on the atrial surface of the anterior mitral valve leaflet (lateral side) and a linear highly mobile echodensity (at least 1.6cm in length) attached to the atrial side of the tricuspid valve.
+Magnetic resonance imaging (MRI) of the heart showed evidence of constrictive pericarditis.
+Figure 2. Transthoracic echocardiogram, with a calcified mitral valve and mobile echodensity (arrows).
+Video 1. Loop of transthoracic echocardiogram, with a calcified mitral valve and mobile echodensity
+Diagnostic Procedure(s) and Result(s)
+Testing of the blood for nucleic acid of Tropheryma whipplei by polymerase chain reaction (PCR) was positive.
+Treatment and Followup
+Cardiac surgery was performed, including median sternotomy, pericardiectomy, mitral valve replacement and removal of tricuspid valve vegetation.
+Surgical pathology is shown in Figures 3 through 6 . Hematoxylin and Eosin (H & E) staining of the mitral valve revealed foamy macrophages (Figure 3) , and Periodic acid-Schiff (PAS) staining of the mitral valve (Figure 4) demonstrated PAS-positive organisms within the macrophages. H & E staining of the pericardium revealed a thick fibrotic pericardium (Figure 5) , and PAS-positive organisms were identified in the pericardial tissue (Figure 6) . Universal PCR testing of the mitral valve, the tricuspid valve vegetation and pericardium were positive for Tropheryma whipplei .
+Ceftriaxone (intravenously for 6 weeks) and trimethoprim-sulfamethoxazole (oral, for a prolonged course) were administered. Prednisone was weaned and the methotrexate was stopped. The patient was doing well after 10 months of treatment.
+Figure 3. H and E stain of the mitral valve.
+Figure 4. PAS stain of the mitral valve.
+Figure 5. H and E stain of pericardial tissue.
+Figure 6. PAS stain of pericardial tissue.
+Discussion
+Whipple’s disease, first described in 1907 by G.H Whipple, is a chronic multi-system infectious disease caused by Tropheryma whipplei . The most common symptoms of classic Whipple’s disease include weight loss, hypoalbuminemia, diarrhea, arthralgia and anemia [Moos and Schneider, 2011]. Patients with infective endocarditis due to T. whipplei may have no symptoms of classical Whipple’s disease [Geissdorfer, et al. 2012]. Tropheryma whipplei infective endocarditis (TWIE) often does not meet the clinical criteria for IE using the Duke’s Criteria [Geissdorfer, et al. 2012]. Diagnosis is usually by analysis of explanted heart valves using PCR, culture, and/or (immuno) histology [Lagier et al., 2010]. In a study of systemic T. whipplei in 142 patients in a reference center in Marseille, France, 80% of the patients had classical Whipple’s disease and 11% (16 patients) had endocarditis [Lagier et al., 2010].
+Epidemiologic and clinical characteristics of patients with TWIE from the study by Lagier et al. were 100% male, with a mean age of 60.2 years, of whom 31% were on immunosuppressive therapy, 69% had arthralgias, and 81% had a cardiac vegetation [Lagier et al., 2010]. Evaluation of 1,135 cardiac valves in two Germany university centers from 2000 -2007 revealed T. whipplei as the 4th most common pathogen for endocarditis (16 cases, accounting for 6.3% of endocarditis cases)[Geissdorfer, et al., 2012].
+Treatment recommendations have included intravenous ceftriaxone, meropenem, or penicillin G for 2 weeks, followed by oral sulfamethoxazole-trimethoprim for 12 months OR doxycycline and hydroxychloroquine orally for at least 18 months [Feurle, Junga and Marth, 2010; Schneider et al., 2008]. Clinicians should consider TWIE in males, age 50s to 60s with a history of arthralgia, new-onset heart failure and an echocardiogram showing valvular regurgitation and/or endocarditis [Love et al., 2012].
+Final Diagnosis
+Tropheryma whipplei endocarditis and pericarditis
+References
+Feurle GE, Junga NS, Marth T. (2010) Efficacy of ceftriaxone or meropenem as initial therapies in Whipple's disease. Gastroenterology. 2010;138(2):478-86; quiz 11-2.
+PMID:19879276 ( PubMed abstract )
+Geissdörfer W, Moos V, Moter A, Loddenkemper C, Jansen A, Tandler R, Morguet AJ, Fenollar F, Raoult D, Bogdan C, Schneider T. (2012) High frequency of Tropheryma whipplei in culture-negative endocarditis. J Clin Microbiol. 2012;50(2):216-222.
+PMID:22135251 ( PubMed abstract )
+Lagier JC, Lepidi H, Raoult D, Fenollar F. (2010) Systemic Tropheryma whipplei: Clinical presentation of 142 patients with infections diagnosed or confirmed in a reference center. Medicine (Baltimore). 2010;89(5):337-345.
+PMID:20827111 ( PubMed abstract )
+Love SM, Morrison L, Appleby C, Modi P. (2012) Tropheryma whipplei endocarditis without gastrointestinal involvement. Interact Cardiovasc Thorac Surg. 2012;15(1):161-163.
+PMID:22499804 ( PubMed abstract )
+Moos V, Schneider T. (2011) Changing paradigms in Whipple's disease and infection with Tropheryma whipplei. Eur J Clin Microbiol Infect Dis. 2011;30(10):1151-1158.
+PMID:21461659 ( PubMed abstract )
+Schneider T, Moos V, Loddenkemper C, Marth T, Fenollar F, Raoult D. (2008) Whipple's disease: New aspects of pathogenesis and treatment. Lancet Infect Dis. 2008;8(3):179-190.
+PMID:18291339 ( PubMed abstract )

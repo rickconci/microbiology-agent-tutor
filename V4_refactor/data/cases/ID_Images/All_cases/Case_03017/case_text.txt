@@ -1,0 +1,59 @@
+History of Present Illness
+IDSA 2003 Summary: A patient status post renal transplantation with chronic diarrhea.
+A man in his thirties, who was two years post-cadaveric renal transplant, reported intermittent diarrhea for eight months, with marked increase in symptoms during the preceding three weeks. He noted an average of seven watery, non-bloody stools per day. He denied cramps, nausea, vomiting, fever, or chills. He had not lost weight and was not experiencing postural symptoms. He had experienced similar symptoms of diarrhea starting approximately six months after his transplant, which had resolved after being given an antibiotic.
+Past Medical History
+There was a history of congenital renal dysplasia, hypertension, an elevated hematocrit, seizure disorder and a positive tuberculin skin test three years before transplantation, for which he had completed 12 months of isoniazid therapy. As above, he had had a cadaveric renal transplantation two years earlier, with delayed graft function.
+Medications
+Medications include sirolimus and tacrolimus.
+Social History
+He was married and had children.
+Epidemiological History
+He had no history of smoking, use of recreational drugs or alcohol. He had a pet dog, but reported no other animal exposures. He was originally from Mexico, and resided in United States Northwest. He had not returned to Mexico in more than a decade.
+Physical Examination
+The patient appeared well. The blood pressure was 100/70 mm Hg, pulse 64 beats per minute, and temperature 35.2°C (95.4°F). The remainder of the examination was normal.
+Studies
+The hematocrit was 53%, and other standard laboratory tests were normal. Testing for fecal leukocytes, Clostridium difficile toxin A, Giardia antigen in stool, and cytomegalovirus pp65 antigen in polymorphonuclear leukocytes was negative.
+Clinical Course Prior to Diagnosis
+Fresh and preserved stool was submitted for bacterial culture and parasitological examination. Samples were examined directly in saline, as well as following concentration by modified trichrome, calcofluor, auramine and modified acid-fast stains. (See Figures 1 and 2 .)
+Figure 1. Modified acid fast stain of stool specimen.
+Figure 2. Modified acid fast stain of stool.
+Diagnostic Procedure(s) and Result(s)
+Modified acid-fast ( Figures 1 and 2 ) and auramine stains were positive for oocysts of Isospora belli .
+Treatment and Followup
+The patient was treated with trimethoprim-sulfamethoxazole (TMP-SMX) 160/800mg three times daily for three weeks with resolution of his diarrhea. On reducing his dose to one tablet twice daily, his symptoms recurred but responded to increasing back to a higher dose of the antibiotics.
+Discussion
+Isospora belli is a coccidian parasite, with worldwide distribution. Infections are more common in tropical and subtropical regions. Humans are definitive hosts, and no clear evidence for an animal reservoir has been reported (Lindsay et al 1997). The mode of infection is through ingestion of infectious sporulated oocysts.
+Symptomatic infection results in profuse diarrhea, which is self-limited within 2-3 weeks in the immunocompetent person. The illness is similar in presentation to other coccidia (Marshall et al 1997). Protracted illness, even fatal cases, among immune competent persons have been reported but are rare (Lindsay et al 1997, Shaffer and Moore 1989, Jongwutiwes et al 2002, Bialek et al 2001). Infants may have a more severe clinical course than adults. Clinical experience with Isospora is most extensive among immunocompromised patients, particularly those infected with HIV. Infection with Isospora in this setting frequently is protracted. Chronic intestinal isosporiasis is included in the 1993 AIDS surveillance case definition of the Centers for Disease Control and Prevention (MMWR 1992). Other forms of immune compromise that have been associated with chronic isosporiasis include malignancy (Lindsay et al, 1997), treatment with antineoplastic chemotherapy (Hammouda et al 1996), and chronic renal insufficiency (Ali et al 2000).
+Treatment with combinations of protozoal dihydrofolate reductase inhibitors with sulfonamides (e.g. TMP-SMX) is most effective (Pape et al 1989, Verdier et al 2000), although other agents have been used (Zulu et al 2002). In patients with HIV/AIDS, prolonged treatment followed by suppressive therapy is required, while for immunocompetent persons treatment is advocated only in persons who do not undergo spontaneous resolution of symptoms. In the transplant setting, intestinal infection with other coccidian parasites may not require ongoing suppressive therapy (Ok et al 1997). In this case, the patient had at least two recurrences of symptoms, spanning at least one year of follow-up, suggesting that chronic suppressive therapy is indeed indicated in this case.
+The issue of how the patient acquired the infection bears consideration. In prior studies among HIV-infected patients, birth outside the United States was an independent risk factor for isosporiasis (Sorvillo et al 1995, Hu et al 1995). The patient had not traveled back to Mexico in over 11 years. It is interesting to consider that he may have been latently infected with Isospora for that length of time, given the low likelihood of infection within the United States. The possibility of infection by exposure to possible paratenic animal hosts appears remote.
+Final Diagnosis
+Isosporiasis caused by Isospora belli in a patient following renal transplantation.
+References
+(1992). 1993 revised classification system for HIV infection and expanded surveillance case definition for AIDS among adolescents and adults. MMWR Recomm Rep 41, 1-19. 1361652
+PMID:1361652 ( PubMed abstract )
+Ali, M.S., Mahmoud, L.A., Abaza, B.E., and Ramadan, M.A. (2000). Intestinal spore-forming protozoa among patients suffering from chronic renal failure. J Egypt Soc Parasitol 30, 93-100.
+PMID:10786022 ( PubMed abstract )
+Bialek, R., Overkamp, D., Rettig, I., and Knobloch, J. (2001). Case report: Nitazoxanide treatment failure in chronic isosporiasis. Am J Trop Med Hyg 65, 94-95.
+PMID:11508398 ( PubMed abstract )
+Hammouda, N.A., Sadaka, H.A., El-Gebaly, W.M., and El-Nassery, S.M. (1996). Opportunistic intestinal protozoa in chronic diarrhoeic immunosuppressed patients. J Egypt Soc Parasitol 26, 143-153.
+PMID:8721235 ( PubMed abstract )
+Hu, D.J., Fleming, P.L., Castro, K.G., Jones, J.L., Bush, T.J., Hanson, D., Chu, S.Y., Kaplan, J., and Ward, J.W. (1995). How important is race/ethnicity as an indicator of risk for specific AIDS-defining conditions? J Acquir Immune Defic Syndr Hum Retrovirol 10, 374-380.
+PMID:7552500 ( PubMed abstract )
+Jongwutiwes, S., Sampatanukul, P., and Putaporntip, C. (2002). Recurrent isosporiasis over a decade in an immunocompetent host successfully treated with pyrimethamine. Scand J Infect Dis 34, 859-862.
+PMID:12578164 ( PubMed abstract )
+Lindsay, D.S., Dubey, J.P., and Blagburn, B.L. (1997). Biology of Isospora spp. from humans, nonhuman primates, and domestic animals. Clin Microbiol Rev 10, 19-34.
+PMID:8993857 ( PubMed abstract )
+Marshall, M.M., Naumovitz, D., Ortega, Y., and Sterling, C.R. (1997). Waterborne protozoan pathogens. Clin Microbiol Rev 10, 67-85.
+PMID:8993859 ( PubMed abstract )
+Ok, U.Z., Cirit, M., Uner, A., Ok, E., Akcicek, F., Basci, A., and Ozcel, M.A. (1997). Cryptosporidiosis and blastocystosis in renal transplant recipients. Nephron 75, 171-174.
+PMID:9041537 ( PubMed abstract )
+Pape, J.W., Verdier, R.I., and Johnson, W.D., Jr. (1989). Treatment and prophylaxis of Isospora belli infection in patients with the acquired immunodeficiency syndrome. N Engl J Med 320, 1044-1047.
+PMID:2927483 ( PubMed abstract )
+Shaffer, N., and Moore, L. (1989). Chronic travelers' diarrhea in a normal host due to Isospora belli. J Infect Dis 159, 596-597.
+PMID:2915177 ( PubMed abstract )
+Sorvillo, F.J., Lieb, L.E., Seidel, J., Kerndt, P., Turner, J., and Ash, L.R. (1995). Epidemiology of isosporiasis among persons with acquired immunodeficiency syndrome in Los Angeles County. Am J Trop Med Hyg 53, 656-659.
+PMID:8561272 ( PubMed abstract )
+Verdier, R.I., Fitzgerald, D.W., Johnson, W.D., Jr., and Pape, J.W. (2000). Trimethoprim-sulfamethoxazole compared with ciprofloxacin for treatment and prophylaxis of Isospora belli and Cyclospora cayetanensis infection in HIV-infected patients. A randomized, controlled trial. Ann Intern Med 132, 885-888.
+PMID:10836915 ( PubMed abstract )
+Zulu, I., Veitch, A., Sianongo, S., McPhail, G., Feakins, R., Farthing, M.J., and Kelly, P. (2002). Albendazole chemotherapy for AIDS-related diarrhoea in Zambia--clinical, parasitological and mucosal responses. Aliment Pharmacol Ther 16, 595-601.
+PMID:11876715 ( PubMed abstract )

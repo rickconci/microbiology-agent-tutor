@@ -1,0 +1,38 @@
+History of Present Illness
+IDSA 2003 Summary: A man in his sixties with fever, pulmonary infiltrates, abnormal liver function tests and anemia.
+A man in his sixties was admitted to the hospital with a two-week history of fevers, chills, abdominal pain and non-productive cough.
+Past Medical History
+He had diabetes mellitus, which was well-controlled, and hypertension.
+Medications
+Medications included nifedipine, losartan, glipizide and metformin.
+Social History
+He lived with his family.
+Epidemiological History
+The patient was born and raised in the Philippines, and had lived in an urban area on the west coast of California for 30 years. He worked in an office, and did not smoke, drink alcohol, or use illicit drugs. He took frequent automobile trips to Las Vegas, and had traveled to the Philippines three years before this evaluation. He had no pets but regularly visited his neighbor who owned parakeets. His mother was deceased and may have had tuberculosis.
+Physical Examination
+The patient appeared ill but not toxic. The temperature was 103.5°F (39.7°C), blood pressure 150/82 mm Hg, pulse 92 beats per minute, and respirations 18 breaths per minute. There were rales at the right lung base. There were no heart murmurs. His abdomen was soft and without masses or organomegaly, and there was no rash or palpable lymphadenopathy.
+Studies
+A peripheral blood count showed white blood cells 4,900/mL, hemoglobin 11.0 gm/dL and platelets of 97,000/mL. The serum levels of alanine and aspartate aminotransferases were elevated at 177 and 118 mg/dL, respectively, and the level of creatinine, total bilirubin and alkaline phosphatase were normal. Cultures of the blood were sterile. A chest radiograph revealed bilateral stranding infiltrates.
+An abdominal ultrasound showed non-obstructing gallstones. Computed tomography (CT) of the abdomen and pelvis yielded no additional findings.
+A tuberculosis skin test (PPD) was positive, with 11 millimeters of induration. Legionella antigen was not detected in urine. A qualitative screening test for infection with Coccidioides immitis was positive for immunoglobulin (Ig) M and negative for IgG antibodies.
+Clinical Course Prior to Diagnosis
+On admission, the patient received piperacillin-tazobactam empirically for possible biliary sepsis. The patient’s clinical condition worsened over the next 5 days, and he became more dyspneic and hypoxemic.
+A follow-up chest radioraph showed prominent infiltrates in the right upper and left lower lung fields ( Figure 1 ). CT scan of the chest showed infiltrates and bibasilar effusions (Figures 2 and 3 ).
+The patient’s hemoglobin decreased to 7.5 gm/dL, and packed red blood cells (3 units) were transfused. A bone marrow aspirate and biopsy was performed ( Figure 4 ).
+Figure 1. Chest radiograph, after clinical deterioration.
+Figure 2. Chest CT scan.
+Figure 3. Chest CT scan.
+Figure 4. H and E stain of bone marrow (80x).
+Diagnostic Procedure(s) and Result(s)
+The bone marrow aspirate had normal cell lines with increased numbers of well-differentiated plasma cells. Flow cytometry was negative for monoclonal cells. Special stains were negative for microorganisms.
+Histopathological exam of the biopsy ( Figures 4 and 5 ) revealed numerous granulomatous lesions composed of dense rings of fibrin and epithelioid histiocytes surrounding clear, lipid-filled vacuoles. These lesions, so called “doughnut” granulomas, most often represent an immune inflammatory response to infection with Coxiella burnetii (the cause of Q fever). Figure 5 shows a typical “doughnut” granuloma with dense fibrin ring (arrowhead) and central lipid vacuole (arrow) (original magnification x 200).
+Figure 5. H and E stain of bone marrow (200x).
+Treatment and Followup
+Treatment for Q fever was instituted with doxycycline 100 mg by mouth twice daily. Within 48 hours the patient showed dramatic improvement. His chest radiograph cleared and liver function tests normalized. A transesophageal echocardiogram showed no evidence of endocarditis. He was discharged to complete a 21-day course of therapy.
+The results of Coxiella antibody tests were consistent with the diagnosis of acute Q fever. The titer of phase I IgM antibody was elevated at 1:128; titers of phase II IgM and IgG antibodies were normal. After three months, the phase II IgG antibody titer rose to greater than 1:1024.
+Before the patient was discharged, he was queried thoroughly about possible zoonotic exposures. He reported that five weeks before he became ill, he visited a neighboring cousin who kept goats in his backyard. On that occasion, a goat was slaughtered and the patient used the goat meat to prepare “birrias”, a goat meat stew. Other than the patient, no one else who ate the stew or handled the slaughtered goat became ill.
+Discussion
+Q fever is a zoonosis caused by the strictly intracellular bacterium Coxiella burnetii . Clinical syndromes range from self-limited febrile illness to pneumonia, hepatitis, and endocarditis. Infection develops after inhalation of highly infectious C. burnetii spores. Cattle, sheep, and goats are the most common animal reservoirs. As a result, the majority of human infection occurs in rural settings. Of note, fifty years before this presentation, the disease was considered to be endemic in California. In the decade before, two cases of Q fever were reported to the Los Angeles City Health Department.
+This case demonstrates that human contact with Coxiella -infected animals can still occur in urban areas of California. Thus, residence in metropolitan areas should not preclude a diagnosis of Q fever in patients who have a compatible clinical illness and substantive exposure to potentially infected animals.
+Final Diagnosis
+Acute Q fever in urban California, caused by Coxiella burnetii .

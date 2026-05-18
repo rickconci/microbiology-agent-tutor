@@ -1,0 +1,29 @@
+History of Present Illness
+IDSA 2002 Case Summary: A middle-aged man with a low-grade fever and cough.
+A man in his fifties with a significant smoking history presented to the emergency department with symptoms of low-grade fever and non-productive cough. A chest radiograph revealed a left lung nodular lesion near the pleura, with no infiltrate. He was subsequently referred for computed tomoraphy (CT) scan of the chest and further evaluation.
+Past Medical History
+He had a history of alcohol abuse.
+Medications
+None.
+Epidemiological History
+The patient lived in a rural area of Arkansas. He had several pets including a skunk, a python, and several dogs. His pets did not receive regular veterinary care. He had smoked 2-3 packs of cigarettes per day for decades, and reportedly drank several beers per day. He denied recent travel.
+Physical Examination
+He was a thin, white male who appeared older than his stated age. The temperature was 98.7°F (37.1°C), blood pressure 158/85 mm Hg, pulse 62 beats per minute, and respirations 16 breaths per minute. The lungs were clear, and the remainder of the physical examination was normal.
+Studies
+The white blood cell count (WBC) and differential were normal, as were the results of other laboratory tests.
+Computed tomography (CT) of the chest showed a left lung nodule ( Figure 1 ).
+Figure 1. Chest CT scan.
+Clinical Course Prior to Diagnosis
+A thoracotomy with resection of the lung nodule was performed. The pathology results are shown ( Figure 2 ).
+Figure 2. Pathology of resected lung nodule.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the lung tissue revealed a rounded area of coagulative necrosis bordered by a layer of granulomatous inflammation. In the center of the lesion, there was a parasite measuring 200 microns in diameter possessing a thick cuticle ( Figure 2 ). The findings were consistent with a microfilaria of Dirofilaria immitis (dog heartworm).
+Treatment and Followup
+The patient recovered quickly post-operatively and was discharged home without further treatment, to follow-up with his primary care provider.
+Discussion
+Dirofilaria immitis (dog heartworm) is transmitted by the mosquito. Its most common host is the dog; humans are dead-end hosts. The parasites develop in the subcutaneous tissues and migrate to the right side of the heart and pulmonary vessels. In humans, the immature filariae die, causing a local vasculitis and pulmonary infarction. May present with cough, chest pain or hemoptysis. Most patients are asymptomatic with a “coin” lesion discovered incidentally.
+Final Diagnosis
+Dirofilaria immitis pulmonary nodule.
+References
+Theis, J.H. (2005). Public health aspects of dirofilariasis in the United States. Vet Parasitol 133, 157-180.
+PMID:16039780 ( PubMed abstract )

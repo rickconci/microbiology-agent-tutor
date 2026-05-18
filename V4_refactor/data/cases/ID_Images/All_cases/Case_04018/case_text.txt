@@ -1,0 +1,24 @@
+History of Present Illness
+Summary: A middle-aged man with a headache and fevers.
+A middle-aged man presented with a right posterolateral headache and fevers up to 101.4°F (38.6°C) for three days. He had no nausea, vomiting, visual symptoms, dysarthria, aphasia or weakness. There had been no recent trauma or dental work.
+Past Medical History
+He had a history of Osler Weber Rendu Syndrome and pulmonary arteriovenous malformations (AVMs). He had a right temporal brain abscess seven years previously, which had been treated with surgical resection and antibiotics.
+Physical Examination
+The patient appeared uncomfortable and drowsy. He was afebrile with normal vital signs; the oxygen saturation was 88% on ambient air. His speech was slow and labored, and some word finding difficulty was noted. The motor and sensory examinations were normal. There was mild clubbing and hypertrophic osteoarthropathy ( Figure 1 ).
+Figure 1. Physical findings.
+Studies
+Magnetic resonance imaging (MRI) of the brain ( Figures 2 and 3 ) revealed a round, 2-centimeter by 2-centimeter ring-enhancing lesion in the anterior portion of the right temporal lobe and a 4-millimeter left frontal lobe lesion. There was also right occipital lobe encephalomalacia at the site of the resection of his previous brain abscess.
+Figure 2. MRI scan of the brain.
+Figure 3. MRI scan of the brain.
+Diagnostic Procedure(s) and Result(s)
+The patient underwent a craniotomy, and cultures from resected brain mass grew a mixture of organisms, including alpha-hemolytic Streptococcus anginosus (milleri group), Prevotella intermedia , Fusobacterium nucleatum , Peptostreptococcus species and Bacteroides ureolyticus .
+Treatment and Followup
+The patient was treated with ceftriaxone and metronidazole for a prolonged course and recovered completely.
+Discussion
+There are several underlying conditions that are associated with bacterial brain abscesses. Extension of infection from the paranasal sinuses, middle ear or teeth may lead to brain abscess. Brain abscess also sometimes develops following penetrating head trauma or after neurosurgery. Cerebral emboli in the setting of endocarditis can result in multiple brain abscesses. Finally, metastatic seeding from distant sites of infection or from transient bacteremia may rarely lead to brain abscess. The likelihood of this is increased by conditions in which there is shunting of blood from the right to the left side of the circulation. These conditions include certain types of congenital heart disease and arteriovenous malformations (AVMs), including pulmonary AVMs as in this case.
+Pulmonary arteriovenous malformations (AVMs) are common in patients with Osler Weber Rendu (OWR) disease (hereditary hemorrhagic telangiectasia) who have neurologic involvement. In a case series of patients with pulmonary AVMs, more than half had OWR and 37% of all patients had neurological complications, including bacterial brain abscess.
+Final Diagnosis
+Bacterial brain abscess in a patient with hereditary hemorrhagic telangiectasia (Osler Weber Rendu) and pulmonary arteriovenous malformations.
+References
+Swanson, K.L., Prakash, U.B., and Stanson, A.W. (1999). Pulmonary arteriovenous fistulas: Mayo Clinic experience, 1982-1997. Mayo Clin Proc 74, 671-680.
+PMID:10405695 ( PubMed abstract )

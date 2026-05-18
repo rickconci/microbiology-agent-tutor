@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2001 Case Summary: A woman in her thirties with abdominal pain, diarrhea and fever.
+A woman in her thirties, with a history of leukemia, was in complete remission three months after allogeneic peripheral blood stem cell transplant when she presented after 4 days of diffuse abdominal pain, diarrhea and fever. She had received azithromycin one week before presentation for bronchitis.
+Past Medical History
+She had had acute myeloblastic leukemia (AML), and was status post allogeneic stem cell transplant as above.
+Medications
+She had received VP-16 three months before admission, and was taking acyclovir prophylaxis.
+Epidemiological History
+She reported that she drank city water, and had no exposures to animals or travel history.
+Physical Examination
+The temperature was 39.4°C (102.9°F), blood pressure 90/60 mm/Hg, pulse 130 beats/minute, and respirations 24 breaths per minute. The examination of the abdomen revealed hypoactive bowel sounds and mild generalized abdominal tenderness.
+Studies
+The white blood cell count (WBC) was 22,000 cells per cubic millimeter (88% neutrophils), the serum level of urea nitrogen (BUN) was 32 mg/dL and creatinine 3.1 mg/dL. An abdominal scan is shown in Figure 1 .
+Figure 1. Abdominal scan.
+Clinical Course Prior to Diagnosis
+Sigmoidoscopic examination revealed diffuse bowel wall edema, without pseudomembranes ( Figure 2 ).
+Figure 2. Sigmoidoscopy findings.
+Diagnostic Procedure(s) and Result(s)
+Stool was positive for Clostridium difficile toxin by cytotoxicity assay. Stool for ova and parasites (O & P) was negative; polymerase chain reaction (PCR) testing for cytomegalovirus (CMV) was negative. Biopsies of the sigmoid colon, descending colon and rectum showed no evidence of viruses, bacteria, fungi and graft-versus-host-disease (GVHD).
+Discussion
+Final Diagnosis
+Clostridium difficile colitis.
+References
+Avery, R., Pohlman, B., Adal, K., Bolwell, B., Goldman, M., Kalaycio, M., Hall, G., Andresen, S., Mossad, S., Schmitt, S., Mason, P., and Longworth, D. (2000). High prevalence of diarrhea but infrequency of documented Clostridium difficile in autologous peripheral blood progenitor cell transplant recipients. Bone Marrow Transplant 25, 67-69.
+PMID:10654017 ( PubMed abstract )
+Kachrimanidou, M., and Malisiovas, N. (2011). Clostridium difficile infection: a comprehensive review. Crit Rev Microbiol 37, 178-187.
+PMID:21609252 ( PubMed abstract )

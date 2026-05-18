@@ -1,0 +1,38 @@
+History of Present Illness
+A woman in her seventies presented to the hospital with weight loss, abdominal pain, diarrhea, vomiting, and rash for three months. She also reported shortness of breath, hemoptysis, and recent onset of a new painful sacral rash.
+Two months before admission, glucocorticoids had been administered for an intensely pruritic rash on her arms, legs, and trunk. This rash initially improved but then intensified. She also developed thrush during this time, which was treated with a course of fluconazole.
+Past Medical History
+She had a history of seasonal rhinitis and osteoarthritis.
+Medications
+She had taken a course of glucocorticoids two months before this presentation.
+Social History
+She was widow who lived with her boyfriend until a few weeks before admission, when she moved in with family for assistance with activities of daily living due to fatigue.
+Epidemiological History
+She had had multiple sexual partners in her lifetime. She lived in a rural area in Louisiana and had one dog. She had no significant travel history, and had not been outside of the United States. She enjoyed gardening and frequently worked in her yard.
+Physical Examination
+The patient appeared chronically ill. The blood pressure was 125/41 mm Hg, pulse 102 beats per minute, temperature 98.1ºF (36.1ºC), and respirations 20 breaths per minute. The lungs were clear and there was tenderness to palpation in both right and left upper quadrants of her abdomen. Examination of the skin revealed a petechial rash with some linear features on her abdomen ( Figure 1 ), a diffuse papular rash on both legs ( Figure 2 ) and back, and several lesions on her sacrum that resembled denuded bullae had surrounding erythema and were exquisitely tender ( Figure 3 ).
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Figure 3. Physical findings.
+Studies
+Laboratory values on admission revealed a white blood cell count of 5800 cells per cubic millimeter/L (with 8% eosinophils (reference range 0-7%)), hemoglobin 7.7 g/dL (reference range 12-16 g/dL) and mean corpuscular volume (MCV) 79 fL. Human immunodeficiency virus (HIV) antibody testing was positive and the absolute CD4 T-lymphocyte cell count was 6 cells per cubic millimeter. A chest radiograph was negative.
+Figure 4. Examination of a stool specimen.
+Clinical Course Prior to Diagnosis
+The patient was admitted to the hospital and crystalloid and blood products were administered. Initial evaluation for weight loss, change in bowel habits, and anemia included esophagogastroduodenoscopy (EGD), colonoscopy, and stool studies.
+Examination of the stool is shown ( Figure 4 ).
+Diagnostic Procedure(s) and Result(s)
+Pathologic review of the stool revealed Strongyloides stercolis. EGD revealed a small antral ulcer and colonoscopy was significant for pan-colitis.
+With the patient’s respiratory symptoms and immunocompromised state, there was concern for dissemination of the S. stercolis and hyperinfection syndrome. Computed tomography (CT) of the chest showed alveolar infiltrates. Bronchoscopic examination with bronchial alveolar lavage revealed diffuse alveolar hemorrhage and an abundance of S. stercolis on pathologic examination ( Figure 5 ).
+Figure 5. Examination of a sputum specimen.
+Treatment and Followup
+The patient was initially treated with ivermectin alone but due to persistently positive stools, albendazole was added. Stool examination became negative on the ninth day of treatment. Antiretroviral therapy for her HIV was not started as an inpatient due to concerns of immune reconstitution inflammatory syndrome.
+At discharge, the gastrointestinal symptoms had resolved and she reported feeling better. Ivermectin was administered again two weeks later. Her stool examinations at that time, and before initiation of antiretrovirals one month after discharge, were negative for organisms.
+Discussion
+Strongyloides stercolis is an intestinal nematode which is endemic in tropical and subtropical climates, although there have been cases described in temperate climates such as southeastern United States. Infection in the United States is found in inhabitants of rural areas, institutionalized persons, immigrants, veterans, and those of low socioeconomic status. The prevalence of Strongyloides infection and associated deaths in the United States is likely underestimated. Immunocompetent hosts may have an asymptomatic or mild illness. Immune-compromised hosts have the potential for more severe infection.
+Strongyloides is unique amongst helminths in its ability to complete its lifecycle within the human host, leading to autoinfection. Autoinfection results in an accelerated lifecycle, increasing parasitic burden and dissemination. This process, called the hyperinfection syndrome, carries a mortality rate as high as 85%. While Strongyloides stercolis may infect up to 100 million humans worldwide, hyperinfection is infrequent. The patient in this case displayed multiple characteristic findings of hyperinfection, including colon and lung involvement. This patient’s sacral rash and colitis may have represented sites of autoinfection after administration of systemic glucocorticoids. The diffuse rash was consistent with larva currens. Hyperinfection with S. stercolis is described in patients with AIDS but is rarely seen as the initial presentation of AIDS in the United States. As the AIDS epidemic reaches the elderly, clinicians should be more diligent in screening this vulnerable population.
+Final Diagnosis
+Strongyloides stercolis hyperinfection syndrome in a patient with newly-diagnosed HIV infection and AIDS.
+References
+Centers for Disease Control and Prevention. Parasites-Strongyloides. Retrieved from http://www.cdc.gov/parasites/strongyloides/. March 2013.
+Crocker C, Reporter R, Redelings M, Mascola L. Strongylodiasis-related deaths in the United States, 1991–2006. Am J Trop Med Hyg. 2010;83:422–426.http://www.ncbi.nlm.nih.gov/
+PMID:20682893 ( PubMed abstract )

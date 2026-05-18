@@ -1,0 +1,45 @@
+History of Present Illness
+A woman in her 50s presented to the Emergency Department with cough, myalgias, fever (102°F), and pleuritic chest pain. Three days before presentation, the patient tested positive for influenza A and diagnosed with pneumonia based on chest radiograph. At that time, she was started on oseltamivir, amoxicillin-clavulanic acid and azithromycin. Two days prior to presentation, she was prescribed a methylprednisolone taper due to persistent symptoms.
+Past Medical History
+• Hypertension
+• Obesity
+Medications
+• Lisinopril 10mg daily
+• Triamterene-hydrochlorothiazide 37.5-25mg daily
+Epidemiological History
+The patient was born in Eastern Europe and moved to the United States decades ago. She lives with her husband. The patient recently returned from one-week vacation to Southeast Asia. In Singapore, she visited city areas and gardens. No rainforest or jungle excursions. Ate halloumi cheese at a "street market" and shortly after had diarrhea that self-resolved.
+Physical Examination
+• Vital signs: BP 167/106, HR 114 bpm, Temperature 36° C, RR 28 bpm, Weight 114 kg, SpO2 67% on room air, BMI 44.85 kg/m²
+• General: In acute distress, ill-appearing
+• Cardiac: Tachycardic, no murmur
+• Pulmonary: Tachypneic, accessory muscle use, respiratory distress present, rales auscultated
+• The remainder of the physical exam was within normal limits.
+Studies
+Initial complete metabolic panel was significant for sodium 128 mmol/L, bicarbonate 13 mmol/L, BUN 43 mg/dL, creatinine 2.76 mg/dL, alkaline phosphatase 171 U/L, aspartate aminotransferase 75 U/L, and alanine aminotransferase 83 U/L. The remainder of the complete metabolic panel was within normal limits. Complete blood count was normal and without leukocytosis. Arterial blood gas revealed a pH of 7.301, PaCO2 39.9 mmHg, and PaO2 103 mmHg. Lactic acid was 7.0 mmol/L. Brain natriuretic peptide was elevated to 510 ng/L. Troponin level was within normal limits. Blood cultures were collected. Repeat complete respiratory pathogen panel was positive for influenza A H1N1-2009. An electrocardiogram revealed sinus tachycardia.
+Figure 1. CT Chest without contrast
+Clinical Course Prior to Diagnosis
+The patient’s clinical course deteriorated rapidly upon presentation to the hospital. She experienced worsening hypoxia necessitating endotracheal intubation in the emergency department. Piperacillin-tazobactam and vancomycin were initiated. Repeat chest radiography revealed a new pleural effusion, and a thoracentesis was performed with pleural fluid sent for cultures. She also developed new atrial fibrillation with rapid ventricular response and a newly reduced ejection fraction of 30%. Coronary angiography revealed no significant coronary artery disease. An intra-aortic balloon pump was placed. However, due to progressive decompensation (Figure 1) and worsening multi-organ dysfunction, cannulation for veno-arterial extracorporeal membranous oxygenation (VA-ECMO) was performed. A bronchoscopy was completed at the time of VA-ECMO cannulation, and clear airways without significant secretions were noted. At 24 hours, blood cultures were growing gram-negative rods, and the Infectious Disease consultation service was consulted.
+Diagnostic Procedure(s) and Result(s)
+• Initial blood cultures were speciated as Burkholderia cepacia via commercial antimicrobial susceptibility test system (Figure 2, Figure 3)
+• Given lack of patient risk factors for B. cepacia including no history of chronic pulmonary disease or immunocompromising conditions, the infectious disease team referred the blood culture isolate to the state health department for further testing. As the patient had recently traveled to Southeast Asia, Burkholderia pseudomallei (B. pseudomallei) was suspected.
+• Repeat molecular testing at the state public health department identified the blood isolate as B. pseudomallei via polymerase chain reaction methods
+• Pleural fluid cultures also grew B. pseudomallei at 48 hours, and sputum cultures grew B. pseudomallei at 50 hours
+Figure 2. Figure 2: Photos taken on day 5 on Chocolate agar
+Figure 3. Photos taken on day 5 on blood agar
+Treatment and Followup
+Piperacillin-tazobactam and vancomycin were discontinued, and the patient was started on trimethoprim-sulfamethoxazole. Due to concerns about inadequate antimicrobial monotherapy in the setting of the VA-ECMO circuit and while awaiting confirmatory testing, the patient was started on meropenem to provide dual coverage. The course of oseltamivir was completed. The state’s Department of Public Health Laboratory identified the isolate as B. pseudomallei . An isolate was also sent to the Centers for Disease Control and Prevention for whole-genome sequencing with data available at NCBI under biosample SAMN45894604. The isolate, 3101412784, was likely originating from Singapore due to the multi-locus sequence type (MLST) being attributed to ST-423 which is comprised of previous isolates from Southeast Asia as well as the finding that it grouped with multiple B. pseudomallei genomes from Singapore based on high resolution single nucleotide polymorphism (SNP) analysis. Unfortunately, the patient’s prolonged hospital course was complicated by fungemia, cerebrovascular accident, gastrointestinal bleed, and multi-limb ischemia secondary to vasopressor-induced soft tissue complications requiring amputations to three extremities. Her family ultimately made the decision to withdraw care and compassionately extubate.
+Discussion
+Melioidosis is caused by B. pseudomallei, a gram-negative rod-shaped bacterium endemic to Southeast Asia, Northern Australia, Thailand, and some areas within the Americas. This illness is typically contracted by direct contact, inhalation, or ingestion from soil or water. Though diagnosis can be difficult given nonspecific signs and symptoms, early recognition of this underlying illness is imperative. Aside from recent travel to an endemic area, the patient did not have typical risk factors for melioidosis, and her pre-hospitalization presentation featured non-specific symptoms. B. cepacia tends to have a predilection for infecting severely immunocompromised individuals with prior pulmonary disease, which was not present in the current case. Recent methylprednisolone exposure may have contributed to her relatively immunosuppressed state at the time of infection. A link between influenza or SARS-CoV-2 infection and the development of melioidosis has been investigated, but a definitive association has not been found. Finally, prior research has demonstrated the potential for mis-speciation of Burkholderia species using typical protocols available in clinical laboratories.
+This case demonstrates the need for a high index of suspicion of melioidosis in patients who present with nonspecific symptoms and have a history of travel to endemic areas. Additionally, an automated instrument’s “expert rule” noted the blood culture isolate, initially identified as B. cepacia , to be resistant to amoxicillin-clavulanate on initial speciation. Proper recognition of B. pseudomallei is imperative given the risk of transmission to laboratory personnel. Direct contact with the Centers for Disease Control and Prevention and the state’s Department of Public Health were of utmost importance to further characterize this patient’s condition.
+Final Diagnosis
+Melioidosis
+References
+Godoy D, Randle G, Simpson AJ, Aanensen DM, Pitt TL, Kinoshita R, Spratt BG. Multilocus sequence typing and evolutionary relationships among the causative agents of melioidosis and glanders, Burkholderia pseudomallei and Burkholderia mallei. J Clin Microbiol. 2003 May;41(5):2068-79. doi: 10.1128/JCM.41.5.2068-2079.2003. PMID: 12734250 PMCID: PMC154742
+PMID:12734250 ( PubMed abstract )
+Wiersinga WJ, Currie BJ, Peacock SJ. Melioidosis. N Engl J Med. 2012 Sep 13;367(11):1035-44. doi: 10.1056/NEJMra1204699. PMID: 22970946.
+PMID:22970946 ( PubMed abstract )
+Tavares M, Kozak M, Balola A, Sá-Correia I. Burkholderia cepacia Complex Bacteria: a Feared Contamination Risk in Water-Based Pharmaceutical Products. Clin Microbiol Rev. 2020 Apr 15;33(3):e00139-19. doi: 10.1128/CMR.00139-19. PMID: 32295766; PMCID: PMC7194853.
+PMID:32295766 ( PubMed abstract )
+Martin GE, Chen JLJ, Woerle C, Hinchcliff A, Baird RW, Davies J, Currie BJ. Is Respiratory Viral Infection an Inciting Event in the Development of Melioidosis? A Systematic Evaluation of Co-infection With Burkholderia pseudomallei and SARS-CoV-2 or Influenza. Open Forum Infect Dis. 2024 Dec 4;11(12):ofae700. doi: 10.1093/ofid/ofae700. PMID: 39665111; PMCID: PMC11632372.
+PMID:39665111 ( PubMed abstract )
+Wu B, Tong X, He H, et al. Misidentification of Burkholderia pseudomallei, China. Emerging Infectious Diseases. 2021;27(3):964-966. doi:10.3201/eid2703.191769.

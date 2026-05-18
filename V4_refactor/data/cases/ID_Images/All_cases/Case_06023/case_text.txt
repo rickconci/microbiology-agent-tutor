@@ -1,0 +1,35 @@
+History of Present Illness
+Medical Student Curriculum Case Summary: A woman with a biphasic respiratory illness.
+A woman in her thirties presented in February with a history of fever, and temperatures ranging between 100-101°F (37.8-38.3°C), headache, myalgias and cough. There was no sputum production. She was breathing comfortably and the examination was normal. Laboratory testing included a normal white cell count . A chest radiograph was taken and is shown in Figure 1 . She was discharged home with a diagnosis of probable influenza .
+Several days later, she returned to the emergency room due to worsening symptoms, including cough productive of purulent sputum .
+Figure 1. Image
+Figure 1. Chest radiograph on initial presentation.
+Past Medical History
+The patient had been in .
+Medications
+She had not been on before this illness.
+Epidemiological History
+The patient was from Western Europe. She resided in an urban area in New England where .
+Physical Examination
+The patient appeared to be in moderate . The temperature was 103°F (39.4°C). The lungs revealed diminished breath sounds and rhonchi, most notably on the right, and inspiratory rales in the left posterior lung field.
+Studies
+A chest radiograph obtained on her return visit, when she was admitted to the hospital, and is shown in Figure 2 .
+Figure 2. Chest radiograph upon return visit.
+Clinical Course Prior to Diagnosis
+A gram stain of the sputum specimen is shown in Figure 3 .
+Figure 3. Gram stain of sputum specimen.
+Diagnostic Procedure(s) and Result(s)
+A gram stain of the sputum sample showed mononuclear white cells (suggestive of an underlying viral etiology), leukocytes, and gram positive cocci in clusters ( Figure 3 ). Culture of the sputum grew abundant Staphylococcus aureus , sensitive to oxacillin .
+Treatment and Followup
+The patient was treated with oxacillin and recovered fully.
+Discussion
+Fever, malaise, headache, myalgia and cough are the most common presenting symptoms of influenza. The physical examination is often normal except for fever, with the temperature peaking between 100°F (37.8°C) and 104°F (40.0°C), on average. The most frequent pulmonary complications of influenza are primary influenza viral pneumonia, which has a high mortality rate, and secondary bacterial infection, most commonly due to Streptococcus pneumoniae . The appearance of pneumonia caused by Staphylococcus aureus in otherwise healthy individuals may be an early indicator of an emerging Influenza A outbreak. In addition, secondary infection with community-acquired methicillin-resistant Staphylococcus aureus (MRSA) has been reported after influenza; in the setting of a suspected post-influenza bacterial pneumonia, empiric therapy for MRSA should be strongly considered.
+Influenza is also notable for its high mortality rate, especially in the elderly and very young children, and epidemic nature. Other groups at high-risk include those with cardiovascular (especially valvular) disease, pulmonary complications (such as asthma), chronic metabolic disease, renal dysfunction, pregnancy, or immunodeficiency, including HIV infection. More recently, the 2009 H1N1 influenza A outbreak has also shown a significant rate of severe infection in previously healthy young adults. Of note, the majority of patients who contract influenza have been active and ambulatory up until the onset of illness. Early treatment of influenza may reduce the duration and severity of illness.
+Additional resources for students:
+1. Barry, J. 2005. The Great Influenza: The Epic Story of the Deadliest Plague in History, Penguin, October. [Excellent, non-fiction accounts of the Spanish Flu]
+2. Centers for Disease Control and Prevention (CDC) influenza website: http://www.cdc.gov/ncidod/diseases/flu/fluvirus.htm [clinical summaries]
+3. Kolata, G. November 1999. Flu: The Story of the Great Influenza Pandemic of 1918 and the Search for the Virus That Caused It. Farrar Straus & Giroux.
+4. Willis, C. August 1993. Doomsday Book, Spectra [Science fiction account of what the "next" Spanish Flu could look like, and comparison with the Plague]
+5. World Health Organization (WHO) influenza website: http://www.who.int/csr/disease/influenza/en/ [outbreak tracking and vaccine status]
+Final Diagnosis
+Viral illness, consistent with influenza, complicated by secondary Staphylococcus aureus pneumonia.

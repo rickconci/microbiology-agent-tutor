@@ -1,0 +1,43 @@
+History of Present Illness
+2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A man in his sixties with fever, fatigue and cough with occasional sputum of 3 weeks' duration.
+A man in his sixties was well until three weeks before presentation when, in late spring , he developed fever, fatigue, and cough, with occasional sputum production.
+Past Medical History
+There was a history of and prostate cancer, for which radiotherapy had been administered several years earlier.
+Medications
+(10mg weekly) had been administered for many years for psoriasis.
+Epidemiological History
+He lived in New England. He had stopped one year earlier after smoking for decades. He did not drink alcohol and had no pets. Six weeks before, he had driven through the , staying in urban areas; he had traveled to the Caribbean and Mediterranean in the remote past.
+Physical Examination
+He appeared well. The temperature was 100.2°F (37.9°C), blood pressure 100/55 mm Hg, pulse 69 beats per minute, respirations 18 breaths per minute and oxygen saturation 94% while breathing ambient air. There were fine inspiratory crackles at the bases of both lungs, and the remainder of the examination was normal.
+Studies
+The hemoglobin (13.2 gm/dl) and white cell count (9100 cells/mm³) were normal, and the platelet count was low, at 55,000/mm³. Serum levels of electrolytes and tests of renal function were normal; the level of bilirubin was 2.1 mg/dL (reference range 0.2 -1.1 mg/dL), alkaline phosphatase 142 IU/L (reference range 40-130 IU/L) and alanine aminotransferase 67 IU/L (reference range 5-40 IU/L). The serum level of angiotensin converting enzyme was 107 U/L (reference range 13-60 U/L.)
+A chest radiograph is shown in Figure 1 . Computed tomography (CT) of the chest ( Figure 2 ) showed bilateral diffuse micronodular opacities and mild mediastinal lymphadenopathy .
+Figure 1. Chest radiograph.
+Figure 2. CT scan of the chest.
+Clinical Course Prior to Diagnosis
+Ceftriaxone, levofloxacin and steroids were administered intravenously, with initial improvement . Seven days later, abdominal pain, hypotension, respiratory failure and renal failure developed. A Wright stain of the blood is shown ( Figure 3 ).
+The patient was intubated and transferred to a tertiary medical center. A laparotomy was performed emergently, and revealed a dusky congested stomach, dusky distal small bowel and edematous colon.
+Figure 3. Wright stain of blood.
+Diagnostic Procedure(s) and Result(s)
+Yeast forms consistent with Histoplasma were seen in neutrophils on the blood smear ( Figure 3 , above), and the serum Histoplasma antibody was positive at greater than 1:1024 dilution. Specimens obtained by bronchoalveolar lavage were positive for Histoplasma capsulatum by DNA probe. Blood cultures also grew H. capsulatum ( Figures 4 and 5 ). At the time of laparotomy, the liver was mildly nodular in appearance. A biopsy of the liver showed numerous yeast forms on Gomori methenamine silver (GMS) staining ( Figure 6 ).
+Figure 4. Growth of blood isolate showing filamentous mold stage.
+Figure 5. Growth from blood culture.
+Figure 6. GMS stain of liver biopsy, magnified x 40.
+Treatment and Followup
+Resection of the stomach and bowel was not performed, as the risk of surgical resection was thought to be too great. Despite maximal supportive care and intravenous , the patient died 2 days later.
+Discussion
+Histoplasma capsulatum is a dimorphic fungus that is endemic in the Southeastern United States, in states bordering the Ohio and southern Mississippi Rivers. Clinical presentation depends on the immune state of host and burden of exposure to the fungus. Immunosuppressed patients can present with overwhelming infection and multi-organ failure, including shock, respiratory, renal and hepatic failure and disseminated intravascular coagulation (DIC). Mortality can be up to 50% despite optimal care. [Kaufmann 2007]
+The most commonly involved organs are the gastrointestinal system (which is involved in approximately 70% of patients but clinically evident less than 10% of the time), the skin, adrenals and meninges. Less commonly, other organs such as liver, spleen, heart or peripheral white blood cells can reveal yeast forms in acute disseminated disease. [Deepe 2005; Kahi et al. 2005]
+Teaching points:
+1) Travel history is a key part of the Infectious Diseases work-up. Even distant history of travel and brief exposure can sometimes be significant if the acute illness results from reactivation of a latent infection. This principle is important for a number of infections, notably histoplasmosis and tuberculosis.
+2) Immunosuppression is critical to consider in the diagnosis of infectious diseases. Histoplasma usually causes only mild or asymptomatic infection in the immunocompetent host but can cause severe disseminated infection in the immunocompromized host.
+3) The diagnosis of histoplasmosis should be considered in any immunosuppressed person with disseminated febrile illness and appropriate exposure history. It can be confirmed by direct identification of the organism from involved tissues on morphological grounds, as well as by culture from blood, tissue or urine.
+4) Drugs, which affect the immune system, can put patients at elevated risk of severe infection and so must be used cautiously. In this case, both the methotrexate and the steroids may have contributed to the patient’s severe infection.
+Final Diagnosis
+Disseminated histoplasmosis caused by Histoplasma capsulatum in a patient taking methotrexate.
+References
+Deepe GS Jr. Chapter 262 Histoplasma capsulatum. In: Mandell GL, Bennett JE, Dolin R, eds. Mandell, Douglas, and Bennett’s Principles and Practice of Infectious Disease. 6th ed. Philadelphia: Elsevier Churchill Livingstone. 2005:3019-3021.
+Kahi, C.J., Wheat, L.J., Allen, S.D., and Sarosi, G.A. (2005). Gastrointestinal histoplasmosis. Am J Gastroenterol 100, 220-231.
+PMID:15654803 ( PubMed abstract )
+Kauffman, C.A. (2007). Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev 20, 115-132.
+PMID:17223625 ( PubMed abstract )

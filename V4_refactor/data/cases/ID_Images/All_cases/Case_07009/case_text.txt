@@ -1,0 +1,52 @@
+History of Present Illness
+2007 September Featured Case Summary: A teenager with headache, vomiting and a new rash.
+A teenager presented to the emergency room with headache, vomiting and a rash. The patient had been in good health until approximately thirty-six hours before admission when she developed generalized malaise, myalgias and fever. Headache and shortness of breath followed, and her family brought her to another hospital. Pneumonia was diagnosed; azithromycin was prescribed and she was discharged.
+At home, she was lethargic and slept several hours. Later that evening, she complained of having the worst headache of her life. She developed nausea, vomiting and photophobia; speech became incomprehensible with muttering. Her eyes were observed to be rolled back; an ambulance was called emergently and she was transported to a tertiary care hospital.
+On arrival in the triage area, vomiting occurred again, after which a rash was noted on her torso and legs.
+Past Medical History
+The patient had a history of asthma with intermittent symptoms.
+Medications
+The patient had taken one dose of azithromycin (500 milligrams) following the evaluation at the other hospital. She had previously been prescribed an albuterol inhaler, which she used infrequently. Childhood immunizations were up-to-date.
+Social History
+She lived with her family and attended high school.
+Epidemiological History
+A friend had been ill during the preceding week.
+Physical Examination
+On examination, the patient was obtunded. She was responsive to pain and vomiting intermittently, once with coffee-ground emesis. She opened her eyes spontaneously and moved all extremities. The blood pressure was 94/66 mm Hg, pulse 113 beats per minute, respirations 20 breaths per minute, and temperature 99.0°F (37.2°C). The lungs were clear, heart sounds rapid and otherwise normal, and the abdomen soft and non-tender. There was a diffuse petechial rash on the torso and leg. The remainder of the examination was normal.
+Studies
+Laboratory results included a white blood cell count of 33,800 cells/mm³ (68% leukocytes, 15% bands, 11% monocytes, and 6% lymphocytes), hematocrit 33.7%, hemoglobin 12.0 gram per deciliter, and platelet count 319,000/mm³. Prothrombin time was 15.1 seconds and partial thromboplastin time 30.3 seconds.
+Serologic test results included sodium 133 mmol/liter, potassium 3.7 mmol/liter, chloride 101 mmol/liter, carbon dioxide 21.0 mmol/liter, urea nitrogen 8 mg/dl, creatinine 0.6 mg/dl, glucose 192 mg/dl, calcium 8.8 mg/dl, phosphorus 2.6 mg/dl, magnesium 1.3 mmol/liter, and protein 7.1 g/dl. A pregnancy test was negative.
+Other testing included fibrinogen 519 mg/dl (reference range 150-400 mg/dl) and D-Dimer 3026 ng/ml (reference range <500 ng/ml).
+Clinical Course Prior to Diagnosis
+Ceftriaxone and vancomycin were administered emergently, followed by a lumbar puncture and computed tomography (CT) of the head, shown in Figure 1 .
+The fourth tube of cerebrospinal fluid (CSF) was cloudy white. There were 29 red cells per cubic millimeter and 1156 white cells per cubic millimeter (neutrophils 80%, monocytes 6% and lymphocytes 14%.) Additional testing of the CSF revealed glucose level of 83 mg/dl and total protein 85 mg/dl. A gram stain of the CSF is shown in Figure 2 .
+[Figure 1. Scan of the brain.] [Figure 2. Gram stain of spun CSF.]
+Figure 1. CT scan of the brain.
+Figure 2. Gram stain of spun CSF.
+Diagnostic Procedure(s) and Result(s)
+Computed tomography (CT) scanning of the brain showed diffuse swelling, without evidence of an acute infarction or mass lesion ( Figure 1 ). There was debris within the suprasellar and interpeduncular cisterns and the sylvian fissures, which was thought to be purulent material. The chest radiograph showed mild peribronchial cuffing, which could be seen with reactive airways disease and bronchitis; no focal pneumonia was identified.
+The gram stain of the cerebrospinal fluid revealed abundant polymorphonuclear leukocytes and moderate numbers of gram-negative diplococci. (See Figure 3 , with arrows showing bacteria.) Latex agglutination was positive for meningococcus ( Neisseria meningitidis ). The CSF culture grew abundant N. meningitidis ; the chocolate agar plate is shown in Figure 4 and reveals the smooth, moist colonies, with a glistening surface, characteristic of that organism
+Figure 3. Gram stain of CSF, with gram negative diplococci (arrows).
+Figure 4. Chocolate agar plate with N. meningitidis colonies.
+Treatment and Followup
+Ceftriaxone and vancomycin were administered in the emergency room before the lumbar puncture and CT scanning were performed. Promethazine, ranitidine, ondansetron, and dexamethasone were also administered in the emergency room, and one dose of acyclovir and gentamicin were administered pending the identification of the gram-negative rods on gram stain. With the identification of meningococcus, ceftriaxone alone was continued. Transient hypotension in the emergency room resolved with intravenous isotonic fluid boluses. The patient was admitted to the pediatric intensive care unit and droplet precautions were instituted for the first twenty-four hours.
+Her mental status improved markedly during the first ten hours of her admission and she was felt to be back to baseline within two days. Magnetic resonance imaging (MRI) of the brain, performed on the sixth hospital day, was normal. Testing for hepatitis B and C viruses, human immunodeficiency virus (HIV), and complement deficiency were negative. Audiology and ophthalmology evaluations were normal. Ceftriaxone was administered for seven days.
+Discussion
+Bacterial meningitis is a medical emergency and the timeliness of treatment can make a crucial difference in patient outcome. It is appropriate to begin antibiotics when the diagnosis of bacterial meningitis is suspected and prior to lumbar puncture or cranial computed tomography (CT). The organism can frequently be isolated from the cerebrospinal fluid (CSF) after the initiation of antibiotics or occasionally can be identified through the use of antigen tests.
+This particular patient's presentation in the emergency room waiting area included the development of a petechial rash, a sign suggestive of meningococcal infection and, fortunately, treatment was initiated urgently. Although the characteristic petechial rash is helpful in the diagnosis of meningococcal meningitis, patients may instead manifest a non-specific maculopapular rash or no rash at all.
+At the Massachusetts General Hospital, the historic case fatality rate from meningococcal meningitis is 10% [Durand et al 1993]. This is lower than the historical case fatality rate associated with pneumococcal meningitis (28%) and gram-negative bacilli meningitis (36%). Further, compared with the other common causes of meningitis, the risk of neurological sequelae among survivors of meningococcal meningitis is lower. Although adjunctive corticosteroids are commonly administered in meningococcal meningitis, there is not a large body of evidence to support their use. Prophylaxis to household or other close contacts of patients with meningococcal meningitis consists of either ciprofloxacin or rifampicin.
+In 2005 and 2007, the United States Centers for Disease Control Advisory Committee on Immunization Practices (ACIP), recommended routine vaccination with a tetravalent meningococcal polysaccharide-protein (Groups A/C/Y and W-135) conjugate vaccine (MCV4 or Menactra®) of all unvaccinated children 11 to 18 years of age, as well as individuals 19-55 years with increased risk of infection with meningococcus including "college freshmen living in dormitories, microbiologists routinely exposed to isolates of Neisseria meningitidis, military recruits, travelers to or residents of countries in which N. meningitidis meningitis is hyperendemic or epidemic, persons with terminal complement component deficiencies, and persons with anatomic or functional asplenia" [Bilukha et al. CDC 2005, CDC 2007].
+Final Diagnosis
+Meningococcal meningitis caused by Neisseria meningitidis infection.
+References
+(2007). Revised recommendations of the Advisory Committee on Immunization Practices to Vaccinate all Persons Aged 11-18 Years with Meningococcal Conjugate Vaccine. MMWR Morb Mortal Wkly Rep 56, 794-795.
+PMID:17694617 ( PubMed abstract )
+Bilukha, O.O., and Rosenstein, N. (2005). Prevention and control of meningococcal disease. Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 54, 1-21.
+PMID:15917737 ( PubMed abstract )
+Christie AB. Acute bacterial or pyogenic meningitis. Infectious diseases: epidemiology and clinical practice. 4th ed. Vol 2. Edinburgh: Churchill Livingstone, 1987:872
+Bedford, H., de Louvois, J., Halket, S., Peckham, C., Hurley, R., and Harvey, D. (2001). Meningitis in infancy in England and Wales: follow up at age 5 years. BMJ 323, 533-536.
+PMID:11546697 ( PubMed abstract )
+Duggal, S., Duggal, N., Charoo, H., and Mahajan, R.K. (2007). Recent outbreak of meningococcal meningitis--a microbiological study with brief review of literature. J Commun Dis 39, 209-216.
+PMID:18697589 ( PubMed abstract )
+Durand, M.L., Calderwood, S.B., Weber, D.J., Miller, S.I., Southwick, F.S., Caviness, V.S., Jr., and Swartz, M.N. (1993). Acute bacterial meningitis in adults. A review of 493 episodes. N Engl J Med 328, 21-28.
+PMID:8416268 ( PubMed abstract )

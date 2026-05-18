@@ -1,0 +1,34 @@
+History of Present Illness
+2013 May-June Featured Case: A woman in her thirties noted multiple (~10) pruritic raised, red lesions on the left arm and leg and the left side of her trunk during the second day of a trip to southwestern Uganda. During the next week, additional lesions appeared on the left side, and each lesion gradually increased to greater than 3-centimeters in diameter. She went to the dermatology clinic at the regional hospital for evaluation.
+She reported no associated fevers, sweats, chills, nausea, vomiting, diarrhea, or headache.
+Past Medical History
+She had previously been healthy.
+Medications
+Her only new medication was a sleep aid.
+Allergies
+She had no known allergies to medicines.
+Epidemiological History
+During her visit to Uganda, she resided at a residential facility at the local university. She slept underneath a bednet and wore sun-protective clothing. She had not used insect repellant. She went on a safari at a national park four days after the skin lesions appeared, but did not swim or hike during her stay. No other colleagues or contacts experienced similar symptoms. She had not used any new detergents or soaps. She drank alcohol in moderation and did not smoke or use illicit drugs. She was in a monogamous sexual relationship.
+Physical Examination
+There were approximately 20 erythematous lesions on the left side that were non-indurated, warm, and measured up to more than 3-centimeters in diameter. The lesions had a punctate pale central clearing ( Figures 1 and 2 ). The remainder of the examination was normal.
+Figure 1. Physical findings on leg.
+Figure 2. Skin lesion after lateral pressure applied.
+Clinical Course Prior to Diagnosis
+The local dermatologist in Uganda made a clinical diagnosis based on presentation.
+Diagnostic Procedure(s) and Result(s)
+Lateral pressure was applied to a lesion as shown in Figure 2 and a single living larva consistent with the African tumbu fly ( Cordylobia anthropophaga ) emerged from the central pore. Another 10-15 larvae were removed manually in a similar fashion; however, due to significant pain and bleeding, the remaining 5 were left in place. The patient applied petrolatum jelly and occlusive dressings over the remaining lesions. After 24 hours, additional larvae were apparent in the center of those lesions ( Figure 3 ). Lateral pressure was again applied to the remaining lesions and additional dead larvae ( Figure 4 and Video 1 ) were produced with limited pressure, without pain or bleeding.
+Figure 3. Physical findings, 24 hours after application of petrolatum jelly.
+Figure 4. Extracted African tumbu fly Cordylobia anthropophaga larva, with breathing tube.
+Video 1. African tumbu fly larvae extraction
+Treatment and Followup
+After extraction of all larvae, topical neomycin was applied to the lesions, which fully healed without further incident within one week.
+Discussion
+The diagnosis in this case was made presumptively by typical clinical presentation of multiple furuncles without associated systemic symptoms or signs. Though each of the other listed diagnoses should be considered, most were excluded in this case by lack of fever or constitutional symptoms (as often seen in Rickettsialpox and African tick bite fever), lack of typical eschar formation (seen in Rickettsialpox, Bouttenouse fever and African tick bite fever) [ Cook GC and Zumla 2009, Ch 49 ], lack of risk factors (syphilis), or an incorrect geographic distribution (Lyme disease has not been reported in Africa). Though Borrelia infections do occur in Africa, they tend to be relapsing fever-type infections. Lyme disease could not be entirely excluded because infection might have occurred prior to travel; however, the presence of multiple lesions would be most consistent with early disseminated disease, which is usually associated with systemic symptoms. Furunculosis by Staphylococcus aureus remained a likely possibility until extraction of the larvae established the diagnosis of Tumbu fly furuncular myiasis.
+Myiasis refers to human infestation by the living larvae (maggots) of winged insects. Cutaneous forms of myiasis are divided into three clinical presentations: migratory (creeping), traumatic (wound), and furuncular [ Robbins and Khachemoune 2010 ]. Furuncular myiasis is caused by one of four species of flies: Dermatobia hominis (human botfly), Wohlfahrtia vigil , Cuterebra spp. and Cordylobia anthropophaga (Tumbu fly). Of these, only the latter is found in tropical African regions. Adult flies are 7-15mm in length and yellow-brown in color. Adult females lay eggs in a variety of hosts, including rodents and dogs, and prefer shaded soil contaminated with urine or feces. Thus, incompletely washed clothes or linens serve as a target for deposited eggs. Hatched larvae penetrate the host when they come in contact with skin, a process that usually lasts less than 60 seconds and is typically painless. The larvae develop over a period of 8-12 days, forming a reactive, painful furuncle in humans. Rarely, hosts also experience localized lymphadenopathy, fevers, and/or malaise. Diagnosis can be made by noting the spiracles (breathing tube) which emanate from the skin as a 1-3mm dark line [ Cook GC and Zumla 2009, Ch 88 ]. Primary control of Cordylobia anthropophaga myiasis is through prevention by thoroughly cleaning all fabrics, drying them indoors, and ironing them on both sides. Once infected, any identified boils should be covered with petroleum jelly or paraffin oil to suffocate larvae and promote simple, full extraction by digital pressure. Incomplete extraction can lead to granuloma or inflammatory response; surgical extraction serves as the definitive cure in these cases.
+Final Diagnosis
+African tumbu fly furuncular myiasis caused by Cordylobia anthropophaga larvae infection.
+References
+Cook GC and Zumla AI, Manson's Tropical Diseases 22nd Edition Ch 49 Pages 885-902© 2009, Elsevier Limited.
+Cook GC and Zumla AI, Manson's Tropical Diseases 22nd Edition Ch 88 Pages 1587-88 © 2009, Elsevier Limited.
+Robbins K and Khachemoune A. (2010) Cutaneous myiasis: a review of the common types of myiasis. Int J Dermatol. 2010 Oct;49(10):1092-8. doi: 10.1111/j.1365-4632.2010.04577.x.
+PMID:20883399 ( PubMed abstract )

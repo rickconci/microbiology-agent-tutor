@@ -1,0 +1,50 @@
+History of Present Illness
+2012 November-December Featured Case and 2012 IDWeek Case Presentation: A woman with retro-orbital pain and "floaters" in the left eye.
+A woman in her forties developed left retro-orbital discomfort three weeks before presentation. The following week, "floaters" developed in the left eye. She was seen by a local ophthalmologist who noted a temporal field deficit in her left eye on visual field testing. She was referred to specialty care.
+Past Medical History
+She had a history of a pituitary adenoma eleven years before, and chronic lumbar and leg pain following a motor vehicle accident seven years before.
+Medications
+She took acetaminophen and celecoxib as needed for pain.
+Allergies
+Tetracycline had caused swelling of the face and lips.
+Family History
+There was no family history of autoimmune diseases.
+Social History
+She was married, and worked in a medical facility.
+Epidemiological History
+The patient lived in rural Pennsylvania, with her husband (with whom she was monogamous), son and a dog. She worked in a healthcare setting; one year before this presentation, a screening skin test for tuberculosis was negative. She smoked cigarettes (40 pack-years), drank 12 beers per week, and reported no illicit drug use.
+Physical Examination
+She appeared well. The blood pressure was 138/88 mm Hg, pulse 94 beats per minute, temperature 37.2°C (99.0°F). Ophthalmologic funduscopic examination revealed hemorrhagic disc edema in the left eye ( Figure 1 ). The examination was otherwise normal.
+Figure 1. Funduscopic examination.
+Studies
+Visual field testing (Humphrey Visual Field Test) revealed a temporal field deficit in the left eye ( Figure 2 ). Nerve fiber layer average thickness assessment by optical coherence tomography demonstrated markedly increased optic nerve thickness of the left eye four times normal (416µm; normal average thickness = 100µm) ( Figure 3 ).
+Figure 2. Humphrey visual field test.
+Figure 3. Nerve fiber layer thickness map.
+Clinical Course Prior to Diagnosis
+Magnetic resonance imaging of the brain revealed a normal pituitary gland with a clear suprasellar cistern, normal optic chiasm and optic tracts (without mass or displacement), and prominent left optic cup ( Figure 4 ).
+Figure 4. MRI of the brain.
+Diagnostic Procedure(s) and Result(s)
+The Borrelia antibody index was positive by enzyme-linked immunosorbant assay (ELISA) (reference = negative). Western blot of the serum revealed 3 out of 3 Lyme reactive IgM bands (reference range = ≤1/3) and 3/10 IgG bands (reference range ≤4/10).
+Lumbar puncture yielded an opening pressure of 15cm H2O. Cerebrospinal fluid analysis revealed 7 white blood cells per cubic millimeter, 18 red blood cells per cubic millimeter, glucose 60mg/dL, protein 35mg/dL, Western blot of the cerebrospinal fluid revealed 3/3 Lyme reactive IgG bands (reference = zero bands). Syphilis serology by semi-quantitative particle agglutination was negative, and testing for veneral disease research laboratory (VDRL) antibody in the cerebrospinal fluid was negative. Oligoclonal bands were not detected in the cerebrospinal fluid. Serological testing for antibodies against Bartonella henselae and Toxoplasma were negative.
+Treatment and Followup
+Ceftriaxone (2g every 24 hours) was administered intravenously for 2 weeks, followed by oral amoxicillin (500mg three times daily) for 7 days. One week after completing antibiotics, she was seen in the ophthalmology clinic, where visual field testing revealed resolution of the left eye temporal field deficit ( Figure 5 ). Optical coherence tomography revealed resolution of left optic nerve thickening ( Figure 6 ).
+Figure 5. Humphrey visual field test, 4 week follow-up.
+Figure 6. Nerve fiber layer thickness map, 4 week follow-up.
+Discussion
+The infectious differential diagnosis of unilateral optic disc edema includes Borrelia burgdorferi , Bartonella henselae , Toxoplasma gondii , Treponema pallidum , and Mycobacterium tuberculosis , though each of these entities has a low incidence of ocular involvement (Durand, in Mandell et al. 2009; Ray and Gragoudas 2001). The presence or absence of systemic findings that accompany unilateral disc edema may assist in the diagnosis (Durand, in Mandell et al. 2009; Ray and Gragoudas 2001).
+This patient had no known history of tick bite and no systemic symptoms to suggest Lyme disease, but the optic findings and residence in a rural, wooded area where Lyme disease is endemic increased the clinical suspicion for this cause. The definitive diagnosis of Lyme optic neuritis requires culture or histologic demonstration of Borrelia burgdorferi (Halperin 2008). Most often, however, the condition is diagnosed based on clinical, epidemiologic, and serologic evidence (Halperin 2008, Mikkila et al. 1999, Sibony et al. 2005). The epidemiologic context of this case, our patient’s confirmed optic neuritis along with the presence of Borrelia burgdorferi antibody in her serum and cerebrospinal fluid, and the exclusion of alternative diagnoses provide strong evidence for the diagnosis of Lyme optic neuritis (Sibony et al. 2005). Early diagnosis and treatment of optic neuritis due to Borrelia burgdorferi can restore vision; delay in therapy can result in devastating visual outcomes (Karma et al. 1996). This case highlights the criteria for diagnosis of Lyme optic neuritis and suggests that therapeutic response may be considered as additional evidence to support the diagnosis.
+Figure 7. Diagnostic Criteria for Lyme Optic Neuritis.
+Final Diagnosis
+Lyme optic neuritis, caused by Borrelia burgdorferi .
+References
+Durand, M. Chapter 113, Infectious Causes of Uveitis. In: Mandell, Bennett and Dolin Principles and Practices of Infectious Diseases. 7th ed. New York : Churchill Livingstone; 2009: 1561-1568
+Halperin, J.J. (2008). Nervous system Lyme disease. Infect Dis Clin North Am 22, 261-274, vi.
+PMID:18452800 ( PubMed abstract )
+Karma, A., Stenborg, T., Summanen, P., Immonen, I., Mikkila, H., and Seppala, I. (1996). Long-term follow-up of chronic Lyme neuroretinitis. Retina 16, 505-509.
+PMID:9002133 ( PubMed abstract )
+Mikkila, H., Karma, A., Viljanen, M., and Seppala, I. (1999). The laboratory diagnosis of ocular Lyme borreliosis. Graefes Arch Clin Exp Ophthalmol 237, 225-230.
+PMID:10090586 ( PubMed abstract )
+Ray, S., and Gragoudas, E. (2001). Neuroretinitis. Int Ophthalmol Clin 41, 83-102.
+PMID:11198149 ( PubMed abstract )
+Sibony, P., Halperin, J., Coyle, P.K., and Patel, K. (2005). Reactive Lyme serology in optic neuritis. J Neuroophthalmol 25, 71-82.
+PMID:15937426 ( PubMed abstract )

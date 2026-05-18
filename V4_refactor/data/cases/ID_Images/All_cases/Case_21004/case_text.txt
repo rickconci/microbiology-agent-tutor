@@ -1,0 +1,45 @@
+History of Present Illness
+A male in his thirties with HIV/AIDS who did not have stable housing presented with generalized body aches and enlarged lymph nodes in his neck, axilla, and groin. The lymph nodes became rapidly enlarged and very painful over the past 10 days. He also had progressively worsening chest pain and shortness of breath that started one day prior to admission. He noted a new diffuse, red-spotted rash on his arms and legs that emerged in the past week as well as occasional fever and chills for the past few weeks.
+Past Medical History
+HIV/AIDS, Neurosyphilis
+Medications
+Non-adherent with medications
+Social History
+Daily smoker, daily alcohol use (3-4 drinks), uses methamphetamines but no injection drug use. Not sexually active currently. Previously sexually active with female partners.
+Epidemiological History
+Lives on the west coast of the US; no recent travel; unstable housing.
+Physical Examination
+The patient was cachectic and in mild distress from diffuse body pain. Blood pressure was 90/56 mm Hg, heart rate was 125 beats per minute, temperature was 98.4°F (36.9°C) and respiratory rate was 21 breaths per minute. There were tender enlarged cervical lymph nodes with two large protuberant lymph nodes at the left mandibular angle with skin ulceration. Tender, large oozing axillary and inguinal lymph nodes were palpated. There was also a 2 cm red, ulcerated lesion on the dorsum of his right hand. Heart sounds were distant, tachycardic.
+Studies
+WBC 25.1K/uL with 8% bands, Hb 12 g/dL, Platelets 101K/uL
+Creatinine 3.7 mg/dL, liver enzymes were normal
+CD4 121 cells/uL, 16% CD4
+HIV RNA: 9,500,000 copies/mL
+Clinical Course Prior to Diagnosis
+CT chest abdomen pelvis showed moderate pericardial effusion (Figure 1), extensive lymphadenopathy of the mediastinum and retroperitoneum, left upper lobe cavitary lung lesion (Figure 2). CT neck showed exuberant adenopathy (Figure 3). He was started on Doxycycline and Ceftriaxone as well as Ganciclovir due to high suspicion for disseminated Bartonella or HHV-8-associated Castleman’s disease. He underwent left axillary lymph node biopsy, pericardial window with biopsy of the pericardium, skin biopsy of the right hand lesion as well as biopsy of the left lung lesion. He also underwent lumbar puncture which was negative. Transthoracic echocardiogram showed large pericardial effusion without tamponade physiology.
+Figure 1. Non-contrast CT of the chest showing large pericardial effusion.
+Figure 2. Non-contrast CT of the chest showing left upper lobe cavitary lung lesion, 4.3 cm in diameter.
+Figure 3. Non-contrast CT of the neck that demonstrates bilateral enlarged lymph nodes. The mid-cervical nodal mass deep to the sternocleidomastoid muscle on the left side measures 4.3 x 2.2 cm in axial plane.
+Diagnostic Procedure(s) and Result(s)
+CT chest abdomen pelvis showed moderate pericardial effusion, extensive lymphadenopathy of the mediastinum and retroperitoneum, and left upper lobe cavitary lung lesion.
+CT neck showed exuberant adenopathy throughout bilateral cervical regions and into the supraclavicular region, largest cervical node measured 4.3 x 2.2 cm.
+Fungal blood culture: Cryptococcus neoformans
+Cryptococcal Antigen Titer: 1:131,072
+Left axillary biopsy showed adipose tissue with abundant fungal organisms consistent with Cryptococcus. Grocott’s methenamine silver stain (GMS) and mucin stains were confirmatory.
+Right hand lesion biopsy showed ulcer and granulation tissue with dermal yeast forms identified. GMS stain highlighted numerous dermal yeast forms with morphology with high suspicion for Cryptococcus.
+Lung lesion biopsy showed increase in alveolar foamy macrophages with numerous yeast forms consistent with Cryptococcus (confirmed by GMS stain).
+Pericardial window and biopsy of the pericardium was performed for the large pericardial effusion. Fungal culture of the pericardial fluid was positive for Cryptococcus neoformans . Pathology showed fungal forms present and GMS stain highlighted spherical fungal forms involving pericardial tissue (Figure 4).
+Figure 4. GMS special stain, 600x, demonstrates scattered yeast forms in the pericardium.
+Treatment and Followup
+He was started on Amphotericin and Flucytosine for disseminated Cryptococcal infection as well as Atovaquone for pneumocystis prophylaxis. After 14 days, he was transitioned to oral Fluconazole for consolidation therapy as he wanted to leave the hospital against medical advice. There was mild improvement of the size of the lymph nodes on subsequent imaging. Chest pain and shortness of breath had resolved completely. He followed up in the HIV clinic about 3 weeks after discharge and was doing well on Fluconazole. He was started on antiretroviral therapy at that time but was unfortunately lost to follow up.
+Discussion
+Cryptococcosis is a fungal infection common in people with advanced AIDS and which has a high rate of mortality if left untreated (1). Spores are inhaled from the environment and can spread from the lungs to the central nervous system or other areas such as lung and lymph nodes in immunocompromised patients (2). Disseminated cryptococcosis is frequently reported in immunocompromised patients but the extensive nature of this patient’s disease involving pericardium, lungs, skin, and lymph nodes and cryptococcemia is notable. There are only a few cases of pericarditis and pericardial effusion due to Cryptococcus neoformans reported and usually involve organ transplant patients on immunosuppressive medications (3). The differential diagnosis for AIDS patients with exuberant lymphadenopathy can be extensive and should include disseminated cryptococcal infection. Treatment involves initiation of antifungal therapy followed by antiretroviral therapy to restore immune function (1).
+Final Diagnosis
+Disseminated Cryptococcal Infection in a patient with AIDS involving lymph nodes, pericardium, cavitary lung lesion, skin and fungemia
+References
+Guidelines for The Diagnosis, Prevention and Management of Cryptococcal Disease in HIV-Infected Adults, Adolescents and Children: Supplement to the 2016 Consolidated Guidelines on the Use of Antiretroviral Drugs for Treating and Preventing HIV Infection. Geneva: World Health Organization; 2018 Mar.
+PMID:30285342 ( PubMed abstract )
+Bramantono B, Danial A, Hadi U. A case of an AIDS patient with Cryptococcus neoformans infection. Pan Afr Med J. 2020 Jun 15;36:88. doi: 10.11604/pamj.2020.36.88.20406.
+PMID:32774647 ( PubMed abstract )
+Levy PY, Habib G, Reynaud-Gaubert M, Raoult D, Rolain JM. Pericardial effusion due to Cryptococcus neoformans in a patient with cystic fibrosis following lung transplantation. Int J Infect Dis. 2008 Jul;12(4):452. doi: 10.1016/j.ijid.2007.12.001. Epub 2008 Jan 22.
+PMID:18207443 ( PubMed abstract )

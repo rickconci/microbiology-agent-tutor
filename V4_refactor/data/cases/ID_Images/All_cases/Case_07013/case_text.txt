@@ -1,0 +1,54 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Presentation Summary: A man with acute lymphoblastic leukemia in remission and headache, confusion and fever.
+A man in his forties, who had received consolidation chemotherapy while in remission from B-cell acute lymphocytic leukemia, presented with a 2-day history of malaise, headache and fever to 38.3°C (100.9°F). He was seen in the emergency room, and results of computed tomography (CT) of the sinuses were consistent with sinusitis. Amoxicillin-clavulanate was begun.
+Later that day, the patient was found by one of his neighbors confused in his front yard; he was brought back to the emergency department.
+His wife reported that two days earlier mental status changes had developed, which included flight of ideas and tangential thought. Headache and fever had remained the same.
+Past Medical History
+There was a history of B-cell acute lymphocytic leukemia in remission on chemotherapy; chronic sinusitis for which bilateral antrectomies and ethmoidectomy had been performed 1 year earlier; cytomegalovirus infection; and depression. Laboratory test results for antibody to herpes simplex virus-1 were positive.
+Medications
+Medications included amoxicillin-clavulanate, valacyclovir, sertraline, esomeprazole, ondansetron, and lorazepam. The patient had completed consolidation chemotherapy according to a protocol, which had included cyclophosphamide, daunorubicin, vincristine, L-asparaginase and dexamethasone; followed by methotrexate (intrathecally), cyclophosphamide, cytarabine, and L-asparaginase; followed by methotrexate (intrathecal and orally) with leucovorin rescue and vincristine. Two months earlier, he had also received alemtuzumab.
+Allergies
+He was allergic to amphotericin B (liposomal), which had caused dyspnea.
+Social History
+He was married, had children, and worked in an office.
+Epidemiological History
+He did not have pets and had not traveled recently. Two weeks earlier, after a torrential downpour, he had cleaned debris out of the gutters of his home.
+Physical Examination
+The temperature was 38.9°C (102.0°F), blood pressure 164/95 mm Hg, pulse 107 beats, respirations 20 breaths per minute and oxygen saturation 95%, while breathing ambient air. He appeared ill, but was alert and not in respiratory distress. There was lymphadenopathy in the cervical and periauricular regions, and no nuchal rigidity. The maxillary sinus was tender on the right side. The fundoscopic examination was normal; there was no photophobia. On neurological examination, the patient was oriented to person only. There was confusion as to the order of events that had occurred earlier in the day, with confabulation. Cranial nerves II-XII were intact. Strength and sensation were normal bilaterally. There was urinary incontinence, and the remainder of the examination was normal.
+Studies
+Laboratory test results included serum sodium 125 mmol/L. The hematocrit, white cells and differential were normal. Analysis of cerebral spinal fluid (CSF) revealed an opening pressure of 33 mm H2O, white cell count 43 cells/mm³ (neutrophils 56%, lymphocytes 40%, and monocytes 4%), total protein 53 g/dl, glucose 59 mg/dl. A gram stain of the CSF did not show any organisms, and cultures of the CSF for fungi, bacteria, and acid-fast bacilli were sterile. Computed tomography of the head revealed sphenoid sinusitis. Magnetic resonance imaging (MRI) showed a small arachnoid cyst; the remainder of the brain parenchyma was normal.
+Clinical Course Prior to Diagnosis
+Cefepime, vancomycin, ampicillin, voriconazole, and ganciclovir were begun. The mental status declined, and the trachea was intubated for airway protection. Electroencephalography showed slow diffuse left parietotemporal spikes consistent with encephalitis. Hypotension developed associated with supraventricular tachycardia, and cardioversion with amiodarone was performed. The pupils became fixed and dilated, and a repeat MRI scan was obtained ( Figure 1 ). Neurosurgeons placed an intraventricular drain, with no improvement in mental status.
+The patient expired and an autopsy was performed.
+Pathological examination of the brain tissue is shown in Figure 2 , which shows necrotizing vasculitis and extensive acute parenchymal necrosis and hemorrhage, and in Figure 3 .
+Figure 1. Brain MRI scan.
+Figure 2. Brain tissue at autopsy.
+Figure 3. Brain tissue at autopsy.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the brain tissue obtained at autopsy revealed amebic cysts, shown in Figure 4 with arrows and in Figure 5 with gomori methenamine silver stain.
+Figure 4. Brain tissue with arrows showing amebic cysts.
+Figure 5. GMS stain showing amebic cysts.
+Discussion
+Free-living amebas survive and replicate in the environment without requiring a host, and are ubiquitous in soil and water. There are four relevant genera: Naegleria fowleri, Acanthamoeba species, Balamuthia mandrillaris, and Sappinia diploidea. More than 50% of the population has antibodies to Acanthamoeba.
+Granulomatous amebic encephalitis afflicts immunocompromised hosts and presents subacutely with focal neurologic deficits with progression to a diffuse meningoencephalitis. There is no definitive treatment for amebic encephalitis. Multidrug therapy has been reported with ketoconazole-rifampin-trimethoprim-sulfamethoxazole, fluconazole-sulfadiazine, and pentamadine-amphotericin-flucytosine-rifampin-itraconazole-chlorhexidine.
+Opportunistic infections have been reported after the use of alemtuzumab, a humanized monoclonal antibody against CD52 that depletes lymphocytes. These infections include, most notably, cytomegalovirus infection, invasive fungal infections (e.g. cryptococcosis), toxoplasmosis, nocardiosis and mycobacterial infections. Amebic infections have also been reported after the use of alemtuzumab, and must be considered in the differential diagnosis in a patient with altered mental status who has received this drug.
+Final Diagnosis
+Granulomatous amebic encephalitis, in a patient with a history of acute lymphocytic leukemia in remission.
+References
+Cerva, L. (1989). Acanthamoeba culbertsoni and Naegleria fowleri: occurrence of antibodies in man. J Hyg Epidemiol Microbiol Immunol 33, 99-103.
+PMID:2723426 ( PubMed abstract )
+Gelman, B.B., Popov, V., Chaljub, G., Nader, R., Rauf, S.J., Nauta, H.W., and Visvesvara, G.S. (2003). Neuropathological and ultrastructural features of amebic encephalitis caused by Sappinia diploidea. J Neuropathol Exp Neurol 62, 990-998.
+PMID:14575235 ( PubMed abstract )
+Laurenti, L., Piccioni, P., Tarnani, M., Chiusolo, P., Piccirillo, N., Rumi, C., Sora, F., Sica, S., and Leone, G. (2005). Immune recovery after low-dose Campath therapy in a group of pretreated patients affected by B-cell chronic lymphocytic leukemia. Leukemia 19, 153-154.
+PMID:15496971 ( PubMed abstract )
+Martin, S.I., Marty, F.M., Fiumara, K., Treon, S.P., Gribben, J.G., and Baden, L.R. (2006). Infectious complications associated with alemtuzumab use for lymphoproliferative disorders. Clin Infect Dis 43, 16-24
+PMID:16758413 ( PubMed abstract )
+Offidani, M., Corvatta, L., Malerba, L., Marconi, M., and Leoni, P. (2004). Infectious complications in adult acute lymphoblastic leukemia (ALL): experience at one single center. Leuk Lymphoma 45, 1617-1621.
+PMID:15370214 ( PubMed abstract )
+Peleg, A.Y., Husain, S., Kwak, E.J., Silveira, F.P., Ndirangu, M., Tran, J., Shutt, K.A., Shapiro, R., Thai, N., Abu-Elmagd, K., McCurry, K.R., Marcos, A., and Paterson, D.L. (2007). Opportunistic infections in 547 organ transplant recipients receiving alemtuzumab, a humanized monoclonal CD-52 antibody. Clin Infect Dis 44, 204-212.
+PMID:17173218 ( PubMed abstract )
+Schuster, F.L., and Visvesvara, G.S. (2004). Free-living amoebae as opportunistic and non-opportunistic pathogens of humans and animals. Int J Parasitol 34, 1001-1027.
+PMID:15313128 ( PubMed abstract )
+Singh U: Chapter 271 Free-Living Amebas. Mandell, Douglas, and Bennetts Principles and Practices of Infectious Diseases, 3111-3121; 2006 Elsevior Churchill Livingstone.
+Singhal, T., Bajpai, A., Kalra, V., Kabra, S.K., Samantaray, J.C., Satpathy, G., and Gupta, A.K. (2001). Successful treatment of Acanthamoeba meningitis with combination oral antimicrobials. Pediatr Infect Dis J 20, 623-627.
+PMID:11419508 ( PubMed abstract )

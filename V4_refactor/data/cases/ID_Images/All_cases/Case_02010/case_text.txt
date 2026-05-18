@@ -1,0 +1,40 @@
+History of Present Illness
+IDSA 2002 Case Summary: A boy with a rash, gastrointestinal symptoms and a fever.
+A pre-teen adolescent boy presented with two days of rash, emesis and abdominal pain, and a one-day history of fever up to 38.9°C (102°F) with headache. The rash had begun with finger-swelling and non-erythematous papules on the dorsa of the hands. The rash became erythematous and edematous on the second day and spread to his trunk, arms and legs. He was reluctant to walk because of pain in his knees. He reported no diarrhea, sore throat, cough, rhinorrhea, or photophobia.
+Past Medical History
+He had developed swollen lips after eating shrimp.
+Medications
+He had taken ibuprofen during preceding 2 days.
+Allergies
+He had no allergies to medications.
+Family History
+There was no family history of inflammatory bowel disease, rheumatoid arthritis or other autoimmune disease.
+Social History
+He lived with his mother and sibling.
+Epidemiological History
+His younger sibling had an upper respiratory illness and his mother was treated two months earlier for severe pharyngitis. He reported eating shrimp 3 days before admission. His only animal exposure was his pet cat (not a kitten). He reported no history of travel, camping, or known insect exposures. He denied sexual activity.
+Physical Examination
+He appeared normally-developed boy, and uncomfortable with use of his hands or legs. The temperature was 40°C (104°F). There was mild periorbital edema and erythematous macules on soft and hard palate. The lower lip was swollen with a yellow blister. The neck was supple, with shotty non-tender cervical nodes, and there was a 2/6 systolic ejection murmur. Painful edema and erythema with petechiae were symmetrically present on the palms and soles. There was tender edema and papular erythema on the dorsal aspects of hands and feet and in a periarticular distribution around elbows and knees. Passive movement of his knees produced minimal pain but the periarticular rash was very tender. (See Figures 1 through 5 .)
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Figure 3. Physical finding.
+Figure 4. Physical finding.
+Figure 5. Physical finding.
+Studies
+The hematocrit was 33.9%; the serum level of sodium was 129 mmol/L; chloride 95 mmol/L; bicarbonate 18 mmol/L; and glucose 130 mg/dL. C-reactive protein (CRP) was 6 (normal 0-0.5) and the erythrocyte sedimentation rate (ESR) was 60 mm per hour. A rapid strep antigen test on a throat swab and a monospot test were negative. An electrocardiogram (ECG) was normal.
+Clinical Course Prior to Diagnosis
+The patient was empirically treated with ceftriaxone. Temperatures ranged from 39.0-41.0°C (102.2-105.8°F) during the first 3 hospital days. The diastolic blood pressure was low (35mm Hg) but the systolic blood pressure was normal. The rash persisted, with an increase in petechiae including coalescence, particularly on the soles.
+Diagnostic Procedure(s) and Result(s)
+A serum parvovirus B19 polymerase chain reaction (PCR) test from the 4th hospital day was positive. Parvovirus B19 immunoglobulin (Ig) G and IgM were negative by indirect immunofluorescence on hospital day 2, but results of convalescent serum 16 days later were positive for both IgM and IgG. This was consistent with the diagnosis of Papulo-Purpuric Gloves and Socks Syndrome (PPGSS) due to acute Parvovirus B19 infection. In addition, Group A Streptococcus grew from the throat, and he had an increase in his antistreptolysin O (ASLO) level, consistent with a superimposed streptococcal pharyngitis.
+Treatment and Followup
+Coincident with defervescence on the 6th day of the illness, the patient's pain and erythema dramatically improved.He developed pruritus and peeling of the rash during the second week. Leukopenia developed, with the white blood cell count decreasing to 2,400/mm³ (15% eosinophils) on the 6th day. The reticulocyte count reached a nadir of 0.0% on the 6th day, before beginning its recovery 2 days later.
+The patient was discharged 1 week after admission and completed 10 days of penicillin for treatment of streptococcal pharyngitis. All pain, edema, and rash resolved completely.
+Discussion
+Papulo-Purpuric Gloves and Socks Syndrome (PPGSS) is characterized by progressive, symmetric, painful and pruritic swelling and erythema of the distal extremities. Confluent papular or petechial-purpuric lesions develop on the palms and soles. Subsequently, many patients develop an enanthem. The process is self-limited, lasting 1-2 weeks. This syndrome is usually associated with acute parvovirus B19 infection.
+Final Diagnosis
+Papulo-Purpuric Gloves and Socks Syndrome (PPGSS) caused by Parvovirus B19 infection with a superimposed streptococcal pharyngitis.
+References
+Dyer JA. (2007). Childhood viral exanthems. Pediatr Ann. 2007 Jan;36(1):21-9.
+PMID:17269280 ( PubMed abstract )
+McNeely, M., Friedman, J., and Pope, E. (2005). Generalized petechial eruption induced by parvovirus B19 infection. J Am Acad Dermatol 52, S109-113.
+PMID:15858505 ( PubMed abstract )

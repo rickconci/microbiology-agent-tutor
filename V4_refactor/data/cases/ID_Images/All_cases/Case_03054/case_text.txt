@@ -1,0 +1,35 @@
+History of Present Illness
+Summary: A young adult man with a tonic-clonic seizure.
+A young adult man was brought to an emergency room after his first tonic-clonic seizure.
+Medications
+None.
+Allergies
+He had no known allergies.
+Epidemiological History
+The patient had lived in Haiti until early adolescence and had returned most recently two years before his presentation for an eight-day visit. He ate meat, but had no known ingestion of pork while in Haiti. He lived with relatives in the Northeast United States, and no other members were known to have seizures or diarrheal illnesses. He had no known risk factors for human immunodeficiency virus (HIV).
+Physical Examination
+He appeared well, with a muscular physique, and was in no apparent distress. The physical examination, including ophthalmic and neurological exams, was normal.
+Studies
+The complete blood cell count (CBC) revealed mild neutrophilia and no eosinophils. A lumbar puncture revealed a lymphocytic cerebrospinal fluid (CSF). Testing for HIV and tuberculosis (PPD) was negative. Magnetic resonance imaging (MRI) of the head was performed ( Figures 1 and 2 ).
+Figure 1. Head MRI scan, FLAIR image.
+Figure 2. Head MRI scan, FSE image.
+Clinical Course Prior to Diagnosis
+The patient was briefly post-ictal but returned to his baseline within hours.
+Diagnostic Procedure(s) and Result(s)
+The MRI scan of the head demonstrated a cystic lesion in the right frontal lobe with an apparent scolex. ( Figures 1 and 2 ). No retinal pathology was noted. CSF cysticercosis antibody (immunoblot assay) and serum cysticercosis antibody (immunoblot assay) were positive.
+Treatment and Followup
+Dexamethasone, prednisone and albendazole were administered, without complications. A follow-up MRI scan of the brain was performed the following month, which showed decreased size of frontal cyst with decreased surrounding edema ( Figures 3 and 4 ).
+Figure 3. MRI at six-week follow-up, FLAIR image.
+Figure 4. MRI at six-week follow-up, T1 image.
+Discussion
+Given the radiological identification of a scolex within a cyst, history of residence in an endemic area and presentation with a new onset seizure, the diagnosis of neurocysticercosis can be made. Treatment with antihelminthics and steroids should be considered before confirmatory serologic tests yield results.
+In treating this disease, special considerations should include:
+1. An ophthalmic exam to make sure no retinal lesions exist, which may cause destructive reaction during antihelminthic treatment and
+2. Consideration of co-infection with Strongyloides and treatment with ivermectin prior to initiation of corticosteroids.
+Final Diagnosis
+Neurocysticercosis, caused by the tapeworm Taenia solium .
+References
+Carabin, H., Ndimubanzi, P.C., Budke, C.M., Nguyen, H., Qian, Y., Cowan, L.D., Stoner, J.A., Rainwater, E., and Dickey, M. (2011). Clinical manifestations associated with neurocysticercosis: a systematic review. PLoS Negl Trop Dis 5, e1152.
+PMID:21629722 ( PubMed abstract )
+Nash, T.E., and Garcia, H.H. (2011). Diagnosis and treatment of neurocysticercosis. Nat Rev Neurol 7, 584-594.
+PMID:21912406 ( PubMed abstract )

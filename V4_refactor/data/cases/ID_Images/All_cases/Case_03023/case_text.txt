@@ -1,0 +1,40 @@
+History of Present Illness
+IDSA 2003 Case Summary: A woman in her sixties with shortness of breath.
+A woman in her sixties was admitted with rapidly progressive shortness of breath over the course of one week. On admission, she was short of breath at rest. She denied chest pain, cough, sputum or hemoptysis.
+Past Medical History
+She had been diagnosed with multiple myeloma three months earlier and had received three cycles of chemotherapy.
+Medications
+She had received pulse chemotherapy with vincristine, doxorubicin, and dexamethasone.
+Allergies
+She had no allergies.
+Social History
+She was a homemaker.
+Epidemiological History
+She lived in urban Texas. She denied travel and did not own a pet.
+Physical Examination
+She was obese and short of breath while talking. The temperature was 97.8°F (36.6°C), respirations 22 breaths per minute. There were fine inspiratory crackles heard over all lung fields bilaterally. The remainder of her examination was normal.
+Studies
+The hematocrit was 28.2%. The white blood cell (WBC) count, differential, and other hematological and serologic chemical test results were normal. Computed tomography (CT) of the chest with contrast showed a general pulmonary mosaic pattern associated with foci of ground glass opacity ( Figure 1 ).
+Figure 1. Chest CT scan.
+Clinical Course Prior to Diagnosis
+The patient was treated with gatifloxacin for a community-acquired pneumonia, and then underwent bronchoscopy and transbronchial biopsy. Pathological examination of the transbronchial biopsy showed a mild interstitial thickening with ill-defined collections of epithelioid cells ( Figure 2 ).
+Figure 2. Hematoxylin and eosin stain of transbronchial biopsy (20x).
+Diagnostic Procedure(s) and Result(s)
+Gomori methenamine silver (GMS) stain of the transbronchial biopsy specimen showed budding yeast forms with surrounding transparent capsule ( Figures 3 and 4 ). Bronchial biopsy washings and brushings grew Cryptococcus neoformans on culture. The serum cryptococcal antigen titer was 1:8.
+Figure 3. GMS stain of transbronchial biopsy (100x).
+Figure 4. GMS stain of transbronchial biopsy (100x).
+Treatment and Followup
+The patient had no evidence of dissemination of cryptococcosis to the central nervous system (CNS) on lumbar puncture. She was started on fluconazole 800 mg orally daily for eight weeks, which was followed by 400 mg daily for 12 weeks, then 200 mg daily, to be continued for a year.
+Discussion
+Cryptococcosis is a worldwide infection that only rarely causes dissemination in healthy individuals. The life cycle of Cryptococcus neoformans involves asexual and sexual forms. The asexual form exists as yeast and reproduces by budding. These haploid, unicellular yeasts are the only forms of C. neoformans that have been recovered from human infections. Cryptococcus neoformans has been recovered from soil samples from around the world in areas frequented by birds, and in association with rotting vegetation and river red gum trees (Eucalyptus camaldulensis) and forest red gum trees (Eucalyptus tereticornis) in Australia.
+The lungs are thought to be the initial site of almost all infections due to Cryptococcus neoformans . Following inhalation, C. neoformans causes a small focal pneumonitis. The immune status of the affected individual then determines whether the infection disseminates or resolves.
+Pulmonary cryptococcosis may present with cough, dyspnea, fever, weight loss, pleuritic chest pain, and night sweats. Chest radiographic features of pulmonary cryptococcosis vary widely. Most common are solitary or few well-defined, non-calcified nodules. Cavitation in cryptococcal nodules is rare. Lobar infiltrates, hilar and mediastinal adenopathy, and pleural effusions may be seen.
+Diagnosis is based on culture and histology. Expectorated sputum samples can be positive, but higher yields are obtained using bronchoscopic sampling. Cryptococcus neoformans produces white, mucoid colonies on a variety of agars that usually become visible to the naked eye within 48 hours.
+The yeast form of cryptococci can be identified in histopathologic specimens using methenamine silver stain. Mucicarmine stain shows both the yeast form and the capsule. The serum cryptococcal antigen is positive in virtually all patients with HIV infection, and in most patients with other underlying immunocompromising conditions. Therefore, the serum antigen assay serves as an excellent screening test in immunocompromised patients with atypical presentations of respiratory disease. Because many immunocompromised patients with pulmonary cryptococcosis may also harbor extrapulmonary disease, it is prudent to rule out CNS involvement.
+Final Diagnosis
+Pulmonary cryptococcosis caused by Cryptococcus neoformans .
+References
+Brizendine KD, Baddley JW, Pappas PG. Pulmonary cryptococcosis. Semin Respir Crit Care Med. 2011 Dec;32(6):727-34. Epub 2011 Dec 13.
+PMID:22167400 ( PubMed abstract )
+Segal, B.H., Bow, E.J., and Menichetti, F. (2002). Fungal infections in nontransplant patients with hematologic malignancies. Infect Dis Clin North Am 16, 935-964, vii. 12512188.
+PMID:12512188 ( PubMed abstract )

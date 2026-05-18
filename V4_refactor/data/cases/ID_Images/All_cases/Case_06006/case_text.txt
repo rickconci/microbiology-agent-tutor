@@ -1,0 +1,27 @@
+History of Present Illness
+2006 June Featured Case Summary: A man with fever, nausea and vomiting.
+A man in his forties presented with fever, nausea, and vomiting of four days duration. His symptoms began after eating food that had been left unrefrigerated overnight. Fever and chills occurred and were followed first by an episode of diarrhea and then severe nausea and vomiting. Headache occurred intermittently.
+After four days of persistent fever and vomiting, he presented for medical evaluation. The patient denied sore throat, upper respiratory symptoms, rash and joint pains. The diarrhea had resolved after a single episode.
+Medications
+None.
+Epidemiological History
+The patient resided in the northeastern United States and was in a stable monogamous relationship with a female partner. He denied recent travel, hiking or camping. He had been in wooded areas prior to this illness and owned dogs that had scratched him in the past. He denied other animal exposures. Testing for human immunodeficiency virus (HIV) had been negative several years before admission.
+Physical Examination
+The patient appeared anxious and tired but did not appear toxic. The temperature was 101.4°F (38.6°C), pulse 120 beats per minute, and blood pressure 100/60 mm Hg. There was physical evidence of volume depletion, diffuse small lymphadenopathy and a palpable spleen tip. There was no rash and no inflamed joints; the remainder of the examination was normal.
+Studies
+The sodium was 120 mmol/liter with a normal creatinine. The white blood cell count was 3,700 cells/mm³, hematocrit 34%, and platelet count 40,000/mm³.
+Liver function studies revealed a total protein of 8.4 g/dL, albumin of 3.3 g/dL, globulin 5.1 g/dL, aspartate aminotransferase 97 U/liter, alanine aminotransferase 77 U/liter, total bilirubin 4.0 mg/dL and direct bilirubin 2.0 mg/dL. A peripheral blood smear is shown in Figures 1 and 2 .
+Figure 1. Peripheral blood smear.
+Figure 2. Blood smear, 100x magnification.
+Diagnostic Procedure(s) and Result(s)
+The peripheral blood smear showed blue cytoplasmic inclusions that were suspect for morulae of Ehrlichia . Polymerase chain reaction (PCR) testing of a blood specimen confirmed the presence of Anaplasma phagocytophilum (formerly known as Ehrlichia equi ), the causative agent of human granulocytic ehrlichiosis. In addition, a human immunodeficiency virus (HIV) ELISA test and confirmatory western blot test were positive.
+Treatment and Followup
+Treatment with doxycycline was initiated. The patient’s nausea and vomiting resolved and he rapidly defervesced. Liver function tests improved, the white blood cell count remained decreased and the platelet count rose to about 100,000/mm³. The CD4 T-lymphocyte cell count was 312 cells/mm³ and the level of HIV RNA was 110,000 copies/ml. Antiretroviral therapy was planned to begin after the ehrlichiosis has resolved.
+Discussion
+The initial suspicion was that of a foodborne illness in light of the patient’s history of eating unrefrigerated meat, prominent vomiting, and increased liver function tests. Foodborne illness failed to account, however, for the patient’s marked leukopenia and thrombocytopenia. The most likely foodborne illness to cause hepatitis, hepatitis A virus, has an incubation period of about two weeks.
+The combination of fever, headache, hepatitis, leukopenia, and thrombocytopenia is, however, consistent with a rickettsial illness. The species endemic to the patient's northeastern state is Anaplasma phagocytophilum (formerly Ehrlichia equi ). PCR confirmed the diagnosis. The absence of a known history of a tick bite is not unusual, however, since this patient’s exposure to wooded areas and for close play with his dogs put him at risk of tick bites.
+Patients with Anaplasma can also be co-infected with Borrelia burgdorferi and Babesia microti , organisms carried by the same species of tick that transmits Anaplasma . Lyme serology and multiple thin smears looking for parasites were negative in this case.
+Several clues were present leading clinicians to suspect a second disorder in addition to Anaplasma, including the diffuse lymphadenopathy, splenomegaly, and the degree of thrombocytopenia and leukopenia that seemed more pronounced than normally seen with ehrlichiosis. The diagnosis of HIV infection likely accounts for these additional findings.
+Anaplasma has been reported to cause more severe disease in patients with HIV; fortunately this gentleman responded well to prompt therapy with doxycycline.
+Final Diagnosis
+Human Granulocytic Anaplasmosis (also known as Human Granulocytic Ehrlichiosis) caused by Anaplasma phagocytophilum and human immunodeficiency virus (HIV) infection.

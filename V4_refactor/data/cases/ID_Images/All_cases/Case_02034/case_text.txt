@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: A man presented with progressive dyspnea, non-productive cough and fevers.
+A man in his forties was admitted to hospital for investigation of progressive dyspnea, non-productive cough and fevers. He had been diagnosed with polymyositis one year before and started on a course of immunosuppressive therapy (prednisone and mycophenolate). Six months after starting the immunosuppressive medications, he noted mild exertional dyspnea. This progressed over two months and he also noted a dry cough. He did not lose weight, but had not gained weight despite continuing on an average daily dose of 60 mg prednisone.
+Past Medical History
+There was a history of polymyositis.
+Medications
+Medications included prednisone (up to 100 mg daily) and mycophenolate (1g twice daily).
+Epidemiological History
+He was originally from Pennsylvania, and was living in urban New England. He worked in the construction industry and had recently traveled to Chicago and Nashville. There was no history of intravenous drug use.
+Physical Examination
+He was thin; the temperature was 101°F (38.3°C), and there were bronchial breath sounds in the left upper lobe.
+Studies
+The white blood cell count was 12,400 cells/mm³ with 90% polymorphonuclear leukocytes. Results of renal and liver function tests were normal, and a human immunodeficiency virus (HIV) antibody test and a skin test for tuberculosis (PPD) were negative. His chest radiograph showed extensive bilateral interstitial nodular disease with several areas of cavitation, most notably at the left apex ( Figure 1 ).
+Computed tomography (CT) of the chest showed areas of bronchiectasis and extensive nodular lesions, many cavitating. (See Figures 2 and 3 .) There was a larger area of consolidation at the left apex with a large cavity.
+Figure 1. Chest radiograph.
+Figure 2. Chest CT scan.
+Figure 3. Chest CT scan.
+Clinical Course Prior to Diagnosis
+He underwent bronchoscopy. Culture of bronchoalveolar lavage fluid ( Figure 4 ) yielded two fungal forms: a light growth of creamy pale colonies subsequently identified as Candida albicans; and heavier growth of granular gray colonies. The predominant gray colonies were further cultured at 37°C for 5 days, and fluorescence microscopy revealed cells shown in Figure 5 .
+Figure 4. Culture plate.
+Figure 5. Fluorescent stain of gray colony growth.
+Diagnostic Procedure(s) and Result(s)
+Culture of the gray mycelial growth yielded yeast cells bearing large, broad bases daughter buds typical of Blastomyces dermatitidis . Identity of the organism was confirmed using a hybrid DNA/RNA probe. Figure 5 shows a fluorescent stain of Blastomyces dermatitidis .
+Discussion
+The broad based budding is characteristic of Blastomyces dermatitidis , the least common of the mycoses endemic to the USA. Highly endemic areas include the Midwest states bordering the Great Lakes, and infection is acquired through inhalation of conidia from the environment, usually soil. Disease is more severe in the immunocompromised host and is associated with a higher mortality.
+Final Diagnosis
+Blastomycosis, caused by in an immunocompromised patient.
+References
+Smith, J.A., and Kauffman, C.A. (2010). Blastomycosis. Proc Am Thorac Soc 7, 173-180.
+PMID:20463245 ( PubMed abstract )

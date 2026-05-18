@@ -1,0 +1,41 @@
+History of Present Illness
+2006 August Featured Case Summary: An elderly man with coffee-ground hematemesis and ascites.
+An elderly man was admitted with confusion, nausea and hematemesis.
+The patient had been in poor health with a history of alcohol abuse, guaiac positive stools and transaminase elevation. Approximately six weeks before this presentation, he was struck by a motor vehicle and sustained several lacerations, abrasions and contusions, and chest trauma. He was hospitalized for ten days when he was found to have a left hemothorax that required thoracotomy.
+After discharge, he stayed in Florida for a few more days and then returned to his home in the northeastern United States. Approximately five days before his presentation, he developed abdominal pain and melenotic diarrhea. He was brought to the hospital by family members and presented to the hospital with confusion, nausea and dark emesis.
+Past Medical History
+There was a history of elevated bilirubin and liver function tests, alcohol abuse and gastritis. As above, he had been in an accident several weeks earlier during which he sustained chest trauma. Two weeks before admission, laboratory testing to evaluate liver abnormalities and to rule out the possibility of hemachromatosis revealed a serum iron of 166 mcg/dL, total iron binding capacity (TIBC) of 168 mcg/dL, and ferritin 753 ng/ml. He was heterozygote for the HFE gene mutation. There was also a history of renal calculi.
+Medications
+He had recently been on furosemide, potassium, and iron but had run out of medications shortly before admission.
+Allergies
+He had no known drug allergies.
+Social History
+The patient lived with his wife in suburban New England.
+Epidemiological History
+He had recently traveled to Florida, where he had waded in the ocean and eaten oysters. He had no other travel history. He did not own pets or have any contact with animals. He had a history of alcohol abuse; he did not smoke.
+Physical Examination
+The patient appeared somnolent and the skin appeared tanned. The temperature was 101°F (38.3°C); the pulse 88-120 beats per minute, the blood pressure normal and the oxygen saturation was 99% on room air. The conjunctiva were mildly icteric. The jugular veins were flat. There were inspiratory crackles greater on the right base than the left. The left thoracotomy site was well healed. The abdomen was modestly distended and diffusely tender; a fluid wave was present. Excoriations were present over the extremities. In the emergency room, he appeared to have hallucinations intermittently. The remainder of the examination was normal.
+Studies
+Upon admission, the white blood cell count was 13,600 cells/mm³, with 86% polymorphonuclear leukocytes, 11% lymphocytes and 3% monocytes, hematocrit 40%, platelets 124,000/mm³, prothrombin time was 16 seconds and partial thromboplastin time 35.5 seconds. Bilirubin was 2.7 mg/dL; direct bilirubin was 1.0 mg/dL, total protein 8.0 grams/dL and albumin level was 3.1 grams/dL. The ammonia level was 71 mcmol/L (normal 12-48 mcmol/L ), aspartate aminotransferase (AST) was 115 U/L, alanine aminotransferase (ALT) 40 U/L, and alkaline phosphatase was 182 U/L.
+The ascitic fluid was aspirated and revealed yellow, slightly turbid fluid with 644 white blood cells/mm³ (78% neutrophils, 8% lymphocytes, 9% monocytes, 2% eosinophils and 3% non-hematologic cells), total protein of 1.1 grams/dL and albumin 0.6 g/dL. A gram stain of the ascitic fluid cytospin is shown in Figure 1 . CT scanning of the abdomen revealed a large volume of ascites. There was no evidence of a focal hepatic mass or biliary obstruction.
+Figure 1. Gram stain of ascitic fluid (primary cytospin).
+Clinical Course Prior to Diagnosis
+The ascitic fluid was cultured; gram stains of the growth in the blood bottles are shown in Figures 2 and 3 . Blood cultures were negative. Ceftriaxone was started empirically for bacterial peritonitis.
+Figure 2. Gram stain of culture of aspirate, from blood bottle.
+Figure 3. Gram stain of culture of aspirate, from blood bottle.
+Diagnostic Procedure(s) and Result(s)
+Gram stain of the ascitic fluid cytospin ( Figure 1 above) shows neutrophils but no organisms. Figures 2 and 3 above show gram stains from the primary blood-bottle cultures of the ascitic fluid and reveal curved gram negative rods that proved to be oxidase positive. Figure 4 shows the gram stain of the growth on the blood agar plate. The organism was identified as Vibrio cholerae non-cholera toxin producing, serotypes non-O1, non-O139 by the Centers for Disease Control and Prevention (CDC) of the United States.
+Figure 4. Gram stain of growth from blood agar plate.
+Treatment and Followup
+Ceftriaxone, lactulose, furosemide, albumin and aldactone were administered with improvement in the patient's clinical condition. Blood cultures were negative. The patient's antimicrobial therapy was changed to levofloxacin, and a 14-day course was administered.
+Discussion
+Vibrio cholerae is an organism known for causing epidemics of severe diarrhea with high rates of mortality (secondary to dehydration). There are almost 200 serotypes of V. cholerae ; only the O1 and O139 serogroups are associated with epidemics. This patient had a non-O1 and non-O139 isolate. Infection with non-O1 and non-O139 isolates is sporadic. These isolates can also cause extra-intestinal infections, especially in those who are immunocompromised. Patients with liver disease appear to be particularly susceptible to serious infection with Vibrio spp.
+Infection with non-O1 and non-O139 V. cholerae can occur after ingestion of contaminated food. In temperate regions, seafood, particularly raw or undercooked, is the most likely source. Contact with contaminated water can also lead to infection. In a series from Taiwan [Ko et al 1998], thirty cases of culture-positive non-O1 and non-O139 V. cholerae were identified in a nine-year period. Of these, fifteen isolates were recovered from the blood and all of these patients had cirrhosis: 14 of 15 were men. Of these fifteen cases, five also had spontaneous bacterial peritonitis (SBP). The mortality rate for patients with cirrhosis and bacteremia was 47%. Eight of the thirty isolates were recovered from the stool of patients with acute gastroenteritis: symptoms included fever, chills, abdominal pain, diarrhea – occasionally bloody – and sometimes nausea and vomiting. Four isolates were from soft tissue (three of four had necrotizing fasciitis); all four of the patients had had pre-existing minor trauma that could have provided a portal of entry.
+Patients who have liver disease should be cautioned against ingesting raw or undercooked seafood and also against contact with seawater or freshwater.
+Final Diagnosis
+Subacute bacterial peritonitis secondary to non-01 Vibrio cholerae , non-cholera toxin producing.
+References
+Ko, W.C., Chuang, Y.C., Huang, G.C., and Hsu, S.Y. (1998). Infections due to non-O1 Vibrio cholerae in southern Taiwan: predominance in cirrhotic patients. Clin Infect Dis 27, 774-780
+PMID:9798033 ( PubMed abstract )
+Lin, C.J., Chiu, C.T., Lin, D.Y., Sheen, I.S., and Lien, J.M. (1996). Non-O1 Vibrio cholerae bacteremia in patients with cirrhosis: 5-yr experience from a single medical center. Am J Gastroenterol 91, 336-340.
+PMID:8607503 ( PubMed abstract )

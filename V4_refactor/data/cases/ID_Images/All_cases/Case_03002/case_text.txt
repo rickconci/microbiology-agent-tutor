@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2003 Summary: A five-week-old infant with a fever and fussiness.
+A five-week-old infant presented to the pediatric office with a history of fussiness for a few nights. The baby was eating and urinating well. A sibling was reported to have had a rhinorrhea but no fever. The mother had a history of pre-eclampsia and genital warts, and denied a history of vaginal or oral herpes simplex virus (HSV) or any active genital lesions at delivery.
+Physical Examination
+The patient was very irritable, especially when moved, and occasionally moaned in her mother’s arms. The temperature was 101.9°F (38.8°C). A tachycardia was present, and thought to be consistent with the fever. The anterior fontanelle was flat and the skin was clear. The remainder of the examination was normal.
+Studies
+The white blood cell (WBC) count was 9,550/mm³ with 47% segmented neutrophils, 45% lymphocytes, 7% monocytes and 1% basophils, and the platelet count was 507,000/mm³. The urinalysis was normal. The cerebrospinal fluid (CSF) specimen was bloody with 8990 red blood cells, 230 white blood cells (12% segmented neutrophils, 67% lymphocytes and 21% monocytes), glucose 49 g/dl and protein 198 g/dl. All cultures remained sterile.
+Clinical Course Prior to Diagnosis
+Ampicillin and cefotaxime were initiated at admission. Seizures developed on the third hospital day. The patient was transferred to the pediatric intensive care unit and anti-seizure medications and intravenous acyclovir were begun.
+Computed tomography (CT) of the head with contrast ( Figure 1 ) showed an increased density to the right of the midline near the apex of the tentorium, which was thought to represent calcium or blood. Magnetic resonance imaging (MRI) of the head with gadolinium ( Figures 2 and 3 ) showed a ‘tiny’ amount of hemorrhage as noted on the CT scan, with normal parenchyma.
+Ophthalmology and neurology evaluations were obtained. An electroencephalogram (EEG) was abnormal with excessive number of sharp waves but no focal slowing and no evidence of electrographic seizures. Herpes simplex virus IgG was reactive. The cultures remained negative. All herpes cultures were sterile and the herpes polymerase chain reaction (PCR) from the CSF was negative.
+An Infectious Diseases consultation was obtained; on further questioning, the mother reported that shortly before delivery she had fallen ill with vomiting and felt feverish.
+Figure 1. Head CT scan.
+Figure 2. Head MRI scan.
+Figure 3. Head MRI scan.
+Diagnostic Procedure(s) and Result(s)
+A cerebrospinal fluid (CSF) specimen for enterovirus was positive by polymerase chain reaction (PCR).
+Treatment and Followup
+The patient was treated with anticonvulsants and discharged home on phenobarbital.
+Discussion
+Non-polio enteroviruses are responsible for significant and frequent illnesses in infants and children and result in protean clinical manifestations. The most common presentation is nonspecific febrile illness, which in young infants may lead to evaluation for bacterial sepsis. Neonates who acquire infection without maternal antibody are at risk of severe disease with a high mortality rate. Neurologic manifestations include aseptic meningitis, encephalitis and paralysis.
+The non-polio enteroviruses are RNA viruses. Enterovirus infections are common and are spread by fecal-oral and respiratory routes and from mother to infant in the peripartum period. This seems of particular significance in reference to this case, given the history obtained from the mother of vomiting and fever close to the time of delivery.
+Specimens providing the highest rates of viral isolation are those obtained from the throat, stool and rectal swabs. Specimens should also be obtained from any sites of clinical involvement, such as cerebrospinal fluid (CSF). In patients with serious illnesses, viral isolation as a means of diagnosis is particularly important. Viral isolation from any specimen except feces usually can be considered causally related to the patient’s illness.
+Polymerase chain reaction (PCR) testing for the presence of enterovirus RNA in CSF is more sensitive than viral isolation. At the time of this publication, no specific therapy is available although an antiviral agent, pleconaril, is undergoing clinical evaluation in infants with aseptic meningitis. Intravenous immunoglobulin (IVIG) also has been used in life-threatening neonatal infections, although there is no convincing evidence of efficacy for this use. Contact precautions are indicated for infants and young children for the duration of hospitalization.
+Neonatal herpes simplex virus and enteroviral meningoencephalitis have very similar presentations and a work-up for HSV should always be undertaken in such clinical situation and acyclovir therapy immediately initiated until either HSV is excluded or a diagnosis of enteroviral infection or another diagnosis is made.
+Final Diagnosis
+Enteroviral meningoencephalitis.

@@ -1,0 +1,34 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Submission Summary: A woman with fevers and a swollen neck.
+A woman in her thirties presented with neck swelling and intermittent fevers up to 102.5°F (39.2°C) of three weeks’ duration. Rapid strep testing and a heterophile antibody test were negative. An empiric course of amoxicillin was given with no improvement. Computed tomography (CT) of the neck showed extensive cervical lymphadenopathy ( Figure 1 ). After three weeks of persistent symptoms, she was referred to Otolaryngology for a lymph node biopsy.
+Figure 1. Image
+Figure 1. CT scan of the neck.
+Past Medical History
+There was a history of a positive tuberculosis skin test as a child and cervical dysplasia. It was not known if she had received prophylactic isoniazid treatment.
+Medications
+None.
+Epidemiological History
+She was born in Korea, and had lived in Germany, the Southern United States, before living in the Northeastern United States with her boyfriend and child. There was no recent travel outside the Northeast. She had no pets and no recent new sexual exposures.
+Physical Examination
+The temperature was 99.0°F (37.2°C), blood pressure was 112/94 mm Hg and pulse 80 beats per minute. There was extensive adenopathy in the left anterior and posterior neck, and smaller nodes in the scalene and submandibular regions were palpated on the left. No thrush or oral lesions were noted. The remainder of the examination was normal.
+Studies
+The white blood cell count was 2,900 cells per cubic millimeter with 53% segmented cells, 30% lymphocytes, 8% bands, 8% monocytes and one atypical lymphocyte. The hematocrit was 42% and platelets were 329,000 per cubic millimeter. Results of routine chemistries and liver function tests were normal, and HIV screening was negative.
+Clinical Course Prior to Diagnosis
+A lymph node biopsy was performed(Figure 2).
+Figure 2. Biopsy results.
+Diagnostic Procedure(s) and Result(s)
+Lymph node biopsy revealed necrotizing lymphadenitis consistent with Kukuchi- Fujimoto disease ( Figures 2 and 3 ).
+Figure 3. Biopsy with cresentic shaped nuclei.
+Discussion
+Kukuchi-Fujimoto disease is a form of necrotizing lymphadenitis. It was originally identified in Japan in 1972, but has now been described in Europe, the United States and the Middle East. Patients may present over a broad age range but the majority of patients present before thirty with a female predominance.
+The pathogenesis is unknown, however efforts have been made to implicate a post-viral exposure reaction to Epstein-Barr virus, parainfluenza, and human herpes virus six. Reaction to environmental stimuli has also been proposed. It is typically self-limited though it may take several months to resolve.
+Lymph node pathology shows patchy necrosis with marked nuclear fragmentations (karyorrhexis). Distinctive “crescentic-shaped” histiocytes are thought to be pathognomonic. The pathological differential diagnosis includes other types of necrotizing lymphadenitis, such as herpes simplex virus and lymphoma. It is often mistaken for lymphoma: a review of 108 cases [Dorfman and Berry 1988] revealed that up to 30% of cases were initially mistaken for lymphoma.
+Final Diagnosis
+Kikuchi-Fujimoto disease.
+References
+Ali, M.H., and Horton, L.W. (1985). Necrotising lymphadenitis without granulocytic infiltration (Kikuchi's disease). J Clin Pathol 38, 1252-1257.
+PMID:4066984 ( PubMed abstract )
+Chan, J.K., and Saw, D. (1986). Histiocytic necrotizing lymphadenitis (Kikuchi's disease) a clinicopathologic study of 9 cases. Pathology 18, 22-28.
+PMID:3725429 ( PubMed abstract )
+Dorfman, R.F., and Berry, G.J. (1988). Kikuchi's histiocytic necrotizing lymphadenitis: an analysis of 108 cases with emphasis on differential diagnosis. Semin Diagn Pathol 5, 329-345.
+PMID:3217625 ( PubMed abstract )

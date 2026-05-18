@@ -1,0 +1,46 @@
+History of Present Illness
+2008 ICAAC/IDSA Pediatric Fellows' Day Case Presentation Summary: A teenaged boy with headache of 3 months’ duration, associated with diplopia and emesis.
+A teenaged boy was well until 3 months before admission when severe headaches developed. One month later, diplopia and emesis occurred. Computed tomography (CT) of the head, ordered by his primary care physician, was reportedly normal. During the next 2 months, weight loss of approximately 10 kilograms occurred, and generalized weakness developed. He was admitted to a community hospital.
+On admission, CT scan of the head, with the administration of contrast, showed mild ventriculomegaly and mild hydrocephalus. A ventriculo-peritoneal (VP) shunt was placed to control intracranial pressure. On the 5th hospital day, magnetic resonance imaging (MRI) of the brain showed abnormal flair signal in the right thalamus. Lumbar puncture was performed twice, and the cerebrospinal fluid (CSF) analyzed. (Results are shown in Figure 1 .) Generalized tonic-clonic seizures developed, and fever occurred during the hospitalization. Vancomycin, cefotaxime and doxycycline were administered, as well as antiepileptic medications and dexamethasone. The temperature returned to normal, the headache decreased, and the episodes of vomiting resolved.
+He was discharged home on the 26th day, with residual lower extremity weakness, on antiepileptics and dexamethasone. Four days later, status epilepticus developed, and the patient was readmitted to the hospital. On examination, he was febrile, and altered mental status was present. Two days later, lumbar puncture was repeated (see Figure 1 ). He was transferred to a tertiary care hospital for further evaluation.
+Figure 1. Image
+Figure 1. Results of CSF analysis
+Past Medical History
+He was born after a full-term gestation, with no neonatal complications. Growth and development had also been normal, and he had had no serious illnesses, hospitalizations, or surgical procedures. He reported knee pain chronically for 1 year or longer, which he attributed to playing sports.
+Allergies
+There were no allergies to medications.
+Family History
+There were no known contacts with tuberculosis, autoimmune disease or neurologic disease in the family.
+Epidemiological History
+He traveled monthly from the American Southwest to Mexico to visit family. He had not been exposed to pets.
+Physical Examination
+On examination, the temperature was 98.4°F (36.9°C), blood pressure 119/70 mm Hg, pulse 94 beats per minute, and respirations 25 breaths per minute with oxygen saturation of 98% while breathing ambient air. His weight was 45.2 kg. The patient was confused and disoriented as to time, place and person. He did not follow simple commands and spoke in incoherent phrases. He was unable to ambulate without assistance. Cranial nerves 2 through 12 were intact (CN 1 not tested). Strength was decreased (3 out of 5, where 5 is normal) with reduced muscle bulk and clonus in both legs; examination of the arms was normal.
+Studies
+On admission to the 2nd hospital, the white blood cell count measured 3,600/mm³ (66% polymorphonuclear leukocytes, 1% band forms, 17% lymphocytes, 13% monocytes, 1% eosinophils, and 2% atypical lymphocytes). Hemoglobin measured 10.4 g/dL, hematocrit 30%, and the platelet count 118,000/mm3. The level of plasma sodium was 131 mEq/L, potassium 3.8 mEq/L, chloride 97 mEq/L, urea nitrogen 10 mg/dL and creatinine 0.4 mg/dL. A chest radiograph was normal.
+Magnetic resonance imaging (MRI) of the brain, with the administration of contrast, revealed diffuse leptomeningeal disease with enhancement that was thought to be suggestive of neoplastic disease - sarcoid or granulomatous disease could not be excluded - and a focal lesion in the right thalamus ( Figure 2 ). The ventricular shunt was noted to be in place. A lumbar puncture was performed; analysis of the cerebrospinal fluid (CSF) is shown in Figure 1 ; see "2nd admission” columns.
+Figure 2. MRI of the brain.
+Diagnostic Procedure(s) and Result(s)
+A surgical procedure was performed and areas of dura, leptomeningeal and cerebral cortex, and subcortical white matter biopsied. Pathological examination of the dural specimens showed no evidence of vasculitis. The leptomeninges showed fibrosis, and macrophage infiltration, with no atypical or malignant cells seen. (See Figure 3 stained for HLA-DR class II MHC.) Examination of the brain specimens showed focal well-circumscribed lesions, consisting of sheets of foamy macrophages. The macrophages were PAS positive, and some cells revealed distinct PAS+ granules ( Figure 4 ). Figures 5 and 6 demonstrate foamy macrophages, seen by Wright stain of a CSF specimen and in a brain specimen examined by electron microscopy, respectively. Stains for bacterial, mycobacterial, and fungal organisms were negative, including on the electron microscopy preparations. No well-defined granulomata, or multinucleated giant cells were present.
+After the patient had received doxycycline, polymerase chain reaction (PCR) testing for Tropheryma whipplei was performed, and was negative.
+Figure 3. HLA DR stain of biopsy.
+Figure 4. PAS stain of brain biopsy.
+Figure 5. CSF with foamy macrophages, Wright stain.
+Figure 6. Electron microscopy of brain biopsy.
+Treatment and Followup
+The patient received cefotaxime (2 grams intravenously every 8 hours) and trimethoprim-sulfamethoxazole (160 mg/800 mg orally every 8 hours) for 2 weeks, followed by monotherapy with trimethoprim-sulfamethoxazole. His mental status and motor strength gradually improved. One month after his discharge, he was able to converse appropriately, was alert and oriented to time, place and person, and could walk unassisted. However, he tired easily, had persistent lower extremity weakness and stiff gait, and difficulty processing questions that required recall of information.
+Discussion
+The presence of PAS (+) inclusions in the brain biopsy in the setting of suggestive clinical signs and symptoms is consistent with a diagnosis of Whipple's Disease of the central nervous system [Louis et al. 1996). A positive polymerase chain reaction (PCR) test for Tropheryma whipplei deoxyribonucleic acid (DNA) would confirm the diagnosis [Schneider et al. 2008]; in this case, however, the result was negative, possibly related to the prior antibiotic therapy.
+Whipple's Disease can present as three different clinical entities: Classic Whipple's disease, endocarditis with negative cultures and isolated neurologic infection [Fenollar et al. 2007]. Neurologic Whipple's disease has three variants: classic Whipple's disease with neurologic involvement, isolated neurologic disease and neurologic relapse of previously treated Whipple's disease [Fenollar et al. 2007]. The most common manifestations of neurologic Whipple's disease are cognitive dysfunction, decreasing level of consciousness and memory impairment [Schneider et al. 2008]. Oculomasticatory (OMM) and oculofacial-skeletal myorhythmia (OFSM) are pathognomonic findings of neurological Whipple's disease. [Louis et al. 1996]. The diagnosis of Neurologic Whipple's disease requires one of the following: (1) OMM or OFSM; (2) positive tissue biopsy (PAS positive inclusions in macrophages or evidence of microorganisms on electron microscopy) or (3) positive PCR for Tropheryma whipplei in the setting of high clinical suspicion [Louis et al. 1996]. At the time of this publication, the recommended treatment for Whipple's disease includes an initial 2 weeks of ceftriaxone, followed by long term therapy of 1 year or more of trimethoprim-sulfamethoxazole [Fenollar et al. 2007, Schneider et al. 2008]. This patient’s presentation highlights the importance of vigilance for evolving physical findings and of histopathologic examination of biopsied tissues in establishing the diagnosis of CNS Whipple’s disease.
+References:
+1. Fenollar F, Puechal X, Raoult D. Whipple's disease. N Engl J Med 2007; 356(1):55-66. PMID: 17202456
+2. Schneider T, Moos V, Loddenkemper C, Marth T, Fenollar F, Raoult D. Whipple's disease: new aspects of pathogenesis and treatment. Lancet Infect Dis 2008; 8(3):179-90. PMID: 18291339
+3. Louis ED, Lynch T, Kaufmann P, Fahn S, Odel J. Diagnostic guidelines in central nervous system Whipple's disease. Ann Neurol 1996; 40(4):561-8. PMID: 8871574
+Final Diagnosis
+Leptomeningitis and cerebritis, with findings consistent with Central Nervous System Whipple's Disease, caused by Tropheryma whipplei.
+References
+Fenollar, F., Puechal, X., and Raoult, D. (2007). Whipple's disease. N Engl J Med 356, 55-66.
+PMID:17202456 ( PubMed abstract )
+Louis, E.D., Lynch, T., Kaufmann, P., Fahn, S., and Odel, J. (1996). Diagnostic guidelines in central nervous system Whipple's disease. Ann Neurol 40, 561-568.
+PMID:8871574 ( PubMed abstract )
+Schneider, T., Moos, V., Loddenkemper, C., Marth, T., Fenollar, F., and Raoult, D. (2008). Whipple's disease: new aspects of pathogenesis and treatment. Lancet Infect Dis 8, 179-190.
+PMID:18291339 ( PubMed abstract )

@@ -86,6 +86,50 @@ python scripts/idimages_scraper.py \
   --overwrite
 ```
 
+## 3c) Scrape ALL cases (chunked + resumable)
+
+For bulk-scraping every case in the site's `/idreview/browse/all/` listing into
+a single folder, use the companion script `idimages_scrape_all.py`. It is
+chunked and resumable so you can scrape ~100 cases at a time, commit/push, and
+continue later.
+
+Output layout:
+
+```
+data/cases/ID_Images/All_cases/
+  _index.json        # master CaseID list (built once from browse/all/)
+  _progress.json     # tracks {scraped: [...], failed: {cid: msg}}
+  Case_#####/
+    case_text.txt
+    figure1.jpg
+    ...
+```
+
+One-time index build (visits `https://www.idimages.org/idreview/browse/all/`):
+
+```bash
+python scripts/idimages_scrape_all.py --refresh-index --dry-run
+```
+
+Scrape the next 100 unscraped cases:
+
+```bash
+python scripts/idimages_scrape_all.py
+```
+
+Common flags:
+
+- `--chunk-size 50` — change cases per invocation (default 100).
+- `--start-from 7000` — skip CaseIDs below this number (resume hint).
+- `--retry-failed` — re-attempt previously failed cases.
+- `--overwrite` — re-scrape even if `case_text.txt` already exists.
+- `--dry-run` — print the chunk plan but don't fetch.
+- `--rebuild-progress` — repopulate `_progress.json` by scanning existing
+  `Case_*` folders on disk (useful if you scraped some cases manually).
+
+Progress is persisted after every case, so an interrupted run will resume
+exactly where it stopped on the next invocation.
+
 ## 4) Add automatic figure descriptions (optional)
 
 ```bash

@@ -1,0 +1,72 @@
+History of Present Illness
+IDSA 2003 Summary: A teenager with a cerebellar mass.
+A teenager presented with moderately severe occipital headache of one-year's duration. She also reported nausea, vomiting, intermittent diplopia and photophobia for four months. She denied fever, loss of consciousness, seizures, bladder or bowel disturbances, abnormalities in ambulation or any other neurological complaints.
+Medications
+Her medications were ibuprofen and acetaminophen.
+Epidemiological History
+She had emigrated from West Africa and arrived in the United States Northeast three weeks before admission. The patient reported no other travel history and no animal exposures. She denied smoking, alcohol or illicit drug use, sexual activity or close contact with people suffering from tuberculosis.
+Physical Examination
+The patient appeared well nourished. The temperature was 98.9°F (37.2°C), blood pressure 107/64 mm Hg, heart rate 94 beats per minute, and respiratory rate 18 breaths per minute. She had bilateral papilledema and bilateral sixth nerve palsy. The rest of the examination was normal.
+Studies
+The hematocrit was 35% and white blood cell count (WBC) and differential were normal. Results of serum chemistries, liver function tests, urinalysis and cerebrospinal fluid (CSF) analysis were normal. An enzyme-linked immunoassay (EIA) for antibody to human immunodeficiency virus (HIV-1 and HIV-2) was non-reactive. The number of CD4 T-lymphocyte cells was within the normal range. Serum levels of immunoglobulin (Ig) and its subsets (IgA, IgD, IgE, IgG, IgM) were within normal limits. Purified Protein Derivative (PPD) test was negative (0 mm) with concomitant positive skin test reactions for Candida and diphtheria and tetanus (dT) showing measurements of 10 mm and 24 mm, respectively.
+Computed tomography (CT) scan of the head without contrast showed a large posterior fossa mass closely related to the right cerebellar hemisphere with marked vasogenic edema ( Figure 1 ). Contrast enhanced magnetic resonance imaging (MRI) of the head showed a 55 mm by 43 mm ring-enhancing mass with central liquefaction in the right cerebellar hemisphere ( Figure 2 ). Chest radiograph and computed tomography (CT) with contrast of the thorax and abdomen were normal.
+Transthoracic echocardiogram was normal.
+Figure 1. Head CT scan without contrast.
+Figure 2. Head MRI scan with contrast.
+Clinical Course Prior to Diagnosis
+A craniotomy for removal of a possible cerebellar neoplasm was performed. Histopathology of the mass is shown in Figure 3 .
+Figure 3. Histopathology of cerebellar mass.
+Diagnostic Procedure(s) and Result(s)
+The cerebellar mass upon gross inspection was described as firm, gritty and poorly vascularized. Histopathologic examination of the tissue revealed epithelioid granulomas with caseous necrosis ( Figure 3 ).
+Acid-fast staining of the specimen was positive, suggesting mycobacterial infection. Subsequently, cultures grew both Mycobacterium tuberculosis (MTB) and Mycobacterium avium complex (MAC), which were confirmed by DNA probes.
+Treatment and Followup
+Postoperatively, she received presumptive treatment for tuberculoma with isoniazid (INH), rifampin (RIF), pyrazinamide (PZA), and ethambutol (EMB). She subsequently had complete resolution of her presenting symptoms and cranial nerve palsies.
+Four months later, a repeat MRI scan of the head ( Figure 4 ) showed resolution of the cerebellar lesion with no new abnormalities. After treatment for 6 months, her regimen was modified to rifabutin (RFB), EMB and clarithromycin, which she was to receive for another 12 months for the treatment of Mycobacterium avium complex (MAC) infection.
+At nine months follow-up, the patient was doing well without any signs or symptoms of relapse of the disease.
+Figure 4. Follow-up MRI scan at four months.
+Discussion
+While central nervous system (CNS) infections with Mycobacterium tuberculosis (MTB) are not uncommon, neurological disease caused by other mycobacteria is much less frequent. Mycobacteria other than MTB and Mycobacterium leprae are generally free-living organisms that are ubiquitous in the environment. They have been recovered from surface water, tap water, soil, domestic and wild animals, milk and food products (Cegielski and Wallace 1997, Gruft et all 1981, Chapman 1971). These organisms may inhabit body surfaces or secretions without causing disease. Consequently, when recovered from a clinical specimen, nontuberculous mycobacteria (NTM) are sometimes considered environmental contaminants (Cegielski and Wallace 1997,Debrunner et al 1992).
+The incidence of disease due to NTM has increased substantially in the past 15 years, in large part due to the pandemic of HIV infection. One of the most common species is Mycobacterium avium complex (MAC), which commonly causes disseminated disease in patients with the Acquired Immune Deficiency Syndrome (AIDS) (Cegielski and Wallace 1997). In one report, evidence of disseminated MAC was found in 60% of AIDS patients at autopsy (Chin et al 1990). In patients with AIDS, the typical setting of MAC infection is late in the course of the disease when CD4 cell counts are <50 cells/mL. Thus, the AIDS epidemic has been accompanied by an epidemic of disseminated NTM disease as severely immunocompromised patients are exposed to these ubiquitous but relatively less virulent organisms (Cegielski and Wallace 1997).
+In non-immunocompromised patients, the most common site of localized NTM infection is the lung. Other manifestations reported in literature include recurrent granulomatous tenosynovitis (Lefevre et al 2000), peritonitis (Miailhes et al 2000), osteomyelitis (Raszka et al 1994), soft tissue infection (Leautez et al 2000) and lumbar spinal infection (Suttner et al 2001). In non-immunosuppressed patients, chronic obstructive pulmonary disease and inherited connective disorders are the most common predisposing factors for the development of NTM disease, especially MAC (Florakis et al 2002).
+In our patient none of these predisposing factors were identified. We investigated other factors that might have predisposed our patient to this particular infection, but there was no other evidence of impairment of host defense mechanisms such as neutropenia, poor nutrition, debility, cancer, or HIV infection.
+Central nervous system (CNS) infections with MAC can occur secondary to trauma, surgery, hematogenous dissemination and contiguous spread of long standing disease like otitis media and mastoiditis (Cegielski and Wallace 1997). Such infections have been reported in patients with and without identifiable immunologic deficits (Klein et al 1985, Gentry et al 1977, Uldry et al 1992, Horsburgh et al.1985). The reported neurological manifestations of CNS disease due to MAC are variable and include meningitis, encephalitis, organic brain syndrome, cranial nerve palsy, progressive neurological deterioration, hydrocephalus, subdural empyema and ventriculitis (Gyure et al 1995).
+Co-infection with pathogens like Cytomegalovirus, Cryptococcus neoformans and Toxoplasma gondii has been reported in some cases of NTM central nervous system (CNS) disease (Gyure et al 1995). Such cases can cause diagnostic dilemma. Only two cases of CNS infection with both MTB and NTM have been described in literature. Both patients had meningitis with the co-infecting NTM being Mycobacterium avium intracellulare (MAI) in one (Klein et al 1985), and Mycobacterium kansasii in the other patient (Herman et al 1966). No HIV test or other tests evaluating the immune status of the patients involved were reported in these cases.
+To the best of our knowledge, this is the first case report of a brain abscess caused by both MTB and MAC in an immunocompetent individual. In the setting of the current worldwide HIV epidemic and with the increasing use of immunosuppressive treatment modalities for various medical conditions, dual mycobacterial infections may be seen more frequently in the future. An awareness of and an increased index of suspicion for the possibility of such co-infections could potentially expedite the diagnosis, and decrease morbidity and mortality in such patients.
+Final Diagnosis
+Cerebellar abscess caused by both Mycobacterium tuberculosis (MTB) and Mycobacterium avium complex (MAC) in an immunocompetent individual.
+References
+Cegielski JP, Wallace RJ. Infections due to nontuberculous mycobacteria. In: Scheld WM, Whitley RJ, Durack DT, eds. Infections of the central nervous system 2nd ed. Philadelphia: Lippincott-Raven. 1997; 445-61
+Chapman, J.S. (1971). The ecology of the atypicalmycobacteria. Arch Environ Health 22, 41-46. 4991961.
+PMID:4991961 ( PubMed abstract )
+Chiu, J., Nussbaum, J., Bozzette, S., Tilles, J.G., Young, L.S., Leedom, J., Heseltine, P.N., and McCutchan, J.A. (1990). Treatment of disseminated Mycobacterium avium complex infection in AIDS with amikacin, ethambutol, rifampin, and ciprofloxacin. California Collaborative Treatment Group. Ann Intern Med 113, 358-361.
+PMID:2382918 ( PubMed abstract )
+Debrunner, M., Salfinger, M., Brandli, O., and von Graevenitz, A. (1992). Epidemiology and clinical significance of nontuberculous mycobacteria in patients negative for human immunodeficiency virus in Switzerland. Clin Infect Dis 15, 330-345
+PMID:1520769 ( PubMed abstract )
+Florakis, D., Kontogeorgos, G., Anapliotou, M., Mazarakis, N., Richter, E., Bruck, W., and Piaditis, G. (2002). Isolated pituitary granuloma by atypical Mycobacterium in a nonimmunosuppressed woman
+PMID:11849256 ( PubMed abstract )
+Gentry, R.H., Farrar, W.E., Jr., Mahvi, T.A., Prevost, A.E., and Gionis, T.A. (1977). Simultaneous infection of the central nervous system with Cryptococcus neoformans and Mycobacterium intracellulare. South Med J 70, 865-866.
+PMID:877651 ( PubMed abstract )
+Gruft, H., Falkinham, J.O., 3rd, and Parker, B.C. (1981). Recent experience in the epidemiology of disease caused by atypical mycobacteria. Rev Infect Dis 3, 990-996.
+PMID:7339831 ( PubMed abstract )
+Gyure, K.A., Prayson, R.A., Estes, M.L., and Hall, G.S. (1995). Symptomatic Mycobacterium avium complex infection of the central nervous system. A case report and review of the literature. Arch Pathol Lab Med 119, 836-839.
+PMID:7668942 ( PubMed abstract )
+Horsburgh, C.R., Jr., Mason, U.G., 3rd, Farhi, D.C., and Iseman, M.D. (1985). Disseminated infection with Mycobacterium avium-intracellulare. A report of 13 cases and a review of the literature. Medicine (Baltimore) 64, 36-48.
+PMID:3880852 ( PubMed abstract )
+Huempener, H.R., Kingsolver, W.R., and Deuschle, K.W. (1966). Tuberculous meningitis caused by both Mycobacterium tuberculosis and atypical mycobacteria. Am Rev Respir Dis 94, 612-614.
+PMID:4958875 ( PubMed abstract )
+Iseman, M.D. (1989). Mycobacterium avium complex and the normal host: the other side of the coin. N Engl J Med 321, 896-898.
+PMID:2770826 ( PubMed abstract )
+Klein, N.C., Damsker, B., and Hirschman, S.Z. (1985). Mycobacterial meningitis. Retrospective analysis from 1970 to 1983. Am J Med 79, 29-34
+PMID:4014303 ( PubMed abstract )
+Leautez, S., Boutoille, D., Bemer-Melchior, P., Ponge, T., and Raffi, F. (2000). Localized Mycobacterium genavense soft tissue infection in an immunodeficient HIV-negative patient. Eur J Clin Microbiol Infect Dis 19, 51-52.
+PMID:10706181 ( PubMed abstract )
+Lefevre, P., Gilot, P., Godiscal, H., Content, J., and Fauville-Dufaux, M. (2000). Mycobacterium intracellulare as a cause of a recurrent granulomatous tenosynovitis of the hand. Diagn Microbiol Infect Dis 38, 127-129.
+PMID:11035246 ( PubMed abstract )
+Miailhes, P., Bizollon, T., Chomarat, M., Ducerf, C., and Trepo, C. (2000). [Peritonitis with Mycobacterium avium complex in a patient with alcoholic cirrhosis]. Gastroenterol Clin Biol 24, 841-842.
+PMID:11011260 ( PubMed abstract )
+Raszka, W.V., Jr., Trinh, T.T., and Zawadsky, P.M. (1994). Multifocal M. intracellulare osteomyelitis in an immunocompetent child. Clin Pediatr (Phila) 33, 611-616.
+PMID:7813141 ( PubMed abstract )
+Suttner, N.J., Adhami, Z., and Aspoas, A.R. (2001). Mycobacterium chelonae lumbar spinal infection. Br J Neurosurg 15, 265-269.
+PMID:11478067 ( PubMed abstract )
+Uldry, P.A., Bogousslavsky, J., Regli, F., Chave, J.P., and Beer, V. (1992). Chronic Mycobacterium avium complex infection of the central nervous system in a nonimmunosuppressed woman. Eur Neurol 32, 285-288.
+PMID:1521552 ( PubMed abstract )

@@ -1,0 +1,39 @@
+History of Present Illness
+2008 ICAAC/IDSA Pediatric Fellows' Day Case Presentation Summary: A toddler with muscle aches and clumsiness.
+A toddler was well until 10 days prior to presentation when an upper respiratory infection, associated with a persistent cough, developed. Seven days before presentation, he began to stumble. Two days later, myalgias and weakness in his left leg occurred, which progressed to involve the right leg. One day before presentation, he complained of weakness in his arms, neck and head, and refused to get out of bed. He was brought to a pediatric urgent care facility.
+He reported dizziness for several days, and denied nausea, vomiting, diarrhea, and headache.
+Past Medical History
+There was a history of asthma and environmental allergies. His immunizations were reportedly up-to-date.
+Medications
+None.
+Social History
+He lived with his parents and an older sibling.
+Epidemiological History
+He lived with his family in Southeast Asia, and had been vacationing in the United States for the previous month at the time of his illness. All other family members were healthy. They had flown into a city in the American Southeast, took a cruise in the Caribbean for 1 week, visited family in Northwest, and then went to a city in the Mid-Atlantic region. He had no pets or animal contacts. While on the cruise, he may have spent some time in the ocean swimming, and his diet had included the fare provided on the ship.
+Physical Examination
+He was reportedly unable to walk, and was carried into the office by his parents; he otherwise appeared well. There was occipital lymphadenopathy on the left. There was wheezing in the lungs bilaterally, with no retractions. A skin lesion was present. Cranial nerves were intact. With assistance, he attempted ambulation with a very ataxic gait. He was unable to raise his arms to midline and deep tendon reflexes were reported as 1 to 2 throughout. The sensory exam was normal. The rest of his examination was normal.
+Studies
+Complete blood count revealed 9,300 white cells per cubic millimeter with a differential of 37% polymorphonuclear cells, 51% lymphocytes. Hemoglobin and hematocrit were 12.9 g/dL and 37.5%, respectively. Platelet count was 326,000 per cubic millimeter. The basic metabolic panel was normal limits. Creatine kinase was also normal at 114 units/L.
+Clinical Course Prior to Diagnosis
+The skin lesion was removed ( Figure 1 ).
+Figure 1. Figure 1.
+Diagnostic Procedure(s) and Result(s)
+On further examination, the skin lesion, which was first thought to be a skin tag when noted by his mother 10 days earlier, was an engorged tick, which was removed (See Figure 1 ). The tick was not identified further.
+Treatment and Followup
+Within 2 hours of the removal of the tick, he had significant improvement in his ability to ambulate. Within 8 hours, his neurological abnormalities had resolved. A post-inflammatory nodule at the site of the tick bite developed that did not resolve with steroid treatment. He underwent a local incision and biopsy of the nodule without further sequelae. Five months after tick removal, his mother reported that he was still doing well.
+Discussion
+Tick paralysis is a neurologic syndrome that is frequently confused with other acute disorders. It causes an ascending paralysis due to a potent neurotoxin produced by attached, engorged ticks.
+Both Ixodes and Dermacentor ticks can cause tick paralysis. The Ixodes holocyclus tick, mostly found in Australia, causes a more severe neurologic impairment than does the toxin from Dermacentor sp. of North America. The incubation, or onset of symptoms, most often occur 4-7 days after female tick attachment. The tick is most commonly found in the Rocky Mountain region, western Canada, and Northeast US. In this case, the tick was most likely acquired during the family's stay in the Northwest United States.
+The proposed mechanism of the holocylotoxin is paralysis due to failure to release acetylcholine from nerve terminals at the neuromuscular junction. This results in abnormalities of excitation-secretion mechanism possibly due to reduced calcium availability. The toxin is noted to be temperature-dependent in its action.
+Treatment includes identification and removal of the tick. This typically leads to prompt recovery. In the North American Dermacentor sp. ticks, patients typically show improvement within 1 hour, and all symptoms generally resolve within 24 hours. Dog serum antitoxin is used for animals with tick paralysis. Rarely, antitoxin has been used in humans for severely ill patients. The occurrence of adverse events including acute reactions and serum sickness, and variable efficacy due to different toxins secreted by different ticks, limits its use.
+After removal of the ticks, the prognosis is very good. However, the disease is potentially fatal if undiagnosed, with a reported mortality rate of up to 11% [Rose, 1954]. Rare complications of myocarditis, myositis, and myoglobinuria have been reported in humans. Possible autonomic, cranial nerve, and central nervous system involvement have also been reported.
+Final Diagnosis
+Tick paralysis.
+References
+Center for Disease Control (CDC). Cluster of tick paralysis cases---Colorado, 2006. MMWR 2006;55:933-5.
+Edlow, J.A., and McGillicuddy, D.C. (2008). Tick paralysis. Infect Dis Clin North Am 22, 397-413, vii.
+PMID:18755381 ( PubMed abstract )
+Felz, M.W., Smith, C.D., and Swift, T.R. (2000). A six-year-old girl with tick paralysis. N Engl J Med 342, 90-94.
+PMID:10631277 ( PubMed abstract )
+Rose, I. (1954). A review of tick paralysis. Can Med Assoc J 70, 175-176.
+PMID:13126868 ( PubMed abstract )

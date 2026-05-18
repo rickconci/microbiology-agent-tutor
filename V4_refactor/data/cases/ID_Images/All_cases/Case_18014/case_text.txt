@@ -1,0 +1,44 @@
+History of Present Illness
+A man in his fifties presented to the emergency department with four days of fever and a diffuse rash. The rash had begun as circular, red, flat lesions on his arms and torso (Fig. 1) that evolved into serpiginous rings over his entire body except for head, neck, palms, and soles. The skin lesions were not painful or pruritic. During this same period, he experienced myalgias and arthralgias worst in his gluteal area, and chills. He took anti-inflammatories at home with temporary partial relief of fevers, arthralgias, and myalgias. He denied headache, sore throat, and chest pain.
+Six days prior to presentation he sustained a splinter to the tip of the left middle finger from a citrus tree. Localized swelling and erythema without purulence developed where the splinter had penetrated the skin. Five days prior to presentation, while in the woods, he fell and sustained bruises and lacerations to his face, scalp, and thigh.
+Past Medical History
+Untreated chronic hepatitis C virus infection with cirrhosis. Chronic alcohol use.
+Epidemiological History
+He lives in south-eastern USA and travelled extensively more than 3 decades ago. He had no pets, and no known exposure to animals.
+Physical Examination
+The patient was alert and appeared non-toxic. The blood pressure was 154/92 mmHg, pulse 97 beats per minute, temperature 98°F (36.7°C), and respirations 18 breaths per minute. There was no icterus, and no conjunctival suffusion or erythema. The oropharynx was clear without mucosal lesions. There was no adenopathy. Heart sounds were normal and no murmur was audible. The abdomen was soft and nontender without hepatosplenomegaly; there was no fluid wave or shifting dullness. There were no genital skin lesions or urethral discharge. Skin exam showed many large annular erythematous plaques over the torso, arms, and legs (Fig. 2-4). Some of the lesions were target shaped and a few had a rhomboid appearance. Localized swelling and erythema was resolving on the tip of his left middle finger (Fig. 5). He had significant pain on palpation of his right gluteal area and any movement of his pelvic girdle was painful.
+Figure 1. Early erythematous annular plaques on arms and back
+Figure 2. Rhomboid and target shaped lesions on the torso
+Figure 3. Figure 3: Cloud-shaped lesions expanding outward with central clearing on torso
+Figure 4. Rhomboid and bubble-shaped lesions on legs
+Figure 5. Localized swelling and erythema of left middle finger from previous splinter
+Studies
+The serum aspartate aminotransferase was 104 U/L (reference range 16-40), alanine aminotransferase 53 U/L (reference range 8-54), alkaline phosphatase 170 U/L (reference range 56-119), total bilirubin 3.6 mg/dL (reference range 0.2-1.3); albumin 2 g/dL (reference range 3.5-5). Transaminases were similar to results obtained 8 months prior. HIV Ag/Ab test was negative and syphilis antibody was nonreactive.
+The peripheral white blood cell count was 7,780/mm3 (reference range 4.4-11), hemoglobin was 13.2 g/dL (reference range 13.9-17.2), and platelets were 32,000/mm3 (reference range 140-440). White blood cell count differential was 88% neutrophils, 2.6% lymphocytes, 3.5% monocytes, 0% eosinophils. C-reactive protein was 3mg/dL (reference range <0.3) and erythrocyte sedimentation rate was 37 mm/hr (0-10). X-ray of the lumbar spine showed no compression deformities with multi-level disc space narrowing worse at L4-5 and L5-S1 and multilevel osteophytes. There was mild L5-S1 facet arthrosis.
+Diagnostic Procedure(s) and Result(s)
+Two (of two) sets of blood cultures yielded Gram-positive rods subsequently identified as Erysipelothrix rhusiopathiae . A trans-thoracic echocardiogram was negative for valvular vegetations or other findings suggestive of endocarditis.
+Treatment and Followup
+Treatment with ampicillin/sulbactam 3g IV every 6 hours was initiated when blood cultures returned positive for Gram-positive rods. When the species was identified as E. rhusiopathiae he was switched to penicillin G 18 million units IV daily for 4-weeks. Within 24 hours of starting a beta-lactam his fevers abated and the intensity of the erythema decreased. By the fifth day of beta lactam therapy his rash had completely resolved.
+Discussion
+This is a case of disseminated cutaneous E. rhusiopathiae with bacteremia. E. rhusiopathiae is a rod-shaped, Gram-positive, facultative anaerobe bacillus [1-3]. Infection is mainly an occupationally acquired zoonosis transmitted by feces, water, soil, or food scraps contaminated by a wide variety of mammals, birds, and fish [2, 3]. Infection is acquired through puncture wounds and scratches of the skin [4, 5]. It is mainly an occupational zoonosis of butchers, veterinarians, and fishermen [6]. The most important reservoir is healthy domestic swine, up to half of which harbor it their tonsils [4]. However, contact with other animals has led various eponyms including “whale finger,” “seal finger,” and “fish handlers’ disease” [6]. In addition, infection can be acquired through cuts or abrasions on the skin in contact with soil and plant matter [3].
+E. rhusiopathiae can cause three forms of human disease. These forms are erysipeloid (a localized cutaneous form), diffuse cutaneous, and systemic disease [2, 3, 7]. The localized cutaneous form is the most common presentation, and typically presents as an inflammatory plaque with well-defined, raised borders usually on the fingers or back of the hand [2, 7]. The diffuse systemic form presents with widespread violaceous lesions that may be rhomboid-shaped distal from the site of inoculation, sometimes accompanied by bullae [7, 8]. The systemic form is associated with bacteremia and can be complicated by endocarditis [7, 9].
+Risk factors for development of diffuse systemic disease after E. rhusiopathiae infection have not been well-delineated but cirrhosis and immunosuppression may play a role [7, 8]. In this patient we suspect that the bacterium was inoculated into skin by the splinter from the citrus tree. Penicillin is the drug of choice and resistance is rare. Ampicillin and ceftriaxone are alternatives [7]. This case serves as a reminder to clinicians that disseminated Erysipelothrix can present with erythematous, expanding target shaped skin lesions after exposure to bacteria from vegetative sources.
+Final Diagnosis
+Disseminated cutaneous Erysipelothrix rhusiopathiae with bacteremia
+References
+Winn W, Allen S, Janda W, Koneman E. Color atlas and textbook of diagnostic microbiology. Estados Unidos: Lippincott Williams & Wilkins; 2006.
+Veraldi S, Girgenti V, Dassoni F, Gianotti R. Erysipeloid: a review. Clin Exp Dermatol 2009;34:859-862.
+PMID:19663854 ( PubMed abstract )
+Brooke CJ, Riley TV. Erysipelothrix rhusiopathiae: bacteriology, epidemiology and clinical manifestations of an occupational pathogen. J Med Microbiol 1999;48:789-799.
+PMID:10482289 ( PubMed abstract )
+Wang Q, Chang B, Riley T. Erysipelothrix rhusiopathiae. Veterinary Microbiology 2010;140(3-4):405-417.
+PMID:19733019 ( PubMed abstract )
+Schiffman W, Black A. Acute Bacterial Endocarditis Caused by Erysipelothrix rhusiopathiae. N Engl J Med 1956;255:1148-1150.
+PMID:13378631 ( PubMed abstract )
+Reboli A, Farrar W. Erysipelothrix rhusiopathiae: an occupational pathogen. Clin Microbiol Rev. 1989;2:354-359.
+PMID:2680056 ( PubMed abstract )
+Mandell G, Douglas R, Bennett J, Dolin R, Blaser M. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Philadelphia, Pa: Elsevier, Saunders; 2015.
+Cascio A, Stassi G, Cacciola I, Saitta C, Squadrito G. Fever and rhomboid target lesion in decompensated cirrhosis. Lancet Infect Dis 2012;12:576.
+PMID:22742640 ( PubMed abstract )
+Tan EM, Marcelin JR, Adeel N, Lewis RJ, Enzler MJ, Tosh PK. Erysipelothrix rhusiopathiae bloodstream infection – a 22-year experience at Mayo Clinic, Minnesota. Zoonoses Public Health 2017;64:e65-e72.
+PMID:28206705 ( PubMed abstract )

@@ -1,0 +1,55 @@
+History of Present Illness
+Summary: A man with congenital heart disease and skin lesions.
+A man in his forties with a history of congenital cyanotic heart disease and polyarteritis nodosum presented with nodular skin lesions.
+One year before admission, the patient developed fevers, rash and testicular pain and swelling. A biopsy of the skin and testicles showed vasculitis, and a diagnosis of polyarteritis nodosum was made. Prednisone (60 mg daily) was administered.
+Approximately six months before admission, he was diagnosed with an occlusion of the basilar artery. Angiography showed irregularity of the intracerebral vessels that was consistent with, although not diagnostic of, vasculitis of the central nervous system. At that time, low-grade fevers were documented and, because additional immunosuppressive therapy was being considered for his vasculitis, an evaluation for an infectious etiology was performed.
+Computed tomography (CT) of the chest showed a cavitary lesion (2.5-centimeters in diameter) in the right lower lobe and a left lower lobe nodule (1cm in diameter). It was thought that these might be due to infarct, septic emboli, or vasculitis. Blood cultures, sputum cultures, and trans-thoracic echocardiography were negative.
+Approximately three months before admission, cyclophosphamide treatment was begun. One month before admission, he developed a lesion on his right forearm. In the following weeks, lesions appeared on all four extremities. A skin biopsy showed a neutrophilic panniculitis; bacterial and fungal stains and cultures were negative. The patient also noted several weeks of a non-productive cough.
+On the day of admission, the temperature rose to 101.5°F (38.6°C) and the patient noted fatigue.
+Past Medical History
+He had a history of congenital cyanotic heart disease, polyarteritis nodosum, diabetes mellitus, reactive airway disease, gout and osteoarthritis.
+Testing for human immunodeficiency virus (HIV) and tuberculosis (Mantoux skin test) were negative.
+Medications
+Medications included prednisone 25 mg daily, cyclophosphamide monthly and trimethoprim-sulfamethoxazole daily.
+Social History
+He lived with his wife and children.
+Epidemiological History
+There were no exposures to sick contacts or recent travel. The patient had lived in California and Arizona in the past, and had moved to the United States Northeast. He was heterosexual.
+Physical Examination
+The patient was cyanotic, with a chronically ill and cushingoid appearance. The temperature was 99.2°F (37.3°C), blood pressure 90/56 mm Hg, pulse 76 beats per minute, respirations 24 per minute and oxygen saturation 70% on 3 liters of oxygen. Breath sounds were decreased at the bases, and there was no lymphadenopathy. The cardiac examination was unchanged from baseline.
+There were approximately 20 nodular skin lesions on his upper and lower extremities ( Figures 1 through 4 ). Skin lesions were also present around the rectum.
+Figure 1. Physical findings on the thigh.
+Figure 2. Physical findings on the thigh.
+Figure 3. Physical findings on the ankle.
+Figure 4. Physical findings.
+Studies
+The white blood cell (WBC) count was 15,700/mm³ (93% neutrophils and 2% lymphocytes), hematocrit 53% (his baseline level) and platelets 331,000/mm³. The serum level of urea nitrogen (BUN) was 25 mg/dL, creatinine 1.0 mg/dL, aspartate aminotransferase (AST) 50 U/L, alanine aminotransferase (ALT) 65 U/L, alkaline phosphatase 136 U/L and total bilirubin 0.5 mg/dL.
+CT scanning of the chest showed cavitary lesions in the left lower lobe and right lower lobe ( Figures 5 and 6 ). CT scanning of the abdomen showed a rim-enhancing fluid collection in the peri-rectal fat with a sinus tract extending into a phlegmonous collection in his inferior right buttocks.
+Figure 5. CT scan of the chest.
+Figure 6. CT scan of the chest.
+Diagnostic Procedure(s) and Result(s)
+Cultures of the blood, sputum and skin (by biopsy) were sent. The skin biopsy showed necrosis with abscess formation and was positive for acid-fast bacilli (AFB).
+The skin biopsy, sputum, and blood cultures all grew acid-fast bacilli within several days. The patient was diagnosed with disseminated rapidly growing mycobacterial infection, subsequently identified as Mycobacterium abscessus .
+Figure 7. Abscesses in the left and right lungs.
+Figure 8. Lung pathology with abscesses.
+Figure 9. Acid-fast stain of a lung abscess.
+Figure 10. AFB staining of a lung abscess.
+Treatment and Followup
+He was treated with cefoxitin, amikacin, and clarithromycin, but was readmitted one week later with acute renal failure.
+At the time, his antibiotics were changed to linezolid, gatifloxacin, clarithromycin, and cefoxitin. Unfortunately, the patient expired on the fifth hospital day. A limited autopsy was performed. His lungs showed an abscess cavity, and acid-fast bacilli were identified ( Figures 7 through 10 ). There were microabscesses in his kidneys that were AFB-smear negative.
+Discussion
+Mycobacterium abscessus is one of the rapidly growing non-tuberculous mycobacteria (NTM). Mycobacterium fortuitum , Mycobacterium chelonae , and M. abscessus account for more than 90% of infections caused by rapidly growing NTM. Rapidly growing mycobacteria (RGM) cause pulmonary disease, skin and soft tissue infections, bone and joint infection, catheter-related infections, and disseminated disease. In over 80% of cases of pulmonary disease caused by rapidly growing mycobacteria, M. abscessus is the pathogen.
+This patient's case is unusual in that presumably he initially had a pulmonary infection with M. abscessus that later disseminated after he received immunosuppressive therapy.
+In most reported cases of disseminated rapidly growing mycobacterial infections, the primary site of infection is not clear. Disease caused by rapidly growing mycobacteria can occur in immunocompetent patients as well, but in that setting is most often post-traumatic or a surgical wound infection. Disseminated disease generally occurs in patients who are immunocompromised, often those on steroid therapy or with a history of end-stage renal disease. Multiple skin lesions, usually involving extremities, characterize disseminated disease.
+The treatment of rapidly growing mycobacteria depends upon the antibiotic sensitivity of the isolate. Rapidly growing mycobacteria are not sensitive to agents used for tuberculosis and have different antibiotic sensitivities from each other. M. abscessus isolates are resistant to most oral agents. They are generally susceptible to amikacin, cefoxitin, and imipenem. Clarithromycin is one of the few oral antibiotics with activity against M. abscessus . Based upon in vitro data, linezolid also appears to have activity against some RGM. Extensive infection or disseminated disease should be treated with combination therapy. Pulmonary disease due to M. abscessus has generally not been successfully treated with antibiotic therapy. Courses of clarithromycin, cefoxitin, and amikacin may result in clinical improvement but not microbiologic cure.
+Final Diagnosis
+Disseminated Mycobacterium abscessus in a patient with congenital cyanotic heart disease, polyarteritis nodosum, and diabetes mellitus.
+References
+Ingram, C.W., Tanner, D.C., Durack, D.T., Kernodle, G.W., Jr., and Corey, G.R. (1993). Disseminated infection with rapidly growing mycobacteria. Clin Infect Dis 16, 463-471.
+PMID:8513048 ( PubMed abstract )
+Jarand, J., Levin, A., Zhang, L., Huitt, G., Mitchell, J.D., and Daley, C.L. (2011). Clinical and microbiologic outcomes in patients receiving treatment for Mycobacterium abscessus pulmonary disease. Clin Infect Dis 52, 565-571.
+PMID:21292659 ( PubMed abstract )
+Liebeskind, D.S., Ostrzega, N., Wasterlain, C.G., and Buttner, E.A. (2001). Neurologic manifestations of disseminated infection with Mycobacterium abscessus. Neurology 56, 810-813.
+PMID:11274327 ( PubMed abstract )
+van Ingen, J. (2011). Strategies to improve outcome of drug treatment for Mycobacterium abscessus pulmonary disease. Clin Infect Dis 52, 1281-1282.
+PMID:21364074 ( PubMed abstract )

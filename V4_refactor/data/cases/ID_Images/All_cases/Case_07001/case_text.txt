@@ -1,0 +1,42 @@
+History of Present Illness
+2007 January Featured Case Summary: An elderly man with a left wrist ulcer.
+An elderly man presented with an ulcerated lesion over the dorsum of the left wrist.
+He had been gardening ten days earlier. The lesion had grown in size with surrounding erythema, and he noted that two small nodules had developed proximal to the lesion on the forearm.
+Cephalexin was started. He was seen two days later with an expanding, increasingly painful lesion associated with swelling that extended above the elbow.
+Past Medical History
+There was a history of hypertension and coronary artery disease (CAD), coronary artery by-pass grafting (CABG) had been performed ten years earlier.
+Medications
+He had been taking cephalexin (500 mg four times per day, orally) for 2 days.
+Epidemiological History
+The patient was visiting New England from his home in Florida, where he gardened frequently. He may have recently scraped his hand on some metal in an area of overgrown weeds under his house. There were no rose bushes in the area, and although he had seen rabbits occasionally, he had not seen evidence of them under the house. He reported no fresh- or salt-water exposures, history of recurrent infections, or risk factors for human immunodeficiency virus (HIV).
+Physical Examination
+He was a well-appearing elderly man in no acute distress. The temperature was 99.2°F (37.2°C), blood pressure 140/71 mm/Hg, and pulse 70 beats/minute. The conjunctivae and oropharynx were clear. The neck was supple without lymphadenopathy in the cervical or supraclavicular chains. The lungs were clear to auscultation bilaterally; cardiac and abdominal examinations were normal.
+The left arm had an ulceration measuring 1-2 centimeter (cm) in diameter over the dorsum of the wrist, with multiple subcutaneous nodules proximally and surrounding erythema. The nodules were painful and extended in a chain to the epitrochlear region where a warm, tender mass (2 cm by 3 cm) was palpated. There were 2-3 shotty, non-tender axillary nodes present, and no sub-pectoral nodes. (See Figures 1 and 2.)
+Figure 1. Physical Finding.
+Figure 2. Physical Finding.
+Studies
+The white blood cell count revealed 18,000/mm³ (59% leukocytes, 36% lymphocytes, 4% monocytes, 1% eosinophils). A radiograph of the forearm did not reveal a foreign body.
+Diagnostic Procedure(s) and Result(s)
+The center of the lesion was biopsied and the tissue was cultured. A modified acid fast stain of the culture is shown in Figure 3 . Culture of the biopsy material grew Nocardia brasiliensis.
+Figure 3. Modified acid fast stain of tissue culture.
+Treatment and Followup
+Sulfamethoxazole-trimethoprim therapy was administered, with significant improvement over one week.
+He returned to Florida and it was noted that his white blood cell count did not decline with resolution of the infection. He was subsequently found to have chronic lymphocytic leukemia (CLL), Stage 0.
+Discussion
+Nocardia is a ubiquitous saprophyte, and is classified as one of the aerobic Actinomycetes, a phylogenetically heterogeneous group of bacteria that share the morphology of filamentous branching cells.
+Once considered fungi because of their branching quality and ability to produce aerial hyphae, they were confirmed as bacteria when found to have peptidoglycan and lipid cell walls, without chitin present. Nocardia asteroides is the most commonly diagnosed worldwide, and has a substantial predilection for immunocompromised hosts. Nocardia brasiliensis is commonly diagnosed in immunocompetent hosts.
+There are four types of cutaneous nocardiosis:
+1. Primary cutaneous nocardiosis resulting from direct inoculation;
+2. Lymphocutaneous infection as an extension of untreated primary cutaneous disease or as an initial presentation;
+3. Mycetoma, a chronic suppurative granulomatous reaction that can be secondary to Nocardia or a host of other pathogens;
+4. Cutaneous involvement from disseminated nocardial infection.
+The differential for lymphocutaneous infection includes:
+-Sporothrix schenckii : found in similar geographic environs as Nocardia , and has a similar incubation period of up to 2 weeks.
+- Mycobacterium marinum : usually follows exposure to the organism growing in a pool, ocean or aquarium.
+-Leishmaniasis: requires inoculation by the bite of a sandfly, usually in Central or South America, although occasional cases have occurred in Texas.
+- Francisella tularensis : the ulcer of this infection is often particularly painful, and more associated with fever and systemic symptoms.
+Final Diagnosis
+Lymphocutaneous nocardiosis (due to Nocardia brasiliensis ).
+References
+Maraki, S., Scoulica, E., Alpantaki, K., Dialynas, M., and Tselentis, Y. (2003). Lymphocutaneous nocardiosis due to Nocardia brasiliensis. Diagn Microbiol Infect Dis 47, 341-344.
+PMID:12967747 ( PubMed abstract )

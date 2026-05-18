@@ -1,0 +1,46 @@
+History of Present Illness
+A man in his twenties from Jordan visited the emergency department (ED) due to gradual onset of diffuse abdominal pain with weight loss over 3 months. He described the pain as colicky and slightly worse on the right side. He was afebrile. Laboratory testing, including complete blood count and liver function tests, were normal and he was discharged with ibuprofen.
+His abdominal pain continued to worsen and he came back to the ED three weeks later. At that time, computed tomography (CT) of abdomen and pelvis showed multiple cystic lesions in his liver and mesentery. A general surgeon reviewed the patient, referred him to infectious diseases clinic and planned a surgical resection of the mesenteric cyst for diagnostic purposes and to avoid the risk of rupture.
+He was seen in ID clinic three weeks later, just prior to his planned surgery and complained of worsening abdominal pain in the last 3 days, inability to lie supine and new night sweats without fever.
+Past Medical History
+None
+Medications
+None
+Epidemiological History
+He was born and raised in the Middle East and moved to United States a few years before this presentation. He was not currently working. He had no significant animal or occupational exposure, no recent travel, and no significant outdoor activities. He was an omnivore but avoided pork.
+Physical Examination
+On examination, his temperature was 37.0ºC, blood pressure 132/58 mmHg, pulse rate 89 beats per minute, respiratory rate 20 breaths per minute. He was not cachectic or icteric but looked uncomfortable due to his abdominal pain. His abdomen was soft and non-distended with generalized tenderness but there was no rebound. He had no organomegaly, palpable masses or skin lesions. His bowel sounds were slightly decreased. He had no palpable lymphadenopathy. The remainder of the examination was normal.
+Studies
+Complete blood count showed mild microcytic anemia [Hb 12.6 g/dL (normal range, 12.9-16.8), MCV 79.3 fl (81.9-97.8)]. There was no leukocytosis, but he had developed a new eosinophilia of 18.2% (0.4-5.8) and a raised CRP of 9.9 (normal < 0.5) and ESR 64 (normal <14). Liver function tests were normal.
+Hepatitis A IgM, IgG, Hepatitis B sAg, cAb, sAb, Hepatitis C Ab, and 4th generation HIV test were all negative. Both QuantiFERON-TB Gold and Echinococcus IgG Ab (enzyme-linked immunosorbent assay reflex to western blot, Quest diagnostics) were negative.
+Chest X-ray showed no significant abnormality. CT abdomen and pelvis with contrast showed cystic lesion in the right hepatic lobe (77x86x 83mm) and caudate lobe (49x58x54mm) (Figure 1a and b). There was a large unilocular thin-walled cystic lesion in the mesentery (67x100x85mm) (Figure 1c, arrow).
+Figure 1. Figure 1a. Coronal section of CT abdomen. Arrows indicate two large hypoechoic liver lesions; the regular walls are consistent with cystic lesions. Also indicated: a large cystic lesion in the small bowel mesentery.
+Figure 2. Figure 1b. Axial section of CT abdomen.
+Figure 3. Figure 1c. Axial section of CT abdomen.
+Clinical Course Prior to Diagnosis
+Cystic Echinococcosis was strongly suspected but the Echinococcus IgG Ab was negative. Oral albendazole was started and the patient was admitted for laparotomy and excision of mesenteric cyst, which he had the next day.
+Diagnostic Procedure(s) and Result(s)
+During the operation, a substantial amount of turbid fluid was noted in the peritoneal cavity upon entry. The ruptured cyst wall was partially removed (some was adherent to the intestinal wall and unable to be removed) and sent for pathology. The abdominal cavity was copiously irrigated with saline.
+The removed cyst wall (Figure 2) consisted of a tan rubbery soft tissue fragment measuring 85x60 mm and ranging from 3 to 6mm with attached fibro-adipose tissue measuring 40x35x6 mm. One surface was tan, smooth and the opposite was hemorrhagic and nodular. Microscopic examination revealed laminated cyst wall and fragments of cyst wall (Figure 3) with granulomatous foreign body reaction, chronic inflammation and fibrosis (Figure 4), consistent with Echinococcal cyst wall.
+Figure 4. Macroscopic picture of ruptured mesenteric cyst
+Figure 5. Microscopic features of the ruptured mesenteric cyst (at low power) demonstrating multiple layers of parasite-derived cyst wall
+Figure 6. Microscopic features of the ruptured mesenteric cyst (at high power)
+Treatment and Followup
+Surgical pathology confirmed the diagnosis of Cystic Echinococcosis ( Echinococcus granulosus ). He was continued on oral albendazole and Puncture-Aspiration–Injection–Reaspiration (PAIR) procedure was done to the right hepatic lobe cyst 4 months later (Figure 5). The other hepatic cyst was too close to the portal vein and deemed unsafe for surgical intervention. Given the incidence of mesenteric cyst rupture and remaining hepatic cyst, the plan is to continue oral albendazole for at least 12 months. His liver cysts demonstrated compromised integrity of the cyst consistent with transitional phase (as per WHO classification [1]) 7-months post-treatment (Figure 6).
+Figure 7. PAIR (Puncture-Aspiration–Injection–Re-aspiration) of the right hepatic lobe cyst via CT guidance
+Figure 8. CT abdomen at 7 months of follow- up demonstrating compromised integrity of the cyst consistent with transitional phase
+Discussion
+Echinococcus granulosus is the most common cause of cystic echinococcosis. The Mediterranean, Central Asia and South America are known to be highly endemic regions [2]. Humans are infected by ingestion of eggs. Positive serology is useful to make a diagnosis, but sensitivity is 80-90% in liver disease and less for other lesions [3]. For this reason, the diagnosis should not be ruled out by a negative serology. The most common sites of infection are liver and lung, however other sites of involvement including the mesentery are reported [4].
+Eosinophilia is uncommon unless the cyst ruptures [5]. In this case, worsening of abdominal pain with new eosinophilia was likely due to recent cyst rupture.
+Final Diagnosis
+Cystic Echinococcosis with mesenteric hydatid cyst
+References
+Brunetti E, Kern P, Vuitton DA, Writing Panel for the WHO-IWGE. Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans. Acta Trop. 2010;114(1):1
+PMID:19931502 ( PubMed abstract )
+Marija Stojkovic, Bruno Gottstein, Thomas Junghanss. Manson's Tropical Diseases 23rd Edition, Saunders Ltd, 795-819, 2013.
+Biava MF, Dao A, Fortier B. Laboratory diagnosis of cystic hydatic disease. World J Surg. 2001;25(1):10-14.
+PMID:11213147 ( PubMed abstract )
+Kushwaha JK, Gupta R, Mohanti S, Kumar S. Primary mesenteric hydatid cyst. BMJ Case Rep. 2012;2012:10.1136.
+PMID:22778458 ( PubMed abstract )
+Prousalidis J, Kosmidis C, Kapoutzis K, Fachantidis E, Harlaftis N, Aletras H. Intrabiliary rupture of hydatid cysts of the liver. Am J Surg. 2009;197(2):193-198
+PMID:18558386 ( PubMed abstract )

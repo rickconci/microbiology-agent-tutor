@@ -1,0 +1,71 @@
+History of Present Illness
+IDSA 2003 Case Submission and Medical Student Curriculum Case Summary: A middle-aged woman with fever, dyspnea and dry cough for ten days.
+A middle-aged woman on immunosuppressive medications had been well until ten days before her presentation when she developed a dry cough and temperatures to greater than 101.5°F (38.6°C) daily . During the week before admission, she had been visiting friends on an island in the United States Northeast ; she reported no insect bites . She had not traveled to any other areas out of her urban community in the year before admission .
+She reported occasional chills and night sweats , without rigors, headache, abdominal pain, diarrhea, dysuria, arthralgias, myalgias or rash. A five-day course of ciprofloxacin was completed on the day of presentation, without improvement. She experienced progressively worsening dyspnea walking short distances and complained of diffuse chest soreness .
+Past Medical History
+had been diagnosed five years earlier. Extensive debridement of skin wounds had been performed. The patient was treated with high doses of corticosteroids, but these had been discontinued four years earlier. She had been maintained on (200 mg daily) for the previous four years. During this time, she suffered . She had received , but none before that. A tuberculosis skin test (PPD) was .
+Medications
+She was taking (200 mg/daily) and ciprofloxacin (500 mg/daily for five days).
+Physical Examination
+The patient was anxious and . The was 102.5°F (39.2°C), 110/60 mm Hg, and 35/minute. A reading on ambient air was 88%, which improved to 94% when the patient’s breathing was supplemented . The conjunctivae were . The oropharynx was without ulcers or . The chest had at the bases. The cardiac exam revealed tachycardia and . The .
+Studies
+The white blood cell count (WBC) was 3,800 cells/mm³ (absolute neutrophil count 2500 cells/mm³). The hemoglobin was normal and the platelet count was 140,000 cells/mm³. The level of aspartate aminotransferase (AST) was 60 U/liter, alanine aminotransferase (ALT) 80 U/liter and lactate dehydrogenase (LDH) was 1500 U/liter. The creatinine was normal. Examination of a smear of the peripheral blood showed no schistocytes and no evidence of malaria, Ehrlichia or Babesia . A chest radiograph is shown in Figure 1 .
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+The patient was treated with ceftriaxone, doxycycline, trimethoprim-sulfamethoxazole and methylprednisolone , and azathioprine was discontinued. A urine sample was assayed for Legionella antigen; a serum test for cryptococcal antigen was sent, and an enzyme-linked immunosorbent assay (ELISA) for human immunodeficiency virus (HIV) was performed.
+Respiratory failure developed. On the second hospital day, mechanical ventilation was begun and bronchoalveolar lavage (BAL) procedure was performed. A BAL fluid specimen showed few white cells; no bacterial pathogens were seen, including Pneumocystis or acid-fast organisms. A test for cytomegalovirus (CMV) antigen and culture were positive and a fungal culture grew Aspergillus fumigatus . Amphotericin B was administered and the other medications were continued .
+The patient’s clinical course was complicated by renal failure, increasing oxygen requirements and the need for vasopressors. Caspofungin was added, and on the 5th hospital day, thoracotomy with a biopsy of lung tissue from the lingula was performed ( Figures 2a and 2b ).
+Figure 2. Biopsy result.
+Figure 3. Detail of Figure 2.
+Diagnostic Procedure(s) and Result(s)
+Blood cultures remained without growth. Testing for HIV antibodies and cryptococcal antigen in the serum, and Legionella antigen in the urine were negative. The lung biopsy stains revealed minimal fibrosis, lymphocytic cell infiltration and hyaline membrane formation. No invasive fungal disease was seen. Special stains showed no microorganisms. The patient developed multisystem organ failure and died on the 11th hospital day. A post-mortem examination was performed. Examination of the trachea and bronchi showed diffuse white patches. The pleural surface was nodular and the lung parenchyma had diffuse patchy nodules (0.2-0.5 cm) with hyperemic borders ( Figures 3 and 4 ).
+Histology of the lung showed microabscesses with Aspergillus ( Figure 5 ). These can be seen under higher power in Figures 6 and 7 . Both hematoxylin and eosin stains and giemsa stains showed evidence of Aspergillus invading and destroying blood vessels ( Figure 8 ).
+Of note, the site of the lung biopsy had few of these nodular lesions. No other examined organ had Aspergillus. Culture of the lung tissue biopsied via thoracotomy ultimately grew Aspergillus fumigatus .
+Figure 4. Post-mortem appearance of lungs.
+Figure 5. Lung nodules.
+Figure 6. Microabscess containing Aspergillus hyphae.
+Figure 7. Microabscess, at higher magnification.
+Figure 8. Giemsa stain showing Aspergillus.
+Figure 9. Destruction of blood vessels in lung tissue.
+Discussion
+Aspergillus is a soil-dwelling, filamentous fungus that is principally acquired by inhalation of airborne spores. Because of their size (2-3 µm), the spores readily reach the terminal alveoli and germinate into hyphae. Hyphae invade lung parenchyma, resulting in thrombosis and bleeding.
+The majority of disease from Aspergillus occurs in patients with prolonged neutropenia, dysfunctional neutrophils, extensive corticosteroid therapy, advanced AIDS, cytotoxic therapy, and in recipients of bone marrow or solid-organ transplants [Denning and Stevens 1990]. Rarely, disease with Aspergillus occurs in patients who lack a clear immunocompromising condition [Karam and Griffin 1986].
+Most patients with invasive pulmonary aspergillosis (IPA) ultimately complain of fever, dyspnea and productive cough. Many patients suffer from chest pain (often pleuritic) and hemoptysis. In its earliest stages however, as many as one-third of patients lack these symptoms, underscoring the importance of maintaining a high index of suspicion for the illness [Denning 1998].
+Diagnosing IPA relies upon clinical data as well as histological and microbiological studies. Findings on chest radiograph are usually abnormal but are nonspecific for IPA. Computed tomography (CT) of the chest may show multiple nodules, sometimes with cavitation. Diffuse lower lobe infiltrates are sometimes seen. Presence of the halo and air-crescent sign is a helpful finding and pleural effusions are rare [Denning 1998, Soubani and Chandrasekar 2002].
+The likelihood of IPA can be rated as definite, probable or possible [Yu et al 1986, Horvath and Dummer 1996]. A definite diagnosis requires the presence of hyphae invading blood vessels, or positive culture from tissue. Probable IPA is based upon an appropriate clinical setting with positive cultures of Aspergillus from sputum, or fluid from bronchoalveolar lavage (BAL). It is not uncommon to be colonized with Aspergillus without having active invasive disease [Perfect et al 2001]. However, patients with leukemia, prolonged neutropenia, and recipients of bone marrow transplants who have fever, pulmonary symptoms, and Aspergillus in sputum, have a very high likelihood of having IPA [Yu et al 1986, Horvath and Dummer 1996, Perfect et al 2001].
+A unique aspect of this case is that the patient did not have classic risk factors for developing IPA. Indeed, she had been taking azathioprine for several years. However, by itself, this drug has not been implicated as a risk for IPA in the absence of neutropenia [Singh et al 1989, Anderson et al 1993]. Presumably, azathioprine impaired the function of her neutrophils.
+The presence of CMV obtained from the BAL fluid is of unclear significance in this case. CMV shedding is common and its presence does not necessarily imply active pneumonitis. However, in certain patients (primarily recipients of transplants), the presence of CMV is associated with disease from Aspergillus [Fortun et al 2002]. It is uncertain what role anti-CMV therapy would have played for this patient.
+Successful treatment of IPA is dependent upon administering prompt and effective anti-fungal therapy and reversing the underlying immunocompromising state [Patterson et al 2000, Pound et al 2002].
+In conclusion, this woman died of overwhelming invasive pulmonary aspergillosis. Despite the paucity of reports linking IPA and azathioprine use, the diagnosis must be considered in patients with pulmonary symptoms who take this medication. Furthermore, although open lung biopsy is important in diagnosing IPA, it does not have 100% sensitivity, and therefore clinical suspicion should guide appropriate empiric therapy.
+Additional discussion points for students:
+1) The state of immunocompetence or immunocompromise is one of the critical branch points in infectious diseases diagnosis. Immunocompromised patients may develop more fulminant disease, are vulnerable to a wider spectrum of pathogens, may fail to show typical inflammatory signs, may present with multiple simultaneous infections, and may be unable to clear infections even with appropriate therapy. As more and more patients are treated with immunosuppressive medicines, it becomes ever more important to be alert to these differences.
+2) In general, immunocompromised patients who are severely ill require a lower threshold for empiric therapy, broader initial empiric therapy, and a quicker tempo to proceed to definitive tissue diagnosis with biopsy of affected tissues.
+3) Another key distinction of which to be aware is that between a positive test (for example by culture) for a pathogen and proof of which pathogens are actually causing the disease. This patient had positive cultures both for CMV and Aspergillus , both of which can cause severe pulmonary disease in immunocompromised patients but both of which can be mere bystanders, surface colonizers in the case of fungi like Aspergillus , and secondary reactivation when the host is under stress for Herpesviruses like CMV. Proof can be challenging, but in general, the idea is to look for signs of invasive disease. Increasingly, clinicians are using serum measurement of fungal biomolecules, such as Aspergillus galactomannan, to help make this distinction.
+4) A general principle of infectious diseases is that for immunocompetent hosts, the vast majority of microbial species usually do not cause significant clinical disease. Rather, immunocompetent hosts typically get sick from the small subset of pathogens possessing highly evolved virulence factors that allow them to evade and thwart host immune defenses, both intrinsic and adaptive. In contrast, immunocompromised hosts become vulnerable to many microbes that are ubiquitous in the environment but not virulent in the absence of immune suppression. Soil fungi like Aspergillus fall into this category. There are intermediate cases where weakly virulent pathogens can become highly virulent when host immune response is weakened. CMV is an example of this phenomenon.
+Final Diagnosis
+Invasive pulmonary aspergillosis with Aspergillus fumigatus .
+References
+Anderson, R.J., Schafer, L.A., Olin, D.B., and Eickhoff, T.C. (1973). Infectious risk factors in the immunosuppressed host. Am J Med 54, 453-460.
+PMID:4572173 ( PubMed abstract )
+Denning, D.W. (1998). Invasive aspergillosis. Clin Infect Dis 26, 781-803; quiz 804-785.
+PMID:9564455 ( PubMed abstract )
+Denning, D.W., and Stevens, D.A. (1990). Antifungal and surgical treatment of invasive aspergillosis: review of 2,121 published cases. Rev Infect Dis 12, 1147-1201.
+PMID:2267490 ( PubMed abstract )
+Fortun, J., Martin-Davila, P., Moreno, S., De Vicente, E., Nuno, J., Candelas, A., Barcena, R., and Garcia, M. (2002). Risk factors for invasive aspergillosis in liver transplant recipients. Liver Transpl 8, 1065-1070.
+PMID:12424722 ( PubMed abstract )
+Horvath, J.A., and Dummer, S. (1996). The use of respiratory-tract cultures in the diagnosis of invasive pulmonary aspergillosis. Am J Med 100, 171-178.
+PMID:8629651 ( PubMed abstract )
+Karam, G.H., and Griffin, F.M., Jr. (1986). Invasive pulmonary aspergillosis in nonimmunocompromised, nonneutropenic hosts. Rev Infect Dis 8, 357-363.
+PMID:3726394 ( PubMed abstract )
+Patterson, T.F., Kirkpatrick, W.R., White, M., Hiemenz, J.W., Wingard, J.R., Dupont, B., Rinaldi, M.G., Stevens, D.A., and Graybill, J.R. (2000). Invasive aspergillosis. Disease spectrum, treatment practices, and outcomes. I3 Aspergillus Study Group. Medicine (Baltimore) 79, 250-260.
+PMID:10941354 ( PubMed abstract )
+Perfect, J.R., Cox, G.M., Lee, J.Y., Kauffman, C.A., de Repentigny, L., Chapman, S.W., Morrison, V.A., Pappas, P., Hiemenz, J.W., and Stevens, D.A. (2001). The impact of culture isolation of Aspergillus species: a hospital-based survey of aspergillosis. Clin Infect Dis 33, 1824-1833.
+PMID:11692293 ( PubMed abstract )
+Pound, M.W., Drew, R.H., and Perfect, J.R. (2002). Recent advances in the epidemiology, prevention, diagnosis, and treatment of fungal pneumonia. Curr Opin Infect Dis 15, 183-194.
+PMID:11964921 ( PubMed abstract )
+Singh, G., Fries, J.F., Spitz, P., and Williams, C.A. (1989). Toxic effects of azathioprine in rheumatoid arthritis. A national post-marketing perspective. Arthritis Rheum 32, 837-843.
+PMID:2751718 ( PubMed abstract )
+Soubani, A.O., and Chandrasekar, P.H. (2002). The clinical spectrum of pulmonary aspergillosis. Chest 121, 1988-1999.
+PMID:12065367 ( PubMed abstract )
+Yu, V.L., Muder, R.R., and Poorsattar, A. (1986). Significance of isolation of Aspergillus from the respiratory tract in diagnosis of invasive pulmonary aspergillosis. Results from a three-year prospective study. Am J Med 81, 249-254.
+PMID:3090879 ( PubMed abstract )

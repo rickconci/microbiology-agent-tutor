@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A man in his forties with a swollen foot.
+A man in his forties had a history of painless swelling around the right malleolus bilaterally and dorsal foot papules, which had begun several years earlier. One year after the onset of symptoms, he noted discharge of clear particles of less than one millimeter in diameter from the papules. There was no history of fever, sweats, anorexia, weight loss or other systemic symptoms. There was no history of trauma.
+The patient had received antimicrobial therapy intermittently, without improvement.
+Past Medical History
+None. Testing for antibodies to human immunodeficiency virus (HIV) had been negative in the recent past.
+Medications
+None.
+Epidemiological History
+The patient had immigrated more than a decade before to the northeastern United States from an island off the western coast of Africa, where he had spent significant time out-of-doors. He lived with his wife and children and worked in an industrial setting. He denied tobacco, alcohol or injection drug use.
+Physical Examination
+The examination revealed edema, multiple papules, and sinus tracts in the right lower pretibial region ( Figure 1 ).
+Figure 1. Plantar surface of foot.
+Studies
+Magnetic resonance imaging (MRI) scanning of the foot is shown in Figures 2 and 3 . An incisional biopsy was performed and sent for staining and cultures.
+Figure 2. MRI scan of the distal lower extremity.
+Figure 3. MRI scan of the distal lower extremity.
+Diagnostic Procedure(s) and Result(s)
+Histopathological examination of the biopsy demonstrated a non-pigmented fungal form with septated hyphae that was consistent with eumycetoma (Madura foot). Based on the appearance of the fungal forms, the possible pathogens included Acremonium spp., Fusarium spp., and Pseudallescheria boydii .
+Initial cultures were negative. A sample was sent to the mycology branch of the Center for Disease Control, which grew Acremonium falciforme .
+Treatment and Followup
+Initially, oral itraconazole (200 mg) was administered twice daily, but was changed to voriconazole (200 mg) twice daily due to persistent swelling of the right lower extremity and intermittent discharge. The symptoms gradually improved. Six weeks after initiating voriconazole, the affected lower extremity demonstrated decreased swelling and no active discharge, with crusting of many of the papules. (See Figure 4 .)
+Figure 4. Physical findings after therapy.
+Discussion
+Mycetoma is a chronic, localized, and progressive infection that most commonly occurs on the foot. It begins in the subcutaneous tissue, often spreading to adjacent structures including the bone. Multiple sinus tracts may develop and discharge purulent material that is embedded with grains of either aerobic actinomycetes (actinomycetoma) or fungi (eumycetoma). The agents causing Madura foot are usually present in the soil. In the initial phase of the infection and after a breach in the skin has lead to the inoculation of the offending microbe, a small, painless papule may appear. Swelling occurs slowly and progressively; infection by actinomycetes generally causes more rapid swelling than that seen with fungal infection. After several months, sinus tracts may appear and discharge suppurative grains. The grains may be black, white, yellow, red, or clear depending on causative organism. Cycles of swelling, suppuration, and scarring may then begin.
+Infections occur in nearly a 4:1 ratio of male-to-female patients. Those with mycetoma are most commonly between the ages of 20-40 years, but the infection can occur at any age. The diagnosis of mycetoma and Madura foot should be considered when the triad of lower extremity swelling, sinus tracts, and discharge composed of grains is seen in a patient from a mycetoma endemic region. Choice of medical therapy will depend on whether the lesion is a eumycetoma or actinomycetoma. Newer broad spectrum triazoles should be considered for the eumycetoma group.
+Final Diagnosis
+Eumycetoma (Madura foot) due to Acremonium falciforme .
+References
+Lee, M.W., Kim, J.C., Choi, J.S., Kim, K.H., and Greer, D.L. (1995). Mycetoma caused by Acremonium falciforme: successful treatment with itraconazole. J Am Acad Dermatol 32, 897-900.
+PMID:7722053 ( PubMed abstract )
+Welsh, O., Vera-Cabrera, L., and Salinas-Carmona, M.C. (2007). Mycetoma. Clin Dermatol 25, 195-202.
+PMID:17350499 ( PubMed abstract )

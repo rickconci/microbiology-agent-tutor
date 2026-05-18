@@ -1,0 +1,44 @@
+History of Present Illness
+2010 November-December Featured Case and 2010 IDSA Fellows' Day Case Presentation Summary: A woman with congestive heart failure and cough, decades after heart transplantation.
+A woman in her thirties, more than 2 decades after heart transplantation, was admitted to a hospital in mid-winter because of respiratory symptoms and signs of congestive heart failure. One week before admission, upper respiratory symptoms, including rhinorrhea, sinus fullness and sore throat, developed. She also had cough productive of white sputum, which was more severe than that associated with previous heart failure exacerbations. She reported no fever, chills or night sweats and knew of no specific sick contacts.
+Past Medical History
+She had a history of familial dilated cardiomyopathy; heart transplantation had occurred more than 2 decades before, and had been complicated by restrictive cardiomyopathy. She reported adherence with her immunosuppressive regimen. She also had chronic renal insufficiency caused by calcineurin inhibitor toxicity.
+Medications
+Medications on admission included prednisone (2 mg twice daily), cyclosporine (75 mg twice daily), aspirin (81 mg daily), captopril (7.5 mg, divided doses), and furosemide.
+Social History
+She lived with her husband in a Mid-Atlantic state, and worked in the medical profession.
+Epidemiological History
+She did not smoke, drink alcohol or use illicit drugs, and had no recent foreign travel.
+Physical Examination
+The temperature was 96.5°F (35.8°C), blood pressure 133/79 mg Hg, pulse 95 beats per minute, respirations 18 breaths per minute and oxygen saturation 98% while breathing ambient air. There were scattered crackles in the lung fields and decreased breath sounds at the bases. Trace edema was present at the ankles, and the remainder of the examination was normal.
+Studies
+The level of white cells was 8,900/mm³ (reference range 4,000 - 11,000), hematocrit 35.5% (ref. 36–45, in women), and platelets 183,000/mm³ (ref. 150,000 - 450,000). The serum level of creatinine was 2.5 mg/dL (ref. 0.4–1.3). Other routine screening testing was normal.
+Chest radiographs on admission are shown in Figures 1 and 2 .
+Figure 1. Chest radiograph.
+Figure 2. Lateral view of chest.
+Clinical Course Prior to Diagnosis
+Intravenous furosemide (160 mg twice daily) for congestive heart failure and ceftriaxone (1 gm daily) and oral azithromycin (500 mg daily) were administered empirically for presumptive community-acquired pneumonia. Diuresis occurred; however, the cough persisted.
+Testing of a nasopharyngeal aspirate for respiratory viruses was negative, and cultures of the blood and sputum, obtained on admission, demonstrated no growth on the 3rd hospital day.
+Diagnostic Procedure(s) and Result(s)
+Polymerase chain reaction (PCR) testing of a nasopharyngeal swab specimen was positive for Bordetella pertussis ; culture was negative.
+Treatment and Followup
+Azithromycin (500 mg once, followed by 250 mg daily for 4 days) was administered, with minimal improvement in cough, and prophylaxis treatment with azithromycin was provided to her asymptomatic contacts.
+Discussion
+Bordetella pertussis is a highly contagious gram-negative coccobacillus responsible for the respiratory illness known as whooping cough. Bordetella has an unusually long incubation period of 1-3 weeks; most respiratory viruses such as influenza have incubation periods of 24-72 hours [Hewlett 2005]. This organism is fastidious in culture, and has proven difficult to recover in cultures from immunized hosts. Vaccination has markedly decreased the morbidity of this illness, however it continues to be a significant and often overlooked pathogen, particularly in adults [Dworkin 2005].
+The classic clinical syndrome of whooping cough consists of three symptomatic periods. The catarrhal phase lasts 7-10 days and consists of upper respiratory symptoms indistinguishable from the common cold. The paroxysmal phase lasts 1-10 weeks and is defined by paroxysms of coughing that can be quite severe. Post-tussive vomiting is not uncommon during this period and should always warrant evaluation for Bordetella infection [Cornia 2010]. This is followed by the convalescent phase, which lasts weeks to months and is characterized by persistent cough that gradually decreases in severity. Immunocompetent hosts are thought to be contagious three weeks after onset of cough or four weeks after the onset of any symptoms [Crowcroft 2006].
+The introduction of a vaccine to Bordetella in the 1940s dramatically changed the epidemiology of this pathogen. In the pre-vaccine era, young children with waning maternal antibodies were at risk of acute infection. Adults maintained immunity after childhood infection and received natural boosting of this immunity through recurrent exposure in the population. In the vaccine era (1940s to present), children are no longer at risk due to serial immunization in the first months of life. Adolescents and adults are increasingly at risk as their vaccine immunity wanes, as are infants who do not receive maternal antibodies [Hewlett 2005]. Mortality is highest in infants and young children, which likely explains the mortality benefit of vaccination. This also is likely the reason that most clinicians perceive Bordetella to be a pathogen of childhood, and often overlook this diagnosis in adults [Dworkin 2005].
+In regard to diagnosis, culture and PCR are both commercially available. Culture is considered the gold standard, however PCR from a naso-pharyngeal swab can detect fewer than 10 organisms including non-viable organisms, and can distinguishes between B. pertussis, B. parapertussis and B. bronchiseptica [Cornia 2010]. B. parapertussis can cause a pertussis-like syndrome, and B. bronchiseptica can cause respiratory disease in immune compromised patients.
+At the time of this publication, macrolides or trimethoprim-sulfamethoxazole are recommended antibiotics for patients diagnosed with whooping cough. While antibiotics serve to clear the organism and prevent transmission, it is unclear that they shorten the duration or severity of illness after the first week of infection. Asymptomatic contacts are treated with same regimen [Cornia 2010]. Primary vaccination is recommended in infants with the diphtheria-pertussis (DTaP) vaccine at months 2, 4, 6 and 18, followed by booster doses at years 6 and 12. A single adult booster vaccine (Tdap) is recommended between the ages of 19-64 [MMWR 2010].
+Final Diagnosis
+Whooping cough caused by Bordetella pertussis infection in an immune-compromised host, status post heart transplantation.
+References
+(2010). Tetanus and pertussis vaccination coverage among adults aged >/= 18 years --- United States, 1999 and 2008. MMWR Morb Mortal Wkly Rep 59, 1302-1306.
+PMID:20948508 ( PubMed abstract )
+Cornia, P.B., Hersh, A.L., Lipsky, B.A., Newman, T.B., and Gonzales, R. (2010). Does this coughing adolescent or adult patient have pertussis? JAMA 304, 890-896.
+PMID:20736473 ( PubMed abstract )
+Crowcroft, N.S., and Pebody, R.G. (2006). Recent developments in pertussis. Lancet 367, 1926-1936.
+PMID:16765762 ( PubMed abstract )
+Dworkin, M.S. (2005). Adults are whooping, but are internists listening? Ann Intern Med 142, 832-835
+PMID:15897533 ( PubMed abstract )
+Hewlett, E.L., and Edwards, K.M. (2005). Clinical practice. Pertussis--not just for kids. N Engl J Med 352, 1215-1222
+PMID:15788498 ( PubMed abstract )

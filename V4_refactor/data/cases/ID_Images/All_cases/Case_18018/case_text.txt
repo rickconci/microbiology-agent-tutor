@@ -1,0 +1,76 @@
+History of Present Illness
+A woman in her thirties with diabetes and psychiatric disease was admitted to an inpatient ward in a general hospital in Lima, Peru with five days of crampy and generalized abdominal pain, loss of appetite, nausea and vomiting. She was noted to be drowsy for two days and developed persistent vomiting. She denied any fevers, dysuria and urinary frequency. She was brought to the hospital by her mother due to the persistence of symptoms and inability to tolerate her usual medications.
+Past Medical History
+She has a history of admissions to psychiatric centers for psychiatric disease.
+Medications
+Metformin, Valproic acid, Risperidone, Clonazepam
+Physical Examination
+The patient looked unwell and pale. Her skin was dry. Her vital signs were: BP 120/70 mmHg, pulse rate 98 bpm, respiratory rate 22 bpm, temperature 37°C (98.6°F), and oxygen saturation 95% at room air. She had cool extremities. There was no rash. She was tender in the hypogastric area and right hypochondriac and right renal angle. There were no masses and Murphy’s sign was negative.
+On neurological assessment, she was drowsy and disoriented to time and place. The remainder of the physical exam was unremarkable.
+Studies
+White blood cell count (WBC): 15,300 cells/mL (reference range 4000-10,000) with neutrophils 76% and 5% bands; hemoglobin: 9 g/dL, blood glucose: 1,050 mg/dL (reference range 70-110 mg/dL), sodium 135 mEq/dL (reference range 135-145), potassium 4.1 mEq/dL (reference range 3.5-4.5), chloride 89 mEq/mL (reference range 87-110), urea: 28 mg/dL (reference range 10-45), serum creatinine: 1.0 mg/dL (reference range 10-45), plasma osmolarity: 330 mOsm/Kg, amylase: 36 U/L (reference range 30-60), lipase: 386 U/L (reference range 30-90). Arterial blood gas was normal.
+Her urine dipstick was positive for leucocytes (Figure 1). Urinalysis showed >100 leukocytes/hpf, 2 – 3 RBCs/hpf, bacteria ++. Blood cultures were negative. Urine culture grew more than 100,000 colony forming units of Pseudomonas aeruginosa .
+The chest radiograph showed no pulmonary infiltrates or effusion. Renal ultrasound: kidneys with parenchymal inflammatory process in both kidneys and preserved cortical thickness, no stones or urolithiasis were found.
+Figure 1. Figure 1: Urine dipstick
+Clinical Course Prior to Diagnosis
+The patient was treated for a hyperglycemic hyperosmolar state based on laboratory findings with the possibility of pyelonephritis as the triggering factor. Empirical therapy with Ceftriaxone 2 grams daily was started. Her fevers persisted over the next five days and her WBC continued to rise, thus, this was changed to Meropenem 1 gram every 8 hours.
+Diagnostic Procedure(s) and Result(s)
+Susceptibility testing using disk diffusion showed resistance to antipseudomonal penicillins and cephalosporins, carbapenems, aminoglycosides and fluoroquinolones (Table 1). A double disk diffusion assay using Imipenem plus EDTA suggested the presence of a metallo-beta-lactamase (MBL) (Figure 2).
+Piperacillin/Tazobactam
+R
+Ceftazidime
+R
+Cefepime
+R
+Imipenem
+R
+Meropenem
+R
+Amikacin
+R
+Gentamicin
+R
+Ciprofloxacin
+R
+Levofloxacin
+R
+Table 1: Antibiogram by disk diffusion
+Figure 2. Figure 2: Double disk synergy test and combined-disk test with Imipenem alone (A) and with EDTA disk tests (B). The picture shows a combined disk test that uses the disk of imipenem alone (IMP) and the disk of imipenem plus EDTA (IMP-EDTA). An enhanced inhibition zone of more than 7 mm around IMP + EDTA is seen when a metallo-beta-lactamase is present.
+Treatment and Followup
+The full antibiogram demonstrating meropenem resistance became available two days after the commencement of meropenem by which time she had improved with resolution of her fevers and normalization of her WBC. Meropenem was continued for 10 days and she recovered completely.
+Discussion
+Pseudomonas aeruginosa is a common gram-negative pathogen associated with nosocomial infections. Over the last two decades, multi-drug resistant (MDR) P. aeruginosa has become a problem, particularly the strains that produce MBLs (1). There have been several reports of outbreaks of (MDR) P. aeruginosa isolated from urine but the appropriate therapeutic regimen to combat infection with the organism have not been well established (1,2).
+Risk factors associated with MBL-producing P. aeruginosa infections are insertion of ureteral stent; urologic diseases; end stage renal disease; female sex; advanced age (>60 years); previous beta-lactam, fluoroquinolone or carbapenem use; diabetes; previous hospitalization, and admission into an intensive care unit. (3, 4) Her multiple admissions to a psychiatric care facility may have played a role in the development of this event. (4) Eveillard et al. reported that the main multiple-drug resistant bacteria in psychiatric facilities were methicillin-resistant Staphylococcus aureus, followed P. aeruginosa , where patient-to-patient transmission was suspected (5).
+One of the emergent problems in nosocomial transmission of P. aeruginosa infection is the transference of plasmids including MBLs (6). In Peru, the knowledge of the molecular epidemiology of these multidrug- resistant microorganisms is scarce. However, in one local study it was found that the most frequent mechanism of resistance to carbapenems among Pseudomonas was the production of MBLs (7,8).
+We highlight the potential utility of a phenotypic method for the presumptive identification of MBL’s in P. aeruginosa . This test relies on combination disk testing using Imipenem and EDTA disks and is easy to perform and accessible. It shows a sensitivity of close to 93% and specificity of 100% in comparison with PCR (9). It should be noted, however, that this method is not endorsed by Clinical and Laboratory Standards Institute (CLSI) or the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for the detection of MBL. The reference methods such as PCR are not systematically applied to characterize MBL-producers in our setting, due to their high cost (10). We implemented these alternative techniques in our setting to enable antibiotic stewardship and reduce nosocomial transmission (10, 11).
+These pathogens leave us with scarce options for treatment. Current guidelines recommend the use of high dose carbapenems or colistin, fosfomycin, tigecycline or aminoglycosides, depending on the organism’s susceptibility (12).
+The new beta-lactam with beta-lactamase combinations, like ceftolozane/tazobactam, ceftazidime/avibactam and meropenem/vaborbactam, are not active against MBL but may be active against strains of Pseudomonas spp. that harbor other resistance mechanisms. (13, 14) Ceftolozane-tazobactam is the only combination available in Peru. It is not affordable by many of our patients and it is not available at our hospital.
+In the present case, MIC quantification for carbapenems was not performed and the patient presented significant improvement only with the use of high doses of Meropenem.
+Final Diagnosis
+Pyelonephritis caused by metallo-beta-lactamases producing Pseudomonas aeruginosa
+References
+Takeyama K, Kunishima Y. Multidrug-resistant Pseudomonas aeruginosa isolated from the urine of patients with urinary tract infection. J Infect Chemother. 2002 Mar;8(1):59-63.
+PMID:11957121 ( PubMed abstract )
+Senda K, Arakawa Y, Nakashima K, Ito H, Ichiyama S, Shimokata K, et al. Multifocal Outbreaks of metallo-beta-lactamase-producing Pseudomonas aeruginosa resistant to broad-spectrum -lactams, including carbapenems. Antimicrob Agents Chemother 1996;40: 349–53.
+PMID:8834878 ( PubMed abstract )
+Pinheiro-Freire M, Mendes CV, Piovesan AC, Jota de Paula F, Spadao F, et al. Does the urinary tract infection caused by carbapenem-resistant Gram-negative bacilli impart the outcome of kidney transplant recipients? Transpl Infect Dis. 2018, e12923. doi: 10.1111/tid.12923.
+PMID:29797681 ( PubMed abstract )
+Zavascki AP, Barth AL, Gaspareto PB, Gonçalves AL, Moro AL, Fernandes JF, et al. Risk factors for nosocomial infections due to Pseudomonas aeruginosa producing metallo- beta-lactamase in two tertiary-care teaching hospitals. J Antimicrob Chemother. 2006Oct;58(4):882-5.
+PMID:16895936 ( PubMed abstract )
+Eveillard M, Manuel C, Gabastou JM, Caer M, Mounier M, Bourlioux P. Multidrug- resistant bacteria in a psychiatric milieu. Pathol Biol (Paris). 1999;47(10):1075-9.
+PMID:10674262 ( PubMed abstract )
+Nicolau CJ, Oliver A. Carbapenemasas en especies del género Pseudomonas. Enferm Infecc Microbiol Clin 2010:28(Sup 1): 19-28. https://doi.org/10.1016/S0213-005X(10)70004-5
+Resurrección-Delgado Cristhian, Montenegro-Idrogo Juan José, Chiappe-Gonzalez Alfredo, Vargas-Gonzales Renzo, Cucho-Espinoza Carolina. Klebsiella pneumoniae Nueva Delhi metalo-betalactamasa en el Hospital Nacional Dos de Mayo: Lima, Perú. Rev. Perú. Med. Exp. Salud Pública. 2017; 34(2): 261-267.
+PMID:29177386 ( PubMed abstract )
+Rosy M. Gastelo-Acosta1, Roberto S. Díaz-Sipión2, Ciro Maguiña Vargas. Carbapenemases in non-fermenting Gram-negative bacteria isolated in critical care services from the Lambayeque Regional Hospital, December 2014 - July 2015. Acta Medica Peru vol.33 n.3 Set 2016. .
+Wafaa Ahmed EL-Shafei EL-Mosallamy, Ahmed Saied Osman, Hala Abd ELMageed Tabl and AL-Shaimaa Mahmood AL-Tabbakh Phenotypic and Genotypic Methods for Detection of MetalloBeta-Lactamase (MßL) Producing Pseudomonas Aeruginosa. Egyptian Journal of Medical Microbiology Volume 24 / No. 3 / July 2015 27-35.
+Centers for Disease Control and Prevention (CDC). Guidance for control of infections with carbapenem-resistant or carbapenemase-producing Enterobacteriaceae in acute care facilities. MMWR Morb Mortal Wkly Rep 2009; 58(10):256-60.
+PMID:19300408 ( PubMed abstract )
+Arunagiri, K., Sekar, B., Sangeetha, G. & John, J. (2012). Detection and characterization of metallo-ß-lactamases in Pseudomonas aeruginosa by phenotypic and molecular methods from clinical samples in a tertiary care Hospital. West Indian Medical Journal, 61, 779-783.
+PMID:23757897 ( PubMed abstract )
+Treatment options for New Delhi metallo-beta-lactamase-harboring enterobacteriaceae. Rogers BA, Sidjabat HE, Silvey A, Anderson TL, Perera S, Li J, Paterson DL. Microb Drug Resist. 2013 Apr; 19(2):100-3. Epub 2013 Jan 18
+PMID:23330550 ( PubMed abstract )
+Grupper M, Sutherland C, Nicolau DP. Multicenter evaluation of Ceftazidime/Avibactam and Ceftolozane/Tazobactam inhibitory activity against Meropenem-non-susceptible Pseudomonas aeruginosa from Blood, Respiratory Tract, and Wounds. Antimicrob Agents Chemother. 2017;61(10).
+PMID:28739780 ( PubMed abstract )
+Munita JM, Aitken SL, Miller WR, Perez F, Rosa R, et al. Multicenter Evaluation of Ceftolozane/Tazobactam for Serious Infections caused by Carbapenem-Resistant Pseudomonas aeruginosa. Clin Infect Dis. 2017;65(1):158-161.
+PMID:28329350 ( PubMed abstract )

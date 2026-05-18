@@ -1,0 +1,47 @@
+History of Present Illness
+2008 February Featured Case Summary: An elderly woman with pain in the right shoulder and skin changes of the left forearm five weeks after surgery on the left arm.
+A woman in her seventies with diabetes mellitus and chronic renal failure was admitted to the hospital because of severe right shoulder pain and skin changes over an arteriovenous (A-V) fistula on the left forearm. Five weeks before admission, the A-V fistula had been surgically created, and the immediate post-operative period had been without complication.
+One week before presentation, left arm pain and swelling developed, associated with blistering at the surgical site. Two days later, on awakening, the patient noted pain in the right shoulder, and limitation of movement developed. There was no history of trauma to the joint, fevers, chills, diaphoresis, headache, neck stiffness, chest or back pain, palpitations, nausea, vomiting, abdominal pain, or other joint pain. The next day, four days before admission, she was seen in the emergency room of another hospital, and given pain medications. The pain increased in intensity, and she was brought to the hospital for evaluation.
+Past Medical History
+There was a history of diabetes mellitus, end stage renal disease, coronary artery and peripheral vascular disease, hyperlipidemia and hypertension.
+Medications
+Medications on admission that were taken daily included aspirin 81 mg, amlodipine, metoprolol, atorvastatin, NPH insulin, pantoprazole, and polysaccharide-iron complex. Calcium acetate was administered three times daily, furosemide twice daily, calcitriol every other day, and epoetin alfa subcutaneously twice weekly..
+Allergies
+She was allergic to hydralazine, which had caused hives.
+Social History
+She lived with her daughter.
+Epidemiological History
+She lived in a wooded area. There were several pets in the home (two small dogs and a cat), with which she played and that licked her hands. She had smoked cigarettes, and did not drink alcohol or use illicit drugs. She denied travel to other countries or known exposure to tuberculosis.
+Physical Examination
+The patient appeared frail. The temperature was 98.6°F (37.0°C), pulse 65 beats per minute, blood pressure 150/67 mm Hg, respirations 20 breaths per minute and oxygen saturation 96% while breathing 2 liters of oxygen by nasal cannula. Auscultation of the heart revealed a normal S1 and S2 heart sounds with a 3 of 6 systolic ejection murmur at the right upper sternal border. Palpation of an implantable cardioverter-defibrillator (ICD) revealed no tenderness or overlying erythema. There were rare basilar crackles heard in the lungs. The left arm was swollen and large blisters were noted over the arteriovenous graft site; a thrill was present. Clear discharge emanated from the blisters; there was no erythema or increased warmth. Multiple ecchymoses were seen on the right arm and the right shoulder was tender to palpation anteriorly and posteriorly. Severe pain in the shoulder with motion and fluctuance of the soft tissue, consistent with an anterior shoulder effusion, were noted; there was no increased warmth. The legs demonstrated trace edema and hyperpigmentation consistent with venous stasis changes.
+Studies
+The white cell count of the blood was 11,900 cells per cubic millimeters, hematocrit 29.6%, mean corpuscular volume 98 cubic microliters, and platelets 201,000 per cubic millimeters. The prothrombin time was 13.8 seconds, INR 1.2, and partial thromboplastin time 33.4 seconds. The level of plasma sodium was 130 mmol/l, potassium 4.1 mmol/l, chloride 93 mmol/l and carbon dioxide 93 mEq/l; urea nitrogen was 114 mg/dl and creatinine 6.8 mg/dl, glucose 184 mg/dl, calcium 9.0 mg/dl and phosphorus 6.3 mg/dl.
+A radiograph of the right shoulder revealed progressive erosion and degenerative changes of the humeral joint. Computed tomography (CT) of the right shoulder, shown in Figures 1 and 2 , revealed a fluid collection around the shoulder joint that extended down into the triceps.
+Figure 1. CT of right shoulder.
+Figure 2. CT of right shoulder.
+Clinical Course Prior to Diagnosis
+Cultures of the blood were sent, after which vancomycin and gentamicin were administered empirically. On the 2nd hospital day, a right internal jugular dialysis catheter was placed. Two days later, the blood cultures remained sterile. The right shoulder joint was aspirated; examination of the aspirate revealed 200,000 white cells per cubic millimeter with 94% polymorphonuclear cells. A gram stain of the aspirate is shown in Figure 3 .
+Irrigation and debridement of the shoulder joint was performed intraoperatively. Pathological examination of the tissue demonstrated inflammatory tissue without frank purulence. On the 4th hospital day, ultrasonography of the left forearm revealed an abscess, which was drained, and 10 cubic centimeters of purulent fluid was evacuated.
+Figure 3. Gram stain of aspirate.
+Diagnostic Procedure(s) and Result(s)
+The gram stain of the aspirate revealed numerous leukocytes and one cluster of gram-negative bacilli (Figure 4, with arrow). Culture of the organism grew Pasteurella multocida , shown in Figures 5 and 6.
+Figure 4. Gram stain of aspirate with organisms (arrows).
+Figure 5. Culture plate of aspirate.
+Figure 6. Gram stain of culture growth.
+Treatment and Followup
+Antimicrobial therapy was changed to intravenous ceftazidime. Several days after the initiation of therapy, erythema and fluctuance developed in the left hand. Incision and drainage of the site yielded clear fluid, which contained no detectable leukocytes. There were no organisms seen on gram stain and aerobic culture remained sterile. Subsequently, she demonstrated steady clinical improvement, with resolution of pain in the right shoulder. She completed a total of six weeks of antimicrobial therapy and has remained well since.
+Discussion
+Pasteurella multocida is a facultatively anaerobic, gram-negative coccobacillus that is known to cause skin and soft tissue infections following cat and dog bites. The genus was first characterized by Pasteur in 1880. Pasteurella grows readily on sheep blood and chocolate agar media. The colonies appear watery and mucoid with a smooth, iridescent blue character [Zurlo 2005].
+The organism inhabits the oral cavity and gastrointestinal tract of a wide variety of animals, with particularly high levels of colonization in cats. Pasteurella may also colonize the respiratory tract of humans. Its distribution is worldwide [Zurlo 2005].
+Human infection with Pasteurella commonly manifests as cellulitis or soft tissue abscess following an animal bite or other animal contact [Zurlo 2005, Octavio et al 2001], including the licking of open wounds. Localized signs of infection typically develop within 24 hours, and may be associated with regional lymphadenopathy. Fever is present in only 20% of cases [Zurlo 2005].
+Though rare, other reported manifestations of P. multocida infection include septic arthritis and osteomyelitis; bacteremia and endocarditis; upper and lower respiratory tract infections; and intra-abdominal infections. In a literature review of 14 cases of Pasteurella septic arthritis, half were associated with animal bites, approximately one-third involved animal exposure without known bites or scratches, and in two cases there was no animal exposure. Infection commonly involved joints affected by rheumatoid arthritis, osteoarthritis, or joint prosthesis [Ewing et al 1980].
+As of this writing, penicillin remains the drug of choice for the treatment of Pasteurella infection. Ampicillin and amoxicillin are also effective, whereas the antistaphylococcal penicillins (oxacillin, dicloxacillin) have less in vitro activity and should be avoided. Second and third generation cephalosporins have excellent activity. Of note, beta-lactamase producing strains have been reported.
+For penicillin-allergic individuals, treatment with fluoroquinolones, trimethoprim-sulfamethoxazole, and tetracyclines may be considered. Aminoglycosides are not recommended for treatment of P. multocida infections [Zurlo 2005].
+Final Diagnosis
+Septic arthritis of the right shoulder and soft tissue infection of the left forearm caused by Pasteurella multocida .
+References
+Ewing, R., Fainstein, V., Musher, D.M., Lidsky, M., and Clarridge, J. (1980). Articular and skeletal infections caused by Pasteurella multocida. South Med J 73, 1349-1352.
+PMID:7434048 ( PubMed abstract )
+Octavio, J., Rosenberg, W., and Conte, J.E., Jr. (2001). Surgical-wound infection with Pasteurella multocida from pet dogs. N Engl J Med 345, 549.
+PMID:11519523 ( PubMed abstract )
+Zurlo JJ, Mandell GL, Bennett JE, Dolin R. "Chapter 225: Pasteurella species." Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 2687-2690

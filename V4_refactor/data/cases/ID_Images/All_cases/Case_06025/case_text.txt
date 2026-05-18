@@ -1,0 +1,41 @@
+History of Present Illness
+Summary: A woman presented with a rash, one year after cardiac transplantation surgery.
+A woman in her sixties experienced epigastric pain, and several days later developed a diffuse rash. One year before presentation, she had received a heart transplant.
+Past Medical History
+She had had a heart transplant one year earlier. In the intervening year, she had had several episodes of rejection that were treated with short courses of steroids.
+Medications
+Medications included mycophenolate (500 mg twice daily), tacrolimus (1 gram twice daily), and prednisone (7.5 mg daily).
+Physical Examination
+The patient was afebrile and the vital signs were normal. There was right upper quadrant tenderness. The oral mucosa showed several white plaques and there was a diffuse vesicular eruption of the skin ( Figures 1 through 4 ). The remainder of the examination was normal.
+Figure 1. Findings on the oropharynx.
+Figure 2. Detail of the palate.
+Figure 3. Skin lesions.
+Figure 4. Skin lesions on the abdomen.
+Studies
+The levels of aspartate aminotransferase and alanine aminotransferase were twice the upper limits of the normal reference ranges; other routine laboratory test results were normal. Blood cultures were negative. Serum testing for cytomegalovirus antigen was negative. A chest radiograph did not show an acute cardiopulmonary process. An abdominal ultrasound revealed mild intrahepatic biliary dilatation.
+Clinical Course Prior to Diagnosis
+Esophagogastroduodenoscopy (EGD) showed raised lesions with underlying ulcers that had clean bases ( Figure 5 ). Colonoscopic evaluation revealed scattered superficial ulcers ( Figures 6 and 7 ).
+Figure 5. Findings on esophagoscopy.
+Figure 6. Findings on colonoscopy.
+Figure 7. Findings on colonoscopy.
+Diagnostic Procedure(s) and Result(s)
+Testing of a skin biopsy sample for varicella zoster virus (VZV) direct fluorescent antibody (DFA) was positive. A viral culture of an esophageal biopsy was also positive for VZV, and immunohistochemical staining for cytomegalovirus (CMV) and herpes simplex virus-1 and -2 (HSV-1 and HSV-2) were negative. Examination of the patient's previous laboratory testing for VZV antibody revealed a borderline immunoglobulin G result.
+Treatment and Followup
+Intravenous acyclovir was administered and the skin lesions crusted over during the following two weeks.
+Discussion
+The skin lesions shown above are typical for varicella zoster virus (VZV) infection, and are often described as a ‘dew drop on a rose petal’. Immunosuppression is known to be a predisposing factor to disseminated VZV infection. The elevated levels of aminotransferases are characteristic of hepatic involvement in the setting of disseminated VZV infection, and may be seen in immunosuppressed hosts (Fehr et al 2002). The observed esophageal and colonic involvement are less common manifestations of disseminated VZV infection, and while esophageal involvement has been described with VZV infection (Johnson 1940; Miliauskas and Webber 1984; Smith et al 2002; Laun and Venkatesan 2002), colonic involvement is more rarely seen (Okimura et al 1996).
+The diagnosis of disseminated VZV infection was important to have made expeditiously both for this patient and for any persons involved in her care who were not immune to VZV.
+Final Diagnosis
+Disseminated varicella zoster virus (VZV) disease, one year after cardiac transplantation.
+References
+Fehr, T., Bossart, W., Wahl, C., and Binswanger, U. (2002). Disseminated varicella infection in adult renal allograft recipients: four cases and a review of the literature. Transplantation 73, 608-611.
+PMID:11889440 ( PubMed abstract )
+Johnson H. Archives of Pathology. 1940 30:292.
+Lawn, S.D., and Venkatesan, P. (2002). Chickenpox oesophagitis and haematemesis in an immunocompetent adult. J Infect 44, 206.
+PMID:12099756 ( PubMed abstract )
+Miliauskas, J.R., and Webber, B.L. (1984). Disseminated varicella at autopsy in children with cancer. Cancer 53, 1518-1525.
+PMID:6321008 ( PubMed abstract )
+Okimura, H., Muto, M., Ichimiya, M., Mogami, S., Takahata, H., and Asagami, C. (1996). A case of herpes zoster associated with colitis. J Dermatol 23, 631-634.
+PMID:8916665 ( PubMed abstract )
+Smith, P.D., Eisner, M.S., Manischewitz, J.F., Gill, V.J., Masur, H., and Fox, C.F. (1993). Esophageal disease in AIDS is associated with pathologic processes rather than mucosal human immunodeficiency virus type 1. J Infect Dis 167, 547-552.
+PMID:8440925 ( PubMed abstract )

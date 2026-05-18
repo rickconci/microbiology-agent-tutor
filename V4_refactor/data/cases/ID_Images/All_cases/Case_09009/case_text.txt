@@ -1,0 +1,53 @@
+History of Present Illness
+2009 September Featured Case and Medical Student Curriculum Case Summary: A man in his sixties with fever and dyspnea following smoke inhalation, 5 months after heart-kidney transplantation.
+A man in his sixties, seen for routine follow-up 5 months after heart and kidney transplantation, reported fever and increasing dyspnea of approximately 6 days’ duration. Six days earlier, his temperature had risen to 100.0°F (37.8°C). The following day, he had mild smoke exposure due to a neighborhood fire; mild shortness of breath developed, with cough, productive of scant blood-tinged sputum. He had reduced exercise tolerance and increasing dyspnea on exertion. He was seen for routine follow-up in the cardiac transplantation clinic.
+Past Medical History
+There was a history of ischemic cardiomyopathy, heart failure and chronic renal failure, for which he had undergone heart and kidney transplantation 5 months before. There was no evidence of rejection on follow-up endomyocardial biopsies. He also had chronic anemia, diabetes mellitus (on insulin), and had had Clostridium difficile colitis 5 months before, which was treated with oral vancomycin. A Mantoux skin test for tuberculosis had been negative the previous year before the transplant.
+Medications
+Medications included azathioprine (100 mg daily), tacrolimus (0.5 mg at night), prednisone 7.5 mg daily, trimethoprim-sulfamethoxazole, valganciclovir prophylaxis (450 mg daily), insulin, levothyroxine, amlodipine, omeprazole, metoprolol, latanoprost, multivitamins, and calcium citrate.
+Allergies
+He was allergic to penicillins (rash).
+Social History
+The patient was married and retired.
+Epidemiological History
+He lived in an urban area, and had not traveled recently. He was without known asbestos exposure, but had previously worked in a field in which asbestos exposure may have occurred. He owned a dog, which was healthy. He had smoked cigarettes in the past, and stopped more than 20 years earlier.
+Physical Examination
+He was alert and comfortable. The vital signs were normal. There was good excursion of the diaphragm, with no dullness to percussion or increased fremitus. The breath sounds were slightly increased over the right upper lung field and there were minimal crackles in both bases, without wheezes. A systolic murmur was heard in the aortic and pulmonary regions. The sternal incision was closed, without tenderness, and the abdominal incision was well-healed. There was mild leg edema and chronic skin changes in both malleolar regions. The remainder of the examination was normal.
+Studies
+Laboratory test results included hematocrit 26.5% (reference range, 41.0-53.0 in men), erythrocyte sedimentation rate 120 mm per hour (ref, 0-11 in men), potassium 5.5 mmol/L (ref 3.5-4.8), urea nitrogen 46 mg/dl (ref 8-25), creatinine 2.03 mg/dl (0.60-1.50), glucose 359 mg/dl (ref 70-110); the levels of white cells, platelets, other electrolytes, total protein, albumin, creatine kinase and tests of liver function were normal.
+A chest radiograph ( Figure 1 ) revealed a new large (8 cm by 6 cm) pleural based mass overlying the right upper chest. Gram stain of a sputum specimen revealed moderate polymorphonuclear leukocytes, rare squamous epithelial cells, and few mixed gram positive and gram negative organisms.
+Pathological examination of a routine endomyocardial biopsy showed no evidence of rejection. Computed tomography (CT) of the chest, ( Figures 2 and 3 ), showed a large focus of airspace opacity in the right upper lobe, which was thought to most likely to represent necrotic pneumonia, with multiple new pulmonary nodules and enlarged right hilar lymph node. There was interstitial pulmonary edema, and bilateral pleural effusions with pleural thickening and rounded atelectasis in the left lower lobe were stable.
+Figure 1. Chest radiograph.
+Figure 2. CT scan of the chest.
+Figure 3. CT scan of the chest.
+Clinical Course Prior to Diagnosis
+Culture of a sputum specimen revealed normal respiratory flora, and cultures of the blood were sterile.
+Two days after admission, a percutaneous needle aspiration of the mass was performed ( Figure 4 ). Cytological examination of the aspirate is shown in Figure 5 .
+Figure 4. Needle aspiration of mass.
+Figure 5. Cytology of aspirate.
+Diagnostic Procedure(s) and Result(s)
+The cytology of the aspirate demonstrated a non-septate fungus, which was consistent with zygomycosis. Four days later, a right upper lobectomy, with apparent clean margins, was performed. An image of the gross pathology of the lesion is shown in Figure 6 ; a wet prep of the lung tissue with calcofluor white stain under a fluorescent microscope is shown in Figure 7 and pathological stains of the mass are shown in Figures 8 through 10 . The culture of the right lung tissue grew Rhizopus species ( Figure 11 ).
+Figure 6. Right upper lung.
+Figure 7. Wet prep, with calcofluor white stain, under fluorescent microscope.
+Figure 8. GMS stain, 40x magnification.
+Figure 9. H and E stain, 10x magnification.
+Figure 10. H and E stain, 40x magnification.
+Figure 11. Lactophenol cotton blue stain of culture growth.
+Treatment and Followup
+As soon as the cytology results from the aspirate were known, amphotericin B (liposomal) (5 mg per kilogram, intravenously) and posaconazole (400 mg orally, twice daily) were administered, and amphotericin B was given by nebulizer. Postoperative recovery was complicated by pancytopenia and acute renal failure, which improved with decreasing doses of amphotericin B (liposomal). The patient also developed an Escherichia coli urinary tract infection and C. difficile colitis, which were treated. Follow-up CT of the chest showed evidence of lymphadenopathy, which was thought to be reactive, and no evidence of recurrence of pulmonary zygomycosis.
+One year later, his shortness of breath was stable. He remained on posaconazole and prophylactic trimethoprim-sulfamethoxazole, and immunosuppressive agents. The doses of immunosuppressive agents were reduced: azathioprine was decreased to 25 mg daily and prednisone to 5 mg daily, and tacrolimus was adjusted to keep levels between 7-9 ng/ml.
+Discussion
+Invasive fungal infections are a significant cause of morbidity and mortality following solid organ transplantation. In this patient, the immunosuppressive regimen (which included steroids) and his underlying diabetes mellitus were likely contributing factors in the development of his post-transplant fungal infection. Although Candida and Aspergillus infections account for most of the fungal infections following organ transplantation, other fungi, including dematiaceous (dark-pigmented) fungi, hyaline molds (such as Fusarium , Pseudallescheria and Scedosporium ), zygomycetes (ubiquitous fungi found in the soil, including Rhizopus , Rhizomucor , Mucor and Absidia ), and dimorphic fungi related to geographic exposures (such as Histoplasma and Coccidioides ) may also rarely be involved. The incidence of zygomycoses infection in organ transplant recipients has been shown to be less than 1% [Almyroudis et al 2006, Singh 2003].
+There are no specific clinical characteristics to distinguish pulmonary zygomycosis from invasive pulmonary aspergillosis. In this case, the cytological evidence of a non-septated, wide, ribbon-like, branching organism suggested a zygomycete, and was not consistent with Aspergillus , Scedosporium , or Fusarium .
+Rhizopus is a pathogen in the phylum Zygomycota, class Zygomycetes, order Mucorales and family Mucoraceae, which also includes Absidia, Mucor and Rhizomucor species. This order (Mucorales) and family (Mucoraceae) includes opportunistic fungi that can cause angioinvasive disease in immunocompromised hosts, thus the disease name of ‘mucormycosis’.
+In a review [Almyroudis et al 2006] which included 116 patients with post-transplantation zygomycotic infections, Rhizopus was responsible for 73% of the infections. Of zygomycotic infections, rhino-sino-orbital or rhino-cerebral infections occurred most commonly post-transplantation; the former had the best prognosis, and the latter accounted for most of the mortality in patients with localized disease. Pulmonary zygomycosis was seen in 28 patients (24.1%). Improved clinical outcomes have occurred with early diagnosis of invasive fungal infections combined with decreasing the level of immunosuppression, surgical excision of localized disease when possible, and appropriate antifungal medications [Singh 2003, Tobon et al 2006].
+Final Diagnosis
+Pulmonary zygomycosis caused by Rhizopus species, in an immunocompromised patient with diabetes mellitus, 5 months after heart-kidney transplantation.
+References
+Almyroudis, N.G., Sutton, D.A., Linden, P., Rinaldi, M.G., Fung, J., and Kusne, S. (2006). Zygomycosis in solid organ transplant recipients in a tertiary transplant center and review of the literature. Am J Transplant 6, 2365-2374
+PMID:16925570 ( PubMed abstract )
+Richardson MD and Pirkko KK, Chapter 122 Rhizopus, Rhizomucor, Absidia, and other Agents of Systemic and Subcutaneous Zygomycoses, Manual of Clinical Microbiology, 9th Edition 2007, editors Murray PR, Baron EJ, Jorgensen JH, Landry ML and Pfaller MA; pp 1039-1856.
+Singh, N. (2003). Fungal infections in the recipients of solid organ transplantation. Infect Dis Clin North Am 17, 113-134, viii.
+PMID:12751263 ( PubMed abstract )
+Tobon, A.M., Arango, M., Fernandez, D., and Restrepo, A. (2003). Mucormycosis (zygomycosis) in a heart-kidney transplant recipient: recovery after posaconazole therapy. Clin Infect Dis 36, 1488-1491
+PMID:12766845 ( PubMed abstract )

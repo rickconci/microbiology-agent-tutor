@@ -1,0 +1,38 @@
+History of Present Illness
+IDSA 2006 Fellows Day Case Summary: A man with HIV infection and AIDS and small bowel obstruction.
+A man in his forties, recently diagnosed with human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome (AIDS), presented with recurrent symptoms of night sweats, cough, severe nausea, vomiting and abdominal pain, associated with weight loss of 40-pounds (18.2 kilograms. He denied dysphagia. He had been admitted three times in the previous three months with similar symptoms. Recurrent small bowel obstructions were diagnosed and his symptoms improved with medical management. Three sputum samples had been positive by fluorescent staining for acid fast bacilli. He was admitted to a tuberculosis unit and started on anti-tuberculosis therapy, while sputum specimens were being cultured. A skin test for tuberculosis was negative.
+Past Medical History
+The patient had a history of HIV infection, AIDS (CD4 T-lymphocyte count of 27 cells/mm³ and HIV-RNA level of 2750 copies/ml). He also had Hepatitis C virus infection (diagnosed ten years earlier) for which no treatment had been given.
+Medications
+Highly active anti-retroviral therapy had been initiated approximately four months earlier (three to six weeks before his first admission). His medications included ritonavir-lopinavir and tenofovir-emtricitabine combination therapy, sulfamethoxazole-trimethoprim, rifabutin, isoniazid (INH), pyrazinamide, ethambutol, levofloxacin, clindamycin, and vitamin B6. He reported having difficulty taking his medications consistently.
+Epidemiological History
+The patient was born in Puerto Rico, immigrated to the United States as a teenager and had last visited twenty years earlier. He lived in the northeastern United States with his wife and children. He had a pet dog and reported travel to Florida. He had smoked cigarettes in the past, and stopped drinking alcohol and using intravenous drugs approximately 6 months earlier.
+Physical Examination
+On admission, he appeared cachectic. The temperature was 96.9°F (36.1°C). There was mild thrush, severe gingivitis with dental caries and missing dentition, and bilateral sub-mandibular lymphadenopathy. The lungs were clear, the abdomen was soft and moderately distended with scant bowel sounds and severe left lower quadrant abdominal pain. There were no skin lesions or genital ulcers.
+Studies
+The white blood cell count was 1800 cells/mm³ (59% neutrophils, 28% lymphocytes, 9% monocytes, 2% eosinophils). Sputum specimens were positive for acid-fast bacilli by fluorescent staining.
+The chest radiograph revealed diffuse reticulonodular densities ( Figures 1 and 2 ).
+Figure 1. Chest radiograph.
+Figure 2. Detail of Figure 1.
+Clinical Course Prior to Diagnosis
+An abdominal radiograph and computed tomography (CT) of the abdomen revealed findings consistent with a high grade small bowel obstruction and mass-like thickening in right lower quadrant ( Figures 3 and 4 ).
+Figure 3. Abdominal radiograph.
+Figure 4. Abdominal CT scan.
+Diagnostic Procedure(s) and Result(s)
+Resection of the mid and distal small bowel was performed. Pathological examination of tissue from the resected intestinal wall showed caseating granulomas and ulcerated bowel wall on hematoxylin and eosin (H & E) staining ( Figures 5 and 6 ). Silver staining of the intestinal wall showed yeast-like organisms consistent with histoplasmosis ( Figure 7 ). Urinary Histoplasma antigen was positive at 9.60 units. Sputum cultures grew Mycobacterium avium complex (MAC).
+Figure 5. H and E stain of caseating granuloma.
+Figure 6. H and E stain of mucosal ulceration.
+Figure 7. Silver stain of biopsy.
+Treatment and Followup
+After surgical resection of ulcerated and strictured segments, the pathologic diagnosis of histoplasmosis was made and itraconazole was administered. Rifabutin, ethambutol, and azithromycin were given for the treatment of pulmonary Mycobacterium avium complex (MAC) infection.
+Discussion
+Histoplasma is identified in gastrointestinal tract of 70-90% patients with disseminated histoplasmosis, but causes clinical symptoms only in 3-12% patients. Histoplasma microconidia are inhaled and hematogenously spread to organs of the reticuloendothelial system. The yeast form is responsible for disease production.
+Pathologic findings include caseating granulomas and calcifications. Intestinal disease may include gastrointestinal hemorrhage, bowel perforation, or obstruction.
+Pulmonary Mycobacterium avium complex (MAC) is uncommon in patients with AIDS, but may occur in the setting of immune reconstitution syndrome (as in this case).
+Final Diagnosis
+Intestinal histoplasmosis and pulmonary Mycobacterium avium complex infection, in a patient with HIV and AIDS, in the setting of immune reconstitution syndrome.
+References
+Kahi, C.J., Wheat, L.J., Allen, S.D., and Sarosi, G.A. (2005). Gastrointestinal histoplasmosis. Am J Gastroenterol 100, 220-231.
+PMID:15654803 ( PubMed abstract )
+Salama, C., Policar, M., and Venkataraman, M. (2003). Isolated pulmonary Mycobacterium avium complex infection in patients with human immunodeficiency virus infection: case reports and literature review. Clin Infect Dis 37, e35-40.
+PMID:12884187 ( PubMed abstract )

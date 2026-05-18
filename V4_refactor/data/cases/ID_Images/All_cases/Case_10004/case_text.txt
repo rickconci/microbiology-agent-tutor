@@ -1,0 +1,58 @@
+History of Present Illness
+2010 April Featured Case Summary: A woman with right upper quadrant pain, radiating to the right shoulder, and a cystic mass in the right upper quadrant.
+A woman in her fifties had been well until approximately 3 months before, when right upper quadrant and flank pain developed, which increased with respirations and radiated to the right shoulder. She was seen at another hospital, where abdominal ultrasound and magnetic resonance imaging (MRI) demonstrated a large complex cystic lesion, with septa and calcifications, adjacent to the liver and possibly extending above the diaphragm. A biopsy of the lesion was attempted, but was not successful. She was otherwise well.
+She was admitted electively to the hospital for further evaluation and management.
+Past Medical History
+There was a history of hypercholesterolemia and hypothyroidism. She was known to have a right lower lobe pulmonary nodule, discovered incidentally on chest radiography during evaluation for anaphylaxis five years earlier. She had had a root canal three years before admission and an appendectomy complicated by perforation more than a decade earlier, as well as several gynecologic procedures and a tonsillectomy in the remote past.
+Medications
+Medications included rosuvastatin (weekly), omega-3-fatty acids and levothyroxine. She had stopped acetylsalicylic acid 2 months before.
+Allergies
+She was allergic to naproxen (anaphylaxis), penicillin and erythromycin, which had caused hives.
+Social History
+She was married and had children.
+Epidemiological History
+She worked in a healthcare field. She had lived in the Middle East and Africa as a child, and had also traveled to Mexico. She drank alcohol in moderation and did not smoke.
+Physical Examination
+The vital signs were normal. Breath sounds in the right base were markedly diminished, and the lungs were otherwise clear bilaterally. The abdomen was soft, without tenderness, distension, masses, bruits or organomegaly. The examination was otherwise normal.
+Studies
+Pre-operative laboratory tests, including a complete blood count, plasma levels of electrolytes and tests of renal and liver function, were performed 9 days before admission and were normal. An electrocardiogram demonstrated counterclockwise rotation and non-specific ST-segment and T-wave changes.
+A chest radiograph ( Figure 1 ) demonstrated blunting of the right costophrenic angle. Computed tomography (CT) of the chest showed a complex mass, 7-centimeters in diameter, associated with the right lower lung, liver, adjacent chest wall and diaphragm ( Figures 2 and 3 , showing lung and abdominal views, respectively), as well as numerous bilateral calcified and noncalcified pulmonary nodules (2 to 8 mm), atelectasis in the right lower lobe, minimal nodularity at the apices that suggested possible prior granulomatous disease and a thyroid nodule.
+Figure 1. Chest radiograph.
+Figure 2. CT scan of the chest, lung view.
+Figure 3. CT scan of the chest, abdominal view.
+Clinical Course Prior to Diagnosis
+Flexible bronchoscopy and bronchoalveolar lavage, with right video-assisted thoracoscopy (VATS) and thoracotomy, revealed a complex cystic lesion involving the intrathoracic and intraabdominal cavities, including the lower margin of the right lower lobe of the lung, crossing the diaphragm and confluent with the superior portion of the right lobe of the liver, retroperitoneum and right adrenal gland. A wedge resection of the right lung, diaphragm resection and resection of a hepatic cyst was performed, and the cyst oversewn. Gram stain of the cyst aspirate is shown in Figures 4 and 5 , and pathological examination of the resected tissue in Figures 6 and 7 (courtesy of Richard L. Kradin, MD), shown with hematoxylin and eosin (H and E) and Steiner stains.
+Figure 4. Gram stain of cyst aspirate.
+Figure 5. Gram stain of cyst aspirate.
+Figure 6. Biopsy of tissue, H and E stain.
+Figure 7. Biopsy of tissue, Steiner stain.
+Diagnostic Procedure(s) and Result(s)
+Gram stain of the cyst demonstrated abundant leukocytes and gram negative rods, and rare long thin gram positive rods. Pathological examination of the resected tissue revealed granulohistiocytic inflammation with foamy macrophages in a necrotic complex inflammatory cystic mass that was beneath the diaphragmatic leaflet adjacent to the dome of the liver. A large 'sulfur granule' was seen ( Figures 6 and 7 ), composed of gram-positive GMS-positive filamentous bacteria, ( Figure 8 , Brown-Hopps (gram) stain, courtesy of Richard L. Kradin, MD) and Periodic Acid-Schiff (PAS)-positive Splendore-Hoeppli phenomenon. Cultures of the specimen grew few Actinomyces israelii and, in the thioglycollate broth tube only, Bacteroides fragilis .
+Figure 8. Biopsy of excised tissue, Brown-Hopps (gram) stain.
+Treatment and Followup
+The patient was initially treated with parenteral vancomycin, cefepime, levofloxacin and metronidazole; after pathological and culture results were available, those antibiotics were stopped and clindamycin and ciprofloxacin were begun. She underwent penicillin desensitization in the Surgical Intensive Care Unit and was transitioned to penicillin, ciprofloxacin and metronidazole for 4 weeks, followed by a 12-month course of penicillin and probenecid.
+Discussion
+This patient's clinical presentation included a complex cystic mass that crossed tissue planes and involved the liver, diaphragm, and lung; pathological examination of resected tissue demonstrated 'sulfur granules' and filamentous gram-positive rods. 'Sulfur granules', yellow granules which occasionally are identified extruding from abscesses, may be seen in infections caused by Nocardia , Actinomyces , and Staphylococcus aureus (as seen in botryomycosis), Streptomycetes and other eumycetes associated with maduromycoses.
+In this case, the large 'sulfur granule' was composed of gram-positive GMS-positive filamentous bacteria, which was most suggestive of Actinomyces infection. Intraoperative cultures eventually grew Actinomyces israelii , confirming the diagnosis. Actinomycetes spp. are filamentous, gram-positive, fastidious anaerobes. Culture of the organism is the diagnostic gold standard, but is rarely positive. Strict anaerobic processing and obtaining cultures before the institution of antibiotic therapy may improve the yield of a positive identification.
+Actinomyces , when isolated, is frequently found with companion organisms in polymicrobial cultures. Specifically, cervicofacial co-infections have involved Actinobacillus , Bacteroides , Peptostreptococcus , Prevotella , Staphylococcus and Streptococcus infections [Pulverer et al 2003]. Actinomyces are considered normal flora of the human oropharynx, gastrointestinal tract, and female genital tract. Actinomycosis infections occur most commonly in the cervicofacial (50-60%), the abdominopelvic (20%) and pulmonary (15%) regions and, much less commonly, in the central nervous system (2%). Rarely, infections of the skin, cardiac, or genitourinary tract, or disseminated infections occur [Mabeza and Macfarlane 2003]. Infections are slowly progressive, often crossing tissue planes. They mimic malignancy and often are diagnosed through invasive sampling of tissue as part of presumed oncologic management.
+In the case described, the primary focus of infection is difficult to ascertain given transdiaphragmatic involvement. Poor dentition, compounded by aspiration, had been proposed as one mechanism of basilar pulmonary infection. In cases of hepatic infection, involvement of adjacent tissues occurs in one third of cases [Sharma et al 2002]. A similar presentation with involvement of the liver, diaphragm and lung, has been previously reported [Kasano et al 1996]. Intraabdominal infections are often thought to result from a breach in the gastro-intestinal mucosa with subsequent introduction of Actinomyces. Growth occurs in an indolent fashion, often lying clinically silent for years. In this regard, the remote history of a perforated appendix may be relevant in this case.
+Final Diagnosis
+Intrathoracic and intraabdominal abscess caused by Actinomyces israelii and Bacteroides fragilis infection.
+References
+Bahrani-Mougeot, F.K., Paster, B.J., Coleman, S., Ashar, J., Barbuto, S., and Lockhart, P.B. (2008). Diverse and novel oral bacterial species in blood following dental procedures. J Clin Microbiol 46, 2129-2132.
+PMID:18434561 ( PubMed abstract )
+Chow, A.W., Roser, S.M., and Brady, F.A. (1978). Orofacial odontogenic infections. Ann Intern Med 88, 392-402.
+PMID:343682 ( PubMed abstract )
+Kasano, Y., Tanimura, H., Yamaue, H., Hayashido, M., and Umano, Y. (1996). Hepatic actinomycosis infiltrating the diaphragm and right lung. Am J Gastroenterol 91, 2418-2420.
+PMID:8931429 ( PubMed abstract )
+Mabeza, G.F., and Macfarlane, J. (2003). Pulmonary actinomycosis. Eur Respir J 21, 545-551.
+PMID:12662015 ( PubMed abstract )
+Persson, E., and Holmberg, K. (1984). A longitudinal study of Actinomyces israelii in the female genital tract. Acta Obstet Gynecol Scand 63, 207-216.
+PMID:6375245 ( PubMed abstract )
+Pulverer, G., Schutt-Gerowitt, H., and Schaal, K.P. (2003). Human cervicofacial actinomycoses: microbiological data for 1997 cases. Clin Infect Dis 37, 490-497.
+PMID:12905132 ( PubMed abstract )
+Russo, T, Chapter 255 Agents of Actinomycosis in Mandell, Douglas and Bennett's Principles and Practice of Infectious Diseases 7th edition. Edited by Mandell, Bennett, Dolin. Philadelphia, PA Elsevier Churchill Livingstone 2009: 3209-3219.
+Sharma, M., Briski, L.E., and Khatib, R. (2002). Hepatic actinomycosis: an overview of salient features and outcome of therapy. Scand J Infect Dis 34, 386-391.
+PMID:12069027 ( PubMed abstract )
+Strazzeri, J.C., and Anzel, S. (1986). Infected total hip arthroplasty due to Actinomyces israelii after dental extraction. A case report. Clin Orthop Relat Res, 128-131.
+PMID:3757351 ( PubMed abstract )

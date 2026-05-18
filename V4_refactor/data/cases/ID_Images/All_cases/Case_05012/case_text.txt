@@ -1,0 +1,46 @@
+History of Present Illness
+2005 December Featured Case Summary: An elderly man presented with leg numbness and difficulty with walking and swallowing.
+An elderly man presented with left leg numbness and progressive difficulty ambulating for the preceding two weeks. Two days before his presentation, he developed drooling and difficulty swallowing. He denied any fever, chills, headache or other constitutional symptoms.
+He had a history of ulcerative colitis for which he had been on chronic prednisone therapy. During the preceding six months, there had been a 30-pound weight loss. He reported intermittent diarrhea; there had been no incontinence of stool or urine. There had been no fevers, chills, night sweats, chest pain, palpitations, respiratory symptoms, abdominal pain, nausea, vomiting, rectal bleeding, or melena. He had no other neurologic symptoms, and no muscle, bone, or urinary complaints.
+Past Medical History
+Ulcerative colitis had been diagnosed several years earlier, and bullous pemphigoid more recently. He also had glaucoma and hypertension. One month before, ampicillin had been administered for an upper respiratory infection.
+Medications
+The patient was on prednisone, usually at a dose of 40 milligrams daily but the dose had recently been tapered to 20 mg per day before the patient's admission. The dose of prednisone had varied during the preceding 5 years; the highest had been 80 mg day several months earlier. The patient also received balsalazide 2.25 grams three times daily, and alendronate sodium 70 mg weekly.
+Social History
+He was married and lived with his wife.
+Epidemiological History
+He lived in the United States and had traveled extensively throughout the country. He had also spent time in South America and Africa.He had smoked cigarettes for many years, and did not drink alcohol or use recreational drugs. He had owned pets in the remote past, denied known exposure to tuberculosis and did not know his PPD status.
+Physical Examination
+He appeared comfortable. The temperature was 95.6°F (35.3°C), blood pressure 152/90 mm Hg, pulse 92 beats per minute, and respirations 18 per minute. Pulse oximetry was measured at 92% on ambient air. The pupils were reactive and extraocular movements were intact. There were no conjunctival lesions. A lesion on the soft palate was indurated, and thrush was noted under the dentures. The neck was supple and there was a left supraclavicular fullness. No lymphadenopathy was palpable. The examination of the lung, heart and abdomen was normal, and the extremities had no edema. There were multiple areas of healing blisters and hyperpigmented violaceous lesions, and findings consistent with onychomycosis were present. There was a left seventh (VII) nerve palsy, and the muscle strength of the left leg was 4 out of 5. The sense of light touch was intact, but temperature sensation was impaired on the left.
+Studies
+The white blood cell count was 12,800/mm³ (97% polymorphonuclear leukocytes, 4% lymphocytes and 2% monocytes), hematocrit 37%, and platelets 285,000/mm³. The liver function tests were normal, the urea nitrogen was 20 mg/dL and creatinine 0.9 mg/dL. Two blood cultures were sterile.
+Magnetic resonance imaging (MRI) scanning of the head showed a cluster of ring enhancing lesions, the largest measuring 1.9 x 1.9 x 2.1 cm, within the right basal ganglia and corona radiata. There was extensive surrounding edema and mild mass effect but no evidence of midline shift or herniation. Fluid was present within multiple left mastoid air cells. In addition, small air fluid levels were seen within the left sphenoid sinus. (See Figures 1 through 3.)
+Computed tomography (CT) scanning of the chest showed bilateral lower lobe atelectasis and two small ground glass nodes in the right lower lobe. CT scanning of the abdomen and pelvis did not show any lesions.
+Figure 1. MRI scan of brain.
+Figure 2. MRI scan of brain.
+Figure 3. MRI scan of brain.
+Clinical Course Prior to Diagnosis
+A stereotactic brain biopsy was performed in the operating room. Approximately twenty cubic centimeters of purulent white debris were aspirated from the largest lesion. Staining of the brain biopsy is shown in Figures 4 and 5 .
+Figure 4. Gram stain of brain biopsy.
+Figure 5. Gram stain of brain biopsy.
+Diagnostic Procedure(s) and Result(s)
+A gram stain of the tissue revealed moderate polymorphonuclear leukocytes and rare septated hyphae. (See Figures 4 and 5 above.) Necrotic tissue and rare fungal hyphae were present on pathologic examination (hematoxylin and eosin staining and gomori methenamine silver staining) of the brain biopsy. (See Figures 6through 9.) Fungal culture grew Scedosporium apiospermum .
+Figure 6. H and E stain of brain biopsy.
+Figure 7. Detail of Figure 6.
+Figure 8. GMS stain of brain biopsy.
+Figure 9. GMS stain of brain biopsy.
+Treatment and Followup
+The patient was treated with the antifungal agents voriconazole and caspofungin. The steroid dose was tapered, and the patient is being followed closely.
+Discussion
+Scedosporium apiospermum is the asexual form of Pseudallescheria boydii , a saprophytic fungus frequently isolated from soil, manure, decaying vegetation and polluted streams.
+The fungi that most commonly cause central nervous system (CNS) infections are Candida species and Cryptococcus neoformans . S. apiospermum has traditionally been known as a cause for cutaneous and soft tissue infection (Madura foot). More recently with the increasing prevalence of immunosuppression due to organ transplantation, AIDS and potent drugs, opportunistic fungi and specifically S. apiospermum have become relatively rare but well-documented potential CNS pathogens.
+Review of the literature suggests that the most common clinical and radiographic presentation of CNS involvement is either multiple or solitary parenchymal brain abscesses. In addition, other presentations described include meningitis, ventriculitis or ependymitis, sagittal sinus infection and spinal dural or epidural abscess.
+The most common risk factor described is medical immunosuppression due to cytotoxic chemotherapy, solid and bone marrow transplantation or the use of immunosuppressive drugs including prednisone. Other risk factors include direct inoculation, motor vehicle accidents, near-drowning episodes and diabetes mellitus.
+The prognosis for patients with CNS infections is poor, even when early and aggressive therapeutic interventions are undertaken, with the mortality as high as approximately 70% (Nesky et al. 2000). In order to establish early appropriate therapy, microbiologic diagnosis is essential. The histopathological examination reveals hyphae that morphologically resemble Aspergillus species.
+The treatment of choice remains surgical resection with adjuvant antifungal therapy. Scedosporium and Pseudallescheria are generally resistant to amphotericin B. Available data do not support the use of it or its liposomal preparations for treatment of brain abscesses due to infection with these organisms. The azoles (miconazole, ketoconazole, and itraconazole) generally have been ineffective except for a few cases that were amenable to complete neurosurgical drainage. Successful treatment with newer azoles (voriconazole and posaconazole) has been reported but surgical drainage, when possible, is clearly the key therapeutic intervention.
+The choice of antifungal therapy poses a challenging dilemma. Obtaining a definitive fungal culture and standardized antifungal drug susceptibility testing is of great importance for immunosuppressed patients with suspected fungal infection.
+Final Diagnosis
+Invasive infection of the central nervous system infection by Scedosporium apiospermum .
+References
+Nesky, M.A., McDougal, E.C., and Peacock Jr, J.E. (2000). Pseudallescheria boydii brain abscess successfully treated with voriconazole and surgical drainage: case report and literature review of central nervous system pseudallescheriasis. Clin Infect Dis 31, 673-677.
+PMID:11017814 ( PubMed abstract )

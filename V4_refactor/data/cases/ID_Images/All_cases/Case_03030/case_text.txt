@@ -1,0 +1,32 @@
+History of Present Illness
+IDSA 2003 Summary: A young adult with fever and lymphadenopathy.
+A young adult man was well until two weeks before admission when he developed fever and myalgias. He was treated with cephradine empirically at a private clinic for five days. However, his fever persisted and a headache developed.
+Epidemiological History
+He had no history of smoking, heavy alcohol use or intravenous drug use. He had no history of blood transfusion or prior surgery. The patient also reported no recent travel, animal exposures, or known exposure to tuberculosis.
+Physical Examination
+On admission, he appeared acutely ill. The temperature was 38.6°C (101.5°F), blood pressure 100/50 mm Hg, pulse 100/minute, and respirations 20/minute. There were several tender enlarged lymph nodes (measuring approximately 0.8cm by 0.8cm by 0.5 cm) in the left supraclavicular area and posterior neck triangle. The liver edge descended 1 cm below right costal margin. The remainder of examination was normal.
+Studies
+On admission, the white blood cell count was 18,000/mm³ (neutrophils 80% and lymphocyte 11%), hemoglobin level 13.9 g/dL and platelet count 427,000/mm³. Aspartate aminotransferase (AST) was 60 IU/L, alanine aminotransferase (ALT) 86 IU/L, alkaline phosphatase 357 IU/L, gamma glutamyl-transpeptidase (g-GTP) 144 IU/L, total protein 6.5 g/dL, albumin 3.2 g/dL, total bilirubin 0.4 mg/dL, and lactate dehydrogenase (LDH) 357 IU/L. Laboratory analysis of cerebrospinal fluid (CSF) studies were normal. An initial chest radiograph was normal.
+Clinical Course Prior to Diagnosis
+On the 4th hospital day, the patient continued to be febrile and the leukocytosis persisted (26,300/mm³ with neutrophils 71%). He also reported epigastric and right upper quadrant tenderness. There was increased left cervical lymph node swelling and tenderness.
+On the 6th day, several erythematous papules appeared over his back and extremities ( Figures 1 and 2 ). Cultures of the blood and urine were sterile. A computed tomography (CT) of the neck revealed lymphadenopathy in the left posterior triangle and supraclavicular area with some central necrosis.
+The results of the cervical lymph node biopsy with hematoxylin and eosin (H and E) staining are shown in Figures 3 and 4 .
+A chest radiograph revealed the presence of new nodular pulmonary infiltrates and findings suggestive of mediastinal lymphadenopathy. A chest CT scan is shown in Figure 5. Bronchoscopy showed no endobronchial lesion.
+Testing of the bronchial washing fluid and brushing were negative by cytological examination, gram stain, Ziehl-Neelsen stain, and Mycobacterium tuberculosis polymerase chain reaction (PCR). An abdominal CT scan showed mild hepatomegaly with intra-abdominal lymphadenopathy in the porta hepatis, portocaval space and near the hepatoduodenal ligament. The hepatic artery and vein were encased by enlarged lymph nodes.
+On the 8th hospital day, the patient developed slurred speech without focal neurologic deficit. A MRI scan of brain was normal. A cerebrospinal fluid (CSF) study showed opening pressure of 14.5 cm of water, white cells of 32/mm³ (lymphocyte 98%), protein 34 mg/dL, and sugar 75 mg/dL. No organisms were seen on gram stain, Ziehl-Neelsen stain or India ink preparation of the CSF. PCR for M. tuberculosis and a latex agglutination test for cryptococcal antigen in the CSF were negative.
+Figure 1. Skin findings on the sixth hospital day.
+Figure 2. Skin findings on the eighth day.
+Figure 3. Cervical lymph node, H and E stain (x 100 magnification).
+Figure 4. Cervical lymph node, H and E stain (x 400 magnification).
+Figure 5. Chest CT scan on the sixth day.
+Diagnostic Procedure(s) and Result(s)
+Microscopic examination revealed granuloma with giant cells and multiple fungal yeast in cervical lymph node and skin ( Figures 4 and 6 ). The bronchoscopy specimen grew Cryptococcus .
+Figure 6. Cervical lymph node PAS stain x 1000.
+Treatment and Followup
+A 14-day course of systemic amphotericin B with flucytosine was administered, with two months of oral fluconazole. He has had no evidence of recurrent disease.
+The ELISA for human immunodeficiency virus (HIV) antibody was negative on two successive tests (interval of 6 weeks). The level of immunoglobulin E was 1,030 IU/mL (reference value < 100 IU/mL), and serum immunoglobulin G, A and M levels were normal. The total peripheral blood lymphocyte count was 1,478/mm³ and the CD4 T-cell to CD8 T-cell count ratio was normal.
+Discussion
+Cryptococcus is an ubiquitous yeast with a worldwide distribution. Defects in cell-mediated immunity and HIV infection constitute the major predisposing conditions for disseminated cryptococcal infection. Other risk factors for cryptococcal disease include: lympho-reticular malignancy, corticosteroid treatment, sarcoidosis, diabetes mellitus and hepatic cirrhosis. Although the attack rate is many times higher among immunocompromised persons, cryptococcal disease does occur in persons without any apparent predisposing condition.
+Meningoencephalitis is the most common manifestation of cryptococcal infection. Other sites of cryptococcal infection include blood, bone marrow, lungs, skin, and genito-urinary tract. Although most pulmonary infections are “clinically silent”, symptomatic disease can occur. Dissemination of cryptococcal infection to the CNS also occurs even in the immunocompetent hosts.
+Final Diagnosis
+Disseminated cryptococcosis (involving lymph nodes, skin, lung and probably central nervous system) in an immunocompetent host.

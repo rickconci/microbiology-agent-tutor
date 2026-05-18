@@ -1,0 +1,166 @@
+History of Present Illness
+A female in her thirties (G1P1) with recent urinary tract infection (UTI), cholecystitis status post laparascopic cholecystectomy four days prior to transfer, and emergent C-section at 32 weeks presents with acute liver failure.
+On days 0 to 3, the patient, who was in her third trimester of pregnancy, was admitted to an outside hospital for complicated UTI, for which she was initially treated with piperacillin/tazobactam and discharged on amoxicillin/clavulanate. She represented on day 5 with abdominal pain diagnosed as cholecystitis and underwent an uncomplicated laparascopic cholecystectomy. Aminotransferases and alkaline phosphatase (ALP) were noted to be elevated at >300 units/L and 170 units/L, respectively. On day 7, she developed fever, tachypnea, and bandemia with signs of fetal distress on monitoring, so an emergent C-section was performed. Liver enzymes continued to increase. Intraoperatively, her liver was noted to be firm and inflamed. She remained intubated post-operatively and was transferred to a tertiary hospital for evaluation and treatment of acute liver failure.
+Medications
+amoxicillin/clavulanate 875-125 mg BID (10-day course), acetaminophen 500 mg PRN (amount taken unknown)
+Social History
+Lives with husband, no travel, unknown history of alcohol/drug use
+Physical Examination
+The patient was sedated, intubated, and nonresponsive. On arrival, temperature was 37.7°C, blood pressure was 79/34 mm Hg, heart rate was 105 beats per minute, respiratory rate was 32 breaths per minute, and oxygen saturation was 91%. Of note, the patient became persistently hypothermic to a nadir of 33.7°C within hours of arrival. Patient was moving all four extremities in response to pain. 1+ bilateral lower extremity edema was noted. There were coarse breath sounds bilaterally. Abdomen was distended and soft with hypoactive bowel sounds; hepatosplenomegaly could not be assessed due to habitus. Skin was warm and without jaundice, lesions, or ulcers. Sclera were anicteric. The remainder of the exam was normal.
+Studies
+Day
+AST (units/L)
+ALT (units/L)
+ALP (units/L)
+Total Bilirubin (mg/dL)
+WBC (K/cumm)
+Hgb (g/dL)
+Plt (K/cumm)
+INR
+0
+41 [10-35]
+31 [10-35]
+95 [35-104]
+0.5 [0.0-1.2]
+15.0 [4.5-10.8]
+11.5 [12.0-16.0]
+175 [130-440]
+-
+2
+-
+11.5 [4.5-10.8]
+10.8 [12.0-16.0]
+143 [130-440]
+-
+5
+485 [15-37]
+300 [12-78]
+170 [45-117]
+-
+7.3 [4.8-10.8]
+12.3 [12.0-16.0]
+118 [130-440]
+-
+8
+3763 [15-37]
+1092 [12-78]
+351 [45-117]
+3.1 [0.2-1.0]
+10.5 [4.8-10.8]
+7.6 [12.0-16.0]
+66 [130-440]
+2.4 [0.8-1/3]
+9
+6212 [10-45]
+1664 [7-45]
+691 [70-260]
+5.1 [0.1-1.2]
+22.8 [3.8-9.9]
+7.9 [11.9-15.5]
+101 [150-400]
+4.4 [0.9-1.2]
+10
+6077 [10-45]
+1656 [7-45]
+828 [70-260]
+5.7 [0.1-1.2]
+20.2 [3.8-9.9]
+7.3 [11.9-15.5]
+101 [150-400]
+4.2 [0.9-1.2]
+11
+7080 [10-45]
+1563 [7-45]
+936 [70-260]
+6.1 [0.1-1.2]
+23.3 [3.8-9.9]
+7.3 [11.9-15.5]
+96 [150-400]
+3.8 [0.9-1.2]
+Study
+Result
+Reference (if applicable)
+Creatinine
+1.23 mg/dL
+0.60-1.10 mg/dL
+D-dimer
+54817 ng/mL
+≤499 ng/mL
+LDH
+5080 units/L
+100-250 units/L
+Lactate
+7.7 mmol/L
+0.7-2.0 mmol/L
+Haptoglobin
+136 mg/dL
+30-200 mg/dL
+Acetaminophen level
+33 mcg/mL
+<5 mcg/mL
+MELD
+37
+-
+Blood culture
+No growth
+-
+Urinalysis
+11-20 WBC, >50 RBC, 1+ bacteria, 4+ yeast
+-
+Respiratory pathogen panel
+Negative
+-
+Human immunodeficiency virus (HIV)
+Nonreactive
+-
+Cytomegalovirus (CMV) IgM
+Negative
+-
+CMV IgG
+Positive
+-
+Epstein Barr Virus (EBV) Viral Capsid Antigen (VCA) IgM
+Negative
+-
+EBV VCA IgG
+Positive
+-
+EBV Nuclear Antigen IgG
+Positive
+-
+Clinical Course Prior to Diagnosis
+Patient became hypotensive and required pressors (norepinephrine and vasopressin) to maintain hemodynamic stability. Due to progressive deterioration and worsening liver and neurologic function, she received a liver transplant on day 11. Following transplant, her neurologic status failed to improve. Brain imaging revealed central and cerebellar tonsillar herniation. She was declared brain dead by neurologic criteria.
+Diagnostic Procedure(s) and Result(s)
+Hepatitis panel was nonreactive. Computed tomography (CT) of chest, abdomen, and pelvis was notable for hepatosplenomegaly and anasarca. Liver ultrasound showed a recanalized umbilical vein. Liver explant revealed widespread hepatocellular necrosis with evidence of viral cytopathic effects. HSV-1 and HSV-2 immunostains were positive, consistent with HSV hepatitis.
+Figure 1. CT of abdomen and pelvis demonstrating hepatosplenomegaly and anasarca in (A) Coronal section; (B) Transverse section
+Figure 2. Post-mortem liver explant gross pathology Heterogenous, mottled liver with patchy areas of yellowish discoloration, corresponding to areas of necrosis
+Figure 3. Representative histopathology taken from liver explant showing hematoxylin and eosin staining at low magnification with confluent hepatocellular necrosis
+Figure 4. Representative histopathology taken from liver explant showing hematoxylin and eosin staining at high magnification with evidence of viral cytopathic effects
+Figure 5. Representative histopathology taken from liver explant showing HSV-1 immunostain with cytoplasmic and nuclear positivity.
+Treatment and Followup
+Patient sadly passed before treatment or follow up.
+Discussion
+This patient’s rapidly progressive acute liver failure in the setting of pregnancy is most consistent with HSV hepatitis. The leading non-infectious diagnosis on the differential was HELLP syndrome, for which the patient met two out of three criteria (thrombocytopenia and elevated liver enzymes); however, there was no laboratory evidence of hemolysis, including a normal haptoglobin. Furthermore, HELLP syndrome typically resolves after delivery of the child. With respect to other infectious possibilities, CMV, hepatitis A, and toxoplasmosis may all cause acute hepatitis, but the severity of this patient’s illness – in combination with the fulminant onset and rapid time course – is most consistent with HSV hepatitis. Furthermore, the patient had no known exposures concerning for hepatitis or toxoplasmosis.
+HSV is a double-stranded DNA virus most typically associated with herpes labialis, keratitis, genital herpes, and encephalitis, among other entities. In rare cases, HSV can cause acute liver failure, though it is responsible for less than 1% of all acute liver failure (Schiødt 2003). Hepatitis can be triggered by primary infection or reactivation of latent virus (Kaufman 1997). Classically, HSV hepatitis presents in immunocompromised persons and during the third trimester of pregnancy (Peters 2000).
+Prognosis is better in pregnant patients versus non-pregnant patients: this may be attributable to the fact that pregnant patients typically undergo early evaluation for fever and regular genital examinations (Peters 2000).
+HSV hepatitis classically presents as an anicteric hepatitis with AST > ALT (mean peak aminotransferase 4927) (Norvell 2007). Fever, coagulopathy, and encephalopathy are each observed in more than 80% of patients. Lab abnormalities include mild hyperbilirubinemia (mean 6.0), cytopenias (leukopenia 71%, thrombocytopenia 94%), and evidence of acute kidney injury (65%) (Norvell 2007). The diagnosis of HSV hepatitis is often missed because of its rarity and non-specific symptoms (Peters 2000). Many cases lack typical cutaneous herpetic lesions (30-50%) (Norvell 2007; Peters 2000); the absence of herpetic skin findings should not rule out this diagnosis.
+Liver biopsy is the gold standard for diagnosis, though it is often not feasible in the setting of coagulopathy or significant ascites. The liver explant from our patient revealed the typical cytopathic effects of HSV infection in the hepatocellular parenchyma that should trigger further tissue interrogation with immunostaining, thus yielding a definitive diagnosis. Notably, most cases of HSV hepatitis are diagnosed at autopsy due to difficulty obtaining tissue or lack of diagnostic certainty (Norvell 2007); HSV PCR on blood is typically used first-line to identify viremia. Notably, HSV-2 is more commonly detected than is HSV-1 (61% vs 39%, respectively) (Norvell 2007). HSV serologies may play an adjunctive role in the diagnosis (Peters 2000; Rimawi 2015). In the case of pregnant patients, there is a risk of vertical transmission, so neonates should be assessed for seroconversion or frank HSV infection (Calix 2020) (as was done in this case).
+The first-line treatment of HSV hepatitis is high-dose acyclovir (10 mg/kg every 8 hours for 10 to 14 days), adjusted for renal function (Peters 2000). There is a low threshold for empiric trial of acyclovir, as HSV hepatitis is a rapidly progressive entity and delayed initiation of antiviral therapy is associated with increased mortality (Allen 2005). The survival rate without transplant with acyclovir is reported to be about 51%, though most cases are missed (Norvell 2007), leading to high mortality and rates of transplant (rate of death or transplant: 88% among untreated, 74% among treated and untreated) (Norvell 2007). If refractory to acyclovir, foscarnet can be tried (Natu 2017).
+Our patient demonstrates both the rapidly progressive nature and elusive diagnosis that is HSV hepatitis in pregnant women. Given the importance of early antiviral therapy in these patients, we suggest a low diagnostic threshold for the initiation of empiric acyclovir in pregnant or recently-pregnant patients presenting with acute liver failure. Furthermore, we recommend early HSV PCR testing for evaluation in the appropriate clinical context.
+Final Diagnosis
+Herpes Simplex Virus Hepatitis
+References
+Calix RX, Loeliger KB, Burn MS, Campbell KH. Acute Herpes Simplex Virus Hepatitis in Pregnancy. Obstet Gynecol. 2020 Feb;135(2):396-400. doi: 10.1097/AOG.0000000000003613. Erratum in: Obstet Gynecol. 2020 Jun;135(6):1489.
+PMID:31923059 ( PubMed abstract )
+Kaufman B, Gandhi SA, Louie E, Rizzi R, Illei P. Herpes simplex virus hepatitis: case report and review. Clin Infect Dis. 1997 Mar;24(3):334-8. doi: 10.1093/clinids/24.3.334.
+PMID:9114181 ( PubMed abstract )
+Natu A, Iuppa G, Packer CD. Herpes Simplex Virus Hepatitis: A Presentation of Multi-Institutional Cases to Promote Early Diagnosis and Management of the Disease. Case Reports Hepatol. 2017;2017:3180984. doi: 10.1155/2017/3180984. Epub 2017 Aug 1.
+PMID:28835860 ( PubMed abstract )
+Norvell JP, Blei AT, Jovanovic BD, Levitsky J. Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34. doi: 10.1002/lt.21250.
+PMID:17902129 ( PubMed abstract )
+Peters DJ, Greene WH, Ruggiero F, McGarrity TJ. Herpes simplex-induced fulminant hepatitis in adults: a call for empiric therapy. Dig Dis Sci. 2000 Dec;45(12):2399-404. doi: 10.1023/a:1005699210816.
+PMID:11258565 ( PubMed abstract )
+Rimawi BH, Meserve J, Rimawi RH, Min Z, Gnann JW Jr. Disseminated Herpes Simplex Virus with Fulminant Hepatitis. Case Reports Hepatol. 2015;2015:463825. doi: 10.1155/2015/463825. Epub 2015 Jul 28.
+PMID:26290760 ( PubMed abstract )
+Schiødt FV, Davern TJ, Shakil AO, McGuire B, Samuel G, Lee WM. Viral hepatitis-related acute liver failure. Am J Gastroenterol. 2003 Feb;98(2):448-53. doi: 10.1111/j.1572-0241.2003.t01-1-07223.x.
+PMID:12591067 ( PubMed abstract )

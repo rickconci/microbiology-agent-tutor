@@ -1,0 +1,26 @@
+History of Present Illness
+Summary: A man with fever and rash.
+A man in his sixties with a history of M1 acute myelogenous leukemia (AML) received induction chemotherapy that included cytarabine (ara-C), daunorubicin, and gemtuzumab ozogamicin, and consolidation treatment with high dose cytarabine. Following a relapse three months later, he received cytarabine and topotecan. This was complicated by fever and neutropenia, and the development of a generalized papular rash.
+Past Medical History
+The patient had AML, as per the history of the present illness.
+Medications
+Medications included cytarabine and topotecan; previous medications listed above.
+Physical Examination
+The patient appeared toxic. The temperature was 106.5° F (41.4° C), with rigors and hypotension. There was a generalized erythematous, non-blanching papular rash. The rash on his right thigh is shown in Figures 1 and 2 .
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The white blood cell count (WBC) was 100 cells/mm³, with an absolute neutrophil count (ANC) of 0 cells/mm³.
+Diagnostic Procedure(s) and Result(s)
+Cultures of the blood and a specimen from a punch biopsy of a lesion on his right thigh grew Candida lusitaniae . Pathological examination of the tissue was consistent with invasive fungal disease.
+Treatment and Followup
+This patient developed disseminated candidiasis following chemotherapy for relapsed AML. He was treated with fluconazole and caspofungin with sterilization of his blood cultures and resolution of the skin lesions.
+Discussion
+The patient’s profound neutropenia predisposed him to disseminated candidiasis. Biopsy of the skin lesion allowed early diagnosis. Candida lusitaniae is intrinsically resistant to amphotericin B. Consequently, he received azole therapy and caspofungin.
+Final Diagnosis
+Disseminated Candida lusitaniae .
+References
+Pfaller, M.A. (1996). Nosocomial candidiasis: emerging species, reservoirs, and modes of transmission. Clin Infect Dis 22 Suppl 2, S89-94.
+PMID:8722834 ( PubMed abstract )
+Safdar, A. (2007). Difficulties with fungal infections in acute myelogenous leukemia patients: immune enhancement strategies. Oncologist 12 Suppl 2, 2-6.
+PMID:18039633 ( PubMed abstract )

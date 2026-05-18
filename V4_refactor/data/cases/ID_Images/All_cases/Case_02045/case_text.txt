@@ -1,0 +1,26 @@
+History of Present Illness
+Summary: An elderly man with fever, chills and abdominal pain.
+A man in his eighties presented with four days of fever, shaking chills and crampy abdominal pain, without diarrhea.
+Past Medical History
+There was a history of hypertension and benign prostatic hypertrophy.
+Physical Examination
+The patient appeared ill; the temperature was 102°F (38.9°C). The abdomen was not tender and the pulses in the lower extremities were full.
+Studies
+The white blood cell count (WBC) was 11,000 cells/mm³. Computed tomography (CT) of the abdomen revealed extensive soft tissue stranding around the abdominal aorta with a focal aneurysmal dilatation below the right renal artery, consistent with a mycotic aneurysm ( Figure 1 ). Blood cultures were positive.
+Figure 1. Abdominal CT scan.
+Diagnostic Procedure(s) and Result(s)
+The patient was taken emergently to the operating room, where a mycotic aneurysm of the infrarenal aorta was found. The area was debrided and the patient underwent right axillobifemoral bypass grafting. Operative specimens and blood cultures were positive for Salmonella enteritidis ( Figure 2 ).
+Figure 2. Gram stain from aortic aneurysm.
+Treatment and Followup
+The patient was treated with antibiotics, did well and was discharged home.
+Discussion
+A mycotic aneurysm is a localized dilatation of an artery due to infection in the vessel wall. Mycotic aneurysms arise following bacterial infection of a previously normal arterial wall or through secondary infection of a pre-existing aneurysm. In some series, Salmonella species are the second most common cause of mycotic aneurysms, after Staphylococcus aureus . Salmonella enteritidis is one of the non-typhoidal salmonellae and is commonly associated with foodborne outbreaks of diarrheal disease.
+Final Diagnosis
+Salmonella enteritidis aortitis.
+References
+Hsu, R.B., Tsay, Y.G., Wang, S.S., and Chu, S.H. (2003). Management of aortic aneurysm infected with Salmonella. Br J Surg 90, 1080-1084.
+PMID:12945075 ( PubMed abstract )
+Oskoui, R., Davis, W.A., and Gomes, M.N. (1993). Salmonella aortitis. A report of a successfully treated case with a comprehensive review of the literature. Arch Intern Med 153, 517-525.
+PMID:8435031 ( PubMed abstract )
+Soravia-Dunand, V.A., Loo, V.G., and Salit, I.E. (1999). Aortitis due to Salmonella: report of 10 cases and comprehensive review of the literature. Clin Infect Dis 29, 862-868.
+PMID:10589904 ( PubMed abstract )

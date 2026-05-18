@@ -1,0 +1,57 @@
+History of Present Illness
+2008 January Featured Case Summary: A man with human immunodeficiency virus (HIV) infection and increasing dyspnea for one week.
+A man in his fifties with a history of HIV infection, who had been lost to follow-up for 13 months, presented to the outpatient infectious disease clinic because of progressive dyspnea on exertion. Seven days earlier, he had first noticed significant shortness of breath after a long bicycle ride, associated with minimal cough productive of clear sputum. During the following week, his symptoms increased in severity to dyspnea at rest.
+He had lost weight during the preceding 3-4 months, though he was unsure of the amount. Two months before presentation, blurred vision had developed, and during the preceding 2 weeks, he had noted some "floaters" in his left eye. During the month before presentation, white material in his mouth developed that he attempted to clear with mouthwash. He experienced worsening chest discomfort, which he attributed to gastric reflux symptoms, that progressed to odynophagia over the 1-2 weeks preceding his visit. Approximately 3 days before presentation, intermittent headaches developed, which he attributed to frustration at being unable to eat. There was no fever and he did not have a headache at presentation.
+Past Medical History
+There was a history of human immunodeficiency virus (HIV) infection. Thirteen months earlier, the CD4 T-lymphocyte count was 215 cells/mm³ (17.4%) and the plasma HIV RNA level was 177,000 copies per milliliter. He had subsequently been lost to follow-up until the current presentation. He had never taken antiretroviral medications.
+There was also a history of hypertension, eczema, recurrent herpes simplex virus on the buttocks, latent tuberculosis (treated with at least 6 months of isoniazid 5 years earlier), latent syphilis and possible neurosyphilis (treated five years earlier).
+Medications
+His only medication was hydrochlorothiazide (25 mg daily).
+Social History
+He lived with a roommate and worked sporadically.
+Epidemiological History
+He drank alcohol, had used intranasal cocaine in the recent past, and smoked cigarettes. He did not own pets. He had had sexual activity with men, but was not currently sexually active.
+Physical Examination
+He was thin and appeared in moderate respiratory distress. The blood pressure was 110/71 mm Hg, pulse 97 beats per minute, respirations 24-40 breaths per minute, and oxygen saturation 93% while breathing 60% oxygen administered by face mask. The temperature was 98.6°F (37.0°C). There was angular cheilitis and the oropharynx revealed patchy hyperpigmentation. There were fine scattered inspiratory crackles in both lungs, extending from the bases to 2/3 up the lung fields posteriorly. There was no lymphadenopathy, and the remainder of the examination was normal.
+Studies
+The white cell count was 6,500 cells/mm³ (reference range 4,500-11,000) with 78% neutrophils, 16% lymphocytes, 5% monocytes and 1% basophils, hematocrit 36.1% (reference range 41.0-53.0), and hemoglobin 12.1 gm/dl (13.5-17.5). Lactic dehydrogenase was 505 U/L (reference range 110-210). Results of plasma electrolytes, and tests of renal and liver function were normal. Test results for cardiac isoenzymes and troponin T were negative. An electrocardiogram revealed a normal sinus rhythm with left atrial enlargement, and non-specific ST segment and T wave changes.
+Chest radiographs are shown in Figures 1 and 2 .
+Figure 1. Chest radiograph on admission.
+Figure 2. Lateral view of chest radiograph.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) of the chest is shown in Figures 3, 4 and 5 .
+Figure 3. CT scan of the chest.
+Figure 4. CT scan of the chest.
+Figure 5. CT scan of the chest.
+Diagnostic Procedure(s) and Result(s)
+The chest radiographs revealed diffuse alveolar and interstitial infiltrates, with some bullous disease in the apices. The CT scan of the chest demonstrated paraseptal and centrilobular emphysema, diffuse bilateral ground glass opacities, with increasing confluence of consolidation in the bases, and sparing of the bases more inferiorly. There was also a 7-millimeter nodule at the right apex.
+Immunofluorescent staining of an induced sputum specimen for Pneumocystis jirovecii was positive, ( Figure 6 ), and revealed the ovoid organisms in clusters. Testing for respiratory viruses and cultures of the sputum for tuberculosis were negative.
+Figure 6. Immunofluorescent stain for Pneumocystis.
+Treatment and Followup
+High dose trimethoprim-sulfamethoxazole and prednisone 40 mg twice daily, orally, were begun immediately upon admission, for a presumptive diagnosis of Pneumocystis pneumonia. His pulmonary status gradually improved over the course of his admission. At the time of discharge, he was comfortable at rest while breathing ambient air, and was able to perform activities of daily living without significant difficulty.
+Fluconazole was administered empirically for his odynophagia, with little improvement. Subsequently, an endoscopic examination of the upper gastrointestinal tract was performed and revealed diffuse grade IV esophagitis with ulceration. Immunohistochemistry was positive for cytomegalovirus (CMV) and herpes simplex virus (HSV), types 1 and 2. Viral cultures of specimens obtained during the endoscopy grew CMV and HSV, type 1. Immunofluorescent stain of HSV is shown in Figure 7 . Ganciclovir was administered intravenously; his odynophagia and oral intake of solids and liquids improved. Ganciclovir was changed to oral valganciclovir.
+Examination by an ophthalmologist revealed no evidence of CMV retinitis, although a cotton wool spot and a partial vitreous detachment on the left were noted. At discharge, medications included trimethoprim-sulfamethoxazole double strength, 2 tablets three times daily for 8 days and followed by 1 tablet daily indefinitely; prednisone 20 mg for 8 days, valganciclovir, atenolol, clotrimazole troches, azithromycin, protonix and mupirocin 2% cream as needed to areas on his face. Two days after discharge, he returned to clinic and highly-active antiretroviral therapy (HAART) was prescribed.
+Figure 7. Immunofluorescent stain of HSV from culture.
+Discussion
+Pneumocystis , an organism known to cause infections in immunocompromised hosts, was one of the pathogens diagnosed in the first reports of the disease that became known as acquired immune deficiency syndrome (AIDS) [CDC 1981 (1) and CDC 1981 (2)]. Pneumocystis pneumonia (PCP) was named one of the first AIDS-defining illnesses.
+It was initially thought to be protozoal; however, genetic analysis of Pneumocystis has led to its identification as a fungus. Subsequent research indicated that Pneumocystis is host-specific; that is, a strain that infects rats does not appear to be the same as that which infects humans. Consequently, the name of the human pathogen was changed from Pneumocystis carinii , which was isolated from rats, to Pneumocystis jiroveci, and then to Pneumocystis jirovecii [Walzer and Smulian 2005].
+Pneumocystis infection is acquired and communicable, and its distribution is worldwide. Specific seasonal variation has not been clearly established. The most common presenting symptoms include fever, dyspnea, and cough, which is often non-productive. Infection in patients with HIV may develop sub-acutely (especially in comparison to immunocompromised individuals not infected with HIV), with symptoms occurring gradually over a period of weeks to months. Chest radiographs typically reveal diffuse interstitial changes in the perihilar regions, though significant radiographic variability occurs, ranging from clear lung fields to focal infiltrates and cavities. High resolution computed tomography (HRCT) that demonstrates ground glass opacities may be helpful in suggesting a diagnosis of PCP, particularly in the setting of a normal chest radiograph. Culture of the organism remains difficult; diagnosis is often made by pathological examination of secretions or tissue, with the use of immunofluorescent or other staining, or polymerase chain reaction (PCR) testing [Walzer and Smulian 2005].
+In this patient, who was known to be infected with HIV and presented with severe dyspnea and bilateral interstitial infiltrates on chest radiography, the diagnosis of PCP was immediately considered, and appropriate treatment begun. Mycobacterium tuberculosis ( M. tb ) infection was also considered given the high-rate of M. tb co-infection with HIV, his previous history of infection and recent weight loss. Mycoplasma pneumoniae or Legionella pneumophila might also present with bilateral interstitial infiltrates. Although Cytomegalovirus (CMV) can cause a similar radiographic picture, it is an uncommon cause of pneumonia in patients with AIDS. Streptococcus pneumoniae infection would more commonly present as a focal lobar consolidation. The presence of Pneumocystis co-infection with cytomegalovirus has been reported previously [Lemert et al 1996, Drut el al 1997]. Of interest is the documentation of a third co-infection, herpes simplex virus, in this patient.
+References:
+1. Centers for Disease Control (CDC). Pneumocystis pneumonia--Los Angeles. MMWR 1981;30:250-2. PMID: 6265753
+2. Centers for Disease Control (CDC). Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men--New York City and California. MMWR 1981;30:305-8. PMID: 6789108
+3. Drut R. Anderson V. Greco MA. Gutierrez C. de Leon-Bojorge B. Menezes D. Peruga A. Quijano G. Ridaura C. Siminovich M. Mayoral PV. Weissenbacher M. Opportunistic infections in pediatric HIV infection: a study of 74 autopsy cases from Latin America. The Latin American AIDS Pathology Study Group. Pediatric Pathology & Laboratory Medicine. 17(4):569-76, 1997 Jul-Aug. PMID: 9211549
+4. Lemert CM. Baughman RP. Hayner CE. Nestok BR. Relationship between cytomegalovirus cells and survival in acquired immunodeficiency syndrome patients. Acta Cytologica. 40(2):205-10, 1996 Mar-Apr. PMID: 8629399
+5. Walzer PD and Smulian AG. Chapter 268 Pneumocystis Species in Mandell GL, Bennett JE, Dolin R. Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 3080-3094. Elsevier.
+Final Diagnosis
+Pneumocystis jirovecii (formerly known as Pneumocystis carinii ) pneumonia, in a patient with HIV infection and AIDS, with Cytomegalovirus and Herpes Simplex virus co-infections.
+References
+(1981). Kaposi's sarcoma and Pneumocystis pneumonia among homosexual men--New York City and California. MMWR Morb Mortal Wkly Rep 30, 305-308.
+PMID:6789108 ( PubMed abstract )
+(1981). Pneumocystis pneumonia--Los Angeles. MMWR Morb Mortal Wkly Rep 30, 250-252.
+PMID:6265753 ( PubMed abstract )
+Drut, R., Anderson, V., Greco, M.A., Gutierrez, C., de Leon-Bojorge, B., Menezes, D., Peruga, A., Quijano, G., Ridaura, C., Siminovich, M., Mayoral, P.V., and Weissenbacher, M. (1997). Opportunistic infections in pediatric HIV infection: a study of 74 autopsy cases from Latin America. The Latin American AIDS Pathology Study Group. Pediatr Pathol Lab Med 17, 569-576.
+PMID:9211549 ( PubMed abstract )
+Lemert, C.M., Baughman, R.P., Hayner, C.E., and Nestok, B.R. (1996). Relationship between cytomegalovirus cells and survival in acquired immunodeficiency syndrome patients. Acta Cytol 40, 205-210.
+PMID:8629399 ( PubMed abstract )
+Walzer PD and Smulian AG. Chapter 268 Pneumocystis Species in Mandell GL, Bennett JE, Dolin R. Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 3080-3094. Elsevier

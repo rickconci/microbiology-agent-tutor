@@ -1,0 +1,58 @@
+History of Present Illness
+A man in his seventies presented with a non-painful left index finger ulcer that had been present for several years. The lesion began as a superficial scratch that occurred while working on a tractor. The scratch did not improve after using over the counter antibiotic cream. He then developed an ulceration that slowly enlarged over several years. He was then diagnosed with giant cell arteritis and started on high-dose prednisone and other oral immunosuppression. He noted initial improvement in the ulceration but then it rapidly worsened.
+He denied fever, chills, night sweats, weight loss, congestion, hoarseness, odynophagia, cough, dyspnea, chest pain, abdominal pain, nausea, vomiting, or diarrhea. No other skin lesions were present.
+He was referred to infectious disease for further evaluation.
+Past Medical History
+• Giant cell arteritis
+• Hyperlipidemia
+Medications
+• Adalimumab
+• Metronidazole cream 0.75%
+• Minocycline 100mg twice daily
+• Mycophenolate 1000mg twice daily
+• Pimecrolimus 1% cream
+• Prednisone 7mg daily (tapered from 60mg daily)
+Epidemiological History
+He previously worked as an ecologist and retired years ago. Monogamous with his wife. Currently lives in a rural area in the South-Central United States. He has hobbies including birding, woodworking, gardening, fishing, and hunting. He does not ingest unpasteurized dairy products or undercooked food. He has traveled previously to South and Central America several years before the finger ulceration appeared with additional trips afterwards. He previously had dogs, no other direct contact with animals except as above.
+Physical Examination
+He was well appearing. His temperature was 98.1 degrees Fahrenheit, heart rate was 64, blood pressure was 117/83, respiratory rate was 18, and O2 saturation was 100% on room air. An ulcerated plaque was present on the left index finger with cribriform scarring and some areas of overlying granulation tissue with extension of the ulcer into the interweb space and onto the base of the middle finger. Rolled borders were present around the lesion. A few erythematous papules were present on the acral aspect of the left middle finger. Otherwise, examination was normal.
+A few erythematous papules were present on the acral aspect of the left middle finger (Figure 3)
+Figure 1. Skin lesion after 9 months
+Figure 2. Skin lesion after 3 years
+Figure 3. Skin lesion after 4.5 years
+Studies
+• Wbc 8.39K/uL with 72.2% neutrophils and without eosinophilia. Hemoglobin and platelets were normal.
+• Creatinine was normal.
+• ALT was elevated to 49 (reference range 4-45 IU/L). AST, LDH, alkaline phosphatase, GGT, Total bilirubin were normal.
+• Interferon-gamma release assay was negative.
+• X-ray of the left hand was without acute findings. No bony erosions, joint spaces were well maintained, no significant soft tissue swelling seen.
+Clinical Course Prior to Diagnosis
+He had been evaluated by dermatology who performed numerous biopsies. Pathology on a wedge biopsy performed after being started on immunosuppression showed necrotizing granulomatous inflammation with lymphoplasmacytic inflammation. Multiple fungal and AFB cultures were negative.
+He had also previously received an empiric trial of itraconazole for blastomycosis without improvement.
+He had ongoing follow-up with dermatology with leading diagnosis of pyoderma gangrenosum. Trials of topical clobetasol, topical sodium cromoglycate, intra-lesional kenalog, dapsone, minocycline, and adalimumab did not demonstrate any improvement (Figures 1-3).
+Diagnostic Procedure(s) and Result(s)
+Repeat biopsy with dermatology was pursued. Tissue culture grew skin flora. AFB and fungal cultures were negative.
+Pathology showed an ulcer with mixed inflammation, granulation tissue, dermal necrosis, and poorly formed necrotizing granulomata. Another area that was biopsied showed a focal epidermal ulceration with underlying acute and lymphohistiocytic inflammation. PAS and FITE stains were negative.
+Bacterial DNA 16S PCR testing was positive for Leishmaniasis braziliensis complex.
+Treatment and Followup
+He was admitted to the hospital and started on intravenous liposomal amphotericin B 3mg/kg daily for 6 days. Due to acute kidney injury further doses were delayed. A week later he was started back on amphotericin 3mg/kg twice weekly for another 2 weeks. Due to clinical improvement treatment was then stopped.
+Otolaryngology performed an endoscopy and no evidence of mucosal leishmaniasis was found.
+Figure 4. Skin lesion after 2 weeks of treatment
+Figure 5. Skin lesion after 1 month of treatment
+Figure 6. Skin lesion after 1.5 months of treatment
+Figure 7. Skin lesion after 3 months of treatment
+Discussion
+Cutaneous leishmaniasis is a protozoal infection transmitted by bites from the sand fly. There is a diverse spectrum of disease depending on the infecting species residing in specific geographic locations. Leishmaniasis braziliensis is in the New World subgenus and is most commonly found in Central and South America [1, 2]. Our patient most likely acquired his infection in one of these regions during his travels. As the incubation period can be weeks to months, it is difficult to identify the precise timing or location of his infection. The most common skin findings are painless, chronic ulcerative lesions with well-defined indurated borders. This species can be associated with mucosal involvement, although none was found in this case [1, 2].
+Biopsy with histology, culture with special media to promote promastigote formation, and PCR testing are all recommended to improve yield of diagnosis. As demonstrated in this case, it can be difficult to diagnose Leishmaniasis braziliensis with histology alone due to scant number of organisms in the tissue. Even if amastigotes are not seen, granulomas with lymphocytic infiltration should raise concern for this diagnosis [1]. Culture is also more likely to be negative in lesions present for greater than 12 months. PCR is the most sensitive test, although can be limited due to poor sampling or presence of inhibitors of the sample [1, 2, 3].
+Uncomplicated cutaneous leishmaniasis can heal without treatment, which might have occurred in our patient if he had not been started on immunosuppression which then led to worsening disease. Complicated infections require systemic therapy. This includes lesions greater than 5 cm, lesions on the fingers, infections in those who are immunocompromised, or infections with a species associated with mucocutaneous involvement. Amphotericin B is most widely used for treatment due to accessibility and shorter treatment durations [1, 2, 5]. As with this patient, the skin lesions are rarely fully healed at completion of treatment. There is a period of increased local inflammation at the beginning of treatment followed by gradual improvement over the subsequent weeks to months. Relapse of cutaneous or mucosal disease can be seen, thereby necessitating clinical follow-up for one to two years following treatment [1, 4]. Our patient has remained symptom free for several years after completing treatment.
+Final Diagnosis
+Cutaneous Leishmaniasis
+References
+Aronson N, Herwaldt BL, Libman M, Pearson R, Lopez-Velez R, Weina P, Carvalho EM, Ephros M, Jeronimo S, Magill A. Diagnosis and Treatment of Leishmaniasis: Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). Clin Infect Dis. 2016 Dec 15;63(12):e202-e264. doi: 10.1093/cid/ciw670. Epub 2016 Nov 14. PMID: 27941151.
+PMID:27941151 ( PubMed abstract )
+Aronson N, Cutaneous leishmaniasis: Clinical manifestations and diagnosis. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.)
+3. Boggild AK, Ramos AP, Espinosa D, Valencia BM, Veland N, Miranda-Verastegui C, Arevalo J, Low DE, Llanos-Cuentas A. Clinical and demographic stratification of test performance: a pooled analysis of five laboratory diagnostic methods for American cutaneous leishmaniasis. Am J Trop Med Hyg. 2010 Aug;83(2):345-50. doi: 10.4269/ajtmh.2010.09-0414. PMID: 20682880; PMCID: PMC2911183.
+PMID:20682880 ( PubMed abstract )
+Murray HW. Leishmaniasis in the United States: treatment in 2012. Am J Trop Med Hyg. 2012 Mar;86(3):434-40. doi: 10.4269/ajtmh.2012.11-0682. PMID: 22403313; PMCID: PMC3284358.
+PMID:22403313 ( PubMed abstract )
+Aronson N, Cutaneous leishmaniasis: Treatment. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.)

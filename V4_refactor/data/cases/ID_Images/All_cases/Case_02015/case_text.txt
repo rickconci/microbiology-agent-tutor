@@ -1,0 +1,35 @@
+History of Present Illness
+IDSA 2002 Case Summary: A man with fever and headaches.
+A man in his twenties presented with a three-day history of fever, memory loss, and severe headaches.
+Past Medical History
+He had diabetes mellitus, hypertension, chronic headaches for 1 year, and end-stage renal disease, and was on hemodialysis.
+Medications
+Medications included enalapril, atenolol, and calcium acetate.
+Social History
+There was no history of smoking, drug use, or alcohol.
+Epidemiological History
+He was from Mexico, worked in agriculture, and had traveled home during previous year. He reported no animal exposures.
+Physical Examination
+The patient appeared ill and tachypneic. The temperature was 38.1°C (100.6°F), blood pressure 225/113 mm Hg, pulse 134 beats per minute, and respirations 35 breaths per minute. He was alert, but oriented to self only. The site of a hemodialysis catheter located in the right subclavian vein appeared normal. There was nystagmus on right lateral gaze and the reflexes were hypoactive throughout.
+Studies
+The white blood cell count (WBC) was 15,800/mm³ and the serum level of sodium was 124 mmol/L, urea nitrogen 40 mg/dL, and creatinine 6.0 mg/dL. A chest radiograph was normal. Magnetic resonance imaging (MRI) of the head revealed lepto-meningeal enhancement of the midbrain ( Figure 1 ).
+Clinical Course Prior to Diagnosis
+The patient was intubated for respiratory failure. He was treated empirically with four drug anti-tuberculosis therapy and intravenous amphotericin B and 5-fluorocytosine (5-FC). An external ventriculostomy drain was placed.
+Analysis of ventricular cerebrospinal fluid (CSF) revealed 133 white cells per cubic millimeter (51% neutrophils, 26% lymphocytes, and 3% monocytes) and 291 red cells/mm³, with a protein level of 44 mg/dl and glucose level of 57 mg/dl. Analysis of the CSF for cryptococcal antigen, Histoplasma antigen, and herpes simplex virus (HSV) polymerase chain reaction (PCR) and an acid-fast bacilli (AFB) smear were negative, and bacterial cultures were sterile. Serum tests for cryptococcal antigen and human immunodeficiency virus (HIV) antibody were negative. A cerebral magnetic resonance (MR) study with angiography showed diffuse bilateral vasculitis and infarctions.
+Fungal cultures on blood agar plate ( Figure 2 ) and Sabouraud plate ( Figure 3 ) are shown. Growth in AFB broth culture is shown in Figure 4 .
+Figure 1. Blood agar plate.
+Figure 2. Sabouraud plate.
+Figure 3. AFB broth culture.
+Diagnostic Procedure(s) and Result(s)
+The complement fixation tests for Coccidioides immitis antibody in the cerebrospinal fluid (CSF) and serum were positive.
+Treatment and Followup
+He received intravenous itraconazole and intrathecal amphotericin B. Unfortunately, he remained comatose. In consultation with the family, medical support was withdrawn, and he expired.
+Discussion
+Meningitis is the most serious complication of Coccidioides infection, and typically involves basilar meninges. Vasculitic strokes are seen on computed tomography (CT) scanning in 40% of patients, and are associated with 70% mortality.
+Final Diagnosis
+Coccidioidal meningitis, caused by Coccidioides immitis , with vasculitic infarctions in a patient with diabetes mellitus and end-stage renal disease.
+References
+Johnson, R.H., and Einstein, H.E. (2006). Coccidioidal meningitis. Clin Infect Dis 42, 103-107.
+PMID:16323099 ( PubMed abstract )
+Parish, J.M., and Blair, J.E. (2008). Coccidioidomycosis. Mayo Clin Proc 83, 343-348; quiz 348-349.
+PMID:18316002 ( PubMed abstract )

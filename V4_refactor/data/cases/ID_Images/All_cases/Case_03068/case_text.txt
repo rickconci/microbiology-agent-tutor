@@ -1,0 +1,21 @@
+History of Present Illness
+Summary: A young man with a fever and facial rash.
+A Vietnamese man in his twenties with a history of injection drug use presented with a ten-day history of fever and a non-pruritic rash on the face.
+Past Medical History
+There was a history of injection drug use.
+Epidemiological History
+He lived in Vietnam.
+Physical Examination
+There were papules and pustules on the face ( Figure 1 ), lips, and inside his mouth, where lesions were present on the buccal mucosa and soft and hard palates. Some pustules had a black center. The rest of the body was spared.
+Figure 1. Physical findings.
+Diagnostic Procedure(s) and Result(s)
+Penicillium marneffei was cultured from a pustule. A test for human immunodeficiency virus (HIV) was positive. On a complete blood count (CBC), there were 1% lymphocytes. A CD4 T-lymphocyte cell count was not performed.
+Treatment and Followup
+He was treated with itraconazole, and his fever and rash resolved.
+Discussion
+Penicillium marneffei is a common opportunistic infection in HIV-positive persons in Southeast Asia, generally occurring when the CD4 T-lymphocyte cell count is below 200/mm³. Patients may present with fever, lymphadenopathy, hepatosplenomegaly and cutaneous lesions. In HIV-positive individuals, the skin lesions of penicilliosis are often papular with central necrosis or umbilication. Although the skin lesions of penicilliosis resemble those of molluscum contagiosum, the latter condition is distinguished by the absence of systemic symptoms.
+Final Diagnosis
+Penicillium marneffei in an HIV-positive patient from Vietnam.
+References
+Ustianowski, A.P., Sieu, T.P., and Day, J.N. (2008). Penicillium marneffei infection in HIV. Curr Opin Infect Dis 21, 31-36
+PMID:18192783 ( PubMed abstract )

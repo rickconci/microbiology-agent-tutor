@@ -1,0 +1,55 @@
+History of Present Illness
+An Arabian woman in her 60s undergoing an evaluation for an adenocarcinoma of the sigmoid colon was incidentally found on MRI to have a complex mass within the left gluteus maximus.
+She reported first noticing tenderness in her left buttocks three years prior. Since then, she had worsening soreness that extended into the lateral aspect of the leg with associated weakness, which she attributed to her chronic lower back pain. She denied any fevers, chills, night sweats, or rash. She reported weight loss following a sleeve gastrectomy.
+Past Medical History
+Adenocarcinoma of the sigmoid colon
+Obesity status-post sleeve gastrectomy
+End-stage renal disease on hemodialysis
+Hypothyroidism
+Medications
+Levothyroxine
+Sevalamer
+Omeprazole
+Epidemiological History
+The patient is from the Arabian Peninsula and had regular exposure to dogs, sheep, and camels.
+Physical Examination
+The patient was afebrile and did not appear ill, and her vital signs were all within normal limits. Examination was significant for a 7 x 14 cm mildly tender firm immobile mass protruding on the left buttocks (Figure 1). The skin over the mass was intact and appeared similar to the surrounding skin. Her lungs were clear to auscultation and there was no hepatomegaly or splenomegaly.
+Figure 1. 7x14 cm firm mass protruding from left hip.
+Studies
+Leukocyte count was normal with no eosinophilia. Liver enzymes were within normal limits. Interferon gamma release assay for M. tuberculosis was negative. Echinococcus IgG antibody screening was negative. Ultrasonography (U/S) of the mass revealed a subcutaneous 16 x 8 x 17 cm coarsely echogenic non-calcified capsule containing numerous round anechoic cysts measuring up to 1.2 cm (Figure 2).
+Figure 2. Ultrasound of gluteal cyst. Subcutaneous 16 x 8 x 17 cm coarsely echogenic lesion containing numerous round anechoic cysts measuring up to 1.2 cm.
+Diagnostic Procedure(s) and Result(s)
+A dedicated musculoskeletal MRI of the pelvis demonstrated a multi-loculated mass well circumscribed by a thin uniform low-intensity capsule with T2 hyperintense / T1 hypointense rounded foci with similar dimensions seen in the ultrasound (Figure 3a and 3b). CT of the chest, abdomen, and pelvis was done as part of the patient’s colorectal cancer evaluation, and no other cystic lesions were seen.
+Figure 3. Figure 3a. Contrast Enhanced Pelvic MRI – T1 weighted axial view. Multi-loculated 7 x 17 x 11 cm mass arising from the gluteus maximus. Circumscribed by thin capsule/ pseudocapsule and containing numerous round foci measuring up to 1.2 cm.
+Figure 4. Figure 3b. Contrast Enhanced Pelvic MRI – T2 weighted coronal view. Multi-loculated 7 x 17 x 11 cm mass arising from the gluteus maximus. Circumscribed by thin capsule/ pseudocapsule and containing numerous round foci measuring up to 1.2 cm.
+Treatment and Followup
+The cyst was surgically excised without complications. Intra-operative examination described a capsule of fibrous tissue containing tan, purulent viscous fluid and multiple spherical, intact clear sacs which were consistent with hydatid cysts (Figures 4a, 4b, and 4c). She was treated with albendazole starting 5 days prior to surgery and continued for 6 months. She returned to her family home in the Arabian Peninsula and was lost to follow-up.
+Figure 5. Figure 4a. Photographs from intra-operative examination. Intra-operative examination of the cyst contents revealed yellow necrotic material containing transparent fluid-filled sacs.
+Figure 6. Figure 4b. Photographs from intra-operative examination. Intra-operative examination of the cyst contents revealed yellow necrotic material containing transparent fluid-filled sacs.
+Figure 7. Figure 4c. Photographs from intra-operative examination. Intra-operative examination of the cyst contents revealed yellow necrotic material containing transparent fluid-filled sacs.
+Discussion
+Cystic echinococcosis (CE), or cystic hydatid disease, is most commonly caused by the larval stage of the parasitic cestode Echinococcus granulosus , which is endemic in the area of the Arabian Peninsula. There are other species of echinococcus which may also cause CE in a minority of cases. CE has a worldwide distribution with an incidence of over 50 per person-years in endemic areas, and is most commonly seen in pastoral settings where humans live in close proximity to animals [1]. Canines are the definitive hosts for the adult E. granulosus , and the intermediate hosts include sheep, goats and camels, which are prevalent in the Middle East. Humans are exposed to the parasite through fecal ingestion, and are aberrant or accidental hosts. Clinical presentation varies based on the site of infection with the liver being affected in 68-75% of cases followed by the lung in 17.2-22% [1,2]. Lesions are typically solitary, but inoculation of other sites does occur especially following trauma to the primary cyst. Muscle involvement in the absence of hepatic or pulmonary disease as in our patient is very rare, and has only been reported in between 0.2-2.2% of cases even in endemic areas [2]. The antigens contained within hydatid cysts are well known to cause anaphylaxis, which is occasionally the initial presentation, and therefore cystic echinococcosis should be considered in the differential for painless cystic lesions in endemic areas before biopsy or fine needle aspiration that may disrupt the cyst is attempted [3].
+The diagnosis and staging of CE is based on characteristic imaging findings [4]. U/S, in addition to being more widely available in endemic areas than CT and MRI, has been shown to have a sensitivity and specificity ranging from 88-99% and 93-100% respectively [5] with very low inter-observer variability [6]. For muscular involvement, such as in our patient, MRI is preferred for the evaluation of anatomic relationships and neurovascular involvement needed to plan surgical excision [7]. Staging of cysts is based on pathognomonic morphologic characteristics on U/S and defined by the 2001 WHO criteria: active, transitional and inactive [2]. Our patient’s cyst was classified in the transitional stage based on degeneration of cysts and no histological evidence of echinococcosis noted.
+Serological testing is less reliable for E. granulosus than related species, such as E. multilocularis , with sensitivities only reaching 83-89% [4, 8]. Fluid extracted from hydatid cysts serves as a source of antigen in ELISA-based serologic testing for detection of host anti-echinococcus antibody. However, cross-reactivity with other parasites such as E. multilocularis and Taenia solium may confound test results [9]. Aspiration of the cyst for diagnostic purposes is not recommended due to the risk of spilled cyst contents causing and anaphylactic reaction or spreading to other sites. Protoscolices may be seen developing within cysts during the active stages. However, since the cysts disintegrate over time as they transition to the inactive stage, protoscolices may not always be seen, as depicted in our case. The inactive stage cyst is fibrotic and calcified. Consequently, the diagnosis is secured based on epidemiologic exposure of the patient, clinical presentation, and surgical morphological findings of cysts.
+Definitive treatment is surgical removal of the cyst. Perioperative anthelmintic therapy with benzimidazoles (mebendazole or albendazole) started one week before surgery and continued for up to 6 months following the operation is used to prevent recurrence and/or the spread of E. granulosus to other sites should there be spillage from the cyst during its removal. For inoperable cases, monotherapy with antihelmintics may be attempted, but has a cure rate of only around 30%, and is only appropriate in patients in whom surgery is contraindicated. Percutaneous-aspiration-injection-reaspiration (PAIR), which is often used for the hepatic and pulmonary infections that are more complicated to reach surgically, is rarely used for muscular hydatid disease [3]. Finally, watchful waiting may be appropriate for stable, calcified, and asymptomatic cysts [2].
+Regarding the other possible diagnoses included in the differential, toxoplasmosis of skeletal muscles caused by Toxoplasmosis gondii is rare and classically seen only in immunocompromised conditions such as HIV. Clonorchis sinesis is the Chinese river fluke, whose geographic distribution is restricted to Southeast Asia and does not form cysts in muscle or soft tissue. Extraneural cysticercosis caused by Taenia solium is typically found in muscle or soft tissue, and most often appears as calcified “cigar-shaped calcifications”. Stool examination for ova and parasites is insensitive in these patients as the intestinal tapeworm may not still be present by the time of diagnosis. Serologic testing is available, but not performed in this patient as the ultrasound was diagnostic. Rhabdomyosarcomas are typically much more aggressive.
+Final Diagnosis
+Cystic echinococcosis
+References
+Agudelo Higuita, N.I., E. Brunetti, and C. McCloskey, Cystic Echinococcosis. J Clin Microbiol, 2016. 54(3): p. 518-23
+PMID:26677245 ( PubMed abstract )
+Eckert, J., et al., WHO/OIE Manual on Echinococcosis in Humans and Animals: a Public Health Problem of Global Concern. World Health Organization and World Organisation for Animal Health, 2001(1): p. 262
+Tekin, R., et al., Hydatid cysts in muscles: clinical manifestations, diagnosis, and management of this atypical presentation. Rev Soc Bras Med Trop, 2015. 48(5): p. 594-8.
+PMID:26516970 ( PubMed abstract )
+Wuestenberg, J., et al., Diagnostics in cystic echinococcosis: serology versus ultrasonography. Turk J Gastroenterol, 2014. 25(4): p. 398-404.
+PMID:25254522 ( PubMed abstract )
+Macpherson, C.N. and R. Milner, Performance characteristics and quality control of community based ultrasound surveys for cystic and alveolar echinococcosis. Acta Trop, 2003. 85(2): p. 203-9.
+PMID:12606098 ( PubMed abstract )
+Larssen, T.B., et al., The occurrence of asymptomatic and symptomatic simple hepatic cysts. A prospective, hospital-based study. Clin Radiol, 2005. 60(9): p. 1026-9.
+PMID:16124985 ( PubMed abstract )
+Srinivas, MR, Deepashri B, Lakshmeesha MT. Imaging Spectrum of Hydatid Disease: Usual and Unusual Locations. Pol J Radiol, 2016. 81: p. 190-205
+PMID:27231490 ( PubMed abstract )
+McManus, D.P., et al., Echinococcosis. Lancet, 2003. 362(9392): p. 1295-304
+PMID:14575976 ( PubMed abstract )
+Carmena D, Benito A, and Eraso E. Antigens for the immunodiagnosis of Echinococcus granulosus infection: An update. Acta Trop, 2006. 98(1): p. 74-86.
+PMID:16527225 ( PubMed abstract )

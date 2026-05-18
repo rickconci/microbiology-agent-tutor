@@ -1,0 +1,60 @@
+History of Present Illness
+A man in his twenties was admitted to a hospital in a northeastern city during winter because of several days of nausea, vomiting and a diffuse rash.
+One week before admission, he was in his usual state of good health. Four days before admission, fever, fatigue, and nausea developed, associated with multiple episodes of non-bloody emesis. During the next three days, rash, headache and severe polyarthralgia developed. The rash initially erupted on his legs, and then ascended, with involvement of his palms and soles. The rash was non-pruritic. The polyarticular pain was asymmetric, involving primarily the left first toe, left ankle, right knee, left wrist and right thumb. He also reported gingival bleeding.
+He had noted a poor appetite and some photosensitivity with headache. He reported no dyspnea, cough, abdominal pain, hematochezia, hematemesis, hematuria, dysuria, or bruising. The patient reported no recent insect bites.
+Past Medical History
+The patient reported a possible history of genital warts, but denied a history of other sexually transmitted infections.
+Medications
+He occasionally used over-the-counter sleep aid for insomnia, and took no prescribed medications or herbal supplements.
+Epidemiological History
+The patient worked in a restaurant. He owned two cats and four rats, with which he reported having had close contact, including on the face and mouth, but was unaware of bites or scratches. He was sexually active with his girlfriend of four years. He smoked up to three packs per day of cigarettes for more than 10 years and had recently stopped before admission. He had previously smoked marijuana and had a remote history of cocaine and amphetamine use, with no history of intravenous drug use. He had no recent international or regional travel.
+Physical Examination
+The patient appeared acutely ill and fatigued. The blood pressure was 119/64 mm Hg, pulse 110 beats per minute, respirations 16 breaths per minute, and temperature 100.6°F (38.1°C). The oropharynx revealed mildly enlarged tonsils, without exudates. There was no cervical or supraclavicular lymphadenopathy. The neck was supple. There was a regular tachycardia and 1/6 systolic ejection murmur, with no cardiac rubs or gallops. The lungs were clear to auscultation bilaterally, without rales or rhonchi. The abdomen was soft, non-tender, non-distended with normal bowel sounds and no hepatosplenomegaly. There were no genitourinary lesions or penile discharge. Dermatologic examination revealed a maculopapular, non-blanching slightly palpable rash, with some petechial features. The rash was most prominent over his legs, palms and soles; no enanthem was present in the oropharynx. Multiple joints were warm, erythematous, very tender and moderately swollen, including the right knee, left ankle, and left wrist. Physical examination findings are shown in Figures 1 and 2 .
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The white blood cell count was 7200 cells/microliter (reference range (ref) 4200-9000), hemoglobin 10.8 g/dL (ref 13.7-17.5), platelets 43,000 per microliter (ref 150,000-330,000). The international normalized ratio was 1.0 (ref 1.0-1.2).
+The level of sodium was 139 mmol/L (ref 133-145), potassium 3.6 mmol/L (ref 3.3-5.1), serum creatinine 0.96 mg/dL (ref 0.67-1.17), calcium 7.7 mg/dL (ref 9.0-10.3), venous lactate 0.7 mmol/L (ref 0.5-2.2 ), fibrinogen 622 mg/dL (ref 172-409), haptoglobin 325 mg/dL (ref 30-200) and ferritin 447 ng/mL (ref 20-250).
+Testing for human immunodeficiency virus (HIV)-1 and -2 antibodies and antigen was negative. HIV-1 PCR was negative. Syphilis screen was non-reactive. Parvovirus B19 IgG was positive and IgM was negative. Epstein-Barr virus IgG was positive and IgM was negative. Testing for cytomegalovirus IgG and IgM, anti-nuclear antibody screening and the direct antiglobulin test were negative. Neisseria gonorrhoeae DNA amplification of the urine was negative.
+Abdominal ultrasonography revealed liver with a span of 16.3 cm and enlargement of the spleen, which measuring 16.2 cm.
+Clinical Course Prior to Diagnosis
+After the patient's admission, hematologic consultants reviewed a peripheral blood smear and felt the findings were unlikely to be consistent with thrombotic thrombocytopenic purpura or hemolytic uremic syndrome.
+Diagnostic Procedure(s) and Result(s)
+Two sets of blood cultures were obtained before the administration of antimicrobials, and an additional two blood cultures were collected in tubes containing sodium citrate (lavender top tubes, not containing sodium polyanethol sulfonate). The blood cultures were negative during the hospitalization. Testing by an outside laboratory detected Streptobacillus moniliformis DNA in the patient’s serum by real-time polymerase chain reaction.
+Treatment and Followup
+Penicillin G (1 million units every 4 hours intravenously) was administered for a seven-day course. After completion of the penicillin course, oral amoxicillin (500 mg orally, three times daily) was administered for another seven days.
+The fever, polyarthritis and thrombocytopenia improved during the first several days of his admission. He was discharged to his home with improvement in his symptoms. At a follow-up visit after completion of therapy, he had some residual fatigue and joint discomfort but otherwise felt well, with a normal physical examination.
+Discussion
+Rat-bite fever is a bacterial infection caused by Streptobacillus moniliformis , which is more common in North America, and Spirillum minus , which is more common in Asia. The incidence and prevalence of rat-bite fever are unclear, as the disease is not nationally reportable in the United States.
+Rat-bite fever is most often associated with exposure to rats, though other rodents may harbor S. moniliformis , as can carnivores that prey on these rodents. It is believed that rats, including pet and laboratory rats as well as wild rats, are asymptomatic carriers of S. moniliformis [Gaastra et al., 2009]. Exposure to S. moniliformis may involve contact with the rat’s saliva or excreta; an actual bite is not necessary to transmit infection. Groups at higher risk for contracting rat-bite fever include people with exposure to rats and rodents, such as rodent or snake owners, pet store workers, laboratory technicians, and inhabitants of crowded urban dwellings. The incubation period is typically less than 10 days (range 1-22 days).
+Rat-bite fever is a systemic illness with several non-specific features, including fever, rigors, migratory polyarthralgia and rash. The rash may involve palms and soles and may be maculopapular, petechial, or purpuric; hemorrhagic pustules may be seen [Cunningham et al., 1998].
+Thrombocytopenia was a prominent feature of this patient’s illness. Case reports describe rat-bite fever with associated thrombocytopenia [Center for Disease Control and Prevention, 2005; Center for Disease Control and Prevention, 2014].
+S. moniliformis is a highly pleomorphic, filamentous, gram negative rod. Isolation of the causative bacteria in cultures of blood or synovial fluid is the gold standard for diagnosis. Because the organism is fastidious and challenging to grow in culture media, confirmation of the diagnosis microbiologically can be difficult. Sodium polyanethol sulfonate, a component in standard blood culture media, has been shown to inhibit bacterial growth of S. moniliformis [Shanson et al., 1985]. S. moniliformis may be isolated using enriched media containing trypticase soy agar or broth enriched with 20% blood, serum or ascitic fluid [Elliott, 2007]. Polymerase chain reaction has been used to detect S. moniliformis in blister fluid from a pediatric patient [Berger et al., 2001]. Serologic testing for S. moniliformis is not currently available.
+Left untreated, rat-bite fever may carry significant morbidity and mortality. Numerous complications have been described, including endocarditis [Madhubashini, 2013], leukocytoclastic vasculitis [Gilroy, 2002] and septic arthritis [Dworkin et al., 2010].
+The treatment of choice is intravenous penicillin [Roughgarden, 1965; Elliott, 2007]. Tetracycline may be considered in cases of penicillin allergy [Gilroy and Kahn, 2002]. There are cases where ceftriaxone has been used, such as a 58-year-old male with an epidural abscess due to S. moniliformis [Addidle et al., 2012] and a 9-year-old girl who developed rat bite fever [Cunningham et al., 1998]. Antibiotic susceptibility tests may be useful in guiding antibiotic therapy.
+Final Diagnosis
+Rat-bite fever caused by Streptobacillus moniliformis .
+References
+Addidle M, Pynn J, Grimwade K, Giola M. (2012). Epidural abscess caused by Streptobacillus moniliformis. Journal of Clinical Microbiology. 2012;50(9):3122-3124.
+PMID:22718932 ( PubMed abstract )
+Berger C, Altwegg M, Meyer A, Nadal D. (2001). Broad range polymerase chain reaction for diagnosis of rat-bite fever caused by Streptobacillus moniliformis. The Pediatric Infectious Disease Journal. 2001;20(12):1181-1182.
+PMID:11740332 ( PubMed abstract )
+Center for Disease Control and Prevention (CDC). (2005). Fatal rat bite fever -- Florida and Washington, 2003. Morbidity and Mortality Weekly Report, 7 Jan 2005;53(51):1198-1202.
+PMID:15635289 ( PubMed abstract )
+Center for Disease Control and Prevention (CDC). (2014). Notes from the field: fatal rat-bite fever in a child – San Diego County, California, 2013. Morbidity and Mortality Weekly Report. 19 Dec 2014;63(50):1210-1211.
+PMID:25522092 ( PubMed abstract )
+Cunningham BB, Paller AS, Katz BZ. (1998). Rat bite fever in a pet lover. Journal of the American Academy of Dermatology. 1998;38(2): 330-332.
+PMID:9486709 ( PubMed abstract )
+Dworkin J, Bankowski MJ, Wenceslao SM, Young R. (2010). A case of septic arthritis from rat-bite fever in Hawai’i. Hawai’i Journal of Medicine & Public Health. 2010;69(3):65-67.
+PMID:20397505 ( PubMed abstract )
+Elliott SP. (2007) Rat bite fever and Streptobacillus moniliformis. Clinical Microbiology Reviews. 2007;20(1):13-22.
+PMID:17223620 ( PubMed abstract )
+Gaastra W, Boot R, Ho HTK, Lipman LJA. (2009). Rat bite fever. Veterinary Microbiology. 2009;133:211-228.
+PMID:19008054 ( PubMed abstract )
+Gilroy SA, Kahn MU. (2002). Rat bite fever: Case report and review of the literature. Infectious Diseases in Clinical Practice. 2002;11:403-405.
+Madhubashini M, George S, Chandrasekaran S. (2013). Streptobacillus moniliformis endocarditis: Case report and review of literature. Indian Heart Journal. 2013;65:442-446.
+PMID:23993005 ( PubMed abstract )
+Roughgarden JW. (1965). Antimicrobial therapy of ratbite fever. Archives of Internal Medicine. 1965; 116:39-53.
+PMID:14338952 ( PubMed abstract )
+Shanson DC, Pratt J, Greene P. (1985). Comparison of media with and without ‘Panmede’ for the isolation of Streptobacillus moniliformis from blood cultures and observations on the inhibitory effect of sodium polyanethol sulphonate. Journal of Medical Microbiology. 1985;19(2):181-186.
+PMID:2984425 ( PubMed abstract )

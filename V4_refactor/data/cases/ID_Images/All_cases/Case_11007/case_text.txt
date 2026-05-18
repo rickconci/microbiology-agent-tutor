@@ -1,0 +1,53 @@
+History of Present Illness
+2011 IDSA Fellows’ Day Case Presentation Summary: A man with rapidly progressive generalized weakness, myalgias and respiratory distress.
+A man in his thirties presented in mid-winter with rapidly progressive generalized weakness, myalgias and respiratory distress. The patient was well until approximately three weeks before admission, when diffuse weakness and myalgias developed, followed by increasing rapidly progressive respiratory distress. He went to a hospital and a diagnosis of a viral illness was made. Supportive treatment was advised, and he returned home.
+Two days later, increasing weakness developed, associated with diarrhea, non-productive cough, fevers and chills. One week after the onset of symptoms, he went to the emergency room of another hospital. He reported weight loss of 4.5 kilograms since the onset of symptoms.
+On examination, there was hypotension, fever and acute respiratory distress with oxygen saturation of 80%. Computed tomography (CT) of the chest revealed bilateral minimal pleural effusion, right middle lobe and lingular lobe consolidation. CT of the abdomen revealed splenomegaly. Transesophageal echocardiography (TEE) showed a left ventricular ejection fraction of 54% and a large pericardial effusion, with features of cardiac tamponade.
+He was admitted to the intensive care unit and his clinical condition rapidly deteriorated. The trachea was intubated because of respiratory failure and vasopressors were administered for blood pressure support.
+A pericardial window procedure and biopsy were performed, and 700 cc pericardial fluid aspirated. Analysis of the pericardial fluid revealed lactate dehydrogenase 1533 IU/L, protein 3250 g/dL, glucose 86 mg/dL, and white cells 31,000 /cumm with a lymphocytic predominance; the results were thought to be consistent with an exudative process. Pathological examination showed reactive changes and fibrin deposition consistent with acute and chronic inflammation. No evidence of malignancy was seen, and culture of the pericardial fluid was sterile. Serum antineutrophil cytoplasmic antibodies (ANCA) and antinuclear antibodies (ANA) were negative. Diagnoses of idiopathic myopericarditis, hospital acquired pneumonia and septic shock were made. Intravenous vancomycin, aztreonem and high-dose methylprednisolone were administered.
+The patient's clinical condition continued to worsen and he was transferred, approximately three weeks after the onset of his symptoms, to another hospital for further evaluation and treatment.
+Past Medical History
+He had previously been healthy.
+Allergies
+He was allergic to penicillin.
+Social History
+He lived with his wife and worked in industry.
+Epidemiological History
+He may have had exposures to cleaning solvents and other chemicals. His wife had had viral symptoms one week before admission. He had no exposure to pets, and no recent travel.
+Physical Examination
+The patient was sedated, on mechanical ventilation. The blood pressure was 110/80 mm Hg (on vasopressors), pulse 130 beats per minute, temperature 38.3°C (100.9°F), and respirations 20 per minute. He was obese, with a body mass index (BMI) of 34.1 SI units (weight in kilograms divided by the height in meters squared).
+The sclera were icteric. There was crepitus in the lower lung fields bilaterally and anasarca was present. The abdomen was mildly distended, with normal bowel sounds, and was soft, without organomegaly.
+Studies
+The hematocrit was 35.0% (reference range 41.0-53.0 in men), white blood count 7700/cubic millimeter (reference range 3800 - 9800), and platelets 49,000/cubic millimeter (reference range 140,000 - 440,000). The serum level of total bilirubin was 3.0 mg/dl (reference range 0.3 - 1.1), direct bilirubin 2.1 mg/dl (reference range 0.0 - 0.3), aspartate aminotransferase 352 U/L (reference range 11 - 47), alanine aminotransferase 265 U/L (reference range 7 - 53), and creatinine 3.08 mg/dl (reference range 0.70 - 1.30).
+Testing for antibodies to human immunodeficiency virus (HIV) was negative. Cultures of the blood culture, urine and cerebrospinal fluid (CSF) were sterile. A chest radiograph revealed multiple areas of airspace consolidation throughout all lobes of both lungs, which were thought to represent multifocal pneumonia ( Figure 1 ).
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Cultures of the pericardial fluid for bacteria, fungus and acid-fast bacilli remained sterile. Fevers persisted, and the antibiotics were changed to vancomycin, cefepime, and metronidazole. Continuous veno-venous hemodialysis and extracorporeal membrane oxygenation were begun because of renal failure and respiratory distress syndrome.
+Diagnostic Procedure(s) and Result(s)
+Polymerase chain reaction (PCR) testing of a nasopharyngeal specimen and a tracheal aspirate detected influenza A virus (H1N1) 2009 RNA. PCR testing of the pericardial fluid was negative for enterovirus. Analysis of the stool was negative for enterovirus shredding. The level of serum ferritin was 9000 ng/ml (reference range 22 – 322).
+By the tenth hospital day, the white cell count had decreased to 600 cells per cubic millimeter, and thrombocytopenia persisted. A bone marrow biopsy was performed. Pathological examination of a bone marrow biopsy with hematoxylin and eosin (H and E) stain and CD25 staining for histiocytes and macrophages revealed hypocellular marrow with evidence of hemophagocytosis ( Figures 2 and 3 ).
+Figure 2. Bone marrow biopsy specimen, hematoxylin and eosin stain.
+Figure 3. Bone marrow biopsy specimen, CD25 stain showing histiocytes and macrophages.
+Treatment and Followup
+Oseltamivir (75 mg twice a day) was administered per nasogastric tube for 10 days.
+Cultures remained negative for bacterial infection, and vancomycin,cefepime, metronidazole and micafungin were stopped. Viral cultures of nasal and tracheal specimens were repeated, and were negative for influenza.
+After hematology-oncology consultation, infliximab and granulocyte-colony stimulating factor were administered for hemophagocytic syndrome. On the 16th day, pressors and extracorporeal membrane oxygenation were discontinued, however, mechanical ventilation was temporarily continued due to respiratory failure. The patient did eventually recover, and was discharged home after 3 months in the hospital.
+Discussion
+The patient developed severe complications after infection with influenza A (H1N1) 2009, including myopericarditis, respiratory failure and hemophagocytic syndrome. Independent factors contributing to a high risk for severe H1N1 influenza infection include the extremes of age (either the elderly or neonates), pregnancy, immunocompromised states (e.g. HIV, solid organ transplantation), and obesity. This patient was obese, with BMI of 34.1 SI units. Severe influenza A H1N1 2009 infection can also develop in young healthy individuals, underlining the importance of promoting annual influenza vaccination.
+Influenza A (H1N1)-associated reactive hemophagocytic syndrome has been reported rarely in the literatures [Puzzelli et al. 2010, Zheng et al. 2010]. The most common viral infection that is reported to have association with hemophagocytic syndrome is Epstein-Barr virus (EBV) [Letsas et al. 2007]. The diagnosis of hemophagocytic syndrome should be considered in a patient who develops persistent fever, organomegaly and cytopenias in the setting of an infectious process.
+Hemophagocytic syndrome may be considered a contributing factor to fatal outcomes in patients with influenza A H1N1 2009 infection, despite treatment [Beutel et al. 2011]. It is a rare disease, first described in 1939, and is caused by dysregulation of natural killer T cells, resulting in activation and proliferation of lymphocytes or histiocytes with uncontrolled hemophogocytosis and cytokine overproduction or “cytokine storm”. This process leads to cellular damage and multiorgan dusfunction [Fisman 2000]. The diagnosis is established by molecular or clinical criteria, and this patient fulfilled 5 out of 8 clinical criteria for the diagnosis [Rouphael et al. 2007] including fever, splenomegaly, cytopenia, evidence of hemophagocytic syndrome in bone marrow biopsy and hyperferritinemia. Natural killer (NK) cell analysis and soluble CD25 tests, which are considered part of the diagnostic criteria, were not obtained.
+Final Diagnosis
+Influenza A (H1N1) 2009 virus infection with myopericarditis, respiratory failure and hemophagocytic syndrome.
+References
+Beutel, G., Wiesner, O., Eder, M., Hafer, C., Schneider, A.S., Kielstein, J.T., Kuhn, C., Heim, A., Ganzenmuller, T., Kreipe, H.H., Haverich, A., Tecklenburg, A., Ganser, A., Welte, T., and Hoeper, M.M. (2011). Virus-associated hemophagocytic syndrome as a major contributor to death in patients with 2009 influenza A (H1N1) infection. Crit Care 15, R80.
+PMID:21366922 ( PubMed abstract )
+Fisman, D.N. (2000). Hemophagocytic syndromes and infection. Emerg Infect Dis 6, 601-608.
+PMID:11076718 ( PubMed abstract )
+Letsas, K.P., Filippatos, G.S., Delimpasi, S., Spanakis, N., Kounas, S.P., Efremidis, M., Tsakris, A., and Kardaras, F. (2007). Enterovirus-induced fulminant myocarditis and hemophagocytic syndrome. J Infect 54, e75-77.
+PMID:16733067 ( PubMed abstract )
+Puzelli, S., Buonaguro, F.M., Facchini, M., Palmieri, A., Calzoletti, L., De Marco, M.A., Arace, P., de Campora, E., Esposito, C., Cassone, A., Rezza, G., and Donatelli, I. (2010). Cardiac tamponade and heart failure due to myopericarditis as a presentation of infection with the pandemic H1N1 2009 influenza A virus. J Clin Microbiol 48, 2298-2300.
+PMID:20392922 ( PubMed abstract )
+Rouphael, N.G., Talati, N.J., Vaughan, C., Cunningham, K., Moreira, R., and Gould, C. (2007). Infections associated with haemophagocytic syndrome. Lancet Infect Dis 7, 814-822.
+PMID:18045564 ( PubMed abstract )
+Zheng, Y., Yang, Y., Zhao, W., and Wang, H. (2010). Novel swine-origin influenza A (H1N1) virus-associated hemophagocytic syndrome--a first case report. Am J Trop Med Hyg 82, 743-745.
+PMID:20348529 ( PubMed abstract )

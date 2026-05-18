@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A man with a rash after travel to India and Europe.
+A man in his thirties presented with a rash after returning from a recent trip to India and Western Europe. Two days before presentation, he had developed vesicular skin lesions that were followed by malaise and fever. The rash had started on his head and spread to involve the trunk, all extremities, and genitalia. He denied cough or shortness of breath.
+Past Medical History
+There was a history of genital herpes simplex virus (HSV) and no known history of chickenpox or varicella vaccination.
+Epidemiological History
+The patient had immigrated to the United States from India more than ten years earlier. One week before presentation, he had returned from a three-week trip to India and Western Europe. He had stayed with family members while traveling; no one was ill during his stay. He denied sexual contact with anyone other than his wife and had had no exposure to animals.
+Physical Examination
+He appeared ill, but not toxic. The conjunctiva were injected; a vesicular rash had a preponderance of lesions on his face, back, and chest ( Figures 1 and 2 ). There were also ulcerated oral and genital lesions.
+Figure 1. Skin lesions.
+Figure 2. Skin lesions.
+Studies
+The white blood cell count was 6,300/mm³, hematocrit 44% and platelets 197,000/mm³. The level of serum chemistries, alkaline phosphatase, and bilirubin were normal. The aspartate aminotransferase (AST) was 61 U/L and alanine aminotransferase (ALT) was 58 U/L.
+Diagnostic Procedure(s) and Result(s)
+A direct fluorescent antibody (DFA) test was positive for varicella zoster virus (VZV).
+Treatment and Followup
+The patient was treated with oral acyclovir.
+Discussion
+This patient had a disseminated vesicular rash. The differential diagnosis includes chickenpox (primary varicella zoster virus or VZV) as well as other pox viruses such as monkeypox and smallpox. Several aspects of his history suggest chickenpox as the most likely diagnosis. First, he appeared ill, but non-toxic. Secondly, the constitutional symptoms followed the appearance of the rash, whereas in smallpox, a febrile prodrome precedes the rash. Thirdly, he had lesions in multiple stages of evolution in a given body area. In smallpox, the lesions will be in the same stage of evolution in a given body area. Smallpox lesions also tend to be greatest centrifugally, e.g. on the face and extremities, whereas his lesions were maximal on his back and chest. The lesions had evolved rapidly and did not involve the palms or soles, which also is more characteristic of chickenpox than smallpox. Finally, he had no known history of chickenpox or varicella vaccination.
+Although the patient presented shortly after an outbreak of monkeypox in the United States, he had no known exposure to animals. The constitutional symptoms of monkeypox precede the rash and lymphadenopathy, which he lacked, is often present.
+The diagnosis was quickly confirmed to be varicella zoster virus (VZV) by direct fluorescent antibody (DFA) testing of a lesion. It is unclear whether his penile lesions were due to chickenpox or reactivation of HSV as the lesions were not tested by DFA.
+Final Diagnosis
+Varicella (chickenpox) caused by varicella zoster virus (human herpes virus 3) infection.
+References
+Nalca, A., Rimoin, A.W., Bavari, S., and Whitehouse, C.A. (2005). Reemergence of monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 41, 1765-1771.
+PMID:16288402 ( PubMed abstract )
+Schmidt-Chanasit, J., and Sauerbrei, A. (2011). Evolution and world-wide distribution of varicella-zoster virus clades. Infect Genet Evol 11, 1-10.
+PMID:20817040 ( PubMed abstract )

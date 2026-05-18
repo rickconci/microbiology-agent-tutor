@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: A woman with AIDS, fever, and abdominal symptoms.
+A woman was reportedly infected with human immunodeficiency virus (HIV) by her husband approximately one decade before admission.
+Five years before admission, after immigrating to the United States Midwest from Uganda, a skin test for tuberculosis PPD was positive, with a negative chest radiograph, and she completed 6 months of isoniazid (INH) treatment. She then started on zidovudine (AZT) and lamivudine (3TC), and later switched to stavudine (D4T)-3TC-nevirapine, with intermittent adherence.
+One year before admission, she moved to urban New England, and stopped all medications. Five months later, she was admitted to the hospital with Pneumocystis jiroveci (formerly known as Pneumocystis carinii ) pneumonia. Three induced sputum samples for acid-fast bacilli (AFB) and mycobacterial culture were negative, and she was treated with steroids and pentamidine. At the end of treatment, her CD4 T-lymphocyte cell count was 4 cells/mm³ (0.5%) and the HIV nucleic acid viral load was 210,000 copies/mL. Her HIV genotype revealed the following mutations: K70R, K103N, Y181C, M184V, and G190A. Her course was complicated by diabetes and pancreatitis. The patient was started on antiretroviral therapy with tenofovir, abacavir, 3TC and lopinavir-ritonavir. Five days later, she presented with nausea, vomiting, abdominal pain, general malaise and fever. She denied cough, shortness of breath, rash or myalgias.
+Past Medical History
+See above.
+Medications
+Her HIV medications included tenofovir 300 mg daily and abacavir 300 mg, 3TC 150 mg, and lopinavir-ritonavir 400/100 mg twice daily. Other medications included daily trimethoprim-sulfamethoxazole (double strength), metformin 1gm, rosiglitazone 8 mg; NPH insulin (40U) subcutaneously each evening, iron sulfate, and azithromycin 1250 mg orally once per week.
+Epidemiological History
+She had immigrated from Uganda to the United States approximately five years before admission, and had not returned to Africa. She had worked in the healthcare industry until shortly before admission, and denied tobacco or alcohol use, or pet exposures.
+Physical Examination
+The patient appeared uncomfortable. The temperature was 101°F (38.3° C), blood pressure 110/86 mm Hg, heart rate 110 beats/minute, and respiratory rate 18/minute. The lungs were clear, the heart was tachycardic with a flow murmur, and the abdomen was mildly tender throughout, with more marked epigastric tenderness to deep palpation. There was no abdominal rebound or guarding, rash or other skin lesions.
+Studies
+The white blood cell count (WBC) was 7,600 cells/mm³, CD4 T-lymphocyte cell count 53 cells/mm³ (17%), and hematocrit 32%. The level of lactate was 1.8 U/L, lactate dehydrogenase (LDH) 416 U/L, amylase 34 U/L, and lipase 3 U/L; electrolytes and results of liver function tests were normal.
+Clinical Course Prior to Diagnosis
+After admission, her antiretroviral medications were stopped and computed tomography (CT) of the abdomen was performed (Figure 1), which revealed several peri-pancreatic lesions consistent with pseudocysts or lymphadenopathy. Magnetic resonance imaging (MRI) with cholangiopancreatography (MRCP) indicated the peri-pancreatic lesions were enlarged lymph nodes; retrocrural lymphadenopathy was also appreciated ( Figure 2 ).
+Figure 1. Abdominal CT scan.
+Figure 2. Abdominal MRI scan.
+Diagnostic Procedure(s) and Result(s)
+An endoscopic, ultrasound-guided biopsy of the peri-pancreatic lymph nodes was performed. The gram stain was negative, but acid-fast bacilli (AFB) stain revealed sheets of acid-fast bacilli. Pathology showed sheets of inflammatory cells, but no granulomas. Culture grew Mycobacterium tuberculosis after 12 days.
+Treatment and Followup
+The patient spiked fevers daily to 103-104°F (39.4-40°C) until three days after the discontinuation of her antiretroviral medications, after which her temperature curve trended back to normal and her abdominal pain began to resolve. She was initially started on treatment for both Mycobacterium avium complex (MAC) and M. tuberculosis (MTB) with isoniazid (INH), rifabutin, ethambutol, clarithromycin, pyrazinamide (PZA), and pyridoxine. Three induced sputum samples were negative for AFB. Once the culture results were available, clarithromycin was stopped.
+After one month, the organism proved to be susceptible to all of the drugs used, and ethambutol was stopped. She developed a pruritic rash that resolved after stopping PZA. She was later started on thrice weekly directly observed therapy (DOT) with INH and rifabutin. Her repeat CD4 T-lymphocyte cell count, off of antiretrovirals, was 10 cells/mm³ (2%). Follow-up MRI of the abdomen was done 6 weeks after starting treatment and showed no significant change in the size of the intra-abdominal lymph nodes ( Figure 3 ). Antiretroviral therapy was restarted at this point with the plan of adding systemic steroids if fevers and abdominal pain recurred.
+Figure 3. Abdominal MRI scan.
+Discussion
+The development of symptomatic MAC or tuberculosis infection within the first two months of starting highly active antiretroviral therapy (HAART) has been well described. This clinical presentation is referred to as immune reconstitution syndrome. Patients improve with either the withdrawal of antiretrovirals, the addition of systemic steroids, or both. These reactions are thought to represent a new inflammatory response to pre-existing infection that is unmasked due to restoration of CD4+ and/or CD8+ T-lymphocyte cells by HAART.
+Final Diagnosis
+Immune reconstitution syndrome with intra-abdominal tuberculous lymphadenitis in a patient with HIV infection and AIDS.
+References
+Onyebujoh, P.C., Ribeiro, I., and Whalen, C.C. (2007). Treatment Options for HIV-Associated Tuberculosis. J Infect Dis 196 Suppl 1, S35-45.
+PMID:17726832 ( PubMed abstract )
+Piggott, D.A., and Karakousis, P.C. (2011). Timing of antiretroviral therapy for HIV in the setting of TB treatment. Clin Dev Immunol 2011, 103917.
+PMID:21234380 ( PubMed abstract )

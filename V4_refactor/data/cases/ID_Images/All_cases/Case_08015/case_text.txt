@@ -1,0 +1,50 @@
+History of Present Illness
+2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A man in his twenties with headache, neck stiffness and cognitive decline of 4 months' duration.
+A man in his twenties was well until 4 months before presentation, when headache and neck stiffness developed. The headache was a moderately painful, dull ache that was worse with coughing or lying down. During the three weeks before admission, his family members noted a gradual slowing of his speech. Marked word-finding difficulties developed, and he was seen in an emergency department for evaluation. He also reported intermittent fevers (with no night sweats) and weight loss of 10-pounds.
+Past Medical History
+None.
+Medications
+None.
+Social History
+He was unemployed and lived with his parents.
+Epidemiological History
+He was born in the Southern United States. He smoked cigarettes daily, drank beer weekly, and smoked marijuana frequently. He had no history of sick contacts or foreign travel.
+Physical Examination
+The patient was cachectic and not in acute distress. The temperature was 101.4°F (38.6°C), blood pressure 110/75 mm Hg, pulse 112 beats per minute, and respirations 18 breaths per minute. There was bilateral papilledema, massive splenomegaly into the left lower quadrant, with no lymphadenopathy. The neurologic exam demonstrated psychomotor slowing and hyperreflexia. The remainder of the physical examination was normal.
+Studies
+The white blood cell count was 5,800 cells/mm³ (89% neutrophils, 6% lymphocytes), hematocrit 27%, and platelets 29,000 cells/mm³. There was mild hypoalbuminemia (2.2 g/dl), and other tests, including a metabolic panel and liver function tests, were normal. Analysis of cerebrospinal fluid (CSF) revealed an opening pressure of 39 cm of water, white cells <1 cells/mm³, red cells 0 cells/mm³, glucose 34 mg/dl, and total protein 122 mg/dl. Enzyme-linked immunosorbent assay (ELISA) for antibody to human immunodeficiency virus (HIV) was positive, and confirmed by a positive Western blot. The CD4+ T-lymphocyte cell count was 12 cells/mm³ and the level of HIV ribonucleic acid (RNA) measured 83,557 copies/ml.
+Clinical Course Prior to Diagnosis
+During the first week of hospitalization, the spleen enlarged further, with increasing abdominal tenderness. Computed tomography (CT) of the abdomen and pelvis showed hepatic enlargement and massive splenomegaly ( Figure 1 ). On the 9th day, due to concern for spontaneous splenic rupture, the spleen was surgically removed. On pathological examination, the spleen weighed 2.7 kilograms.
+Figure 1. CT scan of the abdomen.
+Diagnostic Procedure(s) and Result(s)
+Cryptococcus neoformans was cultured from specimens of blood and cerebrospinal fluid. Pathologic examination of the excised spleen showed marked infiltration of the spleen with numerous budding yeasts, consistent with C. neoformans ( Figure 2 through 4 ).
+Figure 2. Hematoxylin and eosin (H and E) stain of spleen specimen, low magnification.
+Figure 3. H and E stain of specimen, higher (40x) magnification.
+Figure 4. Mucicarmine stain of spleen specimen, 40x magnification.
+Treatment and Followup
+The patient was treated with amphotericin-B and 5-flucytosine (5FC) and had gradual neurologic improvement. He required repeat lumbar punctures to control symptomatic elevation of intracranial pressure. Cultures of the blood and cerebrospinal fluid remained positive until the 10th hospital day (one day after splenectomy.) After he completed three weeks of amphotericin and 5FC therapy, he was discharged on oral fluconazole, and planned to initiate antiretroviral therapy as an outpatient.
+Discussion
+The differential diagnosis of massive splenomegaly in the HIV-infected individual includes both non-infectious and infectious etiologies. The non-infectious causes include sarcoidosis, Gaucher’s disease and hematologic or neoplastic disorders, such as chronic leukemias, myelofibrosis and hairy-cell leukemia. Of the infectious causes, Histoplasma capsulatum , Mycobacterium avium complex, and M. tuberculosis would be most likely in a patient from the Southern United States without significant travel history. This patient had no known exposure to tropical diseases, such as malaria, leishmaniasis, or schistosomiasis, all of which are associated with tropical massive splenomegaly [Bedu-Addo and Bates 2002].
+Cryptococcus neoformans is an opportunistic pathogen that can lead to significant mortality in the immunocompromised host [Chuck and Sande 1989]. It is a rapidly growing, encapsulated yeast found in soil, often in association with pigeon droppings. Involvement of the central nervous system (CNS) is the most frequent non-pulmonary manifestation [Chuck and Sande 1989; Mitchell et al. 2003]. Disseminated infection to multiple organ sites can occur (Lewis and Rabinnovich 1972). Previous studies have described C. neoformans splenitis [Lewis and Rabinnovich 1972; Manner et al. 1992; Coskun et al. 2007] and one case report has described massive splenomegaly with lymphadenitis [Coskun et al. 2007].
+The standard of care (at the time of this publication) for disseminated cryptococcosis with central nervous system involvement in HIV-infected patients is at least 2 weeks of induction therapy with amphotericin B and flucytosine, followed by fluconazole until the patient achieves immune reconstitution after initiation of potent antiretroviral therapy [Saag et al. 1999; Dismukes 1993; van der Horst et al. 1997]. Patients should then receive chronic maintenance therapy with fluconazole 200 mg/day until the CD4 count is consistently equal to or greater than 200 cells/mm³ for 6 months after initiation of potent antiretroviral therapy [Saag et al. 1999; Dismukes 1993; van der Horst et al. 1997]. Some experts recommend that patients have a lumbar puncture to determine whether the cerebrospinal fluid (CSF) is sterile and antigen-negative before stopping maintenance therapy. At least one other report [Manner C et al. 1992], and the experience with this patient, suggest that splenectomy may be an important adjunctive step in the management of massive splenomegaly due to C. neoformans .
+Final Diagnosis
+Massive splenomegaly due to disseminated Cryptococcus neoformans in a patient with newly-diagnosed HIV and acquired immunodeficiency syndrome (AIDS).
+References
+Baddley JW, Dismukes WE.”Cryptococossis” in Dismukes, WE, Pappas PG, Sobel JD (eds.) Clinical Mycology. Oxford University Press, Oxford 2003
+Bedu-Addo, G., and Bates, I. (2002). Causes of massive tropical splenomegaly in Ghana. Lancet 360, 449-454.
+PMID:12241718 ( PubMed abstract )
+Chuck, S.L., and Sande, M.A. (1989). Infections with Cryptococcus neoformans in the acquired immunodeficiency syndrome. N Engl J Med 321, 794-799.
+PMID:2671735 ( PubMed abstract )
+Coskun, Z.U., Mathews, D., Weatherall, P., Skiest, D., and Oz, O.K. (2007). Cryptococcal lymphadenitis and massive splenomegaly in an immunocompromised patient. Clin Nucl Med 32, 314-316.
+PMID:17413585 ( PubMed abstract )
+Dismukes, W.E. (1993). Management of cryptococcosis. Clin Infect Dis 17 Suppl 2, S507-512.
+PMID:7741819 ( PubMed abstract )
+Lewis, J.L., and Rabinovich, S. (1972). The wide spectrum of cryptococcal infections. Am J Med 53, 315-322.
+PMID:5054723 ( PubMed abstract )
+Manner C, Gathe J, Piot D, Glass H, Clemmons J, McNeely R, Stool E. Cryptococcal splenitis. Int. Conf AIDS. 1992 Jul 19-24; 8:B122 (abstract).
+Mitchell, T.G., and Perfect, J.R. (1995). Cryptococcosis in the era of AIDS--100 years after the discovery of Cryptococcus neoformans. Clin Microbiol Rev 8, 515-548.
+PMID:8665468 ( PubMed abstract )
+Saag, M.S., Cloud, G.A., Graybill, J.R., Sobel, J.D., Tuazon, C.U., Johnson, P.C., Fessel, W.J., Moskovitz, B.L., Wiesinger, B., Cosmatos, D., Riser, L., Thomas, C., Hafner, R., and Dismukes, W.E. (1999). A comparison of itraconazole versus fluconazole as maintenance therapy for AIDS-associated cryptococcal meningitis. National Institute of Allergy and Infectious Diseases Mycoses Study Group. Clin Infect Dis 28, 291-296.
+PMID:10064246 ( PubMed abstract )
+van der Horst, C.M., Saag, M.S., Cloud, G.A., Hamill, R.J., Graybill, J.R., Sobel, J.D., Johnson, P.C., Tuazon, C.U., Kerkering, T., Moskovitz, B.L., Powderly, W.G., and Dismukes, W.E. (1997). Treatment of cryptococcal meningitis associated with the acquired immunodeficiency syndrome. National Institute of Allergy and Infectious Diseases Mycoses Study Group and AIDS Clinical Trials Group. N Engl J Med 337, 15-21.
+PMID:9203426 ( PubMed abstract )

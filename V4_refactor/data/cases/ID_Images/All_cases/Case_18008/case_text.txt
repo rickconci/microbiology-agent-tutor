@@ -1,0 +1,30 @@
+History of Present Illness
+A female in her thirties with substance use disorder presented to the Emergency Department with severe right shoulder pain that began suddenly two days prior to admission. This was associated with edema, erythema and weakness due to pain. She presented to an urgent care center and was prescribed clindamycin capsules but did not notice improvement. She had no fever or chills.
+She lives in Southern USA and swam in the Gulf of Mexico several weeks prior to presentation. There was no history of trauma, injury, or insect bite. Her last injection drug use was over a year ago. She denied the use of any new creams or medications and denied any shellfish consumption. She had no pets.
+Past Medical History
+Chronic hepatitis C infection
+Physical Examination
+Physical examination revealed a female in acute distress due to pain. The blood pressure was 141/78 mm Hg, pulse 90 beats per minute, temperature 99.1°F (37.3°C), oxygen saturation 99%, and respirations 17 per minute. She had significant edema of her right shoulder extending to her right hand and right chest wall. On the lateral aspect of her right arm there was one bulla with clear fluid surrounded by ecchymosis (Fig. 1). The skin was indurated and exquisitely tender to palpation without crepitus. No axillary lymphadenopathy, or obvious skin wound was appreciable. Radial pulse was palpable.
+Figure 1. Fig 1: Photograph of right upper arm showing purplish-black discoloration in at least 4 areas. These areas had irregular borders, were surrounded by a wide area of erythema and edema and were exquisitely painful.
+Studies
+Laboratory findings were significant for a raised white blood cell count of 21.08 (reference range 4.22-10.33 x 10 9 /L) and neutrophilia of 15.98 (1.98-6.59 x 10 9 /L). Hemoglobin and platelets were normal. Prothrombin time was 13.3 seconds (10.2-12.9 seconds) and INR was 1.2 (0.9-1.1). Renal function was normal. She had an elevated AST and ALT at 152 (10-35 Units/L) and 153 (10-35 Units/L), respectively with a normal bilirubin and alkaline phosphatase. Lactate was 1.1 (0.5-2.2 mmol/L). C-reactive protein was 13.2 mg/dL (0.0-0.5 mg/dL) and creatinine kinase was markedly elevated at 14592 Units/L (26-192 Units/L).
+A right shoulder MRI revealed diffuse soft tissue edema with patchy enhancement involving the muscles of the right lateral chest wall, shoulder, arm, and forearm (Fig. 2).
+Blood cultures were negative. HIV testing was negative.
+Figure 2. Fig 2: MRI of right upper extremity showing diffuse soft tissue edema and patchy enhancement involving the muscles of the right lateral chest wall, shoulder, arm, and forearm
+Diagnostic Procedure(s) and Result(s)
+The patient developed extensive necrotizing fasciitis of the right upper extremity and chest requiring emergent fasciotomy and tissue debridement. Anaerobic culture from the debrided tissue grew Clostridium sordellii .
+Treatment and Followup
+She completed 14 days of Piperacillin/Tazobactam and Vancomycin; and 7 days of Clindamycin. She had a prolonged hospitalization in the surgical intensive care unit requiring multiple right upper extremity and chest debridement procedures, right mastectomy and eventually underwent skin grafting.
+Discussion
+Clostridium sordellii is an anaerobic, gram-positive, spore-forming bacillus commonly found in soil and animal intestines. Infections due to Clostridium sordellii , caused by toxigenic strains, are rare and often fatal. Lethal toxin (LT) and hemorrhagic toxin (HT) are two of the seven C. sordellii exotoxins and are the major virulence factors responsible for cytotoxic damage (1). Aldape et al summarized 43 reported cases of C. sordellii infection from 1927 to 2006 (2). Common clinical scenarios in this case series included myonecrosis in injection drug users, endometritis in women undergoing medical abortions with mifepristone or normal childbirth. It is possible that our patient self-inoculated her right arm with C. sordellii -contaminated injection drug leading to an extensive deep-tissue infection, similarly to the described cluster of necrotizing fasciitis cases among black-tar heroin users in California (3).
+The signs and symptoms in our case are similar to those in previously described cases, characterized by an afebrile infection that can underestimate the underlying rapid progression to septic shock, a leukemoid reaction and increased hematocrit. LT and HT are responsible for local necrosis, increased vascular permeability, and ultimately a toxic shock syndrome. As in other cases, the initial imaging study revealed diffuse tissue edema without gas formation. Emergent surgery is critical for source control, removal of necrotic tissue (which reduces toxin accumulation), and for diagnosis, by obtaining tissue specimens for anaerobic cultures.
+C. sordellii , like other clostridia, are susceptible to β-lactams, clindamycin, tetracycline and chloramphenicol. Antibiotics are mainly used as adjunctive therapy for suppression of toxin synthesis for which clindamycin has been the most used and studied. Experimental studies with antitoxins have shown cytotoxicity prevention in mouse models; however, no commercially available preparation has been developed for human use. Prognosis is poor and the overall mortality rate has been documented as high as 69% (2).
+Final Diagnosis
+Clostridium sordellii necrotizing fasciitis
+References
+Carter GP, Awad MM, Hao Y, Thelen T, Bergin IL, Howarth PM, Seemann T, Rood JI, Aronoff DM, Lyras D. TcsL is an essential virulence factor in Clostridium sordellii ATCC 9714. Infect Immun. 2011 Mar;79(3):1025-32.
+PMID:21199912 ( PubMed abstract )
+Aldape MJ, Bryant AE, Stevens DL. Clostridium sordellii infection: epidemiology, clinical findings, and current perspectives on diagnosis and treatment. Clin Infect Dis. 2006;43(11):1436-46.
+PMID:17083018 ( PubMed abstract )
+Kimura AC, Higa JI, Levin RM, Simpson G, Vargas Y, Vugia DJ. Outbreak of necrotizing fasciitis due to Clostridium sordellii among black-tar heroin users. Clin Infect Dis. 2004 May 1;38(9):e87-91. Epub 2004 Apr 14.
+PMID:15127359 ( PubMed abstract )

@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: A child with fever and vomiting after a trip to Africa.
+A pre-adolescent African-American child returned from a one-month visit to West Africa. On the airplane ride home, the child developed fever, abdominal pain, and vomiting. The patient went emergently to the hospital upon arrival in the United States.
+Past Medical History
+The patient was diagnosed with dactylitis and sickle cell disease as an infant and had received three blood transfusions in the past in West Africa. There was an allergy to chloroquine.
+Medications
+Medications included penicillin and folic acid.
+Epidemiological History
+The child had lived in the United States for the previous three years, and had visited extended family in West Africa for one month before admission. No antimalarial prophylaxis had been taken during the trip.
+Physical Examination
+The patient was febrile and tachycardic, alert and in no distress. Mild scleral icterus and a soft systolic heart murmur were present. The liver edge was three centimeters below the costal margin. There was no splenomegaly or rash.
+Studies
+The white blood cell count (WBC) was 23,000 cells/mm³, with a left shift in the differential. The hematocrit was 21%, and platelets 351,000/mm³. The bilirubin was 5.1 mg/dL, aspartate aminotransferase (AST) 55 U/L, and alanine aminotransferase (ALT) 32 U/L. Images of the peripheral blood smear are shown (Figures 1 through 3).
+Figure 1. Peripheral blood smear.
+Figure 2. Peripheral blood smear.
+Figure 3. Peripheral blood smear.
+Diagnostic Procedure(s) and Result(s)
+The blood smear was positive for Plasmodium falciparum trophozoites. The parasitemia was estimated to be 10%.
+Treatment and Followup
+Doxycycline and a quinidine infusion were administered. The parasite load fell from 10% at presentation to 4% on the second hospital day; no parasites were seen on the day of discharge. The quinidine infusion was discontinued. No dysrhythmias developed. The child was discharged on oral doxycycline and quinine for five days.
+Discussion
+Malaria is one of the most important causes of fever in the returning traveler. The differential diagnosis depends on exposure history and how soon after the trip the traveler presents with fever.
+About 90% of Plasmodium falciparum cases are acquired in sub-Saharan Africa; 90% of infected travelers become ill within one month of their return. Chloroquine-resistance is common in much of Africa. The high frequency of the sickle-cell hemoglobin gene in malaria endemic regions is believed to be due to a heterozygote advantage against fatal malaria. However, malaria still occurs in those with sickle cell trait and disease and is associated with crises in the latter; therefore, prophylaxis should be considered.
+Final Diagnosis
+Plasmodium falciparum malaria in a child with sickle cell disease.
+References
+Kwiatkowski, D.P. (2005). How malaria has affected the human genome and what human genetics can teach us about malaria. Am J Hum Genet 77, 171-192.
+PMID:16001361 ( PubMed abstract )
+Oramasionwu, G.E., Wootton, S.H., and Edwards, M.S. (2010). Epidemiologic features impacting the presentation of malaria in children in Houston. Pediatr Infect Dis J 29, 28-32.
+PMID:19884871 ( PubMed abstract )

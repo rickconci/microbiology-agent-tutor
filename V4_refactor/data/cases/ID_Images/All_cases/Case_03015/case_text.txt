@@ -1,0 +1,42 @@
+History of Present Illness
+IDSA 2003 Summary: A man with fever and wasting.
+A man in his fifties presented with a two-week history of fevers, which were initially intermittent but progressed to daily fevers with chills. He reported a weight loss of more than 40 pounds (18 kilograms) over six months, with gradually worsening fatigue and malaise, but no night sweats. There was no headache, confusion or difficulty with coordination. His appetite was very poor but there was no nausea, abdominal pain, diarrhea, myalgias, arthralgias or rash.
+Past Medical History
+He had had malaria twice (as an adolescent and approximately 20 years before this presentation).
+Medications
+None.
+Allergies
+He had no known drug allergies.
+Family History
+He had healthy children living in Eastern Africa.
+Social History
+He lived alone and had had heterosexual sexual exposures intermittently during the previous few years.
+Epidemiological History
+The patient had grown up in Eastern Africa and had traveled to Southeast Asia. About 20 years before this presentation, he moved to an urban area in the Midwestern United States. He had a remote history of tobacco use, and reported no alcohol or illicit drug use. He had no known tuberculosis exposures, had not eaten undercooked meats or unpasteurized milk products, and reported no recent animal exposures or insect bites.
+Physical Examination
+The temperature was 38.9°C (102.0°F), blood pressure 117/81 mm Hg, pulse 84 beats per minute, and weight 54 kg. The patient was very thin with cachexia and temporal wasting. There were no oropharyngeal lesions or cervical adenopathy. The lungs were clear bilaterally; the heart rhythm was regular, and there was no cardiac murmur or gallop. The abdomen was moderately tender to palpation in the left upper quadrant. The spleen was firm and palpable to 6 centimeters (cm) below the costal margin and the liver was palpable to 3 cm below the costal margin. There was no peripheral edema or skin rash. The neurologic examination showed mild generalized weakness, without focal deficits.
+Studies
+The white blood cell (WBC) count was 1200 cells/mm³ (50% leukocytes, 40% lymphocytes, 9% monocytes, 0% eosinophils), hemoglobin 8.4 g/dL, hematocrit 25.7%, platelet count 63,000/mm³. The serum level of creatinine was 1.7 mg/dL, aspartate aminotransferase (AST) 79 u/L, alanine aminotransferase (ALT) 41 u/L, alkaline phosphatase 115 u/L, total bilirubin 0.2 mg/dL, total protein 9.7 g/dL, and albumin 3.0 g/dL. Coagulation parameters and electrolytes were normal.
+A chest radiograph was normal. Blood cultures were sterile. A test for antibodies to human immunodeficiency virus type 1 (HIV-1) was positive. The CD4 T-lymphocyte cell count was 54/mm³ and the human immunodeficiency virus (HIV) RNA level was 500,000 copies/mL.
+During the next week, the results of multiple tests were negative, including peripheral blood smears for parasites, serologic tests for syphilis, Histoplasma , Coccidioides , Toxoplasma , cytomegalovirus (CMV), antibodies to hepatitis B and C viruses, and cryptococcal antigen; blood polymerase chain reaction (PCR) tests for Epstein Barr Virus (EBV), cytomegalovirus (CMV) and parvovirus, urine Histoplasma antigen and a tuberculosis skin test (PPD).
+Computed tomography (CT) of the chest, abdomen and pelvis, with the administration of contrast, revealed massive splenomegaly, moderate hepatomegaly, and mild perihilar and axillary lymphadenopathy.
+Pathological examination of a bone marrow biopsy, performed on the seventh hospital day, showed normal trilineage hematopoeisis with nonspecific plasmacytosis. A lymph node biopsy of a small right axillary node showed normal architecture and reactive changes. Routine, fungal and acid-fast stains and cultures were negative for both the bone marrow and lymph node biopsy.
+Clinical Course Prior to Diagnosis
+The patient had high spiking fevers during the first few days, which then subsided into persistent low-grade fevers. On the 19th hospital day, antiretroviral therapy with lamivudine, efavirenz and stavudine was started. On the 36th day, the patient was transferred to another hospital for further evaluation.
+He had low-grade fevers, marked hiccupping and increasing dull epigastric and left upper abdominal pain. At that time, the white blood cell count was 1700/mm³ (78% leukocytes, 20% monocytes, 0% eosinophils), the hemoglobin was 7.8 g/dL, the hematocrit 21.8% and the platelet count was 60,000/mm³.
+A second bone marrow biopsy was performed on the 40th hospital day ( Figures 1 and 2 ).
+Figure 1. Bone marrow aspirate.
+Figure 2. Bone marrow aspirate.
+Diagnostic Procedure(s) and Result(s)
+Staining of the aspirate and core biopsy revealed many tiny oval organisms with clear cytoplasm and multiple blue organelles. They measured approximately 4 micrometers in length and were mostly intracellular, within monocytes, but occasionally appeared free or within granulocytes.
+Serology for Leishmania species at the Center for Disease Control (CDC) was strongly positive, to a dilution of 1:512. The bone marrow aspirate was cultured in NNN media and grew Leishmania donovani . (See Figures 3 and 4 .)
+Figure 3. Culture results day 10.
+Figure 4. Culture results day 10.
+Treatment and Followup
+The patient received a 21-day course of the liposomal formulation of amphotericin B (5 mg/kg daily dosing), which he tolerated well. The treatment plan was to continue once or twice weekly therapy for a prolonged period and then change to maintenance therapy of intermittent liposomal amphotericin indefinitely.
+HIV-antiviral therapy was continued and, at eight weeks, the patient's CD4 T-cell count had increased to 112 cells/mm³.
+Discussion
+This case illustrates the potential for reactivation of Leishmania donovani in the setting of HIV-induced impairment of cell-mediated immunity. The presentation was dominated by the classic findings of massive splenomegaly and a severe wasting syndrome. Pancytopenia is highly characteristic and the absence of eosinophilia is typical. Also notable was the hypergammaglobulinemia.
+The initial gastrointestinal symptoms that this patient experienced by this patient is unusual in classic visceral leishmaniasis but has been described in cases associated with HIV. The reason for the negative initial bone marrow biopsy may have been due to improper staining technique or simply early timing. Classically, splenic aspirates are used to confirm the diagnosis and are still used widely.
+Final Diagnosis
+Reactivated visceral leishmaniasis (kala-azar) due to Leishmania donovani , three decades after exposure; precipitated by CD4 T-lymphocyte cell count decline secondary to more recently acquired HIV infection.

@@ -1,0 +1,33 @@
+History of Present Illness
+IDSA 2003 Case Summary: A woman with right lower quadrant pain.
+A woman in her seventies presented with a two-day history of right lower quadrant pain and back pain. Her symptoms began after she had taken ciprofloxacin for an ear infection. She denied fever, chills, chest pain, shortness of breath, or cough.
+Past Medical History
+There was a history of type II diabetes mellitus, hypertension, congestive heart failure, coronary artery disease, seizure disorder, gastro-esophageal reflux disease (GERD) and hypercholesterolemia.
+Medications
+Oral medications included glimepiride (4mg twice daily), and atenolol (100mg daily), valsartan (80mg daily), amlodipine (10mg daily), furosemide (40mg daily), phenytoin (300mg daily), lansoprazole (30mg daily), and atorvastatin (20mg daily).
+Epidemiological History
+She denied use of tobacco, alcohol, or illicit drugs.
+Physical Examination
+The patient appeared to be in severe distress. The oral temperature was 99.9°F (37.7°C), blood pressure 232/107 mm Hg, pulse 86 beats per minute and respirations 16 breaths per minute. The abdomen was soft and non-distended, with mild right lower quadrant tenderness and no rebound or guarding. There was also mild tenderness in the lumbar portion of her back. The remainder of the examination was normal.
+Studies
+The level of the white blood cell count (WBC) was 14,800/mm³ and hemoglobin 12.7 g/dL. Blood cultures were sterile. Computed tomography (CT) of the abdomen showed an infra-renal periaortic soft tissue density ( Figure 1 ).
+Figure 1. Abdominal CT scan.
+Clinical Course Prior to Diagnosis
+The patient’s vital signs stabilized after treatment with her usual medications. Vascular surgery consultants decided no surgical intervention was indicated at that time. The patient was discharged home and she returned three days later with increasing abdominal pain. A repeat abdominal CT scan showed an increase in the size of the periaortic soft tissue density ( Figure 2 ).
+Figure 2. Abdominal CT scan three days later.
+Diagnostic Procedure(s) and Result(s)
+The aneurysm was surgically repaired with placement of a dacron stent graft. Histologic examination of the aorta revealed heavy inflammatory infiltration ( Figure 3 ), and gram positive cocci in pairs were found ( Figure 4 ). Subsequently, the cocci were identified as Streptococcus pneumoniae .
+Figure 3. Histopathology of the aorta.
+Figure 4. Stain of the aorta.
+Treatment and Followup
+The patient’s antibiotics were changed to a six-week course of penicillin G and she was discharged to an extended care facility for full recovery.
+Discussion
+Sir William Osler introduced the term mycotic aneurysm in 1885 when he described an aortic arch aneurysm resembling “fresh fungal vegetations”. Presently, the term is used to describe aneurysms associated with a variety of arterial wall infectious processes. The exact incidence of mycotic aneurysms is unknown. In one surgical series, twenty-two out of several thousand cases (0.9%) were mycotic. In the pre-antibiotic era, infected aneurysms were most commonly reported in endocarditis related to Streptococcus viridans and other “virulent” organisms including Haemophilus influenzae and Streptococcus pneumoniae . Today, Staphylococcus aureus , Salmonella spp, and Treponema pallidum are the common pathogens.
+Streptococcus pneumoniae has only very rarely been reported as a cause of mycotic aneurysms in the last 25 years. The mechanism of infection is thought to be from hematogenous “seeding” of damaged endothelium during bacteremia. Atherosclerotic disease with subsequent endothelial damage can predispose to infection. Other causes of endothelial damage include cardiac valve vegetations, cardiac catheterization, needle trauma (especially in intravenous drug users) and trauma from gun shot wounds.
+The source of this patient's infection was probably a sub-optimally treated ear infection. There have been recent reports of S. pneumoniae , including penicillin-resistant strains, reemerging as a cause of mycotic aneurysms. While the most common source of infection by S. pneumoniae has been the lower respiratory tract, this patient had no respiratory symptoms. Blood cultures were negative and no appreciable heart murmur or other signs of endocarditis were found. Endocarditis may cause mycotic aneurysms by microemboli traveling through the heart and embedding in the vasa vasorum, infecting the arterial wall.
+Other potential sources of mycotic embolism were also considered. One mechanism is the possibility of contiguous infection as occurs in Mycobacterium tuberculosis as well as Salmonella spp. In rare instances, caseous, tuberculous lymph nodes cause contiguous infection of the aorta; similarly, pyogenic vertebral osteomyelitis can be caused by Salmonella . In addition, Salmonella is also reported to cause mycotic aneurysms by hematogenous spread, especially to abnormal tissue (hematoma, altered endothelium, aortic aneurysm, tumors).
+Fungal infections, including Aspergillus spp, Candida spp., and Bipolaris spp., are also associated with mycotic aneurysms from either fungemia or from direct contamination during intracranial vascular surgery. They are most often associated with intracranial mycotic aneurysms and, consequently, were not thought to be likely in this patient.
+The presenting signs and symptoms of patients with infectious mycotic aneurysms differ substantially from those with non-infectious abdominal aortic aneurysms. Those with mycotic aneurysms are less likely to present with a pulsatile mass or a dilated aorta on CT scan. Therefore, a high clinical suspicion for mycotic aneurysms is needed for elderly patients who present with fever, abdominal pain or back pain shortly after bacterial infections.
+Surgical resection comprises the most important treatment for mycotic aneurysms. Without surgical resection, most patients will die because of rupture and bleeding. Treatment must also include at least 4 weeks of antibiotic therapy. The survival rate is 4% with antibiotics alone and 60% with both surgery and antibiotics.
+Final Diagnosis
+Mycotic aneurysm of the abdominal aorta caused by Streptococcus pneumoniae .

@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A woman with perirectal ulcers and acute hepatic failure.
+A woman with a history of human immunodeficiency virus (HIV) and advanced AIDS was admitted with progressive perirectal ulcers and gastrointestinal bleeding. Acute hepatic failure was diagnosed, and she developed acute adult respiratory distress syndrome (ARDS), acute renal failure, and hypotension.
+Past Medical History
+There was a history of human immunodeficiency virus (HIV) and AIDS, cryptococcal meningitis, Cryptosporidium gastroenteritis, and herpes simplex virus (HSV) ulcers.
+Medications
+Medications included dapsone, azithromycin, fluconazole, paromomycin, and acyclovir.
+Physical Examination
+The patient appeared chronically ill and in respiratory distress. She was icteric and tachycardic, with bilateral crackles, tender hepatomegaly, 3+ edema, and confluent erosive perirectal ulcers ( Figure 1 ).
+Figure 1. Physical finding.
+Studies
+The white blood cell count (WBC) was 7,000 cells/mm³, CD4 T-lymphocyte count 9 cells/mm³, total bilirubin 6.7 mg/dL, aspartate aminotransferase (AST, SGOT) 499 U/L, prothrombin time (PT) 20 seconds, and HIV nucleic acid 34,000 copies/mL.
+Computed tomography (CT) of the chest and abdominal showed bilateral air space disease, a markedly enlarged liver and moderate ascites.
+Clinical Course Prior to Diagnosis
+She was admitted to the Medical Intensive Care Unit (MICU) and required intubation for respiratory failure, pressors for hemodynamic support, continuous venovenous hemodialysis (CVVH) for anuric renal failure, and multiple transfusions of packed red blood cells (pRBCs) and fresh frozen plasma (FFP) for coagulopathy and blood loss.
+Diagnostic Procedure(s) and Result(s)
+A swab of the perirectal ulcers was positive for Herpes simplex virus, type 2 (HSV-2).
+Treatment and Followup
+The patient's erosive HSV-2 lesions were treated with foscarnet because of a concern of acyclovir-resistance, since she had been on acyclovir chronically. Unfortunately, this patient with advanced AIDS died of hepatic failure and multi-organ system dysfunction. The etiology of her hepatic failure and multiple organ system failure was not determined. Disseminated HSV disease was thought possible but was not proven. All blood cultures were negative.
+Discussion
+HSV-2 is a common cause of perirectal ulcers. Patients with HIV may have more severe HSV-2 disease, and it may be difficult to treat. CMV also can cause ulcerative disease, in either the gastrointestinal (GI) or genito-urinary (GU) tract. Drugs used in HIV that can cause genital ulcers include foscarnet and ddC.
+Final Diagnosis
+Herpes simplex virus, type 2 (HSV-2) ulcers, and acute hepatic failure in a patient with HIV and AIDS.
+References
+Celum, C., Levine, R., Weaver, M., and Wald, A. (2004). Genital herpes and human immunodeficiency virus: double trouble. Bull World Health Organ 82, 447-453.
+PMID:15356938 ( PubMed abstract )
+Gilbert, C., Bestman-Smith, J., and Boivin, G. (2002). Resistance of herpesviruses to antiviral drugs: clinical impacts and molecular mechanisms. Drug Resist Updat 5, 88-114.
+PMID:12135584 ( PubMed abstract )

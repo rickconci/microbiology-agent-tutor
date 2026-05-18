@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A woman presented with a fever and sore throat.
+A woman in her sixties presented with a sore throat, fever and headache of two days duration. Pain occurred with swallowing, but she was able to tolerate oral intake. She also noted chills, sweats and general body aches. There was no change in her voice.
+Epidemiological History
+The patient was from Haiti.
+Physical Examination
+The patient was ill-appearing with a temperature of 103.0°F (39.4°C), pulse 87 beats per minute, and blood pressure 146/84 mm Hg. Respirations were 18 per minute and oxygen saturation 99% on ambient air. The oropharynx was erythematous and the tonsils were enlarged and covered with a white exudate. There was no trismus. The lungs were clear, and the heart and abdomen were normal.
+Studies
+The white blood cell count was 7,600 cells/mm³ (79% polymorphonuclear leukocytes and 15% lymphocytes), the hematocrit 38.0%, and platelets 184,000/mm³. The level of serum sodium was 133 mmol/liter, potassium 3.3 mmol/liter, chloride 102 mmol/liter and carbon dioxide 124.3 mmol/liter, with a serum glucose of 113 mg/dL.
+Clinical Course Prior to Diagnosis
+A rapid group A streptococcal antigen test was positive. Intravenous fluids and intramuscular benzathine penicillin were administered.
+A culture of the throat showed growth the following day; a gram stain of the culture is shown ( Figures 1 and 2 ).
+Figure 1. Gram stain of throat culture.
+Figure 2. Detail of Figure 1.
+Diagnostic Procedure(s) and Result(s)
+The throat culture was planted on a Loeffler slant and tellurite plates. It was positive for abundant Corynebacterium diphtheriae , toxinogenic strain. A blood culture was negative.
+Figure 3. Tellurite plate.
+Figure 4. Loeffler slant.
+Figure 5. Growth on blood agar.
+Treatment and Followup
+Penicillin G benzathine (1.2 million units) had been given intramuscularly, and the patient's symptoms and physical findings improved. The culture was reported to the state's Department of Public Health as required by law. Follow-up occurred and all family members were cultured. No one else became ill. The following month, the patient received immunization with diphtheria and tetanus toxoid.
+Discussion
+Corynebacterium diphtheriae is a gram positive rod with an irregular or ‘club-shaped’ appearance for which it is named (Coryne = club in ancient Greek). Both toxigenic and non-toxigenic forms are associated with pharyngitis. Diphtheria throat infection from the toxigenic strain is potentially life-threatening, especially in the pediatric population with smaller airways. Toxigenic sub-species are also seen in cutaneous infections and may be associated with clinical syndromes that include fever and inflammation and pseudomembrane formation at the site of the lesions. Asymptomatic carrier states are also seen. Infections more commonly associated with non-toxigenic forms include endocarditis and foreign-body infections.
+The incidence of throat infection caused by toxigenic Corynebacterium diphtheriae , or diphtheria, has decreased in the United States since the availability of vaccination with diphtheria toxoid. However, the disease is still present in many other countries with less access to vaccination, and cases do occur in the United States, most commonly associated with immigrant populations. Diphtheria has been documented to be endemic in Haiti in the past.
+Final Diagnosis
+Corynebacterium diphtheriae pharyngitis.
+References
+Farizo, K.M., Strebel, P.M., Chen, R.T., Kimbler, A., Cleary, T.J., and Cochi, S.L. (1993). Fatal respiratory disease due to Corynebacterium diphtheriae: case report and review of guidelines for management, investigation, and control. Clin Infect Dis 16, 59-68.
+PMID:8448320 ( PubMed abstract )
+Kadirova, R., Kartoglu, H.U., and Strebel, P.M. (2000). Clinical characteristics and management of 676 hospitalized diphtheria cases, Kyrgyz Republic, 1995. J Infect Dis 181 Suppl 1, S110-115.
+PMID:10657201 ( PubMed abstract )
+Murphy JR. Corynebacterium Diphtheriae. In: Baron S, editor. SourceMedical Microbiology. 4th edition. Galveston (TX): University of Texas Medical Branch at Galveston; 1996. Chapter 32.
+PMID:21413281 ( PubMed abstract )

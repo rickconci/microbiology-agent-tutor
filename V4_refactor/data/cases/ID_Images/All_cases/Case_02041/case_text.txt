@@ -1,0 +1,36 @@
+History of Present Illness
+Summary: A woman in her forties with fever and right hand weakness.
+A woman in her forties, with a history of sarcoidosis and chronic steroid dependence, was in her usual state of active health until five days before admission when she began to experience fever and symptoms of an upper respiratory tract infection (URI).
+Two days later, she noted weakness and numbness of the right hand and her right leg also felt weak. On the day of admission, she had difficulty walking and was brought by her family to the emergency room.
+Past Medical History
+She had a history of sarcoidosis with pulmonary, cardiac, hepatic and dermatologic involvement; pulmonary hypertension and a pulmonary arteriovenous malformation (AVM). She was on 4 liters of oxygen chronically.
+Medications
+Medications included prednisone 15 mg orally, daily.
+Allergies
+She had no known drug allergies.
+Epidemiological History
+She was originally from West Africa and had immigrated to the United States more than a decade before. She had several children, worked at home, and reported no risk factors for human immunodeficiency virus (HIV), recent travel, pet exposure, or sick contacts. She had undergone a dental procedure one month prior to admission.
+Physical Examination
+The temperature was 97.6°F (36.4°C), heart rate 90 beats/minute, blood pressure 137/51 mm Hg, respiratory rate 16/minute, and oxygen saturation 97% on 4 liters O2. The patient did not appear toxic. Chest examination revealed diffuse dry rales, and the cardiac examination revealed a II/VI systolic murmur at the upper right sternal border. Otherwise, her exam was notable for 4/5 strength of the right upper and lower extremities. Sensation and reflexes were intact.
+Studies
+The white blood cell count (WBC) 5,920/mm³. A chest radiograph showed diffuse interstitial markings, unchanged when compared with a previous film. Computed tomography (CT) of the head showed no evidence of bleeding but three hypodense lesions, the largest of which was 3.4 cm by 1.9 cm. No calcification or hemorrhage were noted and there was no mass effect. Magnetic resonance imaging (MRI) confirmed these ring-enhancing lesions with mild vasogenic edema ( Figure 1 ).
+Figure 1. Brain MRI scan.
+Clinical Course Prior to Diagnosis
+The patient was admitted and meropenem and vancomycin were administered intravenously after initial blood cultures were taken. Blood cultures remained negative and the patient continued to have fevers and worsening lethargy and right-sided weakness. A screening test for human immunodeficiency virus (HIV) was negative.
+Diagnostic Procedure(s) and Result(s)
+The patient was taken to the operating room for stereotactic biopsy of a brain lesion. The brain biopsy revealed gram-positive cocci in pairs ( Figure 2 ). Brain biopsy grew Streptococcus intermedius (formerly identified as Streptococcus milleri group), in addition to other oral flora.
+Echocardiogram demonstrated a right-to-left shunt.
+Figure 2. Gram stain of brain biopsy.
+Treatment and Followup
+The surgery was complicated by right-sided neglect which improved over the following week. Brain biopsy grew Streptococcus intermedius (formerly identified as Streptococcus milleri group), in addition to other oral flora; the patient’s antibiotics were changed to penicillin G 4 million units intravenously every 4 hours, as well as metronidazole 500 mg orally three times daily.
+She improved over a month-long hospitalization. Upon discontinuation of her antibiotics, the strength in her right arm had nearly returned to normal.
+Discussion
+Bacterial brain abscesses may occur as a result of direct spread or hematogenous seeding. In this situation, the patient’s underlying immunocompromise as well as her right-to-left shunt and recent dental work may have contributed to her condition.
+Brain abscesses are often polymicrobial with a common pathogen being among the Streptococcus milleri group. The S. milleri group has a propensity for abscess formation due to its production of proteolytic enzymes. Neurocystercycosis typically presents with cystic brain lesions rather than as abscesses. Actinomyces typically spreads locally. Nocardia and M. tuberculosis may present with this type of radiographic pattern, however the rapid progression over five days would be unusual for these organisms.
+Final Diagnosis
+Streptococcus intermedius brain abscess.
+References
+Tran, M.P., Caldwell-McMillan, M., Khalife, W., and Young, V.B. (2008). Streptococcus intermedius causing infective endocarditis and abscesses: a report of three cases and review of the literature. BMC Infect Dis 8, 154.
+PMID:18992173 ( PubMed abstract )
+Yamamoto, M., Fukushima, T., Ohshiro, S., Go, Y., Tsugu, H., Kono, K., and Tomonaga, M. (1999). Brain abscess caused by Streptococcus intermedius: two case reports. Surg Neurol 51, 219-222.
+PMID:10029431 ( PubMed abstract )

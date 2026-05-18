@@ -1,0 +1,50 @@
+History of Present Illness
+2008 April Featured Case Summary: A man in his seventies with shaking chills and back pain.
+A man in his seventies was well until approximately 9 days before admission, when an episode of shaking chills and diaphoresis developed, associated with bilateral lower back pain and anorexia. During the next 5 days, two additional episodes of rigors occurred. There was no dysuria, nausea, vomiting, headache, upper respiratory symptoms, cough, pain in the chest or abdomen, arthralgias, myalgias or fevers.
+He was seen in the urgent care department. He appeared well, and the examination was normal. Laboratory test results included a white blood cell (WBC) count of 16,000 cells per cubic millimeter. Analysis of the urine revealed positive nitrites, 5-10 white cells per high-powered field (HPF), and no bacteria. The urine was cultured. Possible urinary tract infection was diagnosed and levofloxacin administered.
+The following day, he was seen in the emergency department because of persistent symptoms and flank pain. The white cell count was 18,900 cells/mm³ (84% leukocytes, 10% lymphocytes and 6% monocytes) and urinalysis revealed 3-5 WBCs per high-powered field. A chest radiograph demonstrated left basal pleural thickening, which was unchanged from previous studies. Pyelonephritis was diagnosed, and narcotic analgesia and non-steroidal anti-inflammatory medications were prescribed. He was discharged, advised to follow-up with his physician the next day and to return sooner if rigors or fever recurred. Cultures of the urine grew coagulase-negative Staphylococcus .
+Three days later, he returned to the emergency department because of increasing back pain and chills.
+Past Medical History
+There was a history of hypertension, dyslipidemia, colonic polyps and a lung nodule.
+Medications
+Medications included atenolol, hydrochlorothiazide, atorvastatin, lisinopril, and levofloxacin (500 mg daily).
+Social History
+He was married.
+Epidemiological History
+He lived in the northeastern United States. He smoked cigarettes and drank alcohol occasionally. He had not traveled recently and there was no history of exposure to tuberculosis.
+Physical Examination
+On examination, the blood pressure was 180/94 mm Hg, and the other vital signs were normal. The lungs were clear, the heart sounds normal. There was mild tenderness to deep palpation in the suprapubic area. The remainder of the examination was normal.
+Studies
+The white cell count was 16,200 cells/mm³, platelet count 480,000/mm³, and erythrocyte sedimentation rate was 29 mm per hour. The level of alkaline phosphatase was 130 U/L (reference range 45-115 U/L), levels of aminotransferases, amylase and lipase were normal. Computed tomography (CT) of the abdomen with arteriography, shown in Figures 1 and 2 , demonstrated an infrarenal aortic aneurysm.
+Figure 1. CT scan with angiogram.
+Figure 2. CT angiogram.
+Clinical Course Prior to Diagnosis
+Vancomycin and meropenem were administered empirically and surgical repair of the abdominal aneurysm was performed emergently. A gram stain of the resected material is shown in Figure 3 . Pathological examination of the resected specimen, stained with hematoxylin and eosin (H and E), is shown in Figures 4 and 5 . Blood cultures were sterile.
+Figure 3. Gram stain of specimen.
+Figure 4. H and E stain of aneurysm.
+Figure 5. H and E stain of wall of vessel, under higher power.
+Diagnostic Procedure(s) and Result(s)
+The gram stain of tissue from the resected aorta revealed white cells with no organisms. Pathological examination by hematoxylin and eosin (H and E) stain demonstrated calcifications from atherosclerosis, disruption of the structure of the blood vessel ( Figure 4 ) and dense acute inflammation involving the blood vessel and surrounding tissue ( Figure 5 ).
+Cultures of the excised aneurysm grew Salmonella , group B, shown in Figures 6 through 8 , which was sensitive to all antibiotics tested, including nalidixic acid. A Steiner stain of the resected tissue, shown in Figure 9 , revealed abundant intracellular and extracellular bacilli consistent with Salmonella species.
+Figure 6. Culture growth on blood agar.
+Figure 7. Culture growth on MacConkey agar.
+Figure 8. Gram stain from culture.
+Figure 9. Steiner stain of resected tissue.
+Treatment and Followup
+The patient was initially treated with vancomycin and meropenem, and then received ceftriaxone intravenously for two weeks, followed by levofloxacin for 4 weeks. Lifelong oral suppression therapy with levofloxacin is planned.
+Discussion
+Many pathogens can cause mycotic aneurysms. Infections of the abdominal aorta may be due to secondary infection of an atherosclerotic lesion. Staphylococci cause 40% of cases, of which two-thirds are Staphylococcus aureus . Gram-negative organisms represent 35% of cases. Non-typhoidal Salmonella is the gram-negative most frequently identified, and is ranked second only to Staphylococcus as the causative infectious agent of aortic mycotic aneurysms.
+In cases where blood cultures are positive for Salmonella and a definitive source of the infection is not apparent, an endovascular lesion and secondary mycotic aneurysm should be strongly considered, and the appropriate evaluation undertaken, as that is a far more likely source than gram-negative endocarditis [Mandell et al 2005]. In cases of gram-negative mycotic aneurysm, the source is believed to be the gastrointestinal tract. Salmonella may be introduced by oral intake via undercooked ground beef or poultry exposure, or exposure to pets such as reptiles or amphibians. In this patient, given the lack of known immunosuppression or epidemiologic risk factors, etiologies such as tuberculosis or fungi are unlikely. Syphilitic aortitis more commonly involves the ascending aorta than the descending abdominal aorta.
+This patient presented with chills, rigors and non-specific back pain, and later developed flank pain, suggestive of pyelonephritis. Other patients who have later been diagnosed with mycotic aneurysm of the abdominal aorta have reported pain radiating into the groin or scrotum, and their pain may suggest that caused by nephrolithiasis.
+Retrospective analysis of patient outcomes revealed a 43% mortality rate in patients with endovascular infection caused by Salmonella [Nielson et al 2006]. Patients with mycotic aneurysm do poorly when treated with medications alone: in another retrospective study, 100% mortality was documented in patients who did not have surgery, whereas 70% (9 of 13 patients) survived who were treated with surgical resection of the aneurysm and antibiotics [Wang et al 1996]. Many expert consultants elect to keep these individuals on longterm suppressive antibiotics, especially if prosthetic grafts are placed primarily into the aortic bed, as is frequently done.
+Testing of Salmonella for nalidixic-acid susceptibility may be helpful in guiding therapy, as some patients, whose organism is resistant to this drug, may fail treatment with fluoroquinolones [Stevenson et al 2007]. Organisms which are resistant to nalidixic acid are relatively resistant to the usual fluoroquinolones, yet still formally test sensitive to these drugs by the current National Committee on Clinical Laboratory Standards (NCCLS) breakpoints. Although still relatively uncommon in nontyphoidal strains, the incidence of nalidixic acid resistance is increasing.
+Final Diagnosis
+Mycotic aneurysm caused by Salmonella , group B.
+References
+Fowler VG, Scheld WM, and Bayer AS. Chapter 74, Endocardiits and Intravascular Infections in Mandell GL, Bennett JE, Dolin R. Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 1006-1008. Elsevier Churchill Livingstone
+Nielsen, H., Gradel, K.O., and Schonheyder, H.C. (2006). High incidence of intravascular focus in nontyphoid Salmonella bacteremia in the age group above 50 years: a population-based study. APMIS 114, 641-645.
+PMID:16948817 ( PubMed abstract )
+Stevenson, J.E., Gay, K., Barrett, T.J., Medalla, F., Chiller, T.M., and Angulo, F.J. (2007). Increase in nalidixic acid resistance among non-Typhi Salmonella enterica isolates in the United States from 1996 to 2003. Antimicrob Agents Chemother 51, 195-197
+PMID:17088493 ( PubMed abstract )
+Wang, J.H., Liu, Y.C., Yen, M.Y., Chen, Y.S., Wann, S.R., and Cheng, D.L. (1996). Mycotic aneurysm due to non-typhi salmonella: report of 16 cases. Clin Infect Dis 23, 743-747
+PMID:8909837 ( PubMed abstract )

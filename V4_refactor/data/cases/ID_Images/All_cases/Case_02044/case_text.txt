@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: An elderly man with bacteremia and recurrent left arm abscesses.
+A man in his eighties with nephrotic syndrome, transiently requiring hemodialysis, was found to have coagulase-negative Staphylococcus bacteremia. His dialysis catheter was removed. Because he had a permanent pacemaker in place, he received a six-week course of vancomycin and rifampin.
+One week after completing the antibiotics, surveillance cultures were drawn and again were positive for coagulase-negative Staphylococcus. As there were some differences in the antibiotic susceptibility patterns of the blood isolates, there was concern that he was seeding his blood from another source. On further review, the patient mentioned that he had been having recurrent skin abscesses on his left forearm during the previous several months. The abscesses tended to be along the ulnar aspect of his forearm, started as a papule and progressed to a draining abscess over several weeks, then slowly resolved. He could recall no trauma to the area.
+Past Medical History
+He had a history of nephrotic syndrome due to focal segmental glomerulosclerosis (transiently requiring hemodialysis), complete heart block treated by permanent pacemaker placement two years prior, pneumococcal pneumonia five months prior, Type II diabetes mellitus, and peptic ulcer disease.
+Medications
+Daily medications included prednisone 10mg, cyclophosphamide 50 mg, glipizide 2.5 mg, and trimethoprim-sulfamethoxazole 1 single-strength tablet. Vancomycin had also been restarted.
+Epidemiological History
+He was a retired office worker who divided his time between New England and Florida. He denied having pets, including fish or aquariums.
+Physical Examination
+He appeared well, in no acute distress while breathing room air. The temperature was 99.5°F (37.5°C), pulse 102 beats/minute, blood pressure 148/72 mm Hg, and oxygen saturation 98% on room air. The pacemaker pocket was not tender, and there was no fluctuance, induration, or erythema noted. Six tender abscesses were noted on the ulnar aspect of his left forearm ( Figures 1 and 2 ), which measured between 1-2 cm. He had 1+ pedal edema; the examination was otherwise normal.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count (WBC) was 8,900 cells/mm³ (75% neutrophils, 20% lymphocytes) and hematocrit 30%; the serum level of urea nitrogen 28 mg/dL and creatinine 1.4 mg/dL. Results of electrolytes and tests of liver function were normal. The urine protein-to-creatinine ratio was 6.
+Clinical Course Prior to Diagnosis
+His pacemaker wire was evaluated as a nidus of infection with serial echocardiograms, which did not demonstrate vegetations either on the pacemaker wire or on his native heart valves. A tagged WBC scan was also unrevealing. Superficial wound cultures of the forearm abscesses were negative.
+Diagnostic Procedure(s) and Result(s)
+After superficial cultures were unrevealing, a biopsy and deep cultures were taken of a dominant lesion. The pathology demonstrated granulomas with very rare acid-fast bacilli. Within one week of culture a rapid-growing mycobacterial species was presumptively identified by the lab as either Mycobacterium chelonae or Mycobacterium abscessus and the isolate was referred to a reference lab for final identification. The organism was identified as M. abscessus .
+Treatment and Followup
+It was thought that his skin lesions may have predisposed him to a coagulase-negative Staphylococcus bacteremia. It was also felt that his pacemaker wire was likely infected and would probably need to be removed. As he was traveling immediately following discharge, he refused vancomycin therapy for his bacteremia; instead he was treated with a six-week course of oral linezolid. His cutaneous mycobacterial abscesses were treated with gatifloxacin and clarithromycin and plans were made for an extended course based on clinical improvement. However, the patient experienced severe nausea and anorexia due to the clarithromycin and stopped it after two weeks. After four weeks, his skin lesions had completely healed and his gatifloxacin was stopped as well. The organism was identified as M. abscessus .
+After he finished the course of linezolid, his bacteremia promptly returned. His pacemaker wire was removed surgically and the wire grew coagulase-negative Staphylococcus . After completing another course of intravenous antibiotics, his bacteremia did not recur.
+Discussion
+Mycobacterium abscessus is similar to M. chelonae and M. fortuitum in that it is a rapid-growing mycobacterium. They are all hardy environmental saprophytes found widely in nature and able to withstand extremes of temperature and nutrient deprivation. They can be isolated from soil, dust, water, a variety of animals, and hospital environments. M. fortuitum is the most common rapid-growing mycobacteria isolated in the United States. Culture is essential for diagnosis and identification of the isolate is critical in selecting the appropriate antibiotic regimen. Drugs considered traditional anti-tuberculosis medications are generally ineffective against rapid-growing mycobacteria. Clarithromycin is generally considered the drug of choice for M. chelonae or M. abscessus infections, and 6 to 12 months of therapy may be required. In vitro susceptibility testing suggests that fluoroquinolones are unlikely to be successful in treating M. chelonae or M. abscessus , but may have a role in treating M. fortuitum . Linezolid may prove to have a role in treating certain atypical mycobacterial infections in the future, but preliminary data suggest the MICs are quite high. Isolates can be referred to a reference laboratory for antibiotic susceptibility testing.
+Final Diagnosis
+Mycobacterium abscessus skin infection with recurrent Staphylococcus bacteremia and pacemaker wire infection.
+References
+Bhambri, S., Bhambri, A., and Del Rosso, J.Q. (2009). Atypical mycobacterial cutaneous infections. Dermatol Clin 27, 63-73.
+PMID:18984369 ( PubMed abstract )
+Morris-Jones, R., Fletcher, C., Morris-Jones, S., Brown, T., Hilton, R.M., and Hay, R. (2001). Mycobacterium abscessus: a cutaneous infection in a patient on renal replacement therapy. Clin Exp Dermatol 26, 415-418.
+PMID:11488830 ( PubMed abstract )
+Phillips MS, von Reyn CF. Nosocomial infections due to nontuberculous mycobacteria. Clin Infect Dis. 2001 Oct 15;33(8):1363-74. Epub 2001 Sep 5.
+PMID:11550115 ( PubMed abstract )

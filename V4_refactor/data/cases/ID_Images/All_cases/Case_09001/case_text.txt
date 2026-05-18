@@ -1,0 +1,38 @@
+History of Present Illness
+2009 January Featured Case and 2008 ICAAC/IDSA Pediatric Fellows' Day Case Presentation Summary: A teenager with an ulcer on the hand and lymphadenopathy.
+A boy in his mid-teens was well until 3 weeks earlier when a small papule developed on the dorsum of his right hand. The lesion gradually increased in size and became more painful during the following weeks, associated with painful “red knots” around the right elbow and axilla. Fevers, up to 102°F (38.9°C), had occurred intermittently during the previous 5-6 days.
+He presented to his primary care provider’s office for evaluation. Incision of the lesion was performed, but there was no drainage noted and no improvement in symptoms following the procedure. Clindamycin was administered orally for 5 days without improvement. He was admitted to a hospital near his home, and vancomycin was given intravenously for 3 days, again with no improvement. He was transferred to a pediatric hospital for further care.
+Past Medical History
+None.
+Medications
+Recent medications included clindamycin and vancomycin, as per the history.
+Family History
+Family history was negative.
+Epidemiological History
+He had several pets at home, including 3 cats, several dogs and pet deer. He went hunting regularly, and had handled both deer and rabbit carcasses during the previous month. He had also scratched his hands on hay, briars in the woods, and inside beaver dams.
+Physical Examination
+The patient was an adolescent male who appeared well. The temperature was 100.0°F (37.8°C); other vital signs were normal. There was an ulceration (2 centimeters (cm) by 3 cm) on the dorsum of his right hand, which was granulated in the center, red at the edges ( Figures 1 and 2 ), and painful. Range of motion of the fingers was full. Tender lymphadenopathy was palpated in a chain along the dorsal aspect of his forearm, up to and including his epitrochlear nodes, and in the lower right axilla.
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The white blood cell count was 16,600 cells per cubic millimeter, with 47% neutrophils and 13% bands, 3% monocytes and 37% lymphocytes. The levels of hemoglobin, platelets, and electrolytes were normal. The erythrocyte sedimentation rate (ESR) was 33 mm per hour (reference range 0-10 mm per hour) and C-reactive protein (CRP) 47 mg/L (reference range 0-10 mg/L). Radiographs of the right arm and hand were normal.
+Diagnostic Procedure(s) and Result(s)
+The microagglutination titer for antibody to Francisella tularensis was positive at 1:256 dilution. Culture of the wounds grew a few colonies of Francisella tularensis . Serological test results for Bartonella henselae immunoglobulin (Ig) G and IgM and Sporothrix schenckii IgG were negative.
+Treatment and Followup
+Gentamicin was administered intravenously for 14 days; after 2 days, his fevers resolved. After 1 week of therapy, the epitrochlear nodes were aspirated for comfort, with good response. During the following week, the lymph nodes increased in size again, with less pain. After completion of the gentamicin therapy, there was near-complete resolution of the ulcer and improvement in the lymphadenopathy. He recovered completely, without relapse.
+Discussion
+Tularemia is caused by Francisella tularensis , a highly infectious gram-negative zoonotic infection [Cross et al. 1995]. It can present as multiple clinical syndromes, the most common of which are ulceroglandular and glandular tularemia, in which a patient develops an ulceration at the site of the initial inoculation of bacteria into the skin and regional lymphadenopathy. Other presentations include oculoglandular, pharyngeal, typhoidal and pneumonic tularemia. Animal reservoirs include over 100 species of wild mammals. The most commonly reported animal reservoirs are rabbits, hares, prairie dogs, muskrats and other rodents. In the United States, ticks and biting flies can serve as vectors to spread disease from infected mammals to humans. Posterior cervical or occipital adenopathy following a tick bite on the scalp is the most common presentation of tularemia in the pediatric patient. Transmission of F. tularensis via contaminated water or soil is uncommon in the United States [Ellis et al. 2002].
+The diagnosis of tularemia is usually established with serologic testing. A single serum antibody titer of greater than 1:128 dilution (microagglutination) or greater than 1:160 dilution (tube agglutination) is consistent with recent infection. Confirmation of infection requires a four-fold greater change in titers over at least two weeks, with at least one specimen positive at greater than 1:128 dilution [Tarnvik and Chu 2007]. Definitive diagnosis of tularemia is complicated by its poor growth on routine laboratory culture. The organism can be cultured from specimens of lymph node tissues, sputum, blood, pharyngeal washings and fasting gastric aspirates [Ellis et al. 2002].
+Laboratory personnel should be notified whenever tularemia is suspected so that they may optimize recovery of this organism, as culturing it is technically difficult. In addition, the organism is highly infectious and cultures must be handled with care to prevent accidental inhalation [Dennis et al. 2001]. Cultures should be held for a minimum of ten days to allow adequate time for colonies to appear on routine microbiology agars [Ellis et al. 2002].
+Gentamicin and streptomycin are bactericidal against F. tularensis and remain the drugs of choice for tularemia treatment. For less severe infections, oral ciprofloxacin or doxycycline may be considered, but these drugs are associated with a high rate of relapse [Ellis et al. 2002]. Other etiologies considered in this case included sporotrichosis, given his known hay exposure and chain of nodular lesions, and blastomycosis, with his physical exam findings and exposure to beaver dams. Cat scratch disease, caused by Bartonella henselae was also considered because of the degree of lymphadenopathy and fever. His prompt response to treatment with gentamicin, as well as the severity of his ulceration with no underlying bone involvement, made these other etiologies less likely.
+Final Diagnosis
+Ulceroglandular tularemia caused by Francisella tularensis .
+References
+Cross, J.T., Jr., Schutze, G.E., and Jacobs, R.F. (1995). Treatment of tularemia with gentamicin in pediatric patients. Pediatr Infect Dis J 14, 151-152.
+PMID:7746700 ( PubMed abstract )
+Dennis, D.T., Inglesby, T.V., Henderson, D.A., Bartlett, J.G., Ascher, M.S., Eitzen, E., Fine, A.D., Friedlander, A.M., Hauer, J., Layton, M., Lillibridge, S.R., McDade, J.E., Osterholm, M.T., O'Toole, T., Parker, G., Perl, T.M., Russell, P.K., and Tonat, K. (2001). Tularemia as a biological weapon: medical and public health management. JAMA 285, 2763-2773.
+PMID:11386933 ( PubMed abstract )
+Ellis, J., Oyston, P.C., Green, M., and Titball, R.W. (2002). Tularemia. Clin Microbiol Rev 15, 631-646
+PMID:12364373 ( PubMed abstract )
+Tarnvik, A., and Chu, M.C. (2007). New approaches to diagnosis and therapy of tularemia. Ann N Y Acad Sci 1105, 378-404.
+PMID:17468229 ( PubMed abstract )

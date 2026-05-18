@@ -1,0 +1,36 @@
+History of Present Illness
+Summary: A middle-aged man with chronic myelogenous leukemia, cavitary lung disease and brain lesions.
+A man in his forties had a history of chronic myelogenous leukemia (CML) and was status post allogenic bone marrow transplant (BMT) two years before admission. His post-transplant course had been complicated by graft-versus-host disease (GVHD) thirteen months before, for which he was treated with FK506 and dexamethasone, and a right leg ulcer seven months previously. The ulcer had persisted with gradual increase in size, and a biopsy, done at an outside hospital, was thought consistent with venous stasis. In the two months before admission, he had further GVHD, which was treated with extracorporeal photophoresis, and a respiratory syncytial virus (RSV) pneumonia treated with ribavirin and intravenous immunoglobulin (IVIg). He returned to the hospital with increasing dyspnea and was admitted.
+Past Medical History
+There was a history of CML (see above); cytomegalovirus (CMV) viremia, renal insufficiency (baseline creatinine 2.0), and peptic ulcer disease.
+Medications
+Medications included dexamethasone, FK506, mycophenolate mofetil (MMF), trimethoprim-sulfamethoxazole, and valganciclovir.
+Epidemiological History
+He lived in a metropolitan area of Massachusetts, and denied travel or pet exposure.
+Physical Examination
+The temperature was 96.3°F (35.7°C) and the blood pressure 140/68 mm Hg. The examination of the chest revealed diffuse expiratory wheezes, and a few diffuse crackles. The right leg had a large ulcerative lesion ( Figures 1 and 2 ).
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white cell count (WBC) was 2,500 cells/mm³ (86% neutrophils, 3% bands, 11% lymphocytes), the hematocrit 28%, and the creatinine 1.9 mg/dL. Computed tomography (CT) of the chest showed multiple cavitating nodules ( Figures 3 and 4 ).
+Figure 3. Chest CT scan.
+Figure 4. Chest CT scan.
+Clinical Course Prior to Diagnosis
+Three days after admission, left arm weakness developed. Magnetic resonance imaging (MRI) of the head showed one left frontal and two right parietal lesions ( Figure 5 ). A methenamine silver stain of the right leg skin biopsy is shown ( Figure 6).
+Figure 5. Head MRI scan.
+Figure 6. Methenamine silver stain of right leg skin biopsy.
+Diagnostic Procedure(s) and Result(s)
+The methenamine silver stain shown in Figure 6 (above) demonstrated an invasive mycosis. The culture grew Alternaria ( Figures 7 and 8 ).
+Figure 7. Lactophenol blue stain (40x), photo by Lynn Bry, M.D.
+Figure 8. Lactophenol blue stain (80x), photo by Lynn Bry, M.D.
+Treatment and Followup
+The patient was treated empirically with liposomal amphotericin B, at a dose of 10mg/kg/day. Caspofungin was added when the neurological lesions developed. Unfortunately, progressive neurological and respiratory decline occurred, and he died from respiratory failure.
+Discussion
+The combination of a necrotic cutaneous lesion and focal lung and brain abscesses in an immunocompromised host strongly suggests an invasive mold infection. Thus aspergillosis and Alternaria infection should be strongly considered. The findings on the biopsy and in culture diagnosed disseminated Alternaria . Ecthyma gangrenosum, pyoderma gangrenosum and disseminated candidiasis can all produce a necrotic skin lesion; however, the other features in this case would be atypical for these processes.
+Final Diagnosis
+Disseminated Alternaria .
+References
+Jahagirdar, B.N., and Morrison, V.A. (2002). Emerging fungal pathogens in patients with hematologic malignancies and marrow/stem-cell transplant recipients. Semin Respir Infect 17, 113-120.
+PMID:12070830 ( PubMed abstract )
+Morrison, V.A., Haake, R.J., and Weisdorf, D.J. (1993). The spectrum of non-Candida fungal infections following bone marrow transplantation. Medicine (Baltimore) 72, 78-89.
+PMID:8479326 ( PubMed abstract )

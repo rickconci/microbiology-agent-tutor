@@ -1,0 +1,43 @@
+History of Present Illness
+Summary: A woman presented many years after lung transplantation with fever, malaise and cough.
+A woman in her sixties presented with fever, malaise, and cough.
+The patient had a history of alpha-1 antitrypsin deficiency, for which a single lung transplant had been performed more than a decade earlier. Progressive renal failure had developed and was thought to be related to calcineurin toxicity.
+During the week before presentation, she developed fevers to 102°F (38.9°C) associated with occasional chills and generalized malaise. There was a slightly productive cough without dyspnea. Two wounds on her lower extremities, which she had received during home gardening activity, were healing poorly.
+Past Medical History
+She had congenital alpha-1 antitrypsin deficiency and had had a single lung transplantation more than a decade before presentation. There was also a history of progressive chronic renal failure and hypertension.
+Medications
+Medications included tacrolimus, azathioprine, prednisone, trimethoprim-sulfamethoxazole (TMP-SMX) combination (single strength) three times weekly, acyclovir, atenolol, aspirin, ranitidine, pravastatin, alpha1-proteinase inhibitor, potassium chloride, furosemide, salmeterol, alendronate, calcitriol, enalapril, epoetin alfa, and multiple vitamins.
+Social History
+The patient was married.
+Epidemiological History
+She lived in the suburbs and worked in an office. There were no unusual activities, travel or exposures.
+Physical Examination
+The blood pressure was 140/90 mm Hg, the temperature, pulse and respirations on room air were normal. Lung auscultation revealed coarse breath sounds, without rales or wheezes. The extremities showed trace pedal edema and a poorly-healed ulcer on her right shin. Cardiovascular, abdominal and lymphoreticular examinations were normal.
+Studies
+Laboratory studies revealed a hematocrit of 26.8% with normal white blood cell and platelet counts. The creatinine was slightly elevated from her baseline to 4.6 mg/dL with a serum urea nitrogen of 76 mg/dL.
+A chest radiograph revealed a pleural-based lesion in her right mid-thorax ( Figure 1 ). Computed tomography (CT) scan of the lungs confirmed a wedge-shaped focal area of consolidation.
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+The patient was admitted to the hospital for further evaluation. Sputum samples were obtained for staining and culture ( Figures 2 through 4 ).
+Figure 2. Gram stain of sputum sample.
+Figure 3. Gram stain of sputum sample.
+Figure 4. Modified acid fast stain of sputum.
+Diagnostic Procedure(s) and Result(s)
+Initial gram stain examination of the primary sputum sample showed Candida albicans . Specimens obtained during bronchoscopy revealed branching gram-positive rods.
+The sputum was planted on modified Thayer Martin plate. Stains of the growth on that plate are shown in Figures 5 and 6 . The organisms were identified as Nocardia nova complex.
+Figure 5. Modified acid fast stain of growth from modified Thayer Martin plate.
+Figure 6. Gram stain of growth from Thayer Martin plate.
+Treatment and Followup
+Intravenous meropenem and vancomycin were administered empirically. After the diagnosis of Nocardia was made and no other pathogens were identified, the vancomycin was discontinued. Susceptibility testing of the isolate showed it was sensitive to amikacin and trimethoprim-sulfamethoxazole (TMP-SMX). Aminoglycoside use was withheld due to the patient’s renal failure.
+The patient completed a six-month course of meropenem intravenously and trimethoprim-sulfamethoxazole (TMP-SMX) orally with complete resolution of her symptoms. Chest radiography and CT scan abnormalities also improved. TMP-SMX therapy was then changed to single strength once daily for chronic suppression and prophylaxis.
+Discussion
+Nocardia are filamentous gram-positive branching rods that can mimic Actinomyces species. Nocardia can be differentiated from Actinomyces by modified acid fast staining because of the mycolic acid content of their cell wall.
+Nocardia infection is typically regarded as an opportunistic infection and T-cell immunity plays a critical role in its control. Two-thirds of patients will have an underlying immunodeficiency, such as pharmacological immunosuppression after a solid organ transplant seen in the patient presented. Pneumonia is the primary syndrome associated with Nocardia infection, and the presentation can vary from acute to chronic. Occasionally, dissemination and other forms of infection can be seen, such as cutaneous, lymphatic or central nervous system disease.
+Sulfonamides are the mainstay of therapy, though some in vitro susceptibilities and animal models have demonstrated that amikacin, imipenem, third generation cephalosporins, and minocycline can have activity. The duration of therapy is not clear with treatment regimens generally lasting 6-12 months.
+Final Diagnosis
+Pneumonia secondary to Nocardia nova infection in a patient with congenital alpha-1 antitrypsin deficiency, after lung transplantation.
+References
+Khan, B.A., Duncan, M., Reynolds, J., and Wilkes, D.S. (2008). Nocardia infection in lung transplant recipients. Clin Transplant 22, 562-566.
+PMID:18435787 ( PubMed abstract )
+Peleg, A.Y., Husain, S., Qureshi, Z.A., Silveira, F.P., Sarumi, M., Shutt, K.A., Kwak, E.J., and Paterson, D.L. (2007). Risk factors, clinical characteristics, and outcome of Nocardia infection in organ transplant recipients: a matched case-control study. Clin Infect Dis 44, 1307-1314.
+PMID:17443467 ( PubMed abstract )

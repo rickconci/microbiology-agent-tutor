@@ -1,0 +1,36 @@
+History of Present Illness
+Summary of IDSA 2006 Case Submission: A man in his twenties with headaches of two months' duration.
+A man in his twenties presented with a two-month history of severe headaches. The pain was in the occipital and temporal regions, bilaterally, and was rated 9 on a scale of 0 to 10 (where 10 is the most severe). Fevers, non-productive cough, vomiting, blurred vision, neck stiffness, and photophobia were also present. He felt chills in the morning and diaphoretic in the afternoon.
+One month earlier, he was admitted to a local hospital. A skin test for tuberculosis was negative. Viral meningitis was diagnosed and the patient was discharged.
+Past Medical History
+There was no significant past medical or surgical history.
+Medications
+Medications included hydrocodone and acetaminophen combination, and an over-the-counter preparation of acetaminophen, aspirin, and caffeine.
+Epidemiological History
+The patient was of Hispanic ethnicity, and lived in the Southern United States. There was no history of smoking, drug use, or alcohol, and no exposures to animals. He worked in the construction industry and had traveled in the past to Indiana, Florida, and California.
+Physical Examination
+On examination, he was pale and ill-appearing. The temperature was 35.4°C (95.7°F), blood pressure 128/85 mm Hg, pulse 76 beats/minute and respirations 16 breaths/minute. He was alert and oriented to person, place and time. Kernig and Bruzinski signs were positive, and there was no focal neurological abnormality. The remainder of the examination was normal.
+Studies
+The white cell count was 16,900 cells/µL (95% segmented neutrophils and 5% lymphocytes), hemoglobin 13.5 g/dl, hematocrit 40.1%, and platelets 363,000 cells/µL. Serologic levels of electrolytes and glucose, tests of renal and liver function and a chest radiograph were normal. Magnetic resonance imaging (MRI) of the brain is shown in Figure 1 .
+Analysis of cerebrospinal fluid (CSF) obtained by lumbar puncture revealed 5 red cells/µL and 336 white cells/µL (26% neutrophils, 64% lymphocytes, 6% monocytes, 2% eosinophils, and 2% other cells). The protein level was 266 mg/dl and glucose 24 mg/dl.
+Figure 1. MRI of the brain, day 5.
+Clinical Course Prior to Diagnosis
+A skin test for tuberculosis measured 16 millimeters of induration. Tuberculous meningitis was diagnosed presumptively, and anti-tuberculosis therapy with four drugs was administered.
+Analysis of the CSF for cryptococcal antigen, herpes simplex virus (HSV) by polymerase chain reaction (PCR), acid-fast bacilli (AFB) by smear, Venereal Disease Research Laboratory (VDRL) test, cysticercosis immunoglobulin G antibody, Mycobacterium tuberculosis by PCR, and angiotensin-converting enzyme (ACE) were negative. Cultures of the CSF for bacteria and fungi were sterile. Serologic tests for Varicella-zoster virus, cryptococcal antigen, and antibodies to Leptospira , human immunodeficiency virus (HIV), Bartonella and Rickettsia were negative. Analysis of the urine for Histoplasma antigen was negative.
+The patient developed increasing hydrocephalus. A ventriculoperitoneal shunt was placed, however, the patient continued to deteriorate and expired.
+Diagnostic Procedure(s) and Result(s)
+A post-mortem examination was performed. Pathological examination of the lungs revealed a granuloma in the left lower lobe, in which a spherule was identified ( Figures 2 through 4 ). Pathological examination of the brain (shown in Figures 5 through 8 ) revealed severe basilar involvement and a multi-nucleated giant cell engulfing two spherules in brain tissue. The findings are consistent with coccidioidomycosis of the lungs, meninges and brain.
+Figure 2. Post-mortem examination, left lung.
+Figure 3. Post-mortem examination, left lung.
+Figure 4. Hematoxylin and eosin stain of lung tissue.
+Figure 5. Post-mortem examination of the brain.
+Figure 6. Post-mortem examination of the brain.
+Figure 7. H and E stain of the brain.
+Figure 8. H and E stain of the brain.
+Discussion
+Coccidioidomycosis is endemic in desert regions of the southwestern United States, and Central and South America. Primary infection involves the lungs, and clinical evidence of dissemination occurs in the minority of patients. Of those patients with disseminated coccidioidomycosis, meningitis occurs in approximately half [Johnson and Einstein 2006]. Although most cases of coccidioidal meningitis occur weeks to months after primary infection, this feared complication can develop years after primary exposure. Diagnosis can be made by identifying spherules in infected tissue specimens; samples should also be sent for culture since in some cases direct visualization is negative but the organism will grow. When Coccidioides infection is suspected, laboratory personnel should be notified so that appropriate precautions to decrease exposure to this infectious agent can be implemented.
+Final Diagnosis
+Coccidioidomycosis of the lung, meninges and brain.
+References
+Johnson, R.H., and Einstein, H.E. (2006). Coccidioidal meningitis. Clin Infect Dis 42, 103-107.
+PMID:16323099 ( PubMed abstract )

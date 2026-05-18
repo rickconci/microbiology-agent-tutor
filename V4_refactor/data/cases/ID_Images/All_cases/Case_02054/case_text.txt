@@ -1,0 +1,24 @@
+History of Present Illness
+Summary: A middle-aged man with fever and abdominal pain.
+A man in his fifties was three years status post cadaveric renal transplant when he was admitted to a hospital for fever and abdominal pain. He had also noted an erythematous maculopapular rash on his face, trunk, and extremities.
+Past Medical History
+He was status post cadaveric renal transplant, and had a history of cytomegalovirus (CMV) colitis, and hypertension.
+Medications
+Medications included prednisone, mycophenolate mofetil, and azathioprine.
+Physical Examination
+He was toxic in appearance, and the temperature was 103°F (39.4°C). The abdomen was tender, and a maculopapular rash was noted across his face, trunk ( Figure 1 ), and extremities ( Figure 2 ). Some lesions appeared fluid-filled.
+Figure 1. Skin findings.
+Figure 2. Skin findings.
+Studies
+The white blood cell count (WBC) was 12,000 cells/mm³, platelets 12,000/mm³, lipase 84 U/L, amylase 700 U/L, aspartate aminotransferase (ASP, SGOT) 7700 U/L, alanine aminotransferase (ALT, SGPT) 2424 U/L, lactate dehydrogenase (LDH) 5552 U/L, total bilirubin 4.6 mg/dL, and direct bilirubin 4.1 mg/dL. Computed tomography (CT) of the abdomen showed a distended gallbladder; the renal allograft was without apparent abnormality.
+Diagnostic Procedure(s) and Result(s)
+Direct fluorescent antibody (DFA) of a specimen obtained from a papule was strongly positive for varicella zoster virus (VZV). Testing for cytomegalovirus (CMV) antigen was negative, as were blood cultures.
+Treatment and Followup
+Ganciclovir was administered intravenously, with resolution of his abdominal pain, liver function tests, and rash.
+Discussion
+Disseminated varicella zoster infection occurs more frequently in immunocompromised hosts. Visceral involvement, including pneumonitis, hepatitis, and meningoencephalitis, may occur. Despite widespread involvement, disseminated herpes zoster is rarely fatal.
+Final Diagnosis
+Disseminated varicella zoster virus (VZV).
+References
+Fehr, T., Bossart, W., Wahl, C., and Binswanger, U. (2002). Disseminated varicella infection in adult renal allograft recipients: four cases and a review of the literature. Transplantation 73, 608-611.
+PMID:11889440 ( PubMed abstract )

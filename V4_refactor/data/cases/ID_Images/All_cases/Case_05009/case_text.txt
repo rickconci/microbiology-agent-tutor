@@ -1,0 +1,31 @@
+History of Present Illness
+Past Medical History
+The patient reported occasionally passing stools with mucus and blood during the preceding six months. He otherwise felt well during that time; his symptoms had resolved without any intervention.
+Epidemiological History
+The patient lived in an urban area and was sexually active with men. He reported one sexual partner during the preceding four years and denied alcohol, tobacco, or illicit drug use.
+Physical Examination
+In the emergency ward, the temperature rose to 104°F (40°C). There was mild tachycardia; blood pressure and respirations were normal. The examination revealed some abdominal tenderness with mild rebound in the left lower quadrant and a palpable spleen tip. There was no palpable lymphadenopathy, rash or abnormal joint findings. Rectal exam revealed hemoccult positive stool.
+Studies
+The white blood cell count was 15,600 cells/µL, with 32% neutrophils, 40% lymphocytes, 7% monocytes, and 18% atypical lymphocytes. The hematocrit was 33.8% with microcytosis. Levels of serum alkaline phosphatase and bilirubin were normal. Alanine aminotransferase (ALT) was 58 U/L and aspartate aminotransferase (AST) 42 U/L.
+Computed tomography (CT) scanning of his abdomen and pelvis revealed splenomegaly with a normal appearing liver, marked inflammatory thickening of the colonic wall extending from the distal transverse colon to the anus with pericolonic fat stranding and lymphadenopathy in the pericolonic and retroperitoneal regions.
+Clinical Course Prior to Diagnosis
+Intravenous fluids and empiric antimicrobial therapy with ampicillin, gentamicin, and metronidazole were administered. Blood, urine and stool cultures were sent and the stool was examined for parasites. Serologic testing for hepatitis A, B, and C viruses, human immunodeficiency virus (HIV) infection, and a heterophile antibody were also ordered.
+A colonoscopic examination revealed ulcerated mucosa extending from the rectum to the distal transverse colon that was most consistent with ulcerative colitis. Pathological examination of a colonic biopsy is shown in Figures 1 and 2 .
+Figure 1. Biopsy of the colon.
+Figure 2. Detail of Figure 1.
+Diagnostic Procedure(s) and Result(s)
+Biopsies confirmed the findings of ulcerative colitis ( Figure 1 ), though the specimens were also noted to contain a multitude of cells with intranuclear inclusions ( Figure 2 ), findings characteristic of cytomegalovirus (CMV) infection. Viral cytopathic effect was also seen. Serologic testing confirmed the presence of both IgG and IgM antibodies to the virus, and blood testing with the CMV antigenemia assay revealed 10 positive cells per two slides. Serological testing for hepatitis A, B, and C viruses, human immunodeficiency virus (HIV) infection (including antibody serology and viral nucleic acid copies), and a heterophile antibody were negative.
+Treatment and Followup
+Intravenous ganciclovir was begun at a dose of 5 milligrams per kilogram (mg/kg) twice daily with improvement. The patient defervesced quickly on this regimen and was discharged home shortly thereafter.
+Two weeks later, the patient remained asymptomatic with a normal physical examination. Intravenous ganciclovir was discontinued and oral valganciclovir begun.
+Discussion
+Cytomegalovirus (CMV) infection has been described as a complication of ulcerative colitis. Though the association between the use of immunosuppressant medications such as prednisone and CMV infection is widely documented, the association between CMV colitis and patients with ulcerative colitis not on immunosuppressants is less clearly understood.
+In this case, a man with newly diagnosed ulcerative colitis developed primary infection with CMV leading to worsening colitis and a systemic illness. His symptoms improved with therapy that included intravenous ganciclovir followed by oral valganciclovir.
+Colitis caused by CMV is uncommon in a normal host but is well-documented in the immunocompromised host. Infection with CMV in patients with ulcerative colitis is more likely to lead to colitis even in the absence of immunosuppressant therapy compared to otherwise normal hosts. Primary CMV infection as opposed to reactivation seems likely to cause a more severe course. CMV colitis is generally treated with intravenous ganciclovir. Valganciclovir may be a reasonable alternative therapy in some patients, although randomized clinical trials to demonstrate its benefit in this setting have not been done to date.
+Final Diagnosis
+Primary cytomegalovirus (CMV) infection with colitis in a patient with ulcerative colitis.
+References
+Mann, E.A., and Saeed, S.A. (2012). Gastrointestinal infection as a trigger for inflammatory bowel disease. Curr Opin Gastroenterol 28, 24-29.
+PMID:22080823 ( PubMed abstract )
+Roblin, X., Pillet, S., Oussalah, A., Berthelot, P., Del Tedesco, E., Phelip, J.M., Chambonniere, M.L., Garraud, O., Peyrin-Biroulet, L., and Pozzetto, B. (2011). Cytomegalovirus load in inflamed intestinal tissue is predictive of resistance to immunosuppressive therapy in ulcerative colitis. Am J Gastroenterol 106, 2001-2008.
+PMID:21788989 ( PubMed abstract )

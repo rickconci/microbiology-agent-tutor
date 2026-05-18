@@ -1,0 +1,42 @@
+History of Present Illness
+Summary: A man presented with confusion and ataxia.
+A middle-aged man with a past history of human immunodeficiency virus (HIV) and Hepatitis C virus (HCV) co-infection presented with confusion and ataxia.
+One month before his presentation, he developed a severe headache without neurological signs. While riding a bicycle on a trip to the Southeastern United States, he noted a loss of balance. After his return home and during the two weeks preceding his presentation, a rapid deterioration with increasing confusion occurred. He developed repetitive automatic and stereotypic actions, and emotional lability. During the two days before admission, he had difficulty with fine motor skills and coordination. The patient reported chills, without fever or neck stiffness.
+Past Medical History
+HIV-infection had been diagnosed a decade earlier, and recent laboratory testing included an HIV-RNA level of 77,000 copies/mL and CD4 T-lymphocyte count of 34 cells/mm³. There was also a history of chronic active hepatitis C virus infection and, in the past, intravenous drug use. Thrush, leukopenia, and neuropathy had been documented previously.
+Medications
+Medications included didanosine (ddI), stavudine (D4T), and delavirdine.
+Epidemiological History
+There was a history of intravenous heroin use in the past.
+Physical Examination
+The patient was resting in bed comfortably. The temperature was 97°F (36.1°C), pulse 80 beats per minute, blood pressure 136/92 mm Hg, respirations 24 per minute, and oximetry 97% on ambient air. He was awake and oriented to self with a paucity of speech and movements. He had a severely ataxic gait, rising up on his toes in order to walk forward. Strength and sensation were normal, cranial nerves intact, and reflexes symmetrical. The plantar reflexes were flexor. He was confused with poor short-term memory. No asterixis was present and the remainder of the examination was normal.
+Studies
+The white blood cell count was 2,000/mm³ with a normal differential. A lumbar puncture had a normal opening pressure, with 2 white blood cells and 71 red blood cells per cubic millimeter. The levels of glucose and protein in the cerebrospinal fluid (CSF) were normal and the gram stain was negative. Toxoplasma serologies were negative.
+Magnetic resonance imaging (MRI) of the brain showed bilateral white matter signal abnormality primarily involving the frontal lobes. (See Figures 1 through 6 .)
+Figure 1. MRI scan of the brain.
+Figure 2. MRI scan of the brain.
+Figure 3. MRI scan of the brain.
+Figure 4. MRI scan of the brain.
+Figure 5. MRI scan of the brain.
+Figure 6. MRI scan of the brain.
+Clinical Course Prior to Diagnosis
+Ceftriaxone, metronidazole and voriconazole were administered empirically to cover bacterial and fungal brain infections. Despite this therapy, his mental status deteriorated significantly.
+Diagnostic Procedure(s) and Result(s)
+A brain biopsy was performed and showed extensive macrophage infiltrates, bizarre astrocytic cells and scattered glial nuclei with enlarged amphophilic cytoplasm, consistent with virally infected cells ( Figures 7 through 9 ). Immunohistochemistry was positive for JC virus. JC virus was also detected by polymerase chain reaction (PCR).
+Figure 7. Brain biopsy viewed under low power magnification.
+Figure 8. Brain biopsy.
+Figure 9. Brain biopsy.
+Treatment and Followup
+Zidovudine (AZT), lamivudine (3TC), ritonavir and lopinavir were initiated and the patient had some minimal response to this. Seizures developed that were initially controlled with antiepileptics, however his mentation never returned to baseline. He subsequently expired from an aspiration event.
+Discussion
+Progressive Multifocal Leukoencephalopathy (PML) is a demyelinating disease of the central nervous system caused by the polyoma virus JC. It is primarily found in the setting of profoundly immunosuppression such as that seen in advanced AIDS or bone marrow transplanted individuals.
+The hallmark of PML is patchy or confluent areas of low attenuation on CT scanning or hyperintensity of T2 weighted images on MRI scanning. These lesions are not usually contrast-enhancing and are not surrounded by edema. As a result, substantial mass effect on surrounding structures is absent. The lesions are usually bilateral, asymmetric and localized in the periventriular areas and subcortical white matter.
+Patients with PML present with acute or subacute onset of neurological symptoms, often with focal deficits. The CSF typically does not show inflammatory cells. A CSF PCR test for JC virus is usually positive.
+Therapy of HIV-associated PML centers on the use of antiretroviral therapy to achieve immune reconstitution. The prognosis is poor. The use of cidofovir has had mixed results.
+Final Diagnosis
+Progressive Multifocal Leukoencephalopathy secondary to JC virus infection in a patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).
+References
+Cinque, P., Koralnik, I.J., Gerevini, S., Miro, J.M., and Price, R.W. (2009). Progressive multifocal leukoencephalopathy in HIV-1 infection. Lancet Infect Dis 9, 625-636.
+PMID:19778765 ( PubMed abstract )
+Koralnik, I.J. (2004). New insights into progressive multifocal leukoencephalopathy. Curr Opin Neurol 17, 365-370.
+PMID:15167073 ( PubMed abstract )

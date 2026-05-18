@@ -1,0 +1,29 @@
+History of Present Illness
+Summary: A female teenager with fatigue, headache and fever.
+A teen-aged girl from the Ivory Coast presented fatigue and intermittent headache, with progressive symptoms, of three weeks' duration and high fever for one day.
+Past Medical History
+A tuberculosis skin test (PPD) had been positive in the past.
+Medications
+She had taken chloroquine for one week 3 weeks earlier.
+Epidemiological History
+The patient had been born in Western Europe and had moved to Ivory Coast at age 1 year. Four years before this presentation, she moved to the United States. She had returned to the Ivory Coast several times, most recently four weeks earlier for a 2-week trip. The patient reported multiple mosquito bites while there.
+Physical Examination
+The patient was in no apparent distress. The temperature was 105.8°F (41°C), pulse 136 beats per minute, blood pressure 90/53 mm Hg, respiratory rate 18 breaths per minute and oxygen saturation 100% on ambient air. There was no scleral icterus or hepatosplenomegaly. The rest of the examination was normal.
+Studies
+The white blood cell count (WBC) was 5,800 cells/mm³ (neutrophils 55%, bands 1%, lymphocytes 34%, monocytes 10%), hematocrit 39%, and platelet count 189,000/mm³, and tests of liver function were normal. Images of peripheral blood smears are shown in Figures 1 and 2 .
+Figure 1. Peripheral blood smear.
+Figure 2. Peripheral blood smear.
+Clinical Course Prior to Diagnosis
+Thin and thick smears of the peripheral blood were positive for intraerythrocytic forms consistent with Plasmodium falciparum , with 0.5% parasitemia ( Figures 3 and 4 ).
+Diagnostic Procedure(s) and Result(s)
+The patient was treated with quinine sulfate and doxycycline. She defervesced soon after starting anti-malarial medications, and was discharged from the hospital on the second hospital day.
+Figure 3. Figure 2, with arrow.
+Figure 4. Peripheral blood smear, higher magnification.
+Discussion
+Malaria should be considered in anyone presenting with fever who has recently traveled to an endemic region. In this patient, the presence of multiply infected erythrocytes and appliqué forms were suggested of P. falciparum as the causative organism.
+The choice of malaria prophylaxis should reflect the organism resistance of the destination region; for instance, in this case mefloquine should have been utilized because chloroquine is not appropriate for a patient who has been in an area with chloroquine-resistant malaria. Treatment options should be determined by consulting current recommendations at the time of diagnosis, using reputable sources such as the Centers for Disease Control and Prevention (CDC) or World Health Organization (WHO), and taking into consideration the region of the likely exposure and the medications available.
+Final Diagnosis
+Plasmodium falciparum malaria.
+References
+Centers for Disease Control and Prevention (CDC) Malaria treatment 2010 guidelines http://www.cdc.gov/malaria/diagnosis_treatment/treatment.html
+World Health Organization (WHO) Guidelines for the treatment of malaria, 2nd edition. 2010 http://www.who.int/malaria/publications/atoz/9789241547925/en/index.html

@@ -1,0 +1,54 @@
+History of Present Illness
+A man in his forties presented 2 months after renal transplantation for diabetes nephropathy with 1 week of unprovoked knee pain followed by painful skin nodules on his upper limbs and fevers. The knee pain was not associated with any reported swelling, redness or decreased range of motion. The skin lesions started as small red raised lesions that later evolved to larger, deep, hyperpigmented lesions that were tender to touch. He subsequently developed fevers which prompted his presentation. He had no history of rheumatologic or dermatologic diseases.
+He had type 1 diabetes complicated by end-stage renal failure requiring hemodialysis. He had delayed graft function for a few weeks post transplantation and required further hemodialysis. He received Alemtuzumab (CD52 monoclonal antibody) and was on Prednisone 5 mg daily, tacrolimus 3 mg twice daily and Mycophenolic acid 360 mg orally twice daily. There had been no recent changes in the doses of immunosuppressants. Both donor and recipient were positive for cytomegalovirus (CMV) antibodies.
+Past Medical History
+Essential Hypertension
+Coronary Atherosclerotic Heart Disease with Coronary artery bypass grafting
+Medications
+Prednisone 5 mg daily, Tacrolimus 3 mg twice daily, Mycophenolic acid 360 mg orally twice daily
+Valganciclovir and Trimethoprim-Sulfamethoxazole prophylaxis
+Insulin, Metoprolol, Simvastatin, Aspirin
+Social History
+He did not have recent travel or history of alcohol or illicit drug use.
+Physical Examination
+Temperature: 36.7° C (98.1° F); Blood Pressure: 141/69; Respiratory Rate: 16/min; Body Mass Index was 20. He had 20 – 30 erythematous, hyperpigmented, tender nodules on the dorsal forearms and upper arms which were noted to be deep-seated (Figures 1 and 2). No nodules were noted on the legs. Both of his knees were tender to gentle palpation at the patella. The knees were not warm, red or swollen and the range of motion was full. All his other joints were normal. He had a well healing abdominal surgical scar with a non-tender graft.
+Figure 1. Skin lesions on bilateral upper arms
+Figure 2. Close-up view of the skin lesion
+Studies
+His white cell count was normal with a normal differential. He had a mild normocytic anemia and mild thrombocytosis. CRP was elevated at 212 (reference range 0-5 mg/L) and ESR was high at 48 (1-33) mm/hr. He was hyperglycemic with a blood glucose of 522 (= 140 mg/dL). Renal function, liver enzymes and chest plain-radiograph were within normal limits.
+Diagnostic Procedure(s) and Result(s)
+Serum cryptococcal antigen and urine blastomycosis antigen were negative.
+Two punch biopsies from the right forearm were obtained: acid fast stains were positive. Gram stain and Grocott's methenamine silver (GMS) stain were negative. Acid fast bacilli (AFB) were also isolated in blood cultures 6 days after culture incubation. This organism was later identified as Mycobacterium chelonae . Interpreted drug susceptibilities include susceptibility to amikacin (MIC ≤ 8), kanamycin (MIC ≤ 8), tobramycin (MIC ≤ 2), doxycycline (MIC ≤ 1), tigecycline (MIC ≤ 0.25), clarithromycin (MIC ≤ 0.25), azithromycin (MIC ≤ 16) and clofazamine (MIC ≤ 0.25) ug/ml. The organism tested resistant to cefoxitin (MIC > 128), ciprofloxacin (MIC=8), moxifloxacin (MIC > 4), amoxicillin/ clavulanic acid (MIC > 32/16) and trimethoprim/sulfamethoxazole ((MIC > 4/76) and showed intermediate susceptibility to imipenem and linezolid (both MIC = 8 micrograms/ml).
+Treatment and Followup
+X-rays of the knees were normal. MRI of lower extremities showed marked marrow edema throughout both patellae with mottled areas of marrow edema in the trochleae and more focal marrow edema involving the lateral aspect of the left lateral femoral condyle suspicious for osteomyelitis. Rheumatoid factor, anti-Cyclic Citrullinated Peptide, anti-nuclear antibodies were all negative.
+Transthoracic echocardiogram and a Positron Emission Tomography (PET) were negative. The patient was treated with imipenem, linezolid and azithromycin. He developed severe bone marrow suppression that was thought to be secondary to linezolid; this drug was switched to intravenous tigecycline. No new lesions appeared after starting the treatment and further blood cultures have been negative for AFB. The planned treatment course is at least 12 months.
+Discussion
+Rapidly growing mycobacteria are a group of environmental non-tuberculous mycobacteria associated with various human diseases. The three rapidly growing AFB species most commonly associated with human disease are Mycobacterium abscessus, Mycobacterium chelonae, and Mycobacterium fortuitum . They are ubiquitous environmental organisms which are notorious for causing biofilms on water-exposed instruments (1).
+M. chelonae primarily presents as skin, soft tissue and bone disease (2) with reports of disseminated disease in immunosuppressed patients (3-5). Pedicure-associated mycobacterial furunculosis due to M. chelonae was reported in North Carolina (6), and prior reports have linked outbreaks of M. chelonae infection to tattooing (7). In immunosuppressed patients, such as those with organ transplants, disseminated M. chelonae has been reported to present as multiple cutaneous painful nodules with a predilection for the extremities, a feature that was also noted in our patient. Dissemination into the bloodstream may result from primary catheter-associated bloodstream infections (8) or from hematogenous spread of a primary lung infection.
+M. chelonae is characterized by the high prevalence of drug resistance. Treatment should be based on in vitro susceptibilities (9) and clinical response. While monotherapy with a macrolide may be sufficient for localized skin infection, disseminated disease caused by M. chelonae necessitates combination therapy (10). Macrolides constitute the backbone of therapy and are used in combination with other drugs (9). Treatment failure and drug related adverse events are very common during treatment (11). One cohort study showed that using tigecycline for over a month, as part of a salvage multi-drug regimen, tended to improve clinical outcomes (12). Removal of infected indwelling lines and devices is crucial for clearance of the infection (8) and additional aggressive surgical debridement may be needed for recurrent and drug-resistant infections (9).
+Final Diagnosis
+Disseminated Mycobacterium chelonae infection involving skin, bone and bloodstream.
+References
+Honda JR, Knight V, Chan ED. Pathogenesis and risk factors for nontuberculous mycobacterial lung disease. Clinics in chest medicine. 2015;36(1):1-11.
+PMID:25676515 ( PubMed abstract )
+Wallace RJ, Brown BA, Onyi GO. Skin, soft tissue, and bone infections due to Mycobacterium chelonae chelonae: importance of prior corticosteroid therapy, frequency of disseminated infections, and resistance to oral antimicrobials other than clarithromycin. Journal of Infectious Diseases. 1992;166(2):405-412
+PMID:1386098 ( PubMed abstract )
+van der Wekken L, Herbrink J, Snijders D, Chamuleau M, Griffioen A. Disseminated Mycobacterium chelonae infection in a patient with T-cell lymphoma. Hematology/oncology and stem cell therapy. 2017 Jun;10(2):89-92.
+PMID:27182956 ( PubMed abstract )
+Roukens AH, Mendels EJ, Verbeet NL, et al. Disseminated Cutaneous Mycobacterium chelonae Infection in a Patient With Acute Myeloid Leukemia. Open forum infectious diseases. 2014;1(3):ofu103.
+PMID:25734171 ( PubMed abstract )
+Chatzikokkinou P, Luzzati R, Sotiropoulos K, Katsambas A, Trevisan G. Disseminated cutaneous infection with Mycobacterium chelonae in a renal transplant recipient. Cutis. 2015;96(5):E6-9.
+PMID:26682566 ( PubMed abstract )
+Stout JE, Gadkowski LB, Rath S, Alspaugh JA, Miller MB, Cox GM. Pedicure-associated rapidly growing mycobacterial infection: an endemic disease. Clinical infectious diseases. 2011;53(8):787-792.
+PMID:21921222 ( PubMed abstract )
+Centers for Disease Control and Prevention. Tattoo-Associated Nontuberculous Mycobacterial Skin Infections-Multiple States, 2011–2012. Morbidity and Mortality Weekly Report. 2012. https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6133a3.htm
+Phillips MS, Von Reyn CF. Nosocomial infections due to nontuberculous mycobacteria. Clinical infectious diseases. 2001;33(8):1363-1374.
+PMID:11550115 ( PubMed abstract )
+Brown-Elliott BA, Nash KA, Wallace RJ. Antimicrobial susceptibility testing, drug resistance mechanisms, and therapy of infections with nontuberculous mycobacteria. Clinical microbiology reviews. 2012;25(3):545-582.
+PMID:22763637 ( PubMed abstract )
+Esteban J, García-Pedrazuela M, Muñoz-Egea MC, Alcaide F. Current treatment of nontuberculous mycobacteriosis: an update. Expert opinion on pharmacotherapy. 2012;13(7):967-986.
+PMID:22519767 ( PubMed abstract )
+Griffith, D.E., Aksamit, T., Brown-Elliott, B.A., Catanzaro, A., Daley, C., Gordin, F., Holland, S.M., Horsburgh, R., Huitt, G., Iademarco, M.F. and Iseman, M., 2007. An official ATS/IDSA statement: diagnosis, treatment, and prevention of nontuberculous mycobacterial diseases. American journal of respiratory and critical care medicine, 175(4), pp.367-416
+PMID:17277290 ( PubMed abstract )
+Wallace, R.J., Dukart, G., Brown-Elliott, B.A., Griffith, D.E., Scerpella, E.G. and Marshall, B., 2014. Clinical experience in 52 patients with tigecycline-containing regimens for salvage treatment of Mycobacterium abscessus and Mycobacterium chelonae infections. Journal of Antimicrobial Chemotherapy, 69(7), pp.1945-1953
+PMID:24633206 ( PubMed abstract )

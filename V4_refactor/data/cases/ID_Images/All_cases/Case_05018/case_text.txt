@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: A woman with hemoptysis.
+A woman in her forties was well until approximately twenty years earlier when, while breast-feeding, she had the sudden onset of hemoptysis, described as "cups and cups" of blood. She was admitted to a hospital and a left lower lobectomy was performed. Histoplasma was seen on pathological examination of the resected lung. Intravenous amphotericin was administered for three months without complication. Follow-up computer tomography (CT) scans of the chest remained abnormal but she did not require further intervention.
+Three years before admission, she developed recurrent pneumonias and pulmonary hypertension. She was found to have possible pulmonary artery stenosis and was referred to a tertiary care medical center for dilatation.
+Past Medical History
+There was a history of histoplasmosis, as indicated above.
+Medications
+Medications included fluconazole (200 milligrams) and colchicine (0.6 milligrams) daily; both of which were started three weeks before referral to the tertiary care hospital.
+Epidemiological History
+The patient lived in rural Kentucky.
+Physical Examination
+She appeared well. The temperature was 97°F (36.1°C), blood pressure 90/50 mm Hg, pulse 78 beats per minute, respirations 18 breaths per minute, and oxygen saturation 95% on room air. There was no clinical evidence of pulmonary hypertension, cyanosis or clubbing. The jugular venous pressure was normal.
+Studies
+Laboratory test results were normal, including a negative urinary Histoplasma antigen. Computed tomography (CT) of the chest revealed calcifications in the mediastinum, proximal pulmonary artery stenosis and superior vena cava obstruction ( Figure 1 ).
+Figure 1. CT scan of chest.
+Diagnostic Procedure(s) and Result(s)
+The diagnosis of fibrosing mediastinitis was made on the basis of the clinical history and the findings on CT scan of the chest, including the presence of mediastinal calcifications. No biopsy or other invasive confirmatory test was performed.
+Treatment and Followup
+The patient underwent successful pulmonary artery dilatation. Fluconazole (200 mg) was administered daily for three months.
+Discussion
+Mediastinal fibrosis caused by prior histoplasmosis is rare but can be devastating.
+Yeast are not seen in the mediastinum, which is effaced by massive fibrosis. The pathophysiology remains unclear. The fibrosis encroaches on all mediastinal structures including the pulmonary arteries, superior vena cava (SVC), airways and esophagus. Patients present with recurrent pneumonias, dysphagia, pulmonary hypertension and superior vena cava (SVC) syndrome.
+There are no data in support of antifungal therapy at the time of diagnosis; intervention is palliative and involves stenting of the occluded structures.
+Final Diagnosis
+Fibrosing mediastinitis in a patient with a history of prior pulmonary Histoplasmosis.
+References
+Hammoud, Z.T., Rose, A.S., Hage, C.A., Knox, K.S., Rieger, K., and Kesler, K.A. (2009). Surgical management of pulmonary and mediastinal sequelae of histoplasmosis: a challenging spectrum. Ann Thorac Surg 88, 399-403.
+PMID:19632382 ( PubMed abstract )
+Peikert, T., Colby, T.V., Midthun, D.E., Pairolero, P.C., Edell, E.S., Schroeder, D.R., and Specks, U. (2011). Fibrosing mediastinitis: clinical presentation, therapeutic outcomes, and adaptive immune response. Medicine (Baltimore) 90, 412-423.
+PMID:22033450 ( PubMed abstract )

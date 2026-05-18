@@ -1,0 +1,58 @@
+History of Present Illness
+A man in his fifties with a history of idiopathic dilated cardiomyopathy who underwent an orthotopic heart transplantation (CMV donor positive/ recipient negative) about a decade ago, who is currently on tacrolimus 1mg/0.5 milligrams daily, mycophenolate 1500 milligrams twice daily, presented to the hospital with fever, night sweats, and fatigue.
+One week prior to admission, he saw his primary care doctor for evaluation of a superficial right thigh nodule and right inguinal lymphadenopathy that had been present for about 4 weeks. He was started on trimethoprim-sulfamethoxazole for a presumed soft tissue infection. He subsequently noted fevers of 38°C (100.4°F) over the next week associated with fatigue and chills. Due to the persistence of fevers, he presented to the emergency department and was admitted to the hospital. Blood cultures were obtained, and the patient was initiated on empiric intravenous vancomycin and piperacillin-tazobactam.
+Past Medical History
+Atrial fibrillation, and chronic kidney disease stage 3
+Epidemiological History
+The patient lives in South-eastern USA, does office work, and has not travelled overseas. He has never smoked or used illicit drugs and only drinks alcohol occasionally. He has not had recent sick contacts. He and his wife have outdoor cats.
+Physical Examination
+The patient appeared well. He was ambulant and had no exertional dyspnea. Temperature was 38°C (100.4°F), blood pressure 103/66, pulse 90, respiratory rate 17, pulse oximetry 98% on room air. Cardiac exam was notable for a systolic murmur at the right upper sternal border. Skin exam was notable for a 1 cm right medial thigh nodule with induration but no surrounding fluctuance or erythema (Fig. 1). There was no drainage, and the nodule was not tender to palpation. He had an enlarged, 2 cm nontender right inguinal lymph node. No other palpable lymphadenopathy. The remainder of the exam was normal.
+Figure 1. Right medial thigh nodule.
+Studies
+At admission, the white blood cell count was 4.7 x10 9 /L (reference 3.2-9.8): 58% neutrophils (reference 37-80%), 25% lymphocytes (reference 10-50%), 14% monocytes (reference 0- 1%). Hemoglobin 16.4 g/dL (reference 13.7-17.3), platelets 202 x10 9 /L (reference 150-450). Creatinine was 1.9 mg/dL (reference 0.6-1.3). Aspartate transaminase was 55 U/L (reference 15-41), alanine transaminase was 60 U/L (reference 17-63), alkaline phosphatase was 87 U/L (reference 24-110), total bilirubin was 0.7 mg/dL (reference 0.4-1.5).
+Two sets of blood cultures from admission showed no growth after five days. Urinalysis demonstrated no evidence of infection. Chest radiograph demonstrated no cardiopulmonary abnormality. Transthoracic echocardiogram noted mild left ventricular hypertrophy without evidence of vegetation or valvular dysfunction. Ejection fraction was 55% with normal diastolic function.
+Bedside incision and drainage of the right thigh nodule had a negative Gram stain, bacterial, and fungal culture.
+Clinical Course Prior to Diagnosis
+He continued to have fevers as high as 39.4°C (102.9°F) and developed progressive fatigue and night sweats.
+Liver function tests continued to increase during admission: aspartate transaminase increased from 55 to 86 U/L, alanine transaminase from 60 to 127 U/L, total bilirubin from 0.7 to 1.0 mg/dL, and alkaline phosphatase from 87 to 165 U/L. HIV serology was negative and cytomegalovirus and Epstein-Barr virus quantitative PCR were negative. Right upper quadrant ultrasound demonstrated no gallstones or evidence of cholecystitis. A 1.4 cm hyperechoic lesion was seen in the posterior aspect of the left liver lobe consistent with a hemangioma.
+Review of a peripheral blood smear demonstrated multiple atypical lymphocytes, raising concern for hematologic malignancy. Positron emission tomography scan was performed. This demonstrated hypermetabolic retroperitoneal, pelvic, left adrenal, and right inguinal lymphadenopathy along with diffuse splenic uptake.
+Bartonella serologies (IgG and IgM) were negative (reference ranges <1:320 and <1:100 titers, respectively) and serum toxoplasma PCR was negative. Serum cryptococcal antigen and urine histoplasma antigen were also negative.
+The nodule and his inguinal lymph node were biopsied. Skin biopsy of the thigh lesion revealed dense acute and chronic inflammation. Special stains did not reveal an infectious etiology.
+Diagnostic Procedure(s) and Result(s)
+Inguinal lymph node biopsy revealed suppurative granulomatous lymphadenitis (Fig 2) and no evidence of malignancy. Warthin-Starry stain showed rod-shaped organisms (Fig 3). Serum qualitative Bartonella henselae PCR was positive. Bartonella henselae PCR of the inguinal lymph node tissue subsequently returned positive.
+Figure 2. H&E stain of right inguinal lymph node biopsy (10x) showing suppurative granulomas (arrows).
+Figure 3. Warthin Starry Stain of right inguinal lymph node (40x) showing black rod-shaped organisms (arrows)
+Treatment and Followup
+The patient was started initially on oral azithromycin 500 mg for three days, which was then decreased to 250 mg daily, and oral doxycycline 100 mg twice daily. Fevers rapidly improved, and he was discharged within the next 48 hours. He was seen in clinic 3 weeks after discharge and was feeling clinically improved. He was seen again in clinic 3 months after discharge and was back to his baseline energy level. His antibiotics were stopped at that appointment.
+Discussion
+The Bartonella species are gram-negative bacilli, of which Bartonella henselae and Bartonella quintana are the most common in North America. Human infection is typically associated with cat and flea exposure, particularly young cats. [1] Individuals with intact immune systems typically present with a localized and self-limited lymphadenitis near the site of inoculum, referred to as cat scratch disease. [2] Bartonella has also been identified as an etiology of culture-negative endocarditis, especially in adult patients with prior valvular disease. [3] However, individuals who are immunosuppressed, particularly patients with HIV/AIDS and organ transplant recipients, are at increased risk of disseminated infection. [4] Infection in the HIV/AIDS population typically presents with vasoproliferative lesions. Bacillary angiomatosis most commonly manifests as cutaneous lesions, while bacillary peliosis presents as vascular lesions of the liver and spleen. [5] In contrast, transplant recipients present more frequently with granulomatous and suppurative lesions. There is not a clear correlation between type or duration of immunosuppression and the development of vascular versus granulomatous infection. [6]
+In the solid organ transplantation population, there is an increased frequency of cases of bartonellosis reported in renal transplant recipients, followed by liver, then lung and heart transplant recipients, likely due to the proportion of each of these transplants performed annually. Time from transplantation to infection has been reported anywhere from 1 month to 14 years. Patients often present with disseminated infection earlier in their post-transplant course, while those with localized cat scratch disease typically present later (likely due to decreases in immunosuppression over time). [7] Most cases are transmitted by feline exposure, although there have been reported cases of transmission of infection from the transplanted organ. [8] Immunosuppression can also cause reactivation disease.
+Solid organ transplant recipients with disseminated bartonellosis often present with non-specific symptoms such as fever, night sweats, and headache, though some have clinical evidence on exam of hepatomegaly and splenomegaly. Diagnosis can be made by serology, polymerase chain reaction, culture, and histopathology. [9] Serology is usually positive but can be negative early in the disease course. Cultures can also be negative early on, as Bartonella is a fastidious, slow-growing organism. Pathology often shows granulomas, and the Warthin-Starry silver stain highlights the Bartonella bacilli. The Warthin-Starry stain is a silver-nitrate based staining method that picks up organisms not well detected on traditional Gram stain, such as spirochetes and small bacilli.
+Treatment patterns vary based on the degree of dissemination of the infection. Localized cat-scratch disease in an immunocompetent host often does not require treatment, as it is self-limited. If antibiotics are prescribed, the first-line agent is usually azithromycin, which can expedite improvement in lymphadenopathy. [10] No specific guidelines exist for immunocompromised hosts with disseminated bartonellosis. Clinical practice is guided by case reports and expert opinion. Macrolides are often used as monotherapy or in combination with doxycycline. [7, 11, 12] Patients may also benefit from a reduction in immunosuppression. Duration of therapy ranges from a few weeks to several months, depending on the degree of dissemination and clinical response.
+Final Diagnosis
+Disseminated Bartonella henselae infection
+References
+Jacomo, V., P.J. Kelly, and D. Raoult, Natural history of Bartonella infections (an exception to Koch's postulate). Clin Diagn Lab Immunol, 2002. 9(1): p. 8-18.
+PMID:11777823 ( PubMed abstract )
+Spach, D.H. and J.E. Koehler, Bartonella-associated infections. Infect Dis Clin North Am, 1998. 12(1): p. 137-55.
+PMID:9494835 ( PubMed abstract )
+Raoult, D., et al., Diagnosis of 22 new cases of Bartonella endocarditis. Ann Intern Med, 1996. 125(8): p. 646-52.
+PMID:8849149 ( PubMed abstract )
+Antar, A.A.R., et al., Disseminated cat-scratch disease presenting as nausea, diarrhea, and weight loss without fever in a heart transplant recipient. Transpl Infect Dis, 2017. 19(3).
+PMID:28199763 ( PubMed abstract )
+Gasquet, S., et al., Bacillary angiomatosis in immunocompromised patients. Aids, 1998. 12(14): p. 1793-803.
+PMID:9792380 ( PubMed abstract )
+Rostad, C.A., et al., Bartonella henselae-mediated disease in solid organ transplant recipients: two pediatric cases and a literature review. Transpl Infect Dis, 2012. 14(5): p. E71-81.
+PMID:22862881 ( PubMed abstract )
+Psarros, G., et al., Bartonella henselae infections in solid organ transplant recipients: report of 5 cases and review of the literature. Medicine (Baltimore), 2012. 91(2): p. 111-21.
+PMID:22391473 ( PubMed abstract )
+Scolfaro, C., et al., Possible donor-recipient bartonellosis transmission in a pediatric liver transplant. Transpl Infect Dis, 2008. 10(6): p. 431-3.
+PMID:18651873 ( PubMed abstract )
+Agan, B.K. and M.J. Dolan, Laboratory diagnosis of Bartonella infections. Clin Lab Med, 2002. 22(4): p. 937-62.
+PMID:12489289 ( PubMed abstract )
+Bass, J.W., et al., Prospective randomized double blind placebo-controlled evaluation of azithromycin for treatment of cat-scratch disease. Pediatr Infect Dis J, 1998. 17(6): p. 447-52.
+PMID:9655532 ( PubMed abstract )
+Rolain, J.M., et al., Recommendations for treatment of human infections caused by Bartonella species. Antimicrob Agents Chemother, 2004. 48(6): p. 1921-33.
+PMID:15155180 ( PubMed abstract )
+Prutsky, G., et al., Treatment outcomes of human bartonellosis: a systematic review and meta-analysis. Int J Infect Dis, 2013. 17(10): p. e811-9.
+PMID:23602630 ( PubMed abstract )

@@ -1,0 +1,36 @@
+History of Present Illness
+A woman in her twenties presented with a productive, persistent cough of three weeks duration.
+She was in good health until aged eight years, when jaundice and hepatitis A were diagnosed. Subsequently, persistent right upper quadrant pain developed. An echinococcal cyst was diagnosed.
+Five years before this presentation, a partial hepatic resection was performed. The patient was not certain if albendazole was administered. A residual cyst was found and annual ultrasounds advised. She was unsure of the date of the last ultrasound.
+Three weeks before admission, persistent and productive cough developed. There was also a history of headaches.
+Past Medical History
+There was a history of echinococcal disease.
+Medications
+None.
+Epidemiological History
+The patient was originally from Eastern Europe and owned dogs.
+Physical Examination
+The patient appeared anxious. The vital signs were normal. There was mild right upper quadrant tenderness to palpation; the remainder of the examination was normal.
+Studies
+The white blood count was 8,000 cells/mm³ with 11.8% eosinophils; all other laboratory testing was normal. A chest radiograph revealed collapse of the right middle lobe ( Figure 1 ).
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) of the chest and upper abdomen is shown in Figures 2 and 3 .
+Figure 2. CT scan of the chest.
+Figure 3. CT scan of the upper abdomen.
+Diagnostic Procedure(s) and Result(s)
+The CT scan of the chest ( Figures 2 and 3 ) revealed a mass that measured 7.1 centimeters by 5.8 centimeters. There was a well-defined capsule and internal septations with wall calcification that extended from the dome of the liver through the diaphragm and resulted in right middle lobe collapse.
+Bronchoscopy revealed a thick mucus plug that occluded the right middle lobe bronchus and emanated from the medial segment. It could not be cleared despite attempts at aspiration.
+The echinococcal serology was positive at 2.9 (normal 0-1.1).
+Treatment and Followup
+The patient was referred for surgical excision through a combined thoracic and abdominal approach. Pre-treatment medications included albendazole and praziquantel.
+Discussion
+Hydatid cysts of the liver are most commonly caused by the larval form of Echinococcus granulosis , commonly acquired from dogs. Lesions grow indolently and often do not present until they are quite large, impinging on local structures or until the contents leak and the patient presents with symptoms of hypersensitivity. Diagnosis rests on classic radiographic findings and serology.
+Treatment modalities include surgery, percutaneous aspiration, introduction of a protoscolicidal agent and re-aspiration (PAIR) and antiparasitic chemotherapy (albendazole or praziquantel).
+Final Diagnosis
+Echinococcal (hydatid) cyst.
+References
+Morar, R., and Feldman, C. (2003). Pulmonary echinococcosis. Eur Respir J 21, 1069-1077.
+PMID:12797504 ( PubMed abstract )
+Neumayr, A., Troia, G., de Bernardis, C., Tamarozzi, F., Goblirsch, S., Piccoli, L., Hatz, C., Filice, C., and Brunetti, E. (2011). Justified concern or exaggerated fear: the risk of anaphylaxis in percutaneous treatment of cystic echinococcosis-a systematic literature review. PLoS Negl Trop Dis 5, e1154.
+PMID:21695106 ( PubMed abstract )

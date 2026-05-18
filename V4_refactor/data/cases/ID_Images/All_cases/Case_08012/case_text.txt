@@ -1,0 +1,47 @@
+History of Present Illness
+2008 December Featured Case and 2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A woman with leg weakness and urinary incontinence.
+A woman in her twenties, from Honduras, was well until 6 months earlier when pain in her right buttock, which radiated down her leg posteriorly, developed. She saw her primary care physician (PCP) who diagnosed sciatica. Over-the-counter analgesics and narcotics were administered, with no improvement. Two weeks before admission, she returned to her PCP because of bilateral groin numbness, which was new. Sciatica was diagnosed, and a 10-day course of steroids was prescribed. She developed progressive lower leg weakness. Three days after completing the steroids, urinary incontinence and difficulty initiating urination developed. She presented to the Emergency Department for evaluation.
+There was no history of back pain or trauma, fever, chills, night sweats, headache, diplopia or other visual disturbance, or weight loss.
+Past Medical History
+She had a history of migraine headaches, and no allergies.
+Medications
+She had recently taken acetaminophen and ibuprofen as needed for pain.
+Epidemiological History
+She was born in Honduras and had immigrated to the United States 6 years earlier. She worked as a housekeeper, and did not smoke, drink alcohol or use illicit drugs. One year earlier, she had returned to Honduras for a visit. She had no sick contacts or pets.
+Physical Examination
+She appeared well. The temperature was 98.0°F (36.7°C), blood pressure 110/66 mm Hg, pulse 73 beats per minute and respirations 16 breaths per minute with an oxygen saturation of 96% while breathing room air. There was no deformity of the spine or tenderness on palpation. Straight leg raising did not elicit pain. Strength was diminished in the legs, with measurements on a scale of 0 to 5 (where 5 is normal strength) of 4/5 in the muscles of the right and left legs. Deep tendon reflexes were 3+ in the right and left legs and 2+ in the arms. The plantar reflexes were flexor. There was decreased sensation to light touch bilaterally across the hips, and sphincter tone was normal. Proprioceptive sensation and coordination was intact. Sensation to light touch was decreased in both legs. The examination was otherwise normal.
+Studies
+The white blood cell count was 9,200 cells/mm³ (including neutrophils 79%, lymphocytes 14%, monocytes 5%, and eosinophils 2%). Magnetic resonance imaging (MRI) of the lumbosacral spine revealed multiple intradural cysts, which did not enhance, extending from T12 to L5 vertebrae, with the largest at the L5 level measuring 2.2 by 1 cm, and displacing the cauda equina anteriorly. The MRI of the cervical and thoracic spine also revealed multiple subarachnoid cysts without any cord compression. The MRI of the brain and computed tomography (CT) of the head were normal.
+Figure 1. MRI of the lumbar spine.
+Figure 2. MRI of the lumbar spine, transverse cut.
+Diagnostic Procedure(s) and Result(s)
+High dose dexamethasone was administered. On the 2nd day, decompression laminectomy with evacuation of the thecal cysts was performed. On gross examination, multiple thin-walled cystic structures filled with serous fluid (0.2 to 1.1 cm in diameter) were seen, with single and clustered cysts. The pathological examination of resected tissue (Figure 3) demonstrated multiple fluid-filled thin-walled structures consistent with larval cysts ( 'A' arrow points to the cyst wall) containing mineralized calcareous bodies ('B' arrows) . Serology for cysticercosis was positive by western blot.
+Figure 3. Surgical pathology of the resected tissue.
+Treatment and Followup
+Post-operatively, her neurologic dysfunction completely resolved. Repeat imaging showed residual cysts without any cord compression. Albendazole (7-day course) was added to the steroid therapy, and she was discharged with outpatient follow-up.
+Discussion
+Cysticercosis is a tissue infection with the cystic larval form of the tapeworm Taenia solium . Humans serve as intermediate hosts for the adult tapeworm after ingestion of raw or undercooked pork containing cystic larvae, and human cysticercosis is acquired through consumption of T. solium eggs. Infection of the central nervous system (CNS), also known as neurocysticercosis (NCC), is the most common parasitic CNS infection in humans. It has become an increasingly important emerging infection in the United States, largely due to the influx of immigrants from endemic regions.
+Spinal cord involvement in NCC is a very uncommon presentation. Its incidence is estimated to be 0.7 to 3% of all cases of NCC [Sotelo et al. 1985; Amaral et al. 2003; Bandres et al. 1992]. It may be intramedullary (20%) or subarachnoid (80%) [Colli et al. 2002; Alsina et al. 2002; Leite et al. 1997]. Very few cases of extradural spinal NCC have also been reported [Amaral et al. 2003]. The intramedullary form is thought to occur by hematogenous dissemination, while the subarachnoid type, which our patient had, is thought to occur by cerebrospinal fluid (CSF) dissemination from a source in the cerebrum. It usually affects patients with a history of cerebral NCC but can be found without cerebral NCC in about 25% of cases [Colli et al. 2002; Goodear et al. 1997; Carydakis et al. 1984; Leite et al. 1997]. The thoracic and lumbar spine are the most commonly involved spinal segments [Leite et al. 1997]. A favorable outcome can be expected with prompt recognition and appropriate surgical management [Colli et al. 2002; Garcia et al. 2002]. The prognosis is worse if there is significant arachnoiditis [Colli et al. 2002; Canas et al. 2005].
+Final Diagnosis
+Spinal subarachnoid neurocysticercosis caused by Taenia solium .
+References
+Alsina, G.A., Johnson, J.P., McBride, D.Q., Rhoten, P.R., Mehringer, C.M., and Stokes, J.K. (2002). Spinal neurocysticercosis. Neurosurg Focus 12, e8
+PMID:15926787 ( PubMed abstract )
+Amaral, L., Maschietto, M., Maschietto, R., Cury, R., Ferreira, N.F., Mendonca, R., and Lima, S.S. (2003). Ununsual manifestations of neurocysticercosis in MR imaging: analysis of 172 cases. Arq Neuropsiquiatr 61, 533-541
+PMID:14513153 ( PubMed abstract )
+Bandres, J.C., White, A.C., Jr., Samo, T., Murphy, E.C., and Harris, R.L. (1992). Extraparenchymal neurocysticercosis: report of five cases and review of management. Clin Infect Dis 15, 799-811.
+PMID:1445979 ( PubMed abstract )
+Canas, N.M., Calado, S.L., and Vale, J. (2005). [Treatment of racemose neurocysticercosis of the spine]. Rev Neurol 40, 544-547.
+PMID:15898016 ( PubMed abstract )
+Carydakis, C., Baulac, M., Laplane, D., Schuller, E., and Philippon, J. (1984). [Pure spinal cysticercosis. Note on the cerebrospinal fluid]. Rev Neurol (Paris) 140, 590-593.
+PMID:6505487 ( PubMed abstract )
+Colli, B.O., Valenca, M.M., Carlotti, C.G., Jr., Machado, H.R., and Assirati, J.A., Jr. (2002). Spinal cord cysticercosis: neurosurgical aspects. Neurosurg Focus 12, e9.
+PMID:15926788 ( PubMed abstract )
+Garcia, H.H., Evans, C.A., Nash, T.E., Takayanagui, O.M., White, A.C., Jr., Botero, D., Rajshekhar, V., Tsang, V.C., Schantz, P.M., Allan, J.C., Flisser, A., Correa, D., Sarti, E., Friedland, J.S., Martinez, S.M., Gonzalez, A.E., Gilman, R.H., and Del Brutto, O.H. (2002). Current consensus guidelines for treatment of neurocysticercosis. Clin Microbiol Rev 15, 747-756.
+PMID:12364377 ( PubMed abstract )
+Goodear, M., Voyvodic, F., Brophy, B., and Sage, M. (1997). Spinal cysticercosis. J Clin Neurosci 4, 370-372.
+PMID:18638989 ( PubMed abstract )
+Leite, C.C., Jinkins, J.R., Escobar, B.E., Magalhaes, A.C., Gomes, G.C., Dib, G., Vargas, S.A., Zee, C., and Watanabe, A.T. (1997). MR imaging of intramedullary and intradural-extramedullary spinal cysticercosis. AJR Am J Roentgenol 169, 1713-1717.
+PMID:9393195 ( PubMed abstract )
+Sotelo, J., Guerrero, V., and Rubio, F. (1985). Neurocysticercosis: a new classification based on active and inactive forms. A study of 753 cases. Arch Intern Med 145, 442-445
+PMID:3977513 ( PubMed abstract )

@@ -1,0 +1,28 @@
+History of Present Illness
+IDSA 2001 Case Summary: A teenager with a sore throat, fever, and malaise.
+A teenager presented with a five-day history of a sore throat, fever, nausea, cough and malaise. A rapid strep test was negative. Blood cultures were obtained and oral azithromycin was administered. The next day, her symptoms increased, and she was admitted with fever, emesis, dysphagia and shortness of breath.
+Past Medical History
+No significant past medical history.
+Social History
+She was an active student athlete, and had no history of recent travel.
+Physical Examination
+The patient appeared ill. The temperature was 38.4°C (101.1°F), pulse 110 beats per minute, blood pressure 116/68 mm Hg, and respiratory rate 40 breaths per minute, while breathing supplemental oxygen. There was tender anterior cervical lymphadenopathy with neck swelling bilaterally, greater on the left than the right. Examination of the chest revealed shallow respirations, guarding upon deep inspiration, and coarse rales bilaterally, with good aeration.
+Studies
+The white blood cell count (WBC) was 22,400 cells per cubic millimeter and platelets 820,000 per cubic millimeter. A chest radiograph and head scan were done and are shown in Figures 1 and 2 .
+Figure 1. Chest radiograph.
+Figure 2. Head scan.
+Clinical Course Prior to Diagnosis
+Doppler ultrasound of left internal jugular is shown in Figure 3 , and doppler ultrasound of right internal jugular in Figure 4 .
+Figure 3. Doppler study of left internal jugular vein.
+Figure 4. Doppler study of right internal jugular vein.
+Diagnostic Procedure(s) and Result(s)
+Culture of the blood grew Fusobacterium . Ultrasonography of the neck ( Figures 3 and 4 ) showed complete occlusion of the left internal jugular vein and partial occlusion of the right internal jugular vein.
+Treatment and Followup
+Lemierre's disease (postanginal septicemia) is the classical presentation of human necrobacillosis. The infection often begins in the throat with spread to the lateral pharyngeal space and internal jugular vein. The resulting septic internal jugular thrombophlebitis can be complicated by septic pulmonary emboli, as in this case. Although Fusobacterium necrophorum is the usual causative organism, polymicrobial bacteremia may occur.
+Final Diagnosis
+LeMierre’s disease caused by Fusobacterium .
+References
+Centor, R.M. (2009). Expand the pharyngitis paradigm for adolescents and young adults. Ann Intern Med 151, 812-815.
+PMID:19949147 ( PubMed abstract )
+Chirinos, J.A., Lichtstein, D.M., Garcia, J., and Tamariz, L.J. (2002). The evolution of Lemierre syndrome: report of 2 cases and review of the literature. Medicine (Baltimore) 81, 458-465.
+PMID:12441902 ( PubMed abstract )

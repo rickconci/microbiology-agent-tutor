@@ -1,0 +1,67 @@
+History of Present Illness
+A South African girl with dyspnea and cough productive of yellow sputum.
+A pre-teen girl presented to a rural clinic in KwaZulu-Natal, South Africa with a history of cough, productive of yellow sputum, shortness of breath, loss of appetite and weight loss, of 3 months' duration. The symptoms had not improved despite a course of amoxicillin.
+A chest radiograph ( Figure 1 ) was thought to show findings suggestive of pulmonary tuberculosis. She was admitted to a rural tuberculosis (TB) hospital and isoniazid, rifampin and pyrazinamide were administered. Sputum specimens on admission were negative for acid-fast bacilli, and subsequent culture was negative.
+After 2 months of intensive phase anti-TB therapy, her symptoms persisted. A repeat chest radiograph ( Figure 2 ) was obtained. Two additional sputum specimens stained for acid fast bacilli and cultures were negative.
+After 4 months in the hospital, testing for antibodies to HIV-1 was positive. Trimethoprim-sulfamethoxazole prophylaxis was begun, and antituberculous medications continued. After completion of 6 months of intensive phase anti-TB therapy, she remained clinically unchanged. A chest radiograph ( Figure 3 ) was unchanged and three sputum cultures were again negative for tuberculosis. She remained hospitalized on isoniazid, rifampin and pyrazinamide for 11 months. Her clinical condition was unchanged. A pediatric specialist consultation was obtained.
+Figure 1. Image
+Figure 1. Chest radiograph, on presentation.
+Figure 2. Image
+Figure 2. Chest radiograph, after 2 months of anti-TB therapy.
+Figure 3. Image
+Figure 3. Chest radiograph, after 6 months of anti-TB therapy.
+Past Medical History
+She had been unwell for at least two years before this presentation, though details of her past medical history were limited.
+Medications
+Medications included isoniazid, rifampin, pyrazinamide and trimethoprim-sulfamethoxazole.
+Family History
+The patient's parents were deceased; their HIV status was not known.
+Epidemiological History
+She lived in rural KwaZulu-Natal, South Africa with her aunt before her admission. Her aunt, who was her primary care giver, died while the patient was hospitalized.
+Physical Examination
+The patient appeared ill and cachectic. The blood pressure was 110/60 mm Hg, pulse 115 beats per minute, temperature 37.0°C (98.6°F), and respirations 54 breaths per minute. She weighed 20 kilograms (weight-for-age Z-score -3.9). There was soft mobile submandibular, submental, and cervical adenopathy. There were diffuse crackles throughout all lung fields, with scattered expiratory wheezes and occasional ronchi in the bilateral lower chest. There were no subcostal or abdominal retractions. A prominent second heart sound was heard, with no murmurs. The neck veins were flat and the point of maximal impulse was not displaced. The liver was palpated 3 centimeters below the costal margin. The spleen was not palpable. Her extremities revealed severe digital clubbing.
+Studies
+The level of CD4 T-Lymphocytes was 285 cells per cubic milliliter (11% of lymphocytes were CD4 T lymphocytes). Fifteen sputum specimens, obtained during a 12-month period, were tested for acid fast bacilli and were negative. Six sputum cultures for tuberculosis were negative during that time.
+A chest radiograph was repeated ( Figure 4 ).
+Figure 4. Chest radiograph, after 12 months of anti-TB therapy.
+Diagnostic Procedure(s) and Result(s)
+Based on the history, physical examination, laboratory studies and clinical course, a diagnosis of presumptive lymphocytic interstitial pneumonitis (LIP) was made.
+Treatment and Followup
+Antiretroviral therapy, including efavirinez, lamivudine, and stavudine, was administered, in addition to inhaled bronchodilators and inhaled steroids. After 2 weeks of antiretroviral therapy she developed fever, purulent sputum, and increased work of breathing. She was treated with amoxacillin-clavanulate, with improvement. Tachypnea, dyspnea on exertion, and shortness of breath persisted.
+After 2 months of antiretroviral therapy, inhaled bronchodilators and high dose systemic corticosteroids were administered. After 4 weeks of corticosteroids, the respiratory rate improved to 28 breaths per minute. She was able to play without resting, and her shortness of breath and cough improved. She began a slow taper off the steroids and resumed inhaled steroids. After 5 months of antiretroviral therapy her viral load was undetectable (less than 150 copies per milliliter and the absolute CD4 T-lymphocyte cell count increased to 415 cells per cubic millimeter. A distant relative was identified, and she was discharged to that person's care after a 15-month hospital admission. At time of discharge, she had gained 5 kilograms, her cough had improved, and her shortness of breath and dyspnea on exertion were improving.
+Discussion
+Lymphocytic interstitial pneumonitis (LIP) is an interstitial lung disease that affects 25 to 40% of perinatally HIV infected children [Andiman WA and Shearer WT, 1998]. The overall etiology of LIP is unknown; however, it is thought to be related to the interaction of Epstein-Barr Virus (EBV) and HIV [Andiman WA, Eastman R, et al. 1985; Montagnier L, et al. 1984; Joshi VV, et al. 1987; Katz BZ, Berkman AB, Shapiro ED. 1992; Bhoopat L, et al. 2010].
+Children rarely present before the first year of life [Scott GB, et al. 1989]. Typically, they present with an insidious onset of cough, dyspnea and tachypnea. Auscultation of the chest can reveal wheezes, ronchi, or crackles but is often normal in early presentations. Associated physical findings include: digital clubbing, generalized lymphadenopathy, hepatosplenomegaly, and parotid enlargement. In HIV infected children the diagnosis is usually made clinically with the presentation of cough, dyspnea, hypoxia, chest radiographs with bilateral micronodular infiltrates [Marks MJ, et al. 1996; Pitcher RD, et al. 2010] and the exclusion of tuberculosis as an alternate diagnosis.
+Treatment involves prompt initiation of antiretroviral therapy for the underlying HIV infection. Severe cases often require systemic steroids [Desmarquest P, et al. 1998]. Mild to moderate cases can be controlled with ART, inhaled bronchodilators and inhaled corticosteroids. There are some reports of the use of intravenous gammaglobulin (IVIG) and hydroxychloroquine that have slowed or stopped the progression of LIP [Laraya-Cuasay LR. 1988; Waters KA, et al. 1991; Campos JM, Simonetti JP. 1993]. Delays in initial diagnosis often lead to bronchiectasis, cystic lung changes and right heart failure [Sheikh S, et al. 1997]. These children often have episodic worsening with recurrent bacterial pneumonias that respond to broad spectrum antibiotics [Sheikh S, et al. 1997]. With prompt diagnosis and early initiation of ART there is often resolution of symptoms [Innes AL, et al. 2004]. However, once there is pulmonary fibrosis, pulmonary hypertension, right heart failure and evidence of end-organ damage the prognosis is poor despite ART.
+Of note, in resource-limited settings, the diagnosis of many infectious diseases is often difficult and presumptive, taking into account the response (or lack thereof) to therapeutic trials. The other diagnosis listed in the differential would most likely have progressed in the absence of specific targeted therapy.
+Final Diagnosis
+Lymphocytic interstitial pneumonitis (LIP), presumptive, in an Afrcian child with HIV infection.
+References
+Andiman WA, Shearer WT. (1998) Lymphoid interstitial pneumonitis. In: Pediatric AIDS: The Challenge of HIV Infection in Infants, Children, and Adolescents, 3rd, Pizzo PA, Wilfert CM (Eds), Lippincott Williams & Wilkins, Baltimore 1998. p.323.
+Andiman, W.A., Eastman, R., Martin, K., Katz, B.Z., Rubinstein, A., Pitt, J., Pahwa, S., and Miller, G. (1985). Opportunistic lymphoproliferations associated with Epstein-Barr viral DNA in infants and children with AIDS. Lancet 2, 1390-1393.
+PMID:2867394 ( PubMed abstract )
+Bhoopat, L., Rangkakulnuwat, S., Okonogi, R., Wannasai, K., and Bhoopat, T. (2010). Cell reservoirs of the Epstein-Barr virus in biopsy-proven lymphocytic interstitial pneumonitis in HIV-1 subtype E infected children: identification by combined in situ hybridization and immunohistochemistry. Appl Immunohistochem Mol Morphol 18, 212-218.
+PMID:19801937 ( PubMed abstract )
+Campos, J.M., and Simonetti, J.P. (1993). Treatment of lymphoid interstitial pneumonia with chloroquine. J Pediatr 122, 503.
+PMID:8489636 ( PubMed abstract )
+Desmarquest, P., Tamalet, A., Fauroux, B., Boule, M., Boccon-Gibod, L., Tournier, G., and Clement, A. (1998). Chronic interstitial lung disease in children: response to high-dose intravenous methylprednisolone pulses. Pediatr Pulmonol 26, 332-338.
+PMID:9859902 ( PubMed abstract )
+Innes, A.L., Huang, L., and Nishimura, S.L. (2004). Resolution of lymphocytic interstitial pneumonitis in an HIV infected adult after treatment with HAART. Sex Transm Infect 80, 417-418.
+PMID:15459417 ( PubMed abstract )
+Joshi, V.V., Kauffman, S., Oleske, J.M., Fikrig, S., Denny, T., Gadol, C., and Lee, E. (1987). Polyclonal polymorphic B-cell lymphoproliferative disorder with prominent pulmonary involvement in children with acquired immune deficiency syndrome. Cancer 59, 1455-1462.
+PMID:3493062 ( PubMed abstract )
+Katz, B.Z., Berkman, A.B., and Shapiro, E.D. (1992). Serologic evidence of active Epstein-Barr virus infection in Epstein-Barr virus-associated lymphoproliferative disorders of children with acquired immunodeficiency syndrome. J Pediatr 120, 228-232.
+PMID:1310507 ( PubMed abstract )
+Laraya-Cuasay LR. Lymphoproliferative disorders of the lung. In: Interstitial Lung Disease in Children, Laraya-Cuasay LR, Hughes WT (Eds), CRC Press, Boca Raton 1988. Vol 3, p.151.
+Marks, M.J., Haney, P.J., McDermott, M.P., White, C.S., and Vennos, A.D. (1996). Thoracic disease in children with AIDS. Radiographics 16, 1349-1362.
+PMID:8946540 ( PubMed abstract )
+Montagnier, L., Gruest, J., Chamaret, S., Dauguet, C., Axler, C., Guetard, D., Nugeyre, M.T., Barre-Sinoussi, F., Chermann, J.C., Brunet, J.B., and et al. (1984). Adaptation of lymphadenopathy associated virus (LAV) to replication in EBV-transformed B lymphoblastoid cell lines. Science 225, 63-66.
+PMID:6328661 ( PubMed abstract )
+Pitcher, R.D., Beningfield, S.J., and Zar, H.J. (2010). Chest radiographic features of lymphocytic interstitial pneumonitis in HIV-infected children. Clin Radiol 65, 150-154.
+PMID:20103438 ( PubMed abstract )
+Scott, G.B., Hutto, C., Makuch, R.W., Mastrucci, M.T., O'Connor, T., Mitchell, C.D., Trapido, E.J., and Parks, W.P. (1989). Survival in children with perinatally acquired human immunodeficiency virus type 1 infection. N Engl J Med 321, 1791-1796.
+PMID:2594038 ( PubMed abstract )
+Sheikh, S., Madiraju, K., Steiner, P., and Rao, M. (1997). Bronchiectasis in pediatric AIDS. Chest 112, 1202-1207.
+PMID:9367458 ( PubMed abstract )
+Waters, K.A., Bale, P., Isaacs, D., and Mellis, C. (1991). Successful chloroquine therapy in a child with lymphoid interstitial pneumonitis. J Pediatr 119, 989-991.
+PMID:1844986 ( PubMed abstract )

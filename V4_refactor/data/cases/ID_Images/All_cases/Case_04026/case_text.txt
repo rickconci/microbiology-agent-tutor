@@ -1,0 +1,31 @@
+History of Present Illness
+Summary: A young woman with fever, rash and joint pains for one day.
+A young adult female, who was in the second trimester of pregnancy, presented to the obstetrician with fever, rash, and joint pains for one day.
+The patient awoke from sleep the night before her presentation with a temperature to 100.3°F (37.9°C). She went back to bed but remained uncomfortable due to diffuse muscle aches. She awakened in the morning and felt as if she had “jammed her left thumb,” a feeling she attributed to tossing and turning in bed. She called her obstetrician and arranged for an evaluation.
+Her child had recently had a febrile illness with a rash that had been attributed to a virus by the child’s pediatrician. No antibiotics had been administered and the child had improved over the preceding three days.
+The patient developed a rash while in the triage unit and was transferred to the emergency department.
+Physical Examination
+The temperature and blood pressure were normal. The neck was supple. Left thumb swelling ( Figure 1 ) and a non-blanching rash were present ( Figures 2 and 3 ). There was no photophobia.
+Figure 1. Physical findings on hands.
+Figure 2. Physical findings.
+Figure 3. Physical findings.
+Studies
+The white blood cell count was 22,000 cells/mm³ with 15% bands. Other laboratory testing was normal. A lumbar puncture was performed; analysis of the cerebrospinal fluid revealed no cells and normal chemistry results.
+Clinical Course Prior to Diagnosis
+The patient was admitted and vancomycin, ampicillin, and ceftriaxone were administered. Droplet precautions were instituted.
+Diagnostic Procedure(s) and Result(s)
+Two of four aerobic blood cultures were positive for Neisseria meningitidis .
+Treatment and Followup
+The vancomycin and ampicillin were discontinued. She improved significantly and was discharged to complete a ten-day course of ceftriaxone.
+Her child was reevaluated and had blood cultures drawn, which remained negative. The child was treated with intramuscular ceftriaxone by the pediatrician. Ciprofloxacin was administered orally to close household contacts for prophylaxis.
+Discussion
+This case illustrates the clinical spectrum of Neisserial disease.
+During the initial evaluation, Neisseria gonorrhoeae was a significant concern given the “dermatitis/arthritis" presentation. Neisseria meningitidis can also cause a similar syndrome and should be included in the differential diagnosis. Parvovirus may cause fever and small joint arthralgias, symptoms that are more common in women than in men. The rash of parvovirus has classically a "slapped cheek" appearance when occurring in children, whereas in adults a lacy evanescent rash may be present. Rocky Mountain Spotted Fever often presents with fever, headache and a rash involving the palms and soles. Acute HIV infection should be considered in any sexually active patient with fever and rash; typically the rash is maculopapular and the presence of arthritis would be less likely.
+Despite the presence of negative findings and studies initially, one must rely on clinical suspicions and institute appropriate precautions and therapy. When a case of meningococcemia is documented, tracking contacts and administering appropriate prophylaxis is of great importance.
+Final Diagnosis
+Meningococcemia due to Neisseria meningitidis , without evidence of meningitis.
+References
+Horino, T., Kato, T., Sato, F., Sakamoto, M., Nakazawa, Y., Yoshida, M., Onodera, S., Kohda, M., Matsuo, K., Ishiji, T., Takahashi, H., and Watanabe, H. (2008). Meningococcemia without meningitis in Japan. Intern Med 47, 1543-1547.
+PMID:18758132 ( PubMed abstract )
+Stephens, D.S., and Zimmer, S.M. (2002). Pathogenesis, Therapy, and Prevention of Meningococcal Sepsis. Curr Infect Dis Rep 4, 377-386.
+PMID:12228024 ( PubMed abstract )

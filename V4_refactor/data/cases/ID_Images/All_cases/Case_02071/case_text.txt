@@ -1,0 +1,26 @@
+History of Present Illness
+Summary: A man with two weeks of fevers, fatigue and headache.
+A man in his twenties presented with two weeks of fevers, fatigue and headache. Six weeks before his presentation, he had returned from several years in rural Zambia. He had taken mefloquine for malaria prophylaxis for the first year, but then stopped due to unpleasant dreams. Six months earlier, while still in Africa, he was treated empirically for malaria with 3 days of proguanil-atovaquone for an unspecified febrile illness less severe than his current symptoms. He had seen his primary care physician four days before this presentation and was placed empirically on doxycycline after a urinalysis and test for antibodies to human immunodeficiency virus (HIV) test were negative. His symptoms continued without improvement, and he went to an emergency room for further evaluation.
+Past Medical History
+Medications included doxycycline (100 mg twice daily, day #4).
+Epidemiological History
+He lived in a suburb of New England, and previously, in Zambia for several years. He had traveled throughout southern Africa and had gone swimming in lakes, hiked in tick-endemic regions, and eaten local foods. In recent weeks, he had also traveled to Cape Cod, Massachusetts. He denied sexual encounters in Africa, injection drug use, or known tick bites.
+Physical Examination
+The patient appeared ill with shaking chills. The temperature was 102.9°F (39.4°C); other vital signs were stable. His conjunctiva were pale, and the lungs were clear. The abdomen was benign, with the liver palpable and non-tender 2 centimeters below the costal margin. The spleen was not palpable. There was no rash, eschar or petechiae.
+Studies
+The white cell count (WBC) was 3,200 cells/mm³, hematocrit 30%, and platelets 129,000/mm³. The level of creatinine, alanine aminotransferase (ALT, SGPT) and aspartate aminotransferase (AST, SGOT) were normal. Total bilirubin was slightly elevated at 1.4 mg/dL. Images of the peripheral blood smear are shown ( Figures 1 and 2 ).
+Figure 1. Blood smear.
+Figure 2. Blood smear.
+Diagnostic Procedure(s) and Result(s)
+Thick and thin blood smears showed intra-erythrocytic ring forms ( Figure 1 ) and a banana gametocyte ( Figure 2 ). In Figure 1 , the intra-erythrocytic ring forms are plicated against the side of the red cell, a characteristic of Plasmodium falciparum . Blood cultures were negative.
+Treatment and Followup
+The patient was diagnosed with malaria and treatment was begun with atovaquone-proguanil for a total of three days. He improved rapidly and his laboratory parameters remained stable, with a total parasitemia dropping from 2% to <1% before discharge the following day.
+Discussion
+Fever in a traveler returning from a malaria-endemic area such as Africa necessitates the immediate exclusion of malaria, particularly when the individual has not taken prophylaxis. This patient’s symptoms, including fever, chills, headache and prostration, can all be explained by malaria. Other causes of fever that could have been acquired in Africa would include Salmonella typhi (blood cultures negative), African tick fever (a meticulous skin exam should reveal an eschar at the tick attachment site), and dengue (incubation period is 2 days to 3 weeks and less common in Africa than Asia or South and Central America). His travel to Cape Cod put him at risk for Ehrlichia, Babesia and Lyme infection. Lyme disease is typically less severe and often accompanied by a rash. Babesia can give intra-erythrocytic ring forms, but banana gametocytes are not seen. Ehrlichiosis causes symptoms similar to malaria and the incubation time is one to two weeks. Typical lab abnormalities include thrombocytopenia, leukopenia and elevated aminotransferases. If this patient had continued to have symptoms or remain febrile after treatment of malaria and resolution of his parasitemia, and had not already failed to improve on four days of doxycycline, empiric therapy for ehrlichiosis would have been considered.
+Final Diagnosis
+Malaria, due to Plasmodium falciparum .
+References
+LaRocque, R.C., and Jentes, E.S. (2011). Health recommendations for international travel: a review of the evidence base of travel medicine. Curr Opin Infect Dis 24, 403-409.
+PMID:21788892 ( PubMed abstract )
+Mali S, Kachur SP, Arguin PM (2012) Malaria surveillance--United States, 2010. Division of Parasitic Diseases and Malaria, Center for Global Health; Centers for Disease Control and Prevention (CDC). MMWR Surveill Summ. 2012 Mar 2;61(2):1-17.
+PMID:22377962 ( PubMed abstract )

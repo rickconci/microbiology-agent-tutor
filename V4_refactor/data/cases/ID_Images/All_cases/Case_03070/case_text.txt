@@ -1,0 +1,21 @@
+History of Present Illness
+Summary: A 6-year-old with fever and a scalp lesion.
+A 6-year-old boy, who had played in grassy areas outdoors on Cape Cod, Massachusetts, developed a fever and a sore spot on his head one day in July. The family's physician prescribed dicloxacillin for a cellulitis. Three days later, the sore spot persisted and fever increased to 105°F (40.6°C). He was admitted to a hospital.
+Medications
+He was taking dicloxacillin.
+Epidemiological History
+He had had outdoor exposure on Cape Cod, Massachusetts.
+Physical Examination
+There was a lesion on his scalp ( Figure 1 ) that was associated with a tender post-auricular lymph node.
+Figure 1. Physical finding.
+Diagnostic Procedure(s) and Result(s)
+Upon specific questioning, the patient's family reported having found a tick on the patient's scalp recently. Serologic testing for Francisella tularensis , the causative agent of tularemia, was positive.
+Discussion
+The systemic symptoms in this case ruled out the diagnosis of tinea capitis. The ulcerative lesion on his scalp did not suggest cellulitis or Lyme disease. Cutaneous anthrax generally presents with a pruritic papule that enlarges into an ulcer with a black necrotic central eschar and significant edema. This patient had the ulceroglandular form of tularemia, caused by , most likely transmitted by a tick bite.
+Final Diagnosis
+Tularemia due to Francisella tularensis .
+References
+Aquino, L.L., and Wu, J.J. (2011). Cutaneous manifestations of category A bioweapons. J Am Acad Dermatol 65, 1213 e1211-1213 e1215.
+PMID:21777993 ( PubMed abstract )
+Thomas, L.D., and Schaffner, W. (2010). Tularemia pneumonia. Infect Dis Clin North Am 24, 43-55.
+PMID:20171544 ( PubMed abstract )

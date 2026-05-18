@@ -1,0 +1,44 @@
+History of Present Illness
+Summary: An elderly man with intermittent fevers.
+Three years before this presentation, a man in his seventies underwent an extensive abdominal surgery for an intraductal papillary mucinous tumor, including Whipple’s procedure with near-total pancreatectomy, duodenectomy, partial gastrectomy with Bilroth reconstruction, cholecystectomy and splenectomy. He had done very well in the intervening three years, although he had developed insulin-dependent diabetes and pancreatic insufficiency.
+During the month prior to this presentation, intermittent fevers had developed; the fevers occurred daily, peaking between 100.4°F (38°C) and 100.9°F (38.3°C), and were associated with night sweats, anorexia, and fatigue. He denied any change in exercise tolerance, change in weight, or any localizing symptoms. He had had no recent trauma, dental work, or invasive procedures. His primary care physician obtained two blood cultures which were sterile and ordered computed tomography (CT) scan ( Figures 1, 2, and 3 ). He was subsequently admitted for further management.
+Figure 1. Image
+Figure 1. Abdominal CT scan.
+Figure 2. Image
+Figure 2. Abdominal CT scan.
+Figure 3. Image
+Figure 3. Abdominal CT scan.
+Past Medical History
+He had had abdominal surgery as detailed above, insulin-dependent diabetes mellitus and pancreatic insufficiency.
+Medications
+Medications included insulin and pancrease.
+Epidemiological History
+He was born and worked in Venezuela for much of his adult life, and moved to New England more than a decade earlier. He was retired and lived with his wife. He had no pets and had not traveled recently outside of the Northeastern United States.
+Physical Examination
+He was an elderly man who appeared well. The temperature was 100.2°F (37.9°C), pulse 50-60/minute and blood pressure 90-110 mm Hg systolic and 50-50 mm Hg diastolic. There was shotty inguinal adenopathy; the remainder of the examination was otherwise benign and without focal findings.
+Studies
+The white blood cell count (WBC) was 18,200 cells/mm³ (70% neutrophils, 4% bands, 20% lymphocytes) and hematocrit 30.0%. The level of serum urea nitrogen (BUN) was 18 mg/dL, creatinine 1.4 mg/dL; electrolytes and tests of liver function were normal. Review of the computed tomography (CT) of the abdomen reportedly showed several large cystic fluid collections in the former pancreatic bed and under the liver ( Figure 3 ). A routine admission electrocardiogram (EKG) was obtained ( Figure 4 ).
+Figure 4. Electrocardiogram.
+Clinical Course Prior to Diagnosis
+He was started on ampicillin, gentamicin and metronidazole.
+As there was a suspicion for pulmonary nodules on the superior cuts of the abdominal CT scan, a dedicated contrast-enhanced chest CT was performed. The chest CT scan demonstrated multiple pulmonary nodules less than 3 mm in diameter, as well as pulmonary emboli in the right upper lobe and right middle lobe pulmonary arteries ( Figure 5 ). He was also noted to have EKG changes consistent with right heart strain and suggestive of pulmonary embolus (S1 Q3 T3).
+Interventional radiologists placed a drainage catheter into the largest peri-hepatic collection and drained 250 cc of frank pus. Immediately following the procedure, he developed rigors and then the temperature rose to 101.0°F (38.3°C). The next day, his white cell count was 84,800/mm³ (74% neutrophils and 23% bands).
+Figure 5. Contrast-enhanced chest CT scan.
+Diagnostic Procedure(s) and Result(s)
+Gram stain of the purulent fluid removed from his drainage catheter at the time of insertion ( Figures 6 and 7 ) revealed fine filamentous branching Gram positive rods. Three days later, the microbiology lab reported that cultures were growing Actinomyces species, with a presumptive identification as A. naeslundii .
+Figure 6. Gram stain of peri-hepatic drainage.
+Figure 7. Gram stain of peri-hepatic drainage.
+Treatment and Followup
+He required three further percutaneous drainage catheters to drain his abdominal abscesses. His leukemoid reaction was noted to quickly improve following drainage and although transient bacteremia during the procedure was suspected, blood cultures drawn while he was having rigors were negative. He received treatment with ampicillin and anticoagulation.
+Discussion
+Actinomyces species are commonly found as oral flora and in the GI tract; A. israelii is the most common clinical isolate with A. naeslundii , A. viscosus , and A. odontolyticus accounting for a minority of other cases. They are uncommon pathogens and usually cause abdominal abscesses after recent intestinal surgery, a perforated abdominal viscous, colonic neoplasia, or trauma. There has been an association with actinomycosis and pelvic inflammatory disease and intrauterine contraceptive devices.
+Over half of cases of actinomycosis begin in the oropharynx and are characterized by granulomatous inflammation, extensive and progressive necrosis, and sinus tracts which may drain sulfur granules. The organism can spread locally across tissue planes when mucosal membranes are breached either by foreign objects or other local disease. Either penicillin or ampicillin is the preferred treatment; a prolonged course is generally necessary to achieve cure.
+Final Diagnosis
+Abdominal abscess from Actinomyces naeslundii .
+References
+Andreani, A., Cavazza, A., Marchioni, A., Richeldi, L., Paci, M., and Rossi, G. (2009). Bronchopulmonary actinomycosis associated with hiatal hernia. Mayo Clin Proc 84, 123-128.
+PMID:19181645 ( PubMed abstract )
+Smego, R.A., Jr., and Foglia, G. (1998). Actinomycosis. Clin Infect Dis 26, 1255-1261; quiz 1262-1253.
+PMID:9636842 ( PubMed abstract )
+Sung, H.Y., Lee, I.S., Kim, S.I., Jung, S.E., Kim, S.W., Kim, S.Y., Chung, M.K., Kim, W.C., Oh, S.T., and Kang, W.K. (2011). Clinical features of abdominal actinomycosis: a 15-year experience of a single institute. J Korean Med Sci 26, 932-937.
+PMID:21738348 ( PubMed abstract )

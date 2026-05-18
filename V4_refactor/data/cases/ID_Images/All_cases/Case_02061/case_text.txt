@@ -1,0 +1,34 @@
+History of Present Illness
+Summary: A woman with fever, neutropenia and a rash.
+A woman in her fifties with acute myelogenous leukemia (AML) and persistent neutropenia presented with fever. She had no localizing symptoms or signs.
+The patient had been on prophylactic oral levofloxacin as an outpatient; the medication was changed to ceftazidime and vancomycin on admission. After two days in the hospital, fevers persisted and she developed hypotension refractory to intravenous fluid administration. She was transferred to the medical intensive care unit (MICU) for vasopressor therapy.
+Past Medical History
+She had acute myelogenous leukemia (AML), morbid obesity, and type II diabetes mellitus.
+Medications
+Medications included ceftazidime, vancomycin, dopamine, insulin, and acetominophen.
+Epidemiological History
+She lived in the northeast United States. She did not smoke, and reported no history of alcohol abuse, intravenous drug use (IVDU), foreign travel, or exposures to pets or other animals.
+Physical Examination
+She appeared toxic and tachypneic, and could speak only short sentences. The temperature was 103.2°F (39.6°C), blood pressure 100/50 mm Hg on dopamine, and pulse 115/minute. There was mild tenderness and erythema around the site of a subcutaneous reservoir and intravenous catheter and a new skin eruption on her lower extremities that did not blanch ( Figures 1 and 2 ).
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count (WBC) was 200 cells/mm³ (5% neutrophils, 40% blasts, 50% lymphocytes), hematocrit 25%, and platelets 20,000/mm³. The serum level of urea nitrogen (BUN) was 28 mg/dL, creatinine 1.3 mg/dL, alanine aminotransferase (ALT, SGPT) 75 U/L, aspartate aminotransferase (AST, SGOT) 90 U/L, total bilirubin 1.6 mg/dL and direct bilirubin 0.9 mg/dL. The urinalysis was negative. A chest radiograph revealed clear lung fields.
+Clinical Course Prior to Diagnosis
+A diagnostic procedure was performed; the patient’s antibiotic regimen was broadened to vancomycin, imipenem, and amphotericin B.
+Diagnostic Procedure(s) and Result(s)
+Multiple sets of blood cultures, drawn over several days and despite the administration of amphotericin B, grew Candida pseudotropicalis .
+Treatment and Followup
+The indwelling reservoir and intravenous catheter were removed and the tip grew abundant C. pseudotropicalis . Despite removing the apparent focus, candidemia persisted. Caspofungin was added three days after the catheter was removed.
+A transthoracic echocardiogram was negative but a vascular ultrasound discovered an extensive deep venous thrombosis (DVT) in her right subclavian vein where a central line had been placed. The central line was removed and 5-fluorocytosine (5-FC) was added. The patient and her family declined further aggressive interventions, and she died after three weeks of persistent candidemia.
+Discussion
+Infectious Diseases Society of America (IDSA) guidelines regarding the management of fever and neutropenia clearly stratify level of risk for invasive fungal infection amongst patients based on the duration of neutropenia.
+In our patient, her neutropenia predated the diagnosis of AML and persisted as a result of her underlying leukemia. The catheter and reservoir likely served as the immediate portal of entry, but once the yeast gained access to her bloodstream she quickly developed metastatic foci. The persistent candidemia initially led us to believe she had fungal endocarditis, but the discovery of a DVT provided another intravascular focus to explain failure of appropriate antifungal therapy. Although we were concerned about the high risk of bone marrow suppression with 5-FC, her situation was grave.
+Skin lesions of disseminated candidiasis can have many different appearances including bullae, macronodular lesions, and purpura fulminans; satellite lesions can also be seen as in our patient.
+Final Diagnosis
+Disseminated candidiasis in a patient with acute myelogenous leukemia and neutropenia.
+References
+Evans, S.E. (2010). Coping with Candida infections. Proc Am Thorac Soc 7, 197-203.
+PMID:20463248 ( PubMed abstract )
+Ribeiro, P., Sousa, A.B., Nunes, O., Aveiro, F., Fernandes, J.P., and Gouveia, J. (1997). Candidemia in acute leukemia patients. Support Care Cancer 5, 249-251.
+PMID:9176973 ( PubMed abstract )

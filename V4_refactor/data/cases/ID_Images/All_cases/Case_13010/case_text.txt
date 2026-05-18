@@ -1,0 +1,46 @@
+History of Present Illness
+2013 November-December Featured Case and 2013 IDWEEK Case Presentation: A man in his twenties, living in Japan, developed fever and rash, followed by a generalized seizure.
+The patient was well until 6 days before admission when, in winter, fever and mild headache developed. The next day, his physician prescribed a quinolone antibiotic (garenoxacin) and a non-steroidal anti-inflammatory drug (loxoprofen) for presumed upper respiratory infection.
+The following day, a faint rash appeared on his face, arms and trunk, and extremities. By the morning of the day of admission, the faint rash had changed to a deeper-colored, palpable rash. Later that day, a generalized seizure occurred.
+Past Medical History
+He had been healthy, with no history of epilepsy, head injury, or travel. His vaccination history was not documented.
+Medications
+His medications included quinolone antibiotic (garenoxacin) and a non-steroidal anti-inflammatory drug (loxoprofen).
+Family History
+He lived with his wife in an urban area in Japan. He did not drink alcohol or use illicit drugs. He had had no recent sick contacts, exposure to forested areas or travel. There were no related family illnesses.
+Physical Examination
+The patient appeared in moderate distress and agitated, and unable to follow commands. The blood pressure was 120/60 mm Hg, pulse 63 beats per minute, temperature 97.9°F (36.6°C), and respirations 16 breaths per minute. The neck was supple. He had generalized maculopapules and palpable purpuric lesions ( Figures 1 and 2 ).
+Figure 1. Rash on torso.
+Figure 2. Rash on legs.
+Studies
+The platelet count was 132,000/uL (reference range 150,000-350,000 in men), and the other routine laboratory test results were normal. The examination of the cerebrospinal fluid (CSF) revealed a pleocytosis with 38.4 cells per microliter, (reference range <5) including 6.7 polymorphonuclear cells and 31.7 mononuclear cells per microliter, and elevated protein level (130mg/dL, reference range 15-45).
+An electroencephalogram (EEG) showed epileptic waves in the frontal lobes bilaterally. Magnetic resonance imaging (MRI) of the brain performed with the administration of gadolinium revealed pia-arachnoid enhancement ( Figures 3 and 4 ), which was thought to be consistent with meningitis or meningoencephalitis.
+Figure 3. MRI of the brain, T1 gadolinium-enhanced view.
+Figure 4. MRI of the brain, FLAIR view.
+Clinical Course Prior to Diagnosis
+An anticonvulsant agent was administered for seizure activity, and after sedation was administered, the trachea was intubated for airway protection because of confusion. Vancomycin, ceftriaxone, and acyclovir were administered empirically.
+Diagnostic Procedure(s) and Result(s)
+Results of serological tests for IgM and IgG antibodies against rubella obtained on his 4th day of illness were negative. On his 6th of day of illness, rubella virus was detected by PCR from a throat swab and testing for rubella IgM in the CSF was positive; rubella PCR of his CSF was negative. Serological testing for IgM against rubella was positive (9.15, ELISA index >=0.8) on his 10th day of illness.
+The serological test for IgG antibodies against measles (rubeola) was positive at presentation, suggestive of previous infection or vaccination. Measles virus was not detected by PCR from a throat swab. Bacterial culture and herpes simplex virus PCR of the CSF, and HIV ELISA testing were negative.
+Treatment and Followup
+On the 3rd hospital day, his mental status improved and the trachea was extubated. The purpura also changed and became non-palpable. Empiric antibiotics and antiviral agents were discontinued after bacterial cultures and herpes simplex virus PCR of the CSF were negative. The rash faded to faint pigmentation on the 5th hospital day, and resolved completely by the 10th hospital day.
+He was discharged on the 11th hospital day, with no permanent sequelae. At discharge, he remained on anticonvulsant drugs for prophylaxis of seizures, was seizure-free at 1 month, and was followed by neurologist.
+Discussion
+Rubella is a rare disease in the United States. From 2005 through 2011, a median of 11 rubella cases was reported each year (range: 4–18) [McLean et al., 2013]. Typical clinical manifestations of rubella are fever, lymphadenopathy (especially involving the posterior auricular, posterior cervical and sub-occipital lymph nodes), and generalized rash (which usually starts on the face and then moves downward). Prodromal catarrhal symptoms and conjunctivitis, findings also seen in measles, can occur, and are more commonly seen in adults than in children. Thrombocytopenia, pericarditis, myocarditis and encephalitis are reportedly rare complications [Maldonado et al., 2011].
+The incidence of rubella encephalitis is approximately 1 in 6,000 patients [Figueiredo et al., 2011]. The causes are thought to be host immune responses and the direct invasion of the virus to the brain. Common clinical manifestations are headache and ataxia. Altered consciousness, coma, and seizure are relatively uncommon. The onset is usually within 1 to 8 days after the development of the typical rash. Most patients (80%) recovered without sequelae [Figueiredo et al., 2012], but in some patients, abnormal brain waves persist for a prolonged period [Pampiglione et al., 1963].
+An outbreak of rubella has been occurring in Japan since 2012 in large cities such as Tokyo [National Institute of Infectious Disease, Japan web site - Infectious Diseases Weekly Report, Rubella, 2013 (week30)]; thousands of patients have been affected [CDC, MMWR 2013] and 18 patients of congenital rubella syndrome were reported during this outbreak [National Institute of Infectious Disease, Japan web site - Infectious Diseases Weekly Report, Congenital rubella syndrome, 2013 (week36)]. The number of cases of rubella in men aged twenty to forty-nine has been dramatically increasing in Japan since 2012, thought to be due to the adoption in Japan of a selective vaccination approach targeted on school-aged girls until 1995. Catch-up immunization was available between 1995 and 2003 for children born after April 1979; however, this coverage rate was very low [National Institute of Infectious Disease, Japan web site - Infectious Agents Surveillance Report 2013].
+Final Diagnosis
+Rubella.
+References
+Centers for Disease Control and Prevention (CDC). (2013) Nationwide Rubella Epidemic — Japan, 2013. MMWR Morb Mortal Wkly Rep. 2013 Jun 14;62(23):457-62.
+PMID:23760185 ( PubMed abstract )
+Figueiredo CA, Oliveira MI, Afonso AM, Curti SP, Durigon EL.(2011) Rubella encephalitis in a young adult male: isolation and genotype analysis. Infection. 2011 Feb;39(1):73-5. doi: 10.1007/s15010-010-0068-2. Epub 2010 Dec 10.
+PMID:21153427 ( PubMed abstract )
+Maldonado YA. (2012) Chapter 221: Rubella Virus. Principles and Practice of Pediatric Infectious Diseases (Editor: Long SS), 4th Edition, p1112-7.
+McLean HQ, Fiebelkorn AP, Temte JL, Wallace GS; Centers for Disease Control and Prevention. (2013) Prevention of measles, rubella, congenital rubella syndrome, and mumps, 2013: summary recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 2013 Jun 14;62(RR-04):1-34.
+PMID:23760231 ( PubMed abstract )
+National Institute of Infectious Disease, Infectious Diseases Weekly Report, Congenital rubella syndrome, 2013 (week36) http://www.nih.go.jp/niid/ja/rubella-m-111/700-idsc/3907-rubella-crs-20130904.html (Accessed on 24th September 2013, Japanese only)
+National Institute of Infectious Disease, Infectious Diseases Weekly Report, Rubella, 2013 (week30) http://www0.nih.go.jp/niid/idsc/idwr/diseases/rubella/rubella2013/rube13-30.pdf (Accessed on 2nd September 2013)
+National Institute of Infectious Disease. (2013) Rubella and Congenital Rubella Syndrome in Japan, as of March 2013. Infectious Agents Surveillance Report 2013 April 34: 87-89. http://www.nih.go.jp/niid/en/iasr-vol34-e/865-iasr/3469-tpc398.html (Accessed on 24th September 2013)
+Pampiglione G, Young SE, Ramsay AM. (1963) Neurological and electroencephalographic problems of the rubella epidemic of 1962. Br Med J. 1963 Nov 23;2(5368):1300-2.
+PMID:14058204 ( PubMed abstract )

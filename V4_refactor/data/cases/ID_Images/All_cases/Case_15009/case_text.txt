@@ -1,0 +1,47 @@
+History of Present Illness
+2016 January-February Featured Case: A man in his sixties was seen in an emergency department because of prolonged epistaxis and nasal stuffiness.
+The patient had been in his usual health with diabetes mellitus and chronic renal insufficiency until five months earlier when bilateral nasal stuffiness (right more than left) associated with intermittent epistaxis developed. Two days before this evaluation, epistaxis recurred and persisted for 12 hours. He was seen in an emergency department where nasal packing was done, with improvement, and he was discharged. On follow-up with otolaryngologic examination 2 days later, the nasal packing was removed. Anterior rhinoscopic examination revealed bilateral nasal masses.
+He reported no dysphagia, dyspnea, anosmia, dysphonia, weight loss, night sweats, or loss of appetite.
+Past Medical History
+The patient had a history of poorly controlled diabetes, chronic renal disease with proteinuria (4 gram per 24 hours), hypertension and coronary artery disease.
+Medications
+Medications included gabapentin, furosemide, hydralazine, carvedilol, and amlodipine.
+Epidemiological History
+He had smoked for 7 pack years, and stopped several years before this evaluation. He was born in Mexico, and immigrated to the Midwestern United States 20 years earlier, but returned to visit Mexico every 2 to 3 years.
+Physical Examination
+The patient appeared well, while sitting comfortably. The blood pressure was 133/55 mmHg, pulse 61 beats per minute, respirations 18 breaths per minute, and temperature 36.6°C. There was no facial deformity, nasal discharge, lesion in the anterior nares, or oropharyngeal lesions. There were bilateral nasal masses seen by otolaryngological examination. The breath sounds were clear, with no stridor, and there was grade 2 bipedal pitting edema. The remainder of the physical examination was normal.
+Studies
+The white blood cell was 8600 (reference range (ref) 3600-10,600) per cubic millimeter, hemoglobin 11.5 g/dL (ref 13.4-17.0), hematocrit 35% (ref 40-54), platelets 158,000 per cubic millimeter; the blood level of creatinine was 4.92 mg/dL (ref 0.67 – 1.17) and urea nitrogen was 50 mg/dL (ref 7-18).
+Clinical Course Prior to Diagnosis
+A biopsy of the nasal masses was performed. Pathological examination of the biopsy is shown (Figures 1 and 2 ).
+Figure 1. Biopsy of nasal mass, H and E stain, 400x magnification.
+Figure 2. Biopsy of nasal tissue, Warthin Starry stain, 400x magnification.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the biopsies of the nasal masses by Warthin-Starry, Giemsa, hematoxylin and eosin (H and E) and Gram staining revealed findings consistent with rhinoscleroma, including Mikulicz cells (macrophages with enlarged vacuoles and a foamy characteristics that contain the Gram-negative rod bacteria of Klebsiella rhinoscleromatis ) as seen in Figures 1 and 2 .
+Cultures of the mucosa of the right and left nares grew Klebsiella rhinoscleromatis (also called Klebsiella pneumoniae ssp . rhinoscleromatis) , which was resistant to ampicillin (MIC >=32).
+Treatment and Followup
+Ciprofloxacin (500mg daily) was administered, and a course of at least 3 months' duration planned. The patient was scheduled to be followed by anterior rhinoscopy and nasal culture for Klebsiella rhinoscleromatis .
+Discussion
+Rhinoscleroma is a chronic, progressive, granulomatous, infection of the respiratory tract caused by Klebsiella rhinoscleromatis (KR) [Hart and Rao, 2000]. It is a rare disease, predominantly found in rural areas and endemic in Central America, Egypt and certain parts of China [Hart and Rao, 2000; DePontual et al., 2008]. Transmission is enhanced by poor hygiene, poor nutrition and crowding. Cases in developed countries are mostly identified in immigrants [Hart and Rao, 2000].
+KR has a complex capsule which allows the bacteria to resist phagocytosis. It resists digestion and elimination by neutrophils and macrophages and, in the process, the phagocytic cells die and viable organisms are released back into the subepithelial layer [Canalis and Zamboni, 2001]. As histiocytes engulf the bacteria, their vacuoles enlarge becoming Mikulicz cells (MC) – foamy macrophages with vacuoles containing KR - which are pathognomonic for rhinoscleroma ( Figure 1 and 2 ) [Miller et al., 1979].
+There are three stages to the disease. The first catarrhal or atrophic stage presents with non-specific rhinitis symptoms, which may progress to fetid rhinorrhea, crusting, and nasal obstruction. Histologically, there is squamous metaplasia, subepithelial neutrophilic infiltrate and possibly granulation tissue. Most patients are diagnosed during the hypertrophic or granulomatous second stage. These patients have widening of the nasal pyramid, epistaxis, anosmia, granuloma formation and tissue destruction. Other problems arise depending on the area and extent of involvement, including airway obstruction, hoarseness, muffled voice, decreased hearing, loss of vision, and secondary infection. Histologically, there is hyperplasia, chronic inflammation, and MC. The third sclerotic or fibrotic stage is when patients present with worsening deformity and stenosis of nasal and vestibular areas due to scarring. At this stage MC are difficult to find [Hart and Rao, 2000; Zhong et al. 2011].
+Biopsy of the mass, usually through endoscopy, is diagnostic. Pathology demonstrates MC by periodic acid-Schiff, Giemsa or Warthin-Starry stains. Cultures of biopsy specimens are positive in approximately 50% of cases [de Pontual et al., 2008]. KR may also be isolated by swabbing the mucosal lesion. KR is not part of normal flora and isolation of the organism suggests the diagnosis. Computed tomography or magnetic resonance imaging may demonstrate the extent of mass lesion and obstruction.
+Treatment involves administration of antibiotics for a prolonged duration; there is no established duration, but case series report treatment from 6 weeks to 6 months. With eradication as the goal, repeat biopsy with culture may guide treatment duration [Maguina et al., 2006]. A number of antibiotics have been used with varying efficacy, including streptomycin, doxycycline, rifampin and fluoroquinolones [Borgstein et al., 1993]. Surgical management may be indicated for debridement, relief of obstruction or correction of scarring stenosis [Zhong et al. 2011].
+Granuloma may regress but patients are often left disfigured with scars that may lead to stenosis. Repeat biopsy with culture may guide duration of treatment [Hart and Rao, 2000]. Relapse occurs in about 30%; thus, close follow up is necessary [Zhong et al. 2011].
+Final Diagnosis
+Rhinoscleroma caused by Klebsiella rhinoscleromatis .
+References
+Borgstein J, Sada E, Cortes R. (1993) Ciprofloxacin for rhinoscleroma and ozena. Lancet 1993;342:122.
+PMID:8100894 ( PubMed abstract )
+Canalis RF and Zamboni L. (2001) An interpretation of the structural changes for the chronicity of rhinoscleroma. Laryngoscope. 2001 Jun;(6):1020-6.
+PMID:11404614 ( PubMed abstract )
+de Pontual L, Ovetchkine P, Rodriguez D, Grant A, Puel A, Bustamante J, Plancoulaine S, Yona L, Lienhart PY, Dehesdin D, Huerre M, Tournebize R, Sansonetti P, Abel L, Casanova JL. (2008) Rhinoscleroma: French national retrospective study of epidemiological and clinical features. Clin Infect Dis. 2008 Dec 1;47(11):1396-402.
+PMID:18947330 ( PubMed abstract )
+Hart CA and SK Rao. (2000) Rhinoscleroma. J Med Microbiol. Vol 49 (2000), 395-396.
+PMID:10798549 ( PubMed abstract )
+Maguina C, Cortez-Escalante J, Osores-Plenge F, Centendo J, Guerra H, Montoya M, Cok J, Castro C. (2006) Rhinoscleroma: Eight Peruvian Cases. Rev Inst Med Trop Sao Paulo. 2006 Sept-Oct 48(5):295-9.
+PMID:17086321 ( PubMed abstract )
+Miller RH, Shulman JB, Canalis RF, Ward PH. (1979) Klebsiella rhinoscleromatis: a clinical and pathogenic enigma. Otolaryngol Head Neck Surg (1979). 1979 Mar-Apr;87(2):212-21.
+PMID:503491 ( PubMed abstract )
+Zhong Q, Guo W, Chen X, Ni X, Fang J, Huang Z, Zhang S. (2011) Rhinoscleroma: a retrospective study of pathologic and clinical features. J. Otolaryngol Head Neck Surg. 2011 Apr; 40(2):167-74.
+PMID:21453653 ( PubMed abstract )

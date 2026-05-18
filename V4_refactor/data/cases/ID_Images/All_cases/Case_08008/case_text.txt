@@ -1,0 +1,47 @@
+History of Present Illness
+2008 August Featured Case Summary: A woman in her seventies with lung nodules.
+A woman in her seventies was in her usual state of health until 8 weeks before admission when sinus and respiratory symptoms developed. Sinusitis was diagnosed and amoxicillin-clavulanic acid was administered. Diffuse wheezing and cough persisted, and albuterol and fluticasone and salmeterol inhalers were added. A chest radiograph (shown in Figure 1 ) revealed a nodular opacity in the left lung, which measured 1.8 cm in diameter and was new compared with studies 5 years earlier. Computed tomography (CT) of the chest ( Figure 2 ) demonstrated two nodules, one of which was calcified, that appeared to be contiguous with one another. Her sinus and respiratory symptoms improved shortly after completion of the antibiotic course.
+One week later, a follow-up study combined with positron emission tomography (PET) demonstrated two confluent calcified nodules measuring 14 and 7 mm in diameter, in the left lower lobe, with mildly increased FDG uptake. The pulmonary arteries were enlarged. The appearance of the lung nodules was thought to be atypical for primary lung malignancy.
+Seven weeks later, she was admitted to the hospital for further evaluation of the lung nodules.
+Figure 1. Image
+Figure 1. Chest radiograph.
+Figure 2. Image
+Figure 2. CT of the chest.
+Past Medical History
+There was a history of osteoarthritis, and obesity. She had had a multiple surgical procedures, including excision of a basal cell carcinoma, tonsillectomy, and bilateral hip replacements. There was no history of pulmonary tuberculosis (TB), and skin testing for TB had been negative 10 years earlier.
+Medications
+As above, amoxicillin-clavulanic acid, albuterol, fluticasone and salmeterol inhalers had been administered. Other medications included estrace (vaginally, as needed), glucosamine chondroitin, and multivitamins.
+Family History
+There was a family history of lymphoma; her children were well.
+Social History
+She was married.
+Epidemiological History
+She had traveled extensively, including trips to the Caribbean, North Africa (more than a decade earlier), and the American Southwest (5 years earlier). She had no contacts with tuberculosis, and had not been incarcerated or homeless. She drank alcohol moderately, and did not smoke tobacco.
+Physical Examination
+The lungs were clear, with no wheezing or ronchi, and the remainder of the physical examination was normal.
+Studies
+Laboratory test results, including a complete blood count, serum levels of electrolytes and glucose and tests of liver and renal function, were normal. Results of pulmonary function tests were also normal.
+Clinical Course Prior to Diagnosis
+Flexible bronchoscopy, video-assisted thoracoscopic surgery (VATS), and wedge resection of the pulmonary nodules in the left lower lobe were performed. Pathological examination of a frozen section of the resected tissue revealed necrotizing granulomas. Specimens of the resected tissue with trichrome and reticulin staining are shown in Figures 3 and 4 , respectively.
+Figure 3. Lung nodule, trichrome stain.
+Figure 4. Detail of nodule, reticulin stain.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the biopsy revealed a coiled, degenerated nematode that was occluding a muscular pulmonary artery, with associated pulmonary infarction, granulomatous inflammation and dystrophic calcification. The morphology of the nematode, with cuticle and prominent muscular lateral cords, was consistent with Dirofilaria immitis . Remnants of the nematode, and internal structures of the organism, are seen in Figures 5 and 6 . Multiple stains, including hematoxylin and eosin, acid-fast, GMS, and Steiner stains, were performed and no other pathogen or evidence of malignancy was identified.
+Figure 5. Detail of nodule, reticulin stain, with nematode fragments.
+Figure 6. Nematode in cross-section, reticulin stain.
+Treatment and Followup
+No additional therapy other than the excisional biopsy was needed to treat the dirofilarial infection.
+Discussion
+Filariae are long thin round worms. Humans are the definitive host for a number of filarial infections including Onchocerca volvulus (the cause of river blindness), and Wuchereria bancrofti (a cause of lymphatic filariasis). Humans can also be dead-end hosts for many zoonotic filarial infections. All filarial infections are transmitted by the bite of an arthropod vector. Most zoonotic filarial infections are transmitted by the bite of an infective mosquito. Following the bite of an infective arthropod, injected zoonotic microfilariae migrate through human tissues and develop into immature or young adult nematodes, but are unable to complete their life cycle in humans. The worms die and degenerate and are eventually walled off, giving rise to a granulomatous reaction and nodule. Zoonotic filarial infections of humans are usually asymptomatic, but they can present as a subcutaneous nodule, a migratory worm (especialy in and around the eye: "eyeworm"), or as a symptomatic pulmonary or lymphatic nodule.
+Most pulmonary zoonotoc filarial infections of humans are ascribed to Dirofilaria immitis , the dog heart worm. The definitive host for these infections is the dog and other canines, and human infections have been reported from all areas of the world. In the dog, the adult worms reside in a coil in the right ventricle where the females produce microfilariae that circulate in the dog's blood; these microfilariae are then ingested during a subsequent blood meal by a mosquito. Humans are infected by the bite of a mosquito that has previously fed on an infected dog. In humans, the worms are unable to complete their development and are flushed from the right ventricle into the pulmonary circulation where they give rise to a pulmonary nodule.
+D. immitis infection in humans is asymptomatic in more than half of the cases, and often presents incidentally as a coin lesion on a chest radiograph. [Orihel and Eberhard 1998, Cifferi 1982] Occasionally, patients with pulmonary dirofilariasis develop cough, chest pain or hemoptysis, which is most likely a sequela of pulmonary infarction [Kochar 1985]. Peripheral eosinophilia may or may not be present.
+A definitive diagnosis can be made only by biopsy as the available serologic tests are inadequate to rule out other potentially life-threatening diagnoses, such as lung cancer.
+Final Diagnosis
+Pulmonary infarction with granulomatous inflammation and dystrophic calcification, caused by zoonotic filariasis, consistent with Dirofilaria immitis infection.
+References
+Ciferri, F. (1982). Human pulmonary dirofilariasis in the United States: a critical review. Am J Trop Med Hyg 31, 302-308.
+PMID:7072894 ( PubMed abstract )
+Kochar, A.S. (1985). Human pulmonary dirofilariasis. Report of three cases and brief review of the literature. Am J Clin Pathol 84, 19-23.
+PMID:4014074 ( PubMed abstract )
+Orihel, T.C., and Eberhard, M.L. (1998). Zoonotic filariasis. Clin Microbiol Rev 11, 366-381
+PMID:9564568 ( PubMed abstract )

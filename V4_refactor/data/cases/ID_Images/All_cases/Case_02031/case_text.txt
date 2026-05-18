@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: An 18-month-old boy with fever and cough.
+An 18-month-old Peruvian boy presented with fever and cough. Although gastric aspirates were smear-negative and culture-negative for acid-fast organisms, a chest radiograph was thought to be consistent with miliary tuberculosis ( Figure 1 ).
+The patient therefore began standard four-drug therapy; however, he failed to improve. Over the following months, the patient developed progressive lower-extremity paralysis.
+Figure 1. Image
+Figure 1. Chest radiograph.
+Past Medical History
+None
+Medications
+Medications included isoniazid, rifampin, ethambutol and pyrazinamide.
+Epidemiological History
+The child was born in an urban area of Peru, and lived with his mother and an uncle, who had chronic tuberculosis. He had never traveled outside of Peru and had no pets.
+Physical Examination
+He appeared alert and emaciated. He weighed 10 kg, and was tachypneic and oxygen dependent. There were bilateral rhonchi and dense right-sided râles. A vertebral deformity was present at the 6th-7th thoracic vertebrae, with flaccid paralysis of the lower extremities.
+Studies
+Results of liver function tests were normal. Testing for human immunodeficiency virus (HIV) was negative. A chest radiograph showed progression of right-side infiltrate ( Figure 2 ). Magnetic resonance imaging (MRI) of the spine revealed a mass at the T6-7 thoracic vertebrae with a paravertebral abscess ( Figure 3 ).
+Figure 2. Worsening chest radiograph.
+Figure 3. MRI scan of the spine.
+Diagnostic Procedure(s) and Result(s)
+Cultures of gastric aspirates were repeated and eventually grew Mycobacterium tuberculosis that, on drug-susceptibility testing, was found to be multidrug-resistant.
+Discussion
+Diagnosis of tuberculosis (TB) in children can be difficult; gastric aspirates, induced sputum, bronchoscopy and biopsy of suspected extrapulmonary sites may be helpful. In this case, diagnosis was confirmed after multiple gastric aspirates were performed.
+Multidrug-resistance (MDR) should be suspected if the epidemiological exposure is suggestive (e.g. contact with patient who had multiple treatments or died while in treatment or from country with high rates of MDR). Treatment of MDR-TB involves the use of first- and second-line drugs based on the infecting isolates’ antibiogram. The safety of many second-line medications for pediatric cases is largely unknown; however, potential risks of therapy must be weighed against the risks of untreated disease.
+Final Diagnosis
+Pulmonary tuberculosis caused by multidrug-resistant Mycobacterium tuberculosis , with Pott's disease (tuberculous spondylitis).
+References
+Lindquist, S.W., Steinmetz, B.A., and Starke, J.R. (1997). Multidrug-resistant tuberculosis of the first cervical vertebra in an immunocompetent adolescent. Pediatr Infect Dis J 16, 333-336.
+PMID:9076830 ( PubMed abstract )
+Pawar, U.M., Kundnani, V., Agashe, V., and Nene, A. (2009). Multidrug-resistant tuberculosis of the spine--is it the beginning of the end? A study of twenty-five culture proven multidrug-resistant tuberculosis spine patients. Spine (Phila Pa 1976) 34, E806-810.
+PMID:19829244 ( PubMed abstract )

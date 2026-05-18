@@ -1,0 +1,49 @@
+History of Present Illness
+2010 IDSA Fellows' Day Case Presentation Summary: A man in his forties with HIV developed shortness of breath.
+A man in his forties with human immunodeficiency virus (HIV) infection developed shortness of breath with exertion, in mid-summer. Dyspnea was associated with a dull chest pain, increasing fatigue, and difficulty performing activities of daily living. He also had chills and nasal congestion, without fevers or cough.
+Past Medical History
+He was diagnosed with HIV infection 15 years before this presentation. The patient had previously been on antiretroviral therapy with an absolute CD4 T-lymphocyte cell count of 1000/µl and an undetectable viral load, after which he went on a drug holiday for two years. One year before this presentation, after the HIV ribonucleic acid (RNA) level increased to 42,000 RNA copies per milliliter and CD4 T-lymphocytes decreased to 500/µl, antiretroviral therapy with tenofovir, emtricitabine and raltegravir was begun. One month before this presentation, the level of CD4 T-lymphocyte cells was 706 cells/µl and the level of HIV RNA was undetectable.
+He also had hypertension, peripheral neuropathy and previous history of substance abuse. He had no history of pulmonary or cardiac disease.
+Medications
+Medications included tenofovir, emtricitabine, raltegravir, lisinopril, gapabentin, atenolol, celecoxib, nortriptyline, testosterone gel, and aspirin.
+Epidemiological History
+The patient was a monogamous man who had sex with men. He had previously smoked and used illicit drugs, but reported no use of intravenous drugs. He had no sick contacts, pets or recent travel. There was no family history of heart disease.
+Physical Examination
+The patient appeared uncomfortable. The blood pressure was 106/74 mmHg, pulse 98 beats per minute, temperature 97.6°F (36.4°C) and respirations 18 breaths per minute, with oxygen saturation 99% while breathing ambient air. There was facial lipoatrophy, without evidence of thrush. The jugular veins were distended and there was hepatojugular reflux. Breath sounds were decreased at the lung bases and heart sounds were distant, without murmurs or rubs. There was no adenopathy, lesions on the skin or edema, and the abdomen was non-tender. Neurological examination revealed decreased sensation to light touch, consistent with a peripheral neuropathy.
+Studies
+The white blood cell count was 7,400/µl (reference range 3,800-10,800/µl) with a normal differential, hemoglobin 11.6 gm/dl (ref. 13.2- 15.1) and platelet count of 200,000 µl (ref. 140,000-400,000/µl). The level of creatinine was 1.2 mg/dl (ref. 0.5-1.3) and triglycerides 642 mg/dl (normal less than 150). The levels of serum electrolytes, other lipids, cardiac enzymes and tests of liver and thyroid function were normal, and the antinuclear antibody was negative. An electrocardiogram revealed sinus rhythm, at 100 beats per minute, with low voltage in all leads ( Figure 1 ). A chest radiograph revealed cardiomegaly and a small right pleural effusion ( Figure 2 ). The echocardiogram showed a large pericardial effusion ( Figure 3 ), with features concerning for impending right ventricular collapse.
+Figure 1. Electrocardiogram on admission.
+Figure 2. Chest radiograph.
+Figure 3. Echocardiogram.
+Clinical Course Prior to Diagnosis
+A pericardial catheter was placed emergently, and one liter of bloody fluid was aspirated. The white cell count of the pericardial fluid was 9961/µl (24% neutrophils, 17% lymphocytes, 12% monocytes, 43% other cells) and erythrocytes 747,619/µl. Gram stain of the fluid revealed erythrocytes and leukocytes, with no organisms. The level of glucose was 10 mg/dl, protein 5.4 g/dl and the pH 7.14.
+Computed tomography (CT) of the chest, performed after pericardial catheter placement, showed a large pericardial effusion and two small pleural effusions ( Figure 4 ). CT of the abdomen and pelvis revealed mild splenomegaly, and was otherwise normal. Pathological examination of a bone marrow biopsy was normal. Positron emission tomography (PET) scanning showed two small pericardial and phrenic lymph nodes with increased uptake.
+Figure 4. CT of the chest.
+Diagnostic Procedure(s) and Result(s)
+Video-assisted thoroscopic surgery was performed, with biopsies of the pericardium and creation of a pericardial window. Pathological examination of the pericardium showed organizing pericarditis with extensive fibrosis; the biopsies of the 2 small lymph nodes revealed reactive changes, without evidence of a lymphoproliferative disorder. Cultures of the pericardial fluid for bacteria (including acid fast bacteria), viruses, and fungi were negative. Polymerase chain reaction tests for Coxsackievirus and Epstein-Barr virus on pericardial fluid and the serum Venereal Disease Research Laboratory (VDRL) test were negative.
+Papanicolaou stain ( Figure 5 ) and Hematoxylin-Eosin stain ( Figure 6 ) on the cell block of the pericardial fluid showed large atypical cells with prominent nucleoli. These cells were positive for CD45 and negative for CD20 by immunohistochemistry. Immunohistochemical stain was also positive for Human Herpesvirus-8 ( Figure 7 ). In situ hybridization detected Epstein Barr Virus-encoded RNA ( Figure 8 ). ( Figures 5 through 8 images courtesy of Ninad Patil, MD, Dept. of Pathology, University of Cincinnati.)
+Figure 5. Papanicolaou stain of pericardial fluid.
+Figure 6. Hematoxylin-Eosin stain of pericardial fluid, cell-block.
+Figure 7. Immunohistochemical stain for Human Herpesvirus-8.
+Figure 8. In situ hybridization for Epstein Barr virus RNA.
+Treatment and Followup
+Antiretroviral therapy was continued. Five cycles of chemotherapy were given (etoposide, cyclophosphomide, adriamycin, vincristine, prednisone and rituximab, with intrathecal methotrexate). Positron emission tomography done 5 months after diagnosis did not show any uptake. Repeat CT of the chest ( Figure 9 ) performed one year later did not show any effusions or evidence of malignancy.
+Figure 9. Follow-up CT of the chest.
+Discussion
+Primary Effusion Lymphoma (PEL), previously called body cavity lymphoma, was first described in 1989 [Chen et al. 2007] It is a non-Hodgkin lymphoma of B cell origin with null lymphocyte phenotype that is associated with serosal surfaces, such as the pericardium, pleura and peritoneum [Boulanger et al. 2005, Chen et al. 2007]. PEL mainly occurs in HIV-infected patients and, less frequently, in the elderly and organ transplant recipients [Simonelli et al. 2003]. PEL comprises 4% of all HIV-associated Non-Hodgkin lymphomas [Chen et al. 2007]. It is caused by the Kaposi sarcoma-associated herpes virus, now called human herpesvirus-8 (HHV-8) [Boulanger et al. 2005, Chen et al. 2007, Simonelli et al. 2003].
+Symptoms of PEL are due to the mass effects of the malignant effusion. There is growth of the malignant cells in the liquid phase without an infiltrative pattern [Simonelli et al. 2003].
+The diagnosis of primary effusion lymphoma is based on pathology of a lymphomatous effusion and presence of HHV-8 in neoplastic cells. The virus may be demonstrated either by immunohistochemical stain or by molecular techniques (polymerase chain reaction or Southern blot analysis). The immunophenotype of the lymphoma cells is typically CD45 (Leukocyte common antigen) positive and CD20 (B-cell marker) negative. The mechanism by which HHV-8 contributes to oncogenesis of PEL is under investigation. Epstein-Barr virus is present in greater than 90% of HIV-infected individuals and plays an unclear role in PEL pathogenesis. By definition, PEL is stage IV [Chen et al. 2007].
+There are no large prospective clinical trials to define optimal therapy. Antiretroviral therapy is recommended. Chemotherapy regimens using cyclophosphamide, adriamycin, vincristine, and prednisone have been used [Boulanger et al. 2005, Simonelli et al. 2003]. The median survival is approximately six months [Simonelli et al. 2003].
+References:
+1. Boulanger E, Gérard L, Gabarre J, Molina JM, Rapp C, Abino JF, Cadranel J, Chevret S, Oksenhendler E. Prognostic factors and outcome of human herpesvirus 8-associated primary effusion lymphoma in patients with AIDS. J Clin Oncol. 2005 Jul 1;23(19):4372-80. PMID: 15994147
+2. Chen YB, Rahemtullah A, Hochberg E. Primary effusion lymphoma. Oncologist. 2007 May;12(5):569-76. PMID: 17522245
+3. Simonelli C, Spina M, Cinelli R, Talamini R, Tedeschi R, Gloghini A, Vaccher E, Carbone A, Tirelli U. Clinical features and outcome of primary effusion lymphoma in HIV-infected patients: a single-institution study. J Clin Oncol. 2003 Nov 1;21(21):3948-54. PMID: 14581418
+Final Diagnosis
+Primary effusion lymphoma and human herpesvirus-8 (HHV-8) infection in a patient with human immunodeficiency virus (HIV) infection.
+References
+Boulanger, E., Gerard, L., Gabarre, J., Molina, J.M., Rapp, C., Abino, J.F., Cadranel, J., Chevret, S., and Oksenhendler, E. (2005). Prognostic factors and outcome of human herpesvirus 8-associated primary effusion lymphoma in patients with AIDS. J Clin Oncol 23, 4372-4380.
+PMID:15994147 ( PubMed abstract )
+Chen, Y.B., Rahemtullah, A., and Hochberg, E. (2007). Primary effusion lymphoma. Oncologist 12, 569-576.
+PMID:17522245 ( PubMed abstract )
+Simonelli, C., Spina, M., Cinelli, R., Talamini, R., Tedeschi, R., Gloghini, A., Vaccher, E., Carbone, A., and Tirelli, U. (2003). Clinical features and outcome of primary effusion lymphoma in HIV-infected patients: a single-institution study. J Clin Oncol 21, 3948-3954.
+PMID:14581418 ( PubMed abstract )

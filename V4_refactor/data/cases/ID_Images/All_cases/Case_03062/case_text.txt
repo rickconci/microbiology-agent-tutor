@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A middle-aged man with headache and hallucinations.
+A middle-aged man presented with headache, dizziness, somnolence and hallucinations, which had begun three weeks earlier.
+Past Medical History
+The patient had been diagnosed nine years earlier with human immunodeficiency virus (HIV) infection. The level of CD4 T-lymphocyte cells was 560 cells/microliter (17%) and the HIV-RNA level was 3700 copies/mL. Other medical problems included diabetes mellitus, hepatitis C virus infection, and a history of Staphylococcus aureus tricuspid valve endocarditis 7 years earlier.
+Medications
+Medications included stavudine (d4T) and lamivudine (3TC).
+Physical Examination
+The patient was somnolent and did not appear toxic. The temperature was 100.4°F (38°C). His neck was supple and the neurological examination had no focal findings.
+Studies
+The white cell count in the blood was 6,000 cells/mm³. The cerebrospinal fluid (CSF) revealed a glucose level of 218 (serum >600 mg/dL) and protein 58 mg/dL. The CSF white cell count was 275 cells/mm³ (leukocytes 81%, lymphocytes 6%, and monocytes 13%) and red cell count was 25 cells/mm³ in tube #4. Magentic resonance imaging (MRI) of the brain revealed a lesion in the right cerebellum (3.6 centimeter (cm) by 3.6 cm), a lesion in the right posterior temporal lobe (3 cm by 3.9 cm) and a small left frontal lesion, all of which were ring-enhancing ( Figures 1 and 2 ).
+Figure 1. MRI scan of the brain.
+Figure 2. MRI scan of the brain.
+Diagnostic Procedure(s) and Result(s)
+A brain biopsy with abscess drainage was performed; examination of the aspirate revealed branching septate hyphae. This was speciated as Aspergillus fumigatus ( Figures 3 and 4 , provided by Alex Babic, M.D.).
+Figure 3. Gram stain of abscess aspirate.
+Figure 4. Fungal stain of abscess aspirate.
+Treatment and Followup
+The patient was started on amphotericin, voriconazole and caspofungin. Despite drainage and aggressive antifungal therapy, he developed adult respiratory distress syndrome and renal failure, and unfortunately died from cardiopulmonary arrest on the 15th hospital day.
+Discussion
+This patient had a normal CD4 T-lymphocyte cell count, and was therefore not at high risk of having the typical causes of focal central nervous system disease associated with AIDS, which include toxoplasmosis, lymphoma, Cryptococcus and tuberculosis. His history of endocarditis should raise concern for recurrent endocarditis causing septic emboli. Pyogenic abscess due to contiguous spread from the teeth, sinuses or ears should also be considered in any patient with imaging suggestive of abscesses. Although this patient had diabetes mellitus and HIV infection, Aspergillus brain abscess generally occurs as part of disseminated infection in severely immunocompromised individuals, such as patients with prolonged neutropenia.
+Final Diagnosis
+Aspergillus fumigatus brain abscesses in a patient with HIV infection and diabetes mellitus, and a history of hepatitis C virus infection.
+References
+Hidron, A.I., Gongora, M.C., Anderson, A.M., and Diazgranados, C.A. (2009). Prolonged survival of a patient with AIDS and central nervous system aspergillosis. Med Mycol 47, 327-330.
+PMID:19212896 ( PubMed abstract )
+Schwartz, S., and Thiel, E. (2004). Update on the treatment of cerebral aspergillosis. Ann Hematol 83 Suppl 1, S42-44.
+PMID:15124667 ( PubMed abstract )

@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2003 Summary: A man in his twenties with prolonged fever and cutaneous papules.
+A man in his twenties presented with a history of fevers of 3 weeks' duration. Two weeks before presentation, cutaneous lesions had developed on his arms and, 3 days before, on his face. He also reported weight loss of 4-kilograms and poor appetite. He denied chill, myalgias, cough, or diarrhea.
+Past Medical History
+He had had urethritis five years before, and was otherwise well.
+Social History
+He was single and lived alone.
+Epidemiological History
+He lived in an urban area of Thailand. He denied travel in the previous three months.
+Physical Examination
+He was alert, and appeared weak and thin. He was not pale and there was no jaundice. The temperature was 38.2°C (100.8°F) and pulse 84 beats per minute. There was bilateral cervical lymphadenopathy, 0.5-1 cm in diameter. Numerous skin-color cutaneous papules, some with umbilication, were present on his face and both arms ( Figures 1 and 2 ). The examination of the lungs and heart was normal. The liver was enlarged and extended 2 cm below right costal margin, without tenderness. The remainder of the examination was normal.
+Figure 1. Physical finding.
+Figure 2. Physical findings on arm.
+Studies
+The hematocrit was 33%, white blood cell count 2,200 cells/mm³ (neutrophils 78%, lymphocytes 20%, monocytes 2%) and platelets 185,000/mm³. The level of alkaline phosphatase was 85 U/L, alanine aminotransferase (ALT) 50 U/L, and bilirubin 1.0 mg/dL. A test for antibodies to human immunodeficiency virus (HIV) was positive.
+A chest radiograph was normal.
+Cutaneous lesions on his face and the right arm were scraped; examination of the tissues with Wright staining ( Figure 3 and 4 ) showed numerous intracellular yeasts with binary fission.
+Figure 3. Wright stain of arm lesion.
+Figure 4. Wright stain of face lesion.
+Diagnostic Procedure(s) and Result(s)
+The level of CD4 T-lymphocytes was 78 cells/mm³. A bone marrow study was performed and showed hypocellular marrow with numerous yeasts. Cultures of the blood and bone marrow grew Penicillium marneffei .
+Treatment and Followup
+The patient was treated for disseminated penicilliosis after the result of bedside cutaneous-lesion scraping and Wright stain was known. Amphotericin B was administered for 2 weeks, and then was stopped and oral itraconazole was begun. The fevers and skin lesions resolved. Two months after starting anti-fungal therapy, the patient was started on anti-retroviral medications.
+Discussion
+Penicilliosis is a common opportunistic infection in Southeast Asia. The patients usually present with fever, anemia, weight loss, skin lesions, generalized lymphadenopathy, and hepatomegaly. The skin lesions are most commonly papules with central umbilication (molluscum-like lesions). Most of the patients have CD4 T-lymphocyte cell counts less than 100 cells/mm³. The characteristic finding of Penicillium marneffei is binary fission of the yeast. The fungus is susceptible to amphotericin B and itraconazole.
+Final Diagnosis
+Disseminated penicilliosis, caused by Penicillium marneffei , in a patient with human immunodeficiency virus (HIV) infection.

@@ -1,0 +1,51 @@
+History of Present Illness
+2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A woman with HIV infection and AIDS developed nausea, vomiting and a rash.
+A woman with human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome (AIDS), developed nausea, vomiting, and a diffuse rash 2 weeks before admission. The rash was mildly pruritic and involved her face, chest, back and extremities, while sparing the palms and soles. She reported abdominal bloating, with no diarrhea, fevers, night sweats, or weight loss.
+Five years earlier, she had been diagnosed with HIV infection. Within the previous year, toxoplasmosis involving the central nervous system had been diagnosed and treated, responding well to therapy. Highly active anti-retroviral therapy (HAART) had been started three months earlier. Her pretreatment HIV-RNA level was greater than 750,000 copies/mL; one month after starting HAART, the HIV-RNA level was less than 400 copies/mL. Focal weakness developed, which was attributed to immune-reconstitution syndrome. One month before admission, prednisone (40 mg daily) was begun and the neurological symptoms resolved.
+Two weeks later, nausea with vomiting occurred, and increased in severity during the following weeks. By the day of admission, she could not tolerate any oral intake, and complained of a pruritic rash.
+Past Medical History
+One year before starting HAART, a nadir of 8 CD4 T-lymphocyte cells per cubic millimeter had been documented; a recent CD4 T-lymphocyte count was 16 cells/mm³. There was also a history of genital herpes and histoplasmosis.
+Medications
+Medications included prednisone (40mg daily), tenofovir-emtricitabine, atazanavir-ritonavir, sulfadiazine, pyrimethamine, and leukovorin, voriconazole (200 mg daily), acyclovir (400mg twice daily), and azithromycin for Mycobacterium avium complex prophylaxis.
+Allergies
+She had no drug allergies.
+Social History
+She was a single mother and a homemaker, in a monogamous relationship with her boyfriend.
+Epidemiological History
+She was born in Central America, immigrated to the United States a decade earlier, and lived in California. She denied any recent travel, animal exposure, sick contacts and did not use tobacco, alcohol, or illicit drugs.
+Physical Examination
+The pulse was 114 beats per minute, and other vital signs were normal. There was a lacey, serpiginous rash over the face, neck, back, chest, abdomen, and extremities, with sparing of her palms and soles. The remainder of the examination was normal.
+Studies
+The pulse was 114 beats per minute, and other vital signs were normal. There was a lacey, serpiginous rash over the face, neck, back, chest, abdomen, and extremities, with sparing of her palms and soles. The remainder of the examination was normal.
+Clinical Course Prior to Diagnosis
+On admission, all medications were held except for prednisone. On the 4th day, dyspnea with tachycardia developed. A chest radiograph ( Figure 1 ) revealed diffuse bilateral interstitial infiltrates. Computed tomography (CT) of the chest ( Figure 2 ) demonstrated diffuse, bilateral fine nodular opacities with densely confluent ground glass opacities.
+Respiratory droplet precautions were instituted. The next day, her respiratory status deteriorated, and the trachea was intubated emergently. A bedside flexible bronchoscopy showed severe diffuse alveolar hemorrhage.
+Figure 1. Chest radiograph.
+Figure 2. CT of the chest.
+Diagnostic Procedure(s) and Result(s)
+Cultures of specimens of blood for bacteria, fungi, viruses, and acid-fast organisms were sterile. Examination of a tracheal aspirate wet mount ( Figures 3 and 4 and Video 1 ) revealed multiple, mobile larvae consistent with Strongyloides stercoralis . Subsequent stool and nasogastric aspirates also contained Strongyloides ova, larvae, and adult nematodes. Eosinophilia rose to 13% during the hospitalization. Culture of a sputum specimen ( Figure 5 ) revealed serpiginous tracts.
+Video 1. Wet mount of sputum specimen.
+Figure 3. Wet mount of tracheal aspirate sputum specimen (also see Video 1).
+Figure 4. Wet mount of tracheal aspirate.
+Figure 5. Culture of sputum specimen, with serpiginous tracts.
+Treatment and Followup
+Ivermectin and albendazole were initially administered by nasogastric tube. However, an ileus developed with high tube feed residuals. Ivermectin was then given by rectal administration, but after 3 weeks of treatment, repeat analysis of the gastric aspirates continued to show a high burden of parasites. Subsequently, a veterinary formulation of ivermectin was given subcutaneously as salvage therapy.
+Four days after starting parenteral ivermectin, the patient was transferred out of the intensive care unit. Her mental status gradually improved, though her ileus persisted. Repeated nasogastric and sputum isolates showed a subjective decline in nematode number and activity. Unfortunately, acute respiratory distress developed, which did not respond to therapy. The patient subsequently died. An autopsy was not obtained.
+Discussion
+Strongyloides stercoralis is an intestinal nematode (roundworm) endemic to the tropical/subtropical regions, as well as the southeastern United States. Its estimated prevalence in the United States is 0.4-4.0%, but it affects 50 million people worldwide [Siddiqui and Berk 2001]. The unique ability of Strongyloides to auto-infect its host can lead to persistent infection for decades.
+Strongyloides hyperinfection is rare and is caused by increased larval burden and migration. This is usually precipitated by corticosteroids used anywhere from 3 weeks to several years prior [Keiser and Nutman 2004]. Solid organ transplants, malnutrition, and HTLV-1 infection are also predisposing factors, though HIV alone is not associated with hyperinfection [Segarra-Newnham 2007]. Symptoms may include cough, abdominal pain, ileus, protein-loosing enteropathy, and rash which may be urticarial or petechial. Eosinophilia is often, but not always, present. Migrating nematodes may also carry enteric bacteria into the bloodstream leading to gram-negative sepsis. Alveolar hemorrhage is an infrequent complication of Strongyloides hyperinfection [Gupta et al. 2006; Kinjo et al. 1998].
+Diagnosis is often made from visualization of the nematode in stool, duodenal aspirates, or sputum. However, specimens of stool analyzed for ova and parasites are only ~30% sensitive, and multiple samples may be needed [Siddiqui and Berk 2001]. Organisms have been isolated from specimens of cerebrospinal fluid, pleural fluid, urine, ascites, and blood [Keiser and Nutman 2004]. Serology is highly sensitive, but cannot distinguish acute disease from previous exposure, and may be falsely negative in the severely immunocompromised [Segarra-Newnham 2007].
+Treatment options for strongyloidiasis include thiabendazole, albendazole, and ivermectin, which are only available orally. Ivermectin is the preferred agent and is well tolerated and highly effective. Unfortunately, severe Strongyloides infection can cause intestinal ileus, making oral agents less effective. A veterinary formulation of ivermectin is available in the US but not approved for human use. There are six published case reports of veterinary subcutaneous ivermectin given to patients with Strongyloides hyperinfection, and one report of successful treatment following rectal administration [Segarra-Newnham 2007]. It appears well tolerated when given by these routes.
+Final Diagnosis
+Strongyloides stercoralis hyperinfection in a patient with HIV infection and AIDS.
+References
+Gupta, S., Jain, A., Fanning, T.V., Couriel, D.R., Jimenez, C.A., and Eapen, G.A. (2006). An unusual cause of alveolar hemorrhage post hematopoietic stem cell transplantation: a case report. BMC Cancer 6, 87.
+PMID:16603072 ( PubMed abstract )
+Keiser, P.B., and Nutman, T.B. (2004). Strongyloides stercoralis in the Immunocompromised Population. Clin Microbiol Rev 17, 208-217.
+PMID:14726461 ( PubMed abstract )
+Kinjo, T., Tsuhako, K., Nakazato, I., Ito, E., Sato, Y., Koyanagi, Y., and Iwamasa, T. (1998). Extensive intra-alveolar haemorrhage caused by disseminated strongyloidiasis. Int J Parasitol 28, 323-330.
+PMID:9512996 ( PubMed abstract )
+Segarra-Newnham, M. (2007). Manifestations, diagnosis, and treatment of Strongyloides stercoralis infection. Ann Pharmacother 41, 1992-2001.
+PMID:17940124 ( PubMed abstract )
+Siddiqui, A.A., and Berk, S.L. (2001). Diagnosis of Strongyloides stercoralis infection. Clin Infect Dis 33, 1040-1047.
+PMID:11528578 ( PubMed abstract )

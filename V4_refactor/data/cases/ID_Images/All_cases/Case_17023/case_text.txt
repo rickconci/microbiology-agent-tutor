@@ -1,0 +1,50 @@
+History of Present Illness
+A man in his early twenties who was diagnosed with HIV, cerebral toxoplasmosis and Kaposi’s sarcoma 16 weeks ago, presented with increasing shortness of breath and dry cough in the setting of a recent change in antiretroviral therapy (ART).
+Approximately 16 weeks prior to this second readmission, he presented with seizures and left hemiparesis and was found to have a right parietal, ring-enhancing lesion on head CT. He was started empirically on TMP-SMX 400/80 mg IV every 12 hours and clindamycin 600 mg IV every 6 hours. A biopsy of the brain lesion demonstrated cerebral toxoplasmosis. A follow-up brain CT at 2-weeks showed no improvement and prednisone 40 mg oral daily was added. He was also found to have violaceous nodular skin plaques consistent with Kaposi’s sarcoma (KS). His CD4 T-cell count was <20 cells/uL and his HIV viral load was >100,000 copies/mL and he was commenced on ART: dolutegravir plus emtricitabine/tenofovir disoproxil fumarate. Approximately 5 weeks after this initial admission, he was discharged home on ART and advised to continue treatment for toxoplasmosis and to taper his steroids.
+Eight weeks prior to this second admission, the patient was evaluated at an outpatient clinic where he was changed to pyrimethamine 75 mg oral daily, sulfadiazine 1.5 g oral every 6 hours and folinic acid 10 mg oral daily. ART was changed to combination elvitegravir/ cobicistat/ emtricitabine/ tenofovir alafenamide to decrease his pill burden. His CD4 T-cell count had improved to 35 cells/uL and his HIV RNA had decreased to 195 copies/ml.
+Four weeks prior to this second admission, he was reevaluated as an outpatient. He revealed that he had not decreased his prednisone doses as his mother was concerned about seizure recurrence. The CD4 T-cell count continued to improve to 50 cells/uL and the HIV RNA was 28 copies/ml.
+He presented 16 weeks after he first initiated ART (8 weeks after the change in ART regimen) complaining of having developed new skin lesions on his scalp over the past 3 weeks and 2 weeks of progressive shortness of breath. The dyspnea was associated with dry cough, night sweats, chills and fever. He had no hemoptysis, weight loss or sick contacts. There was no headache or confusion and no other localizing symptoms.
+Medications
+Elvitegravir/cobicistat/emtricitabine/tenofovir alafenamide 1 tablet oral daily,
+Prednisone 30 mg oral twice a day, pyrimethamine 75 mg oral daily, sulfadiazine 1.5 g oral every 6 hours, folinic acid 25 mg oral daily, azithromycin 1,200 mg oral weekly, levetiracetam 1,000 mg oral twice a day
+Epidemiological History
+He did not use alcohol or recreational drugs and does not smoke. He had been sexually active with men for many years without condom use.
+Physical Examination
+The patient appeared acutely ill. He was not in acute respiratory distress but had signs of fatigue while talking. The blood pressure was 116/66 mm Hg, pulse 92 beats per minute, temperature 99.8°F (37.7°C), and respirations 20 breaths per minute. He had expiratory wheezing and decreased air entry at both bases. Bilateral inguinal lymphadenopathy was present and he had multiple raised violaceous lesions on his skin that had increased in size (Figure 1a and 1b). There was a new hard palate violaceous hyperplastic lesion seen. (Figure 2). The remainder of his examination were normal.
+Figure 1. Bluish/violaceous, hard, firm and nodular lesions seen on his a) left arm and b) left leg
+Figure 2. Figure 2: Violaceous hyperplastic lesions seen on the hard palate
+Studies
+His current CD4 count was 22 cells/uL and HIV RNA was 160 copies/mL. The WBC was 2.18 x 10 3 /mL (reference range 4-11 10 3 /mL); Polymorph 57%, Lymphocytes 14 %, Bands 10 %. Hematocrit was 45%, LDH was 1037 U/L (reference range 225- 335 U/L), alanine aminotransferase (ALT) was 58 U/L (reference range < 41 U/L) and aspartate aminotransferase (AST) was 30 U/L (reference range < 40 U/L), INR was 0.92 (reference range 0.90 – 1.20). Other routine laboratory investigations including urea and electrolytes were normal. Toxoplasma and Histoplasma IgM and IgG were negative.
+Chest CT scan showed extensive bilateral axillary, hilar, pericardial, mediastinal and porta hepatis lymphadenopathy with associated compression of bronchi, large bilateral pleural effusions and bilateral central consolidation (Figure 3).
+Figure 3. Figure 3: Chest CT (without contrast) demonstrated extensive bilateral axillary/hilar/pericardial/mediastinal/porta hepatis lymphadenopathy with associated compression of bronchi, large bilateral pleural effusions and bilateral central consolidation
+Clinical Course Prior to Diagnosis
+He was placed on airborne precautions and sputa were collected daily for acid fast bacilli smears. He was also started on vancomycin, cefepime, and azithromycin and changed from sulfadiazine to trimethoprim-sulfamethoxazole.
+Diagnostic Procedure(s) and Result(s)
+A bronchoscopy showed purpuric raised lesions on the bronchial mucosa (Figure 4). Sampling of these lesions was not performed as they seemed prone to bleeding. Biopsy of his inguinal lymph node confirmed KS (Figure 5 and 6).
+Figure 4. Figure 4: Bronchoscopy image showed a raised purple lesion on the bronchial mucosa
+Figure 5. Inguinal lymph node, core needle biopsy (H&E, 400X). There were abundant macrophages seen within an atypical lymphoid background. The vascular lesion was consistent with KS – seen as intertwined, and proliferating vascular spaces (shown with thickened endothelial lining) and stained positive for CD31.
+Figure 6. Anti-HHV8 stain of inguinal lymph node showed the typical strong, nuclear but granular staining. (1000x)
+Treatment and Followup
+The patient’s condition continued to deteriorate with progressive respiratory distress requiring intubation. Given the extensive KS lesions seen in his skin, lymph node, oral mucosa and on bronchoscopy, he was started on daunorubicin but unfortunately went into cardiorespiratory arrest and died.
+Discussion
+Kaposi Sarcoma (KS) is a malignant disease first described on 1872 by Moritz Kaposi (1). It is an important complication in patients with AIDS, especially in men who have sex with men (2). The incidence of KS has significantly decreased since the introduction of ART (3), but there is an increasing recognition of KS exacerbation as a part of immune reconstitution inflammatory syndrome (IRIS) (4,5). Pulmonary KS has been linked with higher incidence of KS-IRIS, which is associated with increased mortality in patients with AIDS (6). Optimal timing for the initiation of ART in patients with HIV and KS has not been well defined although earlier initiation has been associated with a higher incidence of IRIS (7).
+This case is of importance for the medical community as it illustrates the complexity in the diagnosis and treatment of an HIV-infected patient presenting with multiple complications at the time of diagnosis. He was started on steroids, due to a brain lesion that was not responding to antibiotic therapy, but steroids have been associated with KS progression and KS-associated mortality (8). Our case also illustrates progression of complications despite the use of ART that could be secondary to the inability of the immune system to be reconstituted (ie. persistent immunodeficiency) or dysfunctionally reconstituted as in KS-IRIS.
+Final Diagnosis
+HIV/AIDS with pulmonary Kaposi sarcoma and possible KS-IRIS
+References
+Shiels RA. A history of Kaposi’s sarcoma. Journal of the Royal Society of Medicine. 1986;79(9):532-534.
+PMID:3534266 ( PubMed abstract )
+Godoy M.B, Rouse H, Müller N.L., et al. Imaging Features of Pulmonary Kaposi Sarcoma–Associated Immune Reconstitution Syndrome American Journal of Roentgenology 2007 189:4, 956-965
+PMID:17885071 ( PubMed abstract )
+Gasparetto TD, Marchiori E, Lourenço S, et al. Pulmonary involvement in Kaposi sarcoma: correlation between imaging and pathology. Orphanet Journal of Rare Diseases. 2009;4:18. doi:10.1186/1750-1172-4-18.
+PMID:19602252 ( PubMed abstract )
+Holkova B, Takeshita K, Cheng DM, et al. Effect of highly active antiretroviral therapy on survival in patients with AIDS-associated pulmonary Kaposi's sarcoma treated with chemotherapy. J Clin Oncol 2001; 19:3848 –3851.
+PMID:11559722 ( PubMed abstract )
+Bower M., Nelson M., Young A. M., et al. Immune reconstitution inflammatory syndrome associated with Kaposi’s sarcoma. J. Clin. Oncol. 2005 Aug 1;23(22):5224-8.
+PMID:16051964 ( PubMed abstract )
+Volkow P, Cesarman-Maus G, Garciadiego-Fossas P, et al. Clinical characteristics, predictors of immune reconstitution inflammatory syndrome and long-term prognosis in patients with Kaposi sarcoma. AIDS Research and Therapy. 2017;14:30
+PMID:28558783 ( PubMed abstract )
+Achenbach CJ, Harrington RD, Dhanireddy S, et al. “Paradoxical Immune Reconstitution Inflammatory Syndrome in HIV-Infected Patients Treated With Combination Antiretroviral Therapy After AIDS-Defining Opportunistic Infection.” Clinical Infectious Diseases: 2012 Feb 1;54(3):424-33.
+PMID:22095568 ( PubMed abstract )
+Fernández-Sánchez M, Iglesias MC, Ablanedo-Terrazas Y, et al. Steroids Are a Risk Factor for Kaposi’s Sarcoma-Immune Reconstitution Inflammatory Syndrome and Mortality in HIV Infection. AIDS. 2016 Mar 27;30(6):909-14.
+PMID:26636923 ( PubMed abstract )

@@ -1,0 +1,41 @@
+History of Present Illness
+Summary: A man presented with scrotal discomfort.
+A man in his fifties presented with scrotal discomfort. Approximately twenty-five years earlier, a lesion on his buttocks had developed. The lesion was associated with inguinal lymphadenopathy and swelling of the scrotum. Over the ensuing years, the swelling and pain in his scrotum and buttocks became so severe that the patient reported difficulty sitting. Frequent discharge occurred from these lesions. He had received multiple courses of antibiotics for bacterial infections.
+The patient presented with fevers, chills and increased pain and discharge, and was admitted to the hospital for evaluation and treatment.
+Past Medical History
+There was a history of hypertension and anemia.
+Medications
+None.
+Epidemiological History
+The patient was born and raised in the Caribbean, where he lived in a city but regularly visited relatives living in rural environments. He had immigrated to the United States more than a decade before admission, and lived in the Northeast with his family. He was monogamous with one sexual partner for more than two decades. He was unable to work because of groin swelling.
+Physical Examination
+The temperature was 100.3ºF (37.9ºC). There was inguinal lymphadenopathy, scrotal swelling and thickening of scrotal skin, thickening of skin on buttocks, and trace edema at ankles bilaterally ( Figures 1 through 4 ).
+Figure 1. Physical findings: Groin.
+Figure 2. Scrotum.
+Figure 3. Inguinal lymph node.
+Figure 4. Buttocks.
+Studies
+Laboratory testing revealed a white blood cell count 13,200 cells/mm³ (86% neutrophils, 6% lymphocytes, and 6% eosinophils) and hematocrit 28%. Blood cultures were negative.
+Diagnostic Procedure(s) and Result(s)
+An antifilarial antibody was 19.2 ug/ml (positive >14.0 ug/ml). Scrotal ultrasound was negative for “filarial dance sign” and a blood sample drawn at midnight was negative for microfilariae.
+Treatment and Followup
+The patient was treated with amoxicillin-clavulanate with improvement in symptoms, followed by isotretinoin therapy. Diethylcarbamazine therapy is also a possible therapy.
+Discussion
+Lymphatic filariasis is caused by infection with one of three nematodes: Wuchereria bancrofti , Brugia malayi and Brugia timori . W. bancrofti occurs in sub-Saharan Africa, Southeast Asia, the Indian subcontinent, Pacific islands and focal areas in Latin America and the Caribbean, and is the cause of 90% of cases of lymphatic filariasis.
+Several mosquito species including Anopheles , Culex , Aedes and Mansonia can serve as vectors for transmission. The quantity of accumulating adult worm antigen, duration and level of exposure to infective mosquitoes, number of secondary bacterial and fungal infections, and host immune responses all influence the pathogenesis and clinical progression of filarial disease. In general, symptoms are related to dead or dying worms in the lymphatics resulting in obstruction of lymph flow.
+Lymphedema is most common in individuals without detectable microfilaria in their blood as they tend to be highly immunoresponsive and clear antigens from the blood stream. They often have the most severe clinical symptoms due to immune responses to adult parasite antigens resulting in inflammation and fibrosis.
+The diagnosis is made by analysis of the following:
+1. Blood smear. Both Bancroftian and Brugian filariasis show a nocturnal periodicity. Blood should be drawn between 10 PM and 2 AM because the greatest number of microfilariae is present during this peak biting time of the mosquito vector. The microfilariae stain with Wright’s or Giemsa stains.
+2. Serology.
+A. Antibody tests: Tests for filarial antibodies which detect elevated levels of IgG and IgE are available. They are reported to be 100% sensitive; however, they have poor specificity as they also cross react with other helminths such as Strongyloides. They cannot distinguish between active and past infections. Newer serodiagnostic tests are being developed that use either excretory-secretory antigens or reagents to detect antibody isotypes or subclasses with sensitivities of 80% and specificities of 100%.
+B. Antigen Tests: Monoclonal antibodies have been used to detect the presence of filarial adult worms and may be positive in people who are amicrofilaremic. These tests reflect adult worm burdens rather than microfilariae. Circulating filarial antigen tests are now the gold standard for diagnosing W. bancrofti infections. Two commercial tests are available: enzyme-linked immunoabsorbent assay (ELISA) yielding quantitative results and immunochromatographic technique (ICT) yielding qualitative results.
+3. Radiology: Ultrasound may localize worms within lymphatics, especially the epididymal lymphatics. If the worms are in continuous motion and detected by ultrasound, this is called the “filarial dance sign”.
+Final Diagnosis
+Lymphatic filariasis.
+References
+Bockarie, M.J., and Deb, R.M. (2010). Elimination of lymphatic filariasis: do we have the drugs to complete the job? Curr Opin Infect Dis 23, 617-620.
+PMID:20847694 ( PubMed abstract )
+Katiyar, D., and Singh, L.K. (2011). Filariasis: Current status, treatment and recent advances in drug development. Curr Med Chem 18, 2174-2185.
+PMID:21521163 ( PubMed abstract )
+Palumbo, E. (2008). Filariasis: diagnosis, treatment and prevention. Acta Biomed 79, 106-109.
+PMID:18788504 ( PubMed abstract )

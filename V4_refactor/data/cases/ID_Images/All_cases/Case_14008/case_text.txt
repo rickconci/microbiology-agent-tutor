@@ -1,0 +1,47 @@
+History of Present Illness
+A man in his fifties with a history of an orthotopic liver transplantation 28 days before admission was admitted to the hospital during the winter because of dyspnea, subjective fever, sore throat, myalgias, and cough with minimal productive yellow sputum for 2 days, as well as volume overload.
+Past Medical History
+The patient had end-stage renal disease for which he was receiving hemodialysis, hepatitis B and C virus infections, and had had an orthotopic liver transplant 28 days before admission. Results of testing for antibodies to cytomegalovirus before transplantation showed that the donor was positive and the recipient was negative (D+/R-).
+Medications
+Medications included mycophenolate mofetil (500mg by mouth every 12 hours), tacrolimus (2mg daily), prednisone (20mg daily), entecavir, valganciclovir, sulfamethoxazole-trimethoprim, vancomycin and cefepime.
+Epidemiological History
+He had smoked in the past, and reported no illicit drug or alcohol use. He had no sick contacts or recent travel history.
+Physical Examination
+The blood pressure was 124/69 mm Hg, pulse 60 beats per minute, temperature 98.4°F (36.9°C), and respirations 20 breaths per minute. The patient appeared to be in minimal distress. A right internal jugular hemodialysis catheter was non-tender, and there was no discharge from the exit site. There was minimal pharyngeal erythema, a distended and non-tender abdomen with a well-healed right upper quadrant surgical scar, and edema of both legs. The remainder of the examination was normal.
+Studies
+Laboratory findings included white cell count of 1900 cells per cubic millimeter (reference range (ref) 4000-11,000), absolute neutrophil count 1748 cells per cubic millimeter, hemoglobin 7.3gm/dL (ref 13.5-17.5), platelets 121,000 per cubic millimeter (ref 150,000-300,000 ), and serum levels of alanine aminotransferase (ALT) 89 IU/L (ref 0-55), asparate aminotranferase (AST) 141 IU/L (ref 5-34), and alkaline phosphatase 119 IU/L (ref 40-150); levels of total and direct bilirubin were normal.
+A chest radiograph revealed minimal pulmonary edema and a pleural effusion on the right side. Ultrasonography of the abdomen demonstrated normal echotexture of the liver, a small post-operative hematoma that was improving, ascites and a minimal right pleural effusion.
+Clinical Course Prior to Diagnosis
+On the 2nd hospital day, the patient declined a nasopharyngeal wash. Liver enzymes worsened. A liver biopsy was performed. Tests of a urine specimen for antigens for Streptococcus pneumoniae and Legionella pneumophila , serogroup 1 were negative.
+The next day, dyspnea and liver enzymes worsened. The temperature rose to 39°C. Preliminary pathological examination of the liver biopsy with hematoxylin and eosin (HE) staining demonstrated patchy hepatocellular necrosis, with surrounding hepatocytes demonstrating nuclear atypia, intranuclear and intracytoplasmic inclusions, and macrophages and lymphocytes, suggestive of viral hepatitis ( Figure 1 ). There was no evidence of acute rejection.
+Intravenous ganciclovir was started after the preliminary results of the biopsy were known.
+Figure 1. Liver biopsy, HE stain.
+Diagnostic Procedure(s) and Result(s)
+The pathological examination of the liver biopsy by HE stain demonstrated intranuclear and intracytoplasmic inclusions and patchy necrosis with macrophages and lymphocytes consistent with viral hepatitis, with no evidence of acute rejection ( Figure 1 ). Immunohistochemical staining for adenovirus was positive ( Figure 2 ), and testing was negative for cytomegalovirus, herpes simplex virus, and hepatitis B and C viruses. Qualitative testing for adenovirus of the blood by PCR (performed at Focus Labs) was positive.
+Blood and urine cultures remained negative.
+Figure 2. Liver biopsy, immunoperoxidase stain for adenovirus.
+Treatment and Followup
+On the 4th hospital day, worsening hypoxemia and tests of liver function (AST 3592 IU/L, ALT 1072 IU/L, alkaline phosphatase 322 IU/L, total bilirubin 2.3 mg/dL and direct bilirubin 1.9 mg/dL) occurred, consistent with fulminant hepatitis. When results of immunohistochemistry staining of the biopsy were known, therapy was changed to intravenous cidofovir and immunoglobulin. Quantitative testing of the blood for cytomegalovirus DNA by PCR was negative.
+On the 5th hospital day, septic shock that was refractory to multiple pressors and ventilator dependent respiratory failure occurred. Aggressive care was withdrawn, and the patient expired.
+Discussion
+This case demonstrates that adenoviral hepatitis in liver transplant recipients may be progressive and rapidly fatal. It also shows that adenoviral disease mostly involves the transplanted organ [Carrigan 1997]. Physicians must consider adenovirus in the differential diagnosis of an immunocompromised patients who presents with fever and elevated liver enzymes.
+Adenovirus affects epithelial cells in the gastrointestinal, genitourinary and respiratory tracts. Adenoviral disease in immunocompromised hosts has a wide range of clinical presentations, including pneumonia, hepatitis, nephritis, and hemorrhagic cystitis with a case fatality of 50%.
+There are two possible mechanisms by which active adenoviral infection occurs: reactivation of latent infection secondary to immunosuppression or primary adenovirus infection; the latter may be acquired from either ill contacts or from the donor organ itself. The proportion of immunocompromised patients who develop adenoviral infection from reactivation versus primary infection is unknown [Echaverria 2008].
+The role of adenovirus serology is limited in the immunosuppressed host due to its lack of sensitivity and the presence of serum antibodies in the majority of adults from prior exposure. A positive serum adenovirus PCR with clinical and laboratory findings of hepatitis favors a probable diagnosis of adenoviral hepatitis. Definitive diagnosis requires a liver biopsy demonstrating viral inclusions.
+The optimal treatment of adenovirus hepatitis is not known. Some of the treatments mentioned in the medical literature [Ronan et al. 2014] include:
+• Reduction of immunosuppression
+• Agents with in vitro activity against adenoviruses (e.g. ribavirin, cidofovir)
+• Intravenous infusion of immunoglobulin
+• Liver transplantation
+A promising experimental agent is an orally derivative of cidofovir called brincidofovir or CMX001. This drug achieves higher intracellular levels than intravenous cidofovir. In a retrospective study of CMX001 as salvage therapy for adenovirus infection in 13 immunocompromised patients [Florescu et al., 2012], there was a sustained drop in viral load over a 4-week period; the 8 week survival rate was 88.9% for responders and 50% for non-responders. The agent was well-tolerated and did not have major side effects.
+Final Diagnosis
+Disseminated adenovirus infection with fulminant hepatitis in a patient with a liver transplant.
+References
+Carrigan DR. Adenovirus infections in immunocompromised patients. Am J Med. 1997 Mar 17;102(3A):71-4.
+PMID:10868146 ( PubMed abstract )
+Echavarria M . (2008) Adenoviruses in immunocompromised hosts.Clin Microbiol Rev. 2008 Oct;21(4):704-15. doi: 10.1128/CMR.00052-07.
+PMID:18854488 ( PubMed abstract )
+Florescu DF, Pergam SA, Neely MN, Qiu F, Johnston C, Way S, Sande J, Lewinsohn DA, Guzman-Cottrill JA, Graham ML, Papanicolaou G, Kurtzberg J, Rigdon J, Painter W, Mommeja-Marin H, Lanier R, Anderson M, van der Horst C. (2012) Safety and efficacy of CMX001 as salvage therapy for severe adenovirus infections in immunocompromised patients. Biol Blood Marrow Transplant. 2012 May;18(5):731-8. doi: 10.1016/j.bbmt.2011.09.007. Epub 2011 Sep 29.
+PMID:21963623 ( PubMed abstract )
+Ronan BA, Agrwal N, Carey EJ, De Petris G, Kusne S, Seville MT, Blair JE, Vikram HR. (2014) Fulminant Hepatitis with adenovirus infection. 2014 Feb;42(1):105-11. doi: 10.1007/s15010-013-0527-7. Epub 2013 Aug 24.
+PMID:23979854 ( PubMed abstract )

@@ -1,0 +1,72 @@
+History of Present Illness
+A woman in her 80s presented with a 2-week history of bilateral wrist pain, swelling, erythema and purulent drainage. Three weeks prior to admission, she developed visual disturbances and was diagnosed with giant cell arteritis (GCA), for which she was initiated on high-dose corticosteroids. Approximately one week later, she developed bilateral wrist pain, erythema, and edema, more pronounced on the right. A blister subsequently formed on the right wrist, which ruptured and began draining purulent fluid. She also reported systemic symptoms including fevers and chills. She presented to the hospital following a fall after a syncopal episode and was found to have bilateral segmental/subsegmental pulmonary emboli.
+Past Medical History
+Right open distal radius fracture many years ago with hardware placement. Right wrist septic arthritis several years ago; at the time, the hardware was removed and she received a course of antibiotics.
+Medications
+Prednisone 20 milligram (mg) once daily. Apixaban.
+Epidemiological History
+No recent travel or animal exposures. She had a recent dental cleaning.
+Physical Examination
+The patient appeared well. Vital signs: T 37°C (range 35.2–36.4°C), HR 80 bpm, RR 19, BP 132/82 mmHg, SpO2 97% on room air. The right upper extremity exam revealed edema and erythema from distal phalanges to distal forearm. A 1.5 cm (about 0.59 in) open wound was noted over the radial dorsal hand draining purulent fluid. Tenderness was noted at the distal radius. No motor, sensory or perfusion deficits were noted. The left upper extremity exam revealed mild edema from distal phalanges to wrist, tenderness at distal radius. No motor, sensory or perfusion deficits were noted.
+Studies
+WBC : 12.5 x 10^9/L (reference: 3.5–10.5 x10^9/L) with neutrophilia, eosinopenia, and lymphopenia.
+Hgb : 12.3 g/dL (reference: 12-15.5 g/dL)
+Platelets : 277 x 10^9/L (reference: 150–450 x10^9/L)
+ESR : 42 mm/hr (reference 0-30 mm/hr)
+CRP : 8.1 mg/dL (reference < 1 mg/dl)
+HIV and Hepatitis C screening: Negative
+Blood cultures drawn prior to antimicrobial initiation: negative
+Transthoracic echocardiography (TTE) showed no evidence of valvular vegetations or infective endocarditis.
+Clinical Course Prior to Diagnosis
+The patient underwent surgical irrigation and debridement (I&D) of both wrists. Intraoperatively, purulence was noted in the bilateral radiocarpal joints, consistent with septic arthritis. The right wrist also demonstrated findings consistent with an infected distal radius fracture. Empiric antimicrobial therapy with intravenous vancomycin and ceftriaxone was initiated pending culture results.
+Diagnostic Procedure(s) and Result(s)
+Intraoperative anaerobic cultures from bilateral wrist joints grew Scedosporium species, later identified as Scedosporium boydii via broad-range fungal PCR testing. Biopsy revealed acute and chronic osteomyelitis of the right distal radius, scaphoid, and lunate, with granuloma containing yeast and hyphal fungal forms (see Figure 1 and 2).
+Initial Susceptibility Testing
+Amphotericin B MIC: 4 µg/mL
+Caspofungin MIC: 0.125 µg/mL
+Posaconazole MIC: 0.5 µg/mL
+Voriconazole MIC: 1 µg/mL
+Isavuconazole MIC: 8 µg/mL
+Terbinafine MIC: >2 µg/mL
+Olorofim MIC: 0.06 µg/mL
+Repeat Susceptibility Testing (3 months later)
+Micafungin MIC: >8 µg/mL
+Posaconazole MIC: 1 µg/mL
+Voriconazole MIC: 0.5 µg/mL
+Isavuconazole MIC: 4 µg/mL
+Terbinafine MIC: >2 µg/mL
+Olorofim MIC: 0.125 µg/mL
+Figure 1. Right wrist histopathology with PAS (Periodic Acid-Schiff) stain, 400x
+Figure 2. Right wrist histopathology with GMS (Grocott’s methanamine silver) stain
+Treatment and Followup
+Antibiotics were discontinued, and voriconazole was initiated at 400 mg twice daily for two doses, followed by 200 mg twice daily. Therapeutic drug levels were confirmed after one week. Despite treatment, the patient had persistent right wrist drainage with worsening findings of osteomyelitis on magnetic resonance imaging (see Figure 3). One month later, she underwent repeat debridement, with noted intraoperative purulence and a sinus tract. Micafungin 100 mg IV daily was added to voriconazole for salvage therapy. She was discharged on this dual antifungal regimen and later transitioned to oral olorofim monotherapy (via emergency use of expanded access).
+Ongoing drainage from the incision site in the right upper extremity (see Figure 4) led to discontinuation of corticosteroids, and antifungal therapy was escalated to a combination of triple antifungal agents including posaconazole 300 mg twice daily for two doses, then 300 mg daily, and high-dose micafungin 150 mg IV daily, while continuing olorofim. After a subsequent I&D, micafungin was reduced to 100 mg daily due to intolerance. Posaconazole was discontinued after fifteen days due to transaminitis. Despite being on dual therapy with IV micafungin and olorofim, transaminitis persisted; therefore, IV micafungin was discontinued after a six-week course, and she continued olorofim monotherapy. See Figure 5 for a summary of the treatment course.
+Her course was complicated by central retinal artery occlusion secondary to a relapse of GCA, necessitating resumption of high-dose steroids. At four months on olorofim, the left wrist had healed fully, while the right wrist had mild serous drainage, pending surgical closure (see Figure 6). The patient remained clinically stable with plans to complete at least a six-month course of olorofim from the date of her last debridement.
+Figure 3. MRI of the right wrist (T1-weighted) at 1 month after diagnosis
+Figure 4. Findings in the right upper extremity at 2 months after diagnosis
+Figure 5. A summary of the treatment course
+Figure 6. Findings in the right upper extremity at 4 months after diagnosis
+Discussion
+In an immunosuppressed patient presenting with subacute bilateral wrist swelling, erythema, and purulent drainage, the differential diagnosis for an infectious process is broad.
+Bacterial septic arthritis is the most common etiology, particularly in older adults. However, the subacute course, negative blood cultures, and lack of clinical improvement with empiric antibiotics prompted consideration of less common pathogens (1).
+Fungal arthritis is rare but increasingly recognized in immunocompromised hosts. In this case, bone tissue cultures revealed Scedosporium boydii, a mold notable for its intrinsic resistance to multiple antifungal classes and potential for deep tissue invasion (2-3).
+Mycobacterial arthritis, several species of nontuberculous mycobacteria (NTM) are linked to bone and joint infections. However, the cultures and biopsies did not show NTM infection.
+Scedosporium boydii is a rare, multidrug-resistant mold that poses significant treatment challenges and often requires prolonged antifungal therapy and aggressive surgical source control (2-3). Olorofim, a novel orotomide antifungal, demonstrated sustained clinical activity in this case and represents a promising option for salvage therapy in refractory mold infections (4-5). Olorofim has been associated with abnormal liver enzyme levels. When used in combination with other antifungal agents, close monitoring of liver function tests is recommended due to the risk of drug-induced liver injury (6). This case underscores the value of broad-range fungal PCR and susceptibility testing in guiding targeted antifungal therapy when conventional agents fail (7). Timely surgical intervention remains critical in managing invasive fungal arthritis, particularly when structural involvement or drainage persists 8. Clinicians should maintain a high index of suspicion for atypical pathogens in immunosuppressed patients with refractory joint infections.
+Final Diagnosis
+Scedosporium boydii septic arthritis and osteomyelitis of the bilateral wrists in an immunocompromised host
+References
+Ross JJ. Septic Arthritis of Native Joints. Infect Dis Clin North Am. 2017 Jun;31(2):203-218. doi: 10.1016/j.idc.2017.01.001. Epub 2017 Mar 30. PMID: 28366221.
+PMID:28366221 ( PubMed abstract )
+Lackner M, de Hoog GS, Verweij PE, Najafzadeh MJ, Curfs-Breuker I, Klaassen CH, Meis JF. Species-specific antifungal susceptibility patterns of Scedosporium and Pseudallescheria species. Antimicrob Agents Chemother. 2012 May;56(5):2635-42. doi: 10.1128/AAC.05910-11. Epub 2012 Jan 30. PMID: 22290955; PMCID: PMC3346635.
+PMID:22290955 ( PubMed abstract )
+Troke P, Aguirrebengoa K, Arteaga C, Ellis D, Heath CH, Lutsar I, Rovira M, Nguyen Q, Slavin M, Chen SC; Global Scedosporium Study Group. Treatment of scedosporiosis with voriconazole: clinical experience with 107 patients. Antimicrob Agents Chemother. 2008 May;52(5):1743-50. doi: 10.1128/AAC.01388-07. Epub 2008 Jan 22. PMID: 18212110; PMCID: PMC2346616.
+PMID:18212110 ( PubMed abstract )
+Stephany Febles Leyva, Miriam Sierra Yuste, Nuria Bujaldón Querejeta, Carlos De La Pinta Zazo, Ana Belso Candela, Philip Wikman-Jorgensen, A difficult-to-treat septic arthritis by Scedosporium apiospermum successfully treated with olorofim, Journal of Antimicrobial Chemotherapy, Volume 79, Issue 12, December 2024, Pages 3358–3359
+Seyedmousavi S, Chang YC, Youn JH, Law D, Birch M, Rex JH, Kwon-Chung KJ. In Vivo Efficacy of Olorofim against Systemic Scedosporiosis and Lomentosporiosis. Antimicrob Agents Chemother. 2021 Sep 17;65(10):e0043421. doi: 10.1128/AAC.00434-21. Epub 2021 Jul 12. PMID: 34252298; PMCID: PMC8448127.
+PMID:34252298 ( PubMed abstract )
+Feuss A, Bougnoux ME, Dannaoui E. The Role of Olorofim in the Treatment of Filamentous Fungal Infections: A Review of In Vitro and In Vivo Studies. J Fungi (Basel). 2024 May 10;10(5):345. doi: 10.3390/jof10050345. PMID: 38786700; PMCID: PMC11121921.
+PMID:38786700 ( PubMed abstract )
+Wagner K, Springer B, Pires VP, Keller PM. Molecular detection of fungal pathogens in clinical specimens by 18S rDNA high-throughput screening in comparison to ITS PCR and culture. Sci Rep. 2018 May 3;8(1):6964. doi: 10.1038/s41598-018-25129-w. PMID: 29725065; PMCID: PMC5934447.
+PMID:29725065 ( PubMed abstract )
+Osmon DR, Berbari EF, Berendt AR, Lew D, Zimmerli W, Steckelberg JM, Rao N, Hanssen A, Wilson WR; Infectious Diseases Society of America. Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2013 Jan;56(1):e1-e25. doi: 10.1093/cid/cis803. Epub 2012 Dec 6. PMID: 23223583.
+PMID:23223583 ( PubMed abstract )

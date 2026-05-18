@@ -1,0 +1,38 @@
+History of Present Illness
+2009 IDSA Fellows' Day Case Submission Summary: A woman with fever and abdominal pain.
+A woman in her forties developed fever, epigastric pain, and nausea one week before admission. She took ibuprofen, without improvement, and then saw her primary care physician, who diagnosed possible gastritis.
+Seven days later, she was brought to the emergency room with confusion, fever, and hypotension. She reported no neck stiffness, photophobia, cough, shortness of breath, diarrhea, or urinary symptoms.
+Past Medical History
+There was a history of cervical cancer, status post hysterectomy, ten years earlier.
+Medications
+She had taken ibuprofen for this illness, and was on no other medications.
+Social History
+She was married and had children.
+Epidemiological History
+She had immigrated to the United States from Asia more than 5 years earlier, lived in a mid-Atlantic state on the East Coast, and had not traveled in the previous year. She had no sick contacts or pets.
+Physical Examination
+She was not in acute distress but appeared to have generalized edema. The temperature was 101°F (38.3°C), blood pressure 80/40 mmHg, pulse 96 beats per minute, respirations 20 breaths per minute, and oxygen saturation 99% while breathing 2-liters oxygen by nasal cannula. The skin was slightly pale and anicteric. The lungs were clear, with decreased breath sounds at the lung bases, and the right upper quadrant of the abdomen was tender to palpation. The remainder of her examination was normal.
+Studies
+The white cell count was 14,500 cells per cubic millimeter with 85% neutrophils, 7% bands, 7% lymphocytes, 1% monocytes; hemoglobin level was 11 g/dl; and the platelet count was 57,000 per cubic millimeter. The level of aspartate aminotransferase was 44 IU/L (reference range 15-46), alanine aminotransferase 70 IU/L (ref 9-41), alkaline phosphatase level of 230 IU/L (ref 54-217) and albumin level of 2.0 g/dl (ref 3.3-4.7). A chest radiograph revealed bilateral pleural effusions; both abdominal ultrasound and computed tomography of the abdomen ( Figure 1 ) showed a liver mass, 10-centimeters in diameter. Urinalysis revealed 0-5 white cells per high-powered field.
+Figure 1. CT of the abdomen.
+Clinical Course Prior to Diagnosis
+The hepatic mass was aspirated by the interventional radiology staff, and a culture of the aspirate is shown ( Figures 2 and 3 ).
+Figure 2. Culture growth of aspirate.
+Figure 3. Culture growth of aspirate.
+Diagnostic Procedure(s) and Result(s)
+Culture of the aspirated fluid revealed a mucoid colony growth (Figure 2), which was later identified as Klebsiella pneumoniae , of the hyperviscous phenotype. Results of a string test were positive ( Figure 3 ). The isolate was resistant to ampicillin, and susceptible to the other antibiotics tested.
+Treatment and Followup
+The patient did not improve with aspiration of the mass and the administration of levofloxacin and metronidazole. Resection of the liver abscess was performed, and she improved and was discharged.
+Discussion
+Klebsiella pneumoniae is a member of the Enterobacteriaceae family. A distinct clinical syndrome has emerged in the past 20 years in Southeast Asia that includes invasive liver abscess, bacteremia, and metastatic infection. Clinical manifestations include endophthalmitis, meningitis, brain abscess, pneumonia, pyelonephritis, prostatitis, osteomyelitis, soft tissue abscess, necrotizing fasciitis, and septic arthritis.
+Most cases are community-acquired and affect immunocompetent hosts. Diabetes mellitus and Asian ancestry have been identified as important risk factors. The source of the infection is usually unknown; fecal-oral transmission is considered likely and most patients do not have an identifiable gastrointestinal or hepatobiliary anomaly. The outcome is generally good.
+The colonies exhibit extreme “stickiness” on agar plates, termed the “hypermucoviscosity phenotype” [Lee et al 2006]. The result of the string test is positive if a “string” of more than 5 millimeters is made when one touches the colony. Two genes associated with this phenotype are the mucoviscosity-associated gene A (magA), seen with serotype K1 type [Fang et al 2004], and the regulator of mucoid phenotype A (rmpA), which is a plasmid-mediated regulator of extracapsular polysaccharide synthesis [Nassif et al 1989].
+Final Diagnosis
+Invasive Klebsiella pneumoniae liver abscess.
+References
+Fang, C.T., Chuang, Y.P., Shun, C.T., Chang, S.C., and Wang, J.T. (2004). A novel virulence gene in Klebsiella pneumoniae strains causing primary liver abscess and septic metastatic complications. J Exp Med 199, 697-705.
+PMID:14993253 ( PubMed abstract )
+Lee, H.C., Chuang, Y.C., Yu, W.L., Lee, N.Y., Chang, C.M., Ko, N.Y., Wang, L.R., and Ko, W.C. (2006). Clinical implications of hypermucoviscosity phenotype in Klebsiella pneumoniae isolates: association with invasive syndrome in patients with community-acquired bacteraemia. J Intern Med 259, 606-614.
+PMID:16704562 ( PubMed abstract )
+Nassif, X., Fournier, J.M., Arondel, J., and Sansonetti, P.J. (1989). Mucoid phenotype of Klebsiella pneumoniae is a plasmid-encoded virulence factor. Infect Immun 57, 546-552.
+PMID:2643575 ( PubMed abstract )

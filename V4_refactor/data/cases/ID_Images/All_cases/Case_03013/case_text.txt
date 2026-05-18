@@ -1,0 +1,30 @@
+History of Present Illness
+IDSA 2003 Summary: A man with a persistent right upper lobe lung cavity.
+A man in his fifties presented with a productive cough, progressive shortness of breath, lethargy and weight loss for eighteen months. He was diagnosed with a right upper lobe infection and was treated with piperacillin-tazobactam for two months, without improvement. Six months later, he was treated with ciprofloxacin and amoxicillin-clavulanic acid for a total of 6 months. He was admitted to the hospital for an elective right thoracotomy.
+Past Medical History
+He had a history of hemochromatosis, cirrhosis, esophageal varices, emphysema, and diabetes mellitus. He was awaiting a liver transplant.
+Medications
+Medications included a fentanyl patch, insulin, fluoxetine, ciprofloxacin, and amoxicillin-clavulanic acid.
+Social History
+He was retired and lived in the state of New York.
+Epidemiological History
+He had recently traveled to Florida. He was a former smoker, denied alcohol use and had no pets.
+Physical Examination
+He was alert and cooperative, and appeared cachectic and in mild respiratory distress. The blood pressure was 100/50 mm Hg, temperature 98.8°F (37.1°C), pulse 90 beats per minute, and respirations 20 per minute. There was no cyanosis, clubbing, or icterus. Chest examination showed dullness to percussion and reduced air entry in the right upper lung zones. Abdominal examination revealed mild tenderness in the right hypochondrium and splenomegaly. The remainder of his examination was normal.
+Studies
+The white blood cell count (WBC) was 4,900 cells/mm³, hemoglobin 9.3 g/dL, and platelet count 153,000/mm³; the level of creatinine was 0.7 mg/dL, and liver function tests were normal.
+The chest radiograph revealed a right upper lobe opacification and bilateral emphysematous changes. Computed tomography (CT) of the chest revealed cavitary lesions in the right upper lobe, with a fluid level, and left lower lobe ( Figure 1 ).
+Figure 1. Chest CT scan.
+Clinical Course Prior to Diagnosis
+The patient underwent a right thoracotomy with drainage of purulent material from the right upper lobe. A biopsy was performed ( Figures 2 and 3 ).
+Figure 2. Hematoxylin and eosin stain of biopsy.
+Figure 3. Cytopathology (Gomori silver stain) of the biopsy.
+Diagnostic Procedure(s) and Result(s)
+In the operating room, a large empyema cavity of right upper lobe was found. Microscopically, the biopsy sections demonstrated mild acute inflammation, fibrinous exudates, neutrophils, and cell debris. There were numerous septated hyphal forms with acute 45° branching consistent with Aspergillus species ( Figure 2 ). The cytopathology ( Figure 3 ) showed acute inflammation admixed with abundant hyphal forms consistent with Aspergillus species.
+Fungal culture was positive for Aspergillus fumigatus . Acid-fast bacillus (AFB) smears and culture were negative.
+Treatment and Followup
+The patient was treated initially with voriconazole and changed to liposomal amphotericin B after two days because of possible hepatotoxic effect. On liposomal amphotericin B, the level of creatinine increased to 2.5 mg/dl. Therapy was changed to caspofungin.
+Discussion
+Aspergillus is a mold with septate hyphae. Aspergillus fumigatus is the most common cause of aspergillosis. Pulmonary aspergillosis presents with a variety of clinical syndromes. Aspergillomas occur in patients with pre-existing lung cavities. Invasive aspergillosis is a severe and often fatal disease that is seen in immunocompromised patients, particularly those who are neutropenic and on prolonged courses of antibiotics. Allergic bronchopulmonary aspergillosis is a hypersensitivity reaction to Aspergillus antigen that mainly affects patients with asthma. Chronic necrotizing aspergillosis occurs in those who are mildly immunosuppressed or have chronic lung disease.
+Final Diagnosis
+Chronic necrotizing aspergillosis caused by Aspergillus fumigatus .

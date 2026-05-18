@@ -1,0 +1,33 @@
+History of Present Illness
+Summary: A middle-aged woman with tingling and numbness in her hand.
+A woman in her forties, originally from India, presented to her primary care doctor complaining of right hand tingling and numbness for several years.
+In India, she had been diagnosed with carpal tunnel syndrome and underwent a release procedure. This had no effect on her symptoms, which slowly progressed. She stopped using her arm altogether due to decreased sensation. She was seen by a neurologist who noted a polyneuropathy on physical examination.
+Past Medical History
+She was status post carpal tunnel release.
+Epidemiological History
+She was born and raised in India.
+Physical Examination
+Examination of the skin revealed two very large hypopigmented and anesthetic lesions on her back and left deltoid area ( Figures 1 and 2 ), and a polyneuropathy noted earlier.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Diagnostic Procedure(s) and Result(s)
+A sural nerve biopsy was performed. Gram stain revealed few polymorphonuclear cells and no organisims. The bacterial and fungal cultures were negative. Acid-fast bacilli (AFB) smear was positive ( Figure 3 ). AFB culture was negative.
+The pathologic specimens of the sural nerve sheath were diagnostic of lepromatous leprosy.
+Figure 3. Acid-fast stain of biopsy.
+Treatment and Followup
+The patient was treated with dapsone and rifampin. The lesions resolved completely, although she had persistent anesthesia with minimal improvement. The duration of treatment was planned for more than twelve months.
+Discussion
+Mycobacterium leprae is the causative agent of leprosy, also known as Hansen’s Disease. Leprosy is a disease of the peripheral nervous system; the central nervous system is spared. The dysesthesia induced by the peripheral nervous system involvement and the indolent nature of the infection are hallmarks of the clinical presentation. It grows best at cooler temperatures, cannot be cultured from artificial media, and likely is transmitted via the nasorespiratory route and not from close contact as previously thought.
+There are two classification systems used:
+1. World Health Organization (WHO): Paucibacillary -> Multibacillary
+2. Ridley-Jopling: Tuberculoid -> Lepromatous
+In this case, the presence of large numbers of acid-fast bacilli (AFB) on the smear of the skin biopsy demonstrated multibacillary or lepromatous form of the disease.
+Final Diagnosis
+Lepromatous leprosy due to Mycobacterium leprae infection.
+References
+Bhatia, A.S., Katoch, K., Narayanan, R.B., Ramu, G., Mukherjee, A., and Lavania, R.K. (1993). Clinical and histopathological correlation in the classification of leprosy. Int J Lepr Other Mycobact Dis 61, 433-438.
+PMID:8228443 ( PubMed abstract )
+Lockwood, D. (2007). Leprosy. Clin Evid (Online) 2007.
+PMID:19454067 ( PubMed abstract )
+Rao, P.N., Pratap, D., Ramana Reddy, A.V., and Sujai, S. (2006). Evaluation of leprosy patients with 1 to 5 skin lesions with relevance to their grouping into paucibacillary or multibacillary disease. Indian J Dermatol Venereol Leprol 72, 207-210.
+PMID:16766835 ( PubMed abstract )

@@ -1,0 +1,31 @@
+History of Present Illness
+IDSA 2003 Summary: A man in his seventies presented with increasing dyspnea.
+A man in his seventies presented with increasing dyspnea of four months' duration. The patient had chronic shortness of breath of unclear etiology, which had progressed from occurring only upon exertion to dyspnea at rest. Steroids and diuretics had been administered during the preceding three months, without improvement.
+He also reported a productive cough with yellow sputum for one week, and a 20-pound weight loss over the previous two months. He denied fever, chills, night sweats, chest pain, gastrointestinal or genitourinary symptoms.
+Past Medical History
+He had a history of metastatic thymoma (diagnosed 2 years before, status post chemotherapy and radiation therapy, with known mediastinal and right upper lobe mass), myasthenia gravis, congestive heart failure (ejection fraction 35%), chronic obstructive pulmonary disease (forced expiratory volume in 1 second (FEV1): 1.58 liters, forced vital capacity (FVC): 2.02 liters), alcoholic cirrhosis complicated by ascites, atrial fibrillation, benign prostatic hypertrophy, and diabetes mellitus type II. He had also had a basal cell carcinoma, and was allergic to cephradine.
+Medications
+Medications included prednisone, glipizide, insulin, ipratropium, albuterol, salmeterol, aspirin, spironolactone, furosemide, finasteride, and insulin.
+Epidemiological History
+The patient lived in Minnesota and was retired. He had stopped drinking alcohol five years before and, a former heavy smoker, had stopped smoking 10-15 years before. He denied illicit drug abuse and had no animal exposures. He had traveled to Las Vegas in the previous year.
+Physical Examination
+On admission, the patient was in mild respiratory distress and appeared cachectic. The temperature was 98.7°F (37.1°C), pulse 104 beats per minute, blood pressure 83/52 mm Hg, respirations 24 per minute and oxygen saturation 93%. The mucous membranes were dry, and a jugular venous pressure of 5 centimeters was noted. The cardiac rhythm was irregularly irregular; there were diffuse expiratory wheezes, mild bibasilar crackles, and decreased breath sounds in the right upper lung field. The liver edge was palpated two centimeters below the right costal margin, and the spleen tip was palpable. The remainder of the examination was normal.
+Studies
+The hematocrit was 35%, white blood cell count 5,600 cells/microliter, and platelet count 52,000/microliter. The creatinine was 2.2 mg/dL, blood urea nitrogen (BUN) 84 mg/dL, D-dimer 886 (normal range 0-95).
+Chest radiography revealed bibasilar infiltrates on the left more than right, a left pleural effusion and a right apical soft tissue density that was stable compared to previous findings.
+Computed tomography (CT) of the chest, without the admnistration of intravenous contrast ( Figure 1 ), revealed a large left pleural effusion, new sub pleural nodules in the left base, and lymph nodes in the pre-vascular space that were suspicious for metastatic disease. There was also a paramediastinal consolidation of right upper lobe that was unchanged from an earlier scan.
+Figure 1. Chest CT scan without contrast.
+Clinical Course Prior to Diagnosis
+The patient's shortness of breath increased. Oxygen requirements also increased, despite treatment with antibiotics for possible community acquired pneumonia and thoracentesis.
+Progressive pancytopenia developed (hemoglobin 8.0 g/dL, white blood cells 3,400/mm³, platelets 16,000/mm³), and blood transfusions were administered. Pre-renal azotemia resolved with hydration.
+Diagnostic Procedure(s) and Result(s)
+A thoracentesis was performed. Examination of the aspirate with potassium hydroxide (KOH) preparation did not reveal any fungal elements, but pleural fluid cytology showed yeast forms in macrophages ( Figure 2 ). No malignant cells were identified. Culture of the pleural fluid culture grew Histoplasma capsulatum .
+Pathologic examination of a bone marrow biopsy showed normocellular bone marrow. Gomori methenamine silver stains performed on the bone marrow sections were strongly positive for fungal organisms ( Figure 3 ). An increased number of histiocytes were seen, several of which contained multiple small intra-cytoplasmic organelles surrounded by a halo consistent with Histoplasma capsulatum ( Figure 4 ).
+The bone marrow biopsy culture grew Histoplasma capsulatum . Urine Histoplasma antigen was positive.
+Figure 2. Pleural fluid cytology.
+Figure 3. Gomori methenamine silver stain of bone marrow.
+Figure 4. Bone marrow biopsy with histiocytes and intra-cytoplasmic organelles.
+Treatment and Followup
+Disseminated histoplasmosis was diagnosed and the patient was treated with amphotericin B lipid complex. Shortly after initiation of therapy, cardiogenic shock and respiratory failure developed. He was intubated and ventilated, and pressors were administered; however, a sustained ventricular tachycardia occurred, followed by cardiopulmonary arrest.
+Final Diagnosis
+Disseminated histoplasmosis caused by Histoplasma capsulatum .

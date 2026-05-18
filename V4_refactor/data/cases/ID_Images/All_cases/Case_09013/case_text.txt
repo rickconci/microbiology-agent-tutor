@@ -1,0 +1,44 @@
+History of Present Illness
+2009 IDSA Fellows' Case Submission Summary: A woman with fever, chills, myalgias, and gastrointestinal symptoms.
+A woman in her sixties, developed fevers to 102°F (38.9°C) approximately 5 days before admission, associated with shaking chills, myalgias, arthralgias, abdominal pain, nausea, vomiting, and diarrhea. Three days before admission, she took ibuprofen and acetaminophen with codeine, and noted some improvement during the next 2 days. The following day, however, nausea and vomiting recurred, associated with mild fevers. She went to an emergency department.
+Past Medical History
+There was a history of hypertension, hyperlipidemia and sarcoidosis, which had been diagnosed on lung biopsy, was not active and had not been treated.
+Medications
+Medications included triamterene, low-dose acetylsalicylic acid, atorvastatin and amlodipine besylate.
+Allergies
+There were no known drug allergies.
+Social History
+She lived with her husband and was monogamous, and had 2 healthy children.
+Epidemiological History
+She worked in a professional occupation in an office, and had traveled to Lake Tahoe and the Mammoth Lake region of the Sierra Nevada mountains of California during the month before her illness, returning home approximately 10 days before admission. She drank 1-2 glasses of wine per day, and did not smoke or use illicit drugs.
+Physical Examination
+The temperature was 102°F (38.9°C), blood pressure of 100/40 mm Hg, pulse 80 beats per minute, respirations 12 breaths per minute, and oxygen saturation of 98% on 2 liters of oxygen via nasal cannula. She appeared tired, but alert and oriented and in no acute distress. The mucous membranes were dry and jugular veins were flat. Her abdomen was diffusely tender to palpation, more in the right upper quadrant; she had a palpable spleen. The remainder of the examination was normal.
+Studies
+The white blood cell count was 4300 cells per microliter (reference range (ref) 4000-11,000), with neutrophils 70%, band forms 15% (ref less than 11), lymphocytes 7%, monocytes 7%, and eosinophils 1%. The platelet count was 18,000 per microliter (ref 150,000-400,000). A specimen of blood is shown in Figure 1 . The level of serum sodium was 129 mmol/L (ref 135-145 mmol/L), aspartate aminotransferase (AST) 401 U/L (ref less than 46), alanine aminotransferase (ALT) 259 U/L (ref less than 53), total bilirubin 1.5 mg/dL (ref 0.1-1.2), direct bilirubin 0.6 mg/dL (ref less than 0.3), and alkaline phosphatase 364 U/L (ref less than 125); the remainder of the chemistry panel was normal. The urinalysis showed 2+ hemoglobin, trace leukocyte esterase, trace ketones, 1-5 white blood cells per high-powered field (HPF), 5-10 red blood cells per HPF and 1+ bacteria.
+The chest radiograph demonstrated a cardiac size at the upper limits of normal, and increased markings at both lung bases with no consolidation, effusion, atelectasis or pneumothorax.
+Figure 1. Wright stain of the peripheral blood.
+Clinical Course Prior to Diagnosis
+The abdominal ultrasound showed splenomegaly, borderline hepatomegaly and a thick-walled tender gallbladder with trace adjacent fluid, and no obvious calculi. A hepatobiliary imino-diacetic acid (HIDA) scan showed no evidence for cholecystitis or obstruction of the common duct, and mild enlargement of the liver with no filling defects.
+Diagnostic Procedure(s) and Result(s)
+While reviewing the stain for the manual platelet count, the laboratory technician identified a parasite-like organism, which was referred for review by pathologist. The morphology of the organism was consistent with Borrelia, and tick-borne relapsing fever was diagnosed ( Figure 2) .
+Figure 2. Detail of Figure 1.
+Treatment and Followup
+The patient was admitted to a telemetry bed, and doxycycline and cefotaxime were administered. On the second day, fevers and rigors increased after the doxycycline was given. Intermittent third degree atrioventricular block developed. A cardiology consultant, requested for evaluation for pacemaker placement, felt that the episodes of heart block were vagally induced because of fevers (with more effect on the atrioventricular (AV) node than the sinus node). During her hospitalization, the level of platelets returned to normal and the liver enzymes improved. She was discharged to follow-up with an out-patient Holter monitor to evaluate her cardiac rhythm.
+Discussion
+Tick-borne Relapsing Fever is usually caused by Borrelia hermsii (in higher elevations) and Borrelia turicata (in drier climates, lower elevations). Louse-borne Relapsing Fever is caused by Borrelia recurrentis, and the distribution of the disease is primarily in western United States and central Mexico, as well as in Central Asia and throughout Africa [Dworkin et al 2002].
+The host is usually the soft tick Ornithodoros hermsii and O. turicata. These ticks usually feed at night and usually in cabins that have been infested with rodents and Ornithodoros ticks. When the rodents leave, humans are the only host for the ticks to feed on. Feeding takes less than one hour and usually occurs while the human is asleep. Borrelia species are actively motile spirochetes that appear as loose coils [Roscoe and Epperly 2005].
+Tick-borne Relapsing Fever is characterized by headache, myalgias, arthralgias, shaking chills, and abdominal pain. Fevers are sudden and high (up to 102.5°F (39.2°C)) and, after about 30 minutes, are associated with chills, rigors, and hypotension [Uhlmann et al 2007]. The relapsing phenomenon is caused by antigenic variation. Immunoglobulin (Ig) M forms against one serotype, but the organism replicates and expresses new outer surface proteins. The diagnosis is usually clinical. Abnormal laboratory tests include a mild leukocytosis, elevated erythrocyte sedimentation rate (ESR), anemia, thrombocytopenia, elevated bilirubin, elevated transaminases, proteinuria, and hematuria. Electrocardiographic (EKG) findings may include a prolonged QT interval if myocarditis has developed. Occasionally, spirochetes can be found on thick and thin smears (Wright or Giemsa stains) or culture isolations. However, in order to increase the yield of the peripheral smear, blood needs to be collected during a febrile episode [Roscoe and Epperly 2005]. There is a polymerase chain reaction (PCR) test, but it is not widely available at the time of this publication [Uhlmann et al 2007].
+The treatment of Tick-borne Relapsing Fever at present is doxycycline or tetracycline. In children or pregnant women, macrolides are recommended (e.g., erythromycin). If there is central nervous system involvement, then intravenous penicillin is the treatment of choice. With all treatment options, the clinician must be mindful that a Jarisch-Herxheimer reaction may occur within 1-4 hours of the first treatment (occurs in 54%). The reaction is usually less than 4 hours in duration, but patients should be observed for 12-24 hours. Mortality for patients appropriately treated is about 5% in Louse-borne relapsing fever, and less for Tick-borne Relapsing Fever [Roscoe and Epperly 2005]. Prevention is key and is different from most tick-borne illnesses. Normal preventive measures are usually unhelpful because Ornithodoros is a soft tick, the feedings are relatively quick, and most tick bites occur at night while the patient is asleep [Dworkin et al 2002]. It is prudent to avoid contact with potential animal hosts (even dead ones), have rodent-infested areas treated by pest control specialists, and report the disease when it is found so that public health officials can disseminate warnings.
+Final Diagnosis
+Tick-borne relapsing fever, caused by Borrelia species.
+References
+Dworkin MS, Schwan TG, Anderson DE Jr, Borchardt SM. (2008) Tick-borne relapsing fever. Infect Dis Clin North Am. 22(3):449-68, viii.
+PMID:18755384 ( PubMed abstract )
+Dworkin, M.S., Schwan, T.G., and Anderson, D.E., Jr. (2002). Tick-borne relapsing fever in North America. Med Clin North Am 86, 417-433, viii-ix.
+PMID:11982310 ( PubMed abstract )
+Dworkin, M.S., Schwan, T.G., Anderson, D.E., Jr., and Borchardt, S.M. (2008). Tick-borne relapsing fever. Infect Dis Clin North Am 22, 449-468, viii.
+PMID:18755384 ( PubMed abstract )
+Roscoe, C., and Epperly, T. (2005). Tick-borne relapsing fever. Am Fam Physician 72, 2039-2044.
+PMID:16342834 ( PubMed abstract )
+Uhlmann, E.J., Seed, P.C., Schwan, T.G., and Storch, G.A. (2007). Tick-borne relapsing fever polymerase chain reaction of tick-borne relapsing fever caused by Borrelia hermsii. Pediatr Infect Dis J 26, 267-269.
+PMID:17484230 ( PubMed abstract )

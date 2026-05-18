@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: An elderly man with a painful red eye.
+A man in his seventies presented with decreased vision and a painful, red right eye. One month prior to admission, while trimming pine trees, he had suffered a penetrating injury to his right eye. He required keratoplasty, and foreign material was removed from the cornea.
+Past Medical History
+There was a history of hypertension, diabetes mellitus, coronary artery disease, and renal failure, and he was status post cataract extraction and penetrating keratoplasty.
+Medications
+Medications included insulin and antihypertensives.
+Physical Examination
+The visual acuity of the right eye was significantly diminished, with the patient perceiving hand motion only. Conjunctival injection and a hypopyon were present ( Figure 1 ).
+Figure 1. Physical finding.
+Studies
+Cultures were obtained. (See Figures 2 and 3 .)
+Figure 2. Culture plate.
+Figure 3. Culture results.
+Clinical Course Prior to Diagnosis
+Diagnostic Procedure(s) and Result(s)
+Corneal, aqueous, and vitreous cultures grew Fusarium , a septate filamentous fungus, as seen in Figure 3 . Numerous organisms are seen in Figure 4 with a corneal silver stain. Blood cultures were negative.
+Figure 4. Silver stain of cornea.
+Treatment and Followup
+The patient underwent a vitrectomy and received intravitreal vancomycin, ceftazidime, and amphotericin B. He was also given systemic itraconazole, and topical amphotericin B and vancomycin. In addition, he underwent a repeat penetrating keratoplasty.
+Discussion
+Fungal endophthalmitis generally presents more indolently than bacterial endophthalmitis. As in this case, there may be several weeks between the traumatic event and the development of symptoms.
+Candidal endophthalmitis usually occurs in the setting of candidemia. Aspergillus endophthalmitis generally occurs in immunosuppressed hosts, although it may occur in injection drug users. Mucormycosis involves the eye generally after direct extension from a sinus infection. Fusarium endophthalmitis may follow traumatic inoculation, as seen here.
+Final Diagnosis
+Fusarium endophthalmitis.
+References
+Kernt, M., and Kampik, A. (2010). Endophthalmitis: Pathogenesis, clinical presentation, management, and perspectives. Clin Ophthalmol 4, 121-135.
+PMID:20390032 ( PubMed abstract )
+Wykoff, C.C., Flynn, H.W., Jr., Miller, D., Scott, I.U., and Alfonso, E.C. (2008). Exogenous fungal endophthalmitis: microbiology and clinical outcomes. Ophthalmology 115, 1501-1507, 1507 e1501-1502.
+PMID:18486220 ( PubMed abstract )

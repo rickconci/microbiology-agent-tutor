@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2003 Summary: An HIV-positive man with fever, weight loss, and nonproductive cough.
+A man presented with a one-month history of fever, chills, sweats at various times of day, poor appetite, nausea, arthralgias, eighteen-pound (8.2 kilograms) weight loss, and a nonproductive cough without hemoptysis. The patient also complained of dysuria and chronic back pain. He denied headaches, visual changes, sore throat, neck pain, diarrhea and abdominal pain. He had been diagnosed with human immunodeficiency virus (HIV) infection two decades earlier and had no history of opportunistic infections or treatment with antiretroviral medications.
+Past Medical History
+He had HIV infection with recent CD4 T-lymphocyte cell count of 505 cells/microliter, viral load 88,000 RNA copies/milliliter, anti-phospolipid antibody (APLA) syndrome with multiple deep venous thromboses, and hepatitis C virus infection. He had had an inferior vena cava filter placed six years before admission.
+Medications
+Medications included acetaminophen for pain, quinapril, amlodipine for hypertension, and warfarin for APLA syndrome, none of which had been recently changed or added.
+Epidemiological History
+He lived in Texas, had several tattoos, and was bisexual with no partners within the last month. He owned dogs that appeared to be healthy. He denied intravenous drug use and had stopped smoking several years before.
+Physical Examination
+The patient appeared ill. The temperature was 38.2°C (100.8°F), blood pressure 150/100 mm Hg, and the oxygen saturation was normal while breathing ambient air. There was trace pitting edema in his legs, prominent palmar erythema and multiple non-pruritic lesions with peripheral erythema distributed only on the upper back. The skin lesions are shown in Figures 1 and 2 .
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The level of hemoglobin was 12.3 g/dL, platelets 98,000/mm³, and white blood cell count (WBC) 3,400 cells/mm³, with a normal differential. The INR ws 2.4 on warfarin, and the levels of electrolytes, liver function tests, and lactate dehydrogenase were normal. Computed tomography (CT) of the abdomen showed splenomegaly. The chest radiograph is shown in Figure 3 .
+Figure 3. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Broncho-alveolar lavage was performed and the skin and bone marrow were biopsied.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the bone marrow biopsy showed one small, non-caseating granuloma, and that of the skin biopsy showed yeast forms. Culture of a broncho-alveolar lavage specimen grew Histoplasma capsulatum .
+Treatment and Followup
+The patient was treated with two weeks of amphotericin B after which he was started on oral itraconazole. He experienced fever and rigors when amphotericin B was administered, despite pretreatment with diphenhydramine and meperidine, but agreed to continue treatment. After discharge, his fevers, rash, arthralgias, and cough continued to improve slowly. Additionally, given his first opportunistic infection, the patient was started on antiretrovirals despite his CD4 T-lymphocyte count.
+Discussion
+Histoplasmosis is common in the central and south central United States and occurs in approximately 5% of HIV-positive patients in endemic areas. At diagnosis, most cases in HIV-positive patients are disseminated. Clinical presentation most commonly includes fever and weight loss. Pulmonary complaints are seen in over 50% of patients, but a variety of other organs can be affected, with manifestations including retinitis, prostatitis, pancreatitis, colitis, and, rarely, skin lesions. The median CD4 T-lymphocyte cell count in HIV-positive patients with histoplasmosis is 50 cells/mm³; there are few reports of histoplasmosis in HIV-positive patients with CD4 cell counts >500/mm³. The skin lesions in this patient are a rare occurrence in any HIV-positive patient, but particularly one who has a CD4 T-lymphocyte cell count over 500 cells/mm³ and no previous history of opportunistic infections.
+The diagnosis is made by blood and bone marrow cultures, which have 90% sensitivity. Polysaccharide antigen tests have sensitivity of 90% in urine and 75% in blood from HIV-positive patients. At the time of this publication, treatment is with amphotericin B initially until clinical improvement occurs (typically 7-14 days), then with itraconazole. Lifetime therapy is typically used to prevent relapse although no studies have been done in HIV-positive patients with CD4 T-lymphocyte cell count over 500 cells/mm³.
+Final Diagnosis
+Disseminated histoplasmosis (including cutaneous, bone marrow, and pulmonary involvement) caused by Histoplasma capsulatum in an HIV-positive patient with no prior history of opportunistic infections and a CD4 T-lymphocyte cell count of 505 cells/mm³.

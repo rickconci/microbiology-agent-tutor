@@ -1,0 +1,38 @@
+History of Present Illness
+2007 June Featured Case Summary: A college student with fever and headache, approximately six months after a trip to East Africa.
+A man in his twenties presented in the late fall with fever, myalgias, and headache for one week. Earlier in the year, he had spent the four months of his spring semester in East Africa, returning in June . He took mefloquine weekly while in Africa, but had stopped the medication immediately upon his return . Approximately four weeks later, he developed temperatures to 103°F (39.4°C), myalgias and headache. Malaria, caused by Plasmodium falciparum , was diagnosed and atovaquone-proguanil and quinine were administered, with improvement.
+Approximately four months later, temperatures to 101.7°F (38.7°C), myalgias and headache developed again. The symptoms were similar to those several months before , and followed a temporal pattern, with the most intense symptom occurring every 48 hours . He presented the following week for evaluation.
+Past Medical History
+The patient had been in good health until his trip to Africa . While in Kenya, during his second month in Africa, he was hospitalized for a few days because of temperatures to 103°F (39.4°C), of unknown origin; testing at that time was negative for malaria.
+Epidemiological History
+He had been born in the Midwestern United States and attended a university in the Northeast. He had studied in several locations throughout East Africa, including prolonged periods in Ethiopia, Kenya, Rwanda, Tanzania and Uganda. While there, he had received several bites from mosquitoes, particularly while sleeping uncovered in Northern Uganda. Since returning to the U.S., he had gone camping in Wisconsin and on Cape Cod , but did not notice any tick bites.
+Physical Examination
+The patient appeared fatigued and was sensitive to light, preferring a darkened room. The blood pressure was 120/58 mm Hg, pulse 76 beats per minute, and the temperature 97.8°F (36.6°C). The remainder of the examination was normal and there was no meningismus, pallor, hepatosplenomegaly, or notable skin rashes.
+Studies
+The white blood cell count was 6,100 cells per cubic millimeter, with 63% neutrophils, 10% band forms, 16% lymphocytes, 8% monocytes, and 3% eosinophils; the hematocrit was 40%, platelet count 94,000 per cubic millimeter , and serum transaminase levels were normal. The total bilirubin was 1.4 mg per deciliter and direct bilirubin 0.5 mg per deciliter , with reference ranges of up to 1.0 and 0.4 mg/dl respectively. Stains of peripheral blood smears are shown in Figures 1 through 4 .
+Figure 1. Stain of whole blood specimen.
+Figure 2. Thin smear of whole blood specimen.
+Figure 3. Thin smear.
+Figure 4. Thin smear.
+Diagnostic Procedure(s) and Result(s)
+Thin preparations of blood smears reveal intracellular forms with morphology most consistent with Plasmodium vivax ( Figures 3 and 4 ). Parasitemia was estimated at 0.5%.
+Treatment and Followup
+Chloroquine was administered for three days with complete resolution of symptoms. The serum level of glucose-6-phosphate dehydrogenase (G6PD) was normal, and the patient subsequently received primaquine for 14 days.
+Discussion
+Malaria is a serious concern for patients who travel to and from endemic regions. Malaria is a serious concern for patients who travel to and from endemic regions. Unfortunately, recommended chemoprophylaxis with blood schizontidicides has been shown to fail, particularly with Plasmodium vivax and P. ovale , which can form dormant hepatic hypnozoites. When this patient presented four weeks after returning from Africa, malaria was rapidly diagnosed at another facility, attributed to Plasmodium falciparum , and treatment was administered. Based on that species diagnosis, no therapy targeting hepatic hypnozoites was administered. Four months later, the patient represented with malaria.
+Differentiation between Plasmodium vivax and P. ovale can be difficult on morphology alone. The round gametocyte seen in this case ( Figure 5 ) is most consistent with P. vivax . The trophozoite has an amoeboid form ( Figure 6 ). Between 50-70% of malaria cases in United States are caused by P. falciparum , 20-40% by P. vivax ; P. ovale and P. malariae account for lesser percentages. (See references.) P. vivax has a substantial presence in Ethiopia (up to 30% in literature, compared with 60% malarial cases caused by P. falciparum ) and other Horn of Africa countries, where the presence of the duffy blood group is higher than that found in sub-Saharan Africa. However, P. vivax has been reported in cases originating in Kenya, and in patients with negative duffy blood group typing.
+Final Diagnosis
+Malaria, most consistent with Plasmodium vivax infection.
+References
+Cherenet, T., Sani, R.A., Speybroeck, N., Panandam, J.M., Nadzr, S., and Van den Bossche, P. (2006). A comparative longitudinal study of bovine trypanosomiasis in tsetse-free and tsetse-infested zones of the Amhara Region, northwest Ethiopia. Vet Parasitol 140, 251-258.
+PMID:16675127 ( PubMed abstract )
+Kassa, D., Petros, B., Mesele, T., Hailu, E., and Wolday, D. (2006). Characterization of peripheral blood lymphocyte subsets in patients with acute Plasmodium falciparum and P. vivax malaria infections at Wonji Sugar Estate, Ethiopia. Clin Vaccine Immunol 13, 376-379.
+PMID:16522780 ( PubMed abstract )
+Ryan, J.R., Stoute, J.A., Amon, J., Dunton, R.F., Mtalib, R., Koros, J., Owour, B., Luckhart, S., Wirtz, R.A., Barnwell, J.W., et al. (2006). Evidence for transmission of Plasmodium vivax among a duffy antigen negative population in Western Kenya. Am J Trop Med Hyg 75, 575-581.
+PMID:17038676 ( PubMed abstract )
+Schunk, M., Kumma, W.P., Miranda, I.B., Osman, M.E., Roewer, S., Alano, A., Loscher, T., Bienzle, U., and Mockenhaupt, F.P. (2006). High prevalence of drug-resistance mutations in Plasmodium falciparum and Plasmodium vivax in southern Ethiopia. Malar J 5, 54.
+PMID:16817953 ( PubMed abstract )
+Schwartz, E., Parise, M., Kozarsky, P., and Cetron, M. (2003). Delayed onset of malaria--implications for chemoprophylaxis in travelers. N Engl J Med 349, 1510-1516.
+PMID:14561793 ( PubMed abstract )
+Skarbinski, J., James, E.M., Causer, L.M., Barber, A.M., Mali, S., Nguyen-Dinh, P., Roberts, J.M., Parise, M.E., Slutsker, L., and Newman, R.D. (2006). Malaria surveillance--United States, 2004. MMWR Surveill Summ 55, 23-37.
+PMID:16723971 ( PubMed abstract )

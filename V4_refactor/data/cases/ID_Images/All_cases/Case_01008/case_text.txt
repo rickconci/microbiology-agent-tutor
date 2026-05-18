@@ -1,0 +1,32 @@
+History of Present Illness
+IDSA 2001 Case Summary: A man in his sixties with swollen joints.
+A man in his sixties with a history of an inflammatory arthritis presented with a 2-month history of swollen joints, especially the left knee. He received steroid therapy with initial improvement in his symptoms.
+However, one week prior to admission he developed fevers, night sweats, increasing dyspnea, and a nonproductive cough. The patient also reported a 20-pound weight loss over the previous 2 months.
+Past Medical History
+Other medical problems included myelodysplasia, chronic obstructive pulmonary disease (COPD, and seronegative inflammatory arthritis. An arthrocentesis 10 weeks before admission had revealed inflammatory fluid without crystals. Cultures for bacteria, acid-fast bacilli (AFB) and fungi were negative. He was status post splenectomy several years previously.
+Medications
+He had taken prednisone for 2 months; methotrexate for 1 month (three weeks previous to admission) and hydroxyurea.
+Physical Examination
+He was afebrile and appeared frail, but not toxic-appearing. There was a white oral exudate consistent with mild thrush, and diffuse bilateral fine rales in the lungs. The left knee was tender, with a palpable effusion.
+Studies
+Arterial blood gases (ABG) obtained while breathing ambient air revealed pH 7.52, partial pressure of oxygen (pO2) 61, and partial pressure of carbon dioxide (pCO2) 32. The white blood cell count (WBC) was 22,500/mm³. A chest radiograph is shown in Figure 1 .
+Figure 1. Chest radiograph at presentation.
+Clinical Course Prior to Diagnosis
+Arthrocentesis of the left knee was performed and analysis of the synovial fluid showed a white blood cell count (WBC) of 38,100 cells/mm³ (97% polymorphonuclear leukocytes, 3% monocytes) and red blood cell count of 700 cells/mm³. Gram stains of his sputum ( Figure 2 ) and his synovial fluid ( Figure 3 ) are shown.
+Figure 2. Gram stain of sputum.
+Figure 3. Gram stain of synovial fluid.
+Diagnostic Procedure(s) and Result(s)
+Gram stain and Gomori's methenamine silver (GMS) stain of sputum and synovial fluid demonstrated abundant broad-based budding yeast forms. Cultures grew Blastomyces dermatitidis . (See Figures 4 and 5 for GMS stain of synovial fluid and synovial fluid culture preparation.)
+Figure 4. GMS stain of synovial fluid.
+Figure 5. Synovial fluid culture preparation.
+Treatment and Followup
+Itraconazole was administered as soon as broad-based yeast were identified from sputum and synovial fluid, with improvement.
+Discussion
+Blastomyces dermatitidis is endemic in many parts of the United States and appears to be the most common endemic mycosis in East Tennessee. After entering by inhalation, B. dermatitidis can cause both symptomatic pneumonitis and asymptomatic lung masses. Dissemination to the skin, bones, synovium, meninges, and brain can occur in both immunocompetent and immunosuppressed patients.
+Final Diagnosis
+Disseminated blastomycosis caused by Blastomyces dermatitidis in an immunocompromised patient.
+References
+Lemos, L.B., Guo, M., and Baliga, M. (2000). Blastomycosis: organ involvement and etiologic diagnosis. A review of 123 patients from Mississippi. Ann Diagn Pathol 4, 391-406.
+PMID:11149972 ( PubMed abstract )
+Oppenheimer, M., Embil, J.M., Black, B., Wiebe, L., Limerick, B., MacDonald, K., and Trepman, E. (2007). Blastomycosis of bones and joints. South Med J 100, 570-578.
+PMID:17591310 ( PubMed abstract )

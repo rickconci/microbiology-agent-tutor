@@ -1,0 +1,38 @@
+History of Present Illness
+Summary: An elderly man with fatigue, fever, and sweats.
+A man in his seventies presented with a one-month history of progressive fatigue. He noted diffuse arthralgias and had had a poor appetite with a 7-pound weight loss over the preceding three weeks. During the prior week, he had developed low-grade fevers with chills and drenching sweats.
+Past Medical History
+He had a history of prostate cancer for which a radical prostatectomy had been performed. He also had gastroesophageal reflux, diverticular disease with gastrointestinal bleeding in the past, and a history of bilateral total knee replacements.
+Medications
+Medications included proton pump inhibitor and aspirin.
+Allergies
+There were no allergies.
+Social History
+The patient was married and retired.
+Epidemiological History
+The patient lived in an urban area of New England. He had traveled to Western Europe three months before becoming ill. He denied recent sick contacts, but did report playing with his grandchildren, including one from Central America. He consumed 1-2 alcoholic beverages per day, never smoked, and had no pets.
+Physical Examination
+The patient was in no distress and the temperature was normal. There were non-tender mobile nodes (1cm by 1cm) present in the posterior cervical chain and left inguinal region. There was no icterus, rash, ecchymoses, or petechiae. The remainder of the dental, pulmonary, cardiac, and abdominal examinations was normal.
+Studies
+The white blood cell count was 23,300 cells/mm³ (13% segmented cells, 1% bands, 60% lymphocytes, 16% atypical cells, 9% monocytes, and 1% prolymphocytes); hematocrit 42.5%; platelets 247,000/mm³ with clumps, prothrombin time 12.5 seconds, and partial thromboplastin time 30.3 seconds. The creatinine was 0.9 mg/dL, alanine aminotransferase (ALT) 455 U/liter, aspartate aminotransferase (AST) 447 U/liter, alkaline phosphatase 687 U/liter, total bilirubin 1.6 mg/dL, direct bilirubin 0.8 mg/dL, and lactate dehydrogenase 526 U/liter.
+Clinical Course Prior to Diagnosis
+Serologic tests were sent and flow cytometry was performed on peripheral blood. Ultrasonography of the right upper quadrant and computed tomography (CT) of the abdomen were performed ( Figures 1 and 2 ).
+Figure 1. CT scan of the abdomen.
+Figure 2. CT scan of the abdomen.
+Diagnostic Procedure(s) and Result(s)
+Testing for cytomegalovirus (CMV) Immunoglobulin G was positive, consistent with prior infection. Testing for Hepatitis B surface antigen, antibody to hepatitis B surface antigen and hepatitis C antibody was negative. Flow cytometry of peripheral blood showed T-cell lymphocytosis with an inverted CD4:CD8 ratio. The serum protein electrophoresis (SPEP) was normal.
+Ultrasonography of the liver showed cholelithiasis, without cholecystitis, and a fatty liver. CT scanning of the abdomen demonstrated mesenteric adenopathy and colonic wall thickening with multiple low attenuation foci within the spleen, as well as cholelithiasis, diverticulosis and evidence of past radical prostatectomy ( Figures 1 and 2 ).
+The heterophile test was positive. Epstein Barr virus (EBV) serology was consistent with acute Epstein Barr virus (EBV) infection: Anti-VCA IgG 640, anti-VCA IgM 20, early antigen > 640, and antinuclear antigen <10.
+Treatment and Followup
+The patient recovered uneventfully without additional treatment.
+Discussion
+Epstein Barr virus (EBV) is a pathogen found throughout the world with great geographical variation in its pattern of disease. In much of the world, where poor hygiene and crowding are common, virtually all people are seropositive by age 4 years. Less is known about infection in middle and late adulthood, since less than 10% of persons over age 60 years lack Epstein-Barr virus-specific antibodies and are therefore at risk.
+Older adults infrequently present with sore throat, peripheral lymphadenopathy, and splenomegaly and are more likely to present with enigmatic fever, jaundice, hepatitis, or neurologic disorders. Elderly hosts typically have fewer atypical lymphocytes and less prominent leukocytosis and lymphocytosis. Heterophile-negative acute EBV infection is also more common in the elderly and young children. Older individuals therefore are more likely to undergo unnecessary tests, such as biopsies of lymph nodes, bone marrow, liver, temporal arteries. Thus clinicians must be alert to the diagnosis.
+EBV syndromes are generally self-limited, and there is no role for acyclovir in this situation.
+Final Diagnosis
+Acute mononucleosis due to Epstein Barr virus (EBV) infection in an elderly adult.
+References
+Hunt, D.P., Thabet, A., and Rosenberg, E.S. (2010). Case records of the Massachusetts General Hospital. Case 29-2010. A 29-year-old woman with fever and abdominal pain. N Engl J Med 363, 1266-1274.
+PMID:20860509 ( PubMed abstract )
+Okano, M., and Gross, T.G. (2011). Acute or Chronic Life-Threatening Diseases Associated With Epstein-Barr Virus Infection. Am J Med Sci.
+PMID:22104426 ( PubMed abstract )

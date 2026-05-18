@@ -1,0 +1,30 @@
+History of Present Illness
+Summary: A teenager with osteosarcoma and a question of an "insect bite."
+A teenaged patient with a history of osteosarcoma of left humerus, 4 months status post resection and bone grafting. The most recent course of chemotherapy was 1 week prior to admission and included methotrexate, doxorubicin and cisplatin. One day before presentation, an “insect bite” on left forearm appeared. The night before, the patient awakened because of sweats and a fever to 102°F (38.9°C), and noted that the insect bite was larger and darker in the center. The patient was seen in an orthopedic clinic, noted to have temperature of 101.2°F (38.4°C, and admitted to the hospital.
+Past Medical History
+There was a history of osteosarcoma of left humerus.
+Medications
+Current medications included tetracycline and granulocyte colony-stimulating factor (G-CSF).
+Allergies
+The patient was allergic to amoxicillin (reaction unknown).
+Epidemiological History
+There was no history of alcohol, tobacco or illicit drug use. The patient lived with parents and a younger sibling.
+Physical Examination
+The temperature was 101.2°F (38.4°C), blood pressure 100/60 mm Hg, pulse 96 beats per minute, and respiratory rate 16 breaths per minute. There was alopecia, a supple neck, and clear lungs; the cardiac examination revealed a regular rate and rhythm with 2/6 systolic ejection murmur. The abdomen was soft, without masses or tenderness, and there was no lymphadenopathy. The left upper arm was in a brace, without erythema, swelling or tenderness. The left forearm revealed an area of erythema (6 cm by 4 cm) with necrosis (1 cm area) in the center ( Figure 1 ), and was slightly tender.
+Figure 1. Physical finding.
+Studies
+The white blood cell count was 400 cells/mm³, hematocrit 30%, and platelet count 16,000/mm³.
+Diagnostic Procedure(s) and Result(s)
+A punch biopsy of the lesion was performed, and the specimen was sent for culture and Gram’s stain.The gram stain showed numerous gram-negative rods ( Figure 2 ) and the culture grew Pseudomonas aeruginosa .
+Figure 2. Gram stain of skin biopsy.
+Treatment and Followup
+The patient was empirically started on ticarcillin-clavulinic acid and gentamicin, and defervesced within 48 hours.
+Discussion
+Ecthyma gangrenosum is characteristically a round, indurated area with a black eschar and surrounding erythema, as seen in this case. The lesion is usually painless. Although ecthyma gangrenosum is classically associated with Pseudomonas aeruginosa sepsis, similar lesions may be seen in sepsis associated with other bacteria, as well as with fungi (such as Candida , Mucor , and Aspergillus ). Thus, a stain and culture of a biopsy of the lesion may be helpful in evaluating the underlying etiology.
+Final Diagnosis
+Ecthyma gangrenosum secondary to Pseudomonas aeruginosa .
+References
+del Giudice, P., Cua, E., Bernard, E., Chichmanian, R.M., Oregionni, O., Brucker, F., and Dellamonica, P. (2006). Pseudomonas aeruginosa ecthyma gangrenosum and facial cellulitis complicating carbimazole-induced agranulocytosis. Arch Dermatol 142, 1663-1664.
+PMID:17179011 ( PubMed abstract )
+Fergie, J.E., Patrick, C.C., and Lott, L. (1991). Pseudomonas aeruginosa cellulitis and ecthyma gangrenosum in immunocompromised children. Pediatr Infect Dis J 10, 496-500.
+PMID:1876464 ( PubMed abstract )

@@ -1,0 +1,67 @@
+History of Present Illness
+2016 IDWeek Fellows' Day Case Presentation: A man in his sixties, with a history of hypertension and atrial fibrillation, presented with a two-day history of nausea, vomiting, and diarrhea. He also reported mild substernal chest pain and a left-sided facial droop.
+Past Medical History
+He had hypertension and atrial fibrillation.
+Medications
+His medications were digoxin, metoprolol, verapamil, hydrochlorothiazide, warfarin, and lisinopril.
+Allergies
+He had no allergies.
+Epidemiological History
+He lived alone in the U.S. Northeast and had recently retired from a position working outside. He drank six to eight beers weekly, never smoked and did not use drugs. He had not been sexually active for years and had never had an HIV test. He had no exposure to tuberculosis. He had no significant family history, exposures to animals or recent travel. He bought his food and beverages from a grocery store.
+Physical Examination
+The patient appeared well. The blood pressure was 138/88 mm Hg, pulse 89 beats per minute, temperature 98.7ºF (37.1ºC), and respiratory rate 20 breaths per minute. He was alert and oriented to self, place and time. He had facial droop, including the forehead and mouth, on the left side. There was no sensory deficit. The gag reflex was present. Power, tone and coordination of extremities, and the remainder of the examination, were normal.
+Studies
+Results of routine blood tests were normal. A chest radiograph revealed mild bibasilar atelectasis. Computed tomography (CT) of the head showed no abnormality.
+Clinical Course Prior to Diagnosis
+The patient was admitted to the hospital. A presumptive diagnosis of Bell’s palsy was made and corticosteroids were administered.
+On the second hospital day, acute confusion with visual hallucinations developed that was attributed to the steroids. Within the next 24 hours, he became unresponsive and apneic, requiring intubation and transfer to the intensive care unit. Arterial blood gas analysis revealed a pH 7.20 (reference range 7.35-7.45), partial pressure of carbon dioxide 81 mm Hg (reference range 35-45), partial pressure of oxygen 76 mm Hg (reference range 80-100), bicarbonate of 30 mEq/L (reference range 22-26). The temperature rose to 105ºF (40.6ºC), hypotension occurred and obtundation persisted. The neurological examination revealed rightward gaze deviation, no gag reflex, and a left facial palsy.
+Repeat CT of the head and CT-angiogram of head and neck showed no abnormality.
+Magnetic resonance imaging (MRI) of the brain without contrast ( Figure 1 ) revealed a 4 mm focal abnormality in the left medulla with a small amount of surrounding hemorrhage and edema. Brain MRI imaging with gadolinium ( Figure 2 ) and post-contrast ( Figure 3 ) were obtained.
+Figure 1. Axial T2 MRI scan.
+Figure 2. Sagittal T1 MRI scan, VIBE sequence, with reconstruction.
+Figure 3. A post-contrast coronal T2 MRI FLAIR image.
+Diagnostic Procedure(s) and Result(s)
+The axial T2 MRI images shown in Figure 1 revealed a 4.27 mm focus of susceptibility centered in the left posterior medulla, which had extensive surrounding T2 prolongation. There was local swelling of the brainstem, but no significant mass effect on the fourth ventricle. Figure 2 , a sagittal T1 MRI VIBE sequence with reconstruction, showed the multifocal enhancement in the brainstem. Figure 4 , a post-contrast coronal T2 MRI FLAIR image, demonstrated leptomeningeal enhancement scattered over the surface of the frontal lobes. The MRI findings were thought to be concerning for an infectious or metastatic process.
+The white cell count was 12,200 cells per cubic millimeter with 90.9% neutrophils, 4.3% monocytes and 4.0% lymphocytes.
+A lumbar puncture (LP) was performed and revealed an elevated opening pressure at 29 cm of water. Analysis of the cerebral spinal fluid (CSF) revealed a white cell count of 83 per cubic millimeter, with 47% segmented neutrophils, 40% lymphocytes, and 12% monocytes; the level of protein was 250 mg/dl and glucose was 20 mg/dl.
+One set of blood cultures and culture of the CSF were positive for gram positive rods, identified as Listeria monocytogenes .
+Figure 4. MRI (Figure 3, with arrows added) showing leptomeningeal enhancement in the frontal lobes.
+Treatment and Followup
+Broad spectrum antibiotics (vancomycin, ceftriaxone, and ampicillin) were administered empirically for suspected meningitis. Gentamicin was added to ampicillin for synergy against possible Listeria monocytogenes when one set of blood cultures revealed gram positive rods. After culture of the CSF confirmed Listeria monocytogenes , the antibiotics were changed to ampicillin and gentamicin only.
+Despite therapy, the patient had persistent, severe hypercapneic respiratory failure associated with no gag reflex, a weak cough, and an inability to clear secretions. Despite multiple bronchoscopies, he did not improve and ultimately died.
+Discussion
+Central nervous system (CNS) infections with Listeria typically occur in the elderly, those with immunosuppression, neonates and pregnant women, and may rarely impact normal hosts. Meningoencephalitis is the most common CNS manifestation of infection and can range from mild disease with fever and confusion to life threatening coma. Many patients do not have signs of meningeal irritation. Brain abscess and rhombencephalitis (brainstem encephalitis) are less common CNS manifestations. When affecting the brainstem, the pons and medulla are involved 64% of the time [Armstrong and Fung, 1993]. Listeria rhombencephalitis (LRE) may cause febrile illness in previously well adults with abrupt onset of asymmetric cranial nerve palsies and encephalopathy, with rapid progression to a fatal outcome, first described in the literature in 1957 [Eck, 1957]. LRE follows a biphasic course and is associated with a high rate of respiratory failure (41%), mortality (51%) and neurological sequelae (61%) [Armstrong and Fung, 1993; Pospescu et al, 2004]. Prognosis varies depending on the specific brain lesion, and the recovery is very unpredictable [Stankiewics and Pazevic, 1989].
+This case of LRE included central alveolar hypoventilation syndrome as a consequence of autonomic respiratory failure, also known as Ondine’s curse, associated with sudden apnea and persistent severe hypercapneic respiratory failure.
+Ondine’s curse (OC) is an eponym used to describe a disease entity that prevents autonomic respiration while a person is sleeping. It can be congenital or acquired. The acquired central hypoventilation syndrome is a result of tumorous, traumatic, ischemic, or inflammatory-induced lesions in the brainstem, which directly diminish the ability of the brainstem to maintain respiratory drive during sleep resulting in central sleep apnea [Eckert et al., 2007; Muzumdar and Arens, 2008].
+The pathophysiologic explanation of acquired OC is due to the lesion affecting the nuclei responsible for the control of the autonomic respiratory center in the medulla [Giangaspero et al., 1988] adjacent to nuclei of the lower cranial nerves (VIII, IX and X) [Frith et al., 1987]. When the lesion extends to the cranial nerve nuclei in the brainstem it results in cranial nerve palsies. The most commonly affected cranial nerve (CN) deficits are CN VI and VII, which correspond to the deficit seen in our patient, who had a CN VII palsy on admission. Our patient had an absent gag reflex (CN IX and X). Patients with OC may also develop nystagmus, dysphagia and dysarthria [Stankiewics and Pazevic, 1989].
+The evaluation of patients with suspected LRE requires a thorough history and neurological exam. The differential diagnosis of rhombencephalitis (RE) includes a range of infectious and noninfectious diseases, including but not limited to multiple sclerosis, Bechet’s disease, paraneoplastic syndromes, infarction, Epstein–Barr virus, and tuberculosis. Features that increase suspicion for Listeria infection causing RE include cranial nerve palsies and diminished level of consciousness [Moragas et al., 2011]. Work-up for suspected LRE includes blood cultures, lumbar puncture and MRI of the brain. In the setting of fever and high clinical suspicion for meningitis, empiric treatment with broad spectrum antibiotics including ampicillin should be administered. Diagnosis is based upon cerebrospinal fluid and blood cultures growing Listeria monocytogenes , which should be treated with ampicillin and gentamicin. The diagnostic imaging of choice is brain MRI, as CT is often normal early in the disease process, as it was in this case. MRI with gadolinium was crucial for localizing the brainstem lesion in our patient and enabling the recognition of central alveolar hypoventilation syndrome as the cause of our patient’s sudden respiratory failure and subsequent difficulties with weaning from the ventilator.
+One of the most critical complications of Listeria rhombencephalitis is respiratory failure, which occurs at a high rate and has grave consequences as our case highlights. Management strategies in cases of OC include noninvasive ventilation via face mask or nasal mask if less than 12 hours of respiratory support is needed, negative pressure ventilators, and diaphragmatic pacing [Muzumdar and Arens, 2008; Naughton, 2006]. Diaphragmatic pacing involves implanting a pacing electrode around the phrenic nerve and has a success rate of 50-70% in case series [Schestatsky and Fernandes, 2004; McNicholas, 1997]. Phrenic pacing has advantages compared with mechanical ventilation as it provides more natural breathing dynamics, reduces the occurrence of respiratory infection and other complications associated with long-term ventilation and improves quality of life [Velazco et al., 2012]. Pharmacological treatments have been used in OC to activate the remaining respiratory nuclei through the induction of metabolic acidosis. Trazodone, acetazolamide, medroxyprogesterone, protyptilin, clomipramine, tiroxine and caffeine have been used in cases with varying success [Schestatsky and Fernandes, 2004].
+Our patient required mechanical ventilation support throughout to manage central alveolar hypoventilation syndrome. He failed extubation twice including a trial of extubation to intelligent volume assured pressure support (iVAPS) prior to proceeding with tracheostomy placement. In our case, the patient was not controlled on iVAPS most likely due to his hemodynamic instability and increased secretions requiring constant suctioning.
+Our case highlights the importance of recognizing key clinical features of Listeria rhombencephalitis in a previously healthy patient such as cranial nerve palsies and encephalopathy, to initiate timely antimicrobial treatment, thereby reducing the risk for progression of the brainstem infection and Ondine’s curse. MRI is crucial in the identification of characteristic brainstem lesions. Institution of artificial ventilation in the setting of central alveolar hypoventilation syndrome is vital in the management of accompanying respiratory failure.
+Final Diagnosis
+Rhombencephalitis caused by Listeria monocytogenes .
+References
+Armstrong R and Fung P. (1993) Brainstem encephalitis (rhombencephalitis) due to listeria monocytogenes: case report and review. Clinical Infectious Diseases 1993;16:689-702.
+PMID:8507761 ( PubMed abstract )
+Eck H. (1957) Encephalomyelitis listeriaca apostematosa. Schweiz Med Wochenschr 1957;87:210-4.
+PMID:13432650 ( PubMed abstract )
+Eckert D. et al. Central sleep apnea: Pathophysiology and Treatment. Chest 2007;131(2):595-607.
+PMID:17296668 ( PubMed abstract )
+Frith R., Buchanan P., Glasgow G. Ondine’s curse in listeria monocytogenes brain stem encephalitis. J Neurol Neurosurg Psychiatry 1987;50(10):1383-1384.
+PMID:3681329 ( PubMed abstract )
+Giangaspero F. et al. Failure of autonomic control of ventilation (Ondine’s curse) associated with viral encephalitis of the brainstem: a clinicopathologic study of one case. Clinical Neuroathology 1988; 7(5):234-237.
+PMID:3208461 ( PubMed abstract )
+McNicholas W. Impact of sleep in respiratory failure. Eur Respir J 1997;10:920-933.
+PMID:9150336 ( PubMed abstract )
+Moragas M. et al. Rhomencephalitis: a series of 97 patients. Medicine 2011;90:256-61.
+PMID:21694648 ( PubMed abstract )
+Muzumdar H. and Arens R. Central Alveolar Hypoventilation Syndromes. Sleep Med Clin 2008; 3(4):601–615.
+PMID:20556229 ( PubMed abstract )
+Naughton M. 2006. Enclycopedia of Respiratory Medicine. Chapter 6: Sleep disorders - Central Apnea (Ondine’s Curse). Elsevier Ltd.
+Popescu G. et al. Treatment difficulties of a listerial rhombencephalitis in an adult patient allergic to penicillins. J Clin Pathol 2004;57:665-666.
+PMID:15166280 ( PubMed abstract )
+Schestatsky P. and Fernandes L. Acquired ondine’s curse. Arq Neuropsiquiatr 2004;62(2B):523-527.
+PMID:15273856 ( PubMed abstract )
+Stankiewics J and Pazevic J. Acquired ondine’s curse. Otolaryngol Head Neck Surgery 1989;101:611-613.
+PMID:2512547 ( PubMed abstract )
+Velazco J. et al. Phrenic Nerve Pacing: Current Concepts. Current Issues and Recent Advances in Pacemaker Therapy. InTech, 2012. Print.

@@ -1,0 +1,27 @@
+History of Present Illness
+2006 May Featured Case Summary: A woman with skin lesions several years after a lung transplantation.
+A woman in her fifties with a history of lung transplantation was well until approximately three weeks before admission when the medial malleolus of her left ankle bumped against a portable oxygen tank. A few days later, she noticed redness, warmth, tenderness, and swelling over the ankle that progressed up her leg to the level of the knee. She was admitted to a community hospital, cellulitis was diagnosed, and cefazolin and metronidazole were administered. When she failed to improve, the regimen was changed to vancomycin and imipenem but the redness and tenderness continued to advance. The patient was transferred to a tertiary medical center for further evaluation and treatment.
+Past Medical History
+The patient had a long history of interstitial pulmonary fibrosis for which transplantation of the right lung had been performed several years before. Diabetes mellitus had developed following steroid administration. Several months before admission, cytomegalovirus (CMV) pneumonia had been diagnosed.
+Medications
+The medications included prednisone (20 mg) daily, mycophenolate, and tacrolimus.
+Epidemiological History
+She resided in the northeastern United States and denied recent travel, animal contact, natural water exposure or gardening.
+Physical Examination
+The patient appeared chronically unwell. Her face was cushingoid and breathing was moderately labored with pursed lips. The temperature was 98.1°F (36.7°C), pulse 116 beats per minute, blood pressure 122/76 mm Hg, respirations 20 per minute, and oxygen saturation 95% on 50% oxygen via mask. There were decreased breath sounds and fine crackles throughout the left chest. The left leg was swollen, red, and warm from the ankle to immediately below the knee. The redness was confluent in the central part of the shin but at the edges had more of a nodular character ( Figures 1 and 2 ).
+Erythematous nodules (one-centimeter in diameter) were also noted on the deltoid of the left shoulder and distal clavicle of the right shoulder ( Figure 3 ). The rest of the examination was normal.
+Figure 1. Skin findings.
+Figure 2. Left leg lesions.
+Figure 3. Right shoulder lesion.
+Studies
+The white blood cells count was 14,400 cells/mm³ (93% neutrophils and 7% lymphocytes) and the erythrocyte sedimentation rate was 115 mm per minute. Glucose was 121 mg/dL and creatinine 1.6 mg/dL. Lactate dehydrogenase (LDH) was 409 U/L, C-reactive protein (CRP) 176 mg/L and tacrolimus 49.4 ng/ml. Tests of liver function were normal.
+Diagnostic Procedure(s) and Result(s)
+A skin biopsy of the shoulder nodule and leading edge of leg rash was performed and revealed invasive fungal forms ( Figure 4 ). The culture of the biopsy tissue grew abundant Aspergillus fumigatus .
+Figure 4. Biopsy results.
+Treatment and Followup
+The patient was treated with high dose voriconazole and caspofungin and the advance of her leg rash was arrested. However, her respiratory status deteriorated. Mechanical ventilation was initiated after intubation, however these efforts were not successful and the patient eventually died.
+Discussion
+The nodular appearance of the leg rash with satellite lesions and the emergence of nodules elsewhere on the body raise concern for a disseminated process as opposed to a simple bacterial cellulitis. Risk factors for disseminated Aspergillus fumigatus infection include sustained high dose immunosuppression and a recent episode of cytomegalovirus (CMV) pneumonitis. CMV disease appears to increase the susceptibility to subsequent severe infections in transplant recipients.
+The morphology of the fungus seen on initial skin biopsy appeared more globular than is characteristically seen with Aspergillus , leading clinicians to initially suspect disseminated Fusarium . The diagnosis was revealed, though, when tissue culture grew Aspergillus fumigatus . Invasive fungal disease cannot be reliably speciated by histologic morphology alone and tissue culture is needed to make a final diagnosis. Of note, tacrolimus is an agent with some antifungal properties. The patient's supratherapeutic level of tacrolimus might have altered the morphology of the fungus in tissue.
+Final Diagnosis
+Disseminated Aspergillus fumigatus infection in an immunocompromised patient.

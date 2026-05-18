@@ -1,0 +1,50 @@
+History of Present Illness
+A woman in her sixties with a history of melanoma of the right leg, ulcerative colitis, and atrial fibrillation, presented with worsening of a chronic ulcerative process on the right leg.
+Approximately one year earlier, erythema of the right leg developed in the vicinity of the previous melanomas. She was seen by a dermatology consultant; pathological examination of a skin biopsy was thought to be consistent with Sweet's syndrome.
+During the next year, trials of minocycline, topical steroids, dapsone, broad-spectrum antibiotics, and multiple prednisone tapers were administered, with waxing and waning findings. The lower extremity ulcerative lesion worsened after an episode of trauma. During one of the periods of worsening, pathological examination of a repeat skin biopsy was consistent with "granulomatous dermatitis", with no evidence of Sweet's syndrome; bacterial stains, acid-fast bacilli (AFB) stains for mycobacteria and methenamine silver stains for fungal organisms were negative. Results of serum and urine protein electrophoreses, serum coccidioides immunodiffusion, cryptococcal antigen, blastomyces antibody, beta-D-glucan, and galactomannan, as well as histoplasma urine antigen, were negative. Interferon-gamma release assay (IGRA) testing for Mycobacterium tuberculosis was indeterminate due to lack of reactivity in the positive control.
+The lower extremity ulcerative lesion continued to worsen; swabs of the ulcer grew Pseudomonas and Proteus. A repeat IGRA was positive. Colchicine and ciprofloxacin were administered and steroids were stopped, without improvement. Ultimately, she presented to the hospital with worsening right leg pain and redness, as well as new low grade fevers, chills, and anorexia.
+Past Medical History
+A diagnosis of superficial melanoma of the right leg was made three years before this presentation and treated with local excision. One year later, locally metastatic melanoma developed; biopsies of the lymph nodes were negative and the lesion was treated with local excision and skin graft. She also had mild ulcerative colitis and atrial fibrillation.
+Medications
+Medications were dronedarone, metoprolol, atorvastatin, rivaroxaban, furosemide, lansoprazole, colchicine and ciprofloxacin.
+Allergies
+She had had an unspecified reaction to silver sulfadiazine.
+Epidemiological History
+She had lived in California, except for 3 years in Hawaii, and had traveled extensively internationally, visiting Greece, the Middle East, and South and Southeast Asia within the previous year. She had no history of substance use, was not sexually active, and had never been incarcerated or homeless. She went swimming frequently (usually in pools) and, during her travels, had had extensive ocean water exposure. She had no pets and reported no history of animal exposure.
+Physical Examination
+The temperature was 98.4°F (36.9°C), pulse 88 beats per minute, and the blood pressure was normal. There was no lymphadenopathy. There was extensive swelling, induration, and ulceration of the skin of the distal right leg below the knee, with red papules extending up to the right thigh, some with necrotic areas ( Figure 1 and Figure 2 ).The remainder of the examination was normal.
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Studies
+The white cell count was 6,600 per cubic millimeter (reference range (ref) 4,000-11,000; with 71% neutrophils, 13% lymphocytes, 13% monocytes, and 2% eosinophils). The hemoglobin was 9.0 gm/dL (ref 13.5-17.5), platelets 361,000 per cubic millimeter (ref 150,000-300,000). Her C-reactive protein (CRP) was 132 milligrams/liter (ref < 10). The serum level of albumin was 2.0 grams per deciliter (ref 3.9-5.1); other blood test results were normal including creatinine, transaminases, alkaline phosphatase, and bilirubin.
+Clinical Course Prior to Diagnosis
+Pathological examination of a skin biopsy with hematoxylin and eosin staining revealed a tuberculoid granulomatous dermatitis, while staining for bacterial, fungal, and acid-fast (AFB) organisms was negative ( Figure 3 and Figure 4 ).
+Figure 3. Skin biopsy results.
+Figure 4. Skin biopsy results.
+Diagnostic Procedure(s) and Result(s)
+One week later, results of universal polymerase chain reaction (PCR) testing of the skin biopsy specimen returned positive for Mycobacterium marinum DNA, detected with the rpoB primer set. Two days after this result returned, one of the previously obtained skin biopsies showed rare growth of acid-fast bacilli (AFB) organisms, which were identified to be Mycobacterium marinum ( Figures 5 and 6 ).
+Figure 5. Mycobacterium marinum shown with Kinyoun stain after growth in culture from skin biopsy specimen.
+Figure 6. Mycobacterium marinum , grown in culture on Middlebrook7H11 agar from skin biopsy.
+Treatment and Followup
+Treatment with isoniazid, rifampin, pyrazinamide, and ethambutol were started before the results of the biopsies returned. The patient developed a significant allergic reaction to rifampin that required rifampin desensitization.
+After the positive results were known, isoniazid and pyrazinamide were stopped and rifampin and ethambutol were continued, with significant improvement. Four weeks later, formal organism identification from the National Jewish Laboratory confirmed the diagnosis of Mycobacterium marinum in two separate cultures with susceptibility testing indicating the organism was susceptible to both rifampin and ethambutol.
+Complications with bacterial superinfection and peripheral vascular disease occurred, but her leg erythema, ulcers, and pain continued to improve with rifampin and ethambutol during the next 3-4 months.
+Discussion
+Mycobacterium marinum is a non-tuberculous mycobacterium that is classified as a "slow grower" on AFB culture (≥ 14 days for mature growth on solid culture media). It is a water-borne organism that causes disease in fish and is present world-wide in both fresh and salt water. It is particularly known to cause infections related to exposure to stagnant water such as swimming pools or fish tanks earning the moniker of "fish tank granuloma". Human infection occurs by direct inoculation and thus usually affects the distal extremities. Incubation period is 2-4 weeks.
+M. marinum prefers cooler temperature typically causing superficial papules, nodules, plaques, abscesses, or ulcers without invasion into deeper tissues. It can progress in a “sporotrichoid fashion”. Cutaneous infection can spontaneously resolve and there are case reports of this occurring after two years of disease [Aubry et al., 2002]. Joint and bone infections can occur but are less common.
+Diagnosis of M. marinum can be difficult. Like some other non-tuberculous mycobacteria, it can cause a positive tuberculosis skin test (PPD). Along with M. kansasii and M. szulgai , it can also cause a positive quantiferon-gold test result due to the presence of ESAT-6 and CFP-10 proteins; this finding is seen in > 50% of subjects with M. marinum infection [Kobashi et al., 2009]. The organism burden in the skin lesions is typically low and as a result AFB smears of the infected tissue are usually negative. If cultured at lower temperature (30-33°C) the organism can be recovered in AFB culture in 75% of cases. Pathology typically shows granulomas.
+Treatment of M. marinum is based on results from case series rather than large trials. The organism is typically resistant to isoniazid or pyrazinamide. Drugs of choice are rifampin, ethambutol, or the macrolides [Griffith et al., 2007].Trimethoprim-sulfamethoxazole, tetracyclines, and fluoroquinolones are also usually active. In the largest case series looking at drug susceptibilities, the following were the average mean inhibitory concentrations (MICs), ug/ml: rifampin (0.2), rifabutin (0.06), ethambutol (2.0), clarithromycin (0.8), doxycycline (4.0), minocycline (2.0), ciprofloxacin (2.0), amikacin (2.0) [Aubry et al., 2002]. Two drug therapy is generally recommended due to concerns for treatment failure or resistance development with monotherapy.
+Treatment duration is usually based on the patient’s clinical response; typically, patients are treated for 1-2 months after resolution of skin lesions and for a total of 3-to-4 months. Surgical debridement can be helpful if there is extensive disease. Outcomes are generally good with an 80-90% cure rate reported with appropriate antibiotic therapy [Aubry et al., 2002; Griffith et al., 2007]
+Final Diagnosis
+Cutaneous Mycobacterium marinum in a patient with malignant melanoma.
+References
+Aubry A, Chosidow O, Caumes E, Robert J, Cambau E. (2002) Sixty-three cases of Mycobacterium marinum infection: clinical features, treatment, and antibiotic susceptibility of causative isolates. Arch Intern Med. 2002;162(15):1746-52.
+PMID:12153378 ( PubMed abstract )
+Griffith DE, Aksamit T, Brown-Elliott BA, Catanzaro A, Daley C, Gordin F, Holland SM, Horsburgh R, Huitt G, Iademarco MF, Iseman M, Olivier K, Ruoss S, von Reyn CF, Wallace RJ Jr, Winthrop K; ATS Mycobacterial Diseases Subcommittee; American Thoracic Society; Infectious Disease Society of America. (2007) An official ATS/IDSA statement: diagnosis, treatment, and prevention of nontuberculous mycobacterial diseases. Am J Respir Crit Care Med. 2007;175(4):367-416.
+PMID:17277290 ( PubMed abstract )
+Kobashi Y, Mouri K, Yagi S, Obase Y, Miyashita N, Okimoto N, Matsushima T, Kageoka T, Oka M. (2009) Clinical evaluation of the QuantiFERON-TB Gold test in patients with non-tuberculous mycobacterial disease. Int J Tuberc Lung Dis. 2009;13(11):1422-6.
+PMID:19861017 ( PubMed abstract )
+Safdar N, Abad CL, Kaul DR, Saint S. (2012) Clinical problem-solving. Skin deep. N Engl J Med. 2012;366(14):1336-40.
+PMID:22475598 ( PubMed abstract )
+Wentworth AB, Drage LA, Wengenack NL, Wilson JW, Lohse CM. (2013) Increased incidence of cutaneous nontuberculous mycobacterial infection, 1980 to 2009: a population-based study. Mayo Clin Proc. 2013;88(1):38-45.
+PMID:23218797 ( PubMed abstract )

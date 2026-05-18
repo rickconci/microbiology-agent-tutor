@@ -1,0 +1,41 @@
+History of Present Illness
+2014 January-February Featured Case and 2013 IDWEEK Case Presentation: A man in his fifties developed severe, sharp headaches one week before presentation. The pain started across his forehead and radiated to the back of his head, and was associated with diffuse myalgias, arthralgias, shaking chills and profuse sweating that awakened him at night. He reported no photophobia, visual disturbances, or fevers. The joint pain had begun in his left shoulder and improved after 2 days, followed by pain in his right ankle, without swelling at either site. A vesicle developed on the left thumb that became crusted and healed in the beginning of the week, followed by more vesicles on the left middle finger, left middle toe, and left first toe.
+Allergies
+He had no known drug allergies.
+Epidemiological History
+He did not smoke tobacco, use illicit drugs, or drink alcohol. He owned two dogs and worked in a pet store that sold exotic fish, reptiles, and amphibians including various species of snakes, lizards, turtles, and frogs. He had no known insect or tick bite exposures.
+Physical Examination
+The patient appeared well. The temperature was 99.0°F (37.2°C), blood pressure 140/88 mm Hg, pulse 100 beats per minute, respirations 12 per minute and oxygen saturation 95% while breathing room air. There was a dry healed scar on his left middle finger, a small vesicle with eschar formation on his left thumb ( Figure 1 ), and a patch of erythema at the proximal left thigh ( Figure 2 ) and a small hemorrhagic vesicle on his left big toe ( Figure 3 ). There was pain in his mid-thoracic spine and tenderness on palpation over the distal interphalangeal joint of his left middle toe, which appeared inflamed. The remainder of the examination was normal.
+Figure 1. Left hand lesion.
+Figure 2. Left thigh lesion.
+Figure 3. Left toe lesion.
+Studies
+The white blood cell count was 12,200 cells per cubic millimeter (reference range (ref.) 4400 to 11,300 cells per cubic millimeter) with 97% neutrophils and the serum glucose was 144 mg/dl (ref. 70 to 100 mg/dl). The platelet count and levels of hemoglobin, routine chemistry tests and tests of liver function were normal. Testing for antibodies to HIV was negative.
+Clinical Course Prior to Diagnosis
+In the emergency room, a lumbar puncture was performed and cultures of the cerebrospinal fluid and blood were obtained.
+Analysis of cerebrospinal fluid (CSF) revealed 1215 red cells per cubic millimeter (ref. 0) in tube 1 and 1600 in tube 4. There were 17 white cells per cubic millimeter (including 93% neutrophils) in tube 1, and 25 white cells per cubic millimeter (93% neutrophils, 3% lymphocytes and 4% monocytes) in tube 4 (ref. <5 tubes 1 and 4). The level of protein in the cerebrospinal fluid was 70 mg/dl (ref. 15 to 45) and glucose was 70 mg/dl (ref. 40 to 75).
+Diagnostic Procedure(s) and Result(s)
+Cerebrospinal fluid cultures were sterile. Blood cultures grew a fastidious gram negative rod, which was thought to be consistent with Streptobacillus moniliformis ( Figures 4 and 5 ). Streptobacillus monoliformis was identified at the ARUP laboratories in Salt Lake City, Utah.
+Polymerase chain reaction (PCR) of a skin biopsy (performed at the University of Washington, Seattle) was also positive for Streptobacillus moniliformis .
+Figure 4. Gram stain of blood culture, 100x magnification.
+Figure 5. Gram stain of culture growth, 100x magnification.
+Treatment and Followup
+On further questioning after the diagnosis was known, the patient revealed that he bred rats to feed to the snakes at the pet store. A booster vaccination for tetanus, diphtheria and pertussis was administered. A transesophageal echocardiogram revealed no cardiac valvular abnormalities. Penicillin G (2 million units every 4 hours for five days) was administered, followed by one dose of intramuscular penicillin (2.4 million units), then oral penicillin (250mg every 6 hours for 10 more days). The patient's symptoms, including myalgias and arthralgias, resolved over 48 hours. The vesicles also resolved.
+Discussion
+Rat bite fever is caused by two different organisms, Spirillum minus , which is prevalent in Asia and Streptobacillus moniliformis , which is prevalent in North America and Europe. Streptobacillus moniliformis is a pleomorphic, filamentous, gram negative rod and part of the nasopharyngeal flora of rats, with 10% to 100% of domestic rats and 50% to 100% of wild rats a carrier.
+The reported incidence of Streptobacillus infection is very low, with most reports coming from the United States. There are only about 200 cases documented but the true incidence of rat bite fever is unknown since it is not a reportable disease.
+Historically, affected patients were those living in poverty or laboratory workers, but with the increasing popularity of rats as pets, children began to account for most cases, followed by laboratory workers and pet shop owners. There appears to be only a 10% infectivity rate after a rat bite, but not all cases involve bites. Transmission can also occur with handling, via scratches or exposure to excrement and saliva.
+The incubation period ranges from 3 days to 3 weeks. Initial symptoms include fevers with temperatures ranging between 38° to 41°Celsius. Over 50% of patients develop migratory polyarthralgias, including both large and small joints. Rash may develop that is maculopapular, petechial, purpuric, or consist of hemorrhagic vesicles. Complications include endocarditis, myocarditis, pericarditis, meningitis, pneumonitis, hepatitis, and nephritis.
+Untreated, Streptobacillus infection carries a 7% to 10% case-fatality rate. The most described complication is endocarditis, which can carry up to 53% mortality. In 2003, two rapidly fatal cases reported to the Centers for Disease Control and Prevention from Florida and Washington State of previously healthy women who had 2 to 3 days of illness. The first was a 53-year-old woman who arrived in septic shock with multi-organ failure who died 12 hours after admission. The second case involved a 19-year-old woman who was dead on arrival. Histopathology revealed a systemic infectious process including disseminated intravascular coagulopathy, with involvement of the liver lung and heart.
+Since rat bite fever is not a reportable disease, the incidence is difficult to determine. Also, because there are such few cases, the sensitivity of blood cultures in humans is unknown, but the organism is difficult to grow in culture and requires an enriched media. In this case, PCR testing, a newer diagnostic method only recently described for use in rat bite fever, was also positive on skin biopsy.
+Final Diagnosis
+Rat bite fever caused by Streptobacillus moniliformis .
+References
+Addidle M, Pynn J, Grimwade K, Giola M. (2012) Epidural Abscess Caused by Streptobacillus moniliformis. Journal of Clinical Microbiology. Sep 2012, 50(9): 3122-3124.
+PMID:22718932 ( PubMed abstract )
+Centers for Disease Control and Prevention (CDC). (2005) Fatal Rat-Bite Fever --- Florida and Washington, 2003. Morbidity and Mortality Weekly Report, 7 Jan 2005. 53(51 & 52); 1198 -1202.
+PMID:15635289 ( PubMed abstract )
+Elliott, SP. (2007) Rat Bite Fever and Streptobacillus moniliformis. Clinical Microbiology Reviews, Jan 2007, p. 13-22.
+PMID:17223620 ( PubMed abstract )
+Nakagomi D, Deguchi N, Yagasaki A, Harada K, Shibagaki N, Kimura M, Imaoka K, Shimada S. (2008) Rat bite fever identified by polymerase chain reaction detection of Streptobacillus moniliformis DNA”. The Journal of Dermatology, Oct 2008. 10:667-670.
+PMID:19017047 ( PubMed abstract )

@@ -1,0 +1,60 @@
+History of Present Illness
+2014 July-August Featured Case: A man in his eighties developed hematuria and dysuria, associated with nausea and vomiting.
+The patient had been in his usual health until two weeks before admission when he noted a small amount of blood in his urine. One day before admission, urinary incontinence occurred. Approximately 11 hours before presentation, hematuria and dysuria developed, associated with nausea and, later that day, 4 episodes of vomiting. He came to the emergency department.
+He reported some shivering and had had a normal bowel movement earlier that day. In the emergency department, he reported transient crampy abdominal pain, rated 5 out of 10 on a scale of 0 to 10, where 10 is most severe. He had no history of fevers, prostate problems, urinary retention, diarrhea, melena or hematochezia.
+Past Medical History
+The patient had hypertension, coronary artery disease, osteoarthritis, hypothyroidism, dyslipidemia, and vitamin B12 deficiency. He had had angioplasty and stenting of left anterior descending and right coronary arteries 8 and 5 years earlier, a total hip replacement 5 years earlier, lymphocele repair, and back surgery.
+Medications
+Medications at home were enteric coated aspirin (81 mg every other day), atorvastatin, lisinopril, clopidogrel, L-thyroxine, and metoprolol succinate (extended-release). He received vitamin B12 parenterally every three months.
+Family History
+He reported no family history of genitourinary malignancy or nephrolithiasis.
+Social History
+The patient lived independently with his wife. He drank wine with meals, and had smoked in the remote past.
+Physical Examination
+The temperature was 99.4°F (37.4°C), blood pressure 127/59 mm Hg, pulse 114 beats per minute, respirations 20 per minute and oxygen saturation 96% while breathing ambient air. Dentition was poor. There was blood noted at the urethral meatus. The remainder of the examination was normal.
+Studies
+The white blood cell count was 6800 per cubic millimeter (reference range 4500-11,000), with 90.4% neutrophils (reference range 40-70%) and 8.5% lymphocytes (reference range 22-44%). The blood level of carbon dioxide was 21.4mmol/L (reference range 23.0-31.9), glucose 155mg/dl (reference range 70-110), urea nitrogen 28mg/dl (reference range 8-25), alkaline phosphatase 143 U/L (reference range 45-115); other initial laboratory test results including the creatinine level were normal.
+Analysis of a urine specimen obtained by straight catheterization revealed grossly bloody urine that was positive for leukocyte esterase, with greater than 100 red blood cells (reference range 0-2), 20-50 white blood cells (reference range 0-2), and few bacteria and squamous cells per high power field; evaluation for nitrites could not be performed because of color interference. Cultures of blood and urine specimens were obtained.
+In the emergency department, a 3-way indwelling urinary catheter was placed and bladder irrigation begun. Initially, the urine was burgundy in color, with some clots noted. Computed tomography (CT) of the abdomen and pelvis performed with the administration of intravenous contrast revealed a layering hyperdensity in the bladder compatible with blood and mild-to-moderate right hydroureteronephrosis ( Figures 1 and 2 ) to the level of the right ureterovesicular junction.
+Figure 1. CT of the pelvis, showing layering hyperdensity in the bladder.
+Figure 2. CT of the abdomen and pelvis, with arrow showing hydroureteronephrosis of the right kidney.
+Clinical Course Prior to Diagnosis
+Within 1 hour of presentation, the patient's blood pressure decreased to 98/52mmHg. Ciprofloxacin and normal saline were administered intravenously.
+The patient was admitted to the hospital. After arrival on the inpatient floor, the temperature rose 100.8°F (38.2°C). Ciprofloxacin was stopped, and vancomycin and cefepime were administered intravenously.
+On the second hospital day, the white blood cell count rose to 22,000 per cubic millimeter, with 87.2% neutrophils and 6.8% lymphocytes. A urine culture that had been obtained before the administration of antibiotics grew abundant (greater than 100,000) colonies per milliliter. After two days, preliminary blood culture results showed two of four blood cultures bottles (both anaerobic bottles) growing an organism similar to that in the urine; gram stain is shown in Figure 3 .
+On the third hospital day, colony growth was seen in the cultures plated from the anaerobic blood cultures and a urine specimen; subcultures are shown in Figure 4 and 5 . (In Figure 5 , detail of colonies is shown in upper right.)
+Figure 3. Gram stain of growth in anaerobic blood culture bottle.
+Figure 4. Colony growth on chocolate agar after 3 days, from blood culture specimen.
+Figure 5. Colony growth after 3 days, from urine specimen subculture on blood agar TSA.
+Diagnostic Procedure(s) and Result(s)
+The gram stain of the blood culture growth revealed gram-positive rods ( Figures 3 and 6 ), and culture growth demonstrated a fastidious organism. Subsequent testing performed at the Mayo Clinic laboratories identified Actinobaculum schaalii .
+Figure 6. Gram stain of growth from colony.
+Treatment and Followup
+Infectious disease consultants saw the patient on the third hospital day and advised continuing the patient's intravenous antibiotic regimen. Fevers resolved on the third hospital day. The patient completed a 7-day course of vancomycin and a 14-day course of cefepime, with clearance of his infection.
+Discussion
+This patient presented with signs, symptoms and findings of urosepsis, including dysuria, hematuria, and fever with positive cultures of the blood and urine, and abnormalities seen in the right kidney and bladder on radiographic imaging.
+In this case, the organism isolated from blood and urine cultures was a fastidious, anaerobic gram-positive rod. Possible organisms that fit this description include Propionibacterium spp. (skin flora) and Actinobaculum schaalii . Clostridium species are spore-forming organisms that are commonly anaerobic gram-positive rods, though some may be gram-variable and others are able to grow aerobically. Eubacterium spp. (present in fecal flora) may also be considered in this case, though some may also be gram-negative. Peptostreptococcus anaerobius and Micromonas micros are fastidious anaerobic cocci, and Escherichia coli is a gram-negative rod.
+Urinary tract infections (UTIs) are often thought to originate from organisms present in the external or distal genitourinary tract and may occur following genitourinary instrumentation [Brook, 2004; Nicolle 2013]. Bacteria on the genitalia and urethra and fecal flora, which include many anaerobic organisms, are thought to ascend the urinary tract to cause disease [Brook, 2004]. Although most UTIs are due to gram-negative aerobic or facultative anaerobic bacilli [Lipsky 1989, Nicolle 2013], anaerobic bacteria have been implicated in numerous infections of the urinary tract, including urethritis, cystitis, ureteritis, pyelonephritis, prostatitis and abscesses of the prostate, kidney or perinephric region [Brook, 2004]. Culture of fastidious organisms may be challenging, as suggested by a study of 10,760 urine specimens which found only 27 (0.8%) grew anaerobic bacteria [Hudác et al., 1991], and identification may require special growth conditions, media, and longer surveillance [Lipsky 1989; Brook, 2004; Beguelin et al 2010].
+Multiple case reports since 1997 have identified a fastidious anaerobic gram-positive uropathogen, Actinobaculum schaalii , that appears to cause infection particularly in the elderly or patients with abnormalities of the urinary tract [Pajkrt et al 2003; Nielsen et al 2010; Salvado et al 2013, Cattoir 2012; Beguelin et al 2010]. A. schaalii is in the phylogenetic family Actinomycetaceae and closely related to Actinomyces and Mobiluncus spp; definitive identification is by gene sequencing, though other techniques are currently in development [Cattoir, 2012]. A. schaalii should be considered in the differential of UTI when urine analysis reveals significant pyuria and negative nitrite testing, and especially in cases with a negative aerobic culture and anaerobic gram-positive rod bacteriuria [Cattoir, 2012; Beguelin et al., 2011]. The organism’s resistance to ciprofloxacin and sulfamethoxazole-trimethoprim [Cattoir, 2012], which are commonly administered for urinary tract infections, heightens the importance of identifying this organism in order to guide appropriate therapy.
+Final Diagnosis
+Urosepsis caused by infection.
+References
+Beguelin C, Genne D, Varca A, Tritten ML, Siegrist HH, Jaton K, Lienhard R. (2011) Actinobaculum schaalii: clinical observation of 20 cases. Clin Microbiol Infect. 2011 Jul; 17(7):1027-31
+PMID:20854424 ( PubMed abstract )
+Brook I. (2004) Urinary tract and genito-urinary suppurative infections due to anaerobic bacteria. Int J Urol. 2004 Mar;11(3):133-41.
+PMID:15009360 ( PubMed abstract )
+Cattoir V. (2012) Actinobaculum schaalii: review of an emerging uropathogen. J Infect. 2012 Mar;64(3):260-7.
+PMID:22209960 ( PubMed abstract )
+Hudác A, Záhradníková I, Lamosová M, Popluhárová M, Filo I. (1991) [The role of anaerobic non-sporulating bacteria in urinary tract infections]. Cesk Epidemiol Mikrobiol Imunol. 1991 Mar;40(2):85-8.
+PMID:1827365 ( PubMed abstract )
+Lipsky BA. (1989) Urinary tract infections in men. Epidemiology, pathophysiology, diagnosis, and treatment.Ann Intern Med. 1989 Jan 15;110(2):138-50.
+PMID:2462391 ( PubMed abstract )
+Murray PR (editor-in-chief), Baron EJ, Jorgensen JH, Landry ML, and Pfaller MA. (2007). Manual of Clinical Microbiology 9th edition, ASM Press, Washington, D.C.
+Nicolle LE. (2013) Urinary tract infection.Crit Care Clin. 2013 Jul;29(3):699-715. doi: 10.1016/j.ccc.2013.03.014.
+PMID:23830659 ( PubMed abstract )
+Nielsen HL, Søby KM, Christensen JJ, Prag J. (2010) Actinobaculum schaalii: a common cause of urinary tract infection in the elderly population. Bacteriological and clinical characteristics. Scand J Infect Dis. 2010;42(1):43-7.
+PMID:19883165 ( PubMed abstract )
+Pajkrt D, Simoons-Smit AM, Savelkoul PH, van den Hoek J, Hack WW, van Furth AM. (2003) Pyelonephritis caused by Actinobaculum schaalii in a child with pyeloureteral junction obstruction. Eur J Clin Microbiol Infect Dis. 2003 Jul;22(7):438-40.
+PMID:12811591 ( PubMed abstract )
+Salvadó M, Plasencia V, Segura C, Gómez J, Medina MJ, Sáez-Nieto JA, Castellanos S, Horcajada JP. (2013) Infection due to Actinobaculum spp: report of 12 patients in Spain. J Infect. 2013 Jan;66(1):107-9.
+PMID:22750149 ( PubMed abstract )

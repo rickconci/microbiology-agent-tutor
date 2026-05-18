@@ -1,0 +1,36 @@
+History of Present Illness
+IDSA 2006 Fellows Day Case Summary: A man with fever and pain in the leg and foot.
+A man presented with severe left leg and foot pain of five days' duration. After the third day of symptoms, fever, chills, nausea, vomiting, diarrhea, and numerous skin lesions developed. He presented for evaluation.
+Past Medical History
+He had been in good health.
+Medications
+None.
+Allergies
+There were no allergies to medications.
+Epidemiological History
+The patient spent time fishing in the Chesapeake Bay, drank 2-3 beers per day, and did not smoke or use intravenous drugs.
+Physical Examination
+The patient appeared toxic and lethargic. The temperature was 104°F (40°C), blood pressure 60/40 mm Hg, pulse 126 beats per minute, respirations 30 breaths per minute, and the oxygen saturation 90% while breathing room air. There were multiple hemorrhagic bullae, predominantly on the extremities. See Figure 1 .
+Figure 1. Physical finding.
+Studies
+The white blood cell count was 3300 cells/mm³ (60% polymorphonuclear cells, 23% bands), hemoglobin 12 grams/dL, and platelets 122,000/mm³. The prothrombin time was 18 seconds, INR 2, and the partial thromboplastin time was 49 seconds. The level of plasma creatinine was 3.5 mg/dL, bicarbonate 14 mEq/L, creatine kinase 23,500 U/L, aspartate aminotransferase (AST) 465 U/L, alanine aminotransferase (ALT) 145 U/L, albumin 1.9 g/dL, total bilirubin 3.7 mg/dL, direct bilirubin 3.5 mg/dL and D-dimer 658 ng/mL.
+Diagnostic Procedure(s) and Result(s)
+Multiple blood and wound cultures grew Vibrio vulnificus .
+Treatment and Followup
+Despite the administration of cefepime and doxycycline, aggressive surgical debridement and intensive care support, the patient unfortunately died.
+Discussion
+Vibrio vulnificus is a common, naturally-occurring bacterium present in marine or estuarine environments. Infections from this organism are typically seen in summer months since the bacteria grows best at temperatures greater than 20°C. Exposures most often occur from contaminated seafood (such as raw oysters) or from contact with estuarine water. Those at high risk for infection include patients who abuse alcohol, or those with liver disease, chronic renal failure, iron overload states (e.g. hemochromatosis), hematopoietic disorders or immunosuppression (e.g. HIV, malignancy, diabetes) or those on immunosuppressive medications, such as steroids.
+Symptoms seen most often in V. vulnificus septicemia include fever (94%), chills (91%), skin lesions (70%), nausea (59%), vomiting (54%), and diarrhea (58%).
+The skin lesions are often preceded by severe localized prodromal pain and typically occur within 1-3 days after ingestion of raw oysters or contact with estuarine water. The lesions are most commonly found on the extremities, but can be widespread, and often begin as erythematous plaques, which then rapidly evolve into bullae and later into necrotic ulcers. The bullae typically appear on an edematous and/or erythematous base and are classically hemorrhagic. Frequently, an underlying necrotizing cellulitis or necrotizing fasciitis is present.
+Multimodal treatment is usually needed. Antibiotic options include tetracyclines, cephalosporins (3rd or 4th generation), aminoglycosides, fluoroquinolones (newer generation). Antibiotics should be used in combination with surgical debridement of devitalized tissue in patients with concomitant necrotizing fasciitis.
+Final Diagnosis
+Septicemia, due to Vibrio vulnificus infection.
+References
+Blake, P.A., Merson, M.H., Weaver, R.E., Hollis, D.G., and Heublein, P.C. (1979). Disease caused by a marine Vibrio. Clinical characteristics and epidemiology. N Engl J Med 300, 1-5.
+PMID:758155 ( PubMed abstract )
+Morris, J.G., Jr. (2003). Cholera and other types of vibriosis: a story of human pandemics and oysters on the half shell. Clin Infect Dis 37, 272-280.
+PMID:12856219 ( PubMed abstract )
+Morris, J.G., Jr., and Black, R.E. (1985). Cholera and other vibrioses in the United States. N Engl J Med 312, 343-350.
+PMID:3881668 ( PubMed abstract )
+Ulusarac, O., and Carter, E. (2004). Varied clinical presentations of Vibrio vulnificus infections: a report of four unusual cases and review of the literature. South Med J 97, 163-168
+PMID:14982266 ( PubMed abstract )

@@ -1,0 +1,55 @@
+History of Present Illness
+IDSA 2008 Fellows Day Case Submission Summary: A man with chronic sinusitis developed rhinorrhea, cough and periorbital pain.
+Two weeks before presentation, a man in his thirties with a history of chronic sinusitis developed rhinorrhea associated with a mild non-productive cough, fatigue and frontal and bilateral periorbital pain. He also noted a tender right submandibular lymph node.
+Three days before, fevers to 102°F (38.9°C) and night sweats occurred. Periorbital pain localized around the right eye, and blurred vision in the right eye developed, which evolved into a blind spot in the center of the visual field.
+Past Medical History
+He had chronic sinusitis and an anxiety disorder.
+Medications
+Medications included clorazepate, amitriptyline and desipramine.
+Allergies
+There were no known drug allergies.
+Social History
+He was married, and monogamous.
+Epidemiological History
+He was born in western Europe and had immigrated to the United States several decades earlier. He drank alcohol in moderate amounts and did not smoke or use illicit drugs. He owned a cat, and had not traveled recently or had any sick contacts.
+Physical Examination
+The patient appeared well. The temperature was 98.8°F (37.1°C), blood pressure 128/86 mm Hg, pulse 115 beats per minute, respirations 14 breaths per minute, and oxygen saturation 99% while breathing ambient air. The head was normocephalic, without sinus tenderness. The conjunctivae and eyelids were normal. Fundoscopic examination of right eye is shown in Figures 1 and 2 . There were no neck masses or lymphadenopathy. A 2/6 systolic ejection murmur was heard, and the remainder of the examination was normal.
+Figure 1. Fundoscopic examination.
+Figure 2. Fundoscopic examination.
+Studies
+The white blood cell count was 9,700/mm³ (reference range 4,000-11,000), with a normal differential. The hematocrit was 42.5% (ref 40-54%), platelet count 501,000/mm³ (ref 150,000-400,000) and the erythrocyte sedimentation rate was 44 mm per hour (ref 0-15). The level of plasma glucose was 134 mg/dl (ref 70-110). Tests of liver function were normal.
+Magnetic resonance imaging of the brain with angiography (MRI/MRA) showed no acute intracranial abnormality. There were nonspecific scattered subcortical hyperintensities on FLAIR/T2 imaging, bilaterally.
+Clinical Course Prior to Diagnosis
+A demyelinating disease was diagnosed presumptively, and the patient was started on high dose steroids, with mild visual improvement.
+Diagnostic Procedure(s) and Result(s)
+The ophthalmologic examination of the right eye, shown in Figure 1 , revealed a normal-appearing macula and optic disc edema with a peripapillary retinal hemorrhage at the temporal border. Figure 2 shows a more magnified view of the optic disc with associated edema and hemorrhage.
+Serological testing for Bartonella henselae was positive; the acute serum IgM titer was 1:16 (reference range: 1:16 or greater is positive) and the titer of IgG, 1:64 (less than 1:64, negative; 1:64–1:128, equivocal; and 1:256 or greater, positive). The IgM convalescent titer was less than 1:16 (negative) and that of IgG 1:256 (positive), which represented a fourfold increase in the IgG titer of the convalescent serum. Blood cultures were sterile and polymerase chain reaction testing of the serum was negative.
+Treatment and Followup
+Doxycycline and rifampin were administered. Two weeks later, follow-up fundoscopic examination showed the typical “macular star” of neuroretinitis ( Figure 3 , with arrows, 10 weeks after admission). At that time, visual acuity had improved but had not returned to baseline. The patient was treated for a total of 8 weeks and was able to return to his normal daily activities.
+Figure 3. Fundoscopic exam, 10 weeks after admission, with macular star.
+Discussion
+The clinical manifestations of cat-scratch disease caused by Bartonella henselae result from either local infection with lymphadenopathy, or from bloodborne disseminated infection, such as occurs with neuroretinitis or visceral organ involvement.
+Ocular manifestations include Parinaud's oculoglandular syndrome (conjunctivitis, conjunctival granuloma, and preauricular lymphadenopathy), neuroretinitis, chorioretinitis and optic neuritis [Cunningham and Koehler 2000, Ormerod and Dailey 1999].
+The prevalence of neuroretinitis in patients with systemic B. henselae infection is unknown, but appears to be uncommon, occurring in 1% to 2% of patients. Simultaneous or subsequent retinitis in patients with Parinaud’s oculoglandular syndrome is uncommon but has been reported [Wong et al 1995].
+Neuroretinitis primarily presents unilaterally, although patients with bilateral optic disc swelling and macular star formation have been reported [Wade et al 1999]. Optic disc edema, often accompanied by a peripapillary subretinal fluid, usually precedes the formation of the typical macular star (a stellate macular exudate) by 2 to 4 weeks [Wade et al 2000]. Some patients never form a macular star. Others develop massive disc edema with widespread subretinal and intraretinal exudates. Macular exudates may take months to resolve and patients may be left with residual disease (mild to moderate optic disc pallor, subnormal contrast sensitivity, abnormal color vision, and abnormal evoked potentials).
+Before the identification of the etiologic agent, virtually all immunocompetent patients with cat scratch disease improved without antimicrobial therapy. As Bartonella is an intracellular organism, it is reasonable to use antibiotic agents which achieve high intra-erythrocytic concentrations, such as the macrolides, quinolones, the tetracyclines, and rifampin [Reed et al 1998]. Rifampin has good penetration into the central nervous system, an advantage in treating neuroretinitis.
+Immunocompetent patients develop long-lasting immunity and are therefore at relatively low risk for repeat infection by B. henselae . For prevention of disease, any wounds caused after a cat scratch or bite should be immediately washed and disinfected.
+Final Diagnosis
+Neuroretinitis, as a manifestation of cat-scratch disease, caused by Bartonella henselae .
+References
+Albini, T.A., Lakhanpal, R.R., Foroozan, R., and Holz, E.R. (2005). Macular hole in cat scratch disease. Am J Ophthalmol 140, 149-151.
+PMID:16038666 ( PubMed abstract )
+Chomel, B.B., Abbott, R.C., Kasten, R.W., Floyd-Hawkins, K.A., Kass, P.H., Glaser, C.A., Pedersen, N.C., and Koehler, J.E. (1995). Bartonella henselae prevalence in domestic cats in California: risk factors and association between bacteremia and antibody titers. J Clin Microbiol 33, 2445-2450.
+PMID:7494043 ( PubMed abstract )
+Cunningham, E.T., and Koehler, J.E. (2000). Ocular bartonellosis. Am J Ophthalmol 130, 340-349.
+PMID:11020414 ( PubMed abstract )
+Ormerod, L.D., and Dailey, J.P. (1999). Ocular manifestations of cat-scratch disease. Curr Opin Ophthalmol 10, 209-216.
+PMID:10537781 ( PubMed abstract )
+Reed, J.B., Scales, D.K., Wong, M.T., Lattuada, C.P., Jr., Dolan, M.J., and Schwab, I.R. (1998). Bartonella henselae neuroretinitis in cat scratch disease. Diagnosis, management, and sequelae. Ophthalmology 105, 459-466.
+PMID:9499776 ( PubMed abstract )
+Wade, N.K., Levi, L., Jones, M.R., Bhisitkul, R., Fine, L., and Cunningham, E.T., Jr. (2000). Optic disk edema associated with peripapillary serous retinal detachment: an early sign of systemic Bartonella henselae infection. Am J Ophthalmol 130, 327-334.
+PMID:11020412 ( PubMed abstract )
+Wade, N.K., Po, S., Wong, I.G., and Cunningham, E.T., Jr. (1999). Bilateral Bartonella-associated neuroretinitis. Retina 19, 355-356.
+PMID:10458308 ( PubMed abstract )
+Wong, M.T., Dolan, M.J., Lattuada, C.P., Jr., Regnery, R.L., Garcia, M.L., Mokulis, E.C., LaBarre, R.A., Ascher, D.P., Delmar, J.A., Kelly, J.W., and et al. (1995). Neuroretinitis, aseptic meningitis, and lymphadenitis associated with Bartonella (Rochalimaea) henselae infection in immunocompetent patients and patients infected with human immunodeficiency virus type 1. Clin Infect Dis 21, 352-360.
+PMID:8562744 ( PubMed abstract )

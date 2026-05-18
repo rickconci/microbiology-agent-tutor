@@ -1,0 +1,31 @@
+History of Present Illness
+IDSA 2002 Case Summary: A man with fever and cough.
+A man in his fifties presented with a fever and cough of 10 days' duration. Amoxicillin was administered, with no improvement.
+Past Medical History
+Diabetes mellitus had been diagnosed 5 years earlier, and the level of fasting plasma glucose was 180 mg/dL 3 months before presentation.
+Medications
+Medications included chlorpropamide; however, there was a history of poor compliance.
+Epidemiological History
+He was a farmer and lived in the Northeastern region of Thailand.
+Physical Examination
+He appeared dyspneic. The temperature was 38.4°C (101.1°F), pulse 120 beats per minute, respirations 26 breaths per minute. There were coarse crepitations over the right lung field, and the remainder of the examination was normal.
+Studies
+The hematocrit was 39%, white blood cell count (WBC) 14,300/mm³ (95% neutrophils, 5% lymphocytes), and platelets 107,000/mm³. The serum level of blood glucose was 210 mg/dL, urea nitrogen 24 mg/dl, and creatinine 1.4 mg/dl. A chest radiograph revealed pulmonary infiltrates in the right lung ( Figure 1 ).
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Blood cultures were sterile. Multiple sputum specimens were negative for acid-fast bacilli (AFB). Gram stain of the sputum is shown in Figure 2 , and results of sputum culture in Figure 3 . The culture had a musty odor.
+Figure 2. Sputum gram stain.
+Figure 3. Sputum culture.
+Diagnostic Procedure(s) and Result(s)
+The clinical presentation, gram stain and culture are consistent with melioidosis, caused by Burkholderia pseudomallei .
+Treatment and Followup
+The patient treated with cefazolin, trimethoprim-sulfamethoxazole, doxycycline, and chloramphenicol. The organism was resistant to cefazolin. After 2 additional weeks of trimethoprim-sulfamethoxazole, doxycycline, and chloramphenicol, he was continued on oral trimethoprim-sulfamethoxazole and doxycycline for 3 more months.
+Discussion
+Melioidosis is caused by Burkholderia pseudomallei , a gram-negative bacillus and soil parasite. The organism is on the bioterrorism agent list. Melioidosis is prevalent among Australian aboriginal populations and in Southeast Asia. B. pseudomallei can cause pneumonia (sometimes cavitary, similar to tuberculosis), abscesses and septicemia.
+Final Diagnosis
+Pulmonary melioidosis, caused by Burkholderia pseudomallei, in a patient with diabetes mellitus.
+References
+Cheng, A.C., and Currie, B.J. (2005). Melioidosis: epidemiology, pathophysiology, and management. Clin Microbiol Rev 18, 383-416.
+PMID:15831829 ( PubMed abstract )
+Limmathurotsakul, D., and Peacock, S.J. (2011). Melioidosis: a clinical overview. Br Med Bull.
+PMID:21558159 ( PubMed abstract )

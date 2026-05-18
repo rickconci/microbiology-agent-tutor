@@ -1,0 +1,32 @@
+History of Present Illness
+Medical Student Curriculum Case Summary: A man in his forties with extremity and groin lesions.
+A man in his forties was well until seven months before admission when he noticed several painless, purplish lesions on his lower extremities. These lesions gradually increased in size and number. One month before admission, a right groin lesion developed and grew rapidly. Three days prior to admission, scrotal and penile edema occurred. There were no systemic symptoms such as fever, chills, night sweats, weight loss, anorexia, shortness of breath, abdominal pain or diarrhea.
+Past Medical History
+The past history included syphilis and gonorrhea 10 years ago, which had been treated.
+Epidemiological History
+He was a homosexual male. Eight years earlier, testing for human immunodeficiency virus (HIV) was negative. He denied tobacco, alcohol or intravenous drug use.
+Physical Examination
+The patient appeared well. The temperature was 98.4°F (36.9°C); other vital signs were stable. There were no oral lesions, no cervical or axillary lymphadenopathy. The lungs were clear, and cardiac examination revealed a regular rate and rhythm, with a 1/6 systolic ejection murmur at the apex. The abdomen was soft and non-tender, and the spleen was not palpable.
+Skin examination revealed scattered violaceous lesions on the lower extremities, toes, sacral area, chest and arms ( Figure 1 ). His right groin revealed a nodular, indurated lesion with some necrosis and yellow exudate, and matted lymph nodes bilaterally ( Figure 2 ). There was 2+ scrotal and penile edema.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count (WBC) was 3,300 cells/mm³ (with 65% polymorphonuclear leukocytes, 25% lymphocytes, 8% monocytes, and 2% eosinophils), hematocrit 39%, and platelet count 266,000/mm³. The serum level of globulin was 4.4g/dL; other laboratory test results for serum electrolytes, liver function and extended chemistries were normal.
+Clinical Course Prior to Diagnosis
+A biopsy of the lesion in the groin was performed ( Figures 3 and 4 ).
+Figure 3. Biopsy findings.
+Figure 4. Biopsy findings.
+Diagnostic Procedure(s) and Result(s)
+Histopathology of the groin biopsy revealed interweaving proliferation of epithelioid and spindle cells ( Figure 3 ) with multiple mitotic figures ( Figure 4 ). Immunohistochemical stains performed revealed the tumor cells to stain positively for CD31 and CD34 (spindle cell markers) supporting the diagnosis of Kaposi’s Sarcoma (KS).
+Computed tomography (CT) scans of the chest, abdomen and pelvis revealed multiple enhancing lymph nodes in the retroperitoneum, pelvis and inguinal region, particularly on the right, consistent with metastatic disease ( Figures 5 and 6 ).
+There was no evidence of pulmonary KS. Results of testing for antibodies to HIV were positive (ELISA and Western Blot). The CD4+ T-lymphcyte cell count was 72 cells/mm³; HIV nucleic acid viral load was 116,000 copies/mL by RT-PCR.
+Figure 5. CT scan.
+Figure 6. Pelvic CT scan.
+Treatment and Followup
+The patient was started on highly active anti-retroviral therapy (HAART) and paclitaxel every 2 weeks. He required granulocyte colony-stimulating factor (G-CSF) thrice weekly due to leukopenia, but had, after two months of treatment, a dramatic improvement in the size and intensity of his skin lesions ( Figure 7 ).
+Figure 7. Two month follow-up.
+Discussion
+Bacillary angiomatosis, due to either Bartonella quintana or B. henselae , may present in a similar manner to Kaposi's sarcoma (KS); however, in this case, the biopsy demonstrated KS. Verruga peruana, due to Bartonella bacilliformis , is a geographically restricted infection (South America).
+Granuloma inguinale typically presents with bulky inguinal adenopathy, and shingles typically has a vesicular eruption. KS is a vascular tumor associated with human herpesvirus 8 (HHV-8). It is the most common tumor found in AIDS patients, typically in homosexual men. AIDS-related KS often presents with painless, non-pruritic skin lesions, particularly on the lower extremities and face, but extracutaneous disease can occur in the oral mucosa, lymph nodes, GI tract and lungs. The clinical course is variable ranging from minimal, asymptomatic disease to a fulminant and disseminated process. Treatment consists of highly active antiretroviral therapy (HAART) along with adjuvant radiation or chemotherapy when disease is systemic or morbidly severe.
+Final Diagnosis
+Kaposi’s sarcoma in a patient with human immunodeficiency virus (HIV) and acquired immunodeficiency syndrome (AIDS).

@@ -1,0 +1,53 @@
+History of Present Illness
+A woman in her 40s presented with a 2-month history of epigastric pain. She also reported a loss of appetite, weight loss of almost 10 kg, and a low-grade fever. The patient denied experiencing any symptoms of jaundice. She had been treated with multiple courses of proton-pump inhibitors without improvement. The patient was referred to the university hospital for further investigation and treatment.
+Past Medical History
+Well controlled essential hypertension
+Epidemiological History
+The patient was residing in eastern Thailand and was employed as a laborer. She reported consuming traditional Thai food frequently, which often included uncooked vegetables and freshwater animals.
+Physical Examination
+The patient appeared well. Her temperature was 37.8° C. The blood pressure was 120/70 mmHg and heart rate of 80 beats per minute. No anemia and jaundice were noted on examination. Abdominal examination revealed tender hepatomegaly; the liver was palpated 5 cm below the right costal margin and the liver span was 15 cm. No clinical signs of ascites or splenic dullness were present.
+Studies
+The patient's hemoglobin level was 11.5 g/dL, white blood cell count was 14,600 cells/mm (reference range 4500-11000), and platelet count was 493,000 cells/mm . The differential count of white blood cells was neutrophils 52%, lymphocytes 18%, monocytes 4%, and eosinophils 26% (with an absolute eosinophil count of 3,796 cells/mm ). Liver enzymes included an elevated alkaline phosphatase (ALP) level of 438 U/L (reference range 30-130 U/L), without elevated AST (SGOT), ALT (SGPT), or bilirubin levels. Abdominal CT revealed hepatomegaly with a 9.6 x 16.3 x 7.1-cm lobulated hypodense mass involving both hepatic lobes, with more prominence in the left lobe. No dilatation of the intrahepatic or common bile duct was observed. (Figure 1)
+Figure 1. Figure 1a: The first abdominal CT showed hepatomegaly with a 9.6 x 16.3 x 7.1-cm lobulated hypodense mass involving both hepatic lobes, more prominent in left lobe. No dilatation of the intrahepatic or common bile duct was seen
+Figure 2. Figure 1b: The first abdominal CT showed hepatomegaly with a 9.6 x 16.3 x 7.1-cm lobulated hypodense mass involving both hepatic lobes, more prominent in left lobe. No dilatation of the intrahepatic or common bile duct was seen.
+Clinical Course Prior to Diagnosis
+Due to presumptive diagnosis of liver abscess, the patient was empirically treated with ceftriaxone. The hepatology and infectious diseases (ID) services were consulted.
+Diagnostic Procedure(s) and Result(s)
+Multiple blood cultures were negative.
+Multiple stool examinations revealed no parasitic eggs.
+Ultrasound-guided liver biopsy showed dense eosinophil infiltration with Charcot-Laden crystals. (Figure 2)
+No microorganisms were found on Gram, AFB, modified AFB, GMS, and PAS strains.
+Culture from the biopsy liver tissue was negative for aerobic bacteria, anaerobic bacteria, fungus, and mycobacteria.
+PCR from the biopsy liver tissue was negative for Mycobacterium spp. Both 16S rRNA and 18S rRNA amplification tests were negative.
+Serum tests for Entamoeba histolytica and melioidosis antibodies were negative.
+In-house PCR for pan-nematodes was negative.
+Serum anti-Fasciola antibodies were positive by immunoblot test.
+Figure 3. Figure 2: The microscopic pathological study of the liver biopsy tissue found dense eosinophilic infiltration with Charcot-Laden crystals
+Treatment and Followup
+The patient was treated with triclabendazole 10 mg/kg/day for 2 doses. The patient’s symptoms improved in term of abdominal pain, appetite, and fever. On follow-up, the patient’s weight increased back to her baseline. The follow-up CT abdomen taken 5 months later showed slightly decrease in size of liver lesions. (Figure 3)
+Figure 4. Figure 3a: The follow-up abdominal CT performed 5 months later showed slight decrease in size of liver lesions.
+Figure 5. Figure 3b: The follow-up abdominal CT performed 5 months later showed slight decrease in size of liver lesions.
+Discussion
+Liver abscess is a common illness in clinical practice. In Asia, the common etiologies of liver abscess are pyogenic liver abscess (PLA), including melioidosis, and amoebic liver abscess (ALA). Eosinophilic liver abscess is commonly defined as a typical liver lesion along with peripheral blood eosinophilia. 1,2
+The etiologies of eosinophilic liver lesions include parasitic infection, fungal infection, autoimmune diseases, and malignancy. A study from Korea reported that most patients had unidentified causes, followed by malignancy and parasitic infections. 1 Many parasites have been reported as causes of eosinophilic liver abscess, for example, fascioliasis, toxocariasis, and sparganosis. 1,2
+Fascioliasis is a foodborne trematode, Fasciola hepatica and Fasciola gigantica . Humans can be infected by ingestion of contaminated water or raw freshwater wild plants. After ingestion, the immature flukes excyst in the human duodenum and then penetrate the intestinal wall and migrate through liver parenchyma to the biliary duct, causing tract-like liver lesions. 3,4
+Right upper quadrant abdominal pain is the most frequent pressing symptom, with a mean duration of 1.5 months prior to diagnosis. Fever and weight loss are less common, occurring in only about one-third of patients. Eosinophilia is presented in more than 90% of patients. 5 The typical liver lesion seen on CT is a tract-like hypodense lesion. 4
+Diagnosis of human fascioliasis requires a high index of suspicion and careful history taking, especially regarding exposure risk. Eosinophilia and a typical liver lesion are clues to the diagnosis. Stool testing has low sensitivity, as less than 10% of patients have positive Fasciola eggs in their stool. 4 Serological diagnosis is the most helpful test, with high sensitivity and specificity. 3,4,5
+The drug of choice for human fascioliasis is triclabendazole which shows promising outcomes. 3,6,7 However, even with treatment, the duration to radiographic resolution was reported at median of 270 days (interquartile range: 180-480 days) and radiographic resolution is only achieved in two-thirds of patients. 4,5
+In conclusion, we here present a case of biopsy-proven eosinophilic liver abscess with fascioliasis. We highlight the importance of taking a detailed history of exposure risk and eating habits. Triclabendazole is the treatment of choice in case of human fascioliasis but the radiologic resolution is commonly delayed.
+Final Diagnosis
+Eosinophilic liver abscess due to Fascioliasis
+References
+Kwon JW, Kim TW, Kim KM, Lee SH, Cho SH, Min KU, Kim YY, Park HW. Clinical features of clinically diagnosed eosinophilic liver abscesses. Hepatol Int. 2011 Dec;5(4):949-54. doi: 10.1007/s12072-011-9272-0. Epub 2011 Apr 6.
+PMID:21484112 ( PubMed abstract )
+Sim DW, Son DJ, Cho E, Choi SK, Shin SS, Jun CH. What Are the Clinical Features and Etiology of Eosinophilic Liver Infiltration? Gut Liver. 2019 Mar 15;13(2):183-190. doi: 10.5009/gnl18266.
+PMID:30376702 ( PubMed abstract )
+CDC - DPDx - fascioliasis [Internet]. Centers for Disease Control and Prevention; 2019 [cited 2023 Oct]. Available from: https://www.cdc.gov/dpdx/fascioliasis/index.html
+Salahshour F, Tajmalzai A. Imaging findings of human hepatic fascioliasis: a case report and review of the literature. J Med Case Rep. 2021 Jun 24;15(1):324. doi: 10.1186/s13256-021-02945-9. PMID: 34162437; PMCID: PMC8223301
+PMID:34162437 ( PubMed abstract )
+Leerapun A, Puasripun S, Kijdamrongthum P, Thongsawat S. Human fascioliasis presenting as liver abscess: clinical characteristics and management. Hepatol Int. 2021 Jun;15(3):804-811. doi: 10.1007/s12072-021-10180-z. Epub 2021 Apr 17.
+PMID:33866512 ( PubMed abstract )
+Harrington D, Lamberton PHL, McGregor A. Human liver flukes. Lancet Gastroenterol Hepatol. 2017 Sep;2(9):680-689. doi: 10.1016/S2468-1253(17)30111-5.
+PMID:28786389 ( PubMed abstract )
+Mas-Coma S, Valero MA, Bargues MD. Fascioliasis. Adv Exp Med Biol. 2019;1154:71-103. doi: 10.1007/978-3-030-18616-6_4.
+PMID:1297760 ( PubMed abstract )

@@ -1,0 +1,52 @@
+History of Present Illness
+2013 March-April Featured Case: An 18-year-old woman was admitted to a hospital because of hemoptysis and pulmonary cavities.
+The patient had been well until 6 months earlier, when she intermittently felt the need to clear her throat, after which sputum with bright red blood was expectorated. Hemoptysis recurred intermittently during the following three months. There was transient weight loss of 2 kilograms, and no history of fevers, sweats, other constitutional symptoms, or cough other than that mentioned above. Azithromycin was administered, and she was well until one month before admission when the symptoms and sputum with blood recurred.
+Computed tomography (CT) of the lungs performed at another hospital and revealed two cavities in the right upper lobe.
+She was referred to a tertiary care hospital.
+Past Medical History
+The past history included skin testing for tuberculosis at age 1 year that was negative. Bacille Calmette Guerin (BCG) vaccine was administered. Twelve years before admission, tuberculin skin testing was positive. Five years before admission, a chest radiograph was normal.
+Epidemiological History
+She was born in Southeast Asia and immigrated to the United States as a child. She lived in Arizona for several years before moving to New England. She was a student who lived with her parents. She did not smoke or drink alcohol, was not sexually active and had no sick contacts. She had traveled to Europe during the year before this presentation. She ate raw fish sushi.
+Both parents had had negative chest radiographs 2 months before the patient's admission; her mother and a sibling had a slight cough. Her maternal grandmother had had tuberculosis many years before the patient was born.
+Physical Examination
+The patient appeared well. The vital signs were normal; the temperature was 98.6°F (37.0°C). There were mild egophony and rhonchi in the right upper lung field, posteriorly. The remainder of the examination was normal.
+Studies
+The white cell count was 7900 cells/mm³ (reference range 4500-11,000) and the hematocrit 36.5% (reference range 36.0-46.0). T-lymphocyte cell subsets were normal and testing for antibody to human immunodeficiency virus (HIV) was negative.
+Radiographs of the chest revealed mild hyperinflation and two cavities in the right upper lobe, without evidence of surrounding consolidation or air fluid levels ( Figures 1 and 2 ). Computed tomography (CT) of the chest revealed a right hilar lymph node measuring 1.5 centimeters (cm) by 1.2 cm and two cavitary lesions in the right upper lobe, with adjacent ground-glass and tree-in-bud opacities with bronchial wall thickening ( Figures 3 and 4 ).
+Figure 1. Chest radiograph on admission.
+Figure 2. Chest radiograph, lateral view.
+Figure 3. CT of the chest, on admission.
+Figure 4. CT of the chest, on admission.
+Clinical Course Prior to Diagnosis
+The patient was placed on respiratory droplet precautions. Gram stain of sputum and bronchial washings revealed few polymorphonuclear leukocytes, rare ciliated respiratory cells and no organisms, and stains for acid-fast bacilli were also negative.
+Rare Staphylococcus aureus colonies grew on culture of bronchial washings; two other colonies also grew ( Figure 5 ).
+Figure 5. Culture growth from bronchial washing.
+Diagnostic Procedure(s) and Result(s)
+Cultures of bronchial washings grew two colonies of Coccidioides species ( Figure 5 , shown on Sabouraud dextrose agar plate). A tape preparation with lactophenol cotton blue stain of the culture growth, shown in Figures 6 and 7 , revealed the "box car" formation of Coccidioides . Identification performed by the Center of Disease Control and Prevention (CDC) confirmed the presence of Coccidioides species. Two of five cultures of induced sputum also grew Coccidioides , and two other sputum cultures grew abundant methicillin-susceptible Staphylococcus aureus (MSSA). Cultures for mycobacteria, Nocardia , Sporothrix , Rhodococcus and other routine bacteria (other than Staphylococcus aureus mentioned above) were negative.
+Results of serum testing for antibodies Paragonimus and Cryptococcus , and urine testing for antibody to Histoplasma , were negative. Polymerase chain reaction (PCR) testing of induced sputum was negative for Mycoplasma .
+Figure 6. Tape prep from culture growth, lactophenol cotton blue stain.
+Figure 7. Tape prep of culture growth.
+Treatment and Followup
+Itraconazole in a liquid preparation was administered and tolerated well. Surgical resection of the lesions was discussed with the patient and her parents, and declined. Before the diagnosis of coccidioidomycosis was known, she was treated with cephalexin.
+Her symptoms improved. Follow-up CT scans showed decreased size of the larger cavity in the right upper lobe as well as improvement in the surrounding tree-in-bud patterned opacities in surrounding lung parenchyma ( Figure 8 ). At eight months follow-up, a chest radiograph was normal.
+Figure 8. Follow-up CT of the chest.
+Discussion
+Coccidioides is a fungus endemic to the Sonoran Desert of Arizona, California and northern Mexico, and is also present in other states in the American Southwest and countries of Central and South America with similar climate conditions [Parish and Blair, 2008]. The mycelial branching form, which grows in the arid soil, forms arthroconidia after exposure to rain. It is thought that infection occurs by inhalation of the arthroconidia by humans and other animals, which leads to transformation of the organism to its spherule form and eventual release of endospores and further reproduction [Gadkowski and Stout, 2008; Parish and Blair, 2008]. Studies of military recruits suggest that 60% of infections are asymptomatic [Hirschmann, 2007]. However, an acute pneumonia associated with fever, headache and fatigue may occur 1 to 3 weeks after exposure, and Coccidioides has been shown in endemic areas to account for up to 29% of community-acquired pneumonias [Valdivia et al., 2006].
+Nodular or cavitary pulmonary disease, which this patient had, is a subsequent manifestation of coccidioidomycosis; other presentations or subsequent sequelae include chronic progressive pneumonia, extrapulmonary nonmeningeal disease (seen more often in pregnant women, immunocompromised hosts and those of Filipino or African ancestry) and coccidioidal meningitis [Parish and Blair, 2008]. In this case, diagnosis of coccidioidal infection was confirmed with the positive culture and identification from sputum and pulmonary aspirate. Diagnosis of coccidioidomycosis can also be made on pathological examination of tissue that reveals coccidioidal spherules, or with serologic identification of anti-coccidioidal antibodies [Valdivia et al., 2006].
+Pulmonary tuberculosis was a strong consideration in this case given this patient's Asian birth history, positive Mantoux test (although in the setting of BCG vaccination as a child) and upper lobe cavitary disease. However, both sputum stains and cultures were negative for mycobacteria. Testing for Histoplasma and Paragonimus were also negative. Positive cultures for methicillin-sensitive Staphylococcus aureus were possibly due to superinfection or colonization.
+Addendum: Laboratory personnel should be notified whenever the possibility of Coccidioides infection is considered, in order to implement appropriate laboratory precautions and decrease the possibility of exposure to infectious aerosolized organisms.
+Final Diagnosis
+Chronic fibrocavitary pulmonary coccidioidomycosis.
+References
+Gadkowski LB, Stout JE. (2008) Cavitary pulmonary disease. Clin Microbiol Rev. 2008 Apr;21(2):305-33, table of contents. doi: 10.1128/CMR.00060-07.
+PMID:18400799 ( PubMed abstract )
+Hirschmann JV. (2007) The Early History of Coccidioidomycosis: 1892–1945. Clin Infect Dis. 2007 May 1;44(9):1202-7.
+PMID:17407039 ( PubMed abstract )
+Mease L. (2012) Pulmonary and extrapulmonary coccidioidomycosis, active component, U.S. Armed Forces, 1999-2011. MSMR. 2012 Dec;19(12):2-4.
+PMID:23311328 ( PubMed abstract )
+Parish JM, Blair JE. (2008) Coccidioidomycosis.Mayo Clin Proc. 2008 Mar;83(3):343-48; quiz 348-9. doi: 10.4065/83.3.343.
+PMID:18316002 ( PubMed abstract )
+Thompson GR 3rd. (2011) Pulmonary coccidioidomycosis. Semin Respir Crit Care Med. 2011 Dec;32(6):754-63. doi: 10.1055/s-0031-1295723. Epub 2011 Dec 13.
+PMID:22167403 ( PubMed abstract )
+Valdivia L, Nix D, Wright M, Lindberg E, Fagan T, Lieberman D, Stoffer T, Ampel NM, Galgiani JN. (2006) Coccidioidomycosis as a common cause of community-acquired pneumonia. Emerg Infect Dis. 2006 Jun;12(6):958-62.
+PMID:16707052 ( PubMed abstract )

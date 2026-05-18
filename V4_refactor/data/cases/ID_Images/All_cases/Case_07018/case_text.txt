@@ -1,0 +1,27 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Submission Summary: A man in his seventies with low back pain, weakness and fatigue.
+A man in his seventies presented with lower back pain, generalized weakness, fatigue, and exercise intolerance of six weeks’ duration. There was no fever, chills, night sweats, headache, mental status change, or neck stiffness. Magnetic resonance imaging (MRI) was performed as an outpatient and showed abnormal marrow signal intensity of L5 and S1 vertebral bodies and in the intervertebral disc spaces. Abnormal signal was also detected in S2 and S3 ( Figure 1 ). He was admitted for evaluation.
+Figure 1. Image
+Figure 1. MRI of the spine.
+Past Medical History
+There was a history of heart disease, cancer of the thyroid and bladder (status post bladder resection and treatment with Bacille Calmette-Guérin or BCG), abdominal aortic aneurysm, Barrett’s esophagus, duodenal ulcer, and right total hip arthroplasty.
+Medications
+Medications included zoledronic acid for hypercalcemia. He was not taking any antibiotics or immunosuppressants.
+Epidemiological History
+He was retired and lived in homes in the Northeastern United States and Western Europe. He ate goat cheese, but was not aware of eating unpasteurized products.
+Physical Examination
+He appeared pale, but otherwise well. The temperature was 37.0°C (98.6°F), blood pressure 132/60 mm Hg and pulse 72 beats per minute; oxygen saturation was 96% while breathing ambient air. There was tenderness of the lower spine to palpation and ankle edema bilaterally. The remainder of the examination was normal.
+Studies
+The hemoglobin was 9.9 grams/dL, and other test results, including white cell count, electrolytes, and liver function, were normal. The erythrocyte sedimentation rate was 106 millimeters per hour and C-reactive protein was 39.7 mg/L.
+Clinical Course Prior to Diagnosis
+Aspiration of the abnormal discs was performed under fluoroscopic guidance. Gram stain of the culture of the aspirate is shown in Figure 2 . Blood cultures were also positive.
+Figure 2. Gram stain of the culture of the aspirate.
+Diagnostic Procedure(s) and Result(s)
+Grams stain of the aspirate of the L5-S1 intervertebral disc space was positive for gram-positive rods ( Figures 2 and 3 ), and negative for acid-fast bacilli. The organism Listeria monocytogenes was identified, and grew from the blood cultures, as well. Evaluation for malignant cells by cytological examination of the aspirate was negative.
+Figure 3. Detail of Figure 2.
+Treatment and Followup
+Ampicillin and gentamicin were administered intravenously initially, and after the blood cultures became sterile, ampicillin intravenously alone was continued for 6 weeks. His clinical symptoms improved and inflammatory markers returned to normal.
+Discussion
+Listeria monocytogenes is a gram-positive rod that most commonly affects immunocompromised individuals, including those who are pregnant or at extremes of age; it can also affect the normal host. The principal clinical syndrome includes diseases of the central nervous system, such as meningitis, meningoencephalitis, and rhomboencephalitis. Development of osteomyelitis is uncommon. In this patient, his consumption of goat cheese and other endemic cheeses of Europe is the most likely risk factor for Listeria infection.
+Final Diagnosis
+Listeria monocytogenes osteomyelitis.

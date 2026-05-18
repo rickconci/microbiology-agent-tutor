@@ -1,0 +1,38 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Submission Summary: An elderly woman with rheumatoid arthritis and a painful, swollen right elbow.
+A woman in her seventies, with a history of rheumatoid arthritis that was treated chronically with prednisone and methotrexate, was seen in an outpatient clinic because of a painful right elbow. There was a history of recurrent synovitis of the right shoulder, which had been treated with arthroplasty. Four months before admission, left elbow bursitis developed. Fluid obtained by arthrocentesis grew Candida albicans and coagulase negative Staphylococcus. A course of oral fluconazole and trimethoprim-sulfamethoxazole was administered with resolution of her symptoms.
+Approximately six weeks before presentation, a rheumatoid arthritis flare developed, with joint pain and stiffness associated with swelling of her knees, wrists and elbows. Infliximab was added. Two weeks later, swelling and erthema developed over the right elbow, associated with tenderness on movement. She denied fever, chills, sweats or any systemic symptoms. She was seen in the outpatient clinic for further evaluation.
+Past Medical History
+There was a history of rheumatoid arthritis.
+Medications
+Medications included prednisone 10 mg each morning and 5 mg each evening, metrothexate 15 mg weekly, and infliximab weekly.
+Epidemiological History
+The patient was born in the Middle East. She had immigrated to the United States 25 years earlier, but returned to the Middle East regularly, most recently five months earlier. She did not drink alcohol or smoke, and had no unusual eating habits.
+Physical Examination
+She appeared well; the vitals signs were normal. The right elbow was edematous, erythematous, warm and tender to the touch. Pain occurred with movement of the elbow and the range of motion was limited to 100 degrees of extension.
+Studies
+The white blood cell count was 11,400 with 73% neutrophils.
+Clinical Course Prior to Diagnosis
+Arthrocentesis of the right elbow was performed and the aspirate was cultured. Culture results are shown in Figure 1 .
+Figure 1. Culture growth from aspirate.
+Figure 2. Papanicolaou stain of aspirate growth.
+Diagnostic Procedure(s) and Result(s)
+The culture grew Prototheca wickerhamii . Figure 1 shows the organism growing on Sabouraud's medium. Papanicolaou stain of the organism is shown in Figure 2 .
+Treatment and Followup
+Voriconazole was administered for 8 weeks. Aspiration of the joint was repeated after 4 weeks of therapy, and cultures were still positive for Prototheca wickerhamii. After 8 weeks, cultures of the joint fluid were sterile. The patient improved and did well.
+Discussion
+Protothecosis is an unusual infection caused by achlorophyllous algae of the genus Prototheca . Prototheca are ubiquitous in nature and can be isolated from soil, pond scum, grass and water. The two main species that cause infection in humans are Prototheca wickerhamii and P. zopfii . Three major infection syndromes have been observed: cutaneous involvement, olecranon bursitis and disseminated infection. The majority of these infections occur in patients who are on immunosuppressive therapy, or who have AIDS, malnutrition, renal or hepatic disease, cancer or autoimmune disorders. Treatment traditionally has been with amphoterecin B but now there is microbiologic data and clinical experience with voriconazole. Olecranon bursitis generally requires bursectomy but in this case the patient responded to voriconazole with resolution of the infection.
+Final Diagnosis
+Olecranon bursitis caused by Prototheca wickerhamii .
+References
+Boyd, A.S., Langley, M., and King, L.E., Jr. (1995). Cutaneous manifestations of Prototheca infections. J Am Acad Dermatol 32, 758-764.
+PMID:7722022 ( PubMed abstract )
+Klintworth, G.K., Fetter, B.F., and Nielsen, H.S., Jr. (1968). Protothecosis, an algal infection: report of a case in man. J Med Microbiol 1, 211-216.
+PMID:5747916 ( PubMed abstract )
+Kruger, W. Kurz charactistic einger niedern Organismen in Laftflusse de laublaume. I. Uber einen neuen Pilz-typus reprasentiert durch die Gattung Prototheca (Pr. moriformis et Pr. zopfii). II Ueber zwei aus Laftflussesrein gezuchtet Algen. Hewigia 1894 33:241-266
+Kwon-Chung, K and J Bennett. Medical Mycology. 1992. Lea & Ferbiger, Philadelphia.
+Linares, M.J., Solis, F., and Casal, M. (2005). In vitro activity of voriconazole against Prototheca wickerhamii: comparative evaluation of sensititre and NCCLS M27-A2 methods of detection. J Clin Microbiol 43, 2520-2522.
+PMID:15872301 ( PubMed abstract )
+Pascual, J.S., Balos, L.L., and Baer, A.N. (2004). Disseminated Prototheca wickerhamii infection with arthritis and tenosynovitis. J Rheumatol 31, 1861-1865.
+PMID:15338515 ( PubMed abstract )
+Quinet et al. Protothecosis. Medical Mycology 2004,42,95-106

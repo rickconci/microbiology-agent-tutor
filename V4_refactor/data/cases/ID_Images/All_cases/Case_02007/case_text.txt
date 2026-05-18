@@ -1,0 +1,25 @@
+History of Present Illness
+Summary: A man with rapidly progressive arm pain and swelling.
+A man in his fifties presented to an outside hospital with severe pain in the right upper extremity of a few hours' duration. The physical examination was normal and he was discharged. Over the next few hours, he developed progressive swelling of the right upper extremity, with ecchymoses and bullae ; he was re-evaluated and transferred to a tertiary-care hospital.
+Past Medical History
+Non-contributory.
+Physical Examination
+On examination, the right upper extremity was diffusely swollen with a deep red discoloration; there were several hemorrhagic bullae . No pulses were palpable in the right upper extremity. Figures 1 and 2 show a photograph of the arm and axilla, and a close-up of bullous lesions on the right upper extremity.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The white blood cell count was 8,900 cells/mm³ (reference range 4500-11,000) with 47% polymorphonuclear leukocytes and 38% band forms . A radiograph revealed extensive air in the soft tissues .
+Clinical Course Prior to Diagnosis
+High-dose penicillin was administered intravenously and an emergent right forequarter amputation was performed.
+Diagnostic Procedure(s) and Result(s)
+An aspirate of one of the bullous lesions revealed gram positive rods. Figure 3 shows a gram stain of the aspirate from a bullous lesion. Figure 4 , a tissue gram stain of muscle resected at the time of surgery, reveals many gram-positive rods. Surgical cultures grew Clostridium septicum .
+Figure 3. Gram stain of the aspirate.
+Figure 4. Tissue gram stain.
+Treatment and Followup
+In retrospect, the patient also reported a history of bright red blood per rectum of several months' duration, and evaluation revealed an invasive colonic carcinoma .
+Discussion
+The features of this case that suggest clostridial gas gangrene are the rapidly progressive course and the presence of gas in the tissue.
+Group A Streptococcus can cause a fulminant necrotizing fasciitis with bullous lesions, but the organism does not produce gas in the tissues. Vibrio vulnificus generally causes severe infection in individuals with underlying liver disease; this patient had no such history.
+Clostridial gas gangrene is generally divided into traumatic gas gangrene (which occurs after surgery or injury) and spontaneous gas gangrene. Traumatic gas gangrene is most often due to C. perfringens , and is sometimes due to C. septicum, C. novyi, C. sordellii and other Clostridium species. In contrast, and as in this case, spontaneous gas gangrene occurs without any apparent preceding trauma. The most common cause is C. septicum . Preexisting lesions include either gastrointestinal diseases (such as colon tumor, intestinal surgery, mucosal ulceration) or systemic illnesses (such as diabetes mellitus, leukemia, neutropenia or cirrhosis). C. septicum infection has been associated with malignancy. In one series of 162 patients with C. septicum infection, 81% had a malignancy and in 37% the cancer was occult. The most common neoplasms were colorectal cancer (as in this case) and hematologic malignancies.
+Final Diagnosis
+Spontaneous Clostridium septicum gas gangrene, associated with colonic carcinoma.

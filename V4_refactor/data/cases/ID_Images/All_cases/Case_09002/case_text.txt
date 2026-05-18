@@ -1,0 +1,41 @@
+History of Present Illness
+2009 February Featured Case and 2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A man in his eighties with chest wall purulence for one month.
+A man in his eighties presented with a 1-month history of purulent chest wall drainage. There was no history of trauma to the chest wall, fevers, or chills. Two years earlier, a pacemaker in the left chest wall and an implantable cardioverter defibrillator in the left upper quadrant of the abdomen were upgraded to a biventricular system on the right chest wall. The generator of the old devices was removed, but the old leads on the left side remained in place.
+A course of trimethoprim-sulfamethoxazole was administered, but the drainage persisted.
+Past Medical History
+There was a history of diabetes mellitus, coronary artery disease with coronary artery bypass grafting, and herniorrhaphy.
+Medications
+Medications included digoxin, carvedilol, simvastatin, glipizide, and furosemide.
+Epidemiological History
+He lived alone in a city in a mid-Atlantic state in the United States. He did not smoke cigarettes, drink alcohol, or use illicit drugs. There was no history of travel and he had no pets.
+Physical Examination
+The patient was pleasant and in no acute distress. His temperature was 97.7°F (36.5°C), blood pressure 139/57 mm Hg, and pulse 65 beats per minute. There was a healed surgical scar (3 cm) on the left chest wall, with an opening (1 mm in diameter), which was draining purulent discharge. A maculopapular rash (few lesions, 5 mm in diameter) was also present on the chest wall. The chest wall on the right side was intact, with a biventricular cardiac device present. The remainder of the examination was normal.
+Studies
+The white blood cell count was 9,000 cells/mm³ (with 90% neutrophils), hemoglobin 13 gm/dl, and the platelet count was 127,000/mm³. Blood cultures were sterile. The lesion on the chest was swabbed, and a Gram stain showed many white cells with no organisms.
+Clinical Course Prior to Diagnosis
+The lesion of the chest was cultured ( Figures 1 and 2 .)
+Figure 1. Sabouraud dextrose agar.
+Figure 2. Growth on cornmeal agar (high magnification)
+Diagnostic Procedure(s) and Result(s)
+Culture of the swab of the lesion on the chest grew Trichosporon beigelii ( Figure 2 ). The organism was sensitive to amphotericin (mean inhibitory concentration (MIC) =1 microgram/mL), fluconazole (MIC=8 microgram/mL), and voriconazole (MIC=1 microgram/mL). It was borderline sensitive to caspofungin (MIC=16 microgram/mL).
+Treatment and Followup
+The old leads, which were noted to be capped with purulent discharge, were surgically extracted. Cultures of the blood were repeated and remained negative. Transesophageal echocardiogram showed no evidence of cardiac vegetation. Oral fluconazole was administered for 4 weeks, with resolution of the wound infection.
+Discussion
+Trichosporon beigelii is a yeast which is found in soil and water. In humans, it colonizes the skin, and the urinary and gastrointestinal tracts [Walsh et al. 1993]. Trichosporon can cause superficial skin infections, such as white piedra. In immunocompromised hosts, it can cause deep invasive infections, including fungemia, endocarditis and chronic meningitis [Haupt et al. 1983; Keay et al. 1991; Mathews and Prabhakar 1995]. To our knowledge, this is the first case of pacemaker infection with Trichosporon beigelii . Trichosporon species grow easily on routine fungal plates and appear creamy. Microscopic features include pseudohyphae, hyphae, blastoconidia (which differentiate it from Geotrichum spp.) and arthroconidia (which differentiate it from Candida spp. and can resemble the arthroconidia of Coccidioides spp.) [Kwon-Chung and Bennett 1992]. Of note, this organism can cause a false positive latex agglutination test for Cryptococcus neoformans [Melcher et al. 1991] when infection is disseminated. Trichosporon spp. have variable susceptibility to azoles and amphotericin B, but consistently demonstrate high minimum inhibitory concentrations (MICs) to echinocandins, such as caspofungin. Recently, some taxonomists have favored dropping the species name T. beigelii (also known as T. beigelli ) in favor of other species designations but, at the time of this publication, this is not yet settled [Chagas-Neto et al. 2008, www.doctorfungus.com].
+Final Diagnosis
+Cardiac device infection caused by Trichosporon beigelii .
+References
+Chagas-Neto, T.C., Chaves, G.M., and Colombo, A.L. (2008). Update on the genus Trichosporon. Mycopathologia 166, 121-132.
+PMID:18568419 ( PubMed abstract )
+Haupt, H.M., Merz, W.G., Beschorner, W.E., Vaughan, W.P., and Saral, R. (1983). Colonization and infection with Trichosporon species in the immunosuppressed host. J Infect Dis 147, 199-203.
+PMID:6827136 ( PubMed abstract )
+http://www.doctorfungus.org/thefungi/trichosporon.htm
+Keay, S., Denning, D.W., and Stevens, D.A. (1991). Endocarditis due to Trichosporon beigelii: in vitro susceptibility of isolates and review. Rev Infect Dis 13, 383-386.
+PMID:1866540 ( PubMed abstract )
+Kwon-Chung, K.J., and Bennett, J.E. (1992). Medical mycology (Philadelphia, Lea & Febiger)
+Mathews, M.S., and Prabhakar, S. (1995). Chronic meningitis caused by Trichosporon beigelii in India. Mycoses 38, 125-126.
+PMID:7477087 ( PubMed abstract )
+Melcher, G.P., Reed, K.D., Rinaldi, M.G., Lee, J.W., Pizzo, P.A., and Walsh, T.J. (1991). Demonstration of a cell wall antigen cross-reacting with cryptococcal polysaccharide in experimental disseminated trichosporonosis. J Clin Microbiol 29, 192-196.
+PMID:1993757 ( PubMed abstract )
+Walsh, T.J., Melcher, G.P., Lee, J.W., and Pizzo, P.A. (1993). Infections due to Trichosporon species: new concepts in mycology, pathogenesis, diagnosis and treatment. Curr Top Med Mycol 5, 79-113.
+PMID:8242806 ( PubMed abstract )

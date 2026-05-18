@@ -1,0 +1,45 @@
+History of Present Illness
+An elderly lady presented with rapidly growing and painful lesions on her left forearm over a week. The lesions had initially started as an erythematous plaque; the area grew and subsequently formed bluish-black tender ulcers. This occurred on a background of chronic myelomonocytic leukemia, immune thrombocytopenic purpura (on long-term prednisolone) and IgM monoclonal paraproteinemia of uncertain significance.
+She denied any history of trauma but noted a large hematoma on the left upper arm prior to the lesions appearing. She could not recall any trigger to the hematoma. She denied any fevers, rigors or recent illness but reported some generalized symptoms of headache, weakness and lethargy.
+Past Medical History
+As noted in the history, above. Also, rheumatoid arthritis and emphysema.
+Medications
+Medications included Prednisolone 30 mg (weaning dose).
+Epidemiological History
+She lived at home with her husband and was legally blind. There was no recent travel of note.
+Physical Examination
+The patient appeared systemically well. The blood pressure was 150/70 mmHg, pulse 70 beats per minute. She was saturating at 96% on room air with no signs of respiratory distress and was afebrile with temperature of 37.0ºC (98.6ºF).
+There was a 3 cm x 7 cm area with necrotic ulcerations on the extensor surface of the left forearm (Figure 1). These lesions were tender on palpation and movement. There was also some generalized bruising over both arms.
+Figure 1. Figure 1: Photograph of left forearm
+Studies
+Her labs were notable for a white blood cell count of 22.6 x10 9 /L (normal 4 x10 9 – 10 x10 9 ) with neutrophils of 14.15 x10 9 /L (normal 2 x109 - 7 x10 9 ). Her platelets were 46 x10 9 /L (normal 150 x10 9 – 410 x10 9 ) and hemoglobin was 83 g/L (normal 120 – 150). The C-Reactive protein was <2 mg/L (normal <5).
+The renal function tests showed mild renal impairment with a creatinine of 144 micromol/L (normal 45 – 90) and an estimated glomerular filtration rate of 28 (normal >90). Her coagulation studies were essentially normal except for a D-dimer of 0.8 mg/L (normal <0.5).
+Diagnostic Procedure(s) and Result(s)
+2 X 3 mm punch biopsies were taken and sent for culture and histopathology.
+Histopathology showed enlarged non-septate thickened branching hyphae consistent with Mucor species as seen in Figure 2. Periodic Acid-Shiff and Grocott’s methenamine silver stains for fungi were positive. Unfortunately, the organism was not cultured in the laboratory.
+Figure 2. Figure 2: H&E stain of skin biopsy showing non-septate thickened branching hyphae (400x magnification)
+Treatment and Followup
+The patient was planned for debridement and for post-operative commencement of liposomal amphotericin B. Unfortunately, the patient developed chest sepsis from a hospital acquired pneumonia prior to debridement and decision for palliation was made given her comorbidities.
+Discussion
+Mucormycosis is a fungal infection of the Mucorales order of the class of Zygomycetes that typically affects immunocompromised patients and can manifest as rhinocerebral, cutaneous, pulmonary, gastrointestinal or disseminated infection. [1] The most common predisposing factors include hematologic malignancies (as was the case with this patient) as well as diabetes [1].
+Cutaneous mucormycosis typically presents as an indurated erythematous plaque that rapidly progresses to a necrotic eschar. A French study in 2014 reported that the incidence of mucormycosis increased by 7.3% per year, especially in patients with neutropenia. [2] The mortality rates of localised infection vary from 4% to 10% and can be as high as 43% with deep extension. [3] Hence, early diagnosis is paramount which can be challenging and depends on clinical and histopathological signs as demonstrated in the images with this case. Fungal cultures are positive in approximately 50% of cases. [3] Treatment involves surgical debridement and antifungal therapy. Until recently, amphotericin B has been the agent of choice. However, isavuconazole, a novel broad spectrum antifungal triazole, is gaining increasing popularity with a small single-arm, open label study matched to historical controls suggesting it to be as effective as amphotericin in the treatment of mucormycosis. [4]
+Cutaneous anthrax is usually painless which was not the case here. Additionally, cutaneous anthrax typically presents as a boil like lesion that eventually develops into a necrotic eschar and given the lack of contact with livestock with this patient, it is extremely unlikely. [5]
+Ecthyma gangrenosum is an uncommon but severe cutaneous infection usually associated with Pseudomonas aeruginosa typically affecting immunocompromised, neutropenic patients. The characteristic lesions are hemorrhagic pustules that then develop into necrotic appearing ulcers. [6] Given that this patient did not appear septic and blood cultures were negative, ecthyma gangrenosum seemed unlikely. However, ecthyma gangrenosum is an important differential to rule out in an unwell patient with cutaneous necrotic appearing lesions – early blood cultures, skin biopsy and tissue cultures are of critical importance here. The characteristic histology for ecthyma gangrenosum would show necrotizing hemorrhagic vasculitis with surrounding bacilli.
+Cutaneous nocardia typically results from traumatic inoculation of nocardia into the skin and characteristically presents as cellulitis, pustules and abscess formation under the skin which is not consistent with this case. [7]
+The history and the clinical findings are not typical of pyoderma gangrenosum which is usually associated with immune-mediated conditions such as inflammatory bowel disease and rheumatoid arthritis. However, it has been associated with hematological malignancies and can present as necrotic appearing lesions making this an important diagnosis to exclude.
+Final Diagnosis
+Cutaneous mucormycosis
+References
+Petrikkos G, Skiada A, Lortholary O, Roilides E, Walsh T, Kontoyiannis D. Epidemiology and Clinical Manifestations of Mucormycosis. Clinical Infectious Diseases. 2012;54(suppl_1):S23-S34.
+PMID:22247442 ( PubMed abstract )
+Bitar D, Lortholary O, Le Strat Y, Nicolau J, Coignard B, Tattevin P et al. Population-Based Analysis of Invasive Fungal Infections, France, 2001–2010. Emerging Infectious Diseases. 2014;20(7):1163-1169.
+PMID:24960557 ( PubMed abstract )
+Castrejón-Pérez A, Welsh E, Miranda I, Ocampo-Candiani J, Welsh O. Cutaneous mucormycosis. Anais Brasileiros de Dermatologia. 2017;92(3):304-311.
+PMID:29186239 ( PubMed abstract )
+Marty FM, Ostrosky-Zeichner L, Cornely OA, et al. Isavuconazole treatment for mucormycosis: a single-arm open-label trial and case-control analysis. Lancet Infect Dis. 2016 Jul;16(7):828-837. doi: 10.1016/S1473-3099(16)00071-2.
+PMID:26969258 ( PubMed abstract )
+Anthrax | Centres for Disease Control and Prevention [Internet]. Cdc.gov. 2019 [cited 14 January 2019]. Available from: https://www.cdc.gov/anthrax/index.html
+Biscaye S, Demonchy D, Afanetti M, Dupont A, Haas H, Tran A. Ecthyma gangrenosum, a skin manifestation of Pseudomonas aeruginosa sepsis in a previously healthy child. Medicine. 2017;96(2):e5507.
+PMID:28079790 ( PubMed abstract )
+Corti M, Villafañe Fioti M. Nocardiosis: a review. International Journal of Infectious Diseases. 2003;7(4):243-250.
+PMID:14656414 ( PubMed abstract )

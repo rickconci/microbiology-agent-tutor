@@ -1,0 +1,60 @@
+History of Present Illness
+2015 September-October Featured Case: A woman in her twenties presented to an emergency department because of an enlarging 'lump' on her left flank of 4 days' duration, associated with increasing pain.
+She had been in her usual state of health until approximately two months earlier, when discomfort, described as a 'knot', in the left side of her back developed. She rubbed the area and applied both ice and a hot pad, but had no improvement. Two weeks before this evaluation, she noted a swelling on her left flank, associated with some redness.
+Four days before this evaluation, the pain increased. The next day, she was seen in the emergency department of another hospital. Ultrasonography reported revealed 'fluid' around the left kidney; a diagnosis of a urinary tract infection, and possible pyelonephritis, was made and oral trimethoprim-sulfamethoxazole administered. During the next 3 days, she felt a gradual enlargement of a lump on her left flank, associated with pain that was non-radiating, worse with pressure, and increased in severity, rated up to 6 on a scale of 0 to 10 (where 10 is the most severe) . She also developed vaginal symptoms that she attributed to a yeast infection and discontinued the antibiotics. She presented to a second hospital for evaluation.
+She reported no fever, chills, rigors, dysuria, hematuria, frequency, hesitancy, urgency, nausea, vomiting or diarrhea, and did not feel that these symptoms were like a previous urinary tract infection she had after the birth of one of her children.
+Past Medical History
+She had a history of scoliosis, and had had a urinary tract infection after the birth of one of her two children, for which a short course of oral antibiotics were administered.
+Medications
+She had taken trimethoprim-sulfamethoxazole for two days.
+Allergies
+She had no allergies.
+Family History
+Her mother had nephrolithiasis and there was a family history of cholelithiasis.
+Social History
+She worked indoors, and lived with her two children and other relatives. She smoked one-half pack cigarettes per day and drank alcohol in moderation; she did not use illicit drugs.
+Physical Examination
+The vital signs were normal. There was an erythematous area on left flank approximately 3 centimeters in diameter ( Figure 1 ), with fluctuance and induration approximately 7cm in diameter. The remainder of the physical examination was normal.
+Figure 1. Physical findings, left flank.
+Studies
+The white cell count was 16,050 cells per cubic millimeter (reference range (ref) 4500-11,000), with 82.5% neutrophils, 12.7% lymphocytes and 4.1% monocytes, and the hematocrit was 35.0% (ref 36.0-46.0). Blood levels of electrolytes, calcium, phosphorus, magnesium, urea nitrogen, and creatinine and the estimated glomerular filtration rate were normal. Urinalysis revealed clear yellow urine with pH 7.0, 1+ occult blood, 1+ albumin, and 1+ leukocytes by screening dipstick; the urine sediment showed 10 to 20 white cells and 0 to 2 red cells per high power field, with 1+ bacteria, 1+ renal tubular cells, and squamous cells present. A urine pregnancy test was negative. An electrocardiogram revealed a sinus tachycardia at a rate of 112 beats per minute, and was otherwise normal.
+Clinical Course Prior to Diagnosis
+Computed tomography (CT) images of the kidneys, performed with the administration of intravenous contrast, are shown in Figures 2, 3 and 4 .
+Figure 2. CT of the abdomen, axial view.
+Figure 3. CT of the abdomen, coronal view.
+Figure 4. CT of abdomen, coronal view.
+Diagnostic Procedure(s) and Result(s)
+A urine culture obtained 3 days earlier at the first hospital grew greater than 100,000 colonies of Proteus mirabilis , which was susceptible to ceftriaxone, ciprofloxacin, levofloxacin, trimethoprim-sulfamethoxazole and cefepime, with intermediate sensitivity to imipenem, and resistant to nitrofurantoin. At the second hospital, urine culture grew few (1000-10,000) colonies of mixed flora and multiple blood cultures were negative.
+CT of the abdomen ( shown above ) revealed a staghorn calculus (average of 450 Hounsfield units, approximately 3 cm in length) in the left renal pelvis, with severe calyceal dilatation and extensive perinephric inflammation. There was a small rim-enhancing loculated fluid collection in the subcapsular region that extended into the posterior perinephric region, and formed a fistulous tract from the kidney into the left flank, communicating with a large multiloculated abscess (5 cm in diameter) in the left flank musculature and subcutaneous fat. The findings were thought to be consistent with xanthogranulomatous pyelonephritis. Inflammatory changes abutted the left psoas muscle, and a delayed nephrogram of the left kidney was thought to be consistent with impaired left renal function.
+An aspirate of the loculated fluid was obtained by interventional radiology, and a left nephro-ureteral catheter and two left flank drains (one subcutaneous and one retroperitoneal) were placed under sedation. Examination by gram stain of the aspirate from the abscess revealed abundant leukocytes, few mononuclear cells and rare gram negative rods ( Figure 5) ; culture grew few Proteus mirabilis ( Figure 6 ).
+Figure 5. Gram stain of aspirate.
+Figure 6. Overnight growth of Proteus mirabilis on MacConkey agar.
+Treatment and Followup
+The patient was initially treated with vancomycin, cefepime and metronidazole, and intravenous fluids. When the results of the culture of the aspirate specimen and sensitivities were known, and the patient had been afebrile for more than 24 hours, antimicrobial therapy was changed to oral ciprofloxacin. Evaluation of the left kidney revealed renal function of 6% normal. She was discharged on the 6th hospital day, then re-admitted 4 days later, and a left nephrectomy was performed. Gross pathological examination of the excised left kidney, shown in Figure 7 , reveals end-stage xanthogranulomatous pyelonephritis and calyceal abscesses.
+Figure 7. Gross pathology of excised left kidney.
+Discussion
+Xanthogranulomatous pyelonephritis (XGP) is an uncommon but severe complication of chronic pyelonephritis. Typically, after the development of an obstructive stone, the kidney becomes replaced by lipid-laden macrophages leading to destruction and necrosis. The enlarged (and eventually non-functional) kidney is often misdiagnosed as a malignancy on imaging.
+XGP most commonly occurs in women (>85%) who suffer from recurrent urinary tract infections [Addison et al., 2015; Korkes et al., 2008]. The most common age at presentation is in the upper 40s [Addison et al., 2015; Korkes et al., 2008; Goodman et al., 1979]. In one case series, 51% of patients had staghorn calculi and another 23% had obstructing ureteric calculi [Addison et al., 2015]. Individuals with metabolic syndrome, obesity and diabetes have an increase risk of renal stones and also appear to have an increased risk of XGP [Kadlec et al., 2012]. Prior history of recurrent urinary tract infections, renal stones, and multi-parity are also seen in patients with XGP [Goodman et al., 1979].
+Typical presenting symptoms in one recent case series (n 41) included pain (97%), lower urinary tract symptoms (73%), fever (67%), and palpable flank mass (45%) [Korkes et al., 2008]. Other symptoms may include abdominal pain, malaise, anorexia, weight loss, chills, dysuria, hematuria and draining flank sinus [Addison et al., 2015; Korkes et al., 2008; Goodman et al., 1979]. On physical examination, costovertebral angle (CVA) or abdominal tenderness is common and a palpable flank or abdominal mass may be detected. Routine blood tests typically reveal leukocytosis and anemia but preserved renal function. Urinalysis frequently shows pyuria, proteinuria, or hematuria.
+The differential diagnosis includes renal cell carcinoma, transitional cell carcinoma of the renal pelvis, Hodgkin’s or Non-Hodgkin’s lymphoma, renal tuberculosis, pyelonephritis, perinephric abscess, renal parenchymal malakoplakia, megalocytic interstitial nephritis, and retroperitoneal fibrosis [McDougal and Nickeleit, 1995].
+In several case series, Escherichia coli was the most common isolated organism followed by Proteus mirabilis [Addison et al., 2015; Korkes et al., 2008]. Other organisms reported as involved in cases of XGP include Enterobacter , Klebsiella , Staphylococcus , Pseudomonas , and Candida , as well as polymicrobial infections [Goodman et al., 1979].
+Computerized axial tomography (CT) scan typically finds unilateral hydronephrosis, kidney enlargement, poor excretion of contract media, perinephric extension and air in the urinary tract [Addison et al., 2015; Korkes et al., 2008; Zorzos et al., 2003].
+On gross pathological examination, the kidney is typically enlarged with a destructive inflammatory process. Histologic examination reveals necrotic yellow (from the Greek, "xanthos" or yellow) material surrounded by orange-colored tissue. Renal stones or staghorn calculi are typically seen. The inflammation often extends beyond the kidney and may lead to fistula formation.
+Treatment includes initial targeted antibiotic therapy; however, nephrectomy is the definitive, and often recommended, therapy [Addison et al., 2015; Korkes et al., 2008; Goodman et al., 1979]. Although laparoscopic nephrectomies can be performed in select cases, many cases will require open procedures [Guzzo et al., 2009].
+Final Diagnosis
+Xanthogranulomatous pyelonephritis caused by Proteus mirabilis infection of the urinary tract.
+References
+Addison B, Zargar H, Lilic N, Merrilees D, Rice M. (2015) Analysis of 35 cases of Xanthogranulomatous pyelonephritis. ANZ J Surg 2015;85:150-3.
+PMID:24661744 ( PubMed abstract )
+Goodman M, Curry T, Russell T. (1979) Xanthogranulomatous pyelonephritis (XGP): a local disease with systemic manifestations. Report of 23 patients and review of the literature. Medicine (Baltimore) 1979;58:171-81.
+PMID:431402 ( PubMed abstract )
+Guzzo TJ, Bivalacqua TJ, Pierorazio PM, Varkarakis J, Schaeffer EM, Allaf ME. (2009) Xanthogranulomatous pyelonephritis: presentation and management in the era of laparoscopy. BJU Int 2009;104:1265-8.
+PMID:19389010 ( PubMed abstract )
+Kadlec AO, Greco K, Fridirici ZC, Hart ST, Vellos T, Turk TM. (2012) Metabolic syndrome and urinary stone composition: what factors matter most? Urology 2012;80:805-10.
+PMID:22795374 ( PubMed abstract )
+Korkes F, Favoretto RL, Broglio M, Silva CA, Castro MG, Perez MD. (2008) Xanthogranulomatous pyelonephritis: clinical experience with 41 cases. Urology 2008;71:178-80.
+PMID:18308077 ( PubMed abstract )
+McDougal WS and Nickeleit V. (1995) Case records of the Massachusetts General Hospital. Weekly clinicopathological exercises case 2-1995. A 71-year-old man with masses in the pancreas, presacral region, and left kidney. N Engl J Med 1995;332:174-9.
+PMID:7800010 ( PubMed abstract )
+Zorzos I, Moutzouris V, Korakianitis G, Katsou G. (2003) Analysis of 39 cases of xanthogranulomatous pyelonephritis with emphasis on CT findings. Scand J Urol Nephrol 2003;37:342-7.
+PMID:12944195 ( PubMed abstract )

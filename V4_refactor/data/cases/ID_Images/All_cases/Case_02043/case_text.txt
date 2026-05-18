@@ -1,0 +1,38 @@
+History of Present Illness
+Summary: An elderly man with anorexia, weight loss and cough, nine months after vascular surgery.
+A man in his seventies with a history of steroid-dependent chronic obstructive pulmonary disease (COPD) presented for a right femoral-popliteal bypass surgery. A routine pre-operative chest radiograph revealed a cavitary lesion in the left lung apex, measuring approximately 9.2 cm by 4.4 cm ( Figures 1 and 2 ). His surgery was uneventful, and he was discharged to home.
+Nine months later, he appeared cachectic at a follow-up visit. He reported a 50-pound weight loss over the preceding year-and-a-half, anorexia, chronic cough productive of purulent sputum, and progressive shortness of breath. He denied fevers, chills, night sweats or hemoptysis.
+Figure 1. Image
+Figure 1. Pre-operative chest radiograph.
+Figure 2. Image
+Figure 2. Pre-operative chest radiograph.
+Past Medical History
+There was a history of long-standing COPD on 2L home oxygen supplementation and prednisone daily, as well as peripheral vascular disease with a chronic non-healing right lower extremity (RLE) stasis ulcer, status post a RLE deep venous thrombosis (DVT), gout, osteoporosis, and hypothyroidism.
+Medications
+Medications included prednisone (10 mg daily for at least ten years), albuterol (2 puffs four times daily), aerosol triamcinolone (2 puffs four times daily), aerosol ipratropium bromide (2 puffs four times daily), theophylline slow release tablets (125 mg orally three times daily), and levoxyl (100 mg orally per day).
+Epidemiological History
+He was born and raised in New England. He had worked for decades as a manager of a factory where he was exposed to employees who were recent immigrants, and to significant fumes. He had smoked 2 packs per day for thirty years, but quit thirty years before. There was no history of pet exposure, significant travel, alcohol or drug use.
+Physical Examination
+The patient was cachectic but in no distress. He was afebrile with stable vital signs and an oxygen saturation of 88% while breathing room air, which increased to 94% with 2L oxgen supplementation by nasal cannula. He had no cervical or supraclavicular lymphadenopathy. Examination of the lungs revealed distant breath sounds with a prolonged expiratory phase. He had inspiratory crackles at the left apex. The rest of his examination was normal except for a chronic 2 cm ulcer on the right lower extremity.
+Studies
+The white blood cell count (WBC) was 6,500/mm³ (86% polys, 8% lymphs, 5% monos, 1%eosinophils), hematocrit 32%, and platelets 338,000/mm³. The level of albumin was 2.4 g/dL; other test results of electrolytes, liver function tests and extended chemistries were normal. His chest radiograph showed enlargement of the left-sided cavitary lesion with an air-fluid level; the right lung was clear ( Figure 3 ).
+Computed tomography (CT) of the chest showed a large thick-walled cavity in the left upper lobe with an air fluid level and associated collapse of the left upper lobe. Centrilobular emphysema was noted throughout the lung parenchyma and a “tree and bud” pattern of inflammation was seen scattered throughout both lungs. Pleural plaques were noted on the right. There was no lymphadenopathy and the mediastinal structures were normal ( Figure 4 ).
+Figure 3. Admission chest radiograph.
+Figure 4. Chest CT scan. Link to Highest Resolution Image Available
+Diagnostic Procedure(s) and Result(s)
+The patient underwent bronchoscopy. Gram stain showed abundant polys and rare gram-negative rods. Culture grew several strains of Pseudomonas aeruginosa , one of which was resistant to ceftazidime, ticarcillin and aminoglycosides. Anaerobic culture grew one colony of Propionibacterium acnes . Acid-fast smear revealed 3+ acid-fast bacilli and culture grew Mycobacterium avium-intracellulare complex after 7 days. Cytology was negative for malignant cells. He underwent CT-guided biopsy, which was negative for malignancy, and showed chronic inflammatory changes.
+Treatment and Followup
+The patient was started on meropenem, ciprofloxacin, clarithromycin, ethambutol and rifabutin. He developed Clostridium difficile colitis, and oral metronidazole was added. Surgical resection was considered because of the large size of the cavity, but the patient was deemed not to be an operative candidate. After six weeks, he had gained 5 pounds and was no longer oxygen-dependent.
+The original mycobacterial isolate was found to be susceptible to clarithromycin and ethambutol, but had intermediate sensitivity to rifabutin and ciprofloxacin. The meropenem, ciprofloxacin and metronidazole were stopped, and he was continued on clarithromycin and rifabutin.
+After six months of therapy, a repeat chest x-ray showed disappearance of the air fluid level, slight shrinkage of the left upper lobe cavity and subtle improvement in the peripheral opacities in the right lung. (See Figure 5 .) He will most likely require life-long therapy.
+Figure 5. Chest radiograph at six month follow-up.
+Discussion
+Mycobacterium avium-intracellulare complex (MAC) is the most common cause of pulmonary nontuberculous mycobacterial infection. Individuals with underlying lung disease are particularly at risk. According to American Thoracic Society guidelines, chemotherapy of the non-HIV infected patient includes clarithromycin or azithromycin, rifabutin or rifampin, ethambutol and amikacin or streptomycin (for the first 2 months as tolerated). Treatment should be continued until monthly sputum cultures are negative.
+Surgery should be considered for patients with cavitary disease, those who fail medical treatment after six months despite susceptible organisms, or patients who can not tolerate the medications due to side effects.
+Final Diagnosis
+Mycobacterium avium-intracellulare complex pulmonary infection.
+References
+Griffith, D.E. (2007). Therapy of nontuberculous mycobacterial disease. Curr Opin Infect Dis 20, 198-203.
+PMID:17496580 ( PubMed abstract )
+Parrish, S.C., Myers, J., and Lazarus, A. (2008). Nontuberculous mycobacterial pulmonary infections in Non-HIV patients. Postgrad Med 120, 78-86.
+PMID:19020369 ( PubMed abstract )

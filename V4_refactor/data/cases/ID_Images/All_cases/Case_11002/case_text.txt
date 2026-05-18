@@ -1,0 +1,42 @@
+History of Present Illness
+2011 July-August Featured Case Summary: A pregnant woman with HIV infection and new onset of fever, decreased hearing and painful lesions in the left ear.
+An HIV-positive woman in her forties, at 29 weeks' gestation, developed fever and malaise. Two days later, approximately 5 days before presentation, tinnitus and decreased hearing occurred, associated with a sense of ear fullness, and painful pustular lesions in her left ear developed. One week after the onset, she saw a physician because of increasing symptoms. She reported diarrhea, headache, rhinorrhea and cough, and a burning sensation on her left cheek and ear of two-days' duration.
+Past Medical History
+She was HIV-positive; 41 days earlier, the CD4 T-lymphocyte count was 478 cells per cubic millimeter, with an undetectable level of HIV RNA. She had received pre-natal care during this pregnancy. She was multigravida, and had had postpartum hemorrhage, for which she had received blood transfusions. She also had peptic ulcer disease, sickle cell trait, anemia and a history of depression. She had received treatment for tuberculosis 10 years before and had had chickenpox in childhood.
+Medications
+Medications included lopinavir-ritonavir combination, lamivudine-zidovudine combination, iron, and calcium.
+Allergies
+She was allergic to aspirin and latex.
+Epidemiological History
+The patient was from sub-Saharan Africa, but had not returned in many years. She did not smoke, drink alcohol or use illicit drugs.
+Physical Examination
+The temperature was 98.5°F (36.9°C), blood pressure 103/75 mm Hg and pulse 108 beats per minute. Physical findings involving the left ear are shown in Figures 1 and 2 . The tympanic membrane (TM) was intact, with fluid noted behind the TM. Weber lateralized to the left; Rinne testing was normal. Hearing was slightly decreased in the left ear subjectively; facial function and sensation was normal and other cranial nerves II through XII were normal; taste was not tested. There was dried blood on the anterior septum on the left side, moderate bilateral mucosal congestion, and crust on the posterior pharyngeal wall. There was tender lymphadenopathy in the cervical and submandibular areas on the left (less than 1 cm in diameter). Faint basilar crackles were present on the right, and the remainder of the examination was normal.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The hematocrit was 31.1% (reference range 36.0-46.0 in non-pregnant women) and the total white cell count was 3600 per cubic millimeter (ref 4500-11,000) with 51% neutrophils, 1% band forms, 34% lymphocytes, 2% atypical lymphocytes, and 12% monocytes. The level of serum sodium was 131 mmol/L (ref 135-145), potassium 3.0 mmol/L (ref 3.4-4.8), glucose 134 mg/dl (ref 70-110), total protein 8.5 gm/dl (ref 6.0-8.3), globulin 5.1 g/dl (ref 2.6-4.1), and urinalysis revealed 10-20 white cells per high-power field with squamous cells suggestive of a contaminated specimen; the remainder of the routine serologic laboratory test results was normal.
+Clinical Course Prior to Diagnosis
+A chest radiograph showed no infiltrates. She was admitted to the hospital, cefepime was administered and antiretroviral medications continued.
+Diagnostic Procedure(s) and Result(s)
+Examination of the left ear ( Figure 1 ) revealed multiple raised vesicular lesions (approximately 3 mm in diameter) in the conchal bowl surrounding the external auditory canal meatus and extending into the lateral third of the canal, with a surrounding erythematous base that was tender, and multiple areas (1-2 mm diameter) of black colored debris. An audiogram demonstrated conductive and high frequency sensorineural hearing loss on the left.
+Testing of a swab of a lesion with fluorescent antibodies to varicella zoster virus (VZV) was positive ( Figure 3 ). Wound cultures of the ear grew few coagulase negative staphylococcus of 2 types; heterophile antibody screening, testing for syphilis, and cultures of the blood were negative.
+Figure 3. VZV fluorescent antibody testing.
+Treatment and Followup
+Acyclovir was administered intravenously, followed by oral valacyclovir at discharge, for a total course of 14 days; a 10-day tapering course of prednisone was also administered. Cefepime was stopped after cultures of the blood were sterile. A follow-up audiogram one week later was improved. At full-term 2 months later, the patient delivered a healthy infant. At follow-up 9 months after this ear infection, she reported diminished and sometimes unpleasant sense of smell, as well as an unpleasant taste on the left side of her tongue.
+Discussion
+Patients who have varicella zoster virus (VZV) infection of the head and neck involving the geniculate ganglion of the facial nerve (VIIth cranial nerve), also known as Ramsay Hunt syndrome, may present with a vesicular rash affecting the external auditory canal and auricle, a facial nerve palsy and ear pain. In addition, other cranial nerves (CNs) may also be involved, including the vestibulocochlear nerve (CN VIII, which runs in proximity to CN VII in the internal auditory canal), as well as the V, VI, IX, and X nerves [Goldani et al. 2009]. This patient developed painful vesicular lesions in her ear (herpes zoster oticus) in the region enervated by CN VII, with tinnitus and decreased hearing (enervated by CN VIII). During follow-up, she reported an altered sense of smell and taste; her persistent taste abnormalities were thought to be related to involvement of the facial nerve chorda tympani branch, which extends to the anterior tongue.
+Varicella zoster virus, also known as herpes zoster virus (HZV) or human herpes virus type 3 (HHV-3), is known to recur in patients with decreased immune responses. This patient was immunocompromised by her pregnancy and human immunodeficiency virus (HIV) infection. In HIV-infected patients, severe complications of herpes zoster infection, such as ocular complications (including herpes zoster ophthalmicus and herpes retinitis) and infections of the central nervous system (myelitis) are more likely to occur in patients with less than 200 CD4 T-lymphocyte cells per cubic millimeter [Glesby et al. 1995]. However, in a review of 8 patients with HIV infection who specifically developed Ramsay Hunt syndrome, 4 of the 5 patients for whom the levels were available had CD4 T-lymphocyte levels that ranged between 336 to 560 cells per cubic millimeter, and all 5 patients had levels higher than 200 per cubic millimeter [Goldani et al. 2009].
+Other entities, including organisms responsible for bacterial cellulitis, otitis externa and otitis media, should also be considered in patients presenting with erythema and swelling of the pinna, and an exudative or purulent discharge from the auditory canal. Similarly, a contact dermatitis can result in swollen and inflamed tissue with a weeping exudate. However, the vesicular lesions seen in this case were more suggestive of a herpetic cause, and the specific location within the concha of the ear, and concomitant tinnitus and hearing deficits, strongly suggested varicella zoster virus affecting the seventh and eighth cranial nerves. Cranial nerve palsies in the absence of the vesicular rash may be caused by other infections by Borrelia burgdorferi , the causative agent of Lyme disease, and Treponema pallidum , the cause of syphilis, but were not considered as likely in this case.
+Final Diagnosis
+Herpes zoster oticus, with decreased hearing, also known as Ramsay-Hunt syndrome, caused by varicella zoster virus.
+References
+de Ru, J.A., and van Benthem, P.P. (2011). Combination Therapy Is Preferable for Patients With Ramsay Hunt Syndrome. Otol Neurotol.
+PMID:21593701 ( PubMed abstract )
+Glesby, M.J., Moore, R.D., and Chaisson, R.E. (1995). Clinical spectrum of herpes zoster in adults infected with human immunodeficiency virus. Clin Infect Dis 21, 370-375.
+PMID:8562746 ( PubMed abstract )
+Goldani, L.Z., da Silva, L.F., and Dora, J.M. (2009). Ramsay Hunt syndrome in patients infected with human immunodeficiency virus. Clin Exp Dermatol 34, e552-554.
+PMID:19489871 ( PubMed abstract )
+Johnson, K.B., Blazes, D.L., Keith, M., Decker, C.F., and Ohl, C.A. (1996). Ramsay Hunt syndrome in a patient infected with human immunodeficiency virus. Clin Infect Dis 22, 1128-1129
+PMID:8783739 ( PubMed abstract )
+Sweeney, C.J., and Gilden, D.H. (2001). Ramsay Hunt syndrome. J Neurol Neurosurg Psychiatry 71, 149-154
+PMID:11459884 ( PubMed abstract )

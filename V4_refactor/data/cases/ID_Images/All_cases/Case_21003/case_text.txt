@@ -1,0 +1,44 @@
+History of Present Illness
+A man in his thirties presented to the emergency department (ED) with acute lower extremity weakness. He woke up that morning with urinary incontinence and could not stand up due to the weakness. He also reports pleuritic chest pain, productive cough with green sputum for two months as well as night sweats and weight loss of about 30 pounds in the past month.
+Past Medical History
+None
+Medications
+None
+Epidemiological History
+Smoking history of 5 pack-years, no drug or alcohol use, no pets at home. Works at a food company. No recent travel and no other significant exposure. No close contacts with tuberculosis. No history of incarceration.
+Physical Examination
+T: 97.8°F, BP: 135/82, HR: 83, RR: 25, O2 saturation: 100% on room air. Well appearing patient in no acute distress. Chest: Lungs clear to auscultation. Mouth: poor dentition with periodontal disease. Neurologic: cranial nerves normal. Bilateral upper extremity strength intact. Strength 0/5 in left lower extremity (LE) in both flexors and extensors. 1/5 in right lower extremity. Absent pinprick and vibration sensation down from Left T5 dermatome. Absent knee and ankle reflex in bilateral LE. Brisk bilateral biceps, brachioradialis and triceps reflexes. Rectal exam shows decreased perianal sensation, absent to minimal rectal tone. Rest of exam unremarkable.
+Studies
+WBC 15K cells/uL (80%N). Hb 12.7 g/dL. Platelets 485 K cells/uL. Chemistries & liver enzymes: Creatinine 1.6 mg/dL, rest normal.
+CRP 0.62 mg/dL (<0.5mg/dL), ESR 87 mm/hr (0-20 mm/hr).
+Sputum gram stain: “normal respiratory flora”.
+Sputum acid fast bacilli (AFB) smear negative x 3.
+HIV ELISA: negative.
+Histoplasma, Blastomyces antigens: negative.
+Quantiferon GOLD: indeterminate.
+Chest X ray showed a right upper lobe opacity, effacement of 3rd right rib.
+CT of the chest showed a large lesion at the right lung apex with numerous spiculated nodules throughout the bilateral lungs.
+MRI of the spine showed compression deformity and height loss of T3 vertebral body. Paravertebral soft tissue components from C7-T1 and T4-T5 extending into the spinal canal causing severe canal narrowing and cord compression.
+Figure 1. Chest radiograph. Right upper lobe opacity, effacement of 3rd right rib.
+Figure 2. Chest CT scan. Large lesion at the right lung apex with associated numerous spiculated nodules throughout the bilateral lungs.
+Figure 3. Spine MRI. Paravertebral soft tissue component extending into spinal canal causing severe canal narrowing and cord compression.
+Figure 4. H&E stain (A,C) and GMS stain (B), 10x.
+Figure 5. H&E stain, 10x. Sulfur granule with filamentous organisms inside.
+Clinical Course Prior to Diagnosis
+Patient underwent interventional radiology (IR)-guided lung mass biopsy, was started on empiric radiation therapy and dexamethasone. A few days later while awaiting biopsy results then he continued to have signs of worsening cord compression. For this he was taken to operating room for laminectomies of T2 and T3, posterior instrumented fusion of C5-T7 and resection of the epidural tumor.
+Intraoperatively, there was a finding of purulent fluid around T3 with caseous necrosis. IR lung biopsy and surgically obtained soft tissue and bone were sent for pathologic examination and culture.
+Diagnostic Procedure(s) and Result(s)
+Biopsy of lung and vertebral tissue revealed gram-positive filamentous organisms morphologically suggestive of Actinomyces as well as structures compatible with sulfur granules. AFB and fungal stain negative.
+Cultures from vertebral tissue grew Actinomyces meyeri, Eikenella corrodens and Fusobacterium nucleatum.
+Treatment and Followup
+The patient received 2 weeks of intravenous ampicillin-sulbactam before being switched to amoxicillin-clavulanate to complete 12 months of therapy, along with receiving physical therapy. He is now able to stand and walk short distances with a walking aid device.
+Discussion
+Actinomycosis is caused by species of anaerobic bacteria, most commonly Actinomyces israelii, that that normally colonizes the mouth, colon, and vagina. Actinomyces cause an indolent infection at sites where there is disruption of mucosa. These lesions generally have a purulent nucleus surrounded by dense fibrosis.
+Actinomycosis is a diagnostic challenge even in the age of technological advances because of its varied clinical presentation, and it is often confused with malignancy. Actinomyces should be considered on the differential diagnosis whenever there is chronic, progressive disease that crosses tissue boundaries and has mass-like features, when there is a development of a sinus tract, or when there is a relapsing or refractory infection after a short course of therapy. The mass-like lesions can cause severe destruction of tissue and cross several tissue planes as in the case of this patient: presumably he developed an infection in the lung (perhaps from an oral source) which then slowly invaded the spine. Based on information from case reports, 70-80% of Actinomycosis have coinfection with other bacteria, very commonly Fusobacterium and Eikenella spp. Bacterial synergy and symbiosis are thought to facilitate the growth of Actinomyces.
+Final Diagnosis
+Pulmonary and vertebral actinomycosis
+References
+Ghafghaichi L, Troy S, Budvytiene I, Banaei N, Baron EJ. Mixed infection involving Actinomyces, Aggregatibacter, and Fusobacterium species presenting as perispinal tumor. Anaerobe. 2010 Apr;16(2):174-8. doi: 10.1016/j.anaerobe.2009.07.003. Epub 2009 Jul 21.
+PMID:19628046 ( PubMed abstract )
+Pauker SG, Kopelman RI. Clinical problem-solving. A rewarding pursuit of certainty. N Engl J Med. 1993 Oct 7;329(15):1103-7. doi: 10.1056/NEJM199310073291508.
+PMID:8371733 ( PubMed abstract )

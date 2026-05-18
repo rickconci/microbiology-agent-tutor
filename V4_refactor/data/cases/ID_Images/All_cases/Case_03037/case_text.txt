@@ -1,0 +1,36 @@
+History of Present Illness
+IDSA 2003 Summary: An HIV-seropositive woman with blurred vision.
+A middle-aged African woman presented with a three-week history of headaches and decreased visual acuity. She described seeing blurred and distorted images and reported several instances of walking into objects such as street signs. Three months before admission, she had been diagnosed with human immunodeficiency virus type 1 (HIV-1) infection; the CD4 T-cell count was 40 cells/mm³ and the level of HIV-1 RNA was 114,000 copies/ml. She was also found to have a cavitary lung lesion, for which she underwent bronchoscopy. Pathological examination of the bronchial biopsy revealed fungal organisms, and cultures grew Cryptococcus neoformans .
+Approximately seven weeks before admission, antiretroviral therapy with efavirenz, zidovudine and lamivudine was begun. The antiretroviral therapy resulted in an excellent virologic control (the HIV-1 RNA decreased to less than 400 copies/ml) and immunologic response, with the CD4+ T-cell count increasing to 135 cells/mm³. However, there was a delay in starting the patient on antifungal therapy. She remained well and free of physical complaints until three weeks before this presentation, when headaches and visual disturbances developed.
+Past Medical History
+She had a history of pulmonary tuberculosis, for which she was treated approximately 2 years earlier.
+Medications
+Medications included efavirenz, lamivudine, zidovudine, and trimethoprim-sulfamethoxazole.
+Allergies
+She had no known allergies.
+Epidemiological History
+She had immigrated to the United States nine months earlier from Northwestern Africa. There was no history of smoking, illicit drug or heavy alcohol use. She was not sexually active and reported no animal exposures.
+Physical Examination
+The patient appeared well and in no acute distress. The temperature was 99.9°F (37.7°C), blood pressure 132/68 mm Hg, respirations 18 breaths per minute, and pulse 72 beats per minute. There was left homonymous hemianopsia, and the remainder of the general medical and neurological examination was normal.
+Studies
+The white blood cell count (WBC) was 4,300/mm³, hematocrit 35.6%, and the levels of serum electrolytes, glucose, blood urea nitrogen, creatinine, and liver function tests were normal. A lumbar puncture was performed. Analysis of the cerebrospinal fluid (CSF) revealed 3 white cells and 2 red cells per cubic millimeter, glucose 64 mg/dL and total protein 47 mg/dL. The CSF gram stain, bacterial and fungal cultures, and cryptococcal antigen were all negative. Serologic testing for Toxoplasma gondii was negative, and serum cryptococcal antigen was positive at 1:4.
+A chest radiograph was normal. Magnetic resonance imaging (MRI) of the head demonstrated an enhancing lesion in the right frontal lobe and a mildly enhancing subcortical lesion with edema in the right occipital region along the occipital horn ( Figure 1 ).
+Figure 1. Brain MRI scan showing occipital lesion.
+Clinical Course Prior to Diagnosis
+Amphotericin B was started for the treatment of presumed cryptococcal central nervous system infection. She initially described some improvement in her clinical symptoms, without any objective changes in her visual defects.
+Two weeks into her hospital course, nausea, headaches and blurred vision increased. An MRI scan revealed no change in the right frontal lesion but worsening of the right occipital lesion, with greater enhancement. Pyrimethamine, sulfadiazine and systemic corticosteroids were initiated for presumptive Toxoplasma encephalitis, and neurosurgeons were consulted to consider a diagnostic brain biopsy.
+Diagnostic Procedure(s) and Result(s)
+The brain biopsy revealed focal demyelination ( Figure 2 , with myelin stained blue-green) and extensive perivascular and intraparenchymal infiltration by mononuclear inflammatory cells including macrophages, lymphocytes, and plasma cells.
+Rare cells with large nuclei and ill-defined amphophilic inclusions were observed, representing oligodendrocytes of progressive multifocal leukoencephalopathy ( Figure 3 ). The stains for bacteria, fungi, and acid-fast bacilli were all negative. However, immunostaining for JC virus antigens was positive ( Figure 4 ).
+Figure 2. Brain biopsy with myelin stain.
+Figure 3. Brain biopsy with oligodendrocytic inclusions.
+Figure 4. Brain biopsy immunostain for JC viral antigens.
+Treatment and Followup
+The patient was continued on the anti-retroviral regimen and trimethoprim-sulfamethoxazole. Amphotericin, pyrimethamine, and sulfadiazine were discontinued. She was discharged with the steroids to be tapered slowly. She described stabilization of her symptoms after her discharge. She was lost to follow-up after she returned to Africa.
+Discussion
+Progressive multifocal leukoencephalopathy (PML) in the setting of advanced AIDS has been associated with significant morbidity and mortality. Highly-active antiretroviral therapy (HAART) has demonstrated efficacy in stabilizing disease and improving survival in AIDS patients with PML.
+Progressive multifocal leukoencephalopathy has also been described as presenting as an immune reconstitution syndrome, after initiation of HAART. This is typically seen in patients with a good immunologic and virologic response to retroviral therapy as demonstrated by an increase in CD4+ T-cell counts and decrease in HIV-1 RNA level. This patient developed neurologic symptoms four weeks after the introduction of antiretroviral therapy. At six weeks, her CD4+ count had increased from 40 to 135 cells/mm³, and her HIV-1 viral load had decreased from 114,000 to less than 400 copies/mL.
+PML as an immune reconstitution event characteristically presents 3 to 8 weeks after the initiation of HAART. A subset of patients progress rapidly to death despite continuing HAART. A definitive diagnosis of PML requires the demonstration of the characteristic pathologic changes on brain biopsy. Numerous foci of demyelination can be seen in the cerebral white matter. Cerebral PML lesions typically reveal minimal inflammatory changes.
+However, in the subset of patients with immune reconstitution-related PML there may be marked mononuclear infiltration in the brain, as seen in this patient. This inflammatory response correlates with the radiologic findings in such patients. Whereas CT scans of patients with PML characteristically reveal hypodense, non-enhancing lesions of the cerebral white matter, the CT scans of patients with immune reconstitution-related PML exhibit contrast enhancement, especially at the leading edge of the lesion. Biopsy of this area demonstrates marked inflammation. Treatment involves continuing antiretrovirals. A possible role for cidofovir and corticosteroids has not been clearly defined.
+Final Diagnosis
+Progressive multifocal leukoencephalopathy (PML) as sequelae of immune reconstitution syndrome in an African patient with polyomavirus JC virus and HIV infection and AIDS.

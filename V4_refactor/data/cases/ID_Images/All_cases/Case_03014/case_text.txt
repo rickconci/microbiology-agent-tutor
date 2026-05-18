@@ -1,0 +1,30 @@
+History of Present Illness
+IDSA 2003 Summary: A man with fever and acute right upper extremity erythema and edema.
+A man in his fifties with mantle cell lymphoma was in his usual state of health until four days before admission when he was admitted to another institution with nausea and small bowel ileus, which was attributed to chemotherapy. He was treated with bowel rest and received intravenous hydration via a peripheral line placed in the antecubital fossa. His symptoms resolved and he was discharged from the hospital.
+One day before admission, he developed right upper arm pain and swelling, which progressed rapidly over 24 hours. These symptoms were accompanied by fever to 39ºC (102.2ºF).
+Past Medical History
+There was a history of mantle cell lymphoma; 3 weeks before admission, he had received vincristine, cyclophosphamide, prednisone and doxorubicin.
+Allergies
+He was allergic to fluoroquinolones.
+Physical Examination
+The patient was alert and in extreme discomfort secondary to pain. The temperature was 38.1ºC (100.6ºF), blood pressure 100/70 mm Hg, pulse 108 beats per minute and respirations 18 breaths per minute. The right upper arm was circumferentially edematous with bluish-purple discoloration, which extended during the course of his evaluation. Crepitus was evident from his right shoulder to his elbow; distal pulses were absent. Mild erythema was noted along the lateral aspect of right hip and thigh, as well. The abdominal examination was normal, without tenderness or masses on palpation. The remainder of the physical examination was normal.
+Studies
+The white blood cell count was 6,700 cells/mm³ (85% neutrophils); the levels of electrolytes, including serum calcium, and tests of renal and liver function were normal. Radiographs of the right upper extremity and right hip ( Figures 1 and 2 ) showed gas within the soft tissue planes.
+Figure 1. Radiograph of the arm.
+Figure 2. Radiograph of hip.
+Clinical Course Prior to Diagnosis
+Based on the clinical presentation, blood cultures were drawn and empiric antibiotic therapy was instituted with intravenous penicillin G, vancomycin and clindamycin. Prompt surgical evaluation resulted in right upper extremity amputation with shoulder disarticulation. Debridement and fasciotomy of the right lateral thigh were also performed. Operative tissue was sent for gram stain ( Figures 3 and 4 ), cultures and histopathologic examination with hematoxylin and eosin staining ( Figure 5 ).
+Figure 3. Brown and Hopps tissue gram stain, without oil. (40x magnification)
+Figure 4. Brown and Hopps tissue stain, with oil. (100x magnification)
+Figure 5. H and E stain of muscle specimen. (40x magnification)
+Diagnostic Procedure(s) and Result(s)
+Samples of tissue from the right upper extremity revealed extensive necrosis of soft tissue with involvement of muscle. Brown and Hopps gram staining of a wound specimen revealed gram-positive organisms ( Figure 4 ). Sheets of large bacilli in association with minimal inflammatory response were seen in the tissues on the histopathologic stains ( Figure 5 .) One set of blood cultures taken before antibiotic therapy grew anaerobic gram-positive rods, later identified as Clostridium septicum .
+Treatment and Followup
+The patient received antimicrobial coverage in the intensive care setting. Activated protein C was instituted for persistent hemodynamic instability.
+Fifteen days after amputation, the patient developed fever and abdominal distension with passage of grossly bloody stool. Computed tomographic examination of the abdomen revealed the presence of free air and an emergent exploratory laparotomy was performed. A perforation in the ascending colon was identified with an associated mass lesion. Histologic examination revealed full transmural infiltration due to adenocarcinoma with necrotizing inflammation. An evaluation for metastatic lesions was unrevealing and patient underwent colectomy with subsequent chemotherapy for colon cancer.
+Discussion
+Clostridial infections are typically associated with surgical and traumatic wounds. However a subset of these soft-tissue infections, in particular those caused by Clostridium septicum , have been described in the absence of trauma and are referred to as atraumatic or spontaneous myonecrosis.
+C. septicum is a gram-positive, spore-forming anaerobic bacillus, which causes fulminant muscle necrosis due to the production of a potent alpha toxin (lecithinase). This aerotolerant organism has been associated with atraumatic myonecrosis in the setting of both obvious and occult gastrointestinal and hematologic malignancies, as well as in persons with diabetes mellitus and cyclic neutropenia. In one retrospective review, 92% of the 38 cases of atraumatic myonecrosis had underlying malignancy; 50% had occult tumor at the time of clostridial infection. Unlike other clostridial species, C. septicum is not a common isolate of stool but has high carriage rates in the appendix. Breach of mucosal integrity at the site of a colonic malignancy may serve as a portal of entry for these organisms resulting in subsequent seeding at distant sites. In patients with leukemia, it has been suggested that associated necrotizing colitis favors translocation of organisms into the blood stream. Despite aggressive management with antibiotics and surgery, case fatality rates of 79% have been reported.
+Atraumatic myonecrosis secondary to infection with C. septicum is a rare, but recognized clinical presentation of occult gastrointestinal malignancy. Our case reinforces this association and underscores the need to evaluate patients with atraumatic myonecrosis for an underlying malignancy.
+Final Diagnosis
+Clostridium septicum bacteremia and myonecrosis secondary to perforated viscus due to underlying adenocarcinoma of the colon.

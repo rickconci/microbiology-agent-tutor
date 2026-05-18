@@ -1,0 +1,42 @@
+History of Present Illness
+IDSA 2007 Fellows Day Case Presentation Summary: A man with hypertension, hepatitis and hemoptysis.
+A man in his fifties with a history of hypertension and hepatitis of unknown etiology presented to an emergency department with hemoptysis of 2-months' duration. Cough, productive of red blood mixed with yellow sputum, was present; the patient was not able to quantify the amount of blood. There was dyspnea on exertion after walking 1 block and diffuse pleuritic chest pain. Night sweats, decreased appetite, and a 10-pound weight loss over 2 months had occurred. There were no fevers, chills or other sites of bleeding. He did not know of anyone who was ill, including anyone with tuberculosis.
+Past Medical History
+There was a history of hypertension and hepatitis of unknown etiology.
+Medications
+None.
+Allergies
+There were no allergies to medications.
+Epidemiological History
+He was born in Honduras and had immigrated to the United States 26 months earlier. He lived in Florida until moving to the Ohio River valley basin 8 months before presentation. He lived with two relatives who were not ill, and worked in a factory. There were no pets and no exposures to animals. The patient was a former smoker and denied alcohol or drug use.
+Physical Examination
+The patient was cachectic and in no acute respiratory distress. The temperature was 99.8°F (37.7°C), blood pressure 120/52 mm Hg, pulse 62 beats per minute, respirations 18 breaths per minute, and oxygen saturation 90% while breathing 2 liters of oxygen by nasal cannula. There were crackles at the bases of both lungs, bilaterally. There were no wheezes or rhonchi. The remainder of the examination was normal.
+Studies
+The white cell count was 14,600 cells/mm³ with 80% neutrophils. The other laboratory tests, including serum chemistries and liver function tests, were normal. A chest radiograph ( Figures 1 and 2 ) showed multiple pulmonary nodules diffusely and some areas of cavitation.
+Computed tomography (CT) of the chest ( Figures 3 and 4 ) showed multiple scattered nodular opacities with numerous cavitary lesions. Irregular foci of airspace disease, especially in the lower lobes bilaterally, and extensive mediastinal and hilar lymphadenopathy were seen. A gram stain of the sputum showed many polymorphonuclear cells and mononuclear cells, and no organisms. Three specimens of sputum were negative for acid-fast staining organisms. Serological testing (ELISA) for human immunodeficiency virus (HIV) was negative.
+Figure 1. Chest radiograph.
+Figure 2. Chest radiograph, lateral.
+Figure 3. Chest CT scan.
+Figure 4. Chest CT scan.
+Clinical Course Prior to Diagnosis
+A bronchoscopy with bronchial washings, bronchoalveolar lavage, and biopsy was performed. Pathological examination of the tissue was examined with Gomori methenamine silver stain ( Figure 5 ) and hematoxylin and eosin stain ( Figure 6 ).
+Figure 5. GMS stain of lung biopsy.
+Figure 6. H and E stain of lung biopsy.
+Diagnostic Procedure(s) and Result(s)
+Gomori methenamine silver (GMS) stain of the lung biopsy is shown in Figure 5 . Fungal microorganisms that were morphologically consistent with Paracoccidioides were seen. Pathological examination of the biopsy ( Figure 6 ) showed mixed acute and chronic inflammation and poorly formed granulomas, and no malignant cells. There were no acid-fast organisms.
+Six weeks later, cultures of specimens obtained from bronchoalveolar lavage and bronchial washing cultures grew a moderate amount of mold, which was identified as Paracoccidioides brasiliensis .
+Treatment and Followup
+The patient was discharged on itraconazole 100 mg twice a day, orally. At follow-up six weeks later, the hemoptysis and shortness of breath had resolved and his appetite was improved. He has returned to work.
+Discussion
+Paracoccidioides brasiliensis is a dimorphic fungus. Microscopically, it is characterized by multiple sporulations of small buddings covering the whole surface of the mother cell. This steering wheel appearance is pathognomonic. Paracoccidioidomycosis is endemic in Latin America, between Mexico 20ºN and Argentina 35ºS. Most published cases are from Brazil, Venezuela, and Colombia. It has not been described in the Caribbean or Chile [Bethlem et al 1999]. The adult chronic progressive form is characterized by reactivation of quiescent lung lesions. Symptoms include weight loss, malaise, productive cough, and eventually hemoptysis. Fever is rare. It can often be misdiagnosed as tuberculosis, although tuberculosis can coexist in 10-25% of cases [Manns et al 1996]. The adult disseminated form is characterized by multifocal dissemination to the skin, oral mucosa, tongue, palate, and vocal cords. It is often accompanied by cervical, axillary, and/or mediastinal lymphadenopathy [Bethlem et al 1999]. Subacute or overt adrenal insufficiency occurs in 15% of cases [Manns et al 1996]. It can also involve the spleen, liver, male genitourinary tract, and vascular system [Sugar 1988].
+Final Diagnosis
+Paracoccidioidomycosis of the lung caused by Paracoccidioides brasiliensis.
+References
+Bethlem, E.P., Capone, D., Maranhao, B., Carvalho, C.R., and Wanke, B. (1999). Paracoccidioidomycosis. Curr Opin Pulm Med 5, 319-325.
+PMID:10461538 ( PubMed abstract )
+Manns, B.J., Baylis, B.W., Urbanski, S.J., Gibb, A.P., and Rabin, H.R. (1996). Paracoccidioidomycosis: case report and review. Clin Infect Dis 23, 1026-1032.
+PMID:8922797 ( PubMed abstract )
+Ramos, E.S.M., and Saraiva Ldo, E. (2008). Paracoccidioidomycosis. Dermatol Clin 26, 257-269, vii.
+PMID:18346557 ( PubMed abstract )
+Sugar, A.M. (1988). Systemic fungal infections: diagnosis and treatment. I. Paracoccidioidomycosis. Infect Dis Clin North Am 2, 913-924.
+PMID:3062094 ( PubMed abstract )

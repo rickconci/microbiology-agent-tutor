@@ -1,0 +1,31 @@
+History of Present Illness
+2006 April Featured Case Summary: A woman on immunosuppressive therapy presented with fever and respiratory symptoms.
+A middle-aged woman presented with cough, dyspnea, low-grade fever, and malaise for approximately two weeks. There was a history of psoriatic arthritis for which prednisone, methotrexate, and infliximab had been administered for at least ten months.
+Past Medical History
+She had a history of psoriatic arthritis.
+Medications
+Medications included prednisone, methotrexate, and infliximab. (She was not receiving trimethoprim-sulfamethoxazole.)
+Social History
+The patient was a homemaker.
+Epidemiological History
+She lived in the Eastern United States and had traveled to the Midwest in the past. There was no history of tobacco, alcohol, or illicit substance use.
+Physical Examination
+The patient appeared tired and short of breath. The respiratory rate was 32 breaths per minute, with an oxygen saturation ranging from 96-100% while breathing 100% supplemental oxygen; other vital signs were normal. The lungs had coarse rales bilaterally with decreased breath sounds at each base. There was no murmur, rubs or gallops on cardiovascular exam. The abdomen was obese and the extremities had trace edema. The remainder of the examination was normal.
+Studies
+A chest radiograph revealed extensive bilateral interstitial infiltrates. (See Figure 1.)
+Figure 1. Chest radiograph.
+Clinical Course Prior to Diagnosis
+Ceftriaxone and azithromycin were administered empirically at an outside hospital and bronchoscopy with bronchoalveolar lavage (BAL) was performed. Sputum and culture results were initially negative. The patient's condition worsened and she was transferred to a tertiary care hospital.
+Stains of the bronchoalveolar lavage are shown in Figures 2 and 3 .
+Figure 2. Bronchoalveolar lavage.
+Figure 3. Bronchoalveolar lavage.
+Diagnostic Procedure(s) and Result(s)
+Bronchoscopy with bronchoalveolar lavage revealed small, narrow-budding yeast (Figures 2 and 3) in both lung fields that were initially thought to be Pneumocystis jirovecii . High-dose trimethoprim-sulfamethoxazole was administered but the patient did not improve.
+Blood isolator cultures taken on admission eventually grew Histoplasma capsulatum . Retrospective analysis of the bronchoalveolar lavage samples was thought to be consistent with this. Cultures from the lavage sample at the outside hospital eventually grew H.capsulatum as well.
+Treatment and Followup
+The patient required intubation and mechanical ventilatory support in the intensive care unit within 24 hours of her admission to the tertiary care hospital. The antimicrobial regimen was changed to intravenous amphotericin B (liposomal) and the patient gradually improved. Mechanical ventilatory support was weaned and the patient was extubated after she defervesced. She was discharged to a rehabilitation facility for a prolonged course of therapy of oral itraconazole.
+Discussion
+The patient had been on several different immunosuppressive medications for psoriatic arthritis. Pneumocystis jirovecii pneumonia (PCP) prophylaxis had not been initiated and she was thus at high risk for this disease. The presence of yeast in her lavage and the clinical picture was suggestive (but not conclusive) of PCP. This diagnosis ultimately was found to be incorrect.
+The blood cultures and lavage cultures eventually grew Histoplasma capsulatum . The patient had a history of travel to endemic areas in the past, and with a history of the use of immunomodulatory drugs, she was at higher risk of reactivation of infection with histoplasmosis. The small size of the yeast and the narrow-budding seen in the figures are characteristic of this dimorphic fungus.
+Final Diagnosis
+Disseminated histoplasmosis due to Histoplasma capsulatum in an immunocompromised patient.

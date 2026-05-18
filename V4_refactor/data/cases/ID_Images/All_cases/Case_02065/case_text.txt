@@ -1,0 +1,31 @@
+History of Present Illness
+Summary: A woman with abdominal distension, pleural effusion and ascites.
+A woman in her forties presented with three weeks of abdominal distension, fever to 103°F (39.4°C), nausea and diarrhea. She also reported 2 weeks of a dry cough and dyspnea on exertion.
+Past Medical History
+There was a history of sarcoidosis with uveitis and pulmonary nodules, which had never been treated, and a positive skin test for tuberculosis (PPD) at age 20 years for which she had received nine months of isoniazid (INH).
+Medications
+None
+Epidemiological History
+She lived in urban Maryland, and reported no tobacco, alcohol or drug use, or travel or animal exposures.
+Physical Examination
+The temperature was 101.6°F (38.7°C). Examination of the lungs revealed decreased breath sounds on the right. The abdomen was soft and distended with shifting dullness.
+Studies
+A chest radiograph showed a right pleural effusion. Computed tomography (CT) of the abdomen showed ascites. The ascitic fluid was tapped and had a white blood cell count 1800 cells/mm³ with 3% polys and 97% lymphs, glucose 76 mg/dL, protein 5.6 mg/dL, and lactate dehydrogenase (LDH) 300 U/L.
+Clinical Course Prior to Diagnosis
+At laparoscopy, there was diffuse nodularity of the uterine serosa, fallopian tubes, ovaries and studding of the large and small bowel and peritoneal surfaces. Similar findings were seen throughout the peritoneum ( Figure 1 ).
+Figure 1. Findings on laparoscopy.
+Diagnostic Procedure(s) and Result(s)
+Laparoscopic biopsies showed caseating granulomas. Intra-operative cultures grew Mycobacterium tuberculosis .
+Treatment and Followup
+The patient was tested for human immunodeficiency virus type 1 (HIV-1) and was found to be negative. She received treatment for tuberculosis and her symptoms resolved.
+Discussion
+The clinical presentation of tuberculous peritonitis is divided into the serous or plastic type. The serous type is characterized by ascites, as in this case. The plastic type is notable for abdominal masses and a "doughy" abdomen.
+Final Diagnosis
+Peritonitis caused by .
+References
+Guirat, A., Koubaa, M., Mzali, R., Abid, B., Ellouz, S., Affes, N., Ben Jemaa, M., Frikha, F., Ben Amar, M., and Beyrouti, M.I. (2011). Peritoneal tuberculosis. Clin Res Hepatol Gastroenterol 35, 60-69.
+PMID:21215540 ( PubMed abstract )
+Manohar, A., Simjee, A.E., Haffejee, A.A., and Pettengell, K.E. (1990). Symptoms and investigative findings in 145 patients with tuberculous peritonitis diagnosed by peritoneoscopy and biopsy over a five year period. Gut 31, 1130-1132.
+PMID:2150661 ( PubMed abstract )
+Yeh, H.F., Chiu, T.F., Chen, J.C., and Ng, C.J. (2012). Tuberculous peritonitis: analysis of 211 cases in Taiwan. Dig Liver Dis 44, 111-117.
+PMID:21944948 ( PubMed abstract )

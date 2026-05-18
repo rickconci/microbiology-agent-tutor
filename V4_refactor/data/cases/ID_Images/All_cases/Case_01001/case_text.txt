@@ -1,0 +1,20 @@
+History of Present Illness
+IDSA 2001 Case and Medical Student Curriculum Case Summary: An HIV-positive male with fever, cough, and skin lesions.
+An man in his twenties with human immunodeficiency virus (HIV) was admitted to a hospital after developing a one-week illness with dyspnea, cough productive of yellow and occasionally blood-streaked sputum, fevers, chills, nausea, vomiting and diarrhea. He also reported a 3-week history of a rash, with the appearance of unusual skin lesions that initially appeared on his face, then involved his extremities.
+Past Medical History
+He had had human immunodeficiency virus (HIV) infection for an unknown duration, and was not adherent with medications. He had formerly used intravenous drugs.
+Physical Examination
+He was alert and oriented, and appeared mildly ill. The temperature was 99.6 °F (37.6°C); the pulse was 108 beats per minute, and the blood pressure 134/88 mm/Hg. Oral thrush was present. The lungs had diffuse rhonchi and wheezes, and the abdomen was soft without organomegaly. The skin examination is shown in Figures 1, 2, and 3 .
+Figure 1. Physical findings on face.
+Figure 2. Physical findings in mouth.
+Figure 3. Physical findings on extremity.
+Studies
+The white blood cell (WBC) count was 7,300/mm³, aspartate aminotransferase (AST) 61 U/L, alanine aminotransferase (ALT) 66 U/L, alkaline phosphatase 168 U/L, lactate dehydrogenase 630 U/L, and bilirubin was normal. The CD4 T-lymphocyte cell count was less than 20 cells/mm³.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of a biopsy of one of the skin nodules was positive for sheets of yeast-like organisms consistent with Cryptococcus . (See Figure 4 for silver stain of biopsy, Figure 5 for mucicarmine stain.) A test of the cerebrospinal fluid (CSF) for cryptococcal antigen (Ag) was positive. Cultures of the blood and sputum grew Cryptococcus .
+Figure 4. Silver stain of skin biopsy.
+Figure 5. Mucicarmine stain of biopsy.
+Treatment and Followup
+The patient received amphotericin B for 23 days, followed by oral fluconazole. The skin lesions began to decrease but were still present upon discharge. He was subsequently lost to follow-up.
+Final Diagnosis
+Disseminated cryptococcosis with cutaneous, cerebrospinal fluid and pulmonary involvement in a patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).

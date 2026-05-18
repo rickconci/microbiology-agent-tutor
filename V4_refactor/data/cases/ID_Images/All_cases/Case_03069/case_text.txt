@@ -1,0 +1,24 @@
+History of Present Illness
+Summary: A man with ear pain and confusion.
+A man in his seventies presented to the emergency department with altered mental status. He had been in his usual state of excellent health until the evening prior to admission when he experienced some right ear pain and discharge. He instilled topical ciprofloxacin eardrops (recently prescribed to a family member for an otitis externa). The next morning he felt tired and was noted to have slurred speech by his family. After a nap, he was noted to be confused and aphasic. He was brought to the emergency room.
+Physical Examination
+The temperature was 103°F (39.4°C) and blood pressure 95/77 mm Hg. He was obtunded, and sanguineous fluid drained from his right ear.
+Studies
+The peripheral leukocyte count was 8600/mm³ with 74% polymorphonuclear cells and 24% band forms. His evaluation included a head/maxillofacial computed tomography (CT), which demonstrated fluid in the external ear canal and opacification of the right mastoid air cells, but no temporal bone fracture. A lumbar puncture revealed an opening pressure of 27 cm H20, glucose of 91 mg/dL (serum concentration 202 mg/dL), and total protein of 322 mg/dL. Cell count showed 371 leukocytes/mm³, with a differential of 58% polymorphonuclear cells, 36% band forms, and 2% lymphocytes.
+Clinical Course Prior to Diagnosis
+Gram stain of cerebrospinal fluid (CSF) is shown in Figure 1 . He rapidly developed progressive shock and obtundation, requiring multiple pressors and intubation. A head MRI scan was performed, as seen in Figure 2 .
+Figure 1. Gram stain of spun CSF.
+Figure 2. Head MRI scan, coronal view.
+Diagnostic Procedure(s) and Result(s)
+The CSF gram stain and subsequent culture revealed Group A Streptococcus , M type 1, NADase positive.
+Treatment and Followup
+Despite the treatment noted above, and broad spectrum antibiotics, the patient unfortunately died within 19 hours of presentation secondary to refractory hypotension, renal failure, with possible toxic shock syndrome.
+Discussion
+In the antibiotic era, otitic meningitis due to Streptococcus pyogenes is rare. Extension of infection via the mastoid bone may result in meningitis. Other complications of mastoiditis include temporal lobe brain abscess and septic thrombosis of the lateral sinus.
+Final Diagnosis
+Otitic meningitis due to Streptococcus pyogenes (Group A Streptococcus ).
+References
+Cohen-Kerem, R., and Lavon, H. (2002). Group-A streptococcal meningitis in an adult, secondary to purulent otitis media. J Laryngol Otol 116, 541-542.
+PMID:12238676 ( PubMed abstract )
+O'Brien, K.L., Beall, B., Barrett, N.L., Cieslak, P.R., Reingold, A., Farley, M.M., Danila, R., Zell, E.R., Facklam, R., Schwartz, B., and Schuchat, A. (2002). Epidemiology of invasive group a streptococcus disease in the United States, 1995-1999. Clin Infect Dis 35, 268-276.
+PMID:12115092 ( PubMed abstract )

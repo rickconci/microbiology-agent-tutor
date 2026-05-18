@@ -1,0 +1,23 @@
+History of Present Illness
+Summary: An African woman with weight loss, early satiety and night sweats.
+An East African woman in her thirties presented to the local hospital in western Kenya with an eight-month history of fatigue, weight loss, and early satiety. She reported episodic non-bloody diarrhea, occasional night sweats and weight loss of 10 kilograms (22 pounds).
+Past Medical History
+She had no known chronic illnesses; human immunodeficiency virus (HIV) status was unknown. She has had malaria several times as child, and had given birth to five children, one of whom had died as infant.
+Medications
+None.
+Epidemiological History
+She lived in small village in western Kenya, and worked in a family plot growing corn and tea. She reported no alcohol or tobacco use. Her husband occasionally traveled to Nairobi for business. Several family members had tuberculosis, and one sibling had died from AIDS.
+Physical Examination
+She appeared thin and malnourished. The temperature was 37.7°C (99.9°F), pulse 86 beats per minute, respiratory rate 18 breaths per minute, and blood pressure 100/70 mm Hg. There was shotty lymphadenopathy in the neck, supraclavicular and axillary regions. The abdominal exam revealed massive hepatosplenomegaly with the spleen occupying the entire left hemi-abdomen and extending well below the pelvic brim. (See Figure 1 for area of liver and spleen enlargement.) The remainder of the examination was normal.
+Figure 1. Physical findings.
+Studies
+The white blood cell count (WBC) was 5,400/mm³, hematocrit 25%, and platelets 60,000/mm³. The levels of plasma electrolytes were sodium 133 mmol/L, potassium 3.8 mmol/L, chloride 97 mmol/L, and carbon dioxide (HCO3) 22 mmol/L; the aspartate aminotransferase (AST, SGOT) was 40 U/L and total bilirubin 1.5 mg/dL.
+Diagnostic Procedure(s) and Result(s)
+Amastigotes were not seen on Giemsa stain of the blood. The stool studies were negative for any ova or parasites. Testing for HIV (ELISA) was negative. Rare Plasmodium were seen in erythrocytes, identified as P. falciparum based on morphology. She was treated with seven days of quinine and doxycycline and her hepatosplenomegaly regressed over several weeks.
+Discussion
+Massive tropical splenomegaly may be caused by hyper-reactive malarial splenomegaly, schistosomiasis, visceral leishmaniasis, thalassemia major, and malignancies (including lymphoproliferative disorders). In a study from West Africa, hyper-reactive malarial splenomegaly (HMS) and B cell lymphoproliferative disorders were the most common cause of massive splenomegaly [Bedu-Addo and Bates]. In this study, HMS was more associated with younger (less than 40 years) age, female gender and lower absolute lymphocyte count as compared to lymphoproliferative disorders.
+Final Diagnosis
+Chronic malaria.
+References
+Bedu-Addo, G., and Bates, I. (2002). Causes of massive tropical splenomegaly in Ghana. Lancet 360, 449-454.
+PMID:12241718 ( PubMed abstract )

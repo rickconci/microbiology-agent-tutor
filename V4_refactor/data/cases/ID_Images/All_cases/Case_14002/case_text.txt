@@ -1,0 +1,45 @@
+History of Present Illness
+2014 March-April Featured Case: A woman in her fifties with a history of human immunodeficiency virus (HIV) infection was evaluated in an outpatient clinic because of recent abdominal cramping, diarrhea and a fecal abnormality.
+The patient was in her usual state of health until three weeks before this presentation when abdominal cramping developed. Several days before this evaluation, diarrhea began, associated with nausea. One day before, while having a bowel movement, she noted a fecal abnormality described as a 'worm', about two feet in length. The next day, she went to the outpatient clinic, and brought in a portion and a stool specimen for examination. She reported feeling hungry for months, despite good food intake.
+Past Medical History
+HIV infection and AIDS had been diagnosed 10 years earlier after a diagnosis of toxoplasmosis infection of the central nervous system was made. The CD4 T-lymphocyte count measured within months before this presentation was 722 per cubic millimeter (23.4%) and the HIV RNA level was undetectable. She also had had recurrent pneumonias, and a splenectomy following a motor vehicle accident as a teenager; an accessory spleen was present. A tuberculosis skin test had been negative the previous year.
+Medications
+Medications included efavirenz/emtricitabine/tenofovir fixed dose (600mg/200mg/300mg daily) and simvastatin.
+Social History
+She was married and worked in an office.
+Epidemiological History
+She was born in a city and lived in a suburban area of the Northeast United States. She had traveled to the Caribbean 9 months earlier. She ate fish often, especially salmon which she did not always cook completely, and reported eating sushi within the previous week. She drank alcohol rarely, had stopped smoking many years earlier, and did not use illicit drugs.
+Physical Examination
+The patient was in no distress and thin. The weight was 134 pounds (61kg) and 3 pounds (1.4kg) less than previously recorded; the body mass index (the weight in kilograms divided by the square of the height in meters) was 22. The vital signs and the remainder of the examination were normal.
+Studies
+Examination of the stool was performed.
+Figure 1. Fecal product.
+Figure 2. Fecal product.
+Diagnostic Procedure(s) and Result(s)
+The fecal abnormality ( Figure 2 ) was identified as the cestode Diphyllobothrium (an adult fish tapeworm with numerous proglottid segments). Examination of the stool revealed numerous cysts or ova ( Figure 3 ) consistent with D. latum .
+Figure 3. Examination of the stool, 20x magnification.
+Treatment and Followup
+Praziquantel (600 mg, orally) was administered daily for 2 days. A stool specimen obtained several months later showed no evidence of ova or parasites.
+Discussion
+This patient with a history of HIV infection and AIDS developed diarrhea, followed by excretion per rectum of a worm (or helminth) segment, greater than 2 feet in length. Examination of the helminth revealed a multi-segmented flatworm (or cestode) consistent with Diphyllobothrium latum , of the genus Diphyllobothrium , a broad or fish tapeworm, in which each segment (proglottid) of the body (strobila) of the tapeworm contains both male and female productive organs [Scholz et al. 2009]. The stool specimen also revealed numerous ovoid cysts or eggs, which are released by the proglottids into the intestine. [Scholz et al. 2009].
+Adult specimens of Diphyllobothrium species may grow up to 25 meters and 4000 segments in length; more often, D. latum grows up to 12 meters in length. Although many infections with D. latum can be asymptomatic, approximately 20% of patients may have diarrhea and/or abdominal discomfort [Scholz et al. 2009; Sampaio et a. 2005]; complications such as mechanical intestinal obstruction caused by the folded loops of the long worm, constipation, cholecystitis, and pernicious or megaloblastic anemia caused by factors related to vitamin B12 metabolism in the intestines and absorption of the vitamin by the worm can also occur [Scholz et al. 2009].
+Diphyllobothrium species are found in freshwater nonsalmonid fish (such as perch, pike, burbot and walleye), salmonids that spawn in freshwater and live partly in the sea (including salmon, trout and whitefish), and possibly by brackish-water or marine fish. Infection with D. latum can be prevented by avoiding consumption of raw or uncooked fish or by prolonged and deep freezing of fish [Scholz et al. 2009].
+Of the other organisms listed in the differential, Echinococcus granulosus and Taenia solium are also cestodes. Echinococcus , is generally in its larval form when found in human, and occurs after exposure to the eggs present in dog feces. Human illness may be caused by the body’s reaction to a growing or persistent cyst. Consumption of Taenia solium larval cysts in undercooked pork causes tapeworm infestation in the human intestine. The dimensions of the proglottids of T. solium are characteristically longer than they are wide, in contrast to those of D. latum in which the proglottids' width is greater than the length [Harada et al. 2006]. When a human ingests T. solium eggs shed in the stool of a person who is a tapeworm carrier, cysticercosis may result; in that instance, illness develops because of the presence of cysts in tissue, particularly the brain or central nervous system.
+Ascaris , Trichuris trichiura and Strongyloides stercoralis are all roundworms and do not have the flat multi-segmented appearance shown in Figures 1 and 2 of this case.
+Patients with HIV infection who are co-infected with helminths do not appear to have more rapid progression of their immunodeficiency [Brown et al. 2004] or more severe helminthic infestations that those not infected with HIV [Wiwanitkit 2006].
+Final Diagnosis
+Diphyllobothriasis caused by infection consistent with Diphyllobothrium latum (fish tapeworm) in a patient with HIV infection and AIDS.
+References
+Budke CM, White AC Jr, Garcia HH. (2009) Zoonotic Larval Cestode Infections: Neglected, Neglected Tropical Diseases? PLoS Negl Trop Dis. 2009 February; 3(2): e319.
+PMID:19238190 ( PubMed abstract )
+Brown M, Kizza M, Watera C, Quigley MA, Rowland S, Hughes P, Whitworth JA, Elliott AM.(2004) Helminth infection is not associated with faster progression of HIV disease in coinfected adults in Uganda. J Infect Dis. 2004 Nov 15;190(10):1869-79. Epub 2004 Oct 20.
+PMID:15499545 ( PubMed abstract )
+Crompton DWT (editor) (2012). Accelerating Work to Overcome the Global Impact of Neglected Tropical Diseases – A Roadmap for Implementation. Geneva: WHO Press, World Health Organization.
+Harada S, Nozaki Y, Yagou Y, Hiraga Y, Gatanaga H, Uemura N, Kimura S, Oka S. (2006) A woman who excreted a tape-like substance. Diphyllobothriasis. Clin Infect Dis. 2006 Feb 15;42(4):516-7, 572-4.
+PMID:16425463 ( PubMed abstract )
+Sampaio JL, de Andrade VP, Lucas Mda C, Fung L, Gagliardi SM, Santos SR, Mendes CM, Eduardo MB, Dick T. (2005) Diphyllobothriasis, Brazil. Emerg Infect Dis. 2005 Oct;11(10):1598-600.
+PMID:16318703 ( PubMed abstract )
+Scholz T, Garcia HH, Kuchta R, Wicht B. (2009) Update on the human broad tapeworm (genus diphyllobothrium), including clinical relevance. Clin Microbiol Rev. 2009 Jan;22(1):146-60, Table of Contents. doi: 10.1128/CMR.00033-08.
+PMID:19136438 ( PubMed abstract )
+Wiwanitkit V. (2006) Intestinal parasite infestation in HIV infected patients. Curr HIV Res. 2006 Jan;4(1):87-96.
+PMID:16454714 ( PubMed abstract )

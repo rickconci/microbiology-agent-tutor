@@ -1,0 +1,42 @@
+History of Present Illness
+Summary: A woman with HIV and asthma presented with shortness of breath.
+A middle-aged woman presented in the winter with increasing shortness of breath and wheezing for three days. She also reported a non-productive cough. A child with whom she lived had had a respiratory illness ten days earlier.
+She had a history of infection with human immunodeficiency virus (HIV), asthma and a malignancy that had metastasized to the lung.
+Past Medical History
+Medical problems included:
+1. HIV infection, with a recent CD4 T-lymphocyte cell count of 150 cells/mm³, CD4 T-lymphocyte percentage 26%, and HIV RNA 4,100 copies/ml.
+2. Asthma with 2-3 exacerbations per year that required treatment with an oral prednisone taper. She had never been intubated and was not on chronic steroids.
+3. A malignancy that had metastasized to the lung; a left lower lobe nodule was present.
+4. Hepatitis C virus infection.
+5. Hypersplenism with chronic leukopenia (white blood cell count 1,500-2,000 cells/mm³) and thrombocytopenia.
+Epidemiological History
+She lived in an urban setting in the United States Northeast. She denied recent travel and animal exposures.
+Physical Examination
+The patient was a well-developed woman in severe respiratory distress, leaning forward and using her accessory muscles of respiration. The blood pressure was 140/90 mm Hg, the pulse 110 beats per minute, temperature 99.6°F (37.6°C), and respirations 28 breaths per minute. The oxygen saturation was 93% on 2 liters of supplemental oxygen. There were bilateral expiratory wheezes with poor air movement. Her peak flow was 100. The remainder of the examination was normal.
+Studies
+The white blood cell count was 1,000 cells/mm³ (75% polymorphonuclear leukocytes, 10% lymphocytes, 10% monocytes, and 5% eosinophils.) A chest radiograph is shown in Figure 1 and computed tomography (CT) of the chest in Figure 2 .
+Figure 1. Chest radiograph.
+Figure 2. Chest CT scan.
+Clinical Course Prior to Diagnosis
+Bronchodilators, intravenous steroids and oral levofloxacin were administered. A diagnostic test result was received on the second hospital day.
+Diagnostic Procedure(s) and Result(s)
+CT scanning ( Figure 2 ) showed a "tree in bud" appearance. A nasal washing was positive for respiratory syncytial virus (RSV).
+In Figure 3 , columnar respiratory epithelial cells with a fluorescent respiratory syncytial virus (RSV) antibody tag are shown using a tetramethyl rhodamine isothiocyanate (TRITC) filter. RSV cells are yellow-orange and negative cells are red. In Figure 4 , a different filter (fluorescein isothiocyanate or FITC) is used to view the same slide and the RSV appears a duller yellow than in the previous slide. Figure 5 shows RSV-infected columnar cells staining green using the fluorescein isothiocyanate (FITC) tag. RSV has an apple green fluorescence and is seen at 20 x magnification. Figure 6 is the same slide shown at 40x magnification. (Influenza A infected cells would stain red in this preparation.)
+Figure 3. RSV staining red (TRITC), pool antibodies in green.
+Figure 4. RSV slide seen in Figure 3, using FITC filter.
+Figure 5. RSV with FITC tag, apple-green fluorescence.
+Figure 6. Detail of Figure 5.
+Treatment and Followup
+The patient improved with treatment for an asthma exacerbation, a steroid taper and bronchodilators. She did not receive ribavirin therapy. She recovered completely.
+Discussion
+Respiratory syncytial virus (RSV) is a common cause of upper respiratory infection, but may also involve the lower respiratory tract. In immunocompromised hosts, RSV pneumonia can be severe. For example, in bone marrow transplant recipients, RSV may be a cause of fatal pneumonitis. RSV pneumonia has been reported in patients with HIV infection; such individuals may have prolonged shedding of the virus.
+In this patient, the chest CT scan showed a "tree in bud" pattern, often seen in mycobacterial infection. However, this radiographic pattern is not specific for mycobacterial infection and can also be seen with other disease processes, such as RSV pneumonia.
+Addendum:
+Since publication of this case in 2004, RSV vaccines have been FDA approved for adults who are over the age of 60 years. The CDC also recommends two approaches to protect babies from RSV: 1) an RSV vaccine given during pregnancy; 2) an antibody called nirsevimab that is FDA approved to prevent RSV in babies and toddlers.
+Final Diagnosis
+Respiratory syncytial virus (RSV) pneumonia and asthma in a patient with HIV infection.
+References
+Cunha, B.A., Syed, U., and Hage, J.E. (2011). Respiratory syncytial virus (RSV) community-acquired pneumonia (CAP) in a hospitalized adult with human immunodeficiency virus (HIV) mimicking influenza A and Pneumocystis (carinii) jiroveci pneumonia (PCP). Heart Lung.
+PMID:22005289 ( PubMed abstract )
+King, J.C., Jr. (1997). Community respiratory viruses in individuals with human immunodeficiency virus infection. Am J Med 102, 19-24; discussion 25-16.
+PMID:10868138 ( PubMed abstract )

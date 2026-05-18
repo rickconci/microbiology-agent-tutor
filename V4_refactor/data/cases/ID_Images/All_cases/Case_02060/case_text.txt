@@ -1,0 +1,36 @@
+History of Present Illness
+Summary: A woman with fever, hemoptysis and respiratory distress.
+A woman in her forties, recently diagnosed with stage IIIA non-small cell lung cancer, underwent neoadjuvant non-myeloablative chemotherapy and radiation therapy prior to having a right upper lobectomy. She was discharged on the sixth post-operative day to complete a ten-day course of levofloxacin for pneumonia. One week later, she presented to clinic complaining of fevers, chills, sweats and cough productive of yellow to red-brown sputum; she was prescribed levofloxacin for presumed pneumonia. She returned to the emergency room three days later with progressive dyspnea on exertion, persistent fevers, and cough productive of red-brown sputum.
+Medications
+She was taking levofloxacin (day #17).
+Epidemiological History
+She had a history of extensive tobacco use (60 pack-year exposure). Her family history included coronary disease and chronic obstructive pulmonary disease (COPD). She had no pets and had never traveled outside of New England.
+Physical Examination
+She appeared uncomfortable, dyspneic, and toxic. The temperature was 104.7°F (40.4°C), pulse 110 beats/minute, blood pressure 65/50 mm Hg to 120/70 mm Hg after fluid resuscitation, respiratory rate 22/minute, and oxygen saturation 98% while breathing supplemental oxygen (on 3L). Her mucous membranes were dry and decreased air entry was noted throughout the right chest, with egophony at the right base.
+Studies
+The white blood cell count (WBC) was 13,700 cells/mm³ (75% neutrophils, 13% bands, 9% lymphocytes, 2% monocytes). Serum levels of electrolytes and tests of renal and liver function were normal. Urinalysis was negative.
+Computed tomography (CT) of the chest on admission showed findings consistent with a patchy consolidation in the right lower lobe distal to a large pulmonary embolus ( Figure 1 ).
+Figure 1. Admission chest CT scan.
+Clinical Course Prior to Diagnosis
+Intravenous heparin and ceftriaxone were started, but she remained febrile and hypoxic during the next three days. Blood and sputum cultures were unrevealing.
+A chest CT was repeated and demonstrated extension of consolidation and the development of necrosis ( Figure 2 ). The antibiotics were changed to vancomycin, ceftazidime, and gentamicin. Bronchoscopy and bronchoalveolar lavage werenon-diagnostic. When she developed frank hemoptysis by hospital day #5, another chest CT scan was done, which showed further progression of the necrosis and the development of a cavity that extended superiorly to the level of the carina ( Figure 3 ).
+Figure 2. Second chest CT scan.
+Figure 3. Third chest CT scan showing progression.
+Diagnostic Procedure(s) and Result(s)
+Given the extent of parenchymal destruction, she was scheduled for completion of the right pneumonectomy. Two days later, lung tissue sent for culture was noted to be growing the organism seen in Figure 4 . Lactophenol cotton blue stain (seen in Figure 5 ) demonstrated the fungal elements, including nonseptate hyphae, sporangia, and rhizoids of Rhizopus species.
+Pathologic specimens included a Gomori methenamine silver stain ( Figure 6 ) and demonstrated broad non-septate hyphae invading necrotic pulmonary tissue, diagnostic of pulmonary zygomycosis.
+Figure 4. Aerial mycelium on fungal media plate.
+Figure 5. Lactophenol cotton blue stain.
+Figure 6. Gomori methenamine silver stain.
+Treatment and Followup
+Amphotericin B was started, and was changed to liposomal amphotericin B when renal insufficiency developed. She subsequently developed empyema with Aspergillus terreus and Neisseria elongata and a chest tube was placed for drainage and ceftriaxone was added. The empyema was refractory to drainage, and a window thoracotomy was performed. Post-operatively, aerial mycelium of A. terreus was visible to the naked eye on her medial chest wall. Aggressive debridement was continued yet cultures repeatedly grew Rhizopus spp. and A. terreus , and therefore caspofungin was added. Eight weeks of amphotericin B and four weeks of caspofungin were completed before achieving microbiologic cure. Closure of the window thoracotomy was performed and she did well in follow-up.
+Discussion
+Invasive fungal disease caused by members of the class Zygomycetes is often called mucormycosis, however, taxonomists prefer the term zygomycosis. Zygomycetes grow as molds both in the environment and in tissue and appear as nonseptated broad hyphae that branch at nearly right angles. Rhizopus species in particular grow so well that they are nicknamed "lid-lifters" due to the abundant cotton candy-like mycelium that fills the petri dish. While the most common manifestation of zygomycetes infection is rhinocerebral mucormycosis, pulmonary zygomycosis is increasingly recognized. As the hyphae are quite vasculotropic, hemoptysis occurs in about 25% of patients and massive pulmonary hemorrhage can result in death. Distal metastatic disease may result from vascular involvement and the fungus may directly invade other organs in the chest, including the chest wall and mediastinal structures. In some reported cases, many organs are involved, including the lung, and although the exact origin of the mold is not clear, it is presumed that the fungal process started in the lung and subsequently disseminated.
+The role of host immunity in preventing zygomycosis is incompletely understood; however, macrophages of diabetic and glucocorticoid-treated mice are unable to attach to Rhizopus spores and prevent germination. In contrast with rhinocerebral mucormycosis, where diabetes is the most common predisposing factor, pulmonary zygomycosis seems to occur more frequently in patients with hematologic malignancies, neutropenia, and solid-organ transplants. Treatment of invasive zygomycosis requires both aggressive surgical debridement and antifungal drugs, but despite combination therapy, mortality can be as high as 80%. Amphotericin B or its lipid formulations are considered the only effective antifungals and high doses may be required.
+Final Diagnosis
+Pulmonary zygomycosis (sometimes known as mucormycosis) caused by Rhizopus .
+References
+Chamilos, G., Marom, E.M., Lewis, R.E., Lionakis, M.S., and Kontoyiannis, D.P. (2005). Predictors of pulmonary zygomycosis versus invasive pulmonary aspergillosis in patients with cancer. Clin Infect Dis 41, 60-66.
+PMID:15937764 ( PubMed abstract )
+Gonzalez, C.E., Rinaldi, M.G., and Sugar, A.M. (2002). Zygomycosis. Infect Dis Clin North Am 16, 895-914, vi.
+PMID:12512186 ( PubMed abstract )

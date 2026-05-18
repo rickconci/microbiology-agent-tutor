@@ -1,0 +1,25 @@
+History of Present Illness
+Summary: A patient with leg swelling.
+A middle-aged patient presented with lower extremity swelling.
+Medications
+Naproxen.
+Epidemiological History
+The patient lived in a shelter.
+Physical Examination
+The patient appeared well. The vital signs were normal. The lower extremities had several ulcers with surrounding erythema and superficial exudates; some had central eschar. The neurologic and vascular examinations were normal.
+Figure 1. Physical finding.
+Studies
+The complete blood count (CBC) including the white blood cell differential was within normal limits. Liver function tests were normal. Tests for human immunodeficiency virus (HIV), Hepatitis B virus or Hepatitis C virus infections were negative, and testing for autoimmune diseases was normal.
+Diagnostic Procedure(s) and Result(s)
+A biopsy showed extensive neutrophilic abscess formation with focal vasculitis consistent with pyoderma gangrenosum. Superficial cultures grew methicillin-resistant Staphylococcus aureus (MRSA).
+Treatment and Followup
+Azathioprine and broad spectrum antibiotics were administered and the patient had a good clinical response.
+Discussion
+Pyoderma gangrenosum (PG) is one of a group of disorders known as neutrophilic dermatoses. The lesions are characterized histologically by an epidermal and/or dermal inflammatory infiltrate that is predominantly composed of neutrophils without evidence of vasculitis or infection. The lesions in PG can be single or multiple, chronic and recurrent. Lesions are most commonly found on the extremities and particularly in the pretibial area, as in this case.
+A lesion begins as a follicular erythematous papule or pustule or a hemorrhagic bulla on an erythematous base, which then breaks down to form an ulcer with a ragged, violaceous gunmetal colored border. Lesions enlarge at sites of trauma and heal with an atrophic cribiform scar.
+The lesions are usually associated with an underlying systemic disease such as arthritis, inflammatory bowel disease or a lymphoproliferative disorder. Diagnostic testing should include a skin biopsy involving the inflamed border and cultures for bacterial, mycobacterial and fungal organisms. A complete blood count, sedimentation rate, liver function tests, creatinine, coagulation studies, serum protein electrophoresis, cryoglobulins and testing for anti-neutrophil cytoplasm antibodies (ANCA) should be performed.
+Final Diagnosis
+Pyoderma gangrenosum.
+References
+Miller, J., Yentzer, B.A., Clark, A., Jorizzo, J.L., and Feldman, S.R. (2010). Pyoderma gangrenosum: a review and update on new therapies. J Am Acad Dermatol 62, 646-654.
+PMID:20227580 ( PubMed abstract )

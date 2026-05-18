@@ -1,0 +1,28 @@
+History of Present Illness
+IDSA 2003 Summary: A man with a rash after receiving a smallpox vaccine.
+A young adult presented with a fever and rash thirteen days after receiving a primary smallpox vaccination in right deltoid. He had been well until ten days post-vaccination when a low-grade fever and slight headache developed, and he noted a progressive rash involving his trunk, back and arms. He was referred for further evaluation.
+Past Medical History
+He had a history of chickenpox as a child.
+Epidemiological History
+He was sexually active with one female partner for the preceding six months, and testing for antibodies to human immunodeficiency virus (HIV) was negative one year earlier. He occasionally drank alcohol, and denied smoking or recent blood transfusions.
+Physical Examination
+He appeared well. The blood pressure was 137/74 mm Hg, pulse 80 beats per minute, temperature 36.9°C (98.4°F), respirations 18 breaths per minute, and oxygen saturation 99% while breathing ambient air. There were numerous small erythematous papulo-macular lesions and a few vesicles on the back, trunk and buttock, with sparing of the mouth and palms. The right deltoid vaccine site had evidence of a good take and no vesicles were present. The skin lesions are shown in Figures 1 and 2 . The remainder of the examination was normal.
+Figure 1. Physical findings.
+Figure 2. Vaccine site on right deltoid.
+Studies
+The white blood cell count (WBC) was 6,900/mm³, hemoglobin 16 gm/L and platelet count 153,000/mm³. The chest radiograph was normal and testing for antibodies to HIV was negative.
+Clinical Course Prior to Diagnosis
+The skin lesion was swabbed, and direct fluorescence antibody assays for herpes simplex and varicella virus, and for vaccinia PCR and culture were performed. The patient was sent home without treatment but with close observation and daily follow-up in the first 48 hours.
+The skin lesions were photographed again 24 hours after his initial presentation ( Figure 3 ). There were numerous small erythematous maculopapular lesions and a few vesicular lesions on the back, trunk, and buttocks. The rash spared the mouth and palms.
+Figure 3. Twenty-four hour follow-up.
+Diagnostic Procedure(s) and Result(s)
+Skin lesion swabs for direct fluorescence antibody assay for herpes simplex virus and varicella virus were negative. Skin lesion swabs for vaccinia polymerase chain reaction (PCR) and culture were negative.
+Treatment and Followup
+The patient did well; the skin lesions did not progress, and resolved in several weeks.
+Discussion
+On December 13, 2002, President Bush announced that smallpox vaccination was required for military personnel as a national program for preparedness against biological weapons. From December 13, 2002 through May 28, 2003, 450,293 military personnel were vaccinated (70.5 % primary vaccinees and 29.5% re-vaccinees). Smallpox vaccine is made from live vaccinia virus and is administered by using the multiple-puncture technique with a bifurcated needle. By days 6-8 post-vaccination, formation of a papule, vesicle, ulcer or crusted lesion surrounded by an area of induration signifies a response to vaccination and is referred to as a major reaction or a take.
+The evolution of the normal local reaction to primary smallpox vaccination includes development of papule on days 3-4, vesicle on days 5-6, pustule on days 8-9, crusted forms after day 12 and scab-detached scar on days 17-21.
+The World Health Organization (WHO) has recommended that response to vaccination be evaluated on post-vaccination day 6, 7, or 8. During the 14 days post-vaccination, the normal reaction includes fatigue, headache, myalgia, pruritus, fever, lymphadenopathy and edema at the vaccination site.
+Generalized vaccinia is characterized by a disseminated macular or vesicular rash on an erythematous base, which occurs 6-9 days after first-time vaccination and might be preceded by fever. It is self-limited in immunocompetent hosts. Vaccine immune globulin (VIG) might be beneficial in the systemically ill vaccinee.
+Final Diagnosis
+Generalized vaccinia following a smallpox vaccine.

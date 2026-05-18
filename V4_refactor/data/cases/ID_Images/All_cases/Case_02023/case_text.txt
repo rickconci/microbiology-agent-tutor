@@ -1,0 +1,34 @@
+History of Present Illness
+IDSA 2002 Case Summary: A woman with skin lesions for one month.
+A woman in her thirties, status post renal transplant as a youth, presented with a 1-month history of skin lesions. The lesions were distributed on the face, upper chest and forearms. They started as skin-colored, circular to oval, raised lesions, 1-2 cm in diameter. They were painless and did not have any discharge. The lesions developed a central hemorrhagic crust and then healed 1-2 weeks later, while simultaneously, new lesions appeared. The patient also reported generalized headache and chills without fever. There was no focal weakness, seizures or visual changes.
+Past Medical History
+See history of the present illness.
+Medications
+Medications included prednisone (10 mg daily, which had recently been tapered from 60 mg daily), and tacrolimus (1 mg daily). Mycophenolate mofetil and azathioprine had recently been discontinued.
+Epidemiological History
+The patient lived in the southwestern United States, and had no history of travel, smoking, drug or alcohol use, or animal exposure.
+Physical Examination
+The patient had cushingoid facies but otherwise appeared well. The temperature was normal. Multiple 1-2 cm lesions were present on the face, upper chest and forearms, with central hemorrhagic crusting and minimal surrounding erythema ( Figures 1 and 2 ). There was minimal tenderness and no discharge. Multiple bruises and petechiae were also present on the extremities. The neurological exam revealed decreased motor strength in all four extremities (3 out of 5). The remainder of the examination was normal.
+Figure 1. Physical finding.
+Figure 2. Physical finding.
+Studies
+The hematocrit was 27.9%. The serum level of lactate dehydrogenase (LDH) was elevated at 2586 U/L. Chest radiography was normal, and testing for human immunodeficiency virus (HIV) was negative.
+Clinical Course Prior to Diagnosis
+Magnetic resonance imaging (MRI) scan of the brain is shown in Figure 3 .
+Figure 3. MRI scan of the brain.
+Diagnostic Procedure(s) and Result(s)
+A skin biopsy was performed. Pathological examination of the skin biopsy ( Figure 4 ) showed Cryptococcus capsules on hematoxylin and eosin (H & E) stain, confirmed by mucicarmine stain. The serum cryptococcal antigen (Ag) was positive. The cryptococcal antigen (Ag) titer of the cerebrospinal fluid (CSF) was 1:4953. Cultures of the blood and CSF grew Cryptococcus neoformans .
+The ring-enhancing lesions in the basal ganglia on the MRI of the brain ( Figure 3 ) were thought to represent cryptococcomas.
+Figure 4. Skin biopsy.
+Treatment and Followup
+Treatment was initiated with Amphotericin B. The skin lesions showed dramatic improvement within one week. However, in the second week of treatment, the patient became more somnolent. Repeat head MRI suggested increased size of the central nervous system (CNS) lesions. The patient declined repeat lumbar puncture or a brain biopsy. One week later the patient had a cardiac arrest and died.
+On autopsy, the brain lesions were confirmed to be cryptococcomas.
+Discussion
+Cryptococcus neoformans is an encapsulated yeast. Cutaneous cryptococcosis may present with papules, pustules, plaques or ulcers. The lesions often predominate on the face and neck. The lesions may resemble molluscum contagiosum, especially in patients with human immunodeficiency virus (HIV).
+Final Diagnosis
+Disseminated cryptococcosis, caused by Cryptococcus neoformans , including cutaneous involvement, meningitis, cryptococcomas in the brain and cryptococcemia in a renal transplant patient.
+References
+Sun, H.Y., Alexander, B.D., Lortholary, O., Dromer, F., Forrest, G.N., Lyon, G.M., Somani, J., Gupta, K.L., Del Busto, R., Pruett, T.L., Sifri, C.D., Limaye, A.P., John, G.T., Klintmalm, G.B., Pursell, K., Stosor, V., Morris, M.I., Dowdy, L.A., Munoz, P., Kalil, A.C., Garcia-Diaz, J., Orloff, S.L., House, A.A., Houston, S.H., Wray, D., Huprikar, S., Johnson, L.B., Humar, A., Razonable, R.R., Fisher, R.A., Husain, S., Wagener, M.M., and Singh, N. (2010). Cutaneous cryptococcosis in solid organ transplant recipients. Med Mycol 48, 785-791
+PMID:20100136 ( PubMed abstract )
+Sun, H.Y., Wagener, M.M., and Singh, N. (2009). Cryptococcosis in solid-organ, hematopoietic stem cell, and tissue transplant recipients: evidence-based evolving trends. Clin Infect Dis 48, 1566-1576.
+PMID:19402789 ( PubMed abstract )

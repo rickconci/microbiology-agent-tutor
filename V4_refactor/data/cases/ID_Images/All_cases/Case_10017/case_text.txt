@@ -1,0 +1,61 @@
+History of Present Illness
+2011 March-April Featured Case and IDSA 2010 Pediatric Fellows' Day Case Presentation Summary: A toddler presented with intermittent fevers and abdominal pain.
+A toddler had been well until approximately 8 months before presentation, when episodes of abdominal pain developed. Initially, the abdominal pain was generalized and occurred two or three times per week, without exacerbating or alleviating factors, and unrelated to food intake. His appetite remained normal and there was no nausea, vomiting, or diarrhea. Approximately two months after the onset of abdominal pain, gradually increasing abdominal distention developed, associated with fever to 40°C (104°F) daily. His weight decreased by 1.4 kg during the 2.5 months before admission. Shortly before admission, multiple temperature spikes occurred daily. There was no blood in stool, change in stool color, jaundice or icterus.
+Past Medical History
+Approximately one year before presentation, an episode of cervical lymphadenitis (posterior and deep, bilaterally) occurred, which resolved completely after the administration of oral antibiotics.
+Medications
+None.
+Family History
+There was a possible but unconfirmed history of ulcerative colitis in the family, and no known history of celiac disease.
+Epidemiological History
+The patient was born in the American Southwest and lived near a desert, with no history of travel outside of that area. The household included three pets: a dog, cat of unknown age, and bird. There was no history of bites or scratches. He had not consumed unpasteurized dairy products and had no known history of exposure to tuberculosis.
+Physical Examination
+He appeared well, except for diffuse pallor and abdominal distention. The blood pressure was 113/75 mm Hg, pulse 140 beats per minute, temperature 36.4°C (97.5°F), and respirations 20 breaths per minute. There was shotty lymphadenopathy in the anterior cervical and inguinal regions. The abdomen was distended with normal bowel sounds and shifting dullness, and without tympany or tenderness. The liver edge was palpated 2-3 cm below right costal margin, without other masses noted.
+Studies
+The total leukocyte count was 12,900/uL (reference range (ref.) 6000-17,000, adjusted for the patient's age), with 48% neutrophils, 31% lymphocytes, 8% monocytes, and 12% eosinophils (absolute eosinophil count 1548/uL, ref. 0-700/uL), hematocrit 26% (ref. 34-40), platelet count 638,000/uL (ref. 150,000-400,000/ul), with a mean corpuscular volume of 61 fL (ref. 75-87), erythrocyte sedimentation rate 65 mm/hour (ref. 0-9) and the C-reactive protein was 14.4 mg/dL (ref. <0.8). The serum level of protein was 7.5 g/dL (ref. 5.9-7.0). Serum levels of uric acid and lactate dehydrogenase, and the remainder of a comprehensive metabolic panel, were normal. The serum level of iron was 11 ug/dL (ref. 50-120), iron binding (IBC) 244 ug/dL (ref. 261-462); iron saturation 5% (ref. 20-50), and ferritin 206 ng/mL (ref. 7-140). The level of immunoglobulin (Ig) E was 66 IU/ml (ref. 0-12), IgG 2463 IU/ml (ref. 423-1090), IgA at 616 IU/ml (ref. 56-343), and IgM 144 mg/dL (ref range 43-163).
+Urinalysis revealed 1+ protein, and was negative for nitrites, leukocyte esterase, with one white cell per high-power field, and no bacteria. The stool was negative for occult blood, ova and parasites, and Clostridium difficile toxin.
+Computed tomography (CT) of the abdomen and pelvis showed marked ascites; all intraabdominal organs appeared normal ( Figure 1 ). Doppler ultrasonography of the liver was normal.
+Figure 1. CT of the abdomen.
+Clinical Course Prior to Diagnosis
+During the hospitalization, the patient continued to appear well, but spiked fevers daily. Multiple cultures of the blood were sterile.
+A repeat CT scan demonstrated worsening ascites; endoscopy of the upper GI tract was normal. Paracentesis was performed; analysis of the peritoneal fluid revealed a white blood cell count of 4175/ul. Romanowsky staining (Diff-Quik type) of the peritoneal fluid is shown in Figure 2 . Peritoneal fluid culture grew Burkholderia species.
+The degree of distention on examination decreased after paracentesis, and then gradually increased with reaccumulation of fluid, without tenderness.
+Figure 2. Peritoneal fluid, Romanowsky stain.
+Diagnostic Procedure(s) and Result(s)
+A neutrophil oxidative burst assay showed no detectable increase in stimulated granulocyte dihydrorhodamine fluorescence; the findings most closely resembled the “Classic X-linked” histogram shown in Bender et al. 2009. Light microscopy examination of the peritoneal fluid ( Figure 2 ) showed marked chronic lymphocytic inflammation and moderate acute (neutrophilic) inflammation. Cytopathologic examination of the peritoneal fluid also showed marked chronic lymphocytic inflammation and moderate acute (neutrophilic) inflammation, with no evidence of erythrophagocytosis.
+Genetic testing revealed a homozygous mutation in exon 7 of the gp91-phox gene, at position c.703_704delAG, p.S235fsX239. This mutation, noted 3 times in the cytochrome b-245, beta polypeptide (CYBB) database, causes a premature stop codon in the amino-terminal domain of the gp91-phox beta polypeptide subunit of cytochrome b-245 (also known as cytochrome b-558), a component of the membrane-bound phagocytic NADPH oxidase (phox) enzyme complex [Heyworth et al 2010, Piirilä et al. 2006].
+Treatment and Followup
+A neutrophil oxidative burst assay performed on the patient’s mother in the outpatient immunology clinic confirmed the diagnosis of X-linked chronic granulomatous disease (CGD).
+Meropenem (intravenously, for three weeks) and trimethoprim-sulfamethoxazole were administered (mostly orally) for 3 weeks for Burkholderia sp. peritonitis. In addition, recombinant interferon gamma therapy was administered three times weekly, and continued indefinitely. After completion of treatment for Burkholderia , he continued to receive prophylaxis with trimethoprim-sulfamethoxazole and itraconazole.
+Discussion
+Chronic granulomatous disease (CGD) is a rare inherited disorder of phagocytes. Due to a defect in the generation of microbial oxygen metabolites, neutrophils and monocytes are able to ingest but unable to effectively kill some organisms. Affected patients usually present early in life with recurrent and/or unusual infections, often involving catalase-positive organisms, such as Staphylococcus aureus , Serratia marcescens , Burkholderia cepacia , Aspergillus , and Nocardia .
+Burkholderia species are gram-negative bacilli, catalase-producing and non-glucose fermenting organisms. They are commonly found in the soil and water. The genus Burkholderia was proposed in 1992 for 7 species which were previously in Pseudomonas homology group II [Burns 2008].
+Burkholderia cepacia rarely causes disease in immunocompetent hosts, but organisms in the B. cepacia complex and B. gladioli can cause severe pulmonary disease in cystic fibrosis patients and fatal bacteremia in CGD patients. 16s sequencing-based identification of the organism from our patient identified it as very closely related to B. gladioli . The unexpected isolation of Burkholderia sp. led to testing for CGD. Infection due to Burkholderia spp. (in addition to other atypical infections) should prompt an evaluation for underlying immunodeficiency, including a neutrophil oxidative burst assay.
+The majority (65%) of patients with CGD are males who demonstrate X-linked inheritance of large mutations in the gp91-phox gene [Vowells et al. 1996, Dinauer et al. 1987, Segal 1987, Teahan et al. 1987]. The next most common pattern is due to autosomal recessive inheritance of mutations in the gp22-phox gene. Both result in a severe phenotype. More recently, patients with a milder phenotype of CGD with partial oxidative burst activity have been recognized. These are inherited by autosomal recessive and variant X-linked mechanisms. These patients may present at an older age [Nunoi et al. 1988, Dinauer et al. 1990, Volpp et al. 1998, Bender et al. 2009].
+Historically, the diagnostic test for CGD was the nitroblue tetrazolium (NBT) dye test; however, it has been replaced with the flow cytometry test using dihydrorhodamine 123 (DHR) because of superior sensitivity and specificity. DHR fluoresces when it is oxidized by hydrogen peroxide; therefore, in the absence of an oxidative burst, as in X-linked CGD, no increased fluorescence will be detected. Patients with partial oxidative burst activity (more commonly associated with autosomal recessive CGD) may have stimulation index values that are intermediate between normal and abnormal values and careful review of the flow cytometry histograms is needed to interpret the findings accurately. Newer molecular diagnostics looking specifically at the most common gene mutations are also now available [Bender et al. 2009, Hill et al. 2010].
+Final Diagnosis
+Burkholderia sp. peritonitis as the initial presentation of classic X-linked chronic granulomatous disease.
+References
+Bender, J.M., Rand, T.H., Ampofo, K., Pavia, A.T., Schober, M., Tebo, A., Pasi, B., Augustine, N.H., Pryor, R.J., Wittwer, C.T., and Hill, H.R. (2009). Family clusters of variant X-linked chronic granulomatous disease. Pediatr Infect Dis J 28, 529-533.
+PMID:19483518 ( PubMed abstract )
+Burns JL. Burkholderia cepacia complex and other Burkholderia species. In: Long SS, Pickering LK, and Prober CG, eds. Principles and Practice of Pediatric Infectious Diseases. 3rd ed (revised reprint). New York, NY: Churchill Livingston, 2008: 841.
+Dinauer, M.C., Orkin, S.H., Brown, R., Jesaitis, A.J., and Parkos, C.A. (1987). The glycoprotein encoded by the X-linked chronic granulomatous disease locus is a component of the neutrophil cytochrome b complex. Nature 327, 717-720.
+PMID:3600768 ( PubMed abstract )
+Dinauer, M.C., Pierce, E.A., Bruns, G.A., Curnutte, J.T., and Orkin, S.H. (1990). Human neutrophil cytochrome b light chain (p22-phox). Gene structure, chromosomal location, and mutations in cytochrome-negative autosomal recessive chronic granulomatous disease. J Clin Invest 86, 1729-1737.
+PMID:2243141 ( PubMed abstract )
+Hill, H.R., Augustine, N.H., Pryor, R.J., Reed, G.H., Bagnato, J.D., Tebo, A.E., Bender, J.M., Pasi, B.M., Chinen, J., Hanson, I.C., de Boer, M., Roos, D., and Wittwer, C.T. (2010). Rapid genetic analysis of x-linked chronic granulomatous disease by high-resolution melting. J Mol Diagn 12, 368-376
+PMID:20228266 ( PubMed abstract )
+Nunoi, H., Rotrosen, D., Gallin, J.I., and Malech, H.L. (1988). Two forms of autosomal chronic granulomatous disease lack distinct neutrophil cytosol factors. Science 242, 1298-1301.
+PMID:2848319 ( PubMed abstract )
+Piirila, H., Valiaho, J., and Vihinen, M. (2006). Immunodeficiency mutation databases (IDbases). Hum Mutat 27, 1200-1208
+PMID:17004234 ( PubMed abstract )
+Roos, D., Kuhns, D.B., Maddalena, A., Roesler, J., Lopez, J.A., Ariga, T., Avcin, T., de Boer, M., Bustamante, J., Condino-Neto, A., Di Matteo, G., He, J., Hill, H.R., Holland, S.M., Kannengiesser, C., Koker, M.Y., Kondratenko, I., van Leeuwen, K., Malech, H.L., Marodi, L., Nunoi, H., Stasia, M.J., Ventura, A.M., Witwer, C.T., Wolach, B., and Gallin, J.I. (2010). Hematologically important mutations: X-linked chronic granulomatous disease (third update). Blood Cells Mol Dis 45, 246-265.
+PMID:20729109 ( PubMed abstract )
+Segal, A.W. (1987). Absence of both cytochrome b-245 subunits from neutrophils in X-linked chronic granulomatous disease. Nature 326, 88-91.
+PMID:3821877 ( PubMed abstract )
+Teahan, C., Rowe, P., Parker, P., Totty, N., and Segal, A.W. (1987). The X-linked chronic granulomatous disease gene codes for the beta-chain of cytochrome b-245. Nature 327, 720-721.
+PMID:3600769 ( PubMed abstract )
+Volpp, B.D., Nauseef, W.M., and Clark, R.A. (1988). Two cytosolic neutrophil oxidase components absent in autosomal chronic granulomatous disease. Science 242, 1295-1297.
+PMID:2848318 ( PubMed abstract )
+Vowells, S.J., Fleisher, T.A., Sekhsaria, S., Alling, D.W., Maguire, T.E., and Malech, H.L. (1996). Genotype-dependent variability in flow cytometric evaluation of reduced nicotinamide adenine dinucleotide phosphate oxidase function in patients with chronic granulomatous disease. J Pediatr 128, 104-107.
+PMID:8551399 ( PubMed abstract )

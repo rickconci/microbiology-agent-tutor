@@ -1,0 +1,34 @@
+History of Present Illness
+IDSA 2002 Case Summary: A man with AIDS, fever and a cough.
+A man in his fifties with acquired immunodeficiency syndrome (AIDS) presented with fever, fatigue and dry cough of two weeks' duration. He had not improved on oral erythromycin. He denied hemoptysis, chest pain or gastrointestinal symptoms.
+Past Medical History
+Acquired immunodeficiency syndrome (AIDS) had been diagnosed 6 months before this presentation, and he had recently had Pneumocystis jiroveci (formerly known as Pneumocystis carinii ) pneumonia, for which he had received adjunctive steroids.
+Medications
+Medications included trimethoprim-sulfamethoxazole (1 double-strength daily), zidovudine (AZT) and lamivudine (3TC).
+Epidemiological History
+He consumed 1-2 beers per day, smoked marijuana occasionally and had recently stopped smoking. There was no history of travel, or exposures to tuberculosis, animals or sick contacts.
+Physical Examination
+He was cachectic, with mild respiratory distress. The temperature was 100.8°F (38.2°C), blood pressure 96/45mm Hg, pulse 110 beats per minute, and respiration 30 breaths per minute with an oxygen saturation of 91%. There were bronchial sounds in the upper lobes with egophony and inspiratory rales, and non-tender mild hepatomegaly, but no lymphadenopathy.
+Studies
+The white blood cell count (WBC) was 2,900/mm³ (70% neutrophils) and CD4 T-lymphocyte cell count was 46 cells/mm³. The results of serum chemistries testing were normal. A chest radiograph ( Figure 1 ) and computed tomography (CT) of the chest ( Figure 2 ) are shown.
+Figure 1. Chest radiograph.
+Figure 2. Chest CT scan.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of tissue from needle aspiration of the right lung showed necrotic material containing narrow, septated hyphae with acute angle branching ( Figure 3 ). Cultures from the lung aspirate grew Aspergillus ( Figure 4 ).
+Figure 3. Stain of lung aspirate.
+Figure 4. Stain of culture growth from lung aspirate.
+Treatment and Followup
+The patient was treated first with intravenous trimethoprim-sulfamethoxazole and ceftriaxone. Three sputum samples were negative for acid-fast bacilli (AFB). The antibiotics were changed to itraconazole with poor response; the patient died after three weeks of therapy.
+Discussion
+Invasive pulmonary aspergillosis occurs most commonly in patients who are significantly immunocompromised, including patients with human immunodeficiency virus (HIV) infections who are neutropenic, have CD4 T-lymphocyte levels less than 50 per cubic millimeter, and those who have been receiving corticosteroid therapy. Mortality rates are high. Efforts to improve clinical outcomes include development of better diagnostic tests that can lead to earlier diagnosis and the development of more effective antifungal agents.
+Final Diagnosis
+Invasive pulmonary aspergillosis in a patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).
+References
+Gadkowski LB, Stout JE. (2008 ). Cavitary pulmonary disease. Clin Microbiol Rev. 2008 Apr;21(2):305-33, table of contents.
+PMID:18400799 ( PubMed abstract )
+Karthaus M. (2011). Prophylaxis and treatment of invasive aspergillosis with voriconazole, posaconazole and caspofungin: review of the literature. Eur J Med Res. 2011 Apr 28;16(4):145-52.
+PMID:21486728 ( PubMed abstract )
+Kousha M, Tadi R, Soubani AO. (2011). Pulmonary aspergillosis: a clinical review. Eur Respir Rev. 2011 Sep 1;20(121):156-74.
+PMID:21881144 ( PubMed abstract )
+Mylonakis E, Barlam TF, Flanigan T, Rich JD. (1998). Pulmonary aspergillosis and invasive disease in AIDS: review of 342 cases. Chest. 1998 Jul;114(1):251-62.
+PMID:9674477 ( PubMed abstract )

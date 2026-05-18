@@ -1,0 +1,28 @@
+History of Present Illness
+Summary: A woman in her fifties with a fever and skin lesions.
+A woman in her fifties noted a fever and generalized myalgias for ten days. A high fever, chills, and non-pruritic skin rash developed five days before her visit to her doctor.
+Epidemiological History
+She lived in a city in Korea and had visited a farm two weeks before her illness. She did not recall any insect bites.
+Physical Examination
+Her blood pressure was 140/90 mm Hg, pulse 90 per minute, respiratory rate 20 per minute, and temperature 38.5°C (101.3°F). She had a faint, maculopapular rash on her trunk and extremities, and a dark scab in the pubic area ( Figure 1 ). There was tender lymphadenopathy in the left inguinal region.
+Figure 1. Physical finding.
+Studies
+The hemoglobin was 12.1 g/dL, the white blood cell count (WBC) 11,000/mm³ (neutrophils 62%, lymphocytes 25%, monocytes 12%, eosinophils 1%), and the platelet count 115,000/mm³. The serum level of aspartate aminotransferase (AST or SGOT) was 455 IU/L, alanine aminotransferase (ALT or SGPT) 718 IU/L, urea nitrogen 10 mg/dL, and creatinine 0.8 mg/dL. The urinalysis had 4-9 red blood cells and 4-9 white blood cells per high-power field. The chest radiograph and electrocardiogram were normal.
+Diagnostic Procedure(s) and Result(s)
+An immunofluorescence test for Orientia tsutsugamushi (the etiologic agent of scrub typhus) was positive at a 1:1280 dilution.
+Treatment and Followup
+She was treated with doxycycline (200 mg daily) for 7 days. Her fever resolved three days after the initiation of therapy.
+Discussion
+Scrub typhus is caused by a rickettsial organism, Orientia tsutsugamushi . This disease occurs in eastern Asia and the Western Pacific, including Korea, Japan, Australia and the Indian subcontinent. The organism is transmitted to humans by the bite of the larval stage (chigger) of the tromiculid mite.
+Following inoculation, a papule forms at the site of the bite. This papule subsequently ulcerates and forms an eschar. There is frequently regional adenopathy, as was seen in this individual. Approximately 6-18 days after the bite, the patient develops fever, headache and myalgias. Five day after the onset of these symptoms, a maculopapular rash and generalized lymphadenopathy may occur.
+Diagnosis of scrub typhus is generally made by serologic testing, as in this case. Treatment with doxycycline may shorten the duration of symptoms.
+The main clue that this patient had the rickettsial illness scrub typhus was the presence of the eschar. Although typhoid fever, dengue and brucellosis present with systemic symptoms, they are not associated with an eschar. Tularemia may cause lymphadenopathy and an ulcer at the site of inoculation. However, the ulcer of tularemia is typically tender with raised borders, and the lymphadenopathy is often suppurative.
+Final Diagnosis
+Scrub typhus caused by Orientia tsutsugamushi .
+References
+Kelly, D.J., Fuerst, P.A., Ching, W.M., and Richards, A.L. (2009). Scrub typhus: the geographic distribution of phenotypic and genotypic variants of Orientia tsutsugamushi. Clin Infect Dis 48 Suppl 3, S203-230.
+PMID:19220144 ( PubMed abstract )
+Kim, D.M., Won, K.J., Park, C.Y., Yu, K.D., Kim, H.S., Yang, T.Y., Lee, J.H., Kim, H.K., Song, H.J., Lee, S.H., and Shin, H. (2007). Distribution of eschars on the body of scrub typhus patients: a prospective study. Am J Trop Med Hyg 76, 806-809.
+PMID:17488895 ( PubMed abstract )
+Koh, G.C., Maude, R.J., Paris, D.H., Newton, P.N., and Blacksell, S.D. (2010). Diagnosis of scrub typhus. Am J Trop Med Hyg 82, 368-370.
+PMID:20207857 ( PubMed abstract )

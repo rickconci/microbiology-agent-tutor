@@ -1,0 +1,41 @@
+History of Present Illness
+A male in his fifties developed red, small, papules on his right forearm that disappeared on their own over the course of a month. Two months after these initial lesions resolved, multiple papules and pustules appeared over his face in both malar regions. He was given levofloxacin with mild improvement.
+Past Medical History
+The patient had a history of focal segmental glomerulosclerosis (FSGS) for which he underwent a living unrelated kidney transplant about 10 years prior to admission to the hospital. This allograft had failed due to due to rejection so he had a second living related kidney transplant one month prior to admission to the hospital. He received induction with anti-thymocyte globulin, basiliximab and intravenous steroids. His surgery had no complications, and he was discharged on tacrolimus 3 mg PO every 12 hours, mycophenolate 720 mg PO every 12 hours and Prednisone 20 mg PO daily. Infection prophylaxis included Dapsone 50 mg PO daily and Valganciclovir 900 mg PO daily.
+One month after transplantation he noticed the lesions in his face were more numerous, so he visited a dermatologist where he underwent biopsy of the skin lesions. Biopsy results reported a dense lymphohistiocytic infiltrate located in the dermis. He was admitted to the hospital for further workup.
+Epidemiological History
+Patient was born in the United States of America. He has lived in the southeast US for most of his life. Had served in the military with deployments to the Middle East. Lived alone, no pets, no exposure to farm animals, no hunting, no camping, no tick bites.
+Physical Examination
+The patient was afebrile, hemodynamically stable and with a SpO2 of 98% when breathing room air. Physical exam was notable for multiple pink erythematous papules scattered over his bilateral malar area and surrounding his nares, with desquamation and scattered yellow crusting associated with some of the lesions.
+Studies
+Complete blood count revealed leukocytosis of 13 K/uL with lymphopenia (absolute lymphocyte count of 600/uL), hemoglobin was 9.3 gr/dL and platelets 355 K/uL. Kidney and liver function were normal.
+A computed chest tomography was also done which revealed a macronodule in his right middle lobe (Figure 1).
+Biopsies of the skin lesions were repeated and sent for bacterial, fungal and acid-fast bacilli cultures with gram stains, KOH prep and acid fast smears being negative
+A bronchoscopy with alveolar lavage (BAL) was recommended
+Figure 1. Computed tomography of the chest without contrast demonstrates a right sided middle lobe solid pulmonary nodule.
+Clinical Course Prior to Diagnosis
+Therapy was held for a week after hospital admission as the differential diagnosis was considered broad. At this time repeat examination of his skin showed striking worsening on the previous lesions in his face and new nodular, violaceous lesions on both his upper and lower extremities (Figure 2). Due to concern for systemic infection decision was made to start therapy with Rifabutin 300 mg PO daily, Isoniazid 300 mg PO daily, Linezolid 600 mg PO daily, Ethambutol 15 mg kg PO daily, Cefoxitin 3 gr IV q 6 h and Azithromycin 500 mg PO daily in order to target most mycobacterial species.
+Figure 2. Left upper, right upper panel depicts progression of disease in light of no treatment, right lower panel depicts new nodular lesions with scabbing in right thigh. Left lower panel depicts response of lesions to treatment one week after it was started
+Diagnostic Procedure(s) and Result(s)
+Skin biopsy showed acid fast bacilli. On hospital day 14, mycobacterial culture of the skin biopsy detected a Mycobacterium . Broad base PCR from University of Washington from skin biopsy was positive for Mycobacterium haemophilum .
+Acid fast bacilli smear from BAL was positive for rare organisms, with Mycobacterium tuberculosis PCR from the same sample resulting negative. Culture would later result positive for Mycobacterium haemophilum
+Treatment and Followup
+Repeat physical exam revealed that the papulopustular lesions were resolving but crusting and erythema was now more evident (Figure 2). A diagnosis of disseminated Mycobacterium haemophilum involving the lung and skin was made and antimicrobial regimen was changed to Levofloxacin 750 mg PO daily and Rifabutin plus Azithromycin as dosed previously.
+Discussion
+Nontuberculous mycobacteria are ubiquitous environmental organisms often found in soil and water which can cause localized or disseminated disease.
+Nontuberculous mycobacterial infections seem to be increasing in both immunocompetent and immunosuppressed hosts. As an example, incidence of infection in the general population was reported at 0.7 per 100,000 when estimated between 1980-1990 while a more recent review of cases found an incidence rate of 2 per 100,000 between 2000-2009. However, precise estimation of clinical morbidity and mortality is hard to define as infection with these organisms is not reportable and it can be difficult to distinguish colonization from infection.
+Reviews of case reports and case series in solid organ transplant recipients in the United States and Europe have helped characterize some aspects of this infection in this particular population.
+Incidence reported in case series seems to indicate the highest burden is in thoracic organ recipients specifically lung (4.4%) followed by heart (2.8%). In abdominal organ recipients, reported incidence rates are higher in kidney recipients (0.16-0.55%) as opposed to liver recipients (0.04%).
+Clinically infection tends to be localized in the graft or pleural space for lung transplant recipients. Other organ recipients have skin and soft tissue or osteomuscular infection as their predominant presentation. Median time to onset of infection varies but has been estimated to be around 13 months from transplantation for lung recipients and between 27-33 months for non-lung transplant recipients.
+Skin infection is characterized by subacute to chronic clinical presentation of a diverse number of lesions including papules, pustules, nodules, and ulcers. Some organisms, such as Mycobacterium marinum and Mycobacterium haemophilum , might present in an acral distribution and/or lymphangitic pattern as their optimal growth occurs in cooler areas of the body.
+Gold standard for diagnosis continues to be pathological samples of lesions with positive acid fast smears coupled with culture. Some organisms have special requirements for growth such as cooler temperatures (28-30 C for M marinum , M haemophilum ) or special media requirements (iron for M haemophilum and mycobactin for M genavense ); for this reason, communication with microbiology is essential if there is suspicion of a particular mycobacteria.
+This case reminds the reader to always include mycobacteria in the differential diagnosis of any new skin lesion of solid organ transplant recipients, particularly if clinical presentation is subacute or chronic. Furthermore, given the multitude of organisms that comprise this group of pathogens and specific requirements for growth, close communication with microbiology laboratory is encouraged.
+Final Diagnosis
+Disseminated Mycobacterium haemophilum Infection involving the lung and skin in a kidney transplant patient
+References
+Abad CL, Razonable RR. Non-tuberculous mycobacterial infections in solid organ transplant recipients: An update. J Clin Tuberc Other Mycobact Dis. 2016;4:1-8. Published 2016 Apr 27. doi:10.1016/j.jctube.2016.04.001
+PMID:31723683 ( PubMed abstract )
+Y. Meije, C. Piersimoni, J. Torre-Cisneros, A.G Dilektasli, J.M Aguado, Mycobacterial infections in solid organ transplant recipients, Clinical Microbiology and Infection, Volume 20, Supplement 7, 2014,Pages 89-101, https://doi.org/10.1111/1469-0691.12641.
+PMID:24707957 ( PubMed abstract )
+Franco-Paredes C, Marcos LA, Henao-Martínez AF, et al. Cutaneous Mycobacterial Infections. Clin Microbiol Rev. 2018;32(1):e00069-18. Published 2018 Nov 14. doi:10.1128/CMR.00069-18
+PMID:30429139 ( PubMed abstract )

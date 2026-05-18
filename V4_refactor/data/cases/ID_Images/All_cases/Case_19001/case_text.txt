@@ -1,0 +1,22 @@
+History of Present Illness
+A young man with rheumatoid arthritis receiving methotrexate and a tumor necrosis factor (TNF) inhibitor presented with several months of non-healing lesions of the fingers. The lesions initially occurred after an injury to the hand while in a pond. Shortly thereafter, he developed erythema and swelling. Despite multiple courses of cephalexin and clindamycin, the lesions did not improve.
+Physical Examination
+On exam, he had an erythematous ulcerated lesion overlying the proximal interphalangeal (PIP) joint on the right fourth finger. An additional erythematous lesion was also noted on the dorsal aspect of the third phalanx.
+Studies
+Magnetic resonance imaging of the hand revealed soft tissue thickening with increased T2 signal dorsal to the fourth PIP joint and third middle phalanx. No synovitis or osteomyelitis was seen.
+Clinical Course Prior to Diagnosis
+A small amount of purulent material was expressed from one of the lesions and was sent for fungal smear and culture as well as mycobacterial smear and culture.
+The direct smears for fungi and mycobacteria were negative. On day 14 of incubation at 30°C, the mycobacteria growth indicator tube (MGIT) was positive for growth. Solid medium culture was also positive at 30°C (chocolate agar slant). No growth was found in the MGIT at 37°C, on the Lowenstein Jensen (LJ) media, or the fungal culture. Ziehl-Neelson staining of the MGIT broth revealed acid fast bacilli with cord formation (Figure 1).
+Figure 1. Ziehl-Neelsen stain of the 30°C broth culture after 14 days of incubation. Acid fast bacilli with cord formation are seen.
+Discussion
+A DNA probe for Mycobacterium tuberculosis complex performed from the MGIT broth was negative. Subcultures were prepared on solid media (Middlebrook 7H11) and ultimately grew a rough, white colony (Figures 2 and 3). The organism was identified as Mycobacterium marinum based on matrix assisted laser desorption time of flight mass spectrometry (MALDI-TOF).
+Mycobacterium marinum is a slow growing nontuberculous mycobacterium often found in association with fresh or saltwater environments (1). Cutaneous infections such as the one above can occur due to direct inoculation of a cut with the organism and subsequent exposure to contaminated water. The lesions can be nodular, pustular, or ulcerated and infection of the deeper tissues, joints, and bones can occur (1, 2).
+Diagnosis of M. marinum infection is often made via isolation of the organism on culture. Growth of the organism is slow, requiring growth time of more than 7 days. Growth temperature is lower than that of many other mycobacterial species, with the optimal temperature ranging from 28 to 30°C (1). A Ziehl-Neelsen smear of the broth can reveal cord formation (Figure 1); a feature which is most commonly seen with the Mycobacterium tuberculosis complex , however, it has also been described with M. marinum (3). Colonies of M. marinum are rough and white (Figures 2 and 3) and become pigmented upon exposure to light. Formal identification of M. marinum can be made using MALDI-TOF as was done in this instance.
+Figure 2. Middlebrook 7H11 agar growing rough, white colonies
+Figure 3. Middlebrook 7H11 agar growing rough, white colonies
+References
+Jorgensen JH PM, Carroll KC, Funke G, Landry ML, Richter SS, Warnock DW. 2015. Manual of Clinical Microbiology. ASM Press, Washington DC.
+Edelstein H. 1994. Mycobacterium marinum skin infections: Report of 31 cases and review of the literature. Archives of Internal Medicine 154:1359-1364.
+PMID:8002687 ( PubMed abstract )
+Staropoli JF, Branda JA. 2008. Cord formation in a clinical isolate of Mycobacterium marinum. J Clin Microbiol 46:2814-6.
+PMID:28725743 ( PubMed abstract )

@@ -1,0 +1,39 @@
+History of Present Illness
+Summary: A woman in her fifties presented with wrist pain and swelling.
+A woman in her fifties presented to the Infectious Disease outpatient clinic for evaluation of pain and swelling in her right wrist.
+One year before her presentation, the patient had been diagnosed with DeQuervain’s tenosynovitis. An injection of corticosteroids was administered without improvement. Two months later, tenolysis was performed that was complicated by a local wound infection, which required incision, drainage and a tenosynovectomy.
+After the surgical procedure, she had persistent erythema and swelling. Cephalexin was administered, without improvement. At the time, wound purulence with soft tissue thickening and edema was noted.
+Past Medical History
+She had a history of degenerative joint disease and asthma.
+Epidemiological History
+She was employed in the meat industry and owned a cat. She denied any history of travel outside of the United States.
+Physical Examination
+The patient appeared well and was afebrile. There was a positive Finkelstein test in the right wrist. An erythematous area (approximately 1.5-centimeter in diameter) was present on the base of the right thumb and on the previous incision area ( Figure 1 ). No purulence or drainage was seen. The remainder of her examination was normal.
+Figure 1. Physical finding.
+Studies
+Laboratory test results of the complete blood count and chemistries were normal.
+Clinical Course Prior to Diagnosis
+The patient underwent an incision and drainage procedure. Pathological examination of the tissue from the procedure is shown in Figures 2 and 3 .
+Figure 2. Surgical pathology.
+Figure 3. Surgical pathology.
+Diagnostic Procedure(s) and Result(s)
+The pathology showed acute tenosynovitis with non-caseating granulomatous inflammation ( Figure 2 above). Figure 3 shows giant cells that are surrounding organisms consistent with Prototheca . Figure 4 shows septated endosporulating organisms also consistent with Prototheca . Fungal cultures grew Prototheca .
+Figure 4. Surgical pathology with septated endosporulating organisms.
+Treatment and Followup
+The patient was started on oral itraconazole (200 mg twice daily). Her pain and swelling improved over the following four weeks.
+Somnolence developed and the itraconazole was stopped for two weeks, during which the somnolence resolved. The medication was restarted at a dose of 200 mg daily.
+Subsequently, her wrist symptoms increased and another surgical debridement was performed. The surgical pathology showed the presence of Prototheca organisms, but the cultures were negative. Her symptoms improved after the second procedure.
+The course of itraconazole was continued until generalized edema developed after two months of therapy. The edema was thought to be secondary to the itraconazole and the medication was discontinued. Oral fluconazole 200 mg daily was administered.
+Discussion
+Prototheca are unicellular achloric algae that reproduce by endosporulation. The organisms are found in a wide range of environmental sites, including tree slime, sewage, fresh or marine water, soil, and foodstuffs. The geographic distribution of the reported cases is wide.
+The most common presentation of protothecosis is a single lesion of the skin or subcutaneous tissue. The typical skin lesion is a painless, slowly progressive, well-circumscribed plaque or papulonodular lesion that may ulcerate. Soft tissue lesions favor the olecranon bursa, sites of minor trauma or corticosteroid injection, or surgical wounds exposed to soil or water, such as hand tendon repair. Gradual enlargement of the lesion over weeks or months is commonly seen.
+Other reported sites of infection include nasopharyngeal ulcerations following prolonged endotracheal intubation, peritoneal dialysis catheters, and viscera in immunosuppressed patients.
+Protothecosis is best diagnosed by biopsy for histologic study and culture. The inflammatory response shows both microabscesses and granulomas with multinucleated giant cells. Prototheca cells usually range from 8 to 20 micrometers in diameter, stain well with Gomori methenamine silver or periodic acid-Schiff stains, and often contain two to eight packed endospores in each cell or sporangium, giving the appearance of morulae.
+Protothecosis generally does not resolve unless treated. Surgical excision of lesions is a key component of therapy. Intravenous amphotericin B, sometimes combined with tetracycline, has been used successfully. Ketoconazole, fluconazole and itraconazole have also been used with some success.
+Final Diagnosis
+Prototheca tenosynovitis.
+References
+Lee, J.S., Moon, G.H., Lee, N.Y., and Peck, K.R. (2008). Case report: protothecal tenosynovitis. Clin Orthop Relat Res 466, 3143-3146.
+PMID:18791778 ( PubMed abstract )
+Pascual, J.S., Balos, L.L., and Baer, A.N. (2004). Disseminated Prototheca wickerhamii infection with arthritis and tenosynovitis. J Rheumatol 31, 1861-1865.
+PMID:15338515 ( PubMed abstract )

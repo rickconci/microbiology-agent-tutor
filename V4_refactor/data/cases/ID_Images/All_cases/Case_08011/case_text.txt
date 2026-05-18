@@ -1,0 +1,46 @@
+History of Present Illness
+2008 November Featured Case and 2008 ICAAC/IDSA Fellows' Day Case Presentation Summary: A man with dyspnea, pharyngitis and dysphagia, while incarcerated.
+A man in his forties, who was incarcerated, developed progressive dyspnea, sore throat, and dysphagia with solids and liquids, over the previous 6 months. There was bilateral otalgia, and liquids were excreted from his nares after drinking. He reported having a non-productive cough. There was no fever, night sweats, chills, weight loss, or gastrointestinal or genitourinary complaints.
+Past Medical History
+None.
+Medications
+None.
+Epidemiological History
+He was born in Mexico and had immigrated to the United States more than five years earlier. He had been incarcerated for most of the time he had been in the U.S. He had no ill contacts, smoked tobacco but did not use illicit drugs or alcohol.
+Physical Examination
+He appeared to be in mild respiratory distress, with stridor present. The temperature was 99.3°F (37.4°C), blood pressure 111/70 mm Hg, pulse 89 beats per minute, respirations 18 breaths per minute, and oxygen saturation 98% while breathing ambient air. External inspection of the head was normal. The oropharynx was clear without lesions or thrush. Masses were seen obstructing both nares. Indirect laryngoscopy revealed partial laryngeal obstruction. The neck was supple without lymphadenopathy. There were no rales or rhonchi, and the remainder of the examination was normal.
+Studies
+The complete blood count with differential and results of a basic metabolic panel were normal. Testing for anti-nuclear antibody, anti-neutrophilic cytoplasmic antibodies, and rapid plasma reagin were negative. The erythrocyte sedimentation rate measured 7 mm per hour. Computed tomography (CT) scans of chest, abdomen, and pelvis were normal. A purified protein derivative skin test was negative.
+Clinical Course Prior to Diagnosis
+Rigid laryngoscopy was performed with biopsy. Pathological examination of the tissue is shown in Figure 1 .
+Figure 1. Biopsy of the epiglottis, PAS stain, high magnification.
+Diagnostic Procedure(s) and Result(s)
+Pathological examination of the biopsy revealed short, plump bacilli within foamy macrophages (or Mikulicz cells) in the epiglottis submucosa, consistent with Klebsiella rhinoscleromatosis infection. ( Figure 2 , see arrow). Tissue culture grew gram-negative Klebsiella pneumoniae ssp. rhinoscleromatis . (See Figures 3 and 4 .) Special stains, including acid-fast bacilli (AFB), silver stains, and stains for fungal pathogens, were negative.
+Figure 2. Bacilli on biopsy specimen (see arrow), PAS stain.
+Figure 3. Growth from biopsy specimen on sheep blood agar.
+Figure 4. Gram stain of culture growth.
+Treatment and Followup
+The patient underwent a tracheostomy because of airway obstruction. He received ciprofloxacin orally, with stabilization of his condition. A course of ciprofloxacin for at least 12 weeks was planned but, based on the severity of his obstruction, was extended to 1 year. Six months after initial diagnosis, the tracheostomy remained in place and he was being evaluated for more extensive surgical intervention.
+Discussion
+Rhinoscleroma is a granulomatous disease of the respiratory tract caused by Klebsiella rhinoscleromatosis . It can be mistaken for other diseases such as Mycobacterium tuberculosis , the endemic mycoses, and non-infectious etiologies such as Wegener’s granulomatosis. Rhinoscleroma can progress to severe nasal and airway obstruction. The diagnosis is made on histopathology of involved tissue, which reveals characteristic vacuolated macrophages with gram-negative coccobacilli [Stone et al. 2007; Andraca et al. 1993] Cultures may be positive for the organism 50-60% of the time [Andraca, ibid] Long-term antibiotic treatment with tetracyclines have been the mainstay of therapy, however, more recent information indicates that use of fluoroquinolones may be effective [Badia et al. 1993; Andraca et al. 1993]
+Final Diagnosis
+Rhinoscleroma caused by Klebsiella pneumoniae ssp. rhinoscleromatis.
+References
+Andraca, R., Edson, R.S., and Kern, E.B. (1993). Rhinoscleroma: a growing concern in the United States? Mayo Clinic experience. Mayo Clin Proc 68, 1151-1157.
+PMID:8246615 ( PubMed abstract )
+Badia, L., and Lund, V.J. (2001). A case of rhinoscleroma treated with ciprofloxacin. J Laryngol Otol 115, 220-222.
+PMID:11244532 ( PubMed abstract )
+Borgstein, J., Sada, E., and Cortes, R. (1993). Ciprofloxacin for rhinoscleroma and ozena. Lancet 342, 122.
+PMID:8100894 ( PubMed abstract )
+Fusconi, M., Pulice, G., Ippoliti, F., Mastronicola, R., Ralli, G., and de Vincentiis, M. (2006). Modification of lymphocyte subsets in patients with rhinoscleroma. Am J Otolaryngol 27, 401-405
+PMID:17084224 ( PubMed abstract )
+Lenis, A., Ruff, T., Diaz, J.A., and Ghandour, E.G. (1988). Rhinoscleroma. South Med J 81, 1580-1582.
+PMID:3059525 ( PubMed abstract )
+Maguina, C., Cortez-Escalante, J., Osores-Plenge, F., Centeno, J., Guerra, H., Montoya, M., Cok, J., and Castro, C. (2006). Rhinoscleroma: eight Peruvian cases. Rev Inst Med Trop Sao Paulo 48, 295-299.
+PMID:17086321 ( PubMed abstract )
+Sanchez-Marin, L.A., Bross-Soriano, D., Arrieta, J., Kawa-Karasik, S., Martinez-Vilchis, V., Jimenez-Lucio, R., and Olivo-Diaz, A. (2007). Association of HLA-DQA1*03011-DQB1*0301 haplotype with the development of respiratory scleroma. Otolaryngol Head Neck Surg 136, 481-483.
+PMID:17321882 ( PubMed abstract )
+Stone, M., McGuire, L., Moore, M., Hamilton, D., and Weinstein, S. (2007). Test and teach. Number 39. Diagnosis: Rhinoscleroma. Pathology 39, 516-518.
+PMID:17886103 ( PubMed abstract )
+Thompson, L.D. (2002). Rhinoscleroma. Ear Nose Throat J 81, 506
+PMID:12199166 ( PubMed abstract )

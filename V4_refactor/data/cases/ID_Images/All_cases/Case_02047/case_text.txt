@@ -1,0 +1,22 @@
+History of Present Illness
+Summary: An elderly man, on total parenteral nutrition, with fever and chills.
+A man in his eighties with a history of severe Crohn’s disease was maintained on total parenteral nutrition via a peripherally inserted central catheter (PICC) line. He presented with fever and chills.
+Past Medical History
+He had a history of Crohn's disease.
+Physical Examination
+The patient was thin and chronically ill-appearing. The vital signs were normal. The PICC line site was not tender or erythematous. The remainder of his general physical examination was normal.
+Studies
+Gram stain of a blood culture specimen revealed the forms shown in Figure 1 .
+Figure 1. Gram stain.
+Diagnostic Procedure(s) and Result(s)
+The gram stain of the blood culture demonstrates oval broad-based budding cells that are suggestive of Malassezia furfur and inconsistent with the other organisms in the differential diagnosis. Plating of the culture samples on Sabouraud dextrose agar supplemented with sterile olive oil yielded Malassezia furfur ( Figure 2 ).
+Figure 2. Culture plate.
+Treatment and Followup
+The patient’s central line was removed and he was treated with a course of systemic amphotericin B.
+Discussion
+Malassezia furfur is a lipophilic yeast which commonly causes cutaneous infections such as pityriasis versicolor. M. furfur sepsis is most likely a result of contamination from the colonized skin of the patient. It is particularly associated with total parenteral nutrition (TPN) infusions, which are supplemented with intralipid and provide a necessary source of fatty acids for growth of the organisms. M. furfur does not routinely grow in usual cultures. Because the organisms cannot synthesize long-chain fatty acids, the culture needs to be plated on a substrate that is supplemented with a source of free fatty acids, such as sterile olive oil. Optimal treatment of M. furfur sepsis is unclear, but removal of the line and treatment with amphotericin B is commonly utilized.
+Final Diagnosis
+Malassezia furfur line infection.
+References
+Marcon, M.J., and Powell, D.A. (1992). Human infections due to Malassezia spp. Clin Microbiol Rev 5, 101-119.
+PMID:1576583 ( PubMed abstract )

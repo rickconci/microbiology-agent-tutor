@@ -1,0 +1,75 @@
+History of Present Illness
+A man in his forties with past medical history of eosinophilic esophagitis presented with fever, shortness of breath on exertion and worsened cough. His shortness of breath and cough had been present for the past month. He had been prescribed 2 courses of oral antibiotics for presumed pneumonia with failure to improve. There was associated 20 pound weight loss, fever to 102 degrees F, and night sweats. He denied any sick contacts, household pets. He filled a bird feeder. He denied any substance use. His work involved a desk job.
+Past Medical History
+Eosinophilic esophagitis
+Medications
+Omeprazole
+Epidemiological History
+• 1 month prior he had traveled to Midwest for cave exploration
+• Also has history of travel to East Asia and Europe
+Physical Examination
+• BP 120/70, HR 87, Afebrile, RR 25
+• SpO2 84% on room air
+• General: Well-built male, visibly fatigued and with labored breathing
+• Lungs: Bilateral crackles at lung bases
+• Abdomen: Soft non-tender, non-distended abdomen
+• Extremities: lower extremities without any significant edema
+• Skin: violaceous nodule on right lower leg and left upper chest
+Studies
+• CBC: WBC 25.2k (87% neutrophils), Hb 13.5, PLT 170k
+• CMP: Creatinine 0.9. Liver enzymes within normal limits
+• Lactic acid 1.7 • Procalcitonin 0.21
+Figure 1 (CT Chest): “Extensive consolidative opacities within right lung with regions of central cavitation”
+Figure 1. Initial CT from 2022
+Clinical Course Prior to Diagnosis
+Hospital Course
+The patient was started on Vancomycin and Piperacillin/Tazobactam. He was requiring 3-5L of supplemental oxygen via nasal cannula. Further workup of his pneumonia included a bronchoscopy. During his bronchoscopy, fungating tracheal lesions were noted and a biopsy was done. These slides are shown below:
+Figure 2. Pathology Slide 1( H&E stain)
+Figure 3. Pathology Slide 2 (GMS ) - Respiratory viral panel (Negative)
+Figure 2. H&E stain
+Figure 3. GMS Stain
+Diagnostic Procedure(s) and Result(s)
+- Streptococcus pneumoniae urine Ag (Negative)
+- Urine Legionella Ag (Negative)
+- Interferon gamma release assay (Negative)
+- Blood cultures (Negative)
+- Serology for Histoplasma, Blastomycosis, Aspergillus, Coccidoides were negative
+- 1, 3 Beta D Glucan 127pg/mL(< 60 pg/ mL normal)
+- Urine histoplasma Ag (positive >15ng/ mL)
+- Urine Blastomycosis Ag (positive above the limit of quantification, >14.7 ng/mL)
+Bronchoscopy
+• Fungal culture Blastomyces spp
+• Routine culture w/ gram stain Negative
+• AFB culture Negative
+• Pathology from the tracheal biopsy displayed numerous fungal yeast forms compatible with Blastomyces species
+With the presence of moderate to severe pulmonary symptoms, skin lesions and tracheal lesions, the patient was diagnosed with disseminated blastomycosis and was started on intravenous liposomal amphotericin B. A few days later he was noted to develop a headache and agreed to a lumbar puncture. His CSF analysis revealed WBC 1, RBC 3, Protein 28, Glucose 68 and positive Blastomyces Ag 1.59 (0.2-14.7 ng/mL). There were negative fungal, routine, and AFB CSF cultures. An MRI Brain also was unrevealing for any signs of meningitis or focal abscess.
+Primary Diagnosis: CNS Disseminated Blastomycosis
+Treatment and Followup
+Patient was administered intravenous liposomal Amphotericin B for 2 weeks and then transitioned to oral voriconazole. He had therapeutic serum levels throughout treatment. He continued voriconazole for seven months when he developed visual symptoms and a skin rash. He was then switched over to oral itraconazole. He continued itraconazole with therapeutic serum levels. Over the year the patient continued to improve clinically yet his Blastomyces antigenuria persisted despite antifungal treatment. CT chest done 1 year later displayed improvement of the consolidation with residual fibroatelectasis (Figure 4).
+While on treatment for Blastomycosis, he was noted to develop new ground glass opacities bilaterally on chest CT(Figure 5). At that time, he displayed no symptoms of dyspnea, cough, fever, night sweats, or fatigue. Work-up for atypical pneumonia was negative. A repeat CT chest few months later showed persistence of these ground glass opacities and a crazy-paving pattern (Figure 6). Patient underwent repeat bronchoscopy, which showed normal airways and no endobronchial lesions. Bronchial cultures showed rare Aspergillus niger and Penicillium species, both of questionable significance. Bronchial Blastomyces antigen and beta D-glucan were negative. Patient was switched to posaconazole when 4 months after these imaging findings he started to complain of shortness of breath on exertion, dry cough and fatigue. During this interval he also had a workup done for immunodeficiency which was non-reactive for HIV and negative for complement or IgG deficiency and his CD4 count was 1184. A repeat CT (Figure 7) displayed further worsening of the ground glass opacities and interlobular septal thickening. Patient became hypoxic requiring oxygen supplementation at rest. He underwent VATS-assisted lung biopsy of the right middle and lower lobes. The pathology displayed granulomatous inflammation and fungal organisms consistent with blastomycosis. There were features consistent with alveolar proteinosis such as eosinophilic proteinaceous material filling the alveolar spaces( Figure 8 and 9). Based on these findings, he was diagnosed with pulmonary alveolar proteinosis(PAP).
+He was re-initiated on IV Amphotericin B and completed a 30-day course after which he was switched back to itraconazole. Antibody testing for granulocyte-macrophage colony-stimulating factor (GM-CSF) was positive, suggesting an autoimmune etiology for the alveolar proteinosis. Our patient was thus started on treatment with whole lung lavage and GM-CSF replacement therapy and has had some relative improvement in CT imaging although continues to require oxygen. His oxygen requirement varies with level of exertion and his treatment is ongoing.
+(Figure 8 and 9) Pathology: “ Alveolar spaces are filled with proteinaceous material consistent with alveolar proteinosis. There are also patchy areas of granulomatous inflammation in which multinucleated cells contain fungal structures. The fungal structures are compatible with blastomycosis ”
+Second diagnosis: Pulmonary alveolar proteinosis (PAP)
+Figure 4. 1 year into treatment (2023)
+Figure 5. Early 2024, 1st instance of worsening
+Figure 6. 2 months later
+Figure 7. 2025, prior to VATS guided biopsy
+Figure 8. Alveolar spaces are filled with proteinaceous material consistent with alveolar proteinosis.
+Figure 9. Alveolar spaces are filled with proteinaceous material consistent with alveolar proteinosis.
+Discussion
+Although there has been documentation of infections associated with development of PAP (for example, nocardia, non-tuberculous mycobacteria and even fungal infections such as Histoplasma, Aspergillus, and cryptococcus), there had been only one other case of blastomycosis documented in 1995 (1).
+That was a case of a middle-aged female who was diagnosed with blastomycosis and PAP simultaneously, yet the diagnosis of PAP was made only after she continued to have non-resolving changes on imaging leading to a biopsy. Her severity of disease, serology, and antigen test results were not discussed (2).
+Our case is noteworthy because it raises many questions on the pathophysiology and natural course of infection with blastomycosis. This case describes a patient with disseminated blastomycosis, who seemingly improved but subsequently developed radiological changes suggestive of a new pathology. His urinary antigen declined but did not become undetectable. He subsequently had an increase in the urine antigen titer (Figure 10).
+Blastomycosis is a fungal infection characterized by a granulomatous reaction. It has a dimorphic nature that allows it to present as mold in the environment, and yeast form at body temperature. Blastomyces causes infection by the inhalation of conidia from the environment and has many virulence factors. Some of these factors include its thermotolerance and intracellular survival. With the inhalation of the conidia, the alveolar macrophages engulf the organisms which facilitate the development of the yeast form of the fungus. These yeast forms develop a protein known as BAD-1 (Blastomyces-adhesin-1) on the cell wall. This protein inhibits the production of TNF-alpha by macrophages and neutrophils; this impairs the immune response, which permits survival of yeast. In addition, BAD-1 also inhibits CD4 T lymphocyte activation. Pulmonary infection is usually the primary source of entry for the fungus (3).
+Pulmonary alveolar proteinosis is a syndrome characterized by alveolar surfactant accumulation. The most common type of PAP is primary, most commonly, autoimmune PAP, which involves antibodies against granulocyte macrophage colony stimulating factor (GM-CSF) resulting in a decrease in functional macrophages (4). Both Blastomyces and PAP cause dysfunctional macrophages (5). Treatment of PAP often consists of whole lung lavage with or without anti-GM-CSF antibodies.
+Our case is the second documented case of blastomycosis associated pulmonary alveolar proteinosis. Furthermore, it is the only known, documented case of disseminated blastomycosis associated with pulmonary alveolar proteinosis. This case highlights a few important points giving insight into management of the disease as well as some interplay between the two disease states. It can be observed that the urinary antigen titers create an excellent test to monitor response to treatment. In our patient when the blastomycosis infection was at the forefront of the pulmonary disease we can see that we had significantly elevated titers. With appropriate therapy, we saw a reassuring decline in urinary antigen levels and symptomatic improvement, indicating the effectiveness of the treatment. When a new onset of respiratory symptoms occurs, more than one year into treatment, it is important to note that there is no concurrent rise in urinary antigen titers. Retrospectively, it can be concluded that this was an accurate translation of the fact that there was not a relapse in infection. Rather, it was the persistence of the Blastomyces yeast form, allowing for a persistently low-level urine titer. In this case, addressing the new onset pulmonary findings with a lung biopsy was the right approach as a new disease process needed to be considered. Additionally, the recognition of this association between pulmonary blastomycosis and pulmonary alveolar proteinosis will allow for better awareness of this potential complication.
+Figure 10. Trend of Urinary Antigen
+Final Diagnosis
+Disseminated blastomycosis complicated by pulmonary alveolar proteinosis
+References
+“ClinicalKey.” Clinicalkey.com, Elsevier, 2020, www.clinicalkey.com/#.
+Kellar SL, Harshfield DL, Grigg KG. Radiological case of the month. Pulmonary alveolar proteinosis. The Journal of the Arkansas Medical Society. 1995 Nov;92(6):307-308. PMID: 7499189.
+PMID:7499189 ( PubMed abstract )
+Bennett, John E, et al. Mandell, Douglas, and Bennett’s Infectious Disease Essentials. Philadelphia, Pa, Elsevier, 2017.
+Carrington, J. M., & Hershberger, D. M. (2023, July 25). Pulmonary alveolar proteinosis. StatPearls - NCBI Bookshelf.
+Suzuki, Takuji, and Bruce C. Trapnell. “Pulmonary Alveolar Proteinosis Syndrome.” Clinics in Chest Medicine, vol. 37, no. 3, Sept. 2016, pp. 431–440, www.ncbi.nlm.nih.gov/pmc/articles/PMC5902187/, https://doi.org/10.1016/j.ccm.2016.04.006. Accessed 11 Feb. 2023.

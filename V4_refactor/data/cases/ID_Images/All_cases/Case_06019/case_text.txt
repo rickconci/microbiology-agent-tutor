@@ -1,0 +1,39 @@
+History of Present Illness
+IDSA 2006 Fellows Day Case Summary: A young girl with a rash of two days' duration.
+A pre-teenaged girl presented with a rash on her arms and ankles that had developed over the preceding 48 hours.
+Two weeks before, while camping, she had scraped her wrist on a branch in a creek. The scrape had turned red while healing. Six days before admission, she had been bitten in the face by the family's dog. Three days later, symptoms of a “flu-like” illness occurred including fatigue, low-grade fever, nausea, and vomiting. Other family members were also ill. The day before admission, a goat jumped on her arm. The arm appeared purple and bruised, and a small red rash appeared on her ankle.
+On the day of admission, the rash on her arms and ankles increased in size and the coloration turned from pink to purple. The scars on her wrist (from the branch) and face (from the dog bite) turned black. Other symptoms included headache and diffuse myalgias. She was brought for evaluation and admitted to the pediatric intensive care unit.
+Past Medical History
+She was born with a congenital diaphragmatic hernia. Shortly after her birth, during surgical repair of the hernia, the spleen was nicked and a splenectomy was performed. At age 14 months, she was hospitalized with pneumococcal sepsis. She had not taken amoxicillin prophylaxis during the five years preceding this admission. Childhood immunizations were up to date, and she had received pneumococcal vaccines, a meningococcal vaccine, and a full Haemophilus influenzae type B series. There were no allergies to medications.
+Social History
+She lived with her family.
+Epidemiological History
+She lived in the northwestern United States, in a rural area with no running water. She had pet hamsters, and had contact with horses, rabbits, dogs and cats. She had received multiple mosquito bites, had possibly been exposed to mice, and was not aware of any tick bites.
+Physical Examination
+The patient was lethargic but arousable. The maximal temperature was 38.3°C (100.9°F),blood pressure 113/69 mm Hg, pulse 98 beats per minute, respirations 32 breaths per minute and oxygen saturation, as measured by oximetry, was normal. There was dried blood in the nares, dry mucus membranes and poor dentition. Breath sounds were decreased. The chest was hyperdynamic, with no cardiac murmur. There were multiple purpuric lesions on the face, extremities and torso. Several of the lesions appeared necrotic, including a lesion on the right wrist (1 centimeters (cm) by 2 cm); right posterior upper arm (1 cm in diameter); a purpuric lesion on the right buttock (2 cm by 4 cm); purpuric lesion with necrotic center on right cheek (1 cm by 0.5 cm); a less dark area on left cheek, and three lesions on the right malar ridge (2-3 millimeters in diameter). There was circumferential purpura around both ankles, an area of darkening necrosis (2 cm in diameter) on the right foot and petechiae on the soles; the palms were clear. See Figures 1 through 5 . The remainder of the examination was normal.
+Figure 1. Physical findings.
+Figure 2. Physical findings.
+Figure 3. Physical findings.
+Figure 4. Physical findings.
+Figure 5. Physical findings.
+Studies
+The white blood cell count was 11,100/mm³ (69% neutrophils, 16% bands), hematocrit 31% and platelets 31,000/mm³. The prothrombin and partial thromboplastin times were norma; the level of fibrinogen was 727 mg/dL, aspartate aminotransferase 108 units/L, alanine aminotransferase 79 units/L and the D-Dimer >20 micrograms/mL. Serum test results for total bilirubin, alkaline phosphatase, gamma glutamyl transpeptidase (GGT), urea nitrogen, and creatinine were normal.
+There were no infiltrates seen on chest radiography. Blood cultures were obtained.
+Diagnostic Procedure(s) and Result(s)
+The microbiology laboratory initially identified a long, thin gram-negative rod growing in the anaerobic bottle. The organism did not look like Enterobacteriaceae , and appeared to resemble Fusobacterium , but was less pointed. Polymerase chain reaction (PCR) testing and 16S-v3 ribosomal DNA partial sequencing identified the organism as Capnocytophaga canimorsus .
+Discussion
+Capnocytophaga canimorsus is a facultative anaerobe that is fastidious, and difficult to subculture from blood bottles. Of 141 cases reported in the literature through 1995, animal exposures were noted in 86%, and of those, 94% were secondary to contact with dogs (Rosenman et al 2003). In 26% of the cases, the contact was non-traumatic, and 8% were due to scratches (Rosenman et al 2003). Rapid severe disease may occur in patients with asplenia, alcoholism, or corticosteroid therapy (Gill 2004). The case fatality rate is approximately 30%, even in patients with an intact spleen (Rosenman et al 2003, Gill 2004). C. canimorsus is sensitive to numerous antibiotics including beta-lactams, doxycycline, ciprofloxacin, erythromycin, vancomycin, chloramphenicol, rifampicin, fusidic acid, and clindamycin (Gill 2004, Gottwein et al 2006). Resistance against aztreonam, methicillin, aminoglycosides, polymyxin, metronidazole, fosfomycin, and trimethoprim has been reported (Gill 2004, Gottwein et al 2006). Beta-lactamase production is becoming increasingly common in Capnocytophaga species (Roscoe et al 1992, Jolivet-Gougeon et al 2000).
+Other organisms that may cause postsplenectomy sepsis (PSS) include Streptococcus pneumoniae , Haemophilus influenzae type b, Neisseria meningitidis , Salmonella species, alpha–hemolytic streptococci, staphylococci, Bacteroides , and Enterobacteriaceae (Lutwick 2004).
+Final Diagnosis
+Postsplenectomy sepsis caused by Capnocytophaga canimorsus infection.
+References
+Gill V. Capnocytophaga. In Mandell: Principles & Practices of Infectious Diseases, 6th ed. Churchill Livingstone, Inc., 2005.
+Gottwein, J., Zbinden, R., Maibach, R.C., and Herren, T. (2006). Etiologic diagnosis of Capnocytophaga canimorsus meningitis by broad-range PCR. Eur J Clin Microbiol Infect Dis 25, 132-134.
+PMID:16482426 ( PubMed abstract )
+Jolivet-Gougeon, A., Buffet, A., Dupuy, C., Sixou, J.L., Bonnaure-Mallet, M., David, S., and Cormier, M. (2000). In vitro susceptibilities of Capnocytophaga isolates to beta-lactam antibiotics and beta-lactamase inhibitors. Antimicrob Agents Chemother 44, 3186-3188.
+PMID:11036049 ( PubMed abstract )
+Lutwick L. Infections in Asplenic Patients. In Mandell: Principles & Practices of Infectious Diseases, 6th ed. Churchill Livingstone, Inc., 2005.
+Roscoe, D.L., Zemcov, S.J., Thornber, D., Wise, R., and Clarke, A.M. (1992). Antimicrobial susceptibilities and beta-lactamase characterization of Capnocytophaga species. Antimicrob Agents Chemother 36, 2197-2200.
+PMID:1444299 ( PubMed abstract )
+Rosenman, J.R., Reynolds, J.K., and Kleiman, M.B. (2003). Capnocytophaga canimorsus meningitis in a newborn: an avoidable infection. Pediatr Infect Dis J 22, 204-205.
+PMID:12613462 ( PubMed abstract )

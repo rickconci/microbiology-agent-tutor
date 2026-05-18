@@ -1,0 +1,41 @@
+History of Present Illness
+IDSA 2003 Summary: A teenager with an occipitoparietal brain lesion on the right side.
+A teenager presented with a two-month history of a headache and a two-week history of gait disturbance, dizziness, and nausea. The headache was diffuse and occurred mostly nocturnally. There was no history of emesis. The patient denied visual changes but his teachers had noted his handwriting was less legible during the previous month of school. There was no history of fever, night sweats or weight loss.
+Medications
+None.
+Allergies
+He had no known allergies.
+Social History
+He lived with his family and attended high school.
+Epidemiological History
+He was born in a rural area of Mexico and had moved to the Southeastern United States several years before this presentation. There was no history of exposure to tuberculosis. The patient was not sexually active.
+Physical Examination
+He was cooperative with slow speech. The temperature was 98°F (36.6°C), respirations 20 breaths per minute, pulse 92 beats per minute, and blood pressure 124/74 mm Hg. The oropharynx and dentition were normal, and the pupils were equal, round and reactive to light. There was no cervical adenopathy or meningismus.
+On neurologic examination, he had left exotropia and a left-sided visual field cut. The tone decreased in left upper and lower extremities. His strength was slightly decreased on the left compared with the right, and sensation was decreased in the left arm and leg. His gait was guarded due to the visual deficit and left-sided weakness.
+Studies
+A complete blood count was normal, and the erythrocyte sedimentation rate was 6 mm/hour. Serologic testing for human immunodeficiency virus (HIV) infection was negative. The chest radiograph was normal, and a tuberculosis skin test (PPD) was nonreactive. Computed tomography (CT) showed a large right-sided brain lesion involving the occipital, parietal, and temporal lobes. Magnetic resonance imaging (MRI) is shown in Figures 1, 2, and 3 .
+Figure 1. Brain MRI scan.
+Figure 2. Brain MRI scan.
+Figure 3. Brain MRI scan.
+Clinical Course Prior to Diagnosis
+Corticosteroids were administered and a biopsy of the brain lesion was obtained.
+Diagnostic Procedure(s) and Result(s)
+Pathologic examination of the brain tissue demonstrated necrotizing granulomatous inflammation ( Figure 4 ). Special stains showed an acid-fast bacillus ( Figures 5 and 6 ). Culture of the tissue grew Mycobacterium tuberculosis complex, which was subsequently identified as M. bovis .
+Figure 4. Results of needle biopsy.
+Figure 5. Stain of brain biopsy.
+Figure 6. Detail of Figure 5.
+Treatment and Followup
+Antituberculosis chemotherapy (isoniazid, rifampin, ethambutol, pyrazinamide) was initiated and corticosteroids were continued. After four weeks of treatment, MRI scanning showed significant decrease in edema and mass effect. After 6 weeks of daily therapy, isoniazid and rifampin alone were continued based on susceptibilities. Corticosteroids were continued for 8 weeks. Because of lower back pain, a radiograph of the spine was obtained which showed dystrophic calcification of a retroperitoneal node ( Figure 7 ), probably representing primary abdominal tuberculosis caused by M. bovis .
+After 12 weeks of therapy (four weeks after completion of corticosteroids), the patient developed worsening headaches and nausea. MRI scanning showed edema and mass effect similar to that at presentation. The patient underwent surgical decompression after failing to respond to medical management with mannitol and corticosteroids. A biopsy of brain tissue revealed necrotizing granulomas. Special stains and culture for acid-fast bacilli were negative. The patient continued on isoniazid and rifampin. Corticosteroids were continued for several months.
+His headaches resolved but the visual deficit persisted. Sequential MRI scans of the brain demonstrated a significant decrease in the size of the lesion ( Figures 8 and 9 ).
+Figure 7. Lumbar spine radiograph.
+Figure 8. MRI scan at 12 months.
+Figure 9. MRI scan at 12 months.
+Discussion
+Mycobacterium bovis , the causative agent of bovine tuberculosis, is a member of the Mycobacterium tuberculosis complex, which also includes M. tuberculosis , M. africanum, M. microti , and M. cannettii. Transmission of this pathogen to humans occurs primarily by ingestion of contaminated unpasteurized dairy products. With the elimination of bovine tuberculosis and pasteurization of dairy products, M. bovis has been largely eradicated in developed countries.
+In this case, a teenaged Hispanic male with a central nervous system tuberculoma due to M. bovis is described. Although sporadic cases of meningitis due to M. bovis have been reported, M. bovis tuberculoma has not been previously described in the English literature at the time of this publication.
+In the United States, M. bovis accounts for 0.1% of all tuberculosis isolates. In areas with large populations of immigrants from countries without universal pasteurization, M. bovis is more prevalent. In San Diego County, for example, M. bovis accounts for 5.1% of all reported tuberculosis cases and 6.6% of all culture-proven cases. The impact of the disease is greatest in the pediatric population in which M. bovis accounts for 10.8% of tuberculosis cases and 33.9% of culture-proven cases. M. bovis tuberculosis in San Diego is almost exclusively confined to the Hispanic population and is largely attributed to cross-border exposure to unpasteurized dairy products in Mexico. Clinical and radiological features of tuberculosis due to M. bovis are indistinguishable from those of M. tuberculosis . Given the route of infection, M. bovis is more likely to cause extrapulmonary disease. In children, common sites involved are the cervical lymph nodes and the abdomen. In adults, M. bovis disease most often represents reactivation. Extrapulmonary sites of infection include the genitourinary tract and bones and joints. The patient we describe likely acquired primary abdominal infection during childhood, as suggested by the calcified retroperitoneal node, with reactivation of central nervous system disease during adolescence.
+The initial treatment of intracranial tuberculomas is medical. Surgical intervention reserved for those with clinical deterioration despite adequate medical management. Chemotherapy regimens for the treatment of M. bovis disease are based on those used for M. tuberculosis , but the innate resistance of M. bovis to pyrazinamide should be considered when using short-course regimens that rely on the rapid sterilization provided by this drug. The adjunctive use of corticosteroids is recommended to diminish neurological symptoms and improve outcome. Response to medical management is usually noted in 6 to 12 weeks.
+Radiological improvement occurred in our patient 4 weeks after initiation of therapy, but subsequent clinical and radiological relapse necessitated surgical intervention. Multiple case reports describe paradoxical enlargement of a tuberculoma during the first 2-3 months of treatment. Typically the enlargement occurs coincident with the tapering or discontinuation of steroids. The increase in size is thought not to be a consequence of failure of treatment but rather an interaction between the host immune response and direct effects of the mycobacterium. Human M. bovis tuberculosis is uncommon in the United States. Given the trends in immigration, especially from countries where bovine tuberculosis has not been eradicated, continued surveillance for this pathogen is warranted.
+Final Diagnosis
+Mycobacterium bovis tuberculoma.

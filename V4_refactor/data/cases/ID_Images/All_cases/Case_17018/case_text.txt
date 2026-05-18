@@ -1,0 +1,57 @@
+History of Present Illness
+A man in his thirties with HIV diagnosed 3 years ago (nadir CD4 T-cell count 4 cells/mm³), currently virally suppressed on tenofovir/lamivudine/efavirenz with a CD4 of 503 cells/mm³ presented with a three-year history of a slowly enlarging, and now massive perianal mass.
+Medications
+Lamivudine, tenofovir and efavirenz once daily
+Epidemiological History
+He reported having sex with men and women and did not use barrier protection regularly. He drank alcohol socially and did not smoke cigarettes or use any illicit drugs.
+Physical Examination
+The patient looked well and vital signs were normal. He had a 12 x 18 cm mass covering the perianal area (Figure 1) accompanied by papillomatous lesions in the scrotal area (Figure 2) and base of the penis. The rest of his physical exam was unremarkable.
+Figure 1. 12 x 18 cm buttock mass covering the perianal area
+Figure 2. Sub-centimeter papillomatous lesions seen over the scrotum
+Studies
+His HIV-1 RNA level was undetectable and CD4 count was 287 cells/mm³. Proctosigmoidoscopy did not show any intraluminal extension of the mass. The abdominopelvic computed tomography (CT) scan with intravenous and rectal contrast revealed a large, well-demarcated, hyperdense, enhancing mass arising from the anal region, extending exteriorly as a lobulated verrucous mass. It measured 9.0 x 12.0 x 13.1 cm in its greatest dimension. This mass caused a near-total luminal obstruction of the anorectal region. There were also multiple, enlarged, heterogenous lymph nodes seen in the bilateral inguinal regions and external iliac chains. The largest lymph node was on the right with a measurement of 1.5 cm across. The urinary collecting structures and urinary bladder were normal (Figure 3).
+Figure 3. Abdominopelvic CT scan with intravenous (IV) and rectal contrast. Large 9 x 12 x 13cm hyperdense mass seen arising from the anal region extending exteriorly, causing near-total luminal obstruction. Lymphadenopathy noted. Urinary collecting systems were normal.
+Diagnostic Procedure(s) and Result(s)
+He underwent left inguinal lymph node biopsy, excision of genital and perianal warts, and electrocauterization of the warts at the penis and scrotum. A post-operative photograph of the anal area is shown (Figure 4).
+The inguinal lymph node biopsy did not show any tumor while the histopathology of the excised perianal mass did not show any atypia or cancer cell nests. The base of the lesion was sharply defined without signs of invasion into the underlying connective tissue (Figure 5) while the surface epithelium showed koilocytosis (Figure 6). The squamous epithelium was thickened with areas of hyperkeratosis and had ordered maturation. The final histopathologic diagnosis was condyloma acuminata.
+Figure 4. Post-operative photograph of anal area
+Figure 5. H&E stain of anal tissue (low power) revealed a lesion with a sharply-defined base (arrow). There were no signs of invasion into the underlying connective tissue, differentiating it from a carcinoma.
+Figure 6. H&E stains of anal tissue (high power).The surface epithelium shows koilocytosis (HPV related cellular changes), as demonstrated by the wrinkled hyperchromatic nuclei (arrow), perinuclear halos (box) and multinucleated cells (circle)
+Treatment and Followup
+Two months after the surgery, physical exam revealed anal strictures and recurrence of the perianal lesion (Figure 7). He was treated with electrocautery and serial anal dilation but the lesions persisted.
+Figure 7. Photograph of anal area two months after surgery
+Discussion
+Buschke–Löwenstein tumor (BLT), also known as giant condyloma acuminata (GCA) is believed to be a transition between condyloma acuminata and squamous cell carcinoma (SCC).[1] Often, verrucous carcinoma and BLT are used interchangeably. This may be misleading as the former has a tendency for metastasis while BLT is benign.[2] Human papilloma virus (HPV) types 6 and 11 have been identified as the etiologic agent in the majority of cases of condyloma acuminata and BLT, while types 16 and 18 have been more frequently associated with a higher degree of dysplasia and carcinoma.[1,2]
+As seen in this patient, perianal mass is the most common symptom of BLT. Other symptoms include pain, abscess, fistula and bleeding. [3-5] Also, anal stricture as a sequela of surgery is a common complication of BLT. [3,6] Histopathologic findings such as the absence of atypia and cancer cell nests are compatible with BLT. Furthermore, the sharply defined base with no invasion of the underlying connective tissue, the koilocytosis in the surface epithelium, papillomatous and hyperkeratotic growth all support the diagnosis of BLT.[6]
+To date, there are no established treatment guidelines for BLT. Surgery is still favored by many [7] and has a curative rate of 61%.[3] However, surgery is associated with a high recurrence rate, difficult wound healing due to secondary infection, and high morbidity due to a large soft tissue defect. Spillage of residual tumor during the operation is proposed as leading to the high recurrence rate after radical surgery. [1,3,5] Our patient’s tumor was managed with surgical excision coupled with electrocautery. Similar to other reports, our patient also experienced recurrence.
+BLT tends to persist in HIV-infected patients probably due to immune system dysregulation resulting in the inability to control the expression and replication of HPV. [8] The low number of anal tissue Langerhans cells in HIV-infected patients may also contribute to relapse. Other factors that may contribute to relapse include co-infection with gonorrhea, syphilis, HSV and CMV infections. [9]
+It has also been shown that patients with HIV and HPV co-infection have a higher risk of developing high-grade squamous intraepithelial lesions (HSIL), subsequently resulting in anal cancer. [5, 9]. The 4-year incidence of developing a HSIL among HIV-infected men was 49% compared to 17% in HIV-negative men. Other risk factors for progression to malignancy include a lower CD4 level of less than 500 cells/mm³, persistent anal HPV infection, anal infection with multiple HPV types, high-level HPV infection with the more oncogenic HPV types, and a higher HPV load in the affected tissue. [5,8,10]
+The impact of antiretroviral therapy (ART) on HPV infection and HPV-related abnormalities has been inconsistent and controversial. [8,11] Antiretroviral therapy has not consistently been shown to reduce the incidence of HPV-related cancers. Our patient had been on ART but still developed BLT. The progression of the patient’s anal mass while he was receiving ART and having an increase in his CD4 cell count suggests the possibility that the BLT was exacerbated by immune reconstitution inflammatory syndrome, as has been previously reported.[12]
+Although BLT is a benign lesion, its ability to infiltrate and invade surrounding tissues may lead to disfiguring outcomes. The higher risk of recurrence and propensity for malignant transformation of BLT for people living with HIV warrant close attention and pro-active treatment, and monitoring for progression in the setting of ART-induced immune reconstitution.
+Final Diagnosis
+Buschke–Löwenstein tumor in a man with HIV.
+References
+Patti, R., P.Aiello, G.L.Angelo GDV. Giant condyloma acuminatum quickly growing. Case report. G Chir. 2012;33(10):327-330.
+PMID:23095561 ( PubMed abstract )
+Yanofsky VR, Patel R V, Goldenberg G. Genital warts: a comprehensive review. J Clin Aesthet Dermatol. 2012;5(6):25-36.
+PMID:22768354 ( PubMed abstract )
+Chu QD, Vezeridis MP, Libbey NP, Wanebo HJ. Giant condyloma acuminatum (Buschke-Lowenstein tumor) of the anorectal and perianal regions - Analysis of 42 cases. Dis Colon Rectum. 1994;37(9):950-957
+PMID:8076499 ( PubMed abstract )
+Trombetta LJ, Place RJ. Giant condyloma acuminatum of the anorectum: Trends in epidemiology and management - Report of a case and review of the literature. Dis Colon Rectum. 2001;44(12):1878-1886. doi:10.1007/bf02234473.
+PMID:11742180 ( PubMed abstract )
+Mudrikova T, Jaspers C, Ellerbroek P, Hoepelman A. HPV-related anogenital disease and HIV infection: Not always “ordinary” condylomata acuminata. Neth J Med. 2008;66(3):98-102.
+PMID:18349464 ( PubMed abstract )
+Steffen C. The men behind the eponym--Abraham Buschke and Ludwig Lowenstein: giant condyloma (Buschke-Loewenstein). Am J Dermatopathol. 2006;28(6):526-536. doi:10.1097/01.dad.0000211528.87928.a8.
+PMID:17122499 ( PubMed abstract )
+Spinu D, Radulescu A, Bratu O, Checherita IA, Ranetti AE, Mischianu D. Giant condyloma acuminatum - Buschke-Lowenstein disease - a literature review. Chirurgia (Bucur). 2014;109(4):445-450.
+PMID:25149605 ( PubMed abstract )
+Marchetti G, Comi L, Bini T, et al. HPV Infection in a Cohort of HIV-Positive Men and Women: Prevalence of Oncogenic Genotypes and Predictors of Mucosal Damage at Genital and Oral Sites. J Sex Transm Dis. 2013;2013:915169. doi:10.1155/2013/915169
+PMID:26316967 ( PubMed abstract )
+Sobhani I, Vuagnat A, Walker F, et al. Prevalence of high-grade dysplasia and cancer in the anal canal in human papillomavirus-infected individuals. Gastroenterology. 2001;120(4):857-866. doi:10.1053/gast.2001.22446.
+PMID:112319460 ( PubMed abstract )
+Palefsky JM, Holly EA, Ralston ML, Jay N, Berry JM, Darragh TM. High incidence of anal high-grade squamous intra-epithelial lesions among HIV-positive and HIV-negative homosexual and bisexual men. Aids. 1998;12(0269-9370 (Print)):495-503. doi:10.1097/00002030-199805000-00011.
+PMID:10037100 ( PubMed abstract )
+Melbye M, Cote TR, Kessler L, Gail M, Biggar RJ. High incidence of anal cancer among AIDS patients. The AIDS/Cancer Working Group. Lancet. 1994;343(0140-6736 (Print)):636-639. doi:10.1016/S0140-6736(94)92636-0.
+PMID:7906812 ( PubMed abstract )
+Weiss DA, Yang G, Myers JB, Breyer BN. Condyloma Overgrowth Caused by Immune Reconstitution Inflammatory Syndrome. Urology. 2009;74(5):1013-1014. doi:10.1016/j.urology.2009.04.076.
+PMID:19616289 ( PubMed abstract )
