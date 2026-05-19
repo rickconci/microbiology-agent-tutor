@@ -19,7 +19,7 @@ Figure 2. Admission abdominal radiograph showing extensive colonic gaseous diste
 Figure 3. CT scan of chest (axial view) showing diffuse alveolar and interstitial opacities with ground-glass opacities.
 Figure 4. CT scan of chest (coronal view) showing diffuse alveolar and interstitial opacities with ground-glass opacities.
 Diagnostic Procedure(s) and Result(s)
-Stool ova and parasite testing was positive for Strongyloides stercoralis (Figure 5). Given her immunocompromised state (on chronic steroids), stool evidence of Strongyloides , extensive pulmonary infiltrates and septic shock, there was concern for Strongyloides stercoralis hyperinfection syndrome. The BAL ova and parasite testing was also positive for Strongyloides sterocoralis (Figure 6). Her serum Strongyloides IgG by Elisa was negative. Although she never had peripheral eosinophilia during this admission, in retrospect she demonstrated eosinophilia of 16% four months ago (prior to surgery and steroids).
+Stool ova and parasite testing was positive for Strongyloides stercoralis (Figure 5). Given her immunocompromised state (on chronic steroids), stool evidence of Strongyloides, extensive pulmonary infiltrates and septic shock, there was concern for Strongyloides stercoralis hyperinfection syndrome. The BAL ova and parasite testing was also positive for Strongyloides sterocoralis (Figure 6). Her serum Strongyloides IgG by Elisa was negative. Although she never had peripheral eosinophilia during this admission, in retrospect she demonstrated eosinophilia of 16% four months ago (prior to surgery and steroids).
 Figure 5. Stool ova and parasites showing Strongyloides
 Figure 6. BAL showing Strongyloides
 Treatment and Followup
@@ -34,10 +34,14 @@ Final Diagnosis
 Strongyloides stercoralis Hyperinfection in an immunocompromised patient on chronic steroids
 References
 Puthiyakunnon S, Boddu S, Li Y, Zhou X, Wang C, Li J, Chen X. Plos Negl Trop Dis (2014) Strongyloidiasis--an insight into its global prevalence and management. Aug 2014;8(8):e3018. doi: 10.1371/journal.pntd.0003018.
-PMID:25121962 ( PubMed abstract )
+PMID:25121962(PubMed abstract) World Health Organization: Strongyloidiasis (2017) http://www.who.int/intestinal_worms/epidemiology/strongyloidiasis/en/ Centers for Disease Control (2016) https://www.cdc.gov/parasites/strongyloides/health_professionals/index.html Pornsuriyasak P, Niticharoenpong K, Sakapibunnan A (2004) Disseminated strongyloidiasis successfully treated with extended duration ivermectin combined with albendazole: a case report of intractable strongyloidiasis. Southeast Asian J Trop Health Hyg. 2004; 35:531-534
+PMID:15689061(PubMed abstract) Roxby AC, Gottlieb GS, Limaye AP (2009) Strongyloides in transplant patients, Clin Infect Dis. 2009 Nov 1;49(9):1411-23. doi: 10.1086/630201.
+PMID:19807271(PubMed abstract)
+Puthiyakunnon S, Boddu S, Li Y, Zhou X, Wang C, Li J, Chen X. Plos Negl Trop Dis (2014) Strongyloidiasis--an insight into its global prevalence and management. Aug 2014;8(8):e3018. doi: 10.1371/journal.pntd.0003018.
+PMID:25121962(PubMed abstract)
 World Health Organization: Strongyloidiasis (2017) http://www.who.int/intestinal_worms/epidemiology/strongyloidiasis/en/
 Centers for Disease Control (2016) https://www.cdc.gov/parasites/strongyloides/health_professionals/index.html
 Pornsuriyasak P, Niticharoenpong K, Sakapibunnan A (2004) Disseminated strongyloidiasis successfully treated with extended duration ivermectin combined with albendazole: a case report of intractable strongyloidiasis. Southeast Asian J Trop Health Hyg. 2004; 35:531-534
-PMID:15689061 ( PubMed abstract )
+PMID:15689061(PubMed abstract)
 Roxby AC, Gottlieb GS, Limaye AP (2009) Strongyloides in transplant patients, Clin Infect Dis. 2009 Nov 1;49(9):1411-23. doi: 10.1086/630201.
-PMID:19807271 ( PubMed abstract )
+PMID:19807271(PubMed abstract)

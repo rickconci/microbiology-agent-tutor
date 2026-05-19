@@ -11,14 +11,14 @@ Physical Examination
 She appeared well. The temperature was 99.7°F (37.6°C). The abdomen was distended, with normal bowel sounds and an evident fluid wave. It was not tender to palpation, and there were no palpable masses. The remainder of the examination, including the pelvic exam, was normal.
 Studies
 A complete blood count (CBC) revealed a hematocrit of 35%, a total white blood cell count (WBC) of 6,000/mm³, with 10.1% eosinophils (absolute eosinophil count of 606/mm³). The CA-125 was 365 U/ml (normal range 0.6-35.0) and testing for antibodies to the human immunodeficiency virus (HIV) was negative. The urinalysis was normal.
-The pelvic ultrasound demonstrated a normal appearing uterus, ascites, and a right ovarian complex hypoechogenic mass. Computed tomography (CT) of the abdomen and pelvis with contrast enhancement showed massive ascites, a right ovarian complex mass (3-centimeters in diameter, shown in Figure 1 ), and an irregular anterior abdominal peritoneum suggestive of peritoneal studding ( Figure 2 ).
+The pelvic ultrasound demonstrated a normal appearing uterus, ascites, and a right ovarian complex hypoechogenic mass. Computed tomography (CT) of the abdomen and pelvis with contrast enhancement showed massive ascites, a right ovarian complex mass (3-centimeters in diameter, shown in Figure 1), and an irregular anterior abdominal peritoneum suggestive of peritoneal studding (Figure 2).
 Figure 1. Pre-op contrast pelvic CT scan.
 Figure 2. Pre-op contrast abdominal CT scan.
 Clinical Course Prior to Diagnosis
-A laparotomy, with total abdominal hysterectomy/right salpingo-oophorectomy/omentectomy, was peformed for debulking and staging. The peritoneum was studded with malignant-appearing nodules on all serosal surfaces, including the uterus, fallopian tube, and ovary. Frozen sections, however, demonstrated non-caseating granulomatous inflammation ( Figure 3 ).
+A laparotomy, with total abdominal hysterectomy/right salpingo-oophorectomy/omentectomy, was peformed for debulking and staging. The peritoneum was studded with malignant-appearing nodules on all serosal surfaces, including the uterus, fallopian tube, and ovary. Frozen sections, however, demonstrated non-caseating granulomatous inflammation (Figure 3).
 Figure 3. H and E stain of peritoneal serosa biopsy.
 Diagnostic Procedure(s) and Result(s)
-Histopathology ( Figure 3 ) revealed spherules with endospores within non-caseating granulomas, diagnostic of infection with Coccidioides immitis . Calcofluor white examination of centrifuged peritoneal fluid ( Figure 4 ) and urine ( Figure 5 ) also revealed spherules with endospores. Growth of this fungus occurred out of tissue biopsies, peritoneal fluid, and urine.
+Histopathology (Figure 3) revealed spherules with endospores within non-caseating granulomas, diagnostic of infection with Coccidioides immitis. Calcofluor white examination of centrifuged peritoneal fluid (Figure 4) and urine (Figure 5) also revealed spherules with endospores. Growth of this fungus occurred out of tissue biopsies, peritoneal fluid, and urine.
 Figure 4. Calcofluor stain of spun peritoneal fluid (400x).
 Figure 5. Calcofluor stain of spun urine (400x).
 Treatment and Followup
@@ -30,7 +30,7 @@ The visualization of spherules of C. immitis on microscopy of the pertinent body
 References:
 1. Phillips P and Ford B, Peritoneal coccidioidomycosis: case report and review. Clin Infect Dis. 2000 Jun;30(6):971-6. PMID: 10880320
 Final Diagnosis
-Peritoneal coccidioidomycosis, caused by Coccidioides immitis .
+Peritoneal coccidioidomycosis, caused by Coccidioides immitis.
 References
 Phillips, P., and Ford, B. (2000). Peritoneal coccidioidomycosis: case report and review. Clin Infect Dis 30, 971-976
-PMID:10880320 ( PubMed abstract )
+PMID:10880320(PubMed abstract)

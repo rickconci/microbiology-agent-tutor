@@ -6,20 +6,20 @@ The patient worked in Pennsylvania, and took frequent trips throughout much of t
 Physical Examination
 On examination, the temperature was 99.4°F (37.4°C). Mild tenderness in the left upper quadrant of the abdomen and splenomegaly were present.
 Studies
-Serum test results for human immunodeficiency virus (HIV) and a skin test for tuberculosis were negative. Blood cultures were sterile. A computed tomography (CT) scan of the abdomen showed splenic lesions (Figure 1) .
+Serum test results for human immunodeficiency virus (HIV) and a skin test for tuberculosis were negative. Blood cultures were sterile. A computed tomography (CT) scan of the abdomen showed splenic lesions (Figure 1).
 Figure 1. CT scan of the abdomen.
 Clinical Course Prior to Diagnosis
-Aspiration of the splenic lesions was performed. Cytologic examination of the splenic aspirate and a wet prep of the culture growth are seen in Figures 2 and 3 , respectively.
+Aspiration of the splenic lesions was performed. Cytologic examination of the splenic aspirate and a wet prep of the culture growth are seen in Figures 2 and 3, respectively.
 Figure 2. Cytologic examination of splenic aspirate.
 Figure 3. Wet prep of culture.
 Diagnostic Procedure(s) and Result(s)
-Cultures from splenic aspiration grew .
+Cultures from splenic aspiration grew Blastomyces dermatitidis. Figure 2. Cytologic examination of splenic aspirate. Figure 3. Wet prep of culture.
 Treatment and Followup
 In retrospect, the patient reported having been caught in a "dust storm" in Wisconsin, six weeks before his initial febrile presentation. The patient had no evidence of pulmonary disease at the time of diagnosis. He was treated intravenous amphotericin B for two weeks, followed by six months of oral itraconazole, and made a complete recovery.
 Discussion
 The broad based budding of the organism is characteristic of Blastomyces and is not seen with the other organisms mentioned. Blastomycosis is acquired by inhalation, but then may disseminate throughout the body. Focal lesions may occur in the skin or bones. Splenic abscess is a rare complication of blastomycosis.
 Final Diagnosis
-Splenic abscess due to Blastomyces dermatitidis .
+Splenic abscess due to Blastomyces dermatitidis.
 References
 Walker, G.T., McRoyan, D.K., Luterman, A., Dowling, E.A., and Curreri, P.W. (1986). Splenic abscess caused by Blastomyces dermatitidis. South Med J 79, 773-776.
-PMID:3715545 ( PubMed abstract )
+PMID:3715545(PubMed abstract)

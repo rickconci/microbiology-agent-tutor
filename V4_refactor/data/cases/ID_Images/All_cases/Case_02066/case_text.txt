@@ -12,20 +12,23 @@ The temperature was 101°F (38.3°C). There was right upper quadrant abdominal t
 Studies
 The white blood cell count (WBC) was 12,000 cells/mm³, total bilirubin 1.2 mg/dL, alkaline phosphatase 195 U/L, and alanine aminotransferase (ALT, SGPT) 50 U/L.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) of the abdomen ( Figure 1 ) and aspiration of the liver lesion were performed. Gram stain of the liver aspirate is shown in Figure 2 .
+Computed tomography (CT) of the abdomen (Figure 1) and aspiration of the liver lesion were performed. Gram stain of the liver aspirate is shown in Figure 2.
 Figure 1. Abdominal CT scan.
 Figure 2. Gram stain.
 Diagnostic Procedure(s) and Result(s)
-Direct fluorescent antibody stain and culture of the liver aspirate were positive for Actinomyces israelii . (See Figure 3 .)
+Direct fluorescent antibody stain and culture of the liver aspirate were positive for Actinomyces israelii. (See Figure 3.)
 Figure 3. Fluorescent stain.
 Treatment and Followup
 The patient was treated with a prolonged course of penicillin and fully recovered.
 Discussion
 The most common sites of involvement with actinomycosis are the jaw, the lung and intra-abdominal disease. Hepatic actinomycosis represents about 5% of cases of actinomycosis. The infection may result either from direct extension from a contiguous focus or from hematogenous spread. It is usually related to a breach in the gastrointestinal mucosa, although extension from pleuro-pulmonary infection is sometimes seen. Other companion organisms may be present.
 Final Diagnosis
-Hepatic actinomycosis caused by .
+Hepatic actinomycosis caused by Actinomyces israelii.
 References
 Kanellopoulou, T., Alexopoulou, A., Tanouli, M.I., Tiniakos, D., Giannopoulos, D., Koskinas, J., and Archimandritis, A.J. (2010). Primary hepatic actinomycosis. Am J Med Sci 339, 362-365.
-PMID:20195148 ( PubMed abstract )
+PMID:20195148(PubMed abstract) Miyamoto, M.I., and Fang, F.C. (1993). Pyogenic liver abscess involving Actinomyces: case report and review. Clin Infect Dis 16, 303-309.
+PMID:8443315(PubMed abstract)
+Kanellopoulou, T., Alexopoulou, A., Tanouli, M.I., Tiniakos, D., Giannopoulos, D., Koskinas, J., and Archimandritis, A.J. (2010). Primary hepatic actinomycosis. Am J Med Sci 339, 362-365.
+PMID:20195148(PubMed abstract)
 Miyamoto, M.I., and Fang, F.C. (1993). Pyogenic liver abscess involving Actinomyces: case report and review. Clin Infect Dis 16, 303-309.
-PMID:8443315 ( PubMed abstract )
+PMID:8443315(PubMed abstract)

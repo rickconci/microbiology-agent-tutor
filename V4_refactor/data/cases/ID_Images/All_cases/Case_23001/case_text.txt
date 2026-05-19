@@ -18,7 +18,9 @@ Laboratory findings were notable for a normal metabolic panel, white blood cell 
 Magnetic resonance imaging (MRI) of the brain with and without contrast did not show acute infarct, mass, hemorrhage, or abnormal enhancement but did demonstrate disproportionate cerebellar parenchymal volume loss (Figure 1). A CT neck obtained 6 years before for an unrelated odontogenic infection is shown (Figure 2) to provide a better comparison of the parenchymal volume loss. A spine MRI with and without contrast showed non-specific faint leptomeningeal enhancement along the cauda equina nerve roots.
 Cerebrospinal fluid (CSF) studies showed 4 total nucleated cells [reference range 0 - 5 /uL] with 0% neutrophils, 84% lymphocytes, and 16% monocytes. The total protein was elevated at 78.2 mg/d [reference range 10.0 - 44.0 mg/dL], and glucose was 55 mg/dL [reference range: 40 - 70 mg/dL].
 Figure 1. Figure 1, Brain MRI with contrast. Parenchymal volume loss, disproportionately involving the cerebellum, appears increased compared to CT neck performed 6 years earlier.
+Figure 1, Brain MRI with contrast. Parenchymal volume loss, disproportionately involving the cerebellum, appears increased compared to CT neck performed 6 years earlier.
 Figure 2. Figure 2, Neck CT without contrast. Performed 6 years earlier, shown for comparison.
+Figure 2, Neck CT without contrast. Performed 6 years earlier, shown for comparison.
 Diagnostic Procedure(s) and Result(s)
 CSF studies showed a non-reactive VDRL and negative cryptococcus antigen. CSF PCR was negative for herpes simplex type 1 and 2, cytomegalovirus, Epstein-Barr virus, varicella-zoster, and Toxoplasma gondii, but positive for JC virus (JCV). JC virus PCR in blood was also detectable. CSF cytology, paraneoplastic, and autoimmune panels were negative.
 Based on her clinical presentation, radiologic findings, and the presence of the JC virus in blood and CSF, a final diagnosis of JC virus granule cell neuronopathy (JCV-GCN) was determined.
@@ -36,30 +38,45 @@ Final Diagnosis
 Cerebellar atrophy due to JC virus granule cell neuronopathy in a patient with HIV/AIDS.
 References
 Brew BJ, Davies NWS, Cinque P, Clifford DB, Nath A. Progressive multifocal leukoencephalopathy and other forms of JC virus disease. Nat Rev Neurol. 2010 Dec;6(12):667–79.
-PMID:21131916 ( PubMed abstract )
+PMID:21131916(PubMed abstract) Tan CS, Koralnik IJ. Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol. 2010 Apr;9(4):425–37.
+PMID:20298966(PubMed abstract) Koralnik IJ, Wüthrich C, Dang X, Rottnek M, Gurtman A, Simpson D, et al. JC virus granule cell neuronopathy: A novel clinical syndrome distinct from progressive multifocal leukoencephalopathy. Ann Neurol. 2005 Apr;57(4):576–80.
+PMID:15786466(PubMed abstract) Du Pasquier RA, Corey S, Margolin DH, Williams K, Pfister LA, De Girolami U, et al. Productive infection of cerebellar granule cell neurons by JC virus in an HIV+ individual. Neurology. 2003 Sep 23;61(6):775–82.
+PMID:14504320(PubMed abstract) Dang X, Vidal JE, Penalva de Oliveira AC, Simpson DM, Morgello S, Hecht JH, et al. JC virus granule cell neuronopathy is associated with VP1 C terminus mutants. J Gen Virol. 2012 Jan;93(Pt 1):175–83.
+PMID:21940415(PubMed abstract) Tagliati M, Simpson D, Morgello S, Clifford D, Schwartz RL, Berger JR. Cerebellar degeneration associated with human immunodeficiency virus infection. Neurology. 1998 Jan;50(1):244–51.
+PMID:9443487(PubMed abstract) Hecht JH, Glenn OA, Wara DW, Wu YW. JC virus granule cell neuronopathy in a child with CD40 ligand deficiency. Pediatr Neurol. 2007 Mar;36(3):186–9.
+PMID:17352955(PubMed abstract) Granot R, Lawrence R, Barnett M, Masters L, Rodriguez M, Theocharous C, et al. What lies beneath the tent? JC-virus cerebellar granule cell neuronopathy complicating sarcoidosis. J Clin Neurosci. 2009 Aug;16(8):1091–2.
+PMID:19394827(PubMed abstract) Dang L, Dang X, Koralnik IJ, Todd PK. JC polyomavirus granule cell neuronopathy in a patient treated with rituximab. JAMA Neurol. 2014 Apr;71(4):487–9.
+PMID:24515530(PubMed abstract) Agnihotri SP, Dang X, Carter JL, Fife TD, Bord E, Batson S, et al. JCV GCN in a natalizumab-treated MS patient is associated with mutations of the VP1 capsid gene. Neurology. 2014 Aug 19;83(8):727–32.
+PMID:25037207(PubMed abstract) Schippling S, Kempf C, Büchele F, Jelcic I, Bozinov O, Bont A, et al. JC virus granule cell neuronopathy and GCN-IRIS under natalizumab treatment. Ann Neurol. 2013 Oct;74(4):622–6.
+PMID:23868420(PubMed abstract) Bag AK, Curé JK, Chapman PR, Roberson GH, Shah R. JC virus infection of the brain. AJNR Am J Neuroradiol. 2010 Oct;31(9):1564–76.
+PMID:20299430(PubMed abstract) Henry C, Jouan F, De Broucker T. JC virus granule cell neuronopathy: A cause of infectious cerebellar degeneration. J Neurol Sci. 2015 Jul 15;354(1-2):86–90.
+PMID:26003226(PubMed abstract) Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.
+PMID:34405435(PubMed abstract)
+Brew BJ, Davies NWS, Cinque P, Clifford DB, Nath A. Progressive multifocal leukoencephalopathy and other forms of JC virus disease. Nat Rev Neurol. 2010 Dec;6(12):667–79.
+PMID:21131916(PubMed abstract)
 Tan CS, Koralnik IJ. Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol. 2010 Apr;9(4):425–37.
-PMID:20298966 ( PubMed abstract )
+PMID:20298966(PubMed abstract)
 Koralnik IJ, Wüthrich C, Dang X, Rottnek M, Gurtman A, Simpson D, et al. JC virus granule cell neuronopathy: A novel clinical syndrome distinct from progressive multifocal leukoencephalopathy. Ann Neurol. 2005 Apr;57(4):576–80.
-PMID:15786466 ( PubMed abstract )
+PMID:15786466(PubMed abstract)
 Du Pasquier RA, Corey S, Margolin DH, Williams K, Pfister LA, De Girolami U, et al. Productive infection of cerebellar granule cell neurons by JC virus in an HIV+ individual. Neurology. 2003 Sep 23;61(6):775–82.
-PMID:14504320 ( PubMed abstract )
+PMID:14504320(PubMed abstract)
 Dang X, Vidal JE, Penalva de Oliveira AC, Simpson DM, Morgello S, Hecht JH, et al. JC virus granule cell neuronopathy is associated with VP1 C terminus mutants. J Gen Virol. 2012 Jan;93(Pt 1):175–83.
-PMID:21940415 ( PubMed abstract )
+PMID:21940415(PubMed abstract)
 Tagliati M, Simpson D, Morgello S, Clifford D, Schwartz RL, Berger JR. Cerebellar degeneration associated with human immunodeficiency virus infection. Neurology. 1998 Jan;50(1):244–51.
-PMID:9443487 ( PubMed abstract )
+PMID:9443487(PubMed abstract)
 Hecht JH, Glenn OA, Wara DW, Wu YW. JC virus granule cell neuronopathy in a child with CD40 ligand deficiency. Pediatr Neurol. 2007 Mar;36(3):186–9.
-PMID:17352955 ( PubMed abstract )
+PMID:17352955(PubMed abstract)
 Granot R, Lawrence R, Barnett M, Masters L, Rodriguez M, Theocharous C, et al. What lies beneath the tent? JC-virus cerebellar granule cell neuronopathy complicating sarcoidosis. J Clin Neurosci. 2009 Aug;16(8):1091–2.
-PMID:19394827 ( PubMed abstract )
+PMID:19394827(PubMed abstract)
 Dang L, Dang X, Koralnik IJ, Todd PK. JC polyomavirus granule cell neuronopathy in a patient treated with rituximab. JAMA Neurol. 2014 Apr;71(4):487–9.
-PMID:24515530 ( PubMed abstract )
+PMID:24515530(PubMed abstract)
 Agnihotri SP, Dang X, Carter JL, Fife TD, Bord E, Batson S, et al. JCV GCN in a natalizumab-treated MS patient is associated with mutations of the VP1 capsid gene. Neurology. 2014 Aug 19;83(8):727–32.
-PMID:25037207 ( PubMed abstract )
+PMID:25037207(PubMed abstract)
 Schippling S, Kempf C, Büchele F, Jelcic I, Bozinov O, Bont A, et al. JC virus granule cell neuronopathy and GCN-IRIS under natalizumab treatment. Ann Neurol. 2013 Oct;74(4):622–6.
-PMID:23868420 ( PubMed abstract )
+PMID:23868420(PubMed abstract)
 Bag AK, Curé JK, Chapman PR, Roberson GH, Shah R. JC virus infection of the brain. AJNR Am J Neuroradiol. 2010 Oct;31(9):1564–76.
-PMID:20299430 ( PubMed abstract )
+PMID:20299430(PubMed abstract)
 Henry C, Jouan F, De Broucker T. JC virus granule cell neuronopathy: A cause of infectious cerebellar degeneration. J Neurol Sci. 2015 Jul 15;354(1-2):86–90.
-PMID:26003226 ( PubMed abstract )
+PMID:26003226(PubMed abstract)
 Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.Bernard-Valnet R, Koralnik IJ, Du Pasquier R. Advances in treatment of progressive multifocal leukoencephalopathy. Ann Neurol. 2021 Dec;90(6):865–73.
-PMID:34405435 ( PubMed abstract )
+PMID:34405435(PubMed abstract)

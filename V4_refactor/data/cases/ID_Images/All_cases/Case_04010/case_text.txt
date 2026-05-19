@@ -12,20 +12,20 @@ The patient was intubated and sedated. The temperature was 99.0°F (37.2°C), bl
 Studies
 Magnetic resonance imaging (MRI) of the brain showed large ventricles and periventricular low absorption consistent with ventriculitis.
 Clinical Course Prior to Diagnosis
-A lumbar puncture revealed 113 white blood cells per cubic millimeter in the first tube, of which 93% were leukocytes, 3% lymphocytes and 3% monocytes. There were 82 cells per cubic millimeter (95% leukocytes) in the fourth tube. The level of glucose in the cerebrospinal fluid (CSF) was 27 mg/dL and that of total protein was 158 g/dL. A gram stain of the CSF is shown in Figure 1 .
+A lumbar puncture revealed 113 white blood cells per cubic millimeter in the first tube, of which 93% were leukocytes, 3% lymphocytes and 3% monocytes. There were 82 cells per cubic millimeter (95% leukocytes) in the fourth tube. The level of glucose in the cerebrospinal fluid (CSF) was 27 mg/dL and that of total protein was 158 g/dL. A gram stain of the CSF is shown in Figure 1.
 Figure 1. Gram stain of CSF.
 Diagnostic Procedure(s) and Result(s)
-The cerebrospinal fluid (CSF) gram stain ( Figure 1 ) showed multiple budding yeast. The culture grew Candida dubliniensis ( Figure 2 ).
+The cerebrospinal fluid (CSF) gram stain (Figure 1) showed multiple budding yeast. The culture grew Candida dubliniensis (Figure 2).
 Figure 2. Culture plate of CSF.
 Treatment and Followup
 The ventriculoperitoneal shunt (VPS) was removed. The patient was treated with intravenous liposomal amphotericin B (at 7 milligrams per kilogram) and 5-flucytosine.
 Fungal staining of the CSF showed successful clearance of yeast within two days. Unfortunately, progressive respiratory failure developed and the patient expired.
 Discussion
-This is a case of fungal ventriculitis with an unusual Candida species, Candida dubliniensis , in a patient with a ventriculoperitoneal shunt. In a patient with an external ventricular drain in place, the risk of ventriculitis is high and correlated with the length of time the device is in place. Bacteria, usually skin flora such as Staphylococcus species are the most common causes of ventriculitis in the setting of an in-dwelling device. In this case, the individual had also received a long course of broad-spectrum antibiotics during prolonged hospitalization. Both circumstances would be expected to increase his risk of fungal disease.
-Candidal species such as Candida albicans , C. glabrata , and C. parapsilosis are the most common fungal causes of ventriculitis. To our knowledge, this is the first published report of C. dubliensis causing ventriculitis. It is possible that the infection may have been acquired nosocomially. Candida dubliniensis has most frequently been described in HIV-infected individuals on fungal prophylaxis with fluconazole, which reduces the presence of other Candidal species. This patient’s last known HIV test was negative one year before admission.
+This is a case of fungal ventriculitis with an unusual Candida species, Candida dubliniensis, in a patient with a ventriculoperitoneal shunt. In a patient with an external ventricular drain in place, the risk of ventriculitis is high and correlated with the length of time the device is in place. Bacteria, usually skin flora such as Staphylococcus species are the most common causes of ventriculitis in the setting of an in-dwelling device. In this case, the individual had also received a long course of broad-spectrum antibiotics during prolonged hospitalization. Both circumstances would be expected to increase his risk of fungal disease.
+Candidal species such as Candida albicans, C. glabrata, and C. parapsilosis are the most common fungal causes of ventriculitis. To our knowledge, this is the first published report of C. dubliensis causing ventriculitis. It is possible that the infection may have been acquired nosocomially. Candida dubliniensis has most frequently been described in HIV-infected individuals on fungal prophylaxis with fluconazole, which reduces the presence of other Candidal species. This patient’s last known HIV test was negative one year before admission.
 Other non- Candida fungi such as Aspergillus species, have also been reported as causes of ventriculitis, but usually occur after a longer period following placement of a drain, and more often in the setting of steroid use or other immunosuppression. Tuberculous ventriculitis is a less common diagnosis and would be less likely to be associated with a drain.
 Final Diagnosis
 Ventriculitis caused by Candida dubliniensis infection.
 References
 Beer, R., Lackner, P., Pfausler, B., and Schmutzhard, E. (2008). Nosocomial ventriculitis and meningitis in neurocritical care patients. J Neurol 255, 1617-1624.
-PMID:19156484 ( PubMed abstract )
+PMID:19156484(PubMed abstract)

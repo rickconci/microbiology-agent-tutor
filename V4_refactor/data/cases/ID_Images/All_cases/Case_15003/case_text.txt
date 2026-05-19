@@ -17,7 +17,7 @@ Studies
 The white cell count was 4500 per cubic millimeter (reference range 4500-11,000, with 43.3% neutrophils, 37.6% lymphocytes, 14% monocytes, 4.7% eosinophils and 0.2% basophils) and the CD4 cell count was 35 per cubic millimeter (2%). The erythrocytes sedimentation rate was 39 mm per hour (reference range 0-13). Blood cultures were sent. Computed tomography of the head without the administration of contrast (Figure 1) revealed a large confluent area of hypoattenuation involving the right temporal and parietal white matter with extension to the external and internal capsule, 4 mm of leftward midline shift, medialization of the right uncus and mild right uncal herniation.
 Figure 1. CT of the brain, without contrast.
 Clinical Course Prior to Diagnosis
-Magnetic resonance imaging (MRI) of the brain images (fluid-attenuated inversion recovery (FLAIR) and, after the administration of gadolinium, T1-weighted) are shown in Figures 2 through 5 .
+Magnetic resonance imaging (MRI) of the brain images (fluid-attenuated inversion recovery (FLAIR) and, after the administration of gadolinium, T1-weighted) are shown in Figures 2 through 5.
 Normal saline and ondansetron were administered intravenously. After the results of the brain imaging were known, lumbar puncture was deferred and dexamethasone, vancomycin and ampicillin were given. The patient was admitted to the hospital for further evaluation and treatment.
 Figure 2. MRI of the brain, axial FLAIR image.
 Figure 3. MRI of the brain, axial FLAIR image.
@@ -25,13 +25,13 @@ Figure 4. MRI of the brain, T1 post gadolinium.
 Figure 5. MRI of the brain, T1 post gadolinium.
 Diagnostic Procedure(s) and Result(s)
 Magnetic resonance imaging (MRI) of the brain FLAIR images revealed lesions with surrounding edema (Figures 2 and 3) in the cerebral hemispheres (particularly in the right temporal lobe) and cerebellum. A dominant lesion in the right temporal lobe measured 4.2 by 3.1 by 2.4 cm and a lesion in the left cerebellar vermis measured 1.9 by 1.9 by 1.6 cm. There were additional lesions throughout the cerebral hemispheres, bilateral basal ganglia, left thalamus and the cerebellar hemispheres, and peripheral restricted diffusion associated with several of these lesions. Supratentorially, there was approximately 2 mm leftward midline shift, effacement of the ambient cisterns and mild mass effect on the midbrain. Infratentorially, there was marked edema in the cerebellar vermis and mass effect, with partial effacement of the fourth ventricle. There was no evidence of hydrocephalus.
-After the administration of gadolinium, the lesions demonstrated target-like enhancement with central enhancement and a peripherally enhancing halo (Figures 4 and 5) .
+After the administration of gadolinium, the lesions demonstrated target-like enhancement with central enhancement and a peripherally enhancing halo (Figures 4 and 5).
 Testing revealed no evidence of Epstein Barr virus (EBV) DNA in the blood; EBV serologies were consistent with prior infection; galactomannan, antibodies to histoplasma, blastomyces, and coccidioides, and cryptococcal antigen were not detected, and testing for 1, 3 beta D glucan and a an interferon-gamma release assay for tuberculosis was negative. Testing for toxoplasma IgG antibodies was positive and for IgM antibodies was negative. Four sets of blood cultures drawn from different sites and at two different times were sterile.
 Treatment and Followup
 Additional initial treatment was administered and included sulfadiazine (2gm four times daily), pyrimethamine (200mg once then 75mg daily), and leucovorin (10mg daily). His symptoms rapidly improved, with resolution of headache, nausea and vomiting by the third hospital day. Blood cultures remained negative, and ampicillin and vancomycin were stopped after 3 days. Antiretroviral medications (darunavir, ritonavir, emtricitabine and tenofovir disoproxil fumarate) were resumed. Raltegravir was discontinued because resistance testing showed no evidence for clinically significant protease inhibitor mutations.
 Medications on discharge included sulfadiazine, pyrimethamine, leucovorin, darunavir, ritonavir, emtricitabine, tenofovir disoproxil fumarate, azithromycin for prophylaxis and fluconazole for oral candidiasis.
 The patient improved after discharge, with intensive medication adherence support from community health center staff. Additional medication adjustments included discontinuation of fluconazole, and administration of dapsone for pneumocystis prophylaxis.
-On repeat CT imaging 6 weeks later ( Figure 6 ), there was an interval decrease in the size of innumerable supratentorial and infratentorial enhancing lesions with decreased surrounding edema, consistent with response to treatment for toxoplasmosis infection. No new lesions were identified. The patient later missed subsequent infectious disease clinic appointments and was lost to follow-up.
+On repeat CT imaging 6 weeks later (Figure 6), there was an interval decrease in the size of innumerable supratentorial and infratentorial enhancing lesions with decreased surrounding edema, consistent with response to treatment for toxoplasmosis infection. No new lesions were identified. The patient later missed subsequent infectious disease clinic appointments and was lost to follow-up.
 Figure 6. CT without contrast, 6 weeks follow-up.
 Discussion
 This severely immunocompromised patient with HIV infection and a CD4 cell count less than 50 per cubic millimeter presented with severe headache and symptoms suggestive of increased intracranial pressure, and was found to have multiple ring-enhancing lesions with mass effect on MRI scanning of the brain. This presentation is highly suggestive of toxoplasmosis of the central nervous system, the most frequent opportunistic infection identified in immunocompromised patients with HIV infection and focal intracerebral lesions [Porter and Sande, 1993; Pereira-Chioccola et al., 2009]. Additional corroboration of the clinical diagnosis was obtained with positive evidence of anti-toxoplasma IgG antibodies indicating prior exposure and significant symptomatic and radiologic response to treatment for the protozoa Toxoplasma gondii [Cho et al., 2012].
@@ -40,11 +40,16 @@ Final Diagnosis
 Cerebral toxoplasmosis in a patient with HIV infection and a history of antiretroviral non-adherence.
 References
 Cho TA, Larvie M, Tian D, Mino-Kenudson M. (2012) Case records of the Massachusetts General Hospital. Case 6-2012. A 45-year-old man with a history of alcohol abuse and rapid cognitive decline. N Engl J Med. 2012 Feb 23;366(8):745-55. doi: 10.1056/NEJMcpc1103558.
-PMID:22356328 ( PubMed abstract )
+PMID:22356328(PubMed abstract) Department of Health and Human Services (DHHS) Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-infected Adults and Adolescents, C-1, Toxoplasma gondii Encephalitis. Last updated and reviewed May 7, 2013. http://aidsinfo.nih.gov/guidelines. Last accessed on 6/29/2015. Lambert N, Mehta B, Walters R, Eron JJ. (2006) Chagasic encephalitis as the initial manifestation of AIDS. Ann Intern Med. 2006 Jun 20;144(12):941-3.
+PMID:16785485(PubMed abstract) Pereira-Chioccola VL, Vidal JE, Su C. (2009) Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol. 2009 Dec;4(10):1363-79.
+PMID:19995194(PubMed abstract) Porter SB, Sande MA. (1993) Toxoplasmosis of the central nervous system in the acquired immunodeficiency syndrome. N Engl J Med. 1992 Dec 3;327(23):1643-8.
+PMID:1359410(PubMed abstract)
+Cho TA, Larvie M, Tian D, Mino-Kenudson M. (2012) Case records of the Massachusetts General Hospital. Case 6-2012. A 45-year-old man with a history of alcohol abuse and rapid cognitive decline. N Engl J Med. 2012 Feb 23;366(8):745-55. doi: 10.1056/NEJMcpc1103558.
+PMID:22356328(PubMed abstract)
 Department of Health and Human Services (DHHS) Guidelines for the Prevention and Treatment of Opportunistic Infections in HIV-infected Adults and Adolescents, C-1, Toxoplasma gondii Encephalitis. Last updated and reviewed May 7, 2013. http://aidsinfo.nih.gov/guidelines. Last accessed on 6/29/2015.
 Lambert N, Mehta B, Walters R, Eron JJ. (2006) Chagasic encephalitis as the initial manifestation of AIDS. Ann Intern Med. 2006 Jun 20;144(12):941-3.
-PMID:16785485 ( PubMed abstract )
+PMID:16785485(PubMed abstract)
 Pereira-Chioccola VL, Vidal JE, Su C. (2009) Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol. 2009 Dec;4(10):1363-79.
-PMID:19995194 ( PubMed abstract )
+PMID:19995194(PubMed abstract)
 Porter SB, Sande MA. (1993) Toxoplasmosis of the central nervous system in the acquired immunodeficiency syndrome. N Engl J Med. 1992 Dec 3;327(23):1643-8.
-PMID:1359410 ( PubMed abstract )
+PMID:1359410(PubMed abstract)

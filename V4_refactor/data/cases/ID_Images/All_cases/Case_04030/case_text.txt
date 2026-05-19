@@ -8,16 +8,16 @@ She had a history of degenerative joint disease and asthma.
 Epidemiological History
 She was employed in the meat industry and owned a cat. She denied any history of travel outside of the United States.
 Physical Examination
-The patient appeared well and was afebrile. There was a positive Finkelstein test in the right wrist. An erythematous area (approximately 1.5-centimeter in diameter) was present on the base of the right thumb and on the previous incision area ( Figure 1 ). No purulence or drainage was seen. The remainder of her examination was normal.
+The patient appeared well and was afebrile. There was a positive Finkelstein test in the right wrist. An erythematous area (approximately 1.5-centimeter in diameter) was present on the base of the right thumb and on the previous incision area (Figure 1). No purulence or drainage was seen. The remainder of her examination was normal.
 Figure 1. Physical finding.
 Studies
 Laboratory test results of the complete blood count and chemistries were normal.
 Clinical Course Prior to Diagnosis
-The patient underwent an incision and drainage procedure. Pathological examination of the tissue from the procedure is shown in Figures 2 and 3 .
+The patient underwent an incision and drainage procedure. Pathological examination of the tissue from the procedure is shown in Figures 2 and 3.
 Figure 2. Surgical pathology.
 Figure 3. Surgical pathology.
 Diagnostic Procedure(s) and Result(s)
-The pathology showed acute tenosynovitis with non-caseating granulomatous inflammation ( Figure 2 above). Figure 3 shows giant cells that are surrounding organisms consistent with Prototheca . Figure 4 shows septated endosporulating organisms also consistent with Prototheca . Fungal cultures grew Prototheca .
+The pathology showed acute tenosynovitis with non-caseating granulomatous inflammation (Figure 2 above). Figure 3 shows giant cells that are surrounding organisms consistent with Prototheca. Figure 4 shows septated endosporulating organisms also consistent with Prototheca. Fungal cultures grew Prototheca.
 Figure 4. Surgical pathology with septated endosporulating organisms.
 Treatment and Followup
 The patient was started on oral itraconazole (200 mg twice daily). Her pain and swelling improved over the following four weeks.
@@ -34,6 +34,9 @@ Final Diagnosis
 Prototheca tenosynovitis.
 References
 Lee, J.S., Moon, G.H., Lee, N.Y., and Peck, K.R. (2008). Case report: protothecal tenosynovitis. Clin Orthop Relat Res 466, 3143-3146.
-PMID:18791778 ( PubMed abstract )
+PMID:18791778(PubMed abstract) Pascual, J.S., Balos, L.L., and Baer, A.N. (2004). Disseminated Prototheca wickerhamii infection with arthritis and tenosynovitis. J Rheumatol 31, 1861-1865.
+PMID:15338515(PubMed abstract)
+Lee, J.S., Moon, G.H., Lee, N.Y., and Peck, K.R. (2008). Case report: protothecal tenosynovitis. Clin Orthop Relat Res 466, 3143-3146.
+PMID:18791778(PubMed abstract)
 Pascual, J.S., Balos, L.L., and Baer, A.N. (2004). Disseminated Prototheca wickerhamii infection with arthritis and tenosynovitis. J Rheumatol 31, 1861-1865.
-PMID:15338515 ( PubMed abstract )
+PMID:15338515(PubMed abstract)

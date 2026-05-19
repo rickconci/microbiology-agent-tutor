@@ -10,17 +10,17 @@ Three months before admission, she had emigrated from an urban community on the 
 Physical Examination
 The patient appeared well-developed and in mild distress. The temperature was 99.4°F (37.4°C), pulse 110 beats per minute, blood pressure 103/57 mm Hg and 100% oxygen saturation on 2-liters oxygen by nasal cannula. There was no scleral icterus, oral lesion, or lymphadenopathy. The lungs were rhonchorous bilaterally, and no cardiac murmurs were present. The abdomen was soft and there was no organomegaly. Skin and joint examinations were normal.
 Studies
-The hematocrit was 17% and the remainder of the laboratory tests was normal. Testing for human immunodeficiency virus (HIV) was negative. Chest radiography showed patchy airspace disease in the perihilar region. An upper endoscopic examination was negative. Colonoscopy revealed ileal ulcers and pseudopolyps ( Figures 1 through 4 ).
+The hematocrit was 17% and the remainder of the laboratory tests was normal. Testing for human immunodeficiency virus (HIV) was negative. Chest radiography showed patchy airspace disease in the perihilar region. An upper endoscopic examination was negative. Colonoscopy revealed ileal ulcers and pseudopolyps (Figures 1 through 4).
 Figure 1. Findings on colonoscopy.
 Figure 2. Findings on colonoscopy.
 Figure 3. Findings on colonoscopy.
 Figure 4. Findings on colonoscopy.
 Clinical Course Prior to Diagnosis
-A biopsy of the terminal ileum was performed. Hematoxylin and eosin (H and E) stains of the biopsy are shown in Figures 5 and 6 .
+A biopsy of the terminal ileum was performed. Hematoxylin and eosin (H and E) stains of the biopsy are shown in Figures 5 and 6.
 Figure 5. H and E stain of biopsy.
 Figure 6. H and E stain of biopsy (detail).
 Diagnostic Procedure(s) and Result(s)
-The biopsy of the terminal ileum showed ulcerative granulomatous colitis ( Figures 5 and 6 ). Warthin starry and Brown Hopps stains were negative. Ziehl Neelsen staining for acid-fast bacilli was positive ( Figures 7 and 8 ).
+The biopsy of the terminal ileum showed ulcerative granulomatous colitis (Figures 5 and 6). Warthin starry and Brown Hopps stains were negative. Ziehl Neelsen staining for acid-fast bacilli was positive (Figures 7 and 8).
 Purified protein derivative (PPD) skin testing was positive at 14 millimeters induration. Sputum was induced three times and the results were negative. Stool ova and parasites and cultures were negative. Culture of the ileal biopsy was negative.
 Chest radiography cleared rapidly; the abnormal chest radiography at admission was thought to be the result of pulmonary hemorrhage due to her underlying coagulopathy.
 Figure 7. Ziehl Neelsen stain of biopsy.
@@ -35,4 +35,4 @@ Final Diagnosis
 Gastrointestinal tuberculosis (clinical diagnosis).
 References
 Kim, K.M., Lee, A., Choi, K.Y., Lee, K.Y., and Kwak, J.J. (1998). Intestinal tuberculosis: clinicopathologic analysis and diagnosis by endoscopic biopsy. Am J Gastroenterol 93, 606-609.
-PMID:9576456 ( PubMed abstract )
+PMID:9576456(PubMed abstract)

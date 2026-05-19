@@ -33,26 +33,39 @@ Final Diagnosis
 Disseminated Bartonella henselae infection
 References
 Jacomo, V., P.J. Kelly, and D. Raoult, Natural history of Bartonella infections (an exception to Koch's postulate). Clin Diagn Lab Immunol, 2002. 9(1): p. 8-18.
-PMID:11777823 ( PubMed abstract )
+PMID:11777823(PubMed abstract) Spach, D.H. and J.E. Koehler, Bartonella-associated infections. Infect Dis Clin North Am, 1998. 12(1): p. 137-55.
+PMID:9494835(PubMed abstract) Raoult, D., et al., Diagnosis of 22 new cases of Bartonella endocarditis. Ann Intern Med, 1996. 125(8): p. 646-52.
+PMID:8849149(PubMed abstract) Antar, A.A.R., et al., Disseminated cat-scratch disease presenting as nausea, diarrhea, and weight loss without fever in a heart transplant recipient. Transpl Infect Dis, 2017. 19(3).
+PMID:28199763(PubMed abstract) Gasquet, S., et al., Bacillary angiomatosis in immunocompromised patients. Aids, 1998. 12(14): p. 1793-803.
+PMID:9792380(PubMed abstract) Rostad, C.A., et al., Bartonella henselae-mediated disease in solid organ transplant recipients: two pediatric cases and a literature review. Transpl Infect Dis, 2012. 14(5): p. E71-81.
+PMID:22862881(PubMed abstract) Psarros, G., et al., Bartonella henselae infections in solid organ transplant recipients: report of 5 cases and review of the literature. Medicine (Baltimore), 2012. 91(2): p. 111-21.
+PMID:22391473(PubMed abstract) Scolfaro, C., et al., Possible donor-recipient bartonellosis transmission in a pediatric liver transplant. Transpl Infect Dis, 2008. 10(6): p. 431-3.
+PMID:18651873(PubMed abstract) Agan, B.K. and M.J. Dolan, Laboratory diagnosis of Bartonella infections. Clin Lab Med, 2002. 22(4): p. 937-62.
+PMID:12489289(PubMed abstract) Bass, J.W., et al., Prospective randomized double blind placebo-controlled evaluation of azithromycin for treatment of cat-scratch disease. Pediatr Infect Dis J, 1998. 17(6): p. 447-52.
+PMID:9655532(PubMed abstract) Rolain, J.M., et al., Recommendations for treatment of human infections caused by Bartonella species. Antimicrob Agents Chemother, 2004. 48(6): p. 1921-33.
+PMID:15155180(PubMed abstract) Prutsky, G., et al., Treatment outcomes of human bartonellosis: a systematic review and meta-analysis. Int J Infect Dis, 2013. 17(10): p. e811-9.
+PMID:23602630(PubMed abstract)
+Jacomo, V., P.J. Kelly, and D. Raoult, Natural history of Bartonella infections (an exception to Koch's postulate). Clin Diagn Lab Immunol, 2002. 9(1): p. 8-18.
+PMID:11777823(PubMed abstract)
 Spach, D.H. and J.E. Koehler, Bartonella-associated infections. Infect Dis Clin North Am, 1998. 12(1): p. 137-55.
-PMID:9494835 ( PubMed abstract )
+PMID:9494835(PubMed abstract)
 Raoult, D., et al., Diagnosis of 22 new cases of Bartonella endocarditis. Ann Intern Med, 1996. 125(8): p. 646-52.
-PMID:8849149 ( PubMed abstract )
+PMID:8849149(PubMed abstract)
 Antar, A.A.R., et al., Disseminated cat-scratch disease presenting as nausea, diarrhea, and weight loss without fever in a heart transplant recipient. Transpl Infect Dis, 2017. 19(3).
-PMID:28199763 ( PubMed abstract )
+PMID:28199763(PubMed abstract)
 Gasquet, S., et al., Bacillary angiomatosis in immunocompromised patients. Aids, 1998. 12(14): p. 1793-803.
-PMID:9792380 ( PubMed abstract )
+PMID:9792380(PubMed abstract)
 Rostad, C.A., et al., Bartonella henselae-mediated disease in solid organ transplant recipients: two pediatric cases and a literature review. Transpl Infect Dis, 2012. 14(5): p. E71-81.
-PMID:22862881 ( PubMed abstract )
+PMID:22862881(PubMed abstract)
 Psarros, G., et al., Bartonella henselae infections in solid organ transplant recipients: report of 5 cases and review of the literature. Medicine (Baltimore), 2012. 91(2): p. 111-21.
-PMID:22391473 ( PubMed abstract )
+PMID:22391473(PubMed abstract)
 Scolfaro, C., et al., Possible donor-recipient bartonellosis transmission in a pediatric liver transplant. Transpl Infect Dis, 2008. 10(6): p. 431-3.
-PMID:18651873 ( PubMed abstract )
+PMID:18651873(PubMed abstract)
 Agan, B.K. and M.J. Dolan, Laboratory diagnosis of Bartonella infections. Clin Lab Med, 2002. 22(4): p. 937-62.
-PMID:12489289 ( PubMed abstract )
+PMID:12489289(PubMed abstract)
 Bass, J.W., et al., Prospective randomized double blind placebo-controlled evaluation of azithromycin for treatment of cat-scratch disease. Pediatr Infect Dis J, 1998. 17(6): p. 447-52.
-PMID:9655532 ( PubMed abstract )
+PMID:9655532(PubMed abstract)
 Rolain, J.M., et al., Recommendations for treatment of human infections caused by Bartonella species. Antimicrob Agents Chemother, 2004. 48(6): p. 1921-33.
-PMID:15155180 ( PubMed abstract )
+PMID:15155180(PubMed abstract)
 Prutsky, G., et al., Treatment outcomes of human bartonellosis: a systematic review and meta-analysis. Int J Infect Dis, 2013. 17(10): p. e811-9.
-PMID:23602630 ( PubMed abstract )
+PMID:23602630(PubMed abstract)

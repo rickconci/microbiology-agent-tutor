@@ -33,32 +33,48 @@ Final Diagnosis
 Symptomatic hypercalcemia secondary to histoplasmosis
 References
 Benedict K, Mody RK. Epidemiology of Histoplasmosis Outbreaks, United States, 1938-2013. Emerg Infect Dis 2016; 22:370.
-PMID:26890817 ( PubMed abstract )
+PMID:26890817(PubMed abstract) Goodwin RA, Loyd JE, Des Prez RM. Histoplasmosis in normal hosts. Medicine(Baltimore) 1981; 60:231.
+PMID:7017339(PubMed abstract) Assi MA, Sandid MS, Baddour LM, et al. Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore) 2007; 86:162.
+PMID:17505255(PubMed abstract) Khasawneh FA, Ahmed S, Halloush RA. Progressive disseminated histoplasmosis presenting with cachexia and hypercalcemia. International Journal of General Medicine. 2013;6:79-83. doi:10.2147/IJGM.S41520.
+PMID:23467543(PubMed abstract) Walker JV, Baran D, Yakub N, Freeman RB. Histoplasmosis with hypercalcemia, renal failure, and papillary necrosis. Confusion with sarcoidosis. JAMA. 1977;237(13):1350–1352.
+PMID:576482(PubMed abstract) Murray JJ, Heim CR. Hypercalcemia in disseminated histoplasmosis. Aggravation by vitamin D. Am J Med. 1985;78(5):881–884.
+PMID:3993669(PubMed abstract) Steele CJ, Kleiman MB. Disseminated histoplasmosis, hypercalcemia and failure to thrive. Pediatr Infect Dis J. 1994;13(5):421–422.
+PMID:8072830(PubMed abstract) Liu JW, Huang TC, Lu YC, et al. Acute disseminated histoplasmosis complicated with hypercalcaemia. J Infect. 1999;39(1):88–90.
+PMID:10468135(PubMed abstract) Liang KV, Ryu JH, Matteson EL. Histoplasmosis with tenosynovitis of the hand and hypercalcemia mimicking sarcoidosis. J Clin Rheumatol. 2004;10(3):138–142.
+PMID:17043488(PubMed abstract) Kamili QA, Menter A. Atypical presentation of histoplasmosis in a patient with psoriasis and psoriatic arthritis on infliximab therapy. J Drugs Dermatol. 2010;9(1):57–60.
+PMID:20120426(PubMed abstract) Chalhoub E, Elhomsy G, Brake M. Hypercalcemia in histoplasmosis aggravated with antifungal treatment. J Med Liban. 2012;60(3):165–168.
+PMID:23198458(PubMed abstract) Gupta V, Singhal V, Singh MK, Xess I, Ramam M. Disseminated histoplasmosis with hypercalcemia. J Am Acad Dermatol. 2013 Nov;69(5):e250-1.
+PMID:24124848(PubMed abstract) Koo S, Marty FM, Baden LR. Infectious complications associated with immunomodulating biologic agents. Infect Dis Clin North Am. 2010;24(2):285–306
+PMID:20466271(PubMed abstract) Wallis RS, Broder M, Wong J, Lee A, Hoq L. Reactivation of latent granulomatous infections by infliximab. Clin Infect Dis. 2005;41(Suppl 3):S194–S198.
+PMID:15983899(PubMed abstract) Hage CA, Ribes JA, Wengenack NL, et al. A multicenter evaluation of tests for diagnosis of histoplasmosis. Clin Infect Dis 2011;53:448-54
+PMID:21810734(PubMed abstract)
+Benedict K, Mody RK. Epidemiology of Histoplasmosis Outbreaks, United States, 1938-2013. Emerg Infect Dis 2016; 22:370.
+PMID:26890817(PubMed abstract)
 Goodwin RA, Loyd JE, Des Prez RM. Histoplasmosis in normal hosts. Medicine(Baltimore) 1981; 60:231.
-PMID:7017339 ( PubMed abstract )
+PMID:7017339(PubMed abstract)
 Assi MA, Sandid MS, Baddour LM, et al. Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore) 2007; 86:162.
-PMID:17505255 ( PubMed abstract )
+PMID:17505255(PubMed abstract)
 Khasawneh FA, Ahmed S, Halloush RA. Progressive disseminated histoplasmosis presenting with cachexia and hypercalcemia. International Journal of General Medicine. 2013;6:79-83. doi:10.2147/IJGM.S41520.
-PMID:23467543 ( PubMed abstract )
+PMID:23467543(PubMed abstract)
 Walker JV, Baran D, Yakub N, Freeman RB. Histoplasmosis with hypercalcemia, renal failure, and papillary necrosis. Confusion with sarcoidosis. JAMA. 1977;237(13):1350–1352.
-PMID:576482 ( PubMed abstract )
+PMID:576482(PubMed abstract)
 Murray JJ, Heim CR. Hypercalcemia in disseminated histoplasmosis. Aggravation by vitamin D. Am J Med. 1985;78(5):881–884.
-PMID:3993669 ( PubMed abstract )
+PMID:3993669(PubMed abstract)
 Steele CJ, Kleiman MB. Disseminated histoplasmosis, hypercalcemia and failure to thrive. Pediatr Infect Dis J. 1994;13(5):421–422.
-PMID:8072830 ( PubMed abstract )
+PMID:8072830(PubMed abstract)
 Liu JW, Huang TC, Lu YC, et al. Acute disseminated histoplasmosis complicated with hypercalcaemia. J Infect. 1999;39(1):88–90.
-PMID:10468135 ( PubMed abstract )
+PMID:10468135(PubMed abstract)
 Liang KV, Ryu JH, Matteson EL. Histoplasmosis with tenosynovitis of the hand and hypercalcemia mimicking sarcoidosis. J Clin Rheumatol. 2004;10(3):138–142.
-PMID:17043488 ( PubMed abstract )
+PMID:17043488(PubMed abstract)
 Kamili QA, Menter A. Atypical presentation of histoplasmosis in a patient with psoriasis and psoriatic arthritis on infliximab therapy. J Drugs Dermatol. 2010;9(1):57–60.
-PMID:20120426 ( PubMed abstract )
+PMID:20120426(PubMed abstract)
 Chalhoub E, Elhomsy G, Brake M. Hypercalcemia in histoplasmosis aggravated with antifungal treatment. J Med Liban. 2012;60(3):165–168.
-PMID:23198458 ( PubMed abstract )
+PMID:23198458(PubMed abstract)
 Gupta V, Singhal V, Singh MK, Xess I, Ramam M. Disseminated histoplasmosis with hypercalcemia. J Am Acad Dermatol. 2013 Nov;69(5):e250-1.
-PMID:24124848 ( PubMed abstract )
+PMID:24124848(PubMed abstract)
 Koo S, Marty FM, Baden LR. Infectious complications associated with immunomodulating biologic agents. Infect Dis Clin North Am. 2010;24(2):285–306
-PMID:20466271 ( PubMed abstract )
+PMID:20466271(PubMed abstract)
 Wallis RS, Broder M, Wong J, Lee A, Hoq L. Reactivation of latent granulomatous infections by infliximab. Clin Infect Dis. 2005;41(Suppl 3):S194–S198.
-PMID:15983899 ( PubMed abstract )
+PMID:15983899(PubMed abstract)
 Hage CA, Ribes JA, Wengenack NL, et al. A multicenter evaluation of tests for diagnosis of histoplasmosis. Clin Infect Dis 2011;53:448-54
-PMID:21810734 ( PubMed abstract )
+PMID:21810734(PubMed abstract)

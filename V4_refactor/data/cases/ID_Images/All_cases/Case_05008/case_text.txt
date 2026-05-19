@@ -11,7 +11,7 @@ Physical Examination
 The examination at his initial presentation revealed an axillary temperature of 102.2°F (39.0°C), pulse 73 beats per minute, blood pressure 110/60 mm Hg, respirations 20 breaths per minute, and oxygen saturation of 97% on room air. The patient was difficult to rouse and once awake, appeared in distress and unable to control his movements. The heart rhythm was regular and there was a 2/6 systolic murmur, heard loudest at left upper sternal border. The breath sounds were clear and the abdomen was normal. Extremities had 1+ edema bilaterally, and pulses were normal with quick capillary refill. The patient was oriented to person, place and time, and had normal muscle tone and muscle strength in all extremities. He was able to follow commands, but had coarse control of movements. Reflexes were normal. There was increased sensitivity to pain. No focal deficits were present. The remainder of the examination was normal.
 Studies
 Laboratory testing from the lumbar puncture revealed a glucose of less than 20 mg/dL and a total protein of 197 mg/dL. The white count in the cerebrospinal fluid (CSF) ranged from 120-174 cells/mm³ with a lymphocytic predominance. Cryptococcal antigen and a test for syphilis (RPR) were negative.
-Magnetic resonance imaging (MRI) of the brain is shown in Figures 1 and 2 .
+Magnetic resonance imaging (MRI) of the brain is shown in Figures 1 and 2.
 Cultures of the cerebrospinal fluid were negative with the exception of a single colony of Candida albicans and Enterococcus species, which were thought to represent contamination due to difficulty performing the procedure.
 Figure 1. MRI scan of the brain (axial T1 with gadolinium).
 Figure 2. MRI scan of the brain (axial T1 with gadolinium).
@@ -19,7 +19,7 @@ Clinical Course Prior to Diagnosis
 The patient was initially treated with broad-spectrum antibiotics including vancomycin, ceftriaxone, acyclovir and fluconazole.
 He improved clinically. Due to concern about tuberculosis, anti-tuberculosis medications were added and the patient was discharged. Cultures and polymerase chain reaction (PCR) testing of the cerebrospinal fluid were negative for tuberculosis, as were multiple induced samples of sputum and a specimen from a bronchoalveolar lavage.
 Diagnostic Procedure(s) and Result(s)
-MRI scanning of the brain, axial T1 with gadolinium images, showed pontine enhancement that extended to the pre-sylvian fissures ( Figures 3 and 4 ).
+MRI scanning of the brain, axial T1 with gadolinium images, showed pontine enhancement that extended to the pre-sylvian fissures (Figures 3 and 4).
 Cerebrospinal fluid (CSF) complement fixation (CF) antibodies for coccidioidomycosis returned with a positive titer to 1:64 dilution. A coccidioidomycosis agar gel test was positive for F precipitant. Serum coccidioidomycosis complement fixation was positive at greater than 1:256 dilution. Histoplasmosis and blastomycosis agar gel tests were negative. A histoplasmosis CF test was positive at 1:8 dilution and blastomycosis CF test result was negative. Testing for HIV infection was also negative.
 Figure 3. MRI scan of the brain (axial T1 with gadolinium).
 Figure 4. MRI scan of the brain (axial T1 with gadolinium).
@@ -27,11 +27,14 @@ Treatment and Followup
 Fluconazole was to be administered indefinitely, anticipating a multi-year course, and tuberculosis medications were discontinued. The patient was stable on multiple follow-up visits over next 6 months, and then transferred care to another state.
 Discussion
 The etiologic agent of basilar meningitis is often difficult to discern initially. The differential diagnosis and empiric therapies are based largely on the patient’s possible exposure to endemic mycoses, tuberculosis, or Lyme disease, known or suspected immunosuppression due to HIV or other immunosuppressive medications, and history of sexually transmitted diseases such as syphilis.
-This case presented particular challenges due to the patient’s recent immigration from western Africa, where there is a high prevalence of tuberculosis and HIV, as well as his recent stay in the American Southwest where exposure to Coccidioides was possible. The CSF revealed results consistent with chronic meningitis, including an elevated white blood cell count with a lymphocytic predominance that would have been consistent with tuberculosis, Coccidioides and multiple other infections. Given his possible exposures, and negative serum and CSF studies for syphilis and cryptococcal meningitis, the decision to start therapy both for tuberculosis and Coccidioides meningitis was made. His rapid improvement, and subsequent positive CSF complement fixation for Coccidioides lent further support for this diagnosis, and tuberculosis therapy was discontinued after one month of negative cultures for Mycobacterium .
+This case presented particular challenges due to the patient’s recent immigration from western Africa, where there is a high prevalence of tuberculosis and HIV, as well as his recent stay in the American Southwest where exposure to Coccidioides was possible. The CSF revealed results consistent with chronic meningitis, including an elevated white blood cell count with a lymphocytic predominance that would have been consistent with tuberculosis, Coccidioides and multiple other infections. Given his possible exposures, and negative serum and CSF studies for syphilis and cryptococcal meningitis, the decision to start therapy both for tuberculosis and Coccidioides meningitis was made. His rapid improvement, and subsequent positive CSF complement fixation for Coccidioides lent further support for this diagnosis, and tuberculosis therapy was discontinued after one month of negative cultures for Mycobacterium.
 Final Diagnosis
 Coccidioidomycosis meningitis.
 References
 Mathisen, G., Shelub, A., Truong, J., and Wigen, C. (2010). Coccidioidal meningitis: clinical presentation and management in the fluconazole era. Medicine (Baltimore) 89, 251-284.
-PMID:20827104 ( PubMed abstract )
+PMID:20827104(PubMed abstract) Vinh, D.C. (2011). Coccidioidal meningitis: disseminated disease in patients without HIV/AIDS. Medicine (Baltimore) 90, 87.
+PMID:21200190(PubMed abstract)
+Mathisen, G., Shelub, A., Truong, J., and Wigen, C. (2010). Coccidioidal meningitis: clinical presentation and management in the fluconazole era. Medicine (Baltimore) 89, 251-284.
+PMID:20827104(PubMed abstract)
 Vinh, D.C. (2011). Coccidioidal meningitis: disseminated disease in patients without HIV/AIDS. Medicine (Baltimore) 90, 87.
-PMID:21200190 ( PubMed abstract )
+PMID:21200190(PubMed abstract)

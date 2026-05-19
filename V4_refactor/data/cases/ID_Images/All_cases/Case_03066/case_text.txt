@@ -13,17 +13,17 @@ Physical Examination
 Her temperature was 37°C (98.6°F), pulse 90 beats per minute and regular, blood pressure 150/95 mm/Hg, and respiratory rate 18 per minute. She had no lymphadenopathy. The lungs were clear. There were no cardiac murmurs. The abdomen was soft and there was mild right upper quadrant tenderness, but no enlargement of liver or spleen. On neurologic exam, she was alert and oriented and cranial nerves were intact. There was mild ataxia on tandem gait. The remainder of her examination was normal.
 Studies
 The results of a complete blood count (CBC), electrolytes and tests of renal function were normal. The level of glucose was 211 mg/dL, and aspartate aminotransferase (AST, SGOT) 39 U/L; other liver function tests were normal. A chest radiograph showed a normal heart size and no infiltrates.
-Magnetic resonance imaging (MRI) of the head showed multiple ring-enhancing lesions scattered throughout the white matter of both hemispheres ( Figures 1 and 2 ).
+Magnetic resonance imaging (MRI) of the head showed multiple ring-enhancing lesions scattered throughout the white matter of both hemispheres (Figures 1 and 2).
 Figure 1. Brain MRI scan.
 Figure 2. Brain MRI scan.
 Clinical Course Prior to Diagnosis
-The patient underwent a brain biopsy of a right frontal lesion. Pathologic examination of the tissue is shown in Figures 3 and 4 .
+The patient underwent a brain biopsy of a right frontal lesion. Pathologic examination of the tissue is shown in Figures 3 and 4.
 Figure 3. Brain biopsy.
 Figure 4. Brain biopsy with necrosis and inflammation.
 Diagnostic Procedure(s) and Result(s)
-The pathology of the brain biopsy showed trophozoites of Toxoplasma gondii ( Figures 5 and 6 ). A test for antibodies to human immunodeficiency virus (HIV) was positive. The HIV RNA level was 510,000 copies/mL; CD4 T-lymphocyte cell count was 69 cells/mm³.
+The pathology of the brain biopsy showed trophozoites of Toxoplasma gondii (Figures 5 and 6). A test for antibodies to human immunodeficiency virus (HIV) was positive. The HIV RNA level was 510,000 copies/mL; CD4 T-lymphocyte cell count was 69 cells/mm³.
 Figure 5. Biopsy showing a tissue cyst.
-Figure 6. Tissue cyst of Toxoplasma .
+Figure 6. Tissue cyst of Toxoplasma.
 Treatment and Followup
 The patient received treatment with pyrimethamine and sulfadiazine, with improvement in her neurologic symptoms. She subsequently was also treated for HIV infection.
 Discussion
@@ -33,8 +33,12 @@ Final Diagnosis
 Toxoplasma gondii encephalitis in a patient with HIV infection and AIDS.
 References
 Mamidi, A., DeSimone, J.A., and Pomerantz, R.J. (2002). Central nervous system infections in individuals with HIV-1 infection. J Neurovirol 8, 158-167.
-PMID:12053271 ( PubMed abstract )
+PMID:12053271(PubMed abstract) Pereira-Chioccola, V.L., Vidal, J.E., and Su, C. (2009). Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol 4, 1363-1379.
+PMID:19995194(PubMed abstract) Price, R.W. (1996). Neurological complications of HIV infection. Lancet 348, 445-452.
+PMID:8709786(PubMed abstract)
+Mamidi, A., DeSimone, J.A., and Pomerantz, R.J. (2002). Central nervous system infections in individuals with HIV-1 infection. J Neurovirol 8, 158-167.
+PMID:12053271(PubMed abstract)
 Pereira-Chioccola, V.L., Vidal, J.E., and Su, C. (2009). Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol 4, 1363-1379.
-PMID:19995194 ( PubMed abstract )
+PMID:19995194(PubMed abstract)
 Price, R.W. (1996). Neurological complications of HIV infection. Lancet 348, 445-452.
-PMID:8709786 ( PubMed abstract )
+PMID:8709786(PubMed abstract)

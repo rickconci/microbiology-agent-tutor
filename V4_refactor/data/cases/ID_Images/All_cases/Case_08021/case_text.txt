@@ -11,7 +11,7 @@ Epidemiological History
 There were no pets at home, and no history of recent travel.
 Ten days earlier, a younger teenaged brother had developed a febrile illness and sore throat. Amoxicillin therapy was begun; three days later, a diffuse rash erupted and he was admitted to the hospital. An extensive evaluation for infectious etiologies was negative. Ceftriaxone was administered for 7 days, and he recovered completely. A second brother developed fever and a petechial rash on the same day as the patient. The other members of the family were well.
 Physical Examination
-On examination, he appeared ill, but was awake and oriented. The temperature was 39.2°C (102.6°F), blood pressure of 88/35 mm Hg, pulse 87 beats per minute, and respirations 16 breaths per minute. The pharynx was erythematous, with ulcers and a few petechiae on the soft palate, which appeared similar to those seen on his brother's examination. A maculopapular petechial rash was distributed predominately on the distal extremities, and his hands and feet were erythematous and swollen. (See Figures 1 and 2. ) There were no meningeal signs, conjunctival injection, or swollen joints. The remainder of the examination was normal.
+On examination, he appeared ill, but was awake and oriented. The temperature was 39.2°C (102.6°F), blood pressure of 88/35 mm Hg, pulse 87 beats per minute, and respirations 16 breaths per minute. The pharynx was erythematous, with ulcers and a few petechiae on the soft palate, which appeared similar to those seen on his brother's examination. A maculopapular petechial rash was distributed predominately on the distal extremities, and his hands and feet were erythematous and swollen. (See Figures 1 and 2.) There were no meningeal signs, conjunctival injection, or swollen joints. The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
@@ -22,25 +22,34 @@ The other brother, who had first become ill, was discharged and parvovirus testi
 Treatment and Followup
 Ceftriaxone was administered for 5 days until PCR results became available, and was then stopped. The patient did not return for convalescent serologic testing.
 Discussion
-Parvovirus B19 is the etiologic agent of the common childhood exanthem erythema infectiosum. It is a small, non-enveloped, single stranded deoxyribonucleic acid (ssDNA) virus. Humans are the only known host for parvovirus B19. [Kaufmann et al. 2004 ] Viremia occurs seven to 10 days after exposure and usually lasts approximately five days, with virus titers peaking on the first few days of infection. [Young and Brown 2004] Approximately 25 percent of infected individuals will be completely asymptomatic during their infection, while 50 percent will have only non-specific flu-like symptoms. The remaining 25 percent of infected individuals will present with the classic symptoms of B19 infection including rash and/or arthralgia. [Chorba et al. 1986, Hayakawa et al. 2002, Woolf et al. 1989]
+Parvovirus B19 is the etiologic agent of the common childhood exanthem erythema infectiosum. It is a small, non-enveloped, single stranded deoxyribonucleic acid (ssDNA) virus. Humans are the only known host for parvovirus B19. [Kaufmann et al. 2004] Viremia occurs seven to 10 days after exposure and usually lasts approximately five days, with virus titers peaking on the first few days of infection. [Young and Brown 2004] Approximately 25 percent of infected individuals will be completely asymptomatic during their infection, while 50 percent will have only non-specific flu-like symptoms. The remaining 25 percent of infected individuals will present with the classic symptoms of B19 infection including rash and/or arthralgia. [Chorba et al. 1986, Hayakawa et al. 2002, Woolf et al. 1989]
 Parvovirus B19 infection is responsible for a wide range of clinical manifestations depending on the underlying host. Erythema infectiosum is commonly seen among children infected with parvovirus B19 infection. In sickle cell disease, parvovirus B 19 infection could result in transient aplastic crisis. [Serjeant et al. 2001] Furthermore, parvovirus B19 infection during pregnancy can result in fetal complications including miscarriage, intrauterine fetal death and/or non-immune hydrops fetalis. Some other rare disease associations are arthritis, vasculitis, myocarditis, nephritis, lymphadenitis, idiopathic thrombocytopenic purpura, and hemophagocytic syndrome, Papular-purpuric “gloves & socks” syndrome, encephalopathy, and fulminant liver disease. [Bakhshi et al. 2002, Brown 2007, Harms et al. 1990]
 Final Diagnosis
 Parvovirus B19 infection, mimicking familial outbreak of meningococcemia.
 References
 Bakhshi, S., Sarnaik, S.A., Becker, C., Shurney, W.W., Nigro, M., and Savasan, S. (2002). Acute encephalopathy with parvovirus B19 infection in sickle cell disease. Arch Dis Child 87, 541-542.
-PMID:12456562 ( PubMed abstract )
+PMID:12456562(PubMed abstract) Brown KE. In: Long, ed. Principles and Practice of Pediatric Infectious Diseases. 3rd ed; 2007. Chorba, T., Coccia, P., Holman, R.C., Tattersall, P., Anderson, L.J., Sudman, J., Young, N.S., Kurczynski, E., Saarinen, U.M., Moir, R., and et al. (1986). The role of parvovirus B19 in aplastic crisis and erythema infectiosum (fifth disease). J Infect Dis 154, 383-393.
+PMID:3016109(PubMed abstract) Harms, M., Feldmann, R., and Saurat, J.H. (1990). Papular-purpuric "gloves and socks" syndrome. J Am Acad Dermatol 23, 850-854.
+PMID:2147699(PubMed abstract) Hayakawa, H., Tara, M., Niina, K., and Osame, M. (2002). A clinical study of adult human parvovirus B19 infection. Intern Med 41, 295-299.
+PMID:11993790(PubMed abstract) Kaufmann, B., Simpson, A.A., and Rossmann, M.G. (2004). The structure of human parvovirus B19. Proc Natl Acad Sci U S A 101, 11628-11633.
+PMID:15289612(PubMed abstract) Serjeant, B.E., Hambleton, I.R., Kerr, S., Kilty, C.G., and Serjeant, G.R. (2001). Haematological response to parvovirus B19 infection in homozygous sickle-cell disease. Lancet 358, 1779-1780.
+PMID:11734237(PubMed abstract) Woolf, A.D., Campion, G.V., Chishick, A., Wise, S., Cohen, B.J., Klouda, P.T., Caul, O., and Dieppe, P.A. (1989). Clinical manifestations of human parvovirus B19 in adults. Arch Intern Med 149, 1153-1156.
+PMID:2541666(PubMed abstract) Young, N.S., and Brown, K.E. (2004). Parvovirus B19. N Engl J Med 350, 586-597.
+PMID:14762186(PubMed abstract)
+Bakhshi, S., Sarnaik, S.A., Becker, C., Shurney, W.W., Nigro, M., and Savasan, S. (2002). Acute encephalopathy with parvovirus B19 infection in sickle cell disease. Arch Dis Child 87, 541-542.
+PMID:12456562(PubMed abstract)
 Brown KE. In: Long, ed. Principles and Practice of Pediatric Infectious Diseases. 3rd ed; 2007.
 Chorba, T., Coccia, P., Holman, R.C., Tattersall, P., Anderson, L.J., Sudman, J., Young, N.S., Kurczynski, E., Saarinen, U.M., Moir, R., and et al. (1986). The role of parvovirus B19 in aplastic crisis and erythema infectiosum (fifth disease). J Infect Dis 154, 383-393.
-PMID:3016109 ( PubMed abstract )
+PMID:3016109(PubMed abstract)
 Harms, M., Feldmann, R., and Saurat, J.H. (1990). Papular-purpuric "gloves and socks" syndrome. J Am Acad Dermatol 23, 850-854.
-PMID:2147699 ( PubMed abstract )
+PMID:2147699(PubMed abstract)
 Hayakawa, H., Tara, M., Niina, K., and Osame, M. (2002). A clinical study of adult human parvovirus B19 infection. Intern Med 41, 295-299.
-PMID:11993790 ( PubMed abstract )
+PMID:11993790(PubMed abstract)
 Kaufmann, B., Simpson, A.A., and Rossmann, M.G. (2004). The structure of human parvovirus B19. Proc Natl Acad Sci U S A 101, 11628-11633.
-PMID:15289612 ( PubMed abstract )
+PMID:15289612(PubMed abstract)
 Serjeant, B.E., Hambleton, I.R., Kerr, S., Kilty, C.G., and Serjeant, G.R. (2001). Haematological response to parvovirus B19 infection in homozygous sickle-cell disease. Lancet 358, 1779-1780.
-PMID:11734237 ( PubMed abstract )
+PMID:11734237(PubMed abstract)
 Woolf, A.D., Campion, G.V., Chishick, A., Wise, S., Cohen, B.J., Klouda, P.T., Caul, O., and Dieppe, P.A. (1989). Clinical manifestations of human parvovirus B19 in adults. Arch Intern Med 149, 1153-1156.
-PMID:2541666 ( PubMed abstract )
+PMID:2541666(PubMed abstract)
 Young, N.S., and Brown, K.E. (2004). Parvovirus B19. N Engl J Med 350, 586-597.
-PMID:14762186 ( PubMed abstract )
+PMID:14762186(PubMed abstract)

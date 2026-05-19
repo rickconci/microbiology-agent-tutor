@@ -13,40 +13,47 @@ Physical Examination
 The patient appeared well. The body mass index (weight measured in kilograms divided by the square of the height measured in meters) was 27. The vital signs and the physical examination were normal.
 Studies
 The white blood cell count was 12,100 per cubic millimeter (reference range 4300 to 10,800), with eosinophils 28% (reference range <3), total eosinophil count 3370 per cubic millimeter (reference range 0-400). Results of a complete metabolic screening panel were normal. Serological tests for Lyme disease, filaria and fungus (including Aspergillus), an interferon-gamma release assay for tuberculosis, and antineutrophil cytoplasmic antibodies (ANCA) including antibodies to myeloperoxidase (MPO) and proteinase-3 (PR3) were negative. Testing for antibodies to Strongyloides (IgG) was 3.40 (negative < or = 1.49). Testing for stool ova and parasites was negative.
-A chest radiograph ( Figure 1 ) showed a discrete opacity in the left lung. Computed tomography (CT) of the chest revealed focal consolidation (5.2cm by 3.7cm) in the lingula ( Figure 2 ) and bilateral pleural effusions.
+A chest radiograph (Figure 1) showed a discrete opacity in the left lung. Computed tomography (CT) of the chest revealed focal consolidation (5.2cm by 3.7cm) in the lingula (Figure 2) and bilateral pleural effusions.
 Figure 1. Chest radiograph.
 Figure 2. CT of the chest.
 Clinical Course Prior to Diagnosis
 A needle biopsy of the lingular mass showed interstitial inflammation with eosinophils. A course of ivermectin was administered because of the positive titer for Strongyloides.
 After four months, hemoptysis and the eosinophilia persisted. A repeat chest radiograph showed no change in the lung opacity. Additional history was obtained: the patient recalled ingesting raw crawfish while drinking beer on a float trip in Missouri.
-A left thoracoscopy with wedge resection was performed. Pathological examination of the resected specimen is shown in Figures 3 and 4 .
+A left thoracoscopy with wedge resection was performed. Pathological examination of the resected specimen is shown in Figures 3 and 4.
 Figure 3. Lung tissue, HE stain, 40x magnification.
 Figure 4. Lung tissue, HE stain, 200x magnification.
 Diagnostic Procedure(s) and Result(s)
 Pathological examination of the wedge resection biopsy specimen of the left lingula revealed an extensive necrotizing granulomatous inflammatory process with associated bronchopneumonia. Within the necrotic tissue there were scattered discrete oval organisms with a birefringent fibrous coat and central proteinaceous material. The organisms were morphologically consistent with a Paragonimus species.
-Testing for Paragonimus westermani (IgG) was 1:32 (negative < 1:32). A distorted, fractured egg (consistent in appearance with Paragonimus kellicotti ) that has been phagocytosed by a giant cell was seen in the fibrotic, inflamed pleural tissue. A Langhans-type giant cell with peripheral fibrosis and an ovoid body at the center, representing a lung fluke in a cystic structure is shown in Figure 3 (by hematoxylin and eosin (HE) stain, 40x magnification), and cross-sections of the human trematode, P. kellicotti are shown in Figure 4 (HE stain, 200x magnification). The adult worm of P. kellicotti in a chitinous capsule within a cystic cavity is shown in Figure 5 (HE stain, 400x magnification). Figure 6 shows lung tissue with GMS stain.
+Testing for Paragonimus westermani (IgG) was 1:32 (negative < 1:32). A distorted, fractured egg (consistent in appearance with Paragonimus kellicotti) that has been phagocytosed by a giant cell was seen in the fibrotic, inflamed pleural tissue. A Langhans-type giant cell with peripheral fibrosis and an ovoid body at the center, representing a lung fluke in a cystic structure is shown in Figure 3 (by hematoxylin and eosin (HE) stain, 40x magnification), and cross-sections of the human trematode, P. kellicotti are shown in Figure 4 (HE stain, 200x magnification). The adult worm of P. kellicotti in a chitinous capsule within a cystic cavity is shown in Figure 5 (HE stain, 400x magnification). Figure 6 shows lung tissue with GMS stain.
 Figure 5. Lung tissue, HE stain, 400x magnification.
 Figure 6. Lung tissue, GMS stain.
 Treatment and Followup
 A three-day course of praziquantel was administered for paragonimiasis. After the patient was treated, he did not return for follow-up appointments and no further information was available.
 Discussion
-This is a case of pulmonary infection by the human trematode, Paragonimus kellicotti . The reddish brown adult worms measure 7 to 16 mm by 4 to 7 mm and usually live in lung parenchyma close to bronchioles.
-This case highlights the importance of obtaining a thorough epidemiological history in diagnosing North American paragonimiasis. Even if the morphological features of an egg is not characteristic of Paragonimus kellicotti , the identity of the infecting Paragonimus species could be deduced from the travel and dietary history. Multiple case reports [MMWR 2010; Procop 2009; Diaz 2013; Madariaga et al. 2007; and Lane et al. 2009] highlight the common thread of symptoms and social history (i.e., young male who ingests raw crawfish while under the influence of alcohol) in patients with this lung fluke. Although this case highlights cross-reactivity between P. westermani and P. kellicotti [Lane et al. 2009] when performing Western blot with P. westermani antigen, using Western blot with P. kellicotti antigen is much more reliable and has higher sensitivity and specificity [Fischer et al. 2013]. (Unfortunately, this latter test was not available at the time of this patient's evaluation and was not performed.)
+This is a case of pulmonary infection by the human trematode, Paragonimus kellicotti. The reddish brown adult worms measure 7 to 16 mm by 4 to 7 mm and usually live in lung parenchyma close to bronchioles.
+This case highlights the importance of obtaining a thorough epidemiological history in diagnosing North American paragonimiasis. Even if the morphological features of an egg is not characteristic of Paragonimus kellicotti, the identity of the infecting Paragonimus species could be deduced from the travel and dietary history. Multiple case reports [MMWR 2010; Procop 2009; Diaz 2013; Madariaga et al. 2007; and Lane et al. 2009] highlight the common thread of symptoms and social history (i.e., young male who ingests raw crawfish while under the influence of alcohol) in patients with this lung fluke. Although this case highlights cross-reactivity between P. westermani and P. kellicotti [Lane et al. 2009] when performing Western blot with P. westermani antigen, using Western blot with P. kellicotti antigen is much more reliable and has higher sensitivity and specificity [Fischer et al. 2013]. (Unfortunately, this latter test was not available at the time of this patient's evaluation and was not performed.)
 This case also illustrates the importance of considering Paragonimus species when a pulmonary lesion and peripheral eosinophilia are present. Although Strongyloides stercoralis larvae can be found in the lungs, Paragonimus is the only human parasite in which the adult organism resides in the lung, as demonstrated in this case. Because patients with Paragonimus infections often present with cough, hemoptysis, cavitary changes and live in geographic areas also endemic for tuberculosis, these patients are frequently misdiagnosed as having tuberculosis [Procop 2009].
 Paragonimus westermani is the most widely distributed of the many Paragonimus species that are found throughout the world; its range extends from Japan and Southeast Asia to India.
 North American paragonimiasis is relatively rare compared to the approximately 20.7 million people estimated to be infected with Paragonimus worldwide [Procop 2009]. Paragonimus kellicotti is found in North America. Paragonimus mexicanus is present in Central and South America.
 Final Diagnosis
-Pulmonary paragonimiasis caused by .
+Pulmonary paragonimiasis caused by Paragonimus kellicotti.
 References
 Centers for Disease Control and Prevention (CDC). (2010) Human paragonimiasis after eating raw or undercooked crayfish—Missouri, July 2006-September 2010. Morb Mortal Wkly Rep. 2010 Dec 10;59(48):1573-6.
-PMID:21150864 ( PubMed abstract )
+PMID:21150864(PubMed abstract) Diaz JH. (2013) Paragonimiasis acquired in the United States: native and nonnative species. Clin. Microbiol. Rev. 2013; 26(3):493-504.
+PMID:23824370(PubMed abstract) Fischer PU, Curtis KC, Folk SM, Wilkins PP, Marcos LA, Weil GJ. (2013) Serological diagnosis of North American Paragonimiasis by Western blot using Paragonimus kellicotti adult worm antigen. Am J Trop Med Hyg. 2013; 88(6):1035-40.
+PMID:23589531(PubMed abstract) Lane MA, Barsanti MC, Santos CA, Yeung M, Lubner SJ, Weil GJ. (2009) Human Paragonimiasis in North America following Ingestion of Raw Crayfish. CID. 2009; 49(6):e55-61.
+PMID:19681705(PubMed abstract) Madariaga MG, Ruma T, Theis JH. (2007) Autochthonous human paragonimiasis in North America.Wilderness & Environmental Medicine. 2007; 18(3):203-205.
+PMID:17896846(PubMed abstract) Procop GW. (2009) North American Paragonimiasis (Caused by Paragonimus kellicotti) in the Context of Global Paragonimiasis. Clin. Microbiol. Rev. 2009; 22(3):415-446.
+PMID:19597007(PubMed abstract)
+Centers for Disease Control and Prevention (CDC). (2010) Human paragonimiasis after eating raw or undercooked crayfish—Missouri, July 2006-September 2010. Morb Mortal Wkly Rep. 2010 Dec 10;59(48):1573-6.
+PMID:21150864(PubMed abstract)
 Diaz JH. (2013) Paragonimiasis acquired in the United States: native and nonnative species. Clin. Microbiol. Rev. 2013; 26(3):493-504.
-PMID:23824370 ( PubMed abstract )
+PMID:23824370(PubMed abstract)
 Fischer PU, Curtis KC, Folk SM, Wilkins PP, Marcos LA, Weil GJ. (2013) Serological diagnosis of North American Paragonimiasis by Western blot using Paragonimus kellicotti adult worm antigen. Am J Trop Med Hyg. 2013; 88(6):1035-40.
-PMID:23589531 ( PubMed abstract )
+PMID:23589531(PubMed abstract)
 Lane MA, Barsanti MC, Santos CA, Yeung M, Lubner SJ, Weil GJ. (2009) Human Paragonimiasis in North America following Ingestion of Raw Crayfish. CID. 2009; 49(6):e55-61.
-PMID:19681705 ( PubMed abstract )
+PMID:19681705(PubMed abstract)
 Madariaga MG, Ruma T, Theis JH. (2007) Autochthonous human paragonimiasis in North America.Wilderness & Environmental Medicine. 2007; 18(3):203-205.
-PMID:17896846 ( PubMed abstract )
-Procop GW. (2009) North American Paragonimiasis (Caused by Paragonimus kellicotti) in the Context of Global Paragonimiasis . Clin. Microbiol. Rev. 2009; 22(3):415-446.
-PMID:19597007 ( PubMed abstract )
+PMID:17896846(PubMed abstract)
+Procop GW. (2009) North American Paragonimiasis (Caused by Paragonimus kellicotti) in the Context of Global Paragonimiasis. Clin. Microbiol. Rev. 2009; 22(3):415-446.
+PMID:19597007(PubMed abstract)

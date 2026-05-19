@@ -6,7 +6,7 @@ She had had a heart transplant one year earlier. In the intervening year, she ha
 Medications
 Medications included mycophenolate (500 mg twice daily), tacrolimus (1 gram twice daily), and prednisone (7.5 mg daily).
 Physical Examination
-The patient was afebrile and the vital signs were normal. There was right upper quadrant tenderness. The oral mucosa showed several white plaques and there was a diffuse vesicular eruption of the skin ( Figures 1 through 4 ). The remainder of the examination was normal.
+The patient was afebrile and the vital signs were normal. There was right upper quadrant tenderness. The oral mucosa showed several white plaques and there was a diffuse vesicular eruption of the skin (Figures 1 through 4). The remainder of the examination was normal.
 Figure 1. Findings on the oropharynx.
 Figure 2. Detail of the palate.
 Figure 3. Skin lesions.
@@ -14,7 +14,7 @@ Figure 4. Skin lesions on the abdomen.
 Studies
 The levels of aspartate aminotransferase and alanine aminotransferase were twice the upper limits of the normal reference ranges; other routine laboratory test results were normal. Blood cultures were negative. Serum testing for cytomegalovirus antigen was negative. A chest radiograph did not show an acute cardiopulmonary process. An abdominal ultrasound revealed mild intrahepatic biliary dilatation.
 Clinical Course Prior to Diagnosis
-Esophagogastroduodenoscopy (EGD) showed raised lesions with underlying ulcers that had clean bases ( Figure 5 ). Colonoscopic evaluation revealed scattered superficial ulcers ( Figures 6 and 7 ).
+Esophagogastroduodenoscopy (EGD) showed raised lesions with underlying ulcers that had clean bases (Figure 5). Colonoscopic evaluation revealed scattered superficial ulcers (Figures 6 and 7).
 Figure 5. Findings on esophagoscopy.
 Figure 6. Findings on colonoscopy.
 Figure 7. Findings on colonoscopy.
@@ -29,13 +29,19 @@ Final Diagnosis
 Disseminated varicella zoster virus (VZV) disease, one year after cardiac transplantation.
 References
 Fehr, T., Bossart, W., Wahl, C., and Binswanger, U. (2002). Disseminated varicella infection in adult renal allograft recipients: four cases and a review of the literature. Transplantation 73, 608-611.
-PMID:11889440 ( PubMed abstract )
+PMID:11889440(PubMed abstract) Johnson H. Archives of Pathology. 1940 30:292. Lawn, S.D., and Venkatesan, P. (2002). Chickenpox oesophagitis and haematemesis in an immunocompetent adult. J Infect 44, 206.
+PMID:12099756(PubMed abstract) Miliauskas, J.R., and Webber, B.L. (1984). Disseminated varicella at autopsy in children with cancer. Cancer 53, 1518-1525.
+PMID:6321008(PubMed abstract) Okimura, H., Muto, M., Ichimiya, M., Mogami, S., Takahata, H., and Asagami, C. (1996). A case of herpes zoster associated with colitis. J Dermatol 23, 631-634.
+PMID:8916665(PubMed abstract) Smith, P.D., Eisner, M.S., Manischewitz, J.F., Gill, V.J., Masur, H., and Fox, C.F. (1993). Esophageal disease in AIDS is associated with pathologic processes rather than mucosal human immunodeficiency virus type 1. J Infect Dis 167, 547-552.
+PMID:8440925(PubMed abstract)
+Fehr, T., Bossart, W., Wahl, C., and Binswanger, U. (2002). Disseminated varicella infection in adult renal allograft recipients: four cases and a review of the literature. Transplantation 73, 608-611.
+PMID:11889440(PubMed abstract)
 Johnson H. Archives of Pathology. 1940 30:292.
 Lawn, S.D., and Venkatesan, P. (2002). Chickenpox oesophagitis and haematemesis in an immunocompetent adult. J Infect 44, 206.
-PMID:12099756 ( PubMed abstract )
+PMID:12099756(PubMed abstract)
 Miliauskas, J.R., and Webber, B.L. (1984). Disseminated varicella at autopsy in children with cancer. Cancer 53, 1518-1525.
-PMID:6321008 ( PubMed abstract )
+PMID:6321008(PubMed abstract)
 Okimura, H., Muto, M., Ichimiya, M., Mogami, S., Takahata, H., and Asagami, C. (1996). A case of herpes zoster associated with colitis. J Dermatol 23, 631-634.
-PMID:8916665 ( PubMed abstract )
+PMID:8916665(PubMed abstract)
 Smith, P.D., Eisner, M.S., Manischewitz, J.F., Gill, V.J., Masur, H., and Fox, C.F. (1993). Esophageal disease in AIDS is associated with pathologic processes rather than mucosal human immunodeficiency virus type 1. J Infect Dis 167, 547-552.
-PMID:8440925 ( PubMed abstract )
+PMID:8440925(PubMed abstract)

@@ -13,14 +13,14 @@ Physical Examination
 The temperature was 96.5°F (35.8°C), blood pressure 133/79 mg Hg, pulse 95 beats per minute, respirations 18 breaths per minute and oxygen saturation 98% while breathing ambient air. There were scattered crackles in the lung fields and decreased breath sounds at the bases. Trace edema was present at the ankles, and the remainder of the examination was normal.
 Studies
 The level of white cells was 8,900/mm³ (reference range 4,000 - 11,000), hematocrit 35.5% (ref. 36–45, in women), and platelets 183,000/mm³ (ref. 150,000 - 450,000). The serum level of creatinine was 2.5 mg/dL (ref. 0.4–1.3). Other routine screening testing was normal.
-Chest radiographs on admission are shown in Figures 1 and 2 .
+Chest radiographs on admission are shown in Figures 1 and 2.
 Figure 1. Chest radiograph.
 Figure 2. Lateral view of chest.
 Clinical Course Prior to Diagnosis
 Intravenous furosemide (160 mg twice daily) for congestive heart failure and ceftriaxone (1 gm daily) and oral azithromycin (500 mg daily) were administered empirically for presumptive community-acquired pneumonia. Diuresis occurred; however, the cough persisted.
 Testing of a nasopharyngeal aspirate for respiratory viruses was negative, and cultures of the blood and sputum, obtained on admission, demonstrated no growth on the 3rd hospital day.
 Diagnostic Procedure(s) and Result(s)
-Polymerase chain reaction (PCR) testing of a nasopharyngeal swab specimen was positive for Bordetella pertussis ; culture was negative.
+Polymerase chain reaction (PCR) testing of a nasopharyngeal swab specimen was positive for Bordetella pertussis; culture was negative.
 Treatment and Followup
 Azithromycin (500 mg once, followed by 250 mg daily for 4 days) was administered, with minimal improvement in cough, and prophylaxis treatment with azithromycin was provided to her asymptomatic contacts.
 Discussion
@@ -33,12 +33,18 @@ Final Diagnosis
 Whooping cough caused by Bordetella pertussis infection in an immune-compromised host, status post heart transplantation.
 References
 (2010). Tetanus and pertussis vaccination coverage among adults aged >/= 18 years --- United States, 1999 and 2008. MMWR Morb Mortal Wkly Rep 59, 1302-1306.
-PMID:20948508 ( PubMed abstract )
+PMID:20948508(PubMed abstract) Cornia, P.B., Hersh, A.L., Lipsky, B.A., Newman, T.B., and Gonzales, R. (2010). Does this coughing adolescent or adult patient have pertussis? JAMA 304, 890-896.
+PMID:20736473(PubMed abstract) Crowcroft, N.S., and Pebody, R.G. (2006). Recent developments in pertussis. Lancet 367, 1926-1936.
+PMID:16765762(PubMed abstract) Dworkin, M.S. (2005). Adults are whooping, but are internists listening? Ann Intern Med 142, 832-835
+PMID:15897533(PubMed abstract) Hewlett, E.L., and Edwards, K.M. (2005). Clinical practice. Pertussis--not just for kids. N Engl J Med 352, 1215-1222
+PMID:15788498(PubMed abstract)
+(2010). Tetanus and pertussis vaccination coverage among adults aged >/= 18 years --- United States, 1999 and 2008. MMWR Morb Mortal Wkly Rep 59, 1302-1306.
+PMID:20948508(PubMed abstract)
 Cornia, P.B., Hersh, A.L., Lipsky, B.A., Newman, T.B., and Gonzales, R. (2010). Does this coughing adolescent or adult patient have pertussis? JAMA 304, 890-896.
-PMID:20736473 ( PubMed abstract )
+PMID:20736473(PubMed abstract)
 Crowcroft, N.S., and Pebody, R.G. (2006). Recent developments in pertussis. Lancet 367, 1926-1936.
-PMID:16765762 ( PubMed abstract )
+PMID:16765762(PubMed abstract)
 Dworkin, M.S. (2005). Adults are whooping, but are internists listening? Ann Intern Med 142, 832-835
-PMID:15897533 ( PubMed abstract )
+PMID:15897533(PubMed abstract)
 Hewlett, E.L., and Edwards, K.M. (2005). Clinical practice. Pertussis--not just for kids. N Engl J Med 352, 1215-1222
-PMID:15788498 ( PubMed abstract )
+PMID:15788498(PubMed abstract)

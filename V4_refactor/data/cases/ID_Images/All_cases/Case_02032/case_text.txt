@@ -8,17 +8,18 @@ None.
 Epidemiological History
 The patient was originally from Italy and had immigrated to the United States decades before. He had a remote history of travel to Europe.There was no exposure to pets or sick contacts, and he did not use alcohol, tobacco, or illicit drugs.
 Physical Examination
-He was lethargic. The temperature was 96.7°F (35.9°C). The right eye had erythematous conjunctiva and a clouded anterior chamber ( Figure 1 ). He was able to count fingers. Neck stiffness was present; the lungs were clear to auscultation. He was tachycardic and had a II/IV holosystolic apical murmur. There was a diffusely tender abdomen, as well as diffuse lower back pain without point tenderness. His joints were benign and his skin had no rash.
+He was lethargic. The temperature was 96.7°F (35.9°C). The right eye had erythematous conjunctiva and a clouded anterior chamber (Figure 1). He was able to count fingers. Neck stiffness was present; the lungs were clear to auscultation. He was tachycardic and had a II/IV holosystolic apical murmur. There was a diffusely tender abdomen, as well as diffuse lower back pain without point tenderness. His joints were benign and his skin had no rash.
 Figure 1. Physical finding.
 Studies
 The white blood cell count (WBC) was 17,700/mm³ and hematocrit 27%. Analysis of the cerebrospinal fluid (CSF) revealed 1050 white cells per cubic millimeter (98% polymorphonuclear leukocytes), 1800 red blood cells per cubic millimeter, glucose 96 mg/dL and total protein 296 mg/dL.
 Clinical Course Prior to Diagnosis
 The patient was admitted and broad-spectrum antibiotics were administered for empiric meningitis coverage. Ophthalmologic evaluation was consistent with uveitis and endophthalmitis; he received intravitreal ceftazidime and vancomycin.
-A trans-thoracic echocardiogram revealed a mitral vegetation (2-cm) with heterogeneous features ( Figure 2 ). A lumbar epidural abscess at the L4-5 vertebrae and a left psoas abscess were additionally identified by computed tomography (CT).
+A trans-thoracic echocardiogram revealed a mitral vegetation (2-cm) with heterogeneous features (Figure 2). A lumbar epidural abscess at the L4-5 vertebrae and a left psoas abscess were additionally identified by computed tomography (CT).
 The patient was noted to have guaiac-positive stools and iron-deficiency anemia; a stomach mass was identified on endoscopy.
 Figure 2. Echocardiogram.
 Diagnostic Procedure(s) and Result(s)
-Blood and cerebrospinal fluid (CSF) cultures grew Streptococcus pneumoniae .
+Blood and cerebrospinal fluid (CSF) cultures grew Streptococcus pneumoniae.
+Treatment and Followup
 Discussion
 Disseminated Streptococcus pneumoniae may present as endocarditis with complications of septic emboli. In this case, an underlying malignancy was a likely risk factor for disseminated streptococcal sepsis. Susceptibility testing of pneumococcal strains should be obtained to guide antibiotic choice.
 Staphylococcus and Enterococcus are important organisms to consider when endocarditis is suspected. Meningitis is an unusual complication with either of these organisms but may occur as a complication of high-grade bacteremia and embolic events. Streptococcus bovis is an important organism to consider in the setting of colon cancer. Klebsiella pneumoniae endocarditis is extremely rare.
@@ -26,8 +27,12 @@ Final Diagnosis
 Streptococcus pneumoniae endocarditis with endophthalmitis, meningitis, and multiple septic emboli.
 References
 Hoen, B. (2002). Special issues in the management of infective endocarditis caused by gram-positive cocci. Infect Dis Clin North Am 16, 437-452, xi.
-PMID:12092481 ( PubMed abstract )
+PMID:12092481(PubMed abstract) Lindberg, J., and Fangel, S. (1999). Recurrent endocarditis caused by Streptococcus pneumoniae. Scand J Infect Dis 31, 409-410.
+PMID:10528883(PubMed abstract) Siegel, M., and Timpone, J. (2001). Penicillin-resistant Streptococcus pneumoniae endocarditis: a case report and review. Clin Infect Dis 32, 972-974.
+PMID:11247720(PubMed abstract)
+Hoen, B. (2002). Special issues in the management of infective endocarditis caused by gram-positive cocci. Infect Dis Clin North Am 16, 437-452, xi.
+PMID:12092481(PubMed abstract)
 Lindberg, J., and Fangel, S. (1999). Recurrent endocarditis caused by Streptococcus pneumoniae. Scand J Infect Dis 31, 409-410.
-PMID:10528883 ( PubMed abstract )
+PMID:10528883(PubMed abstract)
 Siegel, M., and Timpone, J. (2001). Penicillin-resistant Streptococcus pneumoniae endocarditis: a case report and review. Clin Infect Dis 32, 972-974.
-PMID:11247720 ( PubMed abstract )
+PMID:11247720(PubMed abstract)

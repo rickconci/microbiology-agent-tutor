@@ -8,50 +8,61 @@ Medications included metronidazole and cephalexin, for ten days.
 Epidemiological History
 The patient had been born in Mexico, and immigrated to United States a decade earlier. He was heterosexual and monogamous, and had been a field worker in Mexico and a maintainance worker in the United States.
 Physical Examination
-The temperature was 99.1°F (37.3°C). The right lower abdomen had multiple, well-healed scars with surrounding induration. The left lower abdomen had multiple wounds draining a small amount of yellow discharge. The overlying skin was indurated, but not erythematous. The right calf had multiple pitted, well-healed scars ( Figures 1 and 2 ). The remainder of the examination was normal.
+The temperature was 99.1°F (37.3°C). The right lower abdomen had multiple, well-healed scars with surrounding induration. The left lower abdomen had multiple wounds draining a small amount of yellow discharge. The overlying skin was indurated, but not erythematous. The right calf had multiple pitted, well-healed scars (Figures 1 and 2). The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
 The white cell count was 8,100 cells/µL, with 76% neutrophils. The serum level of glucose was 120 g/dL and albumin was 2.8 g/dL.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) of the abdomen and pelvis is shown in Figure 3 . A gram stain of a swab of one of the lesions is shown in Figure 4 .
+Computed tomography (CT) of the abdomen and pelvis is shown in Figure 3. A gram stain of a swab of one of the lesions is shown in Figure 4.
 Figure 3. CT scan of the abdomen and pelvis.
 Figure 4. Gram stain of specimen.
 Diagnostic Procedure(s) and Result(s)
-A modified acid fast stain of the growth from the culture is shown in Figure 5 , and the culture plate of a sample from the lesion is shown in Figure 6 .
+A modified acid fast stain of the growth from the culture is shown in Figure 5, and the culture plate of a sample from the lesion is shown in Figure 6.
 Nocardia brasiliensis was identified.
 Figure 5. Modified acid fast stain of specimen.
 Figure 6. Culture of specimen.
 Treatment and Followup
 Trimethoprim-sulfamethoxazole (2 double-strength tablets three times daily) was administered for nine months. Once on therapy, no new lesions arose. After therapy, residual scar tissue remained, but symptoms of induration, pain, and discharge resolved completely.
 Discussion
-Mycetomas are chronic, granulomatous infections of the subcutaneous tissue leading to necrotic abscess, sinus tract, and fistula formation. Untreated, lesions may expand to include adjacent muscle and bone. Mycetomas are caused by true fungi (eumycetomas) or aerobic bacteria (actinomycetomas) and typically occur in tropical and semitropical climates. Mycetomas in the United States are most commonly due to Pseudoallescheria boydii , however, in Mexico, Nocardia brasiliensis is responsible for 86% of cases [Welsh 1993].
-The initial infection usually results from trauma, leading to subcutaneous inoculation. Affected patients are often herdsmen, farmers, or other field workers in direct contact with the environment [McGinnis 1996]. This patient reports that he frequently worked outdoors in Mexico, and as a result, likely sustained the initial injury to his right leg ( Figure 2 ). While cases of mycetoma typically affect the feet and hands, in highly endemic areas, infection may include the thighs and perineum, less commonly involving the chest and abdominal walls [Ahmed et al 2004].
+Mycetomas are chronic, granulomatous infections of the subcutaneous tissue leading to necrotic abscess, sinus tract, and fistula formation. Untreated, lesions may expand to include adjacent muscle and bone. Mycetomas are caused by true fungi (eumycetomas) or aerobic bacteria (actinomycetomas) and typically occur in tropical and semitropical climates. Mycetomas in the United States are most commonly due to Pseudoallescheria boydii, however, in Mexico, Nocardia brasiliensis is responsible for 86% of cases [Welsh 1993].
+The initial infection usually results from trauma, leading to subcutaneous inoculation. Affected patients are often herdsmen, farmers, or other field workers in direct contact with the environment [McGinnis 1996]. This patient reports that he frequently worked outdoors in Mexico, and as a result, likely sustained the initial injury to his right leg (Figure 2). While cases of mycetoma typically affect the feet and hands, in highly endemic areas, infection may include the thighs and perineum, less commonly involving the chest and abdominal walls [Ahmed et al 2004].
 Mycetomas progress over months to years, and periods of latency or regression are not uncommon [Lederman and Crum 2004]. Agents of infection spread locally or via the lymphatic system. Secondary nodules subsequently arise and progress to sinus tract formation. Subcutaneous masses consist of grains, or aggregates of bacterial elements, embedded in tough, fibrinous tissue.
 Cutaneous infection due to Nocardia spp. may also manifest as a cellulitis, isolated subcutaneous abscess, or lymphonodular process clinically indistinguishable from sporotrichosis (sporotrichoid nocardiosis) [Lerner 1996]. In 10% of cases, cutaneous involvement may be indicative of disseminated Nocardia infection [Kalb et al 1985].
-While any pathogenic Nocardia species may cause cutaneous or subcutaneous disease, invasive and locally progressive infection leading to actinomycetoma formation is most commonly due to Nocardia brasiliensis . While systemic Nocardia infection suggests underlying host immunodeficiency, cutaneous infection often occurs in healthy patients with an antecedent superficial injury [Georghiou and Blacklock 1992]. An animal model study suggests that cutaneous inoculation leading to mycetoma formation may be hastened by an impaired cell-mediated immune system [Folb et al 1977].
+While any pathogenic Nocardia species may cause cutaneous or subcutaneous disease, invasive and locally progressive infection leading to actinomycetoma formation is most commonly due to Nocardia brasiliensis. While systemic Nocardia infection suggests underlying host immunodeficiency, cutaneous infection often occurs in healthy patients with an antecedent superficial injury [Georghiou and Blacklock 1992]. An animal model study suggests that cutaneous inoculation leading to mycetoma formation may be hastened by an impaired cell-mediated immune system [Folb et al 1977].
 Mycetoma diagnosis, once suspected, is usually confirmed by culture of purulent drainage or punch biopsy. Nocardia spp. will grow on standard blood agar, however, plating on an enriched media such as Lowenstein Jensen or Sabourand-dextrose agar allows for optimal detection. Gram-positive, variably acid-fast, and filamentous, Nocardia spp. are slow-growing, often requiring 2-5 days for identification. Delayed growth may lead to the premature disposal of cultures and therefore the microbiology lab should be alerted in suspected cases [Lerner 1996]. On occasion, close evaluation of grain morphology may allow preliminary organism identification. Grains due to N. brasiliensis are invisible to the naked eye, but by microscopy they are characterized as white-yellow [McElroy et al 1992].
 Actinomycetoma can be treated with medical therapy alone; however, adjuvant surgical excision or drainage may be warranted in complicated cases [Georghiou and Blacklock 1992]. Sulfonamides are the drug of choice for actinomycetoma due to N. brasiliensis; in patients intolerant of sulfa-containing drugs, minocycline may be considered [Lerner 1996]. Trimethoprim-sulfamethoxazole (TMP-SMX) is commonly administered. Linezolid also has activity against Nocardia [Gomez-Flores et al 2004], although clincial experience with this agent is limited. Actinomycetoma therapy is lengthy, requiring several months to two years for symptom resolution.
 Final Diagnosis
-Actinomycetoma caused by Nocardia brasiliensis .
+Actinomycetoma caused by Nocardia brasiliensis.
 References
 Ahmed, A.O., van Leeuwen, W., Fahal, A., van de Sande, W., Verbrugh, H., and van Belkum, A. (2004). Mycetoma caused by Madurella mycetomatis: a neglected infectious burden. Lancet Infect Dis 4, 566-574.
-PMID:15336224 ( PubMed abstract )
+PMID:15336224(PubMed abstract) Folb, P.I., Timme, A., and Horowitz, A. (1977). Nocardia infections in congenitally athymic (nude) mice and in other inbred mouse strains. Infect Immun 18, 459-466.
+PMID:336547(PubMed abstract) Georghiou, P.R., and Blacklock, Z.M. (1992). Infection with Nocardia species in Queensland. A review of 102 clinical isolates. Med J Aust 156, 692-697.
+PMID:1620016(PubMed abstract) Gomez-Flores, A., Welsh, O., Said-Fernandez, S., Lozano-Garza, G., Tavarez-Alejandro, R.E., and Vera-Cabrera, L. (2004). In vitro and in vivo activities of antimicrobials against Nocardia brasiliensis. Antimicrob Agents Chemother 48, 832-837.
+PMID:14982772(PubMed abstract) Kalb, R.E., Kaplan, M.H., and Grossman, M.E. (1985). Cutaneous nocardiosis. Case reports and review. J Am Acad Dermatol 13, 125-133.
+PMID:3897297(PubMed abstract) Lederman, E.R., and Crum, N.F. (2004). A case series and focused review of nocardiosis: clinical and microbiologic aspects. Medicine (Baltimore) 83, 300-313.
+PMID:15342974(PubMed abstract) Lerner, P.I. (1996). Nocardiosis. Clin Infect Dis 22, 891-903; quiz 904-895.
+PMID:8783685(PubMed abstract) McElroy, J.A., de Almeida Prestes, C., and Su, W.P. (1992). Mycetoma: infection with tumefaction, draining sinuses, and "grains". Cutis 49, 107-110.
+PMID:1563282(PubMed abstract) McGinnis, M.R. (1996). Mycetoma. Dermatol Clin 14, 97-104.
+PMID:8821162(PubMed abstract) Welsh, O. (1993). Mycetoma. Semin Dermatol 12, 290-295
+PMID:8312145(PubMed abstract)
+Ahmed, A.O., van Leeuwen, W., Fahal, A., van de Sande, W., Verbrugh, H., and van Belkum, A. (2004). Mycetoma caused by Madurella mycetomatis: a neglected infectious burden. Lancet Infect Dis 4, 566-574.
+PMID:15336224(PubMed abstract)
 Folb, P.I., Timme, A., and Horowitz, A. (1977). Nocardia infections in congenitally athymic (nude) mice and in other inbred mouse strains. Infect Immun 18, 459-466.
-PMID:336547 ( PubMed abstract )
+PMID:336547(PubMed abstract)
 Georghiou, P.R., and Blacklock, Z.M. (1992). Infection with Nocardia species in Queensland. A review of 102 clinical isolates. Med J Aust 156, 692-697.
-PMID:1620016 ( PubMed abstract )
+PMID:1620016(PubMed abstract)
 Gomez-Flores, A., Welsh, O., Said-Fernandez, S., Lozano-Garza, G., Tavarez-Alejandro, R.E., and Vera-Cabrera, L. (2004). In vitro and in vivo activities of antimicrobials against Nocardia brasiliensis. Antimicrob Agents Chemother 48, 832-837.
-PMID:14982772 ( PubMed abstract )
+PMID:14982772(PubMed abstract)
 Kalb, R.E., Kaplan, M.H., and Grossman, M.E. (1985). Cutaneous nocardiosis. Case reports and review. J Am Acad Dermatol 13, 125-133.
-PMID:3897297 ( PubMed abstract )
+PMID:3897297(PubMed abstract)
 Lederman, E.R., and Crum, N.F. (2004). A case series and focused review of nocardiosis: clinical and microbiologic aspects. Medicine (Baltimore) 83, 300-313.
-PMID:15342974 ( PubMed abstract )
+PMID:15342974(PubMed abstract)
 Lerner, P.I. (1996). Nocardiosis. Clin Infect Dis 22, 891-903; quiz 904-895.
-PMID:8783685 ( PubMed abstract )
+PMID:8783685(PubMed abstract)
 McElroy, J.A., de Almeida Prestes, C., and Su, W.P. (1992). Mycetoma: infection with tumefaction, draining sinuses, and "grains". Cutis 49, 107-110.
-PMID:1563282 ( PubMed abstract )
+PMID:1563282(PubMed abstract)
 McGinnis, M.R. (1996). Mycetoma. Dermatol Clin 14, 97-104.
-PMID:8821162 ( PubMed abstract )
+PMID:8821162(PubMed abstract)
 Welsh, O. (1993). Mycetoma. Semin Dermatol 12, 290-295
-PMID:8312145 ( PubMed abstract )
+PMID:8312145(PubMed abstract)

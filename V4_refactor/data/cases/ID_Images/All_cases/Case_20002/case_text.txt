@@ -1,6 +1,5 @@
 History of Present Illness
 A man in his 50s presented with dry cough, intermittent fever, progressive dyspnea on exertion and fatigue of 1-week duration. One day prior to presentation he also developed non-bloody diarrhea without abdominal cramping, pain, nausea and vomiting. He was diagnosed with Covid-19 five days prior to presentation by a nasopharyngeal viral PCR that was positive for SARS-CoV-2. A chest radiograph revealed patchy infiltrates in the bilateral perihilar region and bases, right greater than left [Fig 1]. He was admitted for supportive care and monitoring. On day 5 of hospitalization he developed progressive hypoxemic respiratory failure requiring mechanical ventilation. A follow up chest radiograph revealed worsening infiltrates bilaterally. He was given tocilizumab intravenously at 600 milligram every 8 hours for a total of 3 doses and 200 milliliters of convalescent plasma. His sputum culture obtained at the time of intubation grew methicillin sensitive Staphylococcus aureus for which intravenous cefazolin was started. After extubation on hospitalization day 14, he developed a new fever and elevated white blood cell count.
-Figure 1. Image
 Figure 1. Chest Radiograph single view shows patchy infiltrates in the bilateral perihilar region and bases, right greater than left
 Past Medical History
 Diabetes Mellitus Type 2. Hypertension
@@ -15,7 +14,7 @@ White blood cell count of 25,010 cells/microliter (reference range 4000 – 1080
 Figure 2. CT Angiography of the Thorax shows dense consolidation in the superior segments of bilateral lower lobes with bubbly appearance on the right concerning for necrotizing pneumonia
 Diagnostic Procedure(s) and Result(s)
 He was continued on cefazolin with no significant change in clinical status. Two days later his sputum culture grew the organism shown in lactophenol cotton blue stain [Fig 3].
-The sputum culture grew Aspergillus fumigatus . Serum Aspergillus galactomannan antigen resulted with an index value of greater than 1.110 (reference range >0.5 – patients with an index value of greater than or equal to 0.5 are considered to be positive for galactomannan antigen). Beta-D Glucan was negative at less than 31 picogram/milliliter (reference range <80 picogram/milliliter). Histoplasma and Blastomyces serologies were negative. A bronchoscopy was deferred due to patient’s tenuous respiratory status. A diagnosis of probable invasive pulmonary aspergillosis was made based on CT findings, microbiological data and positive galactomannan antigen.
+The sputum culture grew Aspergillus fumigatus. Serum Aspergillus galactomannan antigen resulted with an index value of greater than 1.110 (reference range >0.5 – patients with an index value of greater than or equal to 0.5 are considered to be positive for galactomannan antigen). Beta-D Glucan was negative at less than 31 picogram/milliliter (reference range <80 picogram/milliliter). Histoplasma and Blastomyces serologies were negative. A bronchoscopy was deferred due to patient’s tenuous respiratory status. A diagnosis of probable invasive pulmonary aspergillosis was made based on CT findings, microbiological data and positive galactomannan antigen.
 Figure 3. Lactophenol cotton blue stain from sputum culture shows Aspergillus fumigatus
 Treatment and Followup
 He was started on oral voriconazole with initial loading dose of 400 milligram twice a day followed by maintenance dosing of 200 milligram twice a day. Voriconazole is planned to be continued for a total of 12 weeks. He was discharged to a rehabilitation facility and slowly improved. He remained afebrile and was completely weaned off of oxygen at the time of discharge.
@@ -29,12 +28,18 @@ Final Diagnosis
 Probable Invasive Pulmonary Aspergillosis in a Person with Covid-19
 References
 Phillip Koehler et al., Covid-19 Associated Pulmonary Aspergillosis. Mycoses 2020 Jun;63(6):528-534.
-PMID:32339350 ( PubMed abstract )
+PMID:32339350(PubMed abstract) Schauwvlieghe AFAD, Rijnders BJA, Philips N, Verwijs R, Vanderbeke L, Van Tienen C, et al.; Dutch-Belgian Mycosis study group. Invasive aspergillosis in patients admitted to the intensive care unit with severe influenza: a retrospective cohort study. Lancet Respir Med. 2018; 6:782–92
+PMID:30076119(PubMed abstract) Wauters J, Baar I, Meersseman P, et al. Invasive pulmonary aspergillosis is a frequent complication of critically ill H1N1 patients: a retrospective study. Intens Care Med 2012; 38: 1761–8.
+PMID:22895826(PubMed abstract) Alanio A, Dellière S, Fodil S, Bretagne S, Mégarbane B. Prevalence of putative invasive pulmonary aspergillosis in critically ill patients with COVID-19. Lancet Respir Med. 2020 Jun;8(6):e48-e49. doi: 10.1016/S2213-2600(20)30237-X. Epub 2020 May 20.
+PMID:32445626(PubMed abstract) Paul E Verweij, Jean-Pierre Gangneux, Matteo Bassetti, Roger J M Bru¨ggemann, Oliver A Cornely, Philipp Koehler, Cornelia Lass-Flo¨rl, Frank L van de Veerdonk, Arunaloke Chakrabarti, Martin Hoenigl, Diagnosing Covid-19 associated Pulmonary Aspergillosis., On behalf of the European Confederation of Medical Mycology,the International Society for Human and Animal Mycology, the European Society for Clinical Microbiology and Infectious Diseases Fungal Infection Study Group, and the ESCMID Study Group for Infections in Critically Ill Patients Diagnosing Covid-19 associated pulmonary aspergillosis Lancet Microbe 2020 Published Online May 8, 2020 https://doi.org/10.1016/ S2666-5247(20)30027-6.
+PMID:32835328(PubMed abstract)
+Phillip Koehler et al., Covid-19 Associated Pulmonary Aspergillosis. Mycoses 2020 Jun;63(6):528-534.
+PMID:32339350(PubMed abstract)
 Schauwvlieghe AFAD, Rijnders BJA, Philips N, Verwijs R, Vanderbeke L, Van Tienen C, et al.; Dutch-Belgian Mycosis study group. Invasive aspergillosis in patients admitted to the intensive care unit with severe influenza: a retrospective cohort study. Lancet Respir Med. 2018; 6:782–92
-PMID:30076119 ( PubMed abstract )
+PMID:30076119(PubMed abstract)
 Wauters J, Baar I, Meersseman P, et al. Invasive pulmonary aspergillosis is a frequent complication of critically ill H1N1 patients: a retrospective study. Intens Care Med 2012; 38: 1761–8.
-PMID:22895826 ( PubMed abstract )
+PMID:22895826(PubMed abstract)
 Alanio A, Dellière S, Fodil S, Bretagne S, Mégarbane B. Prevalence of putative invasive pulmonary aspergillosis in critically ill patients with COVID-19. Lancet Respir Med. 2020 Jun;8(6):e48-e49. doi: 10.1016/S2213-2600(20)30237-X. Epub 2020 May 20.
-PMID:32445626 ( PubMed abstract )
+PMID:32445626(PubMed abstract)
 Paul E Verweij, Jean-Pierre Gangneux, Matteo Bassetti, Roger J M Bru¨ggemann, Oliver A Cornely, Philipp Koehler, Cornelia Lass-Flo¨rl, Frank L van de Veerdonk, Arunaloke Chakrabarti, Martin Hoenigl, Diagnosing Covid-19 associated Pulmonary Aspergillosis., On behalf of the European Confederation of Medical Mycology,the International Society for Human and Animal Mycology, the European Society for Clinical Microbiology and Infectious Diseases Fungal Infection Study Group, and the ESCMID Study Group for Infections in Critically Ill Patients Diagnosing Covid-19 associated pulmonary aspergillosis Lancet Microbe 2020 Published Online May 8, 2020 https://doi.org/10.1016/ S2666-5247(20)30027-6.
-PMID:32835328 ( PubMed abstract )
+PMID:32835328(PubMed abstract)

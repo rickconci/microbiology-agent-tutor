@@ -14,24 +14,32 @@ His initial complete blood count was notable for a white blood cell count of 10,
 Interventional radiology guided lumbar puncture was performed: CSF tube 1 had 73 total nucleated cells (reference range 0-5), 539 red blood cells (reference range 0-5), 37% neutrophils, 55% lymphocytes, 7% plasma cells. Tube 4 had 272 total nucleated cells (reference range 0-5), 104 red blood cells (reference range 0-5), 40% neutrophils, 51% lymphocytes, 8% plasma cells. Total protein was 1260 mg/dL (reference range 15-45). Glucose was 4 mg/dL.
 Chest computed tomography (Figure 1) revealed extensive reticulonodular opacities which were seen diffusely throughout his lungs measuring 2 mm. No consolidations were seen. Prominent mediastinal and bilateral hilar lymph nodes were seen.
 Figure 1. Figure 1: CT chest. An axial view of his lungs shows extensive reticulonodular opacities seen diffusely throughout his lungs, measuring about 2mm
+Figure 1: CT chest. An axial view of his lungs shows extensive reticulonodular opacities seen diffusely throughout his lungs, measuring about 2mm
 Diagnostic Procedure(s) and Result(s)
 Bronchoscopy with bronchioalveolar lavage revealed spherules that were consistent with Coccidioides. (Figure 2)
 Coccidioides antibody in the CSF was elevated at 1:8 (reference range <1:1), Coccidioides antibody to F antigen (IgG) was positive.
 Serum and CSF cryptococcal antigen were negative. Fungal blood culture ultimately grew Coccidioides immitis/posadasii.
-While the CSF collected from the first lumbar puncture at our hospital had no growth, a repeat lumbar puncture was performed and CSF culture grew Coccidioides immitis/posadasii .
+While the CSF collected from the first lumbar puncture at our hospital had no growth, a repeat lumbar puncture was performed and CSF culture grew Coccidioides immitis/posadasii.
 Figure 2. Figure 2: Bronchial Alveolar Lavage with pathognomonic Coccidioides spherule filled with endospores. (Fontana Masson stain, cropped, original magnification 200x).
+Figure 2: Bronchial Alveolar Lavage with pathognomonic Coccidioides spherule filled with endospores. (Fontana Masson stain, cropped, original magnification 200x).
 Treatment and Followup
 He was started on fluconazole 800 mg daily and IV liposomal amphotericin 400 mg daily. He was intubated for airway protection and hypoxemia but his mental status continued to worsen with loss of brainstem reflexes. He ultimately passed away. Autopsy showed diffuse nodularity of the lung pleural surfaces (Figure 3). Axial cross section of both lungs revealed widespread micronodular discoloration of the parenchymal surfaces (Figure 4). Microscopy revealed pathognomonic spherules involving the lung parenchyma (Figure 5). Further autopsy findings included prominent para-aortic, peritracheal, and peribronchial lymph nodes and markedly enlarged axillary lymph nodes (1.8 - 6.5 cm) with necrotizing granulomatous inflammation and confluent necrosis (Figure 6). The thyroid, adrenals, liver and spleen also showed evidence of disseminated Coccidioides infection.
 Brain autopsy findings were notable for disseminated Coccidioides infection diffusely involving the leptomeninges with severe lymphoplasmocytic inflammation (Figure 7, 8). Multifocal parenchymal involvement with microabscesses measuring up to 0.2 cm were seen in the frontal, insular, parietal and temporal cortexes, hippocampus, and cerebellum. The lateral ventricle, choroid plexus, and third ventricle were also involved. There was a fungal abscess at the cerebellopontine angle measuring up to 1.0 cm. Multifocal septic emboli involving the frontal cortex, parietal cortex, basal ganglia, medulla, and cerebellum, measuring from 0.1-0.5 cm were also noted.
 Figure 3. Figure 3: Autopsy findings showed diffuse nodularity of the lung pleural surfaces.
+Figure 3: Autopsy findings showed diffuse nodularity of the lung pleural surfaces.
 Figure 4. Figure 4: Right lung axial cross sections revealed white nodular discolorations of the parenchymal surface.
+Figure 4: Right lung axial cross sections revealed white nodular discolorations of the parenchymal surface.
 Figure 5. Figure 5: Microscopy shows pathognomonic spherules involving the lung parenchyma. H&E stain.
+Figure 5: Microscopy shows pathognomonic spherules involving the lung parenchyma. H&E stain.
 Figure 6. Figure 6: Grossly enlarged axillary lymph nodes (1.8 - 6.5 cm) with confluent necrosis (cross sections).
+Figure 6: Grossly enlarged axillary lymph nodes (1.8 - 6.5 cm) with confluent necrosis (cross sections).
 Figure 7. Figure 7: Lymphoplasmacytic leptomeningeal infiltrate with numerous spherules containing endospores. Focal breakthrough of the pia into the brain parenchyma. (H&E with luxol fast blue, 100X magnification).
+Figure 7: Lymphoplasmacytic leptomeningeal infiltrate with numerous spherules containing endospores. Focal breakthrough of the pia into the brain parenchyma. (H&E with luxol fast blue, 100X magnification).
 Figure 8. Figure 8: Leptomeningeal space with prominent lymphoplasmacytic infiltrate, numerous perivascular Coccidioides spherules. (H&E with luxol fast blue, 200X magnification).
+Figure 8: Leptomeningeal space with prominent lymphoplasmacytic infiltrate, numerous perivascular Coccidioides spherules. (H&E with luxol fast blue, 200X magnification).
 Discussion
-Coccidioidomycosis is colloquially referred to as Valley fever, which alludes to the San Joaquin valley (located in central California) where Coccidioides is highly endemic. Neighboring areas of Arizona, Nevada and New Mexico are also endemic for Coccidioides along with parts of South America. There are 2 species of Coccidioides - immitis and posadasii . They cause similar disease and cannot be differentiated by serology [1-3]. All 3 major endemic fungi in the United States -- Coccidioides , Blastomyces, and Histoplasma -- were actually initially misidentified as protozoa [4]. Coccidioides exists in the environment in the saprobic life cycle as a mycelium or mold composed of septated hyphae which can form spores called arthroconidia [5]. This is the infectious particle, which is easily aerosolized and inhaled. Each arthroconidia is capable of either forming more mycelia or infecting mammals to form spherules. Coccidioides is unique among the pathogenic thermally dimorphic fungi since it does not form single yeast cells but rather conglomerates of endospores within a spherule. Each endospore can form another spherule and spherules are refractory to phagocytosis [6].
-Diagnosis of coccidioidomycosis is often difficult. A serum immunodiffusion antibody test against Coccidioides sent at the outside hospital during this patient’s initial hospitalization for meningitis was negative. There are 3 antibody tests for Coccidioides ; the immunodiffusion and complement fixation assays are very specific for this disease but less sensitive than the enzyme-linked immunosorbent assay (ELISA) [7]. The 2016 IDSA guidelines estimate that the ELISA for Coccidioides is about twice as sensitive as the immunodiffusion or complement fixation tests, especially early in the course of disease and is the recommended initial test [8]. Immunodiffusion helps detect infection in the early phases of disease correlating with the IgM response and complement fixation is better in later phases and therefore correlates with IgG [7]. However, negative serological testing does not rule out disease, but a positive test is highly suggestive of an active infection since these serologies will generally revert back to negative after the infection has cleared.
+Coccidioidomycosis is colloquially referred to as Valley fever, which alludes to the San Joaquin valley (located in central California) where Coccidioides is highly endemic. Neighboring areas of Arizona, Nevada and New Mexico are also endemic for Coccidioides along with parts of South America. There are 2 species of Coccidioides - immitis and posadasii. They cause similar disease and cannot be differentiated by serology [1-3]. All 3 major endemic fungi in the United States -- Coccidioides, Blastomyces, and Histoplasma -- were actually initially misidentified as protozoa [4]. Coccidioides exists in the environment in the saprobic life cycle as a mycelium or mold composed of septated hyphae which can form spores called arthroconidia [5]. This is the infectious particle, which is easily aerosolized and inhaled. Each arthroconidia is capable of either forming more mycelia or infecting mammals to form spherules. Coccidioides is unique among the pathogenic thermally dimorphic fungi since it does not form single yeast cells but rather conglomerates of endospores within a spherule. Each endospore can form another spherule and spherules are refractory to phagocytosis [6].
+Diagnosis of coccidioidomycosis is often difficult. A serum immunodiffusion antibody test against Coccidioides sent at the outside hospital during this patient’s initial hospitalization for meningitis was negative. There are 3 antibody tests for Coccidioides; the immunodiffusion and complement fixation assays are very specific for this disease but less sensitive than the enzyme-linked immunosorbent assay (ELISA) [7]. The 2016 IDSA guidelines estimate that the ELISA for Coccidioides is about twice as sensitive as the immunodiffusion or complement fixation tests, especially early in the course of disease and is the recommended initial test [8]. Immunodiffusion helps detect infection in the early phases of disease correlating with the IgM response and complement fixation is better in later phases and therefore correlates with IgG [7]. However, negative serological testing does not rule out disease, but a positive test is highly suggestive of an active infection since these serologies will generally revert back to negative after the infection has cleared.
 Coccidioidomycosis is a granulomatous disease that induces a T helper 1 response which leads to a delayed-type hypersensitivity reaction when it is injected intradermally which is the basis behind the skin test for Coccidioides [9]. Historically, 99% of otherwise healthy patients were shown to convert their Coccidioides skin test within 3 weeks of symptoms of primary pulmonary coccidioidomycosis. This test was recently approved again by the FDA after being discontinued in the 1990s, and has been shown to have a sensitivity and specificity of >98% [10]. An RT PCR diagnostic was recently approved by the FDA that is reported to have 100% sensitivity and between 94% - 100% specificity both retrospectively and prospectively with the caveat that it has only been FDA approved for broncheoalveolar lavage specimens [11].
 This patient had coccidioidal meningitis which is notoriously challenging to diagnose. As in this case, diagnosis is usually made by detection of antibodies against Coccidioides in the CSF. CSF in coccidioidal meningitis usually displays a lymphocytic pleocytosis with high total protein and low glucose. CSF Coccidioides antigen testing to diagnose meningitis was recently described [12]. In this study, fungal culture of CSF was only positive in 7% of the cases. However, they showed that CSF Coccidioides antigen had a sensitivity and specificity of 93% and 100%, respectively. Historically, intrathecal amphotericin B was the gold standard of care for coccidioidal meningitis for many decades until a pivotal, albeit uncontrolled, trial published in 1993 changed the field [13]. It showed that treatment with oral fluconazole compared favorably to historical outcomes achieved with intrathecal amphotericin B. Treatment with oral fluconazole daily remains the recommendation in the guidelines published by the Infectious Diseases Society of America in 2016 [8].
 Unlike coccidioidal meningitis, which has high mortality if left untreated, there is no evidence that treatment of primary pulmonary coccidioidomycosis actually improves outcomes or prevents complications in most patients, as shown by two prospective observational studies [14, 15]. It is estimated that between 20-30% of community-acquired pneumonia in endemic regions is caused by Coccidioides and primary infection is usually self limited and results in lifelong immunity [1, 16].
@@ -40,36 +48,54 @@ Final Diagnosis
 Disseminated coccidioidomycosis
 References
 Twarog M, Thompson GR. Coccidioidomycosis: Recent Updates. Semin Respir Crit Care Med. 2015;36(5):746-55.
-PMID:26398540 ( PubMed abstract )
+PMID:26398540(PubMed abstract) Kirkland TN, Fierer J. Coccidioides immitis and posadasii; A review of their biology, genomics, pathogenesis, and host immunity. Virulence. 2018;9(1):1426-1435.
+PMID:30179067(PubMed abstract) Gabe LM, Malo J, Knox KS. Diagnosis and Management of Coccidioidomycosis. Clin Chest Med. 2017;38(3):417-433.
+PMID:28797486(PubMed abstract) Hirschmann JV. The early history of coccidioidomycosis: 1892-1945. Clin Infect Dis. 2007;44(9):1202-7.
+PMID:17407039(PubMed abstract) Lewis ER, Bowers JR, Barker BM. Dust devil: the life and times of the fungus that causes valley Fever. PLoS Pathog. 2015;11(5):e1004762.
+PMID:25973899(PubMed abstract) Sil A, Andrianopoulos A. Thermally Dimorphic Human Fungal Pathogens--Polyphyletic Pathogens with a Convergent Pathogenicity Trait. Cold Spring Harb Perspect Med. 2014;5(8):a019794.
+PMID:25384771(PubMed abstract) Pappagianis D, Zimmer BL. Serology of coccidioidomycosis. Clin Microbiol Rev. 1990;3(3):247-68.
+PMID:2200605(PubMed abstract) Wack EE, Ampel NM, Sunenshine RH, Galgiani JN. The Return of Delayed-Type Hypersensitivity Skin Testing for Coccidioidomycosis. Clin Infect Dis. 2015;61(5):787-91.
+PMID:25979308(PubMed abstract) Johnson R, Kernerman SM, Sawtelle BG, Rastogi SC, Nielsen HS, Ampel NM. A reformulated spherule-derived coccidioidin (Spherusol) to detect delayed-type hypersensitivity in coccidioidomycosis. Mycopathologia. 2012;174(5-6):353-8.
+PMID:22669545(PubMed abstract) Saubolle MA, Wojack BR, Wertheimer AM, Fuayagem AZ, Young S, Koeneman BA. Multicenter Clinical Validation of a Cartridge-Based Real-Time PCR System for Detection of Coccidioides spp. in Lower Respiratory Specimens. J Clin Microbiol. 2018;56(2).
+PMID:29212702(PubMed abstract) Kassis C, Zaidi S, Kuberski T, et al. Role of Coccidioides Antigen Testing in the Cerebrospinal Fluid for the Diagnosis of Coccidioidal Meningitis. Clin Infect Dis. 2015;61(10):1521-6.
+PMID:26209683(PubMed abstract) Galgiani JN, Catanzaro A, Cloud GA, et al. Fluconazole therapy for coccidioidal meningitis. The NIAID-Mycoses Study Group. Ann Intern Med. 1993;119(1):28-35.
+PMID:8498760(PubMed abstract) Ampel NM, Giblin A, Mourani JP, Galgiani JN. Factors and outcomes associated with the decision to treat primary pulmonary coccidioidomycosis. Clin Infect Dis. 2009;48(2):172-8.
+PMID:19072555(PubMed abstract) Sunenshine RH, Anderson S, Erhart L, et al. Public health surveillance for coccidioidomycosis in Arizona. Ann N Y Acad Sci. 2007;1111:96-102.
+PMID:17513465(PubMed abstract) Benedict K, Thompson GR, Deresinski S, Chiller T. Mycotic Infections Acquired outside Areas of Known Endemicity, United States. Emerging Infect Dis. 2015;21(11):1935-41.
+PMID:26485441(PubMed abstract) Baddley JW, Winthrop KL, Patkar NM, et al. Geographic distribution of endemic fungal infections among older persons, United States. Emerging Infect Dis. 2011;17(9):1664-9.
+PMID:21888792(PubMed abstract) Cooksey GS, Nguyen A, Knutson K, et al. Notes from the Field: Increase in Coccidioidomycosis - California, 2016. MMWR Morb Mortal Wkly Rep. 2017;66(31):833-834.
+PMID:28796756(PubMed abstract)
+Twarog M, Thompson GR. Coccidioidomycosis: Recent Updates. Semin Respir Crit Care Med. 2015;36(5):746-55.
+PMID:26398540(PubMed abstract)
 Kirkland TN, Fierer J. Coccidioides immitis and posadasii; A review of their biology, genomics, pathogenesis, and host immunity. Virulence. 2018;9(1):1426-1435.
-PMID:30179067 ( PubMed abstract )
+PMID:30179067(PubMed abstract)
 Gabe LM, Malo J, Knox KS. Diagnosis and Management of Coccidioidomycosis. Clin Chest Med. 2017;38(3):417-433.
-PMID:28797486 ( PubMed abstract )
+PMID:28797486(PubMed abstract)
 Hirschmann JV. The early history of coccidioidomycosis: 1892-1945. Clin Infect Dis. 2007;44(9):1202-7.
-PMID:17407039 ( PubMed abstract )
+PMID:17407039(PubMed abstract)
 Lewis ER, Bowers JR, Barker BM. Dust devil: the life and times of the fungus that causes valley Fever. PLoS Pathog. 2015;11(5):e1004762.
-PMID:25973899 ( PubMed abstract )
+PMID:25973899(PubMed abstract)
 Sil A, Andrianopoulos A. Thermally Dimorphic Human Fungal Pathogens--Polyphyletic Pathogens with a Convergent Pathogenicity Trait. Cold Spring Harb Perspect Med. 2014;5(8):a019794.
-PMID:25384771 ( PubMed abstract )
+PMID:25384771(PubMed abstract)
 Pappagianis D, Zimmer BL. Serology of coccidioidomycosis. Clin Microbiol Rev. 1990;3(3):247-68.
-PMID:2200605 ( PubMed abstract )
+PMID:2200605(PubMed abstract)
 Wack EE, Ampel NM, Sunenshine RH, Galgiani JN. The Return of Delayed-Type Hypersensitivity Skin Testing for Coccidioidomycosis. Clin Infect Dis. 2015;61(5):787-91.
-PMID:25979308 ( PubMed abstract )
+PMID:25979308(PubMed abstract)
 Johnson R, Kernerman SM, Sawtelle BG, Rastogi SC, Nielsen HS, Ampel NM. A reformulated spherule-derived coccidioidin (Spherusol) to detect delayed-type hypersensitivity in coccidioidomycosis. Mycopathologia. 2012;174(5-6):353-8.
-PMID:22669545 ( PubMed abstract )
+PMID:22669545(PubMed abstract)
 Saubolle MA, Wojack BR, Wertheimer AM, Fuayagem AZ, Young S, Koeneman BA. Multicenter Clinical Validation of a Cartridge-Based Real-Time PCR System for Detection of Coccidioides spp. in Lower Respiratory Specimens. J Clin Microbiol. 2018;56(2).
-PMID:29212702 ( PubMed abstract )
+PMID:29212702(PubMed abstract)
 Kassis C, Zaidi S, Kuberski T, et al. Role of Coccidioides Antigen Testing in the Cerebrospinal Fluid for the Diagnosis of Coccidioidal Meningitis. Clin Infect Dis. 2015;61(10):1521-6.
-PMID:26209683 ( PubMed abstract )
+PMID:26209683(PubMed abstract)
 Galgiani JN, Catanzaro A, Cloud GA, et al. Fluconazole therapy for coccidioidal meningitis. The NIAID-Mycoses Study Group. Ann Intern Med. 1993;119(1):28-35.
-PMID:8498760 ( PubMed abstract )
+PMID:8498760(PubMed abstract)
 Ampel NM, Giblin A, Mourani JP, Galgiani JN. Factors and outcomes associated with the decision to treat primary pulmonary coccidioidomycosis. Clin Infect Dis. 2009;48(2):172-8.
-PMID:19072555 ( PubMed abstract )
+PMID:19072555(PubMed abstract)
 Sunenshine RH, Anderson S, Erhart L, et al. Public health surveillance for coccidioidomycosis in Arizona. Ann N Y Acad Sci. 2007;1111:96-102.
-PMID:17513465 ( PubMed abstract )
+PMID:17513465(PubMed abstract)
 Benedict K, Thompson GR, Deresinski S, Chiller T. Mycotic Infections Acquired outside Areas of Known Endemicity, United States. Emerging Infect Dis. 2015;21(11):1935-41.
-PMID:26485441 ( PubMed abstract )
+PMID:26485441(PubMed abstract)
 Baddley JW, Winthrop KL, Patkar NM, et al. Geographic distribution of endemic fungal infections among older persons, United States. Emerging Infect Dis. 2011;17(9):1664-9.
-PMID:21888792 ( PubMed abstract )
+PMID:21888792(PubMed abstract)
 Cooksey GS, Nguyen A, Knutson K, et al. Notes from the Field: Increase in Coccidioidomycosis - California, 2016. MMWR Morb Mortal Wkly Rep. 2017;66(31):833-834.
-PMID:28796756 ( PubMed abstract )
+PMID:28796756(PubMed abstract)

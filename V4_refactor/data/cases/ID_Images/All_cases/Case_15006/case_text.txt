@@ -7,37 +7,47 @@ The patient had poorly-controlled diabetes mellitus.
 Epidemiological History
 The patient was a farmer in northeast India.
 Physical Examination
-The patient was looked unwell. The temperature was 102°F (38.9°C), blood pressure 130/90mm Hg, pulse 130 beats per minute, and respiratory rate 20 breaths per minute. There was swelling (4 cm by 3 cm) in the left axilla ( Figure 1) and multiple sinus openings on the left side of chest and back (Figure 2 and Figure 3 ). The remainder of the examination was normal.
+The patient was looked unwell. The temperature was 102°F (38.9°C), blood pressure 130/90mm Hg, pulse 130 beats per minute, and respiratory rate 20 breaths per minute. There was swelling (4 cm by 3 cm) in the left axilla (Figure 1) and multiple sinus openings on the left side of chest and back (Figure 2 and Figure 3). The remainder of the examination was normal.
 Studies
 The hemoglobin was 7.9 gm/dl (reference range (ref) 13.5-16.5), the white cell count 6730 per cubic millimeter (ref 4000-11,000) with 82% neutrophils and15% lymphocytes, platelets 120,000 per cubic millimeter (ref 150,000-450,000), and erythrocyte sedimentation rate 140 mm per hour (ref 0-20). Serum levels of urea were 89 mg/dL (ref 20-40), creatinine 2.1 mg/dL (ref 0.8-1.2), bilirubin 1.1 mg/dL (ref 0.4-1.3), alanine aminotransferase 64 IU/L (ref 10-45), aspartate aminotransferase 79 IU/L (ref 10-35) and alkaline phosphatase 120 IU/L (ref 50-129).
-CT of the chest without the administration of contrast showed a soft tissue lesion with few enlarged lymph nodes in the left axilla and a small left pleural effusion. CT of the abdomen without the administration of contrast showed mild hepatosplenomegaly with a small left-sided pleural effusion and left paraspinal collection ( Figures 4 and 5 ).
+CT of the chest without the administration of contrast showed a soft tissue lesion with few enlarged lymph nodes in the left axilla and a small left pleural effusion. CT of the abdomen without the administration of contrast showed mild hepatosplenomegaly with a small left-sided pleural effusion and left paraspinal collection (Figures 4 and 5).
 Figure 1. CT of the chest.
-Figure 2. CT of the abdomen.
-Clinical Course Prior to Diagnosis
-Blood cultures grew gram negative bacilli with shiny colonies on MacConkey agar ( Figures 6 and 7 ). A skin biopsy from a sinus opening grew coagulase negative staphylococci.
-Figure 3. Blood culture growth on MacConkey agar plate.
 Figure 4. Gram stain of colony growth from blood culture.
+Figure 2. CT of the abdomen.
+Figure 5. CT of the abdomen.
+Clinical Course Prior to Diagnosis
+Blood cultures grew gram negative bacilli with shiny colonies on MacConkey agar (Figures 6 and 7). A skin biopsy from a sinus opening grew coagulase negative staphylococci.
+Figure 3. Blood culture growth on MacConkey agar plate.
+Figure 6. Blood culture growth on MacConkey agar plate.
+Figure 7. Gram stain of colony growth from blood culture.
 Diagnostic Procedure(s) and Result(s)
-Blood cultures sent on the day of admission grew Burkholderia pseudomallei ( Figure 7 ). CT-guided biopsy of the left paraspinal muscle collection also grew B. pseudomallei .
+Blood cultures sent on the day of admission grew Burkholderia pseudomallei (Figure 7). CT-guided biopsy of the left paraspinal muscle collection also grew B. pseudomallei.
 Treatment and Followup
 Ceftazidime (2 g intravenously, three times daily) was administered, for a 14-day course. The patient gradually improved and was discharged in a stable condition. After discharge, oral trimethoprim-sulfamethoxasole (TMP-SMX) was administered for 3 months. At follow-up at 3 months, the patient was doing well.
 Discussion
-Melioidosis is an infection caused by the facultative intracellular gram-negative bacterium, Burkholderia pseudomallei . It is a widely distributed environmental saprophyte in the soil and in fresh surface water in endemic regions, particularly in Australia, Southeast Asia and South Asia, including India [Chaowagul et al., 1989].
+Melioidosis is an infection caused by the facultative intracellular gram-negative bacterium, Burkholderia pseudomallei. It is a widely distributed environmental saprophyte in the soil and in fresh surface water in endemic regions, particularly in Australia, Southeast Asia and South Asia, including India [Chaowagul et al., 1989].
 Burkholderia pseudomallei is transmitted mainly by percutaneous inoculation and inhalation [Brundage et al., 1968]. Diabetes mellitus, chronic liver disease, chronic renal disease, chronic lung disease and alcoholism are risk factors for the development of melioidosis [Chaowagul et al., 1989]. The incubation period is 1 to 21 days (mean nine days) [Currie et al. 2000].
 Most B. pseudomallei infections are subclinical. Pneumonia is the most common clinical presentation [Cheng and Currie 2005]. Melioidosis can also present with many other manifestations, including skin ulcers or abscesses, bacteremia and sepsis, genitourinary disease, septic arthritis or osteomyelitis.
-Culture is the mainstay of diagnosis. Gram stain of sputum or purulent abscess drainage may reveal the gram-negative bacilli of B. pseudomallei . Generally, melioidosis is initially treated with intravenous antibiotics followed by a prolonged course of oral therapy [Dance 2014]. Intravenous options include ceftazidime, meropenem or imipenem. Oral antibiotics include trimethoprim-sulfamethoxasole or doxycycline. Leukopenia (particularly lymphopenia), hepatic dysfunction, renal dysfunction and respiratory failure are factors associated with poor prognosis [Chierakul et al., 2005].
+Culture is the mainstay of diagnosis. Gram stain of sputum or purulent abscess drainage may reveal the gram-negative bacilli of B. pseudomallei. Generally, melioidosis is initially treated with intravenous antibiotics followed by a prolonged course of oral therapy [Dance 2014]. Intravenous options include ceftazidime, meropenem or imipenem. Oral antibiotics include trimethoprim-sulfamethoxasole or doxycycline. Leukopenia (particularly lymphopenia), hepatic dysfunction, renal dysfunction and respiratory failure are factors associated with poor prognosis [Chierakul et al., 2005].
 Final Diagnosis
-Disseminated melioidosis caused by .
+Disseminated melioidosis caused by Burkholderia pseudomallei.
 References
 Brundage WG, Thuss CJ Jr, Walden DC. (1968) Four fatal cases of melioidosis in U. S. soldiers in Vietnam. Bacteriologic and pathologic characteristics. Am J Trop Med Hyg. Mar;17(2):183-91.
-PMID:4869109 ( PubMed abstract )
+PMID:4869109(PubMed abstract) Chaowagul W, White NJ, Dance DA, Wattanagoon Y, Naigowit P, Davis TM, Looareesuwan S, Pitakwatchara N. (1989) Melioidosis: a major cause of community-acquired septicemia in northeastern Thailand. J Infect Dis. May;159(5):890-9.
+PMID:2708842(PubMed abstract) Cheng AC, Currie BJ. (2005) Melioidosis: epidemiology, pathophysiology, and management. Clin Microbiol Rev. Apr;18(2):383-416.
+PMID:15831829(PubMed abstract) Chierakul W, Anunnatsiri S, Short JM, Maharjan B, Mootsikapun P, Simpson AJ, Limmathurotsakul D, Cheng AC, Stepniewska K, Newton PN, Chaowagul W, White NJ, Peacock SJ, Day NP, Chetchotisakd P. (2005) Two randomized controlled trials of ceftazidime alone versus ceftazidime in combination with trimethoprim-sulfamethoxazole for the treatment of severe melioidosis. Clin Infect Dis. 2005;41(8):1105.
+PMID:16163628(PubMed abstract) Currie BJ, Fisher DA, Anstey NM, Jacups SP. (2000) Melioidosis: acute and chronic disease, relapse and re-activation. Trans R Soc Trop Med Hyg. May-Jun;94(3):301-4.
+PMID:10975006(PubMed abstract) Dance D. (2014) Treatment and prophylaxis of melioidosis. Int J Antimicrob Agents. 2014 Apr;43(4):310-8.
+PMID:24613038(PubMed abstract)
+Brundage WG, Thuss CJ Jr, Walden DC. (1968) Four fatal cases of melioidosis in U. S. soldiers in Vietnam. Bacteriologic and pathologic characteristics. Am J Trop Med Hyg. Mar;17(2):183-91.
+PMID:4869109(PubMed abstract)
 Chaowagul W, White NJ, Dance DA, Wattanagoon Y, Naigowit P, Davis TM, Looareesuwan S, Pitakwatchara N. (1989) Melioidosis: a major cause of community-acquired septicemia in northeastern Thailand. J Infect Dis. May;159(5):890-9.
-PMID:2708842 ( PubMed abstract )
+PMID:2708842(PubMed abstract)
 Cheng AC, Currie BJ. (2005) Melioidosis: epidemiology, pathophysiology, and management. Clin Microbiol Rev. Apr;18(2):383-416.
-PMID:15831829 ( PubMed abstract )
+PMID:15831829(PubMed abstract)
 Chierakul W, Anunnatsiri S, Short JM, Maharjan B, Mootsikapun P, Simpson AJ, Limmathurotsakul D, Cheng AC, Stepniewska K, Newton PN, Chaowagul W, White NJ, Peacock SJ, Day NP, Chetchotisakd P. (2005) Two randomized controlled trials of ceftazidime alone versus ceftazidime in combination with trimethoprim-sulfamethoxazole for the treatment of severe melioidosis. Clin Infect Dis. 2005;41(8):1105.
-PMID:16163628 ( PubMed abstract )
+PMID:16163628(PubMed abstract)
 Currie BJ, Fisher DA, Anstey NM, Jacups SP. (2000) Melioidosis: acute and chronic disease, relapse and re-activation. Trans R Soc Trop Med Hyg. May-Jun;94(3):301-4.
-PMID:10975006 ( PubMed abstract )
+PMID:10975006(PubMed abstract)
 Dance D. (2014) Treatment and prophylaxis of melioidosis. Int J Antimicrob Agents. 2014 Apr;43(4):310-8.
-PMID:24613038 ( PubMed abstract )
+PMID:24613038(PubMed abstract)

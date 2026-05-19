@@ -10,11 +10,11 @@ The white blood cell count was 15,600 cells/µL, with 32% neutrophils, 40% lymph
 Computed tomography (CT) scanning of his abdomen and pelvis revealed splenomegaly with a normal appearing liver, marked inflammatory thickening of the colonic wall extending from the distal transverse colon to the anus with pericolonic fat stranding and lymphadenopathy in the pericolonic and retroperitoneal regions.
 Clinical Course Prior to Diagnosis
 Intravenous fluids and empiric antimicrobial therapy with ampicillin, gentamicin, and metronidazole were administered. Blood, urine and stool cultures were sent and the stool was examined for parasites. Serologic testing for hepatitis A, B, and C viruses, human immunodeficiency virus (HIV) infection, and a heterophile antibody were also ordered.
-A colonoscopic examination revealed ulcerated mucosa extending from the rectum to the distal transverse colon that was most consistent with ulcerative colitis. Pathological examination of a colonic biopsy is shown in Figures 1 and 2 .
+A colonoscopic examination revealed ulcerated mucosa extending from the rectum to the distal transverse colon that was most consistent with ulcerative colitis. Pathological examination of a colonic biopsy is shown in Figures 1 and 2.
 Figure 1. Biopsy of the colon.
 Figure 2. Detail of Figure 1.
 Diagnostic Procedure(s) and Result(s)
-Biopsies confirmed the findings of ulcerative colitis ( Figure 1 ), though the specimens were also noted to contain a multitude of cells with intranuclear inclusions ( Figure 2 ), findings characteristic of cytomegalovirus (CMV) infection. Viral cytopathic effect was also seen. Serologic testing confirmed the presence of both IgG and IgM antibodies to the virus, and blood testing with the CMV antigenemia assay revealed 10 positive cells per two slides. Serological testing for hepatitis A, B, and C viruses, human immunodeficiency virus (HIV) infection (including antibody serology and viral nucleic acid copies), and a heterophile antibody were negative.
+Biopsies confirmed the findings of ulcerative colitis (Figure 1), though the specimens were also noted to contain a multitude of cells with intranuclear inclusions (Figure 2), findings characteristic of cytomegalovirus (CMV) infection. Viral cytopathic effect was also seen. Serologic testing confirmed the presence of both IgG and IgM antibodies to the virus, and blood testing with the CMV antigenemia assay revealed 10 positive cells per two slides. Serological testing for hepatitis A, B, and C viruses, human immunodeficiency virus (HIV) infection (including antibody serology and viral nucleic acid copies), and a heterophile antibody were negative.
 Treatment and Followup
 Intravenous ganciclovir was begun at a dose of 5 milligrams per kilogram (mg/kg) twice daily with improvement. The patient defervesced quickly on this regimen and was discharged home shortly thereafter.
 Two weeks later, the patient remained asymptomatic with a normal physical examination. Intravenous ganciclovir was discontinued and oral valganciclovir begun.
@@ -26,6 +26,9 @@ Final Diagnosis
 Primary cytomegalovirus (CMV) infection with colitis in a patient with ulcerative colitis.
 References
 Mann, E.A., and Saeed, S.A. (2012). Gastrointestinal infection as a trigger for inflammatory bowel disease. Curr Opin Gastroenterol 28, 24-29.
-PMID:22080823 ( PubMed abstract )
+PMID:22080823(PubMed abstract) Roblin, X., Pillet, S., Oussalah, A., Berthelot, P., Del Tedesco, E., Phelip, J.M., Chambonniere, M.L., Garraud, O., Peyrin-Biroulet, L., and Pozzetto, B. (2011). Cytomegalovirus load in inflamed intestinal tissue is predictive of resistance to immunosuppressive therapy in ulcerative colitis. Am J Gastroenterol 106, 2001-2008.
+PMID:21788989(PubMed abstract)
+Mann, E.A., and Saeed, S.A. (2012). Gastrointestinal infection as a trigger for inflammatory bowel disease. Curr Opin Gastroenterol 28, 24-29.
+PMID:22080823(PubMed abstract)
 Roblin, X., Pillet, S., Oussalah, A., Berthelot, P., Del Tedesco, E., Phelip, J.M., Chambonniere, M.L., Garraud, O., Peyrin-Biroulet, L., and Pozzetto, B. (2011). Cytomegalovirus load in inflamed intestinal tissue is predictive of resistance to immunosuppressive therapy in ulcerative colitis. Am J Gastroenterol 106, 2001-2008.
-PMID:21788989 ( PubMed abstract )
+PMID:21788989(PubMed abstract)

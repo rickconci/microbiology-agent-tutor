@@ -8,22 +8,27 @@ He had lived in Florida during the previous 6 months, and had no pets.
 Physical Examination
 The temperature was 38°C (100.4°F). On examination, there was hepatosplenomegaly; motor strength of the upper and lower extremities was decreased, which was not new.
 Studies
-The white blood cell count (WBC) was 3,000 cells per cubic millimeter, hematocrit 29%, and platelets 136,000/mm³. The level of serum urea nitrogen was 61 mg/dL and creatinine 3 mg/dL, and tests of liver function and stool studies were normal. Magnetic resonance imaging (MRI) of the abdomen showed bilaterally enlarged adrenal glands ( Figure 1 ).
+The white blood cell count (WBC) was 3,000 cells per cubic millimeter, hematocrit 29%, and platelets 136,000/mm³. The level of serum urea nitrogen was 61 mg/dL and creatinine 3 mg/dL, and tests of liver function and stool studies were normal. Magnetic resonance imaging (MRI) of the abdomen showed bilaterally enlarged adrenal glands (Figure 1).
 Figure 1. Abdominal MRI scan.
 Clinical Course Prior to Diagnosis
-An aspirate of the adrenal was performed; a special stain of the aspirate is shown in Figure 2 .
+An aspirate of the adrenal was performed; a special stain of the aspirate is shown in Figure 2.
 Figure 2. Adrenal gland aspirate.
 Diagnostic Procedure(s) and Result(s)
-Gomori methenamine silver stain of the adrenal aspirate (seen in Figure 2 ) showed small budding yeast. Cultures of the bone marrow, blood and adrenal aspirate grew Histoplasma capsulatum .
+Gomori methenamine silver stain of the adrenal aspirate (seen in Figure 2) showed small budding yeast. Cultures of the bone marrow, blood and adrenal aspirate grew Histoplasma capsulatum.
+Treatment and Followup
 Discussion
 Histoplasma capsulatum is endemic in the Ohio and Mississippi River valleys. Subacute progressive disseminated histoplasmosis may present with prolonged symptoms, such as weight loss, fever, and diarrhea.
 Conidia are inhaled and convert to yeast inside pulmonary macrophages. Organisms invade the adrenal glands in approximately 80% of subacute progressive histoplasmosis. Overt Addison’s disease occurs in less than 10% of cases.
 Final Diagnosis
-Disseminated histoplasmosis caused by Histoplasma capsulatum .
+Disseminated histoplasmosis caused by Histoplasma capsulatum.
 References
 Assi, M.A., Sandid, M.S., Baddour, L.M., Roberts, G.D., and Walker, R.C. (2007). Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore) 86, 162-169.
-PMID:17505255 ( PubMed abstract )
+PMID:17505255(PubMed abstract) Knox, K.S., and Hage, C.A. (2010). Histoplasmosis. Proc Am Thorac Soc 7, 169-172.
+PMID:20463244(PubMed abstract) McLeod, D.S., Mortimer, R.H., Perry-Keene, D.A., Allworth, A., Woods, M.L., Perry-Keene, J., McBride, W.J., Coulter, C., and Robson, J.M. (2011). Histoplasmosis in Australia: report of 16 cases and literature review. Medicine (Baltimore) 90, 61-68.
+PMID:21200187(PubMed abstract)
+Assi, M.A., Sandid, M.S., Baddour, L.M., Roberts, G.D., and Walker, R.C. (2007). Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore) 86, 162-169.
+PMID:17505255(PubMed abstract)
 Knox, K.S., and Hage, C.A. (2010). Histoplasmosis. Proc Am Thorac Soc 7, 169-172.
-PMID:20463244 ( PubMed abstract )
+PMID:20463244(PubMed abstract)
 McLeod, D.S., Mortimer, R.H., Perry-Keene, D.A., Allworth, A., Woods, M.L., Perry-Keene, J., McBride, W.J., Coulter, C., and Robson, J.M. (2011). Histoplasmosis in Australia: report of 16 cases and literature review. Medicine (Baltimore) 90, 61-68.
-PMID:21200187 ( PubMed abstract )
+PMID:21200187(PubMed abstract)

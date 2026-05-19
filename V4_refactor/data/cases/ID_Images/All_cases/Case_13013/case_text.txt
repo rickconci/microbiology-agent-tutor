@@ -10,19 +10,19 @@ She was widow who lived with her boyfriend until a few weeks before admission, w
 Epidemiological History
 She had had multiple sexual partners in her lifetime. She lived in a rural area in Louisiana and had one dog. She had no significant travel history, and had not been outside of the United States. She enjoyed gardening and frequently worked in her yard.
 Physical Examination
-The patient appeared chronically ill. The blood pressure was 125/41 mm Hg, pulse 102 beats per minute, temperature 98.1ºF (36.1ºC), and respirations 20 breaths per minute. The lungs were clear and there was tenderness to palpation in both right and left upper quadrants of her abdomen. Examination of the skin revealed a petechial rash with some linear features on her abdomen ( Figure 1 ), a diffuse papular rash on both legs ( Figure 2 ) and back, and several lesions on her sacrum that resembled denuded bullae had surrounding erythema and were exquisitely tender ( Figure 3 ).
+The patient appeared chronically ill. The blood pressure was 125/41 mm Hg, pulse 102 beats per minute, temperature 98.1ºF (36.1ºC), and respirations 20 breaths per minute. The lungs were clear and there was tenderness to palpation in both right and left upper quadrants of her abdomen. Examination of the skin revealed a petechial rash with some linear features on her abdomen (Figure 1), a diffuse papular rash on both legs (Figure 2) and back, and several lesions on her sacrum that resembled denuded bullae had surrounding erythema and were exquisitely tender (Figure 3).
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Figure 3. Physical findings.
 Studies
-Laboratory values on admission revealed a white blood cell count of 5800 cells per cubic millimeter/L (with 8% eosinophils (reference range 0-7%)), hemoglobin 7.7 g/dL (reference range 12-16 g/dL) and mean corpuscular volume (MCV) 79 fL. Human immunodeficiency virus (HIV) antibody testing was positive and the absolute CD4 T-lymphocyte cell count was 6 cells per cubic millimeter. A chest radiograph was negative.
+Laboratory values on admission revealed a white blood cell count of 5800 cells per cubic millimeter/L (with 8% eosinophils (reference range 0-7%)), hemoglobin 7.7 g/dL (reference range 12-16 g/dL) and mean corpuscular volume (MCV) 79 fL. Human immunodeficiency virus (HIV) antibody testing was positive and the absolute CD4 T-lymphocyte cell count was 6 cells per cubic millimeter. A chest radiograph was negative. Figure 4. Examination of a stool specimen.
 Figure 4. Examination of a stool specimen.
 Clinical Course Prior to Diagnosis
 The patient was admitted to the hospital and crystalloid and blood products were administered. Initial evaluation for weight loss, change in bowel habits, and anemia included esophagogastroduodenoscopy (EGD), colonoscopy, and stool studies.
-Examination of the stool is shown ( Figure 4 ).
+Examination of the stool is shown (Figure 4).
 Diagnostic Procedure(s) and Result(s)
 Pathologic review of the stool revealed Strongyloides stercolis. EGD revealed a small antral ulcer and colonoscopy was significant for pan-colitis.
-With the patient’s respiratory symptoms and immunocompromised state, there was concern for dissemination of the S. stercolis and hyperinfection syndrome. Computed tomography (CT) of the chest showed alveolar infiltrates. Bronchoscopic examination with bronchial alveolar lavage revealed diffuse alveolar hemorrhage and an abundance of S. stercolis on pathologic examination ( Figure 5 ).
+With the patient’s respiratory symptoms and immunocompromised state, there was concern for dissemination of the S. stercolis and hyperinfection syndrome. Computed tomography (CT) of the chest showed alveolar infiltrates. Bronchoscopic examination with bronchial alveolar lavage revealed diffuse alveolar hemorrhage and an abundance of S. stercolis on pathologic examination (Figure 5).
 Figure 5. Examination of a sputum specimen.
 Treatment and Followup
 The patient was initially treated with ivermectin alone but due to persistently positive stools, albendazole was added. Stool examination became negative on the ninth day of treatment. Antiretroviral therapy for her HIV was not started as an inpatient due to concerns of immune reconstitution inflammatory syndrome.
@@ -33,6 +33,8 @@ Strongyloides is unique amongst helminths in its ability to complete its lifecyc
 Final Diagnosis
 Strongyloides stercolis hyperinfection syndrome in a patient with newly-diagnosed HIV infection and AIDS.
 References
+Centers for Disease Control and Prevention. Parasites-Strongyloides. Retrieved from http://www.cdc.gov/parasites/strongyloides/. March 2013. Crocker C, Reporter R, Redelings M, Mascola L. Strongylodiasis-related deaths in the United States, 1991–2006. Am J Trop Med Hyg. 2010;83:422–426.http://www.ncbi.nlm.nih.gov/
+PMID:20682893(PubMed abstract)
 Centers for Disease Control and Prevention. Parasites-Strongyloides. Retrieved from http://www.cdc.gov/parasites/strongyloides/. March 2013.
 Crocker C, Reporter R, Redelings M, Mascola L. Strongylodiasis-related deaths in the United States, 1991–2006. Am J Trop Med Hyg. 2010;83:422–426.http://www.ncbi.nlm.nih.gov/
-PMID:20682893 ( PubMed abstract )
+PMID:20682893(PubMed abstract)

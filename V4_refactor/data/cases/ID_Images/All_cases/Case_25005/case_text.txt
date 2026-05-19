@@ -9,11 +9,12 @@ No recent travel or animal exposures. She had a recent dental cleaning.
 Physical Examination
 The patient appeared well. Vital signs: T 37°C (range 35.2–36.4°C), HR 80 bpm, RR 19, BP 132/82 mmHg, SpO2 97% on room air. The right upper extremity exam revealed edema and erythema from distal phalanges to distal forearm. A 1.5 cm (about 0.59 in) open wound was noted over the radial dorsal hand draining purulent fluid. Tenderness was noted at the distal radius. No motor, sensory or perfusion deficits were noted. The left upper extremity exam revealed mild edema from distal phalanges to wrist, tenderness at distal radius. No motor, sensory or perfusion deficits were noted.
 Studies
-WBC : 12.5 x 10^9/L (reference: 3.5–10.5 x10^9/L) with neutrophilia, eosinopenia, and lymphopenia.
-Hgb : 12.3 g/dL (reference: 12-15.5 g/dL)
-Platelets : 277 x 10^9/L (reference: 150–450 x10^9/L)
-ESR : 42 mm/hr (reference 0-30 mm/hr)
-CRP : 8.1 mg/dL (reference < 1 mg/dl)
+WBC: 12.5 x 10^9/L (reference: 3.5–10.5 x10^9/L) with neutrophilia, eosinopenia, and lymphopenia. Hgb: 12.3 g/dL (reference: 12-15.5 g/dL) Platelets: 277 x 10^9/L (reference: 150–450 x10^9/L) ESR: 42 mm/hr (reference 0-30 mm/hr) CRP: 8.1 mg/dL (reference < 1 mg/dl) HIV and Hepatitis C screening: Negative Blood cultures drawn prior to antimicrobial initiation: negative Transthoracic echocardiography (TTE) showed no evidence of valvular vegetations or infective endocarditis.
+WBC: 12.5 x 10^9/L (reference: 3.5–10.5 x10^9/L) with neutrophilia, eosinopenia, and lymphopenia.
+Hgb: 12.3 g/dL (reference: 12-15.5 g/dL)
+Platelets: 277 x 10^9/L (reference: 150–450 x10^9/L)
+ESR: 42 mm/hr (reference 0-30 mm/hr)
+CRP: 8.1 mg/dL (reference < 1 mg/dl)
 HIV and Hepatitis C screening: Negative
 Blood cultures drawn prior to antimicrobial initiation: negative
 Transthoracic echocardiography (TTE) showed no evidence of valvular vegetations or infective endocarditis.
@@ -56,17 +57,25 @@ Final Diagnosis
 Scedosporium boydii septic arthritis and osteomyelitis of the bilateral wrists in an immunocompromised host
 References
 Ross JJ. Septic Arthritis of Native Joints. Infect Dis Clin North Am. 2017 Jun;31(2):203-218. doi: 10.1016/j.idc.2017.01.001. Epub 2017 Mar 30. PMID: 28366221.
-PMID:28366221 ( PubMed abstract )
+PMID:28366221(PubMed abstract) Lackner M, de Hoog GS, Verweij PE, Najafzadeh MJ, Curfs-Breuker I, Klaassen CH, Meis JF. Species-specific antifungal susceptibility patterns of Scedosporium and Pseudallescheria species. Antimicrob Agents Chemother. 2012 May;56(5):2635-42. doi: 10.1128/AAC.05910-11. Epub 2012 Jan 30. PMID: 22290955; PMCID: PMC3346635.
+PMID:22290955(PubMed abstract) Troke P, Aguirrebengoa K, Arteaga C, Ellis D, Heath CH, Lutsar I, Rovira M, Nguyen Q, Slavin M, Chen SC; Global Scedosporium Study Group. Treatment of scedosporiosis with voriconazole: clinical experience with 107 patients. Antimicrob Agents Chemother. 2008 May;52(5):1743-50. doi: 10.1128/AAC.01388-07. Epub 2008 Jan 22. PMID: 18212110; PMCID: PMC2346616.
+PMID:18212110(PubMed abstract) Stephany Febles Leyva, Miriam Sierra Yuste, Nuria Bujaldón Querejeta, Carlos De La Pinta Zazo, Ana Belso Candela, Philip Wikman-Jorgensen, A difficult-to-treat septic arthritis by Scedosporium apiospermum successfully treated with olorofim, Journal of Antimicrobial Chemotherapy, Volume 79, Issue 12, December 2024, Pages 3358–3359 Seyedmousavi S, Chang YC, Youn JH, Law D, Birch M, Rex JH, Kwon-Chung KJ. In Vivo Efficacy of Olorofim against Systemic Scedosporiosis and Lomentosporiosis. Antimicrob Agents Chemother. 2021 Sep 17;65(10):e0043421. doi: 10.1128/AAC.00434-21. Epub 2021 Jul 12. PMID: 34252298; PMCID: PMC8448127.
+PMID:34252298(PubMed abstract) Feuss A, Bougnoux ME, Dannaoui E. The Role of Olorofim in the Treatment of Filamentous Fungal Infections: A Review of In Vitro and In Vivo Studies. J Fungi (Basel). 2024 May 10;10(5):345. doi: 10.3390/jof10050345. PMID: 38786700; PMCID: PMC11121921.
+PMID:38786700(PubMed abstract) Wagner K, Springer B, Pires VP, Keller PM. Molecular detection of fungal pathogens in clinical specimens by 18S rDNA high-throughput screening in comparison to ITS PCR and culture. Sci Rep. 2018 May 3;8(1):6964. doi: 10.1038/s41598-018-25129-w. PMID: 29725065; PMCID: PMC5934447.
+PMID:29725065(PubMed abstract) Osmon DR, Berbari EF, Berendt AR, Lew D, Zimmerli W, Steckelberg JM, Rao N, Hanssen A, Wilson WR; Infectious Diseases Society of America. Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2013 Jan;56(1):e1-e25. doi: 10.1093/cid/cis803. Epub 2012 Dec 6. PMID: 23223583.
+PMID:23223583(PubMed abstract)
+Ross JJ. Septic Arthritis of Native Joints. Infect Dis Clin North Am. 2017 Jun;31(2):203-218. doi: 10.1016/j.idc.2017.01.001. Epub 2017 Mar 30. PMID: 28366221.
+PMID:28366221(PubMed abstract)
 Lackner M, de Hoog GS, Verweij PE, Najafzadeh MJ, Curfs-Breuker I, Klaassen CH, Meis JF. Species-specific antifungal susceptibility patterns of Scedosporium and Pseudallescheria species. Antimicrob Agents Chemother. 2012 May;56(5):2635-42. doi: 10.1128/AAC.05910-11. Epub 2012 Jan 30. PMID: 22290955; PMCID: PMC3346635.
-PMID:22290955 ( PubMed abstract )
+PMID:22290955(PubMed abstract)
 Troke P, Aguirrebengoa K, Arteaga C, Ellis D, Heath CH, Lutsar I, Rovira M, Nguyen Q, Slavin M, Chen SC; Global Scedosporium Study Group. Treatment of scedosporiosis with voriconazole: clinical experience with 107 patients. Antimicrob Agents Chemother. 2008 May;52(5):1743-50. doi: 10.1128/AAC.01388-07. Epub 2008 Jan 22. PMID: 18212110; PMCID: PMC2346616.
-PMID:18212110 ( PubMed abstract )
+PMID:18212110(PubMed abstract)
 Stephany Febles Leyva, Miriam Sierra Yuste, Nuria Bujaldón Querejeta, Carlos De La Pinta Zazo, Ana Belso Candela, Philip Wikman-Jorgensen, A difficult-to-treat septic arthritis by Scedosporium apiospermum successfully treated with olorofim, Journal of Antimicrobial Chemotherapy, Volume 79, Issue 12, December 2024, Pages 3358–3359
 Seyedmousavi S, Chang YC, Youn JH, Law D, Birch M, Rex JH, Kwon-Chung KJ. In Vivo Efficacy of Olorofim against Systemic Scedosporiosis and Lomentosporiosis. Antimicrob Agents Chemother. 2021 Sep 17;65(10):e0043421. doi: 10.1128/AAC.00434-21. Epub 2021 Jul 12. PMID: 34252298; PMCID: PMC8448127.
-PMID:34252298 ( PubMed abstract )
+PMID:34252298(PubMed abstract)
 Feuss A, Bougnoux ME, Dannaoui E. The Role of Olorofim in the Treatment of Filamentous Fungal Infections: A Review of In Vitro and In Vivo Studies. J Fungi (Basel). 2024 May 10;10(5):345. doi: 10.3390/jof10050345. PMID: 38786700; PMCID: PMC11121921.
-PMID:38786700 ( PubMed abstract )
+PMID:38786700(PubMed abstract)
 Wagner K, Springer B, Pires VP, Keller PM. Molecular detection of fungal pathogens in clinical specimens by 18S rDNA high-throughput screening in comparison to ITS PCR and culture. Sci Rep. 2018 May 3;8(1):6964. doi: 10.1038/s41598-018-25129-w. PMID: 29725065; PMCID: PMC5934447.
-PMID:29725065 ( PubMed abstract )
+PMID:29725065(PubMed abstract)
 Osmon DR, Berbari EF, Berendt AR, Lew D, Zimmerli W, Steckelberg JM, Rao N, Hanssen A, Wilson WR; Infectious Diseases Society of America. Diagnosis and management of prosthetic joint infection: clinical practice guidelines by the Infectious Diseases Society of America. Clin Infect Dis. 2013 Jan;56(1):e1-e25. doi: 10.1093/cid/cis803. Epub 2012 Dec 6. PMID: 23223583.
-PMID:23223583 ( PubMed abstract )
+PMID:23223583(PubMed abstract)

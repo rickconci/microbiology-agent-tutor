@@ -13,20 +13,25 @@ He was married and had children.
 Epidemiological History
 He smoked one-half pack cigarettes per day, occasionally drank alcohol, worked in construction and occasionally harvested crops. He owned a dog, cats and chickens.
 Physical Examination
-His temperature was 37.2°C (99°F), pulse 68 beats per minute, respirations 14 per minute, blood pressure 120/75 mm Hg. He was a well-appearing, robust male. His examination was normal except for the skin of his right extremity. (See Figure 1 .)
+His temperature was 37.2°C (99°F), pulse 68 beats per minute, respirations 14 per minute, blood pressure 120/75 mm Hg. He was a well-appearing, robust male. His examination was normal except for the skin of his right extremity. (See Figure 1.)
 Figure 1. Right arm and hand lesions.
 Studies
 Complete blood count (CBC) and electrolytes were within normal limits. A Gram stain of the exudate was non-diagnostic. The exudative fluid was sent for bacterial culture, fungal culture and Giemsa staining.
 Diagnostic Procedure(s) and Result(s)
-Giemsa staining was negative for evidence of Leishmania and acid-fast and modified acid-fast stains were also negative. Bacterial and mycobacterium cultures were negative. Fungal culture grew filamentous colonies with a dark brown appearance. Microscopy of the colonies demonstrated hyphal forms consistent with Sporothrix schenckii .
+Giemsa staining was negative for evidence of Leishmania and acid-fast and modified acid-fast stains were also negative. Bacterial and mycobacterium cultures were negative. Fungal culture grew filamentous colonies with a dark brown appearance. Microscopy of the colonies demonstrated hyphal forms consistent with Sporothrix schenckii.
 Treatment and Followup
-Sporotrichosis classically presents with an erythematous nodule that or ulcer, followed by development of multiple subcutaneous nodules that spread along the course of regional lymphatics. This pattern of nodular lymphangitis may also be seen with non-tuberculous mycobacterial infections (particularly Mycobacterium marinum ), nocardiosis and cutaneous leishmaniasis. Rarely, botryomycosis, staphylococcal lymphangitis and tularemia present as a nodular lymphangitis. A skin biopsy and culture is critical in distinguishing among these different etiologies of nodular lymphangitis.
+Sporotrichosis classically presents with an erythematous nodule that or ulcer, followed by development of multiple subcutaneous nodules that spread along the course of regional lymphatics. This pattern of nodular lymphangitis may also be seen with non-tuberculous mycobacterial infections (particularly Mycobacterium marinum), nocardiosis and cutaneous leishmaniasis. Rarely, botryomycosis, staphylococcal lymphangitis and tularemia present as a nodular lymphangitis. A skin biopsy and culture is critical in distinguishing among these different etiologies of nodular lymphangitis.
 Discussion
 Cutaneous sporotrichosis, with cultures consistent with Sporothrix schenckii.
+Final Diagnosis
 References
 da Rosa, A.C., Scroferneker, M.L., Vettorato, R., Gervini, R.L., Vettorato, G., and Weber, A. (2005). Epidemiology of sporotrichosis: a study of 304 cases in Brazil. J Am Acad Dermatol 52, 451-459.
-PMID:15761423 ( PubMed abstract )
+PMID:15761423(PubMed abstract) Schechtman, R.C. (2010). Sporotrichosis: Part I. Skinmed 8, 216-220; quiz 221.
+PMID:21137607(PubMed abstract) Schechtman, R.C. (2010). Sporotrichosis: Part II. Skinmed 8, 275-280.
+PMID:21137636(PubMed abstract)
+da Rosa, A.C., Scroferneker, M.L., Vettorato, R., Gervini, R.L., Vettorato, G., and Weber, A. (2005). Epidemiology of sporotrichosis: a study of 304 cases in Brazil. J Am Acad Dermatol 52, 451-459.
+PMID:15761423(PubMed abstract)
 Schechtman, R.C. (2010). Sporotrichosis: Part I. Skinmed 8, 216-220; quiz 221.
-PMID:21137607 ( PubMed abstract )
+PMID:21137607(PubMed abstract)
 Schechtman, R.C. (2010). Sporotrichosis: Part II. Skinmed 8, 275-280.
-PMID:21137636 ( PubMed abstract )
+PMID:21137636(PubMed abstract)

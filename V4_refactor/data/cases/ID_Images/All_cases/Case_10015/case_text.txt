@@ -13,7 +13,7 @@ Studies
 The white blood cell count was 19,000 per cubic millimeter with 90% neutrophils. The basic metabolic panel was normal. Urinalysis was negative for white cells, leukocyte esterase and nitrites. A urine pregnancy test was also negative. Computed tomography (CT) of the abdomen revealed an enlarged appendix with hyperemic mucosa, with surrounding periappendiceal inflammatory stranding, that was thought to be consistent with acute appendicitis. A calcified mesenteric lymph node was also noted.
 Clinical Course Prior to Diagnosis
 The patient was taken to the operating room for a laparoscopic appendectomy. Intra-operative findings included acute appendicitis, bilaterally enlarged fallopian tubes (left greater than right), adhesions from the omentum to the anterior abdominal wall, adhesions from the anterior surface of the liver to the anterior abdominal wall and yellow plaques on the liver surface. The Gynecology service was consulted to perform an intra-operative examination, which revealed a dilated, hyperemic appearance of the fallopian tubes, with fluid within the tubes appearing slightly purulent. Pelvic examination revealed copious yellow vaginal discharge, a nulliparous cervix, and a fimbriated hymen with no evidence of trauma. Cervical specimens were sent for Neisseria gonorrhoeae and Chlamydia nucleic acid amplification tests (NAAT) and cultures.
-An endometrial curettage and biopsy were performed. Pathological examination of the tissue is shown ( Figures 1 and 2 ).
+An endometrial curettage and biopsy were performed. Pathological examination of the tissue is shown (Figures 1 and 2).
 Figure 1. Endometrial biopsy, hematoxylin and eosin stain (600 x magnification).
 Figure 2. Endometrial biopsy with acid-fast stain (1000 x magnification).
 Diagnostic Procedure(s) and Result(s)
@@ -31,21 +31,30 @@ Tuberculosis caused by M. bovis and tuberculosis caused by M. tuberculosis canno
 While abdominal tuberculosis caused by M. bovis is a well-described extrapulmonary manifestation of infection, cases of pelvic tuberculosis due to M. bovis may be missed because of lack of laboratory resources for speciation. Pelvic tuberculosis is an important cause of infertility in the developing world because it causes tubal blockage, peritubal, pelvic and abdominal adhesions and atrophy of the endometrium. The prognosis for fertility is reported to be poor in women with genital tuberculosis due to intrauterine adhesions and blockage of fallopian tubes (Sharma et al. 2009, Sharma et al. 2008, Varma 1991).
 A careful exposure history, including inquiry about the consumption of unpasteurized milk products, eventually led to the ultimate diagnosis. Rapid identification of M. bovis was essential given its intrinsic resistance to pyrazinamide so that therapy could be tailored appropriately.
 Final Diagnosis
-Abdominal and pelvic infection caused by Mycobacterium bovis .
+Abdominal and pelvic infection caused by Mycobacterium bovis.
 References
 American Thoracic Society; Centers for Disease Control and Prevention (CDC); Infectious Diseases Society of America. (2003). Treatment of tuberculosis. MMWR Recomm Rep 52, 1-77.
-PMID:12836625 ( PubMed abstract )
+PMID:12836625(PubMed abstract) Centers for Disease Control and Prevention (CDC). (2005). Human tuberculosis caused by Mycobacterium bovis--New York City, 2001-2004. MMWR Morb Mortal Wkly Rep 54, 605-608.
+PMID:15973241(PubMed abstract) Cosivi, O., Grange, J.M., Daborn, C.J., Raviglione, M.C., Fujikura, T., Cousins, D., Robinson, R.A., Huchzermeyer, H.F., de Kantor, I., and Meslin, F.X. (1998). Zoonotic tuberculosis due to Mycobacterium bovis in developing countries. Emerg Infect Dis 4, 59-70.
+PMID:9452399(PubMed abstract) Ernst, J.D., Trevejo-Nunez, G., and Banaiee, N. (2007). Genomics and the evolution, pathogenesis, and diagnosis of tuberculosis. J Clin Invest 117, 1738-1745.
+PMID:17607348(PubMed abstract) Hlavsa, M.C., Moonan, P.K., Cowan, L.S., Navin, T.R., Kammerer, J.S., Morlock, G.P., Crawford, J.T., and Lobue, P.A. (2008). Human tuberculosis due to Mycobacterium bovis in the United States, 1995-2005. Clin Infect Dis 47, 168-175.
+PMID:18532886(PubMed abstract) Sharma, J.B., Roy, K.K., Pushparaj, M., and Kumar, S. (2009). Hysteroscopic findings in women with primary and secondary infertility due to genital tuberculosis. Int J Gynaecol Obstet 104, 49-52.
+PMID:19022439(PubMed abstract) Sharma, J.B., Roy, K.K., Pushparaj, M., Kumar, S., Malhotra, N., and Mittal, S. (2008). Laparoscopic findings in female genital tuberculosis. Arch Gynecol Obstet 278, 359-364.
+PMID:18273629(PubMed abstract) Varma, T.R. (1991). Genital tuberculosis and subsequent fertility. Int J Gynaecol Obstet 35, 1-11.
+PMID:1680069(PubMed abstract)
+American Thoracic Society; Centers for Disease Control and Prevention (CDC); Infectious Diseases Society of America. (2003). Treatment of tuberculosis. MMWR Recomm Rep 52, 1-77.
+PMID:12836625(PubMed abstract)
 Centers for Disease Control and Prevention (CDC). (2005). Human tuberculosis caused by Mycobacterium bovis--New York City, 2001-2004. MMWR Morb Mortal Wkly Rep 54, 605-608.
-PMID:15973241 ( PubMed abstract )
+PMID:15973241(PubMed abstract)
 Cosivi, O., Grange, J.M., Daborn, C.J., Raviglione, M.C., Fujikura, T., Cousins, D., Robinson, R.A., Huchzermeyer, H.F., de Kantor, I., and Meslin, F.X. (1998). Zoonotic tuberculosis due to Mycobacterium bovis in developing countries. Emerg Infect Dis 4, 59-70.
-PMID:9452399 ( PubMed abstract )
+PMID:9452399(PubMed abstract)
 Ernst, J.D., Trevejo-Nunez, G., and Banaiee, N. (2007). Genomics and the evolution, pathogenesis, and diagnosis of tuberculosis. J Clin Invest 117, 1738-1745.
-PMID:17607348 ( PubMed abstract )
+PMID:17607348(PubMed abstract)
 Hlavsa, M.C., Moonan, P.K., Cowan, L.S., Navin, T.R., Kammerer, J.S., Morlock, G.P., Crawford, J.T., and Lobue, P.A. (2008). Human tuberculosis due to Mycobacterium bovis in the United States, 1995-2005. Clin Infect Dis 47, 168-175.
-PMID:18532886 ( PubMed abstract )
+PMID:18532886(PubMed abstract)
 Sharma, J.B., Roy, K.K., Pushparaj, M., and Kumar, S. (2009). Hysteroscopic findings in women with primary and secondary infertility due to genital tuberculosis. Int J Gynaecol Obstet 104, 49-52.
-PMID:19022439 ( PubMed abstract )
+PMID:19022439(PubMed abstract)
 Sharma, J.B., Roy, K.K., Pushparaj, M., Kumar, S., Malhotra, N., and Mittal, S. (2008). Laparoscopic findings in female genital tuberculosis. Arch Gynecol Obstet 278, 359-364.
-PMID:18273629 ( PubMed abstract )
+PMID:18273629(PubMed abstract)
 Varma, T.R. (1991). Genital tuberculosis and subsequent fertility. Int J Gynaecol Obstet 35, 1-11.
-PMID:1680069 ( PubMed abstract )
+PMID:1680069(PubMed abstract)

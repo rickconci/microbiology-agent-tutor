@@ -13,40 +13,58 @@ White blood cell count 9.6 (Eosinophil 3.3 (34%)). Hemoglobin 11.9. Platelets 39
 Diagnostic Procedure(s) and Result(s)
 Negative studies: HIV screening, histoplasma urine antigen, serum aspergillus galactomannan, coccidioides antibodies, schistosomiasis antibody, strongyloides antibody, ANA, ANCA, stool ova and parasites, AFB blood culture, fungal blood culture, midnight blood smear for microfilariae. Positive studies: TB quantiferon, TB growth from sputum at 13 days (smear and PCR negative), TB growth from repeat peritoneal biopsy at 16 days. The TB isolate was pan-susceptible to rifampin, isoniazid, pyrazinamide, ethambutol (RIPE) regimen. BAL aspergillus galactomannan 4.15 (normal <0.5).
 Figure 1. Fig 1. Initial abdominal CT. A large heterogeneously enhancing centrally cystic irregular 7.1 x 6.4 x 6.4 cm soft tissue mass is seen in the rectouterine space, just right of midline. Extensive peritoneal nodularity and omental caking, with large ill-defined soft tissue mass is seen all around the liver, especially in the porta hepatis. Retroperitoneal and bilateral anterior cardiophrenic lymphadenopathy. Multiple liver lesions are also identified. Small right pleural effusion. Mild ascites.
+Fig 1. Initial abdominal CT. A large heterogeneously enhancing centrally cystic irregular 7.1 x 6.4 x 6.4 cm soft tissue mass is seen in the rectouterine space, just right of midline. Extensive peritoneal nodularity and omental caking, with large ill-defined soft tissue mass is seen all around the liver, especially in the porta hepatis. Retroperitoneal and bilateral anterior cardiophrenic lymphadenopathy. Multiple liver lesions are also identified. Small right pleural effusion. Mild ascites.
 Figure 2. Fig 2. Initial chest CT. Patchy bilateral upper lobe centrilobular nodules, concerning for active endobronchial tuberculosis or, less likely, atypical mycobacterial infection or endobronchial bacterial pneumonia. Small right pleural effusion and small pericardial effusion. Indeterminate anterior mediastinal lymphadenopathy, peritoneal nodularity, hypodense hepatic lesions.
+Fig 2. Initial chest CT. Patchy bilateral upper lobe centrilobular nodules, concerning for active endobronchial tuberculosis or, less likely, atypical mycobacterial infection or endobronchial bacterial pneumonia. Small right pleural effusion and small pericardial effusion. Indeterminate anterior mediastinal lymphadenopathy, peritoneal nodularity, hypodense hepatic lesions.
 Treatment and Followup
 The patient finished 6 months of RIPE, then was switched to INH/RIF standard treatment, which she tolerated well. She gained 20 lbs and both CA-125 elevation and eosinophilia resolved. Subsequent CT of chest, abdomen and pelvis showed much decreased size of pulmonary, perihepatic, abdominal and pelvic masses.
 Figure 3. Fig 3. CT chest, abdomen, and pelvis after treatment. Interval decrease in the size of cavitary right upper lobe nodule and the extent of the bilateral upper lobe predominant centrilobular nodules, multiple hypoattenuating hepatic lesions, and soft tissue mass surrounding the falciform ligament, porta hepatis, and right perihepatic space.
+Fig 3. CT chest, abdomen, and pelvis after treatment. Interval decrease in the size of cavitary right upper lobe nodule and the extent of the bilateral upper lobe predominant centrilobular nodules, multiple hypoattenuating hepatic lesions, and soft tissue mass surrounding the falciform ligament, porta hepatis, and right perihepatic space.
 Discussion
 Before the final diagnosis, we considered tuberculosis, coccidioidomycosis, and lymphatic filariasis for her syndrome of infection with eosinophilia [1-7]. These are based on her epidemiological risk factors. We also considered non-infectious causes, such as autoimmune diseases, but the ANA and ANCA were negative and the patient did not have other symptoms associated with autoimmune disorders. We then discussed that TB can be associated with peripheral eosinophilia, although not as common as infections with helminth or fungi [2, 3]. The patient did spend some time in Southern and Western states. Coccidioidomycosis can be associated with peripheral eosinophilia [1], but peritoneal infection is very rare [4, 5], and most patients were reported with positive antibody by immunodiffusion. We were surprised to see the positive BAL aspergillus galactomannan, as the patient’s presentation was not consistent with aspergillus infection. After literature review, we found that histoplasmosis (present in the Pacific Islands but the true burden is unknown) can cross react with aspergillus galactomannan test and yield false positive results [8-10]. Pelvic histoplasmosis is rare in immunocompetent patients, but has been reported [11]. We excluded the possibility of disseminated histoplasmosis based on a strong alternative diagnosis, negative urine histoplasma antigen, and response to anti-TB treatment. Finally, very rarely lymphatic filariasis (endemic in the Philippines) can cause tropical pulmonary eosinophilia, lung lesions, and pelvic lesions [6, 7]. However, the patient had not returned to the Philippines for more than 10 years. It was thought unlikely to sustain a parasitic life cycle, and that the extent of the disease was difficult to be explained by filariasis. We then discussed the nonspecific association between CA-125 elevation and ovarian cancer, given that the patient was initially referred to a gynecologic oncologist [12, 13]. It is also interesting that one study reported potential clinical utility of CA-125 in monitoring treatment effect of pulmonary TB, especially in females, and those with more significant pulmonary involvement [14].
 Final Diagnosis
 Disseminated TB with pulmonary, hepatic, and peritoneal involvement
 References
 O'Connell EM, Nutman TB: Eosinophilia in Infectious Diseases. Immunol Allergy Clin North Am 2015, 35(3):493-522.
-PMID:26209897 ( PubMed abstract )
+PMID:26209897(PubMed abstract) Prakash Babu S, Narasimhan PB, Babu S: Eosinophil Polymorphonuclear Leukocytes in TB: What We Know so Far. Front Immunol 2019, 10:2639.
+PMID:31798582(PubMed abstract) Flores M, Merino-Angulo J, Tanago JG, Aquirre C: Late generalized tuberculosis and eosinophilia. Arch Intern Med 1983, 143(1):182.
+PMID:6849600(PubMed abstract) Phillips P, Ford B: Peritoneal coccidioidomycosis: case report and review. Clin Infect Dis 2000, 30(6):971-976.
+PMID:10880320(PubMed abstract) Smith G, Hoover S, Sobonya R, Klotz SA: Abdominal and pelvic coccidioidomycosis. Am J Med Sci 2011, 341(4):308-311.
+PMID:21289507(PubMed abstract) Ray S, Kundu S, Goswami M, Maitra S: Tropical pulmonary eosinophilia misdiagnosed as miliary tuberculosis: a case report and literature review. Parasitol Int 2012, 61(2):381-384.
+PMID:22172479(PubMed abstract) Datta MR, Ghosh MD, Kumari V, Narayan R: Mosquito Bite and Adnexal Mass: The Unusual Diagnosis of Ovarian Filariasis. Cureus 2021, 13(7):e16772.
+PMID:34354895(PubMed abstract) Baker J, Setianingrum F, Wahyuningsih R, Denning DW: Mapping histoplasmosis in South East Asia - implications for diagnosis in AIDS. Emerg Microbes Infect 2019, 8(1):1139-1145.
+PMID:31364950(PubMed abstract) Bulmer AC, Bulmer GS: Incidence of histoplasmin hypersensitivity in the Philippines. Mycopathologia 2001, 149(2):69-71.
+PMID:11265164(PubMed abstract) Min Z, Baddley JW, Rodriguez JM, Moser SA, Patel M: Cross-reactivity of Aspergillus galactomannan in an HIV-infected patient with histoplasmosis. Med Mycol Case Rep 2012, 1(1):119-122.
+PMID:24371756(PubMed abstract) Rimtepathip PP, Erickson A, Katner H, Bakri Y: Disseminated histoplasmosis presenting as pelvic inflammatory disease. Clin Case Rep 2016, 4(1):76-80.
+PMID:26783441(PubMed abstract) Miralles C, Orea M, Espana P, Provencio M, Sanchez A, Cantos B, Cubedo R, Carcereny E, Bonilla F, Gea T: Cancer antigen 125 associated with multiple benign and malignant pathologies. Ann Surg Oncol 2003, 10(2):150-154.
+PMID:12620910(PubMed abstract) Moss EL, Hollingworth J, Reynolds TM: The role of CA125 in clinical practice. J Clin Pathol 2005, 58(3):308-312.
+PMID:15735166(PubMed abstract) Kim ES, Park KU, Song J, Lim HJ, Cho YJ, Yoon H, Lee J, Lee CT, Park JS: The clinical significance of CA-125 in pulmonary tuberculosis. Tuberculosis (Edinb) 2013, 93(2):222-226.
+PMID:23414674(PubMed abstract)
+O'Connell EM, Nutman TB: Eosinophilia in Infectious Diseases. Immunol Allergy Clin North Am 2015, 35(3):493-522.
+PMID:26209897(PubMed abstract)
 Prakash Babu S, Narasimhan PB, Babu S: Eosinophil Polymorphonuclear Leukocytes in TB: What We Know so Far. Front Immunol 2019, 10:2639.
-PMID:31798582 ( PubMed abstract )
+PMID:31798582(PubMed abstract)
 Flores M, Merino-Angulo J, Tanago JG, Aquirre C: Late generalized tuberculosis and eosinophilia. Arch Intern Med 1983, 143(1):182.
-PMID:6849600 ( PubMed abstract )
+PMID:6849600(PubMed abstract)
 Phillips P, Ford B: Peritoneal coccidioidomycosis: case report and review. Clin Infect Dis 2000, 30(6):971-976.
-PMID:10880320 ( PubMed abstract )
+PMID:10880320(PubMed abstract)
 Smith G, Hoover S, Sobonya R, Klotz SA: Abdominal and pelvic coccidioidomycosis. Am J Med Sci 2011, 341(4):308-311.
-PMID:21289507 ( PubMed abstract )
+PMID:21289507(PubMed abstract)
 Ray S, Kundu S, Goswami M, Maitra S: Tropical pulmonary eosinophilia misdiagnosed as miliary tuberculosis: a case report and literature review. Parasitol Int 2012, 61(2):381-384.
-PMID:22172479 ( PubMed abstract )
+PMID:22172479(PubMed abstract)
 Datta MR, Ghosh MD, Kumari V, Narayan R: Mosquito Bite and Adnexal Mass: The Unusual Diagnosis of Ovarian Filariasis. Cureus 2021, 13(7):e16772.
-PMID:34354895 ( PubMed abstract )
+PMID:34354895(PubMed abstract)
 Baker J, Setianingrum F, Wahyuningsih R, Denning DW: Mapping histoplasmosis in South East Asia - implications for diagnosis in AIDS. Emerg Microbes Infect 2019, 8(1):1139-1145.
-PMID:31364950 ( PubMed abstract )
+PMID:31364950(PubMed abstract)
 Bulmer AC, Bulmer GS: Incidence of histoplasmin hypersensitivity in the Philippines. Mycopathologia 2001, 149(2):69-71.
-PMID:11265164 ( PubMed abstract )
+PMID:11265164(PubMed abstract)
 Min Z, Baddley JW, Rodriguez JM, Moser SA, Patel M: Cross-reactivity of Aspergillus galactomannan in an HIV-infected patient with histoplasmosis. Med Mycol Case Rep 2012, 1(1):119-122.
-PMID:24371756 ( PubMed abstract )
+PMID:24371756(PubMed abstract)
 Rimtepathip PP, Erickson A, Katner H, Bakri Y: Disseminated histoplasmosis presenting as pelvic inflammatory disease. Clin Case Rep 2016, 4(1):76-80.
-PMID:26783441 ( PubMed abstract )
+PMID:26783441(PubMed abstract)
 Miralles C, Orea M, Espana P, Provencio M, Sanchez A, Cantos B, Cubedo R, Carcereny E, Bonilla F, Gea T: Cancer antigen 125 associated with multiple benign and malignant pathologies. Ann Surg Oncol 2003, 10(2):150-154.
-PMID:12620910 ( PubMed abstract )
+PMID:12620910(PubMed abstract)
 Moss EL, Hollingworth J, Reynolds TM: The role of CA125 in clinical practice. J Clin Pathol 2005, 58(3):308-312.
-PMID:15735166 ( PubMed abstract )
+PMID:15735166(PubMed abstract)
 Kim ES, Park KU, Song J, Lim HJ, Cho YJ, Yoon H, Lee J, Lee CT, Park JS: The clinical significance of CA-125 in pulmonary tuberculosis. Tuberculosis (Edinb) 2013, 93(2):222-226.
-PMID:23414674 ( PubMed abstract )
+PMID:23414674(PubMed abstract)

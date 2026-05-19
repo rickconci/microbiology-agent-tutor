@@ -4,15 +4,15 @@ A man in his fifties with a history of non-Hodgkins lymphoma presented with faci
 Past Medical History
 He had non-Hodgkins lymphoma, for which chemotherapy was administered two weeks before presentation.
 Physical Examination
-The temperature was 99.5°F (37.5°C). There was left sided proptosis ( Figure 1 ) with pain and diplopia on upward gaze.
+The temperature was 99.5°F (37.5°C). There was left sided proptosis (Figure 1) with pain and diplopia on upward gaze.
 Figure 1. Physical finding.
 Studies
 The level of white blood cells (WBC) was 2,100 cells/mm³ and neutrophils 800 cells/mm³. Blood urea nitrogen, creatinine, and liver function tests were normal.
-Computed tomography (CT) of the head and the sinuses was performed. (See Figure 2 .)
+Computed tomography (CT) of the head and the sinuses was performed. (See Figure 2.)
 Figure 2. Head CT scan.
 Diagnostic Procedure(s) and Result(s)
-The CT scan shows complete opacification of the left maxillary sinus. There was erosion of the inferior orbital plate with the mass extending into the orbit below the inferior rectus muscle (arrow). (See Figure 3 .)
-A surgical debridement procedure was performed. Histologic examination of the resected specimen is shown. (See Figure 4 .) Histopathology showed fungal elements, which were identified as Aspergillus fumigatus , with extension into bone.
+The CT scan shows complete opacification of the left maxillary sinus. There was erosion of the inferior orbital plate with the mass extending into the orbit below the inferior rectus muscle (arrow). (See Figure 3.)
+A surgical debridement procedure was performed. Histologic examination of the resected specimen is shown. (See Figure 4.) Histopathology showed fungal elements, which were identified as Aspergillus fumigatus, with extension into bone.
 Figure 3. Head CT scan.
 Figure 4. Silver stain of debridement specimen.
 Treatment and Followup
@@ -23,6 +23,9 @@ Final Diagnosis
 Aspergillus fumigatus sinusitis in a patient with non-Hodgkins lymphoma.
 References
 Chen, C.Y., Sheng, W.H., Cheng, A., Chen, Y.C., Tsay, W., Tang, J.L., Huang, S.Y., Chang, S.C., and Tien, H.F. (2011). Invasive fungal sinusitis in patients with hematological malignancy: 15 years experience in a single university hospital in Taiwan. BMC Infect Dis 11, 250.
-PMID:21939544 ( PubMed abstract )
+PMID:21939544(PubMed abstract) Parikh, S.L., Venkatraman, G., and DelGaudio, J.M. (2004). Invasive fungal sinusitis: a 15-year review from a single institution. Am J Rhinol 18, 75-81.
+PMID:15152871(PubMed abstract)
+Chen, C.Y., Sheng, W.H., Cheng, A., Chen, Y.C., Tsay, W., Tang, J.L., Huang, S.Y., Chang, S.C., and Tien, H.F. (2011). Invasive fungal sinusitis in patients with hematological malignancy: 15 years experience in a single university hospital in Taiwan. BMC Infect Dis 11, 250.
+PMID:21939544(PubMed abstract)
 Parikh, S.L., Venkatraman, G., and DelGaudio, J.M. (2004). Invasive fungal sinusitis: a 15-year review from a single institution. Am J Rhinol 18, 75-81.
-PMID:15152871 ( PubMed abstract )
+PMID:15152871(PubMed abstract)

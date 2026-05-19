@@ -8,7 +8,7 @@ None.
 Epidemiological History
 The patient was born and lived in Brazil, and had worked for many years as an agricultural laborer in a rural area in the northeastern section of the country. He was in frequent contact with numerous types of domesticated animals, livestock and fresh water sources. He smoked tobacco regularly until his throat began to bother him and had previously consumed several alcoholic beverages per night.
 Physical Examination
-The patient's facial lesion is shown in Figure 1 . The remainder of the examination was normal.
+The patient's facial lesion is shown in Figure 1. The remainder of the examination was normal.
 Figure 1. Facial findings.
 Studies
 There were no laboratory tests available.
@@ -26,7 +26,10 @@ Final Diagnosis
 Paracoccidioidomycosis caused by the fungus Paracoccidioides spp in a man from Brazil.
 References
 Ameen M, Talhari C, Talhari S. (2010) Advances in paracoccidioidomycosis. Clin Exp Dermatol. 35(6):576-80.
-PMID:19874328 ( PubMed abstract )
+PMID:19874328(PubMed abstract) Brazão-Silva MT, Andrade MF, Franco T, Ribeiro RI, Silva Wdos S, Faria G, Faria PR, Cardoso SV, Loyola AM. (2011) Paracoccidioidomycosis: a series of 66 patients with oral lesions from an endemic area. Mycoses. 2011 Jul;54(4):e189-95. doi: 10.1111/j.1439-0507.2010.01873.x.
+PMID:20406390(PubMed abstract) Restrepo A and Tobon AM, Paracoccidioides brasilienses, in Principles and Practice of Infectious Diseases, J.E. Bennett, R. Dolin, and G.L. Mandell, Editor. 2005, Elsevier Churchill Livingstone: Philadelphia. p.3062 - 8.
+Ameen M, Talhari C, Talhari S. (2010) Advances in paracoccidioidomycosis. Clin Exp Dermatol. 35(6):576-80.
+PMID:19874328(PubMed abstract)
 Brazão-Silva MT, Andrade MF, Franco T, Ribeiro RI, Silva Wdos S, Faria G, Faria PR, Cardoso SV, Loyola AM. (2011) Paracoccidioidomycosis: a series of 66 patients with oral lesions from an endemic area. Mycoses. 2011 Jul;54(4):e189-95. doi: 10.1111/j.1439-0507.2010.01873.x.
-PMID:20406390 ( PubMed abstract )
+PMID:20406390(PubMed abstract)
 Restrepo A and Tobon AM, Paracoccidioides brasilienses, in Principles and Practice of Infectious Diseases, J.E. Bennett, R. Dolin, and G.L. Mandell, Editor. 2005, Elsevier Churchill Livingstone: Philadelphia. p.3062 - 8.

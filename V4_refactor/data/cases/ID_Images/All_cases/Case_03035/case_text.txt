@@ -10,7 +10,7 @@ She had no known allergies.
 Epidemiological History
 She lived in a rural area of Texas and owned several dogs. She did not smoke, reported no illicit drug or heavy alcohol use, and had not traveled outside of the state.
 Physical Examination
-The patient appeared well. The temperature was 38.8°C (101.8°F), pulse 110 beats per minute, blood pressure 85/60 mm Hg, and respirations 20 breaths per minute. The head and neck examination was normal. There were firm mobile non-tender masses in each breast. The lungs were clear. The heart rhythm was regular and there were no murmurs. There was no hepatosplenomegaly. There was acrocyanosis on the distal tips of all fingers ( Figures 1 and 2 ).
+The patient appeared well. The temperature was 38.8°C (101.8°F), pulse 110 beats per minute, blood pressure 85/60 mm Hg, and respirations 20 breaths per minute. The head and neck examination was normal. There were firm mobile non-tender masses in each breast. The lungs were clear. The heart rhythm was regular and there were no murmurs. There was no hepatosplenomegaly. There was acrocyanosis on the distal tips of all fingers (Figures 1 and 2).
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
@@ -28,3 +28,4 @@ Capnocytophaga is a fastidious, slow-growing, gram-negative, rod-shaped bacteriu
 Most of the cases of Capnocytophaga bacteremia occur in patients with hematologic malignancy and neutropenia. Infection may be associated with severe oropharyngeal mucositis or periodontal disease. Capnocytophaga bacteremia is usually an uncomplicated infection without serious organ involvement and has a good outcome after antibiotic therapy. Hemolytic uremic syndrome (HUS) has been rarely described with Capnocytophaga infection. To our knowledge, at the time of this publication, acrocyanosis secondary to vasculitis with HUS and Capnocytophaga has not been reported. The patient was thought to have contracted the bacteremia after her dog licked the injury caused by the turtle.
 Final Diagnosis
 Capnocytophaga bacteremia with hemolytic uremic syndrome (HUS).
+References

@@ -12,15 +12,15 @@ The patient had a 96 pack-year smoking history.
 Physical Examination
 He appeared well. The blood pressure was 120/81 mm Hg, pulse 111 beats per minute, respirations 24 breaths per minute, and temperature 98.1°F (36.7°C). Edema and proximal muscle weakness of legs were present bilaterally. The remainder of the examination was normal.
 Studies
-The white cell count was 5,600 cells/mm³ (48% bands, 40% neutrophils, 10% lymphocytes). Laboratory test results of a metabolic panel revealed a bicarbonate level of 20 mmol/L, and were otherwise normal. A radiograph of the chest revealed clear lungs ( Figure 1 ). An abdominal radiograph (upright) revealed free air in the peritoneum beneath the diaphragms ( Figure 2 ).
+The white cell count was 5,600 cells/mm³ (48% bands, 40% neutrophils, 10% lymphocytes). Laboratory test results of a metabolic panel revealed a bicarbonate level of 20 mmol/L, and were otherwise normal. A radiograph of the chest revealed clear lungs (Figure 1). An abdominal radiograph (upright) revealed free air in the peritoneum beneath the diaphragms (Figure 2).
 Figure 1. Chest radiograph on admission.
 Figure 2. Radiograph of the abdomen, with free air beneath the diaphragms.
 Clinical Course Prior to Diagnosis
-Ticarcillin-clavulanate was administered intravenously, and a laparotomy was performed emergently, which revealed a perforation of the colon with stool in the left lower quadrant. Resection of the sigmoid colon with an end-colostomy and Hartmann’s pouch was performed. The resected colon was sent for pathological examination, shown in Figures 3 and 4 .
+Ticarcillin-clavulanate was administered intravenously, and a laparotomy was performed emergently, which revealed a perforation of the colon with stool in the left lower quadrant. Resection of the sigmoid colon with an end-colostomy and Hartmann’s pouch was performed. The resected colon was sent for pathological examination, shown in Figures 3 and 4.
 Figure 3. H and E stain of resected sigmoid colon.
 Figure 4. H and E stain of resected sigmoid colon.
 Diagnostic Procedure(s) and Result(s)
-The diagnosis was obtained by histological and immunohistochemical staining of the resected colon and cytomegalovirus (CMV) deoxyribonucleic acid (DNA) polymerase chain reaction (PCR) performed on the plasma. Pathological examination by hematoxylin and eosin staining ( Figure 3 ) shows a ruptured diverticulum with inflammation and perforation into mesenteric adipose tissue. No muscularis mucosa was identified in this section, with the mucosa directly adjacent to mesenteric adipose tissue, confirming diverticular disease. Figures 4 and 5 show mixed inflammatory cells in the background, with lymphocytes and neutrophils seen. In the center, there is a large CMV inclusion cell ( Figure 5 , see arrows), with nuclear and cytoplasmic inclusions. The cytoplasm is distended with eosinophilic inclusions and the nucleus is enlarged with a single basophilic inclusion. There is a clear halo surrounding the nucleus, and no multinucleations are seen.
+The diagnosis was obtained by histological and immunohistochemical staining of the resected colon and cytomegalovirus (CMV) deoxyribonucleic acid (DNA) polymerase chain reaction (PCR) performed on the plasma. Pathological examination by hematoxylin and eosin staining (Figure 3) shows a ruptured diverticulum with inflammation and perforation into mesenteric adipose tissue. No muscularis mucosa was identified in this section, with the mucosa directly adjacent to mesenteric adipose tissue, confirming diverticular disease. Figures 4 and 5 show mixed inflammatory cells in the background, with lymphocytes and neutrophils seen. In the center, there is a large CMV inclusion cell (Figure 5, see arrows), with nuclear and cytoplasmic inclusions. The cytoplasm is distended with eosinophilic inclusions and the nucleus is enlarged with a single basophilic inclusion. There is a clear halo surrounding the nucleus, and no multinucleations are seen.
 Figure 6 shows immunohistochemical staining with antibody specific to CMV antigen. The patient’s plasma CMV DNA polymerase chain reaction (PCR) was 106,655 copies/ml.
 Figure 5. H and E stain of colon, showing giant cell (arrows).
 Figure 6. Immunohistochemical staining of colon specimen for CMV.
@@ -35,8 +35,12 @@ Final Diagnosis
 Cytomegalovirus colitis and diverticulitis with perforation in a patient status post solid organ transplantation.
 References
 Gautam, A. (2006). Gastrointestinal complications following transplantation. Surg Clin North Am 86, 1195-1206, vii.
-PMID:16962409 ( PubMed abstract )
+PMID:16962409(PubMed abstract) Pirenne, J., Lledo-Garcia, E., Benedetti, E., West, M., Hakim, N.S., Sutherland, D.E., Gruessner, R.W., Najarian, J.S., and Matas, A.J. (1997). Colon perforation after renal transplantation: a single-institution review. Clin Transplant 11, 88-93.
+PMID:9113442(PubMed abstract) Tyau, E.S., Prystowsky, J.B., Joehl, R.J., and Nahrwold, D.L. (1991). Acute diverticulitis. A complicated problem in the immunocompromised patient. Arch Surg 126, 855-858; discussion 858-859.
+PMID:1854245(PubMed abstract)
+Gautam, A. (2006). Gastrointestinal complications following transplantation. Surg Clin North Am 86, 1195-1206, vii.
+PMID:16962409(PubMed abstract)
 Pirenne, J., Lledo-Garcia, E., Benedetti, E., West, M., Hakim, N.S., Sutherland, D.E., Gruessner, R.W., Najarian, J.S., and Matas, A.J. (1997). Colon perforation after renal transplantation: a single-institution review. Clin Transplant 11, 88-93.
-PMID:9113442 ( PubMed abstract )
+PMID:9113442(PubMed abstract)
 Tyau, E.S., Prystowsky, J.B., Joehl, R.J., and Nahrwold, D.L. (1991). Acute diverticulitis. A complicated problem in the immunocompromised patient. Arch Surg 126, 855-858; discussion 858-859.
-PMID:1854245 ( PubMed abstract )
+PMID:1854245(PubMed abstract)

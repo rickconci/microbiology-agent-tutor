@@ -13,16 +13,16 @@ Studies
 The white blood cell count was 12,000 cells/mm³ (neutrophils 43%, bands 38%, lymphocytes 10%). The serum creatinine was 1.8 mg/dl.
 Clinical Course Prior to Diagnosis
 Dehydration, azotemia and hypokalemia were diagnosed, and thought to be secondary to acute gastroenteritis. Intravenous fluids, potassium supplementation, metoclopramide and famotidine were administered.
-On the third hospital day, the patient became lethargic and the temperature rose to 39.1°C (102.4°F). Shortly thereafter, respiratory failure developed and he was transferred to an intensive care unit and an infectious disease consult was obtained. Gram-negative rods were isolated from cultures of the blood. Computed tomography (CT) of the abdomen is shown in Figure 1 and a gram stain of the sputum in Figure 2 .
+On the third hospital day, the patient became lethargic and the temperature rose to 39.1°C (102.4°F). Shortly thereafter, respiratory failure developed and he was transferred to an intensive care unit and an infectious disease consult was obtained. Gram-negative rods were isolated from cultures of the blood. Computed tomography (CT) of the abdomen is shown in Figure 1 and a gram stain of the sputum in Figure 2.
 [Figure 1. CT scan of the abdomen.] [Figure 2. Gram stain of a sputum specimen.]
 Figure 1. CT scan of the abdomen.
 Figure 2. Gram stain of a sputum specimen.
 Diagnostic Procedure(s) and Result(s)
-A gram stain of a sputum specimen and an iodine stain of a stool specimen revealed Strongyloides stercoralis ( Figures 2 and 3 , respectively). In addition, Klebsiella pneumoniae was identified growing in 4 out of 4 blood culture bottles, resistant only to ampicillin. Computed tomography (CT) scan of the abdomen showed mild colonic wall inflammation, with minimal ascites and cholelithiasis, without evidence of cholecystitis.
+A gram stain of a sputum specimen and an iodine stain of a stool specimen revealed Strongyloides stercoralis (Figures 2 and 3, respectively). In addition, Klebsiella pneumoniae was identified growing in 4 out of 4 blood culture bottles, resistant only to ampicillin. Computed tomography (CT) scan of the abdomen showed mild colonic wall inflammation, with minimal ascites and cholelithiasis, without evidence of cholecystitis.
 Figure 3. Iodine stain of a stool specimen.
 Treatment and Followup
-Meropenem and vancomycin were administered intravenously and empirically. Metronidazole was added because of persistent diarrhea and possible Clostridium difficile colitis. Ivermectin (200 mcg/kg/day) was administered after the identification of Strongyloides . The patient was not able to take oral medications and, consequently, neither albendazole nor thiabendazole was administered.
-Meningitis and sepsis developed, and culture of the cerebrospinal fluid grew Klebsiella pneumoniae . Meropenem was changed to ceftriaxone after the diagnosis of meningitis was made. Despite treatment, renal failure, hydrocephalus, and a sub-acute infarct of the internal capsule developed, the latter two requiring ventriculostomy. On the twelfth hospital day, testing revealed loss of brain function, and in consultation with the family, respiratory support was withdrawn and the patient expired.
+Meropenem and vancomycin were administered intravenously and empirically. Metronidazole was added because of persistent diarrhea and possible Clostridium difficile colitis. Ivermectin (200 mcg/kg/day) was administered after the identification of Strongyloides. The patient was not able to take oral medications and, consequently, neither albendazole nor thiabendazole was administered.
+Meningitis and sepsis developed, and culture of the cerebrospinal fluid grew Klebsiella pneumoniae. Meropenem was changed to ceftriaxone after the diagnosis of meningitis was made. Despite treatment, renal failure, hydrocephalus, and a sub-acute infarct of the internal capsule developed, the latter two requiring ventriculostomy. On the twelfth hospital day, testing revealed loss of brain function, and in consultation with the family, respiratory support was withdrawn and the patient expired.
 Discussion
 Strongyloides stercoralis is an intestinal nematode of humans that infects tens of millions of people worldwide [Keiser and Nutman 2004]. Strongyloidiasis is endemic in parts of Asia, South America, Europe, the Southeastern United States and the islands of the Caribbean [Genta 1989].
 S. stercoralis is unique among intestinal nematodes in its ability to complete its life cycle within the host through an asexual autoinfective cycle, allowing the infection to persist in the host indefinitely [Keiser and Nutman 2004].
@@ -30,17 +30,24 @@ Infection is usually asymptomatic and confined to the intestinal tract. After pe
 The Strongyloides hyperinfection syndrome may occur when there is increased generation of filariform larvae, which may occur in the setting of corticosteroid treatment, use of other immunosuppressive medications, hematologic malignancies or infection with human T cell lymphotropic virus-1. The filariform larvae then penetrate the intestinal mucosa and enter the blood stream. During penetration of the intestinal epithelium, enteric bacteria (usually gram-negative coliforms) disseminate systemically. This can lead to gram-negative sepsis and meningitis, a common and potentially serious complication of Strongyloides hyperinfection syndrome. Pulmonary complications include lung abscess and adult respiratory distress syndrome (ARDS) [Igra-Siegman et al 1981].
 Strongyloides hyperinfection syndrome may occur years after exposure as a result of the unique ability of Strongyloides to autoinfect the host without an obligatory external portion of the life cycle [Newberry et al 2005]. This condition has a mortality exceeding 80% [Lim et al 2004]. Patients who are at risk for strongyloidiasis should be screened for this condition prior to the initiation of immunosuppressive medications.
 Final Diagnosis
-Hyperinfection syndrome with Strongyloides stercoralis , associated with Klebsiella sepsis and meningitis, presenting as enterocolitis.
+Hyperinfection syndrome with Strongyloides stercoralis, associated with Klebsiella sepsis and meningitis, presenting as enterocolitis.
 References
 Genta, R.M. (1989). Global prevalence of strongyloidiasis: critical review with epidemiologic insights into the prevention of disseminated disease. Rev Infect Dis 11, 755-767.
-PMID:2682948 ( PubMed abstract )
+PMID:2682948(PubMed abstract) Gupta, S., Jain, A., Fanning, T.V., Couriel, D.R., Jimenez, C.A., and Eapen, G.A. (2006). An unusual cause of alveolar hemorrhage post hematopoietic stem cell transplantation: a case report. BMC Cancer 6, 87.
+PMID:16603072(PubMed abstract) Igra-Siegman, Y., Kapila, R., Sen, P., Kaminski, Z.C., and Louria, D.B. (1981). Syndrome of hyperinfection with Strongyloides stercoralis. Rev Infect Dis 3, 397-407.
+PMID:7025145(PubMed abstract) Keiser, P.B., and Nutman, T.B. (2004). Strongyloides stercoralis in the Immunocompromised Population. Clin Microbiol Rev 17, 208-217.
+PMID:14726461(PubMed abstract) Lim, S., Katz, K., Krajden, S., Fuksa, M., Keystone, J.S., and Kain, K.C. (2004). Complicated and fatal Strongyloides infection in Canadians: risk factors, diagnosis and management. CMAJ 171, 479-484.
+PMID:15337730(PubMed abstract) Newberry, A.M., Williams, D.N., Stauffer, W.M., Boulware, D.R., Hendel-Paterson, B.R., and Walker, P.F. (2005). Strongyloides hyperinfection presenting as acute respiratory failure and gram-negative sepsis. Chest 128, 3681-3684.
+PMID:16304332(PubMed abstract)
+Genta, R.M. (1989). Global prevalence of strongyloidiasis: critical review with epidemiologic insights into the prevention of disseminated disease. Rev Infect Dis 11, 755-767.
+PMID:2682948(PubMed abstract)
 Gupta, S., Jain, A., Fanning, T.V., Couriel, D.R., Jimenez, C.A., and Eapen, G.A. (2006). An unusual cause of alveolar hemorrhage post hematopoietic stem cell transplantation: a case report. BMC Cancer 6, 87.
-PMID:16603072 ( PubMed abstract )
+PMID:16603072(PubMed abstract)
 Igra-Siegman, Y., Kapila, R., Sen, P., Kaminski, Z.C., and Louria, D.B. (1981). Syndrome of hyperinfection with Strongyloides stercoralis. Rev Infect Dis 3, 397-407.
-PMID:7025145 ( PubMed abstract )
+PMID:7025145(PubMed abstract)
 Keiser, P.B., and Nutman, T.B. (2004). Strongyloides stercoralis in the Immunocompromised Population. Clin Microbiol Rev 17, 208-217.
-PMID:14726461 ( PubMed abstract )
+PMID:14726461(PubMed abstract)
 Lim, S., Katz, K., Krajden, S., Fuksa, M., Keystone, J.S., and Kain, K.C. (2004). Complicated and fatal Strongyloides infection in Canadians: risk factors, diagnosis and management. CMAJ 171, 479-484.
-PMID:15337730 ( PubMed abstract )
+PMID:15337730(PubMed abstract)
 Newberry, A.M., Williams, D.N., Stauffer, W.M., Boulware, D.R., Hendel-Paterson, B.R., and Walker, P.F. (2005). Strongyloides hyperinfection presenting as acute respiratory failure and gram-negative sepsis. Chest 128, 3681-3684.
-PMID:16304332 ( PubMed abstract )
+PMID:16304332(PubMed abstract)

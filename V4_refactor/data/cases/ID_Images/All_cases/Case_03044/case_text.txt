@@ -10,10 +10,10 @@ The patient was well appearing, afebrile, and in no distress. There was a mass (
 Studies
 Laboratory testing including the white blood cell count was within normal limits.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) of the abdomen and pelvis was performed ( Figure 1 ).
+Computed tomography (CT) of the abdomen and pelvis was performed (Figure 1).
 Figure 1. Abdominal-pelvic CT scan.
 Diagnostic Procedure(s) and Result(s)
-A CT-guided aspiration of the abscess was performed. Cytopathological examination of the aspirate showed fungal forms consistent with Coccidioides immitis . A spherule of Coccidioides immitis is seen in Figure 2 . Cultures ultimately grew C. immitis .
+A CT-guided aspiration of the abscess was performed. Cytopathological examination of the aspirate showed fungal forms consistent with Coccidioides immitis. A spherule of Coccidioides immitis is seen in Figure 2. Cultures ultimately grew C. immitis.
 Figure 2. Aspirate results.
 Treatment and Followup
 Interventional radiology placed a drainage catheter in the iliopsoas muscle abscess. The patient was treated with liposomal amphotericin for one month, followed by itraconazole for approximately six months. She was followed closely with serial imaging studies and maintained on long-term fluconazole therapy.
@@ -22,9 +22,12 @@ The patient presented with a cold abscess many years after her initial presentat
 Coccidioides immitis generally enters the body via inhalation. Extrapulmonary dissemination is rare. The risk of dissemination is greater in immunosuppressed individuals, men, pregnant women or persons of African or Filipino ancestry. Sites of dissemination include the skin, lymph nodes, bones or joints and the meninges. Vertebral osteomyelitis due to Coccidioides immitis may involve multiple vertebral bodies, and may spread to parasinous structures, as in this case.
 Treatment of Coccidioides vertebral osteomyelitis is difficult and there is a life-long risk of relapse. Following control of infection, chronic suppressive antifungal treatment may be necessary.
 Final Diagnosis
-Disseminated Coccidioides immitis .
+Disseminated Coccidioides immitis.
 References
 Kirkland, T.N., and Fierer, J. (1996). Coccidioidomycosis: a reemerging infectious disease. Emerg Infect Dis 2, 192-199.
-PMID:8903229 ( PubMed abstract )
+PMID:8903229(PubMed abstract) Lewicky, Y.M., Roberto, R.F., and Curtin, S.L. (2004). The unique complications of coccidioidomycosis of the spine: a detailed time line of disease progression and suppression. Spine (Phila Pa 1976) 29, E435-441.
+PMID:15454725(PubMed abstract)
+Kirkland, T.N., and Fierer, J. (1996). Coccidioidomycosis: a reemerging infectious disease. Emerg Infect Dis 2, 192-199.
+PMID:8903229(PubMed abstract)
 Lewicky, Y.M., Roberto, R.F., and Curtin, S.L. (2004). The unique complications of coccidioidomycosis of the spine: a detailed time line of disease progression and suppression. Spine (Phila Pa 1976) 29, E435-441.
-PMID:15454725 ( PubMed abstract )
+PMID:15454725(PubMed abstract)

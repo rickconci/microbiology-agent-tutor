@@ -140,6 +140,24 @@ python scripts/idimages_scraper.py \
 
 This adds lines like `Image description: ...` under each `Figure N.` line.
 
+## Hover-tooltip definitions
+
+On medical-student curriculum cases (e.g. CaseID=172), some clinical terms in
+the narrative are rendered as hover tooltips with short definitions. The
+scraper inlines each definition right after the term in parentheses, e.g.:
+
+```
+She had not been on medications (Medication and vaccination history is
+important in infectious diseases diagnosis. Recent antibiotic use and use of
+immunosuppressive drugs will alter the risks of certain infections.)
+before this illness.
+```
+
+The site only renders these tooltips on the `/idreview/studentcase/` URL
+variant, so the scraper uses that URL unconditionally. For cases that don't
+have any tooltips, the studentcase URL returns the same plain narrative as
+the regular `/idreview/case/` view, so nothing is lost.
+
 ## Notes
 
 - Use `--overwrite` to replace existing files in a case folder.

@@ -7,7 +7,7 @@ Studies
 The white blood cell (WBC) count was 9,550/mm³ with 47% segmented neutrophils, 45% lymphocytes, 7% monocytes and 1% basophils, and the platelet count was 507,000/mm³. The urinalysis was normal. The cerebrospinal fluid (CSF) specimen was bloody with 8990 red blood cells, 230 white blood cells (12% segmented neutrophils, 67% lymphocytes and 21% monocytes), glucose 49 g/dl and protein 198 g/dl. All cultures remained sterile.
 Clinical Course Prior to Diagnosis
 Ampicillin and cefotaxime were initiated at admission. Seizures developed on the third hospital day. The patient was transferred to the pediatric intensive care unit and anti-seizure medications and intravenous acyclovir were begun.
-Computed tomography (CT) of the head with contrast ( Figure 1 ) showed an increased density to the right of the midline near the apex of the tentorium, which was thought to represent calcium or blood. Magnetic resonance imaging (MRI) of the head with gadolinium ( Figures 2 and 3 ) showed a ‘tiny’ amount of hemorrhage as noted on the CT scan, with normal parenchyma.
+Computed tomography (CT) of the head with contrast (Figure 1) showed an increased density to the right of the midline near the apex of the tentorium, which was thought to represent calcium or blood. Magnetic resonance imaging (MRI) of the head with gadolinium (Figures 2 and 3) showed a ‘tiny’ amount of hemorrhage as noted on the CT scan, with normal parenchyma.
 Ophthalmology and neurology evaluations were obtained. An electroencephalogram (EEG) was abnormal with excessive number of sharp waves but no focal slowing and no evidence of electrographic seizures. Herpes simplex virus IgG was reactive. The cultures remained negative. All herpes cultures were sterile and the herpes polymerase chain reaction (PCR) from the CSF was negative.
 An Infectious Diseases consultation was obtained; on further questioning, the mother reported that shortly before delivery she had fallen ill with vomiting and felt feverish.
 Figure 1. Head CT scan.
@@ -25,3 +25,4 @@ Polymerase chain reaction (PCR) testing for the presence of enterovirus RNA in C
 Neonatal herpes simplex virus and enteroviral meningoencephalitis have very similar presentations and a work-up for HSV should always be undertaken in such clinical situation and acyclovir therapy immediately initiated until either HSV is excluded or a diagnosis of enteroviral infection or another diagnosis is made.
 Final Diagnosis
 Enteroviral meningoencephalitis.
+References

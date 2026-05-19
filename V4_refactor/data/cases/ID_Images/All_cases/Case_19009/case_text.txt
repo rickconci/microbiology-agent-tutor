@@ -16,8 +16,9 @@ The white cell count was 6,200/μL (ref 3.7 - 11 K/μL) with lymphopenia of 0.12
 A chest computed tomography (CT) with contrast (Figure 2a and 2b) showed a 4 cm focal consolidative process in the medial right upper lobe with a large central area of necrosis and early cavitation that extended from the right lung apex to anterior of the right hilar region. There was also evidence of patchy nodular opacities surrounding the cavitary lesion. There were a few small mediastinal and hilar nodes. CT abdomen/pelvis showed evidence for hepatic steatosis.
 Figure 1. Frontal chest XR showed prominent opacity in the right paratracheal region
 Figure 2. Figure 2: a) Axial CT chest revealed a 4 cm focal consolidative process in the medial right upper lobe with large central area of necrosis and early cavitation; b) Coronal CT chest revealed focal necrotizing consolidation with cavitation that extends from the right lung apex to the anterior of the right hilar region
+Figure 2: a) Axial CT chest revealed a 4 cm focal consolidative process in the medial right upper lobe with large central area of necrosis and early cavitation; b) Coronal CT chest revealed focal necrotizing consolidation with cavitation that extends from the right lung apex to the anterior of the right hilar region
 Clinical Course Prior to Diagnosis
-Sputum stain/culture studies for bacterial, mycobacterial and fungi were ordered however the patient was not able to produce good sputum samples. Legionella urine antigen was negative. No antibiotics were started as she remained stable and the pulmonary team was consulted for a bronchoscopy. C-reactive protein 12.9 (<0.9 mg/dL), erythrocyte sedimentation rate 66 (0 - 20 mm/hr), C4 level 10 (13 - 46 mg/dL), C3 level 41 (86 - 166 mg/dL), dsDNA antibodies 859 IU/ml (<30 IU/ml), ANCA negative, proteinase-3 antibody negative, and myeloperoxidase antibody negative. Blood cultures were negative. QuantiFERON - TB Gold PLUS was indeterminate (and there was no prior TB screening documented). 4th generation HIV test was non-reactive. Serum galactomannan was negative. Serum complement fixation antibodies were negative for Aspergillus, Histoplasma and Coccidioides , but positive for Blastomyces at 1:16.
+Sputum stain/culture studies for bacterial, mycobacterial and fungi were ordered however the patient was not able to produce good sputum samples. Legionella urine antigen was negative. No antibiotics were started as she remained stable and the pulmonary team was consulted for a bronchoscopy. C-reactive protein 12.9 (<0.9 mg/dL), erythrocyte sedimentation rate 66 (0 - 20 mm/hr), C4 level 10 (13 - 46 mg/dL), C3 level 41 (86 - 166 mg/dL), dsDNA antibodies 859 IU/ml (<30 IU/ml), ANCA negative, proteinase-3 antibody negative, and myeloperoxidase antibody negative. Blood cultures were negative. QuantiFERON - TB Gold PLUS was indeterminate (and there was no prior TB screening documented). 4th generation HIV test was non-reactive. Serum galactomannan was negative. Serum complement fixation antibodies were negative for Aspergillus, Histoplasma and Coccidioides, but positive for Blastomyces at 1:16.
 Diagnostic Procedure(s) and Result(s)
 A bronchoscopy was performed but there were no endobronchial lesions or secretions. Bronchoalveolar lavage (BAL) and endobronchial ultrasound-guided transbronchial needle aspiration (TBNA) were done. Gram stain and culture were negative on the BAL but showed moderate neutrophils. Pneumocystis jirovecii polymerase chain reaction (PCR) from BAL was negative. Legionella pneumophila PCR from BAL came back positive.
 Treatment and Followup
@@ -25,41 +26,57 @@ The patient was started on oral levofloxacin 750 mg once per day with improvemen
 Legionella culture from BAL were negative. Histoplasma urine antigen and serum blastomyces immunodiffusion antibody were negative. BAL and TBNA studies for AFB stain/culture, Nocardia, fungal stain/culture, and cytology were negative. BAL galactomannan was negative. Histopathology showed evidence of acute inflammation and granular proteinaceous material. Tissue acid-fast bacilli (AFB) stains, Grocott's methenamine silver (GMS) stain and gram stains were negative.
 Patient was discharged with a plan to complete additional 14 days of levofloxacin. She was seen in infectious disease clinic one month later and reported resolution of her respiratory symptoms. A repeat CT chest (Figures 3 a and 3b) performed 1 month after completion of treatment showed complete resolution of right upper lobe necrotizing pneumonia with a residual 2.0 x 2.5 cm thin-walled cystic space.
 Figure 3. Figure 3 a and b: Sagittal and coronal CT chest 1 month post completion of treatment revealed residual thin-walled cystic space
+Figure 3 a and b: Sagittal and coronal CT chest 1 month post completion of treatment revealed residual thin-walled cystic space
 Discussion
 Legionella cavitary pneumonia is an atypical presentation of Legionnaire’s disease and more commonly described in patients with impaired cellular immunity secondary to corticosteroids (particularly high-dose steroid therapy), immunosuppressive therapy, organ transplant, and HIV infection.[1,2,3,4,5].
-Cavitation has been associated with L pneumophila serotypes 1, 3, 4, 5, 6, and 8 as well as other Legionella species ( L. micdadei, L. bozemanae, L. dumoffii, and L. longbeachae ).6,7 L. pneumophila serotype 1 is the main agent of Legionnaire’s disease. Infections by L pneumophila non-serotype 1 and non-pneumophila Legionella species occur in severely immunocompromised hosts.[4,6,7,8,9]
+Cavitation has been associated with L pneumophila serotypes 1, 3, 4, 5, 6, and 8 as well as other Legionella species (L. micdadei, L. bozemanae, L. dumoffii, and L. longbeachae).6,7 L. pneumophila serotype 1 is the main agent of Legionnaire’s disease. Infections by L pneumophila non-serotype 1 and non-pneumophila Legionella species occur in severely immunocompromised hosts.[4,6,7,8,9]
 Our patient presented in winter and was not receiving an intensive immunosuppressive therapy when compared with two prior cases of SLE patients complicated with Legionella pulmonary abscess.[10,11,12] However, her lupus was active and complicated with lymphopenia which may have predisposed her for this severe presentation.
 Legionella urinary antigen and culture were negative in our patient. In some settings, Legionella PCR is becoming a preferred test for the diagnosis of Legionnaires' disease due to its rapid turn-around time and better performance regardless of Legionella species and serotypes.[13] Our institution’s laboratory developed a Legionella PCR which detects different serotypes of L. pneumophila by targeting the mip (macrophage infectivity potentiator) gene and it has not shown cross-reactivity in our validation studies with other non- pneumophila species.[14]
-Other etiologies for cavitary pneumonia include mycobacteria, fungi, nocardia, Staphylococcus aureus, Pseudomonas aeruginosa, Klebsiella , anaerobes, cancer and vasculitis.[9] The positive Blastomyces serology was most likely a false positive result. TBNA initially showed possible hyphae however fungal stain/cultures were negative suggesting possible contamination.
+Other etiologies for cavitary pneumonia include mycobacteria, fungi, nocardia, Staphylococcus aureus, Pseudomonas aeruginosa, Klebsiella, anaerobes, cancer and vasculitis.[9] The positive Blastomyces serology was most likely a false positive result. TBNA initially showed possible hyphae however fungal stain/cultures were negative suggesting possible contamination.
 Treatment of Legionnaires' disease in immunocompromised patients is longer (14 to 21 days) than for many other causes of pneumonia due to risk for both severe infection and relapse.[6] Our patient had rapid resolution of symptoms and marked radiological improvement after treatment with Legionella-specific therapy. This case highlights the importance of having a high suspicion for Legionella infection in the differential diagnosis of cavitary pneumonia in immunocompromised patients to assure prompt diagnostic work-up and treatment.
 Final Diagnosis
 Legionella pneumophila cavitary pneumonia
 References
 Yu H, Higa F, Hibiya K, et al. Computed tomographic features of 23 sporadic cases with Legionella pneumophila pneumonia. Eur J Radiol 2010;74:e73-8.
-PMID:19423258 ( PubMed abstract )
+PMID:19423258(PubMed abstract) Kim KW, Goo JM, Lee HJ, et al. Chest computed tomographic findings and clinical features of legionella pneumonia. J Comput Assist Tomogr 2007;31:950-5.
+PMID:18043362(PubMed abstract) Tan MJ, Tan JS, Hamor RH, et al. The radiologic manifestations of Legionnaire’s disease. The Ohio Community-Based Pneumonia Incidence Study Group. Chest 2000; 117: 398–403.
+PMID:10669681(PubMed abstract) Kumpers P, Tiede A, Kirschner P, et al. Legionnaires’ disease in immunocompromised patients: a case report of Legionella longbeachae pneumonia and review of the literature. Journal of Medical Microbiology (2008), 57, 384–387.
+PMID:18287305(PubMed abstract) Guy SD, Worth LJ, Thursky KA, et al. Legionella pneumophila lung abscess associated with immune suppression. Internal Medicine Journal. 2011, Vol.41, No.10, p.715.
+PMID:22435900(PubMed abstract) Lanternier F, Ader F, Pilmis B, et al. Legionnaire’s Disease in Compromised Hosts. Infect Dis Clin N Am 31 (2017) 123–135.
+PMID:28159172(PubMed abstract) Fraser T, Zembower TR, Lynch P, et al. Cavitary Legionella pneumonia in a liver transplant recipient. Transpl Infect Dis. 2004 Jun; 6(2): 77–80.
+PMID:15522109(PubMed abstract) Muder RR, Yu VL. Infection Due to Legionella Species Other Than L. pneumophila. Clin Infect Dis. 2002 Oct 15;35(8):990-8.
+PMID:12355387(PubMed abstract) Di Stefano F, Verna N, Di Gioacchino M. Cavitary legionella pneumonia in a patient with immunodeficiency due to Hyper-IgE syndrome. Journal of Infection (2007) 54, e121-e123.
+PMID:16949672(PubMed abstract) Rucinski SL, Murphy MP, Kies KD, Cunningham SA, Schuetz AN, Patel R. Eight years of clinical legionella PCR testing illustrates a seasonal pattern. Journal of Infectious Diseases. 2018 Jul 13;218(4):669-670.
+PMID:29659880(PubMed abstract) Senécal JL, ST-Antoine P, Béliveau C. L. pneumophila lung abscess in a patient with systemic lupus erythematosus. Am J Med Sci 1987; 293:309–14.
+PMID:3591819(PubMed abstract) Jacox RF, Stuard ID. Legionnaires' disease in a patient with systemic lupus erythematosus. Arthritis Rheum. 1978 Nov-Dec;21(8):975-7.
+PMID:737021(PubMed abstract) Avni T, Bieber A, Green H, et al. Diagnostic accuracy of PCR alone and compared to urinary antigen for the diagnosis of Legionella spp.: Systematic review. J Clin Microbiol 2015; 54:401–411.
+PMID:26659202(PubMed abstract) Wilson DA, Yen-Lieberman B, Reischl U, et al. Detection of Legionella pneumophila by real-time PCR for the mip gene. J Clin Microbiol 2003; 41:3327–3330.
+PMID:12843084(PubMed abstract)
+Yu H, Higa F, Hibiya K, et al. Computed tomographic features of 23 sporadic cases with Legionella pneumophila pneumonia. Eur J Radiol 2010;74:e73-8.
+PMID:19423258(PubMed abstract)
 Kim KW, Goo JM, Lee HJ, et al. Chest computed tomographic findings and clinical features of legionella pneumonia. J Comput Assist Tomogr 2007;31:950-5.
-PMID:18043362 ( PubMed abstract )
+PMID:18043362(PubMed abstract)
 Tan MJ, Tan JS, Hamor RH, et al. The radiologic manifestations of Legionnaire’s disease. The Ohio Community-Based Pneumonia Incidence Study Group. Chest 2000; 117: 398–403.
-PMID:10669681 ( PubMed abstract )
+PMID:10669681(PubMed abstract)
 Kumpers P, Tiede A, Kirschner P, et al. Legionnaires’ disease in immunocompromised patients: a case report of Legionella longbeachae pneumonia and review of the literature. Journal of Medical Microbiology (2008), 57, 384–387.
-PMID:18287305 ( PubMed abstract )
+PMID:18287305(PubMed abstract)
 Guy SD, Worth LJ, Thursky KA, et al. Legionella pneumophila lung abscess associated with immune suppression. Internal Medicine Journal. 2011, Vol.41, No.10, p.715.
-PMID:22435900 ( PubMed abstract )
+PMID:22435900(PubMed abstract)
 Lanternier F, Ader F, Pilmis B, et al. Legionnaire’s Disease in Compromised Hosts. Infect Dis Clin N Am 31 (2017) 123–135.
-PMID:28159172 ( PubMed abstract )
+PMID:28159172(PubMed abstract)
 Fraser T, Zembower TR, Lynch P, et al. Cavitary Legionella pneumonia in a liver transplant recipient. Transpl Infect Dis. 2004 Jun; 6(2): 77–80.
-PMID:15522109 ( PubMed abstract )
+PMID:15522109(PubMed abstract)
 Muder RR, Yu VL. Infection Due to Legionella Species Other Than L. pneumophila. Clin Infect Dis. 2002 Oct 15;35(8):990-8.
-PMID:12355387 ( PubMed abstract )
+PMID:12355387(PubMed abstract)
 Di Stefano F, Verna N, Di Gioacchino M. Cavitary legionella pneumonia in a patient with immunodeficiency due to Hyper-IgE syndrome. Journal of Infection (2007) 54, e121-e123.
-PMID:16949672 ( PubMed abstract )
+PMID:16949672(PubMed abstract)
 Rucinski SL, Murphy MP, Kies KD, Cunningham SA, Schuetz AN, Patel R. Eight years of clinical legionella PCR testing illustrates a seasonal pattern. Journal of Infectious Diseases. 2018 Jul 13;218(4):669-670.
-PMID:29659880 ( PubMed abstract )
+PMID:29659880(PubMed abstract)
 Senécal JL, ST-Antoine P, Béliveau C. L. pneumophila lung abscess in a patient with systemic lupus erythematosus. Am J Med Sci 1987; 293:309–14.
-PMID:3591819 ( PubMed abstract )
+PMID:3591819(PubMed abstract)
 Jacox RF, Stuard ID. Legionnaires' disease in a patient with systemic lupus erythematosus. Arthritis Rheum. 1978 Nov-Dec;21(8):975-7.
-PMID:737021 ( PubMed abstract )
+PMID:737021(PubMed abstract)
 Avni T, Bieber A, Green H, et al. Diagnostic accuracy of PCR alone and compared to urinary antigen for the diagnosis of Legionella spp.: Systematic review. J Clin Microbiol 2015; 54:401–411.
-PMID:26659202 ( PubMed abstract )
+PMID:26659202(PubMed abstract)
 Wilson DA, Yen-Lieberman B, Reischl U, et al. Detection of Legionella pneumophila by real-time PCR for the mip gene. J Clin Microbiol 2003; 41:3327–3330.
-PMID:12843084 ( PubMed abstract )
+PMID:12843084(PubMed abstract)

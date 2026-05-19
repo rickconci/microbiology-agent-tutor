@@ -10,12 +10,14 @@ Physical Examination
 The patient appeared critically ill and was in mild distress. The blood pressure was 168/89 mm Hg, pulse 91 beats per minute, temperature 100.3° Fahrenheit (37.9° Celsius), respirations 30 breaths per minute, and oxygen saturation of 100% on 40 liters of high flow nasal cannula. The examination was notable for a 2 cm ulcerated lesion on the right lateral tongue (Figure 1). He had coarse rhonchi bilaterally with accessory muscle use. The rest of the examination was otherwise normal.
 Figure 1. Physical exam finding of the right lateral tongue ulcer.
 Studies
-The hemoglobin was 8.5 grams/deciliter (reference range 13.5-17), hematocrit 27.0% (reference range 39-50), alanine aminotransferase was 70 units/L (reference range 7-52), aspartate aminotransferase 46 units/L (reference range 12-39), and serum Aspergillus galactomannan was 0.564 index (reference <0.499). The other routine laboratory test results were normal and routine blood cultures were negative. A high-resolution non contrast chest computed tomography revealed multifocal nodules and opacities in both lungs with some of the opacities demonstrating a surrounding ground glass halo and partial cavitation (Figure 2).
+The hemoglobin was 8.5 grams/deciliter (reference range 13.5-17), hematocrit 27.0% (reference range 39-50), alanine aminotransferase was 70 units/L (reference range 7-52), aspartate aminotransferase 46 units/L (reference range 12-39), and serum Aspergillus galactomannan was 0.564 index (reference <0.499). The other routine laboratory test results were normal and routine blood cultures were negative. A high-resolution non contrast chest computed tomography revealed multifocal nodules and opacities in both lungs with some of the opacities demonstrating a surrounding ground glass halo and partial cavitation (Figure 2). Figure 2a.High resolution CT Chest without contrast. Axial view with multifocal nodules and opacities with surrounding ground glass halo. Figure 2b. High resolution CT Chest without contrast. Partial cavitation in the right upper lobe with multifocal nodules.
 Figure 2. Figure 2a.High resolution CT Chest without contrast. Axial view with multifocal nodules and opacities with surrounding ground glass halo.
+Figure 2a.High resolution CT Chest without contrast. Axial view with multifocal nodules and opacities with surrounding ground glass halo.
 Figure 3. Figure 2b. High resolution CT Chest without contrast. Partial cavitation in the right upper lobe with multifocal nodules.
+Figure 2b. High resolution CT Chest without contrast. Partial cavitation in the right upper lobe with multifocal nodules.
 Diagnostic Procedure(s) and Result(s)
 The urine histoplasma antigen was elevated at >19 nanograms/milliliter (reference range 0.4-19). Fungal isolator blood cultures initially revealed mold, which was ultimately identified as Histoplasma capsulatum 12 days after the cultures were obtained. He underwent a biopsy of his tongue ulcer which revealed numerous Grocott's methenamine silver (GMS) stain positive yeast forms compatible with Histoplasma species (Figure 3). Furthermore, the pathology report from the proximal jejunum (taken at the time of the surgical exploration for small bowel perforation) revealed non-necrotizing granulomas with numerous microorganisms consistent with Histoplasma and negative acid-fast bacilli stains (Figure 4).
-Figure 4. GMS stain of tongue biopsy showing yeast forms consistent with Histoplasma capsulatum. Photo courtesy of Todd Stevens, MD
+Figure 4. Hematoxylin and eosin (H&E) stain and GMS stain of the proximal jejunum. A) Submucosal inflammation and granulomas B) Granuloma C) Higher magnification of the granuloma to show histoplasmosis microorganisms D) GMS special stain for fungi, low magnification E) GMS special stain for fungi, high magnification. Photo courtesy of Sameer Al Diffalha, MD
 Figure 5. Hematoxylin and eosin (H&E) stain and GMS stain of the proximal jejunum. A) Submucosal inflammation and granulomas B) Granuloma C) Higher magnification of the granuloma to show histoplasmosis microorganisms D) GMS special stain for fungi, low magnification E) GMS special stain for fungi, high magnification. Photo courtesy of Sameer Al Diffalha, MD
 Treatment and Followup
 The patient was started on intravenous amphotericin B lipid complex during his hospitalization with clinical improvement. He was transitioned to oral itraconazole at discharge with resolution of dyspnea and cough. He has continued to follow with the infectious diseases clinic in the outpatient setting and continues to do well overall 18 months post diagnosis.
@@ -26,14 +28,21 @@ Final Diagnosis
 Disseminated histoplasmosis with gastrointestinal perforation
 References
 Goodwin RA Jr, Shapiro JL, Thurman GH, Thurman SS, Des Prez RM. Disseminated histoplasmosis: clinical and pathologic correlations. Medicine (Baltimore). 1980 Jan;59(1):1-33.
-PMID:7356773 ( PubMed abstract )
+PMID:7356773(PubMed abstract) Wheat LJ, Connolly-Stringfield PA, Baker RL, Curfman MF, Eads ME, Israel KS, Norris SA, Webb DH, Zeckel ML. Disseminated histoplasmosis in the acquired immune deficiency syndrome: clinical findings, diagnosis and treatment, and review of the literature. Medicine (Baltimore). 1990 Nov;69(6):361-74. doi: 10.1097/00005792-199011000-00004.
+PMID:2233233(PubMed abstract) Assi MA, Sandid MS, Baddour LM, Roberts GD, Walker RC. Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore). 2007 May;86(3):162-169. doi: 10.1097/md.0b013e3180679130.
+PMID:17505255(PubMed abstract) Vergidis P, Avery RK, Wheat LJ, Dotson JL, Assi MA, Antoun SA, Hamoud KA, Burdette SD, Freifeld AG, McKinsey DS, Money ME, Myint T, Andes DR, Hoey CA, Kaul DA, Dickter JK, Liebers DE, Miller RA, Muth WE, Prakash V, Steiner FT, Walker RC, Hage CA. Histoplasmosis complicating tumor necrosis factor-a blocker therapy: a retrospective analysis of 98 cases. Clin Infect Dis. 2015 Aug 1;61(3):409-17. doi: 10.1093/cid/civ299. Epub 2015 Apr 13.
+PMID:25870331(PubMed abstract) Kahi CJ, Wheat LJ, Allen SD, Sarosi GA. Gastrointestinal histoplasmosis. Am J Gastroenterol. 2005 Jan;100(1):220-31. doi: 10.1111/j.1572-0241.2005.40823.x.
+PMID:15654803(PubMed abstract) Vergidis P, Walker RC, Kaul DR, Kauffman CA, Freifeld AG, Slagle DC, Kressel AB, Wheat LJ. False-positive Aspergillus galactomannan assay in solid organ transplant recipients with histoplasmosis. Transpl Infect Dis. 2012 Apr;14(2):213-7. doi: 10.1111/j.1399-3062.2011.00675.x. Epub 2011 Sep 26. Erratum in: Transpl Infect Dis. 2016 Aug;18(4):641.
+PMID:22093368(PubMed abstract)
+Goodwin RA Jr, Shapiro JL, Thurman GH, Thurman SS, Des Prez RM. Disseminated histoplasmosis: clinical and pathologic correlations. Medicine (Baltimore). 1980 Jan;59(1):1-33.
+PMID:7356773(PubMed abstract)
 Wheat LJ, Connolly-Stringfield PA, Baker RL, Curfman MF, Eads ME, Israel KS, Norris SA, Webb DH, Zeckel ML. Disseminated histoplasmosis in the acquired immune deficiency syndrome: clinical findings, diagnosis and treatment, and review of the literature. Medicine (Baltimore). 1990 Nov;69(6):361-74. doi: 10.1097/00005792-199011000-00004.
-PMID:2233233 ( PubMed abstract )
+PMID:2233233(PubMed abstract)
 Assi MA, Sandid MS, Baddour LM, Roberts GD, Walker RC. Systemic histoplasmosis: a 15-year retrospective institutional review of 111 patients. Medicine (Baltimore). 2007 May;86(3):162-169. doi: 10.1097/md.0b013e3180679130.
-PMID:17505255 ( PubMed abstract )
+PMID:17505255(PubMed abstract)
 Vergidis P, Avery RK, Wheat LJ, Dotson JL, Assi MA, Antoun SA, Hamoud KA, Burdette SD, Freifeld AG, McKinsey DS, Money ME, Myint T, Andes DR, Hoey CA, Kaul DA, Dickter JK, Liebers DE, Miller RA, Muth WE, Prakash V, Steiner FT, Walker RC, Hage CA. Histoplasmosis complicating tumor necrosis factor-a blocker therapy: a retrospective analysis of 98 cases. Clin Infect Dis. 2015 Aug 1;61(3):409-17. doi: 10.1093/cid/civ299. Epub 2015 Apr 13.
-PMID:25870331 ( PubMed abstract )
+PMID:25870331(PubMed abstract)
 Kahi CJ, Wheat LJ, Allen SD, Sarosi GA. Gastrointestinal histoplasmosis. Am J Gastroenterol. 2005 Jan;100(1):220-31. doi: 10.1111/j.1572-0241.2005.40823.x.
-PMID:15654803 ( PubMed abstract )
+PMID:15654803(PubMed abstract)
 Vergidis P, Walker RC, Kaul DR, Kauffman CA, Freifeld AG, Slagle DC, Kressel AB, Wheat LJ. False-positive Aspergillus galactomannan assay in solid organ transplant recipients with histoplasmosis. Transpl Infect Dis. 2012 Apr;14(2):213-7. doi: 10.1111/j.1399-3062.2011.00675.x. Epub 2011 Sep 26. Erratum in: Transpl Infect Dis. 2016 Aug;18(4):641.
-PMID:22093368 ( PubMed abstract )
+PMID:22093368(PubMed abstract)

@@ -9,34 +9,43 @@ Epidemiological History
 Smoked a few cigarettes daily for many years. The patient lived in the southeast US.
 No recent travel, no animal exposures, no known tuberculosis exposures.
 Physical Examination
-On exam he was alert, oriented, and appeared stable. Blood pressure was 146/82 mmHg, pulse 91 beats per minute, temperature 97.2 o F (36.2 o C), and respirations 20 breaths per minute . Lungs had crackles in the bases, but no wheezing. The penis was uncircumcised, with a diffuse ulcer on the right glans with thick yellow purulent material around the edges (Figure 1). He had multiple individual white-based ulcers on the left glans with scant yellow discharge. Exam was negative for oral ulcers, inguinal lymphadenopathy, or scrotal lesions.
+On exam he was alert, oriented, and appeared stable. Blood pressure was 146/82 mmHg, pulse 91 beats per minute, temperature 97.2 o F (36.2 o C), and respirations 20 breaths per minute. Lungs had crackles in the bases, but no wheezing. The penis was uncircumcised, with a diffuse ulcer on the right glans with thick yellow purulent material around the edges (Figure 1). He had multiple individual white-based ulcers on the left glans with scant yellow discharge. Exam was negative for oral ulcers, inguinal lymphadenopathy, or scrotal lesions.
 Figure 1. Figure 1: Penile ulcer.
+Figure 1: Penile ulcer.
 Studies
 White blood cell count was 9.9 x 10 3 /mcL (reference range 4.8 - 10.5 x 10 3 /mcL).
 Inflammatory markers were elevated with C-reactive protein 157.1 mg/L (reference range 0 - 9.9) and erythrocyte sedimentation rate 110 mm/hr (reference range: males over 50 years = <20 mm/hr).
 Blood cultures from time of admission were negative. Aerobic and anaerobic cultures, viral culture, gonorrhea, chlamydia, RPR, and HIV testing were negative. CT abdomen/pelvis was negative for renal calculi or masses, but a pleural based nodular opacity was noted in the posterior-medial right lower lobe. This led to a CT scan of the chest which revealed a diffuse, bilateral, miliary, micronodular lung parenchymal process (Figure 2).
 Figure 2. Figure 2a: CT of chest. Nonspecific diffuse bilateral miliary micronodular lung parenchymal process involving the visualized lower lungs.
+Figure 2a: CT of chest. Nonspecific diffuse bilateral miliary micronodular lung parenchymal process involving the visualized lower lungs.
 Figure 3. Figure 2b: CT of chest. Pleural-based nodular density associated with the posterior medial right lower lobe and mildly enlarged sub-carinal mediastinal lymph nodes
+Figure 2b: CT of chest. Pleural-based nodular density associated with the posterior medial right lower lobe and mildly enlarged sub-carinal mediastinal lymph nodes
 Clinical Course Prior to Diagnosis
-The ulceration spread to the left glans, and repeat wound cultures showed no neutrophils but grew Clostridium, Finegoldia, Corynebacteriu m, alpha hemolytic Streptococci , and coagulase-negative Staphylococci. ANA, ANCA, and rheumatoid factor were negative. An ophthalmologic exam was negative for uveitis.
+The ulceration spread to the left glans, and repeat wound cultures showed no neutrophils but grew Clostridium, Finegoldia, Corynebacteriu m, alpha hemolytic Streptococci, and coagulase-negative Staphylococci. ANA, ANCA, and rheumatoid factor were negative. An ophthalmologic exam was negative for uveitis.
 A transthoracic echocardiogram was performed that showed severe ischemic cardiomyopathy with left ventricular ejection fraction of 20-25% and no evidence of vegetations. The patient had received ten days of piperacillin/tazobactam without change in clinical course and as no other bacterial etiologies were identified, he was discharged home to follow-up with infectious disease at a later date.
 Diagnostic Procedure(s) and Result(s)
 Fungal cultures of the superficial wound swab grew Blastomyces dermatiditis after four weeks.
 Figure 4. Figure 3a: Plate showing initially white and then light brown mold.
+Figure 3a: Plate showing initially white and then light brown mold.
 Figure 5. Figure 3b: Plate showing initially white and then light brown mold.
+Figure 3b: Plate showing initially white and then light brown mold.
 Treatment and Followup
 The patient was prescribed treatment with itraconazole 200mg oral twice daily. Several days later (before he started the medication), he was admitted to a different hospital with shortness of breath and was found to be in acute respiratory failure. He developed septic shock and the decision was made to make the patient comfort care, soon after which he expired.
 Discussion
-This case was unique in the presentation of cutaneous penile blastomycosis as well as miliary blastomycosis without associated pulmonary symptoms in an immunocompetent host. Pulmonary blastomycosis clinically presents as acute or chronic pneumonia with fever, chills, productive cough, with or without hemoptysis. It can also present as an asymptomatic radiographic abnormality . [1] Miliary blastomycosis or endobronchial spread of infection can cause adult respiratory distress syndrome (ARDS). [2] The patient in this case was admitted for nearly three weeks and remained afebrile with no respiratory decline.
+This case was unique in the presentation of cutaneous penile blastomycosis as well as miliary blastomycosis without associated pulmonary symptoms in an immunocompetent host. Pulmonary blastomycosis clinically presents as acute or chronic pneumonia with fever, chills, productive cough, with or without hemoptysis. It can also present as an asymptomatic radiographic abnormality. [1] Miliary blastomycosis or endobronchial spread of infection can cause adult respiratory distress syndrome (ARDS). [2] The patient in this case was admitted for nearly three weeks and remained afebrile with no respiratory decline.
 On literature review for penile cutaneous blastomycosis, two abstracts were found, both of which involve cases outside of the United States. A case of South American Blastomycosis describes a patient with a similar presentation of an ulcer in the internal surface of the prepuce that had been present for six months. The author references one other case of penile blastomycosis. [3] The presence of penile ulcerative blastomycosis appears to be rare.
 Blastomycosis most commonly is found in the soil of the Ohio and Mississippi River Valleys and is acquired through inhalation. It can cause asymptomatic infection of the respiratory tract with spontaneous resolution, or disseminate and cause fulminant septic shock with spread to the central nervous, cutaneous, or osteoarticular systems. While most commonly diagnosed in the United States at a rate of 1 case per 100,000, highly endemic areas may see a rate as high as 10 to 40 per 100,000. [4] Although it is not unusual to be asymptomatic in the presence of radiographic abnormalities, the progression of both the patient’s pulmonary involvement to a diffuse bilateral miliary process, as well as the extensive nature of his penile lesions, appears to be a unique presentation of blastomycosis.
 Final Diagnosis
 Blastomyces dermatitidis
 References
 Saccente M, Woods GL. Clinical and laboratory update on Blastomycosis. Clin Microbiol Rev. 2010;23(2):367
-PMID:20375357 ( PubMed abstract )
+PMID:20375357(PubMed abstract) Philip A. Mackowiak. A 45-Year-Old Man with Fever and Adult Respiratory Distress Syndrome. Clin Infect Dis 2007; 44 (4): 615-616. doi: 10.1086/511088
+PMID:17256222(PubMed abstract) Londero AT, Fabricio R. Genital Localization of South American Blastomycosis. A New Case. Mycopathol Mycol Appl. 1966 Dec 1;30(3):253-6.
+PMID:5973608(PubMed abstract) Benedict, K., Roy, M., Chiller, T. et al. Epidemiologic and Ecologic Features of Blastomycosis: A Review. Curr Fungal Infect Rep (2012) 6: 327. https://doi.org/10.1007/s12281-012-0110-1
+Saccente M, Woods GL. Clinical and laboratory update on Blastomycosis. Clin Microbiol Rev. 2010;23(2):367
+PMID:20375357(PubMed abstract)
 Philip A. Mackowiak. A 45-Year-Old Man with Fever and Adult Respiratory Distress Syndrome. Clin Infect Dis 2007; 44 (4): 615-616. doi: 10.1086/511088
-PMID:17256222 ( PubMed abstract )
+PMID:17256222(PubMed abstract)
 Londero AT, Fabricio R. Genital Localization of South American Blastomycosis. A New Case. Mycopathol Mycol Appl. 1966 Dec 1;30(3):253-6.
-PMID:5973608 ( PubMed abstract )
+PMID:5973608(PubMed abstract)
 Benedict, K., Roy, M., Chiller, T. et al. Epidemiologic and Ecologic Features of Blastomycosis: A Review. Curr Fungal Infect Rep (2012) 6: 327. https://doi.org/10.1007/s12281-012-0110-1

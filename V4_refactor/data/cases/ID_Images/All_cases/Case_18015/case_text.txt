@@ -7,19 +7,24 @@ He is an office-worker, an ex-smoker and occasionally drinks alcohol. He has mul
 Physical Examination
 The patient was a well-appearing adult male in no acute distress. The blood pressure was 131/87, pulse 77 beats per minute, temperature 97°F (36.1°C), and respirations 20 breaths per minute. The examination was significant for the presence of two well circumscribed indurated, erythematous plaques approximately 2x2 cm and 10x6 cm in diameter on the right lower extremity, the larger plaque was medial and proximal to the ankle and the smaller plaque anterior and distal to the knee. The inferior lesion had central ulceration and necrosis [Fig.1]. An approximately 3x3 cm extremely indurated, mildly erythematous, mildly scaly plaque was present on the medial left lower extremity proximal to the ankle [Fig. 2].
 Figure 1. Figure 1: Photograph of the distal right lower extremity skin lesion
+Figure 1: Photograph of the distal right lower extremity skin lesion
 Figure 2. Figure 2: Photograph of the distal left lower extremity skin lesion
+Figure 2: Photograph of the distal left lower extremity skin lesion
 Studies
 The white blood cell count was 10,800 cells/microliter (reference range 3.8-10.6 x10 3 cells/microliter) with mild eosinophilia at 7.2% (reference range 0-7%) and an absolute eosinophil count of 780 x10 3 cells/microliter. The platelet count was elevated at 463,000 cells/microliter (reference range 150-440 x10 3 cells/microliter). The serum creatinine was 1.0mg/dL (reference range 0.7-1.2 mg/dL). The alkaline phosphatase was elevated at 102 U/L (reference range 32-91 U/L) and gamma-glutamyl transferase was elevated at 201 IU/L (reference range 7-50 IU/L). Total bilirubin, aspartate aminotransferase, alanine aminotransferase levels were within normal range. The erythrocyte sedimentation rate was elevated at 27 mm/hour (reference range 0-20 mm/hr). Other routine laboratory test results were normal.
 A venous Doppler ultrasound of the right lower extremity revealed no evidence of deep vein thrombosis but did reveal severe subcutaneous edema of the distal right leg worse along the medial aspect of the ankle.
 Diagnostic Procedure(s) and Result(s)
 Skin biopsies revealed ribbon-like hyphae with rare septae on Grocott’s methenamine silver (GMS) stain [Fig. 3]. Tissue samples were plated directly onto Sabouraud-dextrose agar and on day 3 of culture, fine, white hyphae were noted to be growing on agar multiple plates [Fig. 4]. Pythium insidiosum was identified via 18S ribosomal RNA gene sequencing at the reference laboratory of University of Texas, San Antonio.
 Figure 3. Figure 3: GMS stain of skin biopsy showed fungal elements/hyphae in areas of necrosis. These hyphae were focally twisted and ribbon-like, with only rare septae formation (100x oil immersion magnification)
+Figure 3: GMS stain of skin biopsy showed fungal elements/hyphae in areas of necrosis. These hyphae were focally twisted and ribbon-like, with only rare septae formation (100x oil immersion magnification)
 Figure 4. Figure 4: Fine white hyphae growth seen on Sabouraud-dextrose agar plate (day 3 of culture).
+Figure 4: Fine white hyphae growth seen on Sabouraud-dextrose agar plate (day 3 of culture).
 Treatment and Followup
 Treatment with amphotericin B and posaconazole was initiated and multiple surgical debridements were performed. Necrotic fascia and muscle deep to the distal right and left lower extremity skin lesions was identified and debrided. Prior to the identification of Pythium insidiosum, he was discharged on posaconazole.
 At his outpatient follow-up, a week post-discharge, the previously debrided lesions looked worse. He was readmitted and underwent additional exploration of his wounds. Extensive tissue necrosis was noted surrounding the previously-debrided right lower extremity wound which necessitated a below-the-knee amputation. Tissue samples sent for histopathology were notable for abundant ribbon-like hyphae with rare septae on GMS stain [Fig. 5].
 An immunotherapeutic veterinary Pythium antigen vaccine was administered along with transition to itraconazole, terbinafine, minocycline, and caspofungin. Six months post his right below-knee amputation, he has no ongoing evidence of pythiosis.
 Figure 5. Figure 5: GMS stain of repeat skin debridement showed abundant ribbon-like hyphae with rare septae (40x magnification)
+Figure 5: GMS stain of repeat skin debridement showed abundant ribbon-like hyphae with rare septae (40x magnification)
 Discussion
 Pythium insidiosum is a fungus-like parasitic oomycete found in standing water which mainly infects non-human mammals (1). Human pythiosis has been associated with hemoglobinopathies and has only rarely been reported in North America (2, 3). Human pythiosis occurs predominantly in Thailand (2, 4). Human cases have also been reported in South America, India, Australia and Europe (5, 6, 7, 8). Four clinical syndromes have been described: cutaneous/ subcutaneous, vascular, ocular and disseminated (2). According to a retrospective analysis of 102 pythiosis cases in Thailand the mortality rates of cutaneous/subcutaneous and ocular pythiosis may be low although treatment often involves aggressive surgical debridement and enucleation (2). In contrast, the vascular and disseminated forms carried a 40% and 100% mortality rate, respectively (2).
 Of the reported cases, 75% had careers in agriculture and 80% had an underlying hematologic disease (2). Testing for underlying predisposing conditions for pythiosis including hemoglobinopathies, acquired and primary cell-mediated and humoral immunodeficiency, and phagocytic dysfunction were unremarkable in our patient. Most cases have been linked to exposures to natural bodies of water and we suspect our patient was exposed when he waded in a hot spring six days prior to noticing his skin lesions. The state department of health was notified of the case and investigated the hot spring where the exposure was thought to have occurred. No environmental samples were taken.
@@ -28,22 +33,33 @@ Final Diagnosis
 Pythiosis
 References
 Gaastra W, Lipman LJ, De Cock AW, et al. Pythium insidiosum: an overview. Vet Microbiol. 2010 Nov 20;146(1-2):1-16.
-PMID:20800978 ( PubMed abstract )
+PMID:20800978(PubMed abstract) Krajaejun T, Sathapatayavongs B, Pracharktam R, et al. Clinical and epidemiological analyses of human pythiosis in Thailand. Clin Infect Dis. 2006 Sep 1;43(5):569-76.
+PMID:16886148(PubMed abstract) Salipante SJ, Hoogestraat DR, SenGupta DJ, et al. Molecular diagnosis of subcutaneous Pythium insidiosum infection by use of PCR screening and DNA sequencing. J Clin Microbiol. 2012 Apr;50(4):1480-3.
+PMID:22205808(PubMed abstract) Chitasombat MN, Larbcharoensub N, Chindamporn A, Krajaejun T. Clinicopathological features and outcomes of pythiosis. Int J Infect Dis. 2018 Jun;71:33-41.
+PMID:29653202(PubMed abstract) Bosco Sde M, Bagagli E, Araujo JP Jr, et al. Human pythiosis, Brazil. Emerg Infect Dis. 2005 May;11(5):715-8.
+PMID:15890126(PubMed abstract) Rathi A, Chakrabartu A, Agarwal T, et al. Pythium Keratitis Leading to Fatal Cavernous Sinus Thrombophlebitis. Cornea. 2018 Apr;37(4):519-522.
+PMID:29319595(PubMed abstract) Badenoch PR, Mills RA, Chang JH, et al. Pythium insidiosum keratitis in an Australian child. Clin Exp Ophthalmol. 2009 Nov;37(8):806-9.
+PMID:19878227(PubMed abstract) Del Castillo-Jimenez MC, Baptista-Diaz N, Montero J, Pascual A. Pythium insidiosum ocular infection. Enferm Infecc Micriobiol Clin. 2013 Feb;31(2):118-9.
+PMID:22981326(PubMed abstract) Jesus FP, Loreto ÉS, Ferreiro L, et al. In Vitro and In Vivo Antimicrobial Activities of Minocycline in Combination with Azithromycin, Clarithromycin, or Tigecycline against Pythium insidiosum. Antimicrob Agents Chemother. 2015 Oct 12;60(1):87-91.
+PMID:26459895(PubMed abstract) Jesus FP, Ferreiro L, Loreto ÉS, et al. In vitro synergism observed with azithromycin, clarithromycin, minocycline, or tigecycline in association with antifungal agents against Pythium insidiosum. Antimicrob Agents Chemother. 2014 Sep;58(9):5621-5.
+PMID:25001300(PubMed abstract)
+Gaastra W, Lipman LJ, De Cock AW, et al. Pythium insidiosum: an overview. Vet Microbiol. 2010 Nov 20;146(1-2):1-16.
+PMID:20800978(PubMed abstract)
 Krajaejun T, Sathapatayavongs B, Pracharktam R, et al. Clinical and epidemiological analyses of human pythiosis in Thailand. Clin Infect Dis. 2006 Sep 1;43(5):569-76.
-PMID:16886148 ( PubMed abstract )
+PMID:16886148(PubMed abstract)
 Salipante SJ, Hoogestraat DR, SenGupta DJ, et al. Molecular diagnosis of subcutaneous Pythium insidiosum infection by use of PCR screening and DNA sequencing. J Clin Microbiol. 2012 Apr;50(4):1480-3.
-PMID:22205808 ( PubMed abstract )
+PMID:22205808(PubMed abstract)
 Chitasombat MN, Larbcharoensub N, Chindamporn A, Krajaejun T. Clinicopathological features and outcomes of pythiosis. Int J Infect Dis. 2018 Jun;71:33-41.
-PMID:29653202 ( PubMed abstract )
+PMID:29653202(PubMed abstract)
 Bosco Sde M, Bagagli E, Araujo JP Jr, et al. Human pythiosis, Brazil. Emerg Infect Dis. 2005 May;11(5):715-8.
-PMID:15890126 ( PubMed abstract )
+PMID:15890126(PubMed abstract)
 Rathi A, Chakrabartu A, Agarwal T, et al. Pythium Keratitis Leading to Fatal Cavernous Sinus Thrombophlebitis. Cornea. 2018 Apr;37(4):519-522.
-PMID:29319595 ( PubMed abstract )
+PMID:29319595(PubMed abstract)
 Badenoch PR, Mills RA, Chang JH, et al. Pythium insidiosum keratitis in an Australian child. Clin Exp Ophthalmol. 2009 Nov;37(8):806-9.
-PMID:19878227 ( PubMed abstract )
+PMID:19878227(PubMed abstract)
 Del Castillo-Jimenez MC, Baptista-Diaz N, Montero J, Pascual A. Pythium insidiosum ocular infection. Enferm Infecc Micriobiol Clin. 2013 Feb;31(2):118-9.
-PMID:22981326 ( PubMed abstract )
+PMID:22981326(PubMed abstract)
 Jesus FP, Loreto ÉS, Ferreiro L, et al. In Vitro and In Vivo Antimicrobial Activities of Minocycline in Combination with Azithromycin, Clarithromycin, or Tigecycline against Pythium insidiosum. Antimicrob Agents Chemother. 2015 Oct 12;60(1):87-91.
-PMID:26459895 ( PubMed abstract )
+PMID:26459895(PubMed abstract)
 Jesus FP, Ferreiro L, Loreto ÉS, et al. In vitro synergism observed with azithromycin, clarithromycin, minocycline, or tigecycline in association with antifungal agents against Pythium insidiosum. Antimicrob Agents Chemother. 2014 Sep;58(9):5621-5.
-PMID:25001300 ( PubMed abstract )
+PMID:25001300(PubMed abstract)

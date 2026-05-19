@@ -10,7 +10,7 @@ The patient lived with his wife in Northern California, in a rural community, an
 The day before admission, he had used a “weed-whacker” in his yard. He owned horses, which he often rode and fed, and several dogs. His dogs were in good health and were known to eat horse manure.
 Three days before admission, he had been bitten on his right hand by one of the dogs while breaking up fight among the dogs. He reported no insect bites or mountain lion exposure. He regularly drank well water and, four days prior to admission, he had eaten grilled medium-rare hamburgers.
 Physical Examination
-The patient appeared uncomfortable. His temperature was 38.7°C (101.7°F), blood pressure 115/78 mm Hg, pulse 110 beats per minute, respirations 24 breaths per minute, and oxygen saturation 99% while on supplemental oxygen (6 liters by nasal cannula). Patches of purpura were confluent on his scalp and bilateral upper pinnae, and were not palpable. Reticular lesions were present on the lower abdomen, back, penis, scrotum, and upper thighs ( Figure 1 ). Three indurated puncture wounds (2-3 mm in diameter) were on the dorsal aspect of his right hand, without swelling, discharge, or surrounding erythema. The nose was markedly edematous and cyanotic ( Figure 2 ), and skin lesions were diffusely present on the scalp ( Figure 3 ). Mucous membranes were dry without mucosal lesions. The hands and feet were cyanotic ( Figure 4 ) and cold, with decreased sensation. The strength was normal. The dorsal pedis pulses were normal.
+The patient appeared uncomfortable. His temperature was 38.7°C (101.7°F), blood pressure 115/78 mm Hg, pulse 110 beats per minute, respirations 24 breaths per minute, and oxygen saturation 99% while on supplemental oxygen (6 liters by nasal cannula). Patches of purpura were confluent on his scalp and bilateral upper pinnae, and were not palpable. Reticular lesions were present on the lower abdomen, back, penis, scrotum, and upper thighs (Figure 1). Three indurated puncture wounds (2-3 mm in diameter) were on the dorsal aspect of his right hand, without swelling, discharge, or surrounding erythema. The nose was markedly edematous and cyanotic (Figure 2), and skin lesions were diffusely present on the scalp (Figure 3). Mucous membranes were dry without mucosal lesions. The hands and feet were cyanotic (Figure 4) and cold, with decreased sensation. The strength was normal. The dorsal pedis pulses were normal.
 Figure 1. Physical findings on back, buttocks and leg.
 Figure 2. Physical findings on the nose.
 Figure 3. Physical findings on the scalp.
@@ -21,12 +21,12 @@ The electrocardiogram showed sinus tachycardia, right axis deviation, and left v
 Clinical Course Prior to Diagnosis
 The patient was admitted to the intensive care unit and intravenous fluids, ceftriaxone and vancomycin were administered. Continuous renal replacement therapy was begun. A transthoracic echocardiogram showed global hypokinesis and reduced left ventricular systolic function with an ejection fraction of 35%. There was no evidence of vegetations or thrombus. Abdominal ultrasonography showed a normal liver and spleen, and diffusely echogenic kidneys, without evidence of hydronephrosis. Computed tomography (CT) of the brain demonstrated a small subdural hemorrhage.
 Diagnostic Procedure(s) and Result(s)
-After 4 days incubation, cultures of the blood cultures grew anaerobic gram-negative rods, which were identified as Capnocytophaga canimorsus .
+After 4 days incubation, cultures of the blood cultures grew anaerobic gram-negative rods, which were identified as Capnocytophaga canimorsus.
 Treatment and Followup
 The patient slowly improved over the next 10 days, with gradual resolution of the purpuric rash and improvement of organ function. Peripheral cyanosis and dry necrosis of his upper and lower extremities were monitored for potential amputation.
 The initial antibiotic regimen was narrowed to ceftriaxone after the gram-negative rod was isolated from blood cultures. The patient improved clinically and was discharged to a skilled nursing facility for rehabilitation and wound care. He remained on hemodialysis at the time of discharge.
 Discussion
-According to the Centers for Disease Control and Prevention (CDC), approximately 4 million dog bites occur annually in the United States. Of these, 300,000 people seek care in the emergency room, and there are 13,000 hospitalizations and 20 deaths annually. A study of wound culture data from patients seeking care in the emergency room found that both dog and cat bites were often polymicrobial, with both aerobic and anaerobic organisms recovered from cultures. Pasteurella species are most commonly found in wound cultures, followed by streptococci, staphylococci, Moraxella , Corynebacterium and Neisseria species. The most frequently occurring anaerobic organisms cultured from these wounds include Fusobacterium, Bacteroides, Porphyromonas, and Prevotella [Talan et al 1999].
+According to the Centers for Disease Control and Prevention (CDC), approximately 4 million dog bites occur annually in the United States. Of these, 300,000 people seek care in the emergency room, and there are 13,000 hospitalizations and 20 deaths annually. A study of wound culture data from patients seeking care in the emergency room found that both dog and cat bites were often polymicrobial, with both aerobic and anaerobic organisms recovered from cultures. Pasteurella species are most commonly found in wound cultures, followed by streptococci, staphylococci, Moraxella, Corynebacterium and Neisseria species. The most frequently occurring anaerobic organisms cultured from these wounds include Fusobacterium, Bacteroides, Porphyromonas, and Prevotella [Talan et al 1999].
 Capnocytophaga canimorsus is a facultative, fastidious gram-negative bacillus found in the mouth flora of dogs, cats, and humans. Its name is derived from the Greek for carbon-dioxide loving (capnocytophaga) and dog bite (canimorsus).
 C. canimorsus is often mistaken for other species of gram-negative bacilli. It may take days to identify this long, thin, slow-growing bacteria, and cultures may require at least 14 days incubation. Polymerase chain reaction (PCR) techniques are an option as well, though these are currently restricted to research laboratories.
 Since this bacteria was first described in the literature more than 30 years ago, more than 100 cases of C. canimorsus infection have been described, with a mortality rate of about 30% [Lion et al 1996].
@@ -35,10 +35,15 @@ Final Diagnosis
 Capnocytophaga canimorsus infection.
 References
 Janda, J.M., Graves, M.H., Lindquist, D., and Probert, W.S. (2006). Diagnosing Capnocytophaga canimorsus infections. Emerg Infect Dis 12, 340-342.
-PMID:16494769 ( PubMed abstract )
+PMID:16494769(PubMed abstract) Jolivet-Gougeon, A., Buffet, A., Dupuy, C., Sixou, J.L., Bonnaure-Mallet, M., David, S., and Cormier, M. (2000). In vitro susceptibilities of Capnocytophaga isolates to beta-lactam antibiotics and beta-lactamase inhibitors. Antimicrob Agents Chemother 44, 3186-3188.
+PMID:11036049(PubMed abstract) Lion, C., Escande, F., and Burdin, J.C. (1996). Capnocytophaga canimorsus infections in human: review of the literature and cases report. Eur J Epidemiol 12, 521-533.
+PMID:8905316(PubMed abstract) Talan, D.A., Citron, D.M., Abrahamian, F.M., Moran, G.J., and Goldstein, E.J. (1999). Bacteriologic analysis of infected dog and cat bites. Emergency Medicine Animal Bite Infection Study Group. N Engl J Med 340, 85-92.
+PMID:9887159(PubMed abstract)
+Janda, J.M., Graves, M.H., Lindquist, D., and Probert, W.S. (2006). Diagnosing Capnocytophaga canimorsus infections. Emerg Infect Dis 12, 340-342.
+PMID:16494769(PubMed abstract)
 Jolivet-Gougeon, A., Buffet, A., Dupuy, C., Sixou, J.L., Bonnaure-Mallet, M., David, S., and Cormier, M. (2000). In vitro susceptibilities of Capnocytophaga isolates to beta-lactam antibiotics and beta-lactamase inhibitors. Antimicrob Agents Chemother 44, 3186-3188.
-PMID:11036049 ( PubMed abstract )
+PMID:11036049(PubMed abstract)
 Lion, C., Escande, F., and Burdin, J.C. (1996). Capnocytophaga canimorsus infections in human: review of the literature and cases report. Eur J Epidemiol 12, 521-533.
-PMID:8905316 ( PubMed abstract )
+PMID:8905316(PubMed abstract)
 Talan, D.A., Citron, D.M., Abrahamian, F.M., Moran, G.J., and Goldstein, E.J. (1999). Bacteriologic analysis of infected dog and cat bites. Emergency Medicine Animal Bite Infection Study Group. N Engl J Med 340, 85-92.
-PMID:9887159 ( PubMed abstract )
+PMID:9887159(PubMed abstract)

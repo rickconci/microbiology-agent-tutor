@@ -15,15 +15,15 @@ The patient had smoked tobacco for more than 60 years. There was no significant 
 Physical Examination
 He was alert and oriented, and appeared in mild to moderate distress, with accessory muscle use. The temperature was 38.2°C (100.8°F), pulse 79 beats per minute, blood pressure 126/55 mm Hg, respirations 31 breaths per minute and oxygen saturation 95% while breathing 50% inspired oxygen by ventilation mask. The tongue was dry, with several vesicular ulcerations. There was also a large vesicle on his posterior pharynx, and an ulcerated area of skin (4 cm in length) extending inferiorly from the corner of his mouth. Auscultation of the lungs revealed decreased breath sounds in all lung fields and bibasilar crackles. The remainder of the examination was normal.
 Studies
-The white blood cell count was 11,600 cells per cubic millimeter, with 60% polymorphonuclear cells, 22% band forms, 5% lymphocytes, 6% monocytes, 5% eosinophils, 1% basophils, and 1% atypical lymphocytes. The creatinine was 1.4 mg/dL (reference range 0.7-1.5 mg/dL), and the potassium was 2.9 mmol/L (reference range 3.3-5.3 mmol/L). The other initial laboratory results were normal, including levels of the remaining electrolytes, glucose and tests of liver function. Computed tomography (CT) of the chest ( Figures 1 and 2 ) revealed diffuse lymphadenopathy in the mediastinal and hilar areas, marked emphysematous changes, and pleural effusions with adjacent compressive atelectasis and infiltrates within the hemithoraces. The upper lobes demonstrated a more interstitial pattern than the lower lobes.
+The white blood cell count was 11,600 cells per cubic millimeter, with 60% polymorphonuclear cells, 22% band forms, 5% lymphocytes, 6% monocytes, 5% eosinophils, 1% basophils, and 1% atypical lymphocytes. The creatinine was 1.4 mg/dL (reference range 0.7-1.5 mg/dL), and the potassium was 2.9 mmol/L (reference range 3.3-5.3 mmol/L). The other initial laboratory results were normal, including levels of the remaining electrolytes, glucose and tests of liver function. Computed tomography (CT) of the chest (Figures 1 and 2) revealed diffuse lymphadenopathy in the mediastinal and hilar areas, marked emphysematous changes, and pleural effusions with adjacent compressive atelectasis and infiltrates within the hemithoraces. The upper lobes demonstrated a more interstitial pattern than the lower lobes.
 Figure 1. CT of the chest.
 Figure 2. CT of the chest.
 Clinical Course Prior to Diagnosis
 Vancomycin, ciprofloxacin, and piperacillin-tazobactam were administered empirically for treatment of a possible hospital-acquired pneumonia. Hypoxia and respiratory distress increased, and he was transferred to a step-down unit for closer observation; he did not require intubation. On the 3rd day, fevers and hypoxia persisted, and chest radiographs revealed increasing infiltrates despite broad-spectrum antibiotics. Piperacillin-tazobactam was stopped, and meropenem and acyclovir were added empirically.
-Bronchoscopy with alveolar lavage (BAL) did not reveal any abnormalities on gross examination. Examination of the aspirate with gram stain showed few polymorphonuclear cells and no organisms. Cytopathological examination of the BAL specimen is shown in Figure 3 .
+Bronchoscopy with alveolar lavage (BAL) did not reveal any abnormalities on gross examination. Examination of the aspirate with gram stain showed few polymorphonuclear cells and no organisms. Cytopathological examination of the BAL specimen is shown in Figure 3.
 Figure 3. BAL cytopathology.
 Diagnostic Procedure(s) and Result(s)
-Direct fluorescent antigen of the oral ulcer was positive for herpes simplex virus (HSV), type-1. Bacterial cultures from the aspirate were sterile, but cytopathologic examination of a specimen from the bronchoalveolar lavage (BAL) showed evidence of HSV invasion with multinucleated giant cells ( Figure 3 ). Viral culture from the BAL was positive for HSV, type 1.
+Direct fluorescent antigen of the oral ulcer was positive for herpes simplex virus (HSV), type-1. Bacterial cultures from the aspirate were sterile, but cytopathologic examination of a specimen from the bronchoalveolar lavage (BAL) showed evidence of HSV invasion with multinucleated giant cells (Figure 3). Viral culture from the BAL was positive for HSV, type 1.
 Treatment and Followup
 The fevers resolved, and the respiratory symptoms and hypoxia slowly improved. A two-week course of acyclovir and meropenem were administered. He was discharged back to the skilled nursing facility on minimal supplemental oxygen. Two months later, a chest CT scan showed minimal residual bilateral infiltrates and reduction of the mediastinal and hilar lymphadenopathy.
 Discussion
@@ -32,10 +32,15 @@ Final Diagnosis
 Herpes simplex virus, type 1, (HSV-1) pneumonia.
 References
 Camps, K., Jorens, P.G., Demey, H.E., Pattyn, S.R., and Ieven, M. (2002). Clinical significance of herpes simplex virus in the lower respiratory tract of critically ill patients. Eur J Clin Microbiol Infect Dis 21, 758-759.
-PMID:12415478 ( PubMed abstract )
+PMID:12415478(PubMed abstract) Cunha, B.A., Eisenstein, L.E., Dillard, T., and Krol, V. (2007). Herpes simplex virus (HSV) pneumonia in a heart transplant: diagnosis and therapy. Heart Lung 36, 72-78.
+PMID:17234480(PubMed abstract) Simoons-Smit, A.M., Kraan, E.M., Beishuizen, A., Strack van Schijndel, R.J., and Vandenbroucke-Grauls, C.M. (2006). Herpes simplex virus type 1 and respiratory disease in critically-ill patients: Real pathogen or innocent bystander? Clin Microbiol Infect 12, 1050-1059.
+PMID:17002604(PubMed abstract) Tuxen, D.V., Cade, J.F., McDonald, M.I., Buchanan, M.R., Clark, R.J., and Pain, M.C. (1982). Herpes simplex virus from the lower respiratory tract in adult respiratory distress syndrome. Am Rev Respir Dis 126, 416-419.
+PMID:6289702(PubMed abstract)
+Camps, K., Jorens, P.G., Demey, H.E., Pattyn, S.R., and Ieven, M. (2002). Clinical significance of herpes simplex virus in the lower respiratory tract of critically ill patients. Eur J Clin Microbiol Infect Dis 21, 758-759.
+PMID:12415478(PubMed abstract)
 Cunha, B.A., Eisenstein, L.E., Dillard, T., and Krol, V. (2007). Herpes simplex virus (HSV) pneumonia in a heart transplant: diagnosis and therapy. Heart Lung 36, 72-78.
-PMID:17234480 ( PubMed abstract )
+PMID:17234480(PubMed abstract)
 Simoons-Smit, A.M., Kraan, E.M., Beishuizen, A., Strack van Schijndel, R.J., and Vandenbroucke-Grauls, C.M. (2006). Herpes simplex virus type 1 and respiratory disease in critically-ill patients: Real pathogen or innocent bystander? Clin Microbiol Infect 12, 1050-1059.
-PMID:17002604 ( PubMed abstract )
+PMID:17002604(PubMed abstract)
 Tuxen, D.V., Cade, J.F., McDonald, M.I., Buchanan, M.R., Clark, R.J., and Pain, M.C. (1982). Herpes simplex virus from the lower respiratory tract in adult respiratory distress syndrome. Am Rev Respir Dis 126, 416-419.
-PMID:6289702 ( PubMed abstract )
+PMID:6289702(PubMed abstract)

@@ -8,19 +8,20 @@ Medications included vancomycin, piperacillin-tazobactam, and amphotericin lipid
 Physical Examination
 A thin woman in mild distress with the right hip in flexion. The temperature was 100.6°F (38.1°C) and pulse 121 beats per minute. The right hip was exquisitely tender to palpation and she would not allow any extension. The remainder of the examination was unremarkable.
 Studies
-She was neutropenic with an absolute neutrophil count 15 cells/mcL, hematocrit 32.7%, and platelet count of 3300/mm³. Computed tomography (CT) of the chest demonstrated nodular densities in the apices. Magnetic resonance imaging (MRI) of the pelvis demonstrated narrowing of the right hip joint space with erosions of the femoral head and acetabular surfaces, and the iliacus and gluteal muscles adjacent to the joint demonstrated edematous changes ( Figure 1 ). A juxta-articular fluid collection (6 cm by 3 cm) communicated with the joint ( Figure 2 ).
+She was neutropenic with an absolute neutrophil count 15 cells/mcL, hematocrit 32.7%, and platelet count of 3300/mm³. Computed tomography (CT) of the chest demonstrated nodular densities in the apices. Magnetic resonance imaging (MRI) of the pelvis demonstrated narrowing of the right hip joint space with erosions of the femoral head and acetabular surfaces, and the iliacus and gluteal muscles adjacent to the joint demonstrated edematous changes (Figure 1). A juxta-articular fluid collection (6 cm by 3 cm) communicated with the joint (Figure 2).
 Figure 1. Pelvic MRI scan.
 Figure 2. Pelvic MRI scan.
 Clinical Course Prior to Diagnosis
-The patient underwent CT-guided needle aspiration and drainage of the fluid. The fluid analysis demonstrated 87,000 white blood cells/mcL (WBCs) (89% leukocytes, 7% lymphocytes, 4% monocytes) and 15,708 red blood cells/mcL (RBCs). The cytopathology did not reveal malignant cells but showed rare fungal hyphae. The fungal culture identified the pathogen ( Figures 3 and 4 ).
+The patient underwent CT-guided needle aspiration and drainage of the fluid. The fluid analysis demonstrated 87,000 white blood cells/mcL (WBCs) (89% leukocytes, 7% lymphocytes, 4% monocytes) and 15,708 red blood cells/mcL (RBCs). The cytopathology did not reveal malignant cells but showed rare fungal hyphae. The fungal culture identified the pathogen (Figures 3 and 4).
 Figure 3. Culture of joint aspiration.
 Figure 4. Culture of joint aspiration.
 Diagnostic Procedure(s) and Result(s)
-Fungal cultures grew Scedosporium apiospermum , the asexual form of Pseudallescheria boydii . Figures 3 and 4 show the hyphae and terminal annelloconidia of S. apiospermum .
+Fungal cultures grew Scedosporium apiospermum, the asexual form of Pseudallescheria boydii. Figures 3 and 4 show the hyphae and terminal annelloconidia of S. apiospermum.
 Treatment and Followup
 Because of clinical progression while the patient was on liposomal amphotericin, the antibiotic was changed to voriconazole. She became afebrile and her hip pain resolved.
 Discussion
 Invasive fungal infections are the leading cause of death due to infectious agents in neutropenic patients. The majority of these fungal infections are presumed due to Aspergillus species, however rare molds are emerging as major pathogens in neutropenia. Despite the implementation of early empiric amphotericin B therapy, mortality is still high (>50%).
 Scedosporium apiospermum is a ubiquitous mold found in soil and water, and rarely causes disease in humans. It morphologically can resemble other fungi, like Aspergillus species, which highlights the importance of culturing biopsy material for proper identification and appropriate treatment. Therapy is difficult due to resistance of this organism to amphotericin B. Voriconazole may be effective against Scedosporium apiospermum infections, but close monitoring is essential.
 Final Diagnosis
-Scedosporium apiospermum (the asexual form of Pseudallescheria boydii ) joint infection in a patient with acute myelocytic leukemia (AML).
+Scedosporium apiospermum (the asexual form of Pseudallescheria boydii) joint infection in a patient with acute myelocytic leukemia (AML).
+References

@@ -11,29 +11,34 @@ Physical Examination
 He appeared ill. The blood pressure was 116/61 mmHg, pulse 129 beats per minute, and temperature 102.4°F (39.1°C). The lungs were clear. Pain in the right lower abdomen was noted on palpation, and no abdominal masses were felt. There was no lymphadenopathy, and the remainder of the examination was normal.
 Studies
 The white cell count was 14,100 cells/mm³, hemoglobin 13.4 g/dL, and results of liver function testing were normal. A screening test for human immunodeficiency virus (HIV), urinalysis and staining of a sputum specimen for acid-fast bacilli were negative.
-The chest radiograph was normal. Computed tomography (CT), shown in Figures 1 and 2 , demonstrated circumferential wall thickening of the terminal ileum, and the ascending colon, hepatic flexure and transverse colon. There was no lymphadenopathy and no ascites.
+The chest radiograph was normal. Computed tomography (CT), shown in Figures 1 and 2, demonstrated circumferential wall thickening of the terminal ileum, and the ascending colon, hepatic flexure and transverse colon. There was no lymphadenopathy and no ascites.
 Figure 1. CT scan of abdomen.
 Figure 2. CT scan of abdomen.
 Clinical Course Prior to Diagnosis
-Colonoscopic examination revealed diverticulosis with inflamed and ulcerated mucosal lesions, colonic polyps, and an incompetent ileocecal valve ( Figures 3 through 5 ). Pathological examination of biopsy specimens from the terminal ileum showed moderate acute and chronic inflammation and acute cryptitis. There were no granulomas identified. Specimens from the ascending colon showed marked acute and chronic colitis with acute cryptitis, and granulomatous inflammation. The findings were thought to be consistent with chronic inflammatory bowel disease. Staining for acid-fast bacilli and fungi were negative.
+Colonoscopic examination revealed diverticulosis with inflamed and ulcerated mucosal lesions, colonic polyps, and an incompetent ileocecal valve (Figures 3 through 5). Pathological examination of biopsy specimens from the terminal ileum showed moderate acute and chronic inflammation and acute cryptitis. There were no granulomas identified. Specimens from the ascending colon showed marked acute and chronic colitis with acute cryptitis, and granulomatous inflammation. The findings were thought to be consistent with chronic inflammatory bowel disease. Staining for acid-fast bacilli and fungi were negative.
 Figure 3. Colonoscopy findings.
 Figure 4. Colonoscopy findings.
 Figure 5. Colonoscopy findings.
 Diagnostic Procedure(s) and Result(s)
-A skin test for tuberculosis was positive at 22 millimeters induration. Two weeks later, sputum and stool cultures grew acid-fast bacilli, identified as Mycobacterium tuberculosis ( Figure 6 ).
+A skin test for tuberculosis was positive at 22 millimeters induration. Two weeks later, sputum and stool cultures grew acid-fast bacilli, identified as Mycobacterium tuberculosis (Figure 6).
 Figure 6. AFB growth from culture.
 Treatment and Followup
 A diagnosis of Crohn’s disease was initially made and high dose steroids, plus isoniazid for tuberculosis prophylaxis, were begun. After the cultures grew Mycobacterium tuberculosis, ethambutol, pyrazinamide, rifampin and isoniazid were administered and steroids were stopped.
 Discussion
 An increase in the number of tuberculosis cases has been seen in the United States, because of the incidence of AIDS, drug abuse and an influx of immigrants from areas of high TB endemicity. Within the gastrointestinal tract, the ileocecal valve is the most common site of involvement. Symptoms are vague and non-specific, and may be acute, acute-on-chronic, or chronic in presentation. A positive purified protein derivative (PPD) skin test for tuberculosis is found in 70-86% of patients. Colonoscopy is the most valuable diagnostic tool and the diagnostic yield is increased by performing histology, smear and culture on all specimens.
 Final Diagnosis
-Gastrointestinal tuberculosis, caused by Mycobacterium tuberculosis .
+Gastrointestinal tuberculosis, caused by Mycobacterium tuberculosis.
 References
 Bhargava, D.K., Kushwaha, A.K., Dasarathy, S., Shriniwas, and Chopra, P. (1992). Endoscopic diagnosis of segmental colonic tuberculosis. Gastrointest Endosc 38, 571-574.
-PMID:1397913 ( PubMed abstract )
+PMID:1397913(PubMed abstract) Bolukbas, C., Bolukbas, F.F., Kendir, T., Dalay, R.A., Akbayir, N., Sokmen, M.H., Ince, A.T., Guran, M., Ceylan, E., Kilic, G., and Ovunc, O. (2005). Clinical presentation of abdominal tuberculosis in HIV seronegative adults. BMC Gastroenterol 5, 21.
+PMID:15969744(PubMed abstract) Horvath, K.D., and Whelan, R.L. (1998). Intestinal tuberculosis: return of an old disease. Am J Gastroenterol 93, 692-696
+PMID:9625110(PubMed abstract) Kim, K.M., Lee, A., Choi, K.Y., Lee, K.Y., and Kwak, J.J. (1998). Intestinal tuberculosis: clinicopathologic analysis and diagnosis by endoscopic biopsy. Am J Gastroenterol 93, 606-609.
+PMID:9576456(PubMed abstract)
+Bhargava, D.K., Kushwaha, A.K., Dasarathy, S., Shriniwas, and Chopra, P. (1992). Endoscopic diagnosis of segmental colonic tuberculosis. Gastrointest Endosc 38, 571-574.
+PMID:1397913(PubMed abstract)
 Bolukbas, C., Bolukbas, F.F., Kendir, T., Dalay, R.A., Akbayir, N., Sokmen, M.H., Ince, A.T., Guran, M., Ceylan, E., Kilic, G., and Ovunc, O. (2005). Clinical presentation of abdominal tuberculosis in HIV seronegative adults. BMC Gastroenterol 5, 21.
-PMID:15969744 ( PubMed abstract )
+PMID:15969744(PubMed abstract)
 Horvath, K.D., and Whelan, R.L. (1998). Intestinal tuberculosis: return of an old disease. Am J Gastroenterol 93, 692-696
-PMID:9625110 ( PubMed abstract )
+PMID:9625110(PubMed abstract)
 Kim, K.M., Lee, A., Choi, K.Y., Lee, K.Y., and Kwak, J.J. (1998). Intestinal tuberculosis: clinicopathologic analysis and diagnosis by endoscopic biopsy. Am J Gastroenterol 93, 606-609.
-PMID:9576456 ( PubMed abstract )
+PMID:9576456(PubMed abstract)

@@ -2,10 +2,9 @@ History of Present Illness
 IDSA 2002 Case Summary: A man with a history of leukemia and fever, cough, confusion and dizziness.
 A man in his forties developed relapsed acute myelogenous leukemia (AML) two years after an autologous transplant, and underwent haplo-identical peripheral blood stem cell transplant.
 Because of T-cell depletion of the graft, the lymphocyte count remained severely depleted throughout his subsequent course, although his neutropenia resolved by day 12 after transplant. Following the transplant, intravenous immunoglobulin was administered weekly, and he received monthly pentamidine and itraconazole prophylaxis. On day 132 post-transplant, he was admitted because of fever, with a temperature to 40.5°C (104.9°F), and dry cough, with clear rhinorrhea.
-Computed tomography (CT) of the chest revealed ground-glass opacity in the left upper lobe ( Figure 1 ).
+Computed tomography (CT) of the chest revealed ground-glass opacity in the left upper lobe (Figure 1).
 Blood cultures grew coagulase-negative staphylococci. Vancomycin and cefepime were administered and he defervesced. He continued his prophylactic medications as before.
 Six days later, he returned for evaluation because of dizziness, lethargy and intermittent confusion, as well as persistent respiratory symptoms. He had problems with balance and reported nausea and vomiting, with no headaches or focal neurologic deficits.
-Figure 1. Image
 Figure 1. Chest CT scan.
 Past Medical History
 See above.
@@ -18,24 +17,27 @@ He did not smoke or drink alcohol, or have pet or travel exposures.
 Physical Examination
 The patient was somnolent but arousable. The temperature was 36.5°C (97.7°F), pulse 78 beats per minute, blood pressure 139/93 mm Hg, respirations 18 breaths per minute, and oxygen saturation 96%. Neurological examination revealed that he was fully oriented, had slow but appropriate responses to questions, and cranial nerves were intact. The remainder of the examination was normal.
 Studies
-The white blood cell count (WBC) was 7,500/mm³ (77% polymorphonuclear leukocytes, 13% lymphocytes, 10% monocytes, and 0% eosinophils), hematocrit 35% and platelets 33,000/mm³. Results of laboratory testing of serum chemistries, including liver function tests, were normal. A chest radiograph showed no infiltrates or effusions. CT of the head showed pan-sinusitis and multiple lesions in the cerebellum, and in the deep gray matter and the temporal areas. Magnetic resonance imaging (MRI) scan of the head, with gadolinium, showed multiple enhancing lesions (2 mm to 5 cm in diameter). (See Figure 2 .)
+The white blood cell count (WBC) was 7,500/mm³ (77% polymorphonuclear leukocytes, 13% lymphocytes, 10% monocytes, and 0% eosinophils), hematocrit 35% and platelets 33,000/mm³. Results of laboratory testing of serum chemistries, including liver function tests, were normal. A chest radiograph showed no infiltrates or effusions. CT of the head showed pan-sinusitis and multiple lesions in the cerebellum, and in the deep gray matter and the temporal areas. Magnetic resonance imaging (MRI) scan of the head, with gadolinium, showed multiple enhancing lesions (2 mm to 5 cm in diameter). (See Figure 2.)
 He was admitted to the hospital. Liposomal amphotericin was administered for presumptive fungal sinusitis and brain abscess.
 Figure 2. Head MRI scan with gadolinium.
 Clinical Course Prior to Diagnosis
 The patient developed seizure activity and his mental and respiratory condition progressively deteriorated. Comfort measures were instituted and he expired soon after admission. An autopsy was performed.
-Hematoxylin and eosin (H & E) stains of brain and lung tissue are shown in Figures 3 and 4 .
+Hematoxylin and eosin (H & E) stains of brain and lung tissue are shown in Figures 3 and 4.
 Figure 3. H and E stain of brain tissue.
 Figure 4. H and E stain of lung tissue.
 Diagnostic Procedure(s) and Result(s)
-The autopsy revealed amebic encephalitis and necrotizing amebic pneumonia with granulomatous features. Pathological examination of sections of brain and lung revealed marked perivascular acute and chronic inflammatory infiltrate with large “histiocytoid” appearing Acanthamoeba trophozoites. Meningeal involvement was absent. Immunofluorescent staining of the tissue performed at the Centers for Disease Control and Prevention (CDC) identified the amebae as Acanthamoeba castellanii ( Figure 5 ).
+The autopsy revealed amebic encephalitis and necrotizing amebic pneumonia with granulomatous features. Pathological examination of sections of brain and lung revealed marked perivascular acute and chronic inflammatory infiltrate with large “histiocytoid” appearing Acanthamoeba trophozoites. Meningeal involvement was absent. Immunofluorescent staining of the tissue performed at the Centers for Disease Control and Prevention (CDC) identified the amebae as Acanthamoeba castellanii (Figure 5).
 Figure 5. Fluorescent stain.
 Treatment and Followup
 Discussion
-Acanthamoeba are ubiquitous in the environment. Portals of entry include upper respiratory tract and skin. The organism can cause encephalitis and disseminated disease in immunosuppressed patients. Disease due to Acanthamoeba may present sub-acutely, as opposed to Naegleria , which usually presents fulminantly. Clinical manifestations of Acanthamoeba infection include sinusitis, skin nodules, pneumonia and encephalitis. Once central nervous system dissemination occurs, clinical deterioration may be rapid.
+Acanthamoeba are ubiquitous in the environment. Portals of entry include upper respiratory tract and skin. The organism can cause encephalitis and disseminated disease in immunosuppressed patients. Disease due to Acanthamoeba may present sub-acutely, as opposed to Naegleria, which usually presents fulminantly. Clinical manifestations of Acanthamoeba infection include sinusitis, skin nodules, pneumonia and encephalitis. Once central nervous system dissemination occurs, clinical deterioration may be rapid.
 Final Diagnosis
 Disseminated Acanthamoeba castellanii in a patient status post peripheral blood stem cell transplant for acute myelogenous leukemia.
 References
 Abd H, Saeed A, Jalal S, Bekassy AN, Sandström G. (2009). Ante mortem diagnosis of amoebic encephalitis in a haematopoietic stem cell transplanted patient.Scand J Infect Dis. 2009;41(8):619-22.
-PMID:19479635 ( PubMed abstract )
+PMID:19479635(PubMed abstract) Schuster FL, Visvesvara GS. (2004). Opportunistic amoebae: challenges in prophylaxis and treatment. Drug Resist Updat. 2004 Feb;7(1):41-51.
+PMID:15072770(PubMed abstract)
+Abd H, Saeed A, Jalal S, Bekassy AN, Sandström G. (2009). Ante mortem diagnosis of amoebic encephalitis in a haematopoietic stem cell transplanted patient.Scand J Infect Dis. 2009;41(8):619-22.
+PMID:19479635(PubMed abstract)
 Schuster FL, Visvesvara GS. (2004). Opportunistic amoebae: challenges in prophylaxis and treatment. Drug Resist Updat. 2004 Feb;7(1):41-51.
-PMID:15072770 ( PubMed abstract )
+PMID:15072770(PubMed abstract)

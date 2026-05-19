@@ -14,11 +14,13 @@ An ultrasound liver revealed an ill-defined hypoechoic mass (Figure 1). MRI of t
 CT-guided biopsy of the left hepatic lobe lesion was performed.
 Figure 1. Ultrasound of the liver demonstrating an ill-defined hypo-echoic mass in the left lateral segment of the liver (arrow).
 Figure 2. Figure 2a. MRI of abdomen demonstrating a 2.8 cm rim-enhancing lesion with central necrosis in the left lateral hepatic segment (T1 weighted post contrast).
+Figure 2a. MRI of abdomen demonstrating a 2.8 cm rim-enhancing lesion with central necrosis in the left lateral hepatic segment (T1 weighted post contrast).
 Figure 3. Figure 2b. MRI of abdomen demonstrating a 2.8 cm rim-enhancing lesion with central necrosis in the left lateral hepatic segment (diffusion sequence).
+Figure 2b. MRI of abdomen demonstrating a 2.8 cm rim-enhancing lesion with central necrosis in the left lateral hepatic segment (diffusion sequence).
 Clinical Course Prior to Diagnosis
-Two weeks after the liver biopsy was performed the patient returned with a new complaint of a non-pruritic, maculopapular rash, spread throughout his trunk, abdomen, upper and lower extremities (Figure 3). A single lesion was also seen on his left palm (Figure 4). He also complained of intermittent night sweats, feeling “feverish”, chills, myalgia and RUQ pain exacerbated by taking a deep breath.
+Two weeks after the liver biopsy was performed the patient returned with a new complaint of a non-pruritic, maculopapular rash, spread throughout his trunk, abdomen, upper and lower extremities (Figure 3). A single lesion was also seen on his left palm (Figure 4). He also complained of intermittent night sweats, feeling “feverish”, chills, myalgia and RUQ pain exacerbated by taking a deep breath. Figure 3. Maculopopular rash seen on the upper back. Figure 4. Papular lesion seen on the left palm.
 Figure 4. Maculopopular rash seen on the upper back.
-Figure 5. Papular lesion seen on the left palm.
+Figure 5. Warthin-Starry silver stain of liver biopsy (60x) demonstrating a spiral-shaped organism (arrow).
 Diagnostic Procedure(s) and Result(s)
 Serum Rapid Plasma Reagin (RPR) titer was newly elevated at 1:256. Core biopsy of the liver lesion revealed acute inflammation, consistent with necrotic abscess. Spiral shaped organisms were noted on Warthin-Starry silver staining (Figure 5). Aerobic, anaerobic, fungal, and AFB cultures were negative as was the flow cytometry and cytology.
 Given his ongoing headache, lumbar puncture was performed. Cerebrospinal fluid (CSF) analysis revealed 20 white blood cells (92% lymphocytes), normal glucose and normal protein level. CSF bacterial culture was negative. The fluorescent treponemal antibody absorption test (FTA-ABS) in the CSF was positive but CSF VDRL (Venereal Disease Research Laboratory) was negative. He had a colonoscopy performed to investigate the ‘rectal lump’ which revealed a hyperplastic cecal polyp, colonic tubular adenoma and diverticulosis.
@@ -26,7 +28,7 @@ Figure 6. Warthin-Starry silver stain of liver biopsy (60x) demonstrating a spir
 Treatment and Followup
 The patient was diagnosed with syphilis associated with CNS involvement, hepatic abscess and splenic nodules. He was treated with 14 days of intravenous penicillin G at a dose of 24 million units per day. Liver function tests normalized within three weeks of completion of therapy. RPR, repeated four months after treatment, decreased to a titer of 1:4. There was complete resolution of his headache, proctitis and skin rash following treatment. Repeat liver ultrasound four months after therapy showed a decrease in the size of the left hepatic lobe lesion from 2.8 cm to 1.0 cm.
 Discussion
-Syphilis is caused by the spirochete, Treponema pallidum . The primary stage of syphilis presents as a single or multiple ulcerative lesion(s) at the point of entry, usually as genital ulcerative disease. If left untreated, syphilis progresses to the secondary disseminated stage and one third of these patients may silently develop latent stage syphilis, characterized by cardiovascular and/or CNS complications or gummatous destructive lesions over the ensuing 5-30 years. However, it is interesting to note that idea of distinct phases of primary, secondary and tertiary syphilis is being challenged, particularly in the HIV-infected population.
+Syphilis is caused by the spirochete, Treponema pallidum. The primary stage of syphilis presents as a single or multiple ulcerative lesion(s) at the point of entry, usually as genital ulcerative disease. If left untreated, syphilis progresses to the secondary disseminated stage and one third of these patients may silently develop latent stage syphilis, characterized by cardiovascular and/or CNS complications or gummatous destructive lesions over the ensuing 5-30 years. However, it is interesting to note that idea of distinct phases of primary, secondary and tertiary syphilis is being challenged, particularly in the HIV-infected population.
 The incidence of syphilis in the US is increasing. Between 2015 and 2016, the number of reported primary and secondary cases in the United States increased by 18%, and there were 27,814 primary and secondary syphilis cases reported in 2016. Most (58%) of these cases were among men-who-have-sex-with-men (MSM). It is recommended MSM should be screened for STI at least annually and every 3-6 months for those at high-risk (eg. those with multiple or anonymous sexual partners). This is particularly true since many STIs, including primary syphilis, may be asymptomatic and may go unrecognized [1-3].
 Syphilis infection is an independent risk factor for future HIV acquisition [8]. Rectal gonococcal or chlamydia infection can increase the risk of HIV seroconversion by up to eight times [9]. Therefore, all patients with syphilis should also be offered HIV screening [10].
 The role of HIV pre-exposure prophylaxis (PrEP) in the rise of the syphilis epidemic is currently debated [11]. Kojima et al. have reported that MSM populations taking PrEP for HIV prevention are up to 44.6 times more likely to contract syphilis infection than MSM population not on PrEP with other studies pending [12]. The use of doxycycline chemoprophylaxis against syphilis has been proposed as a prevention tool in high risk MSM [13], but this remains controversial.
@@ -39,32 +41,48 @@ Final Diagnosis
 Syphilis with CNS involvement, hepatic abscess, and splenic nodules in a HIV-infected man
 References
 Increased transmission of syphilis in Brighton and Greater Manchester among men who have sex with men. Commun. Dis. Rep. CDR Wkly. 10, 383, 386 (2000).
-PMID:11085013 ( PubMed abstract )
+PMID:11085013(PubMed abstract) Mullick, C. J. et al. Syphilitic hepatitis in HIV-infected patients: a report of 7 cases and review of the literature. Clin. Infect. Dis. 39, e100–5 (2004).
+PMID:15546070(PubMed abstract) Crum-Cianflone, N., Weekes, J. & Bavaro, M. Syphilitic hepatitis among HIV-infected patients. Int. J. STD AIDS 20, 278–284 (2009).
+PMID:19304979(PubMed abstract) Béraud, G. et al. Anicteric cholestasis among HIV infected patients with syphilis. Scand. J. Infect. Dis. 41, 524–527 (2009).
+PMID:19263273(PubMed abstract) Campisi, D. Liver Disease in Early Syphilis. Arch. Intern. Med. 139, 365 (1979).
+PMID:426583(PubMed abstract) Lee, R. V., Thornton, G. F. & Conn, H. O. Liver Disease Associated with Secondary Syphilis. N. Engl. J. Med. 284, 1423–1425 (1971).
+PMID:4931102(PubMed abstract) Chen, J.-F., Chen, W.-X., Zhang, H.-Y. & Zhang, W.-Y. Peliosis and gummatous syphilis of the liver: a case report. World J. Gastroenterol. 14, 1961–1963 (2008).
+PMID:18350643(PubMed abstract) Girometti, N. et al., 2017. High HIV incidence in men who have sex with men following an early syphilis diagnosis: is there room for pre-exposure prophylaxis as a prevention strategy? Sexually transmitted infections, 93(5), pp.320–322.
+PMID:28729516(PubMed abstract) Bernstein, K.T. et al., 2010. Rectal gonorrhea and chlamydia reinfection is associated with increased risk of HIV seroconversion. Journal of acquired immune deficiency syndromes, 53(4), pp.537–543.
+PMID:19935075(PubMed abstract) Shilaih, M. et al., 2017. Factors associated with syphilis incidence in the HIV-infected in the era of highly active antiretrovirals. Medicine, 96(2), p.e5849
+PMID:28079818(PubMed abstract) Nguyen, V.-K. et al., 2017. Incidence of sexually transmitted infections before and after Pre-Exposure Prophylaxis for HIV: a cohort study. AIDS. Available at: http://dx.doi.org/10.1097/QAD.0000000000001718.
+PMID:29239887(PubMed abstract) Kojima, N., Davey, D.J. & Klausner, J.D., 2016. Pre-exposure prophylaxis for HIV infection and new sexually transmitted infections among men who have sex with men. AIDS, 30(14), pp.2251–2252.
+PMID:27314179(PubMed abstract) Bolan, R.K. et al., 2015. Doxycycline prophylaxis to reduce incident syphilis among HIV-infected men who have sex with men who continue to engage in high-risk sex: a randomized, controlled pilot study. Sexually transmitted diseases, 42(2), pp.98–103.
+PMID:25585069(PubMed abstract) Clement, M.E., Okeke, N.L. & Hicks, C.B., 2014. Treatment of syphilis: a systematic review. JAMA: the journal of the American Medical Association, 312(18), pp.1905–1917.
+PMID:25387188(PubMed abstract) Ghanem, K.G. & Workowski, K.A., 2011. Management of adult syphilis. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 53 Suppl 3, pp.S110–28.
+PMID:26602620(PubMed abstract)
+Increased transmission of syphilis in Brighton and Greater Manchester among men who have sex with men. Commun. Dis. Rep. CDR Wkly. 10, 383, 386 (2000).
+PMID:11085013(PubMed abstract)
 Mullick, C. J. et al. Syphilitic hepatitis in HIV-infected patients: a report of 7 cases and review of the literature. Clin. Infect. Dis. 39, e100–5 (2004).
-PMID:15546070 ( PubMed abstract )
+PMID:15546070(PubMed abstract)
 Crum-Cianflone, N., Weekes, J. & Bavaro, M. Syphilitic hepatitis among HIV-infected patients. Int. J. STD AIDS 20, 278–284 (2009).
-PMID:19304979 ( PubMed abstract )
+PMID:19304979(PubMed abstract)
 Béraud, G. et al. Anicteric cholestasis among HIV infected patients with syphilis. Scand. J. Infect. Dis. 41, 524–527 (2009).
-PMID:19263273 ( PubMed abstract )
+PMID:19263273(PubMed abstract)
 Campisi, D. Liver Disease in Early Syphilis. Arch. Intern. Med. 139, 365 (1979).
-PMID:426583 ( PubMed abstract )
+PMID:426583(PubMed abstract)
 Lee, R. V., Thornton, G. F. & Conn, H. O. Liver Disease Associated with Secondary Syphilis. N. Engl. J. Med. 284, 1423–1425 (1971).
-PMID:4931102 ( PubMed abstract )
+PMID:4931102(PubMed abstract)
 Chen, J.-F., Chen, W.-X., Zhang, H.-Y. & Zhang, W.-Y. Peliosis and gummatous syphilis of the liver: a case report. World J. Gastroenterol. 14, 1961–1963 (2008).
-PMID:18350643 ( PubMed abstract )
+PMID:18350643(PubMed abstract)
 Girometti, N. et al., 2017. High HIV incidence in men who have sex with men following an early syphilis diagnosis: is there room for pre-exposure prophylaxis as a prevention strategy? Sexually transmitted infections, 93(5), pp.320–322.
-PMID:28729516 ( PubMed abstract )
+PMID:28729516(PubMed abstract)
 Bernstein, K.T. et al., 2010. Rectal gonorrhea and chlamydia reinfection is associated with increased risk of HIV seroconversion. Journal of acquired immune deficiency syndromes, 53(4), pp.537–543.
-PMID:19935075 ( PubMed abstract )
+PMID:19935075(PubMed abstract)
 Shilaih, M. et al., 2017. Factors associated with syphilis incidence in the HIV-infected in the era of highly active antiretrovirals. Medicine, 96(2), p.e5849
-PMID:28079818 ( PubMed abstract )
-Nguyen, V.-K. et al., 2017. Incidence of sexually transmitted infections before and after Pre-Exposure Prophylaxis for HIV: a cohort study. AIDS . Available at: http://dx.doi.org/10.1097/QAD.0000000000001718.
-PMID:29239887 ( PubMed abstract )
-Kojima, N., Davey, D.J. & Klausner, J.D., 2016. Pre-exposure prophylaxis for HIV infection and new sexually transmitted infections among men who have sex with men. AIDS , 30(14), pp.2251–2252.
-PMID:27314179 ( PubMed abstract )
+PMID:28079818(PubMed abstract)
+Nguyen, V.-K. et al., 2017. Incidence of sexually transmitted infections before and after Pre-Exposure Prophylaxis for HIV: a cohort study. AIDS. Available at: http://dx.doi.org/10.1097/QAD.0000000000001718.
+PMID:29239887(PubMed abstract)
+Kojima, N., Davey, D.J. & Klausner, J.D., 2016. Pre-exposure prophylaxis for HIV infection and new sexually transmitted infections among men who have sex with men. AIDS, 30(14), pp.2251–2252.
+PMID:27314179(PubMed abstract)
 Bolan, R.K. et al., 2015. Doxycycline prophylaxis to reduce incident syphilis among HIV-infected men who have sex with men who continue to engage in high-risk sex: a randomized, controlled pilot study. Sexually transmitted diseases, 42(2), pp.98–103.
-PMID:25585069 ( PubMed abstract )
+PMID:25585069(PubMed abstract)
 Clement, M.E., Okeke, N.L. & Hicks, C.B., 2014. Treatment of syphilis: a systematic review. JAMA: the journal of the American Medical Association, 312(18), pp.1905–1917.
-PMID:25387188 ( PubMed abstract )
+PMID:25387188(PubMed abstract)
 Ghanem, K.G. & Workowski, K.A., 2011. Management of adult syphilis. Clinical infectious diseases: an official publication of the Infectious Diseases Society of America, 53 Suppl 3, pp.S110–28.
-PMID:26602620 ( PubMed abstract )
+PMID:26602620(PubMed abstract)

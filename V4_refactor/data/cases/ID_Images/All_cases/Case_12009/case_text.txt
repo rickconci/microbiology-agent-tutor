@@ -12,41 +12,46 @@ She was retired, and had previously worked in an office.
 Epidemiological History
 She lived in Illinois, and had vacation homes in the Pacific Northwest and coastal New England. She had traveled extensively, including to Africa, Europe and South America. Her most recent international trips were eight months earlier to South Africa where she visited Kruger National Park and participated in game drives and walking safaris and one year earlier to Kenya. She did not take anti-malarial prophylaxis. She did not report any recent sick contacts or insect bites.
 Physical Examination
-The patient appeared diaphoretic, but was not in any acute distress. The temperature was 104.7°F (40.4°C ), blood pressure 122/69 mm Hg, pulse 68 beats per minute, respirations 18 breaths per minute and oxygen saturation by pulse oximetry 94% while breathing room air. There were fine crackles in the bases of both lungs, and the examination was otherwise normal.
+The patient appeared diaphoretic, but was not in any acute distress. The temperature was 104.7°F (40.4°C), blood pressure 122/69 mm Hg, pulse 68 beats per minute, respirations 18 breaths per minute and oxygen saturation by pulse oximetry 94% while breathing room air. There were fine crackles in the bases of both lungs, and the examination was otherwise normal.
 Studies
 The level of hemoglobin was 12.0g/dl, white blood count 4,400 cells per cubic millimeter (61% neutrophils, 32% lymphocytes, and 6% monocytes) and platelet count 52,000 per cubic millimeter (reference range 150,000-450,000). The level of aspartate aminotransferase was 193 U/L (reference range 8-37 U/L) and alanine aminotransferase was 157 U/L (reference range 8-35 U/L). Results of other routine laboratory tests and urinalysis were normal.
-A chest radiograph revealed small bilateral pleural effusions ( Figure 1 ).
+A chest radiograph revealed small bilateral pleural effusions (Figure 1).
 Cultures of the blood and urine were sterile.
 Figure 1. Chest radiograph, on admission.
 Clinical Course Prior to Diagnosis
-Thick and thin peripheral blood smears are shown ( Figures 2 through 4 ). The intraerythrocytic parasites were thought to represent Plasmodium falciparum with 1.11% parasitemia. Atovaquone and proguanil hydrochloride (in combination, 4 tabs orally, daily) were administered.
+Thick and thin peripheral blood smears are shown (Figures 2 through 4). The intraerythrocytic parasites were thought to represent Plasmodium falciparum with 1.11% parasitemia. Atovaquone and proguanil hydrochloride (in combination, 4 tabs orally, daily) were administered.
 On the evening of the first day, fevers persisted and the level of parasitemia was 0.83%.
 On the second day, the maximum temperature was 104.2°F (40.1°C). The platelet count was 62,000 per cubic millimeter and the level of parasitemia 0.74%.
 Figure 2. Peripheral smear, Wright-Giemsa stain, x1250 magnification.
 Figure 3. Peripheral smear, Wright-Giemsa stain, x1250 magnification.
 Figure 4. Peripheral smear, Wright-Giemsa stain, x1250 magnification.
 Diagnostic Procedure(s) and Result(s)
-Thick and thin peripheral blood smears revealed intraerythrocytic ring forms including multiple vacuolated forms ( Figures 2 through 4 ). No schizonts or gametocytes were visualized. Because of the persistent fevers, the peripheral smears were reviewed and additional testing performed.
-Malaria PCR was negative. Babesia PCR was positive for Babesia microti ; Babesia microti IgG and IgM were elevated at greater than 1:1024 (reference range less than 1:64) and greater than 1:320 (reference range less than 1:20), respectively.
+Thick and thin peripheral blood smears revealed intraerythrocytic ring forms including multiple vacuolated forms (Figures 2 through 4). No schizonts or gametocytes were visualized. Because of the persistent fevers, the peripheral smears were reviewed and additional testing performed.
+Malaria PCR was negative. Babesia PCR was positive for Babesia microti; Babesia microti IgG and IgM were elevated at greater than 1:1024 (reference range less than 1:64) and greater than 1:320 (reference range less than 1:20), respectively.
 Treatment and Followup
-The patient was diagnosed with Babesiosis caused by Babesia microti , most likely acquired in coastal New England from the bite of an Ixodes scapularis tick. A 7-day course of atovaquone and azithromycin was administered, with subsequent resolution of the fevers, parasitemia, thrombocytopenia, and transaminase elevation.
+The patient was diagnosed with Babesiosis caused by Babesia microti, most likely acquired in coastal New England from the bite of an Ixodes scapularis tick. A 7-day course of atovaquone and azithromycin was administered, with subsequent resolution of the fevers, parasitemia, thrombocytopenia, and transaminase elevation.
 Discussion
-Babesiosis is a tick-borne febrile illness caused by intracellular protozoa that invade erythrocytes and can clinically resemble malaria. Most human babesiosis in the U.S. is caused by Babesia microti which is transmitted by the nymphs of Ixodes scapularis , the deer tick. Less commonly, it can be transmitted by blood transfusions.
-The incubation period for Babesia species usually ranges from one to six weeks after the tick bite. In contrast, the incubation period for Plasmodium species usually ranges from 8-25 days but may be much longer depending on the immune status of the infected person, the strain as well as the species of Plasmodium , the dose of sporozoites, and the possible effects of partially effective chemoprophylaxis.
+Babesiosis is a tick-borne febrile illness caused by intracellular protozoa that invade erythrocytes and can clinically resemble malaria. Most human babesiosis in the U.S. is caused by Babesia microti which is transmitted by the nymphs of Ixodes scapularis, the deer tick. Less commonly, it can be transmitted by blood transfusions.
+The incubation period for Babesia species usually ranges from one to six weeks after the tick bite. In contrast, the incubation period for Plasmodium species usually ranges from 8-25 days but may be much longer depending on the immune status of the infected person, the strain as well as the species of Plasmodium, the dose of sporozoites, and the possible effects of partially effective chemoprophylaxis.
 The pathophysiologic manifestations of babesiosis result from infection of erythrocytes with subsequent hemolysis and splenic sequestration. Clinical manifestations of babesiosis range from asymptomatic to severe infection. Onset may be acute or subacute. Symptoms of mild illness typically include fever, chills, sweats, headache, myalgia, arthralgia, and anorexia. Severe illness may include manifestations of hemolysis (jaundice, hemoglobinuria) as well as multiorgan system failure (acute respiratory distress syndrome, disseminated intravascular coagulation, congestive heart failure, and renal failure). Pulmonary manifestations are rare but, if present, usually secondary to non-cardiogenic pulmonary edema. The clinical course of babesiosis is more severe in those who are asplenic, immunocomopromised and/or over the age of fifty.
 The laboratory findings and morphologic appearance of Plasmodium and Babesia species are often very similar. As a result, the diagnoses may be difficult to distinguish in patients such as the one presented in this case who have been in areas endemic for both organisms. Ring forms in erythrocytes may be seen in both Plasmodium and Babesia infections. Banana-shaped gametocytes and schizonts, which may occasionally be seen on the peripheral blood smear in P. falciparum infection, are never seen in Babesia infection, but were not present in this case. A pathognomonic finding in Babesia infection is an intra-erythrocytic tetrad of merozoites, appearing in a “Maltese cross” configuration, but this is only seen in a minority of cases. Polymerase chain reaction (PCR) and indirect fluorescent antibody (IFA) testing are available and may detect low levels of parasitemia.
 Because of fewer adverse effects, the combination of atovaquone and azithromycin is the treatment of choice for mild-to-moderate babesiosis. Patients with severe disease are often treated with clindamycin plus quinine, and sometimes with exchange transfusion.
 In this patient with a summer house in coastal New England as well as frequent travel to malaria-endemic regions who presented with fevers, thrombocytopenia, elevated transaminases, and intraerythrocytic ring forms (without tetrads, extracellular forms, schizonts, or mature trophozoites) on peripheral blood smear, the differential included babesiosis versus delayed onset Plasmodium falciparum malaria secondary to partial immunity, though the latter seemed less likely given the long delay between her travel to Africa and the development of symptoms. The lack of pathognomonic findings on peripheral blood smear together with the patient’s history of travel to areas endemic for both malaria and babesiosis did not allow us to clearly distinguish between Plasmodium and Babesia infection. In this case, adjunctive diagnostic tests including Babesia indirect fluorescent antibody (IFA) and polymerase chain reaction (PCR) were essential to establishing the final diagnosis.
 Final Diagnosis
-Babesiosis caused by .
+Babesiosis caused by Babesia microti.
 References
+Centers for Disease Control and Prevention (CDC), DPDX Laboratory Identification of Parasites of Public Health Concern; http://www.dpd.cdc.gov/dpdx/HTML/Babesiosis.htm Gray, J., Zintl, A., Hildebrandt, A., Hunfeld, K.P., and Weiss, L. (2010). Zoonotic babesiosis: overview of the disease and novel aspects of pathogen identity. Ticks Tick Borne Dis 1, 3-10.
+PMID:21771506(PubMed abstract) Greenwood, T., Vikerfors, T., Sjoberg, M., Skeppner, G., and Farnert, A. (2008). Febrile Plasmodium falciparum malaria 4 years after exposure in a man with sickle cell disease. Clin Infect Dis 47, e39-41.
+PMID:18616395(PubMed abstract) Homer, M.J., Aguilar-Delfin, I., Telford, S.R., 3rd, Krause, P.J., and Persing, D.H. (2000). Babesiosis. Clin Microbiol Rev 13, 451-469.
+PMID:10885987(PubMed abstract) Hunfeld, K.P., Hildebrandt, A., and Gray, J.S. (2008). Babesiosis: recent insights into an ancient disease. Int J Parasitol 38, 1219-1237.
+PMID:18440005(PubMed abstract) Mandell, G.L., Bennett, J.E., and Dolin, R. (2010). Mandell, Douglas, and Bennett's principles and practice of infectious diseases, 7th edn (Philadelphia, PA, Churchill Livingstone/Elsevier)
 Centers for Disease Control and Prevention (CDC), DPDX Laboratory Identification of Parasites of Public Health Concern; http://www.dpd.cdc.gov/dpdx/HTML/Babesiosis.htm
 Gray, J., Zintl, A., Hildebrandt, A., Hunfeld, K.P., and Weiss, L. (2010). Zoonotic babesiosis: overview of the disease and novel aspects of pathogen identity. Ticks Tick Borne Dis 1, 3-10.
-PMID:21771506 ( PubMed abstract )
+PMID:21771506(PubMed abstract)
 Greenwood, T., Vikerfors, T., Sjoberg, M., Skeppner, G., and Farnert, A. (2008). Febrile Plasmodium falciparum malaria 4 years after exposure in a man with sickle cell disease. Clin Infect Dis 47, e39-41.
-PMID:18616395 ( PubMed abstract )
+PMID:18616395(PubMed abstract)
 Homer, M.J., Aguilar-Delfin, I., Telford, S.R., 3rd, Krause, P.J., and Persing, D.H. (2000). Babesiosis. Clin Microbiol Rev 13, 451-469.
-PMID:10885987 ( PubMed abstract )
+PMID:10885987(PubMed abstract)
 Hunfeld, K.P., Hildebrandt, A., and Gray, J.S. (2008). Babesiosis: recent insights into an ancient disease. Int J Parasitol 38, 1219-1237.
-PMID:18440005 ( PubMed abstract )
+PMID:18440005(PubMed abstract)
 Mandell, G.L., Bennett, J.E., and Dolin, R. (2010). Mandell, Douglas, and Bennett's principles and practice of infectious diseases, 7th edn (Philadelphia, PA, Churchill Livingstone/Elsevier)

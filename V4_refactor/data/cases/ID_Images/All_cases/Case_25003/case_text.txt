@@ -31,29 +31,42 @@ Final Diagnosis
 Creutzfeldt-Jakob Disease
 References
 Hamill MM, Ghanem KG, Tuddenham S. State-of-the-Art Review: Neurosyphilis. Clin Infect Dis. 2024;78(5):e57-e68. PMID: 37593890
-PMID:37593890 ( PubMed abstract )
+PMID:37593890(PubMed abstract) Spudich SS, Nilsson AC, Lollo ND, et al. Cerebrospinal fluid HIV infection and pleocytosis: relation to systemic infection and antiretroviral treatment. BMC Infect Dis. 2005;5:98. Published 2005 Nov 2. PMID: 16266436
+PMID:16266436(PubMed abstract) Appleby BS, Cohen ML. Creutzfeldt-Jakob disease. In: Wilterdink JL, ed. UpToDate. UpToDate; 2024. Accessed April 22, 2025. Maddox RA, Belay ED, Curns AT, et al. Creutzfeldt-Jakob disease in recipients of corneal transplants. Cornea. 2008;27(7):851-854. PMID: 18650677
+PMID:18650677(PubMed abstract) WHO Consultation on the Global Surveillance, Diagnosis and Therapy of Human Transmissible Spongiform Encephalopathies (?1998: Geneva, Switzerland)? & World Health Organization. Division of Emerging and other Communicable Diseases Surveillance and Control. Global surveillance, diagnosis and therapy of human transmissible spongiform encephalopathies: report of a WHO consultation, Geneva, Switzerland, 9-11 February 1998. 1998. World Health Organization. Accessed April 22, 2025. https://iris.who.int/handle/10665/65516 Forner SA, Takada LT, Bettcher BM, et al. Comparing CSF biomarkers and brain MRI in the diagnosis of sporadic Creutzfeldt-Jakob disease. Neurol Clin Pract. 2015;5(2):116-125. PMID: 26137420.
+PMID:26137420(PubMed abstract) Green AJE. RT-QuIC: a new test for sporadic CJD. Pract Neurol. 2018;19(1):49-55. PMID: 30282760.
+PMID:30282760(PubMed abstract) CJD Diagnostic Criteria. Centers for Disease Control and Prevention. Updated May 13, 2024. Accessed April 22, 2025. https://www.cdc.gov/creutzfeldt-jakob/hcp/clinical-overview/diagnosis.html Matsubayashi T, Akaza M, Hayashi Y, et al. Specific electroencephalogram features in the very early phases of sporadic Creutzfeldt-Jakob disease. J Neurol Sci. 2022;437:120265. PMID: 35472604
+PMID:35472604(PubMed abstract) Babi MA, Kraft BD, Sengupta S, et al. Related or not? Development of spontaneous Creutzfeldt-Jakob disease in a patient with chronic, well-controlled HIV: A case report and review of the literature. SAGE Open Med Case Rep. 2016;4:2050313X16672153. PMID: 27781099.
+PMID:27781099(PubMed abstract) Eimer J, Vesterbacka J, Savitcheva I, et al. Nonopportunistic infection leading to rapidly progressive dementia in a patient with HIV/AIDS: A case report. Medicine (Baltimore). 2018;97(12):e0162. PMID: 29561424.
+PMID:29561424(PubMed abstract) De Carvalho Neto EG, Gomes MF, et al. The worst is yet to come: probable sporadic Creutzfeldt-Jakob disease in a well-controlled HIV patient. Prion. 2019;13(1):156-159. PMID: 31405318.
+PMID:31405318(PubMed abstract) Abu-Rumeileh S, Baiardi S, D'Angelo R, et al P. Clinical Reasoning: Rapidly progressive dementia in a patient with HIV after an exotic journey. Neurology. 2018;91(14):e1360-e1364. doi: 10.1212/WNL.0000000000006285. PMID: 30275129.
+PMID:30275129(PubMed abstract) van de Ven NS, Vera J, Jones JR, et al. Sporadic CJD in association with HIV. J Neurol. 2019;266(1):253-257. doi: 10.1007/s00415-018-9116-0. PMID: 30446965.
+PMID:30446965(PubMed abstract) Dahy FE, Novaes CTG, Bandeira GA, et al. Sporadic Creutzfeldt-Jakob disease in two clinically and virologically controlled Brazilian HIV patients who progressed rapidly to dementia: case reports and literature review. Rev Inst Med Trop Sao Paulo. 2021;63:e23. PMID: 33787743.
+PMID:33787743(PubMed abstract)
+Hamill MM, Ghanem KG, Tuddenham S. State-of-the-Art Review: Neurosyphilis. Clin Infect Dis. 2024;78(5):e57-e68. PMID: 37593890
+PMID:37593890(PubMed abstract)
 Spudich SS, Nilsson AC, Lollo ND, et al. Cerebrospinal fluid HIV infection and pleocytosis: relation to systemic infection and antiretroviral treatment. BMC Infect Dis. 2005;5:98. Published 2005 Nov 2. PMID: 16266436
-PMID:16266436 ( PubMed abstract )
+PMID:16266436(PubMed abstract)
 Appleby BS, Cohen ML. Creutzfeldt-Jakob disease. In: Wilterdink JL, ed. UpToDate. UpToDate; 2024. Accessed April 22, 2025.
 Maddox RA, Belay ED, Curns AT, et al. Creutzfeldt-Jakob disease in recipients of corneal transplants. Cornea. 2008;27(7):851-854. PMID: 18650677
-PMID:18650677 ( PubMed abstract )
-WHO Consultation on the Global Surveillance, Diagnosis and Therapy of Human Transmissible Spongiform Encephalopathies (?1998: Geneva, Switzerland)? & World Health Organization. Division of Emerging and other Communicable Diseases Surveillance and Control. Global surveillance, diagnosis and therapy of human transmissible spongiform encephalopathies : report of a WHO consultation, Geneva, Switzerland, 9-11 February 1998. 1998. World Health Organization. Accessed April 22, 2025. https://iris.who.int/handle/10665/65516
+PMID:18650677(PubMed abstract)
+WHO Consultation on the Global Surveillance, Diagnosis and Therapy of Human Transmissible Spongiform Encephalopathies (?1998: Geneva, Switzerland)? & World Health Organization. Division of Emerging and other Communicable Diseases Surveillance and Control. Global surveillance, diagnosis and therapy of human transmissible spongiform encephalopathies: report of a WHO consultation, Geneva, Switzerland, 9-11 February 1998. 1998. World Health Organization. Accessed April 22, 2025. https://iris.who.int/handle/10665/65516
 Forner SA, Takada LT, Bettcher BM, et al. Comparing CSF biomarkers and brain MRI in the diagnosis of sporadic Creutzfeldt-Jakob disease. Neurol Clin Pract. 2015;5(2):116-125. PMID: 26137420.
-PMID:26137420 ( PubMed abstract )
+PMID:26137420(PubMed abstract)
 Green AJE. RT-QuIC: a new test for sporadic CJD. Pract Neurol. 2018;19(1):49-55. PMID: 30282760.
-PMID:30282760 ( PubMed abstract )
+PMID:30282760(PubMed abstract)
 CJD Diagnostic Criteria. Centers for Disease Control and Prevention. Updated May 13, 2024. Accessed April 22, 2025. https://www.cdc.gov/creutzfeldt-jakob/hcp/clinical-overview/diagnosis.html
 Matsubayashi T, Akaza M, Hayashi Y, et al. Specific electroencephalogram features in the very early phases of sporadic Creutzfeldt-Jakob disease. J Neurol Sci. 2022;437:120265. PMID: 35472604
-PMID:35472604 ( PubMed abstract )
+PMID:35472604(PubMed abstract)
 Babi MA, Kraft BD, Sengupta S, et al. Related or not? Development of spontaneous Creutzfeldt-Jakob disease in a patient with chronic, well-controlled HIV: A case report and review of the literature. SAGE Open Med Case Rep. 2016;4:2050313X16672153. PMID: 27781099.
-PMID:27781099 ( PubMed abstract )
+PMID:27781099(PubMed abstract)
 Eimer J, Vesterbacka J, Savitcheva I, et al. Nonopportunistic infection leading to rapidly progressive dementia in a patient with HIV/AIDS: A case report. Medicine (Baltimore). 2018;97(12):e0162. PMID: 29561424.
-PMID:29561424 ( PubMed abstract )
+PMID:29561424(PubMed abstract)
 De Carvalho Neto EG, Gomes MF, et al. The worst is yet to come: probable sporadic Creutzfeldt-Jakob disease in a well-controlled HIV patient. Prion. 2019;13(1):156-159. PMID: 31405318.
-PMID:31405318 ( PubMed abstract )
+PMID:31405318(PubMed abstract)
 Abu-Rumeileh S, Baiardi S, D'Angelo R, et al P. Clinical Reasoning: Rapidly progressive dementia in a patient with HIV after an exotic journey. Neurology. 2018;91(14):e1360-e1364. doi: 10.1212/WNL.0000000000006285. PMID: 30275129.
-PMID:30275129 ( PubMed abstract )
+PMID:30275129(PubMed abstract)
 van de Ven NS, Vera J, Jones JR, et al. Sporadic CJD in association with HIV. J Neurol. 2019;266(1):253-257. doi: 10.1007/s00415-018-9116-0. PMID: 30446965.
-PMID:30446965 ( PubMed abstract )
+PMID:30446965(PubMed abstract)
 Dahy FE, Novaes CTG, Bandeira GA, et al. Sporadic Creutzfeldt-Jakob disease in two clinically and virologically controlled Brazilian HIV patients who progressed rapidly to dementia: case reports and literature review. Rev Inst Med Trop Sao Paulo. 2021;63:e23. PMID: 33787743.
-PMID:33787743 ( PubMed abstract )
+PMID:33787743(PubMed abstract)

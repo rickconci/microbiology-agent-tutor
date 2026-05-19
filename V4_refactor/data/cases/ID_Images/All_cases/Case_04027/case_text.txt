@@ -7,13 +7,13 @@ Physical Examination
 The patient appeared disoriented and lethargic, was moving all extremities and having rigors. The blood pressure 93/49 mm Hg, pulse 86 beats per minute and respirations 26 per minute. The temperature was initially normal, but subsequently rose to 103.1°F (39.5°C) soon after admission. There were equally reactive pupils, a dry oropharynx, and moderate neck stiffness. The lungs were clear and there was a 2/6 systolic murmur heard best at the left lower sternal border. The abdomen was normal. The right hand was erythematous and warm. There was erythema in a bilateral pre-tibial distribution, and a shallow right foot ulcer (2 cm by 3 cm) was present. On neurologic examination, he was lethargic and nonverbal, with intact reflexes. The Babinski reflex was equivocal.
 Studies
 The white blood cell count was 8,800 cells/mm³ (39% polymorphonuclear leukocytes, 46% bands, 5% lymphocytes, 8% monocytes, and 2 metamyelocytes.) Toxic granulations and Dohle bodies were seen on the peripheral smear. The hematocrit was 34.6% and the platelets were 64,000/mm³. The sodium was 132 mmol/L, urea nitrogen 64 mg/dL, and creatinine 2.3 mg/dL.
-Computed tomography (CT) of the head was performed without contrast and showed small vessel ischemic changes, and a right subdural collection consistent with a hygroma ( Figure 1 ).
+Computed tomography (CT) of the head was performed without contrast and showed small vessel ischemic changes, and a right subdural collection consistent with a hygroma (Figure 1).
 Figure 1. Head CT scan without contrast.
 Clinical Course Prior to Diagnosis
 A lumbar puncture was performed and the cerebrospinal fluid revealed 129 white blood cells/mm³ (89% polymorphonuclear leukocytes, 3% bands), 3420 red cells/mm³, protein 298 mg/dL, and glucose 72 mg/dL. The gram stain showed few white blood cells and no organisms.
 Diagnostic Procedure(s) and Result(s)
-Within twelve hours, blood cultures that had been sent from the Emergency Room grew gram-positive cocci in pairs, chains, and clusters. These were identified as methicillin-sensitive Staphylococcus aureus and group G Streptococcus .
-Magnetic resonance imaging (MRI) of the head with gadolinium was performed and revealed a right subdural collection with enhancement that was suggestive of a subdural empyema. A right parietofrontal infarct was also identified. (See Figures 2 and 3 .)
+Within twelve hours, blood cultures that had been sent from the Emergency Room grew gram-positive cocci in pairs, chains, and clusters. These were identified as methicillin-sensitive Staphylococcus aureus and group G Streptococcus.
+Magnetic resonance imaging (MRI) of the head with gadolinium was performed and revealed a right subdural collection with enhancement that was suggestive of a subdural empyema. A right parietofrontal infarct was also identified. (See Figures 2 and 3.)
 Figure 2. Head MRI scan.
 Figure 3. Head MRI scan with gadolinium.
 Treatment and Followup
@@ -26,6 +26,9 @@ Final Diagnosis
 Cranial subdural empyema, with evidence of methicillin-sensitive Staphylococcus aureus and group G Streptococcus infection.
 References
 Bernardini, G.L. (2004). Diagnosis and management of brain abscess and subdural empyema. Curr Neurol Neurosci Rep 4, 448-456.
-PMID:15509445 ( PubMed abstract )
+PMID:15509445(PubMed abstract) Greenlee, J.E. (2003). Subdural Empyema. Curr Treat Options Neurol 5, 13-22.
+PMID:12521560(PubMed abstract)
+Bernardini, G.L. (2004). Diagnosis and management of brain abscess and subdural empyema. Curr Neurol Neurosci Rep 4, 448-456.
+PMID:15509445(PubMed abstract)
 Greenlee, J.E. (2003). Subdural Empyema. Curr Treat Options Neurol 5, 13-22.
-PMID:12521560 ( PubMed abstract )
+PMID:12521560(PubMed abstract)

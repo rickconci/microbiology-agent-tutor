@@ -12,19 +12,19 @@ He was born in Honduras and had immigrated to the United States 26 months earlie
 Physical Examination
 The patient was cachectic and in no acute respiratory distress. The temperature was 99.8°F (37.7°C), blood pressure 120/52 mm Hg, pulse 62 beats per minute, respirations 18 breaths per minute, and oxygen saturation 90% while breathing 2 liters of oxygen by nasal cannula. There were crackles at the bases of both lungs, bilaterally. There were no wheezes or rhonchi. The remainder of the examination was normal.
 Studies
-The white cell count was 14,600 cells/mm³ with 80% neutrophils. The other laboratory tests, including serum chemistries and liver function tests, were normal. A chest radiograph ( Figures 1 and 2 ) showed multiple pulmonary nodules diffusely and some areas of cavitation.
-Computed tomography (CT) of the chest ( Figures 3 and 4 ) showed multiple scattered nodular opacities with numerous cavitary lesions. Irregular foci of airspace disease, especially in the lower lobes bilaterally, and extensive mediastinal and hilar lymphadenopathy were seen. A gram stain of the sputum showed many polymorphonuclear cells and mononuclear cells, and no organisms. Three specimens of sputum were negative for acid-fast staining organisms. Serological testing (ELISA) for human immunodeficiency virus (HIV) was negative.
+The white cell count was 14,600 cells/mm³ with 80% neutrophils. The other laboratory tests, including serum chemistries and liver function tests, were normal. A chest radiograph (Figures 1 and 2) showed multiple pulmonary nodules diffusely and some areas of cavitation.
+Computed tomography (CT) of the chest (Figures 3 and 4) showed multiple scattered nodular opacities with numerous cavitary lesions. Irregular foci of airspace disease, especially in the lower lobes bilaterally, and extensive mediastinal and hilar lymphadenopathy were seen. A gram stain of the sputum showed many polymorphonuclear cells and mononuclear cells, and no organisms. Three specimens of sputum were negative for acid-fast staining organisms. Serological testing (ELISA) for human immunodeficiency virus (HIV) was negative.
 Figure 1. Chest radiograph.
 Figure 2. Chest radiograph, lateral.
 Figure 3. Chest CT scan.
 Figure 4. Chest CT scan.
 Clinical Course Prior to Diagnosis
-A bronchoscopy with bronchial washings, bronchoalveolar lavage, and biopsy was performed. Pathological examination of the tissue was examined with Gomori methenamine silver stain ( Figure 5 ) and hematoxylin and eosin stain ( Figure 6 ).
+A bronchoscopy with bronchial washings, bronchoalveolar lavage, and biopsy was performed. Pathological examination of the tissue was examined with Gomori methenamine silver stain (Figure 5) and hematoxylin and eosin stain (Figure 6).
 Figure 5. GMS stain of lung biopsy.
 Figure 6. H and E stain of lung biopsy.
 Diagnostic Procedure(s) and Result(s)
-Gomori methenamine silver (GMS) stain of the lung biopsy is shown in Figure 5 . Fungal microorganisms that were morphologically consistent with Paracoccidioides were seen. Pathological examination of the biopsy ( Figure 6 ) showed mixed acute and chronic inflammation and poorly formed granulomas, and no malignant cells. There were no acid-fast organisms.
-Six weeks later, cultures of specimens obtained from bronchoalveolar lavage and bronchial washing cultures grew a moderate amount of mold, which was identified as Paracoccidioides brasiliensis .
+Gomori methenamine silver (GMS) stain of the lung biopsy is shown in Figure 5. Fungal microorganisms that were morphologically consistent with Paracoccidioides were seen. Pathological examination of the biopsy (Figure 6) showed mixed acute and chronic inflammation and poorly formed granulomas, and no malignant cells. There were no acid-fast organisms.
+Six weeks later, cultures of specimens obtained from bronchoalveolar lavage and bronchial washing cultures grew a moderate amount of mold, which was identified as Paracoccidioides brasiliensis.
 Treatment and Followup
 The patient was discharged on itraconazole 100 mg twice a day, orally. At follow-up six weeks later, the hemoptysis and shortness of breath had resolved and his appetite was improved. He has returned to work.
 Discussion
@@ -33,10 +33,15 @@ Final Diagnosis
 Paracoccidioidomycosis of the lung caused by Paracoccidioides brasiliensis.
 References
 Bethlem, E.P., Capone, D., Maranhao, B., Carvalho, C.R., and Wanke, B. (1999). Paracoccidioidomycosis. Curr Opin Pulm Med 5, 319-325.
-PMID:10461538 ( PubMed abstract )
+PMID:10461538(PubMed abstract) Manns, B.J., Baylis, B.W., Urbanski, S.J., Gibb, A.P., and Rabin, H.R. (1996). Paracoccidioidomycosis: case report and review. Clin Infect Dis 23, 1026-1032.
+PMID:8922797(PubMed abstract) Ramos, E.S.M., and Saraiva Ldo, E. (2008). Paracoccidioidomycosis. Dermatol Clin 26, 257-269, vii.
+PMID:18346557(PubMed abstract) Sugar, A.M. (1988). Systemic fungal infections: diagnosis and treatment. I. Paracoccidioidomycosis. Infect Dis Clin North Am 2, 913-924.
+PMID:3062094(PubMed abstract)
+Bethlem, E.P., Capone, D., Maranhao, B., Carvalho, C.R., and Wanke, B. (1999). Paracoccidioidomycosis. Curr Opin Pulm Med 5, 319-325.
+PMID:10461538(PubMed abstract)
 Manns, B.J., Baylis, B.W., Urbanski, S.J., Gibb, A.P., and Rabin, H.R. (1996). Paracoccidioidomycosis: case report and review. Clin Infect Dis 23, 1026-1032.
-PMID:8922797 ( PubMed abstract )
+PMID:8922797(PubMed abstract)
 Ramos, E.S.M., and Saraiva Ldo, E. (2008). Paracoccidioidomycosis. Dermatol Clin 26, 257-269, vii.
-PMID:18346557 ( PubMed abstract )
+PMID:18346557(PubMed abstract)
 Sugar, A.M. (1988). Systemic fungal infections: diagnosis and treatment. I. Paracoccidioidomycosis. Infect Dis Clin North Am 2, 913-924.
-PMID:3062094 ( PubMed abstract )
+PMID:3062094(PubMed abstract)

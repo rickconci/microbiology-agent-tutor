@@ -17,31 +17,37 @@ The boy lived in a wooded residential area in the American Southwest. He had no 
 Physical Examination
 The child appeared calm, comfortable, and well-developed for his age. The temperature was 104.6°F (40.3°C), the blood pressure 100/64 mm Hg, pulse 115 beats per minute, respirations 30 breaths per minute and the weight 10 kg. The neck was supple, with shotty cervical lymphadenopathy. There were normal bowel sounds, and a soft, tender mass was palpated in the left flank 2-3 cm below the costal margin. There was no hepatosplenomegaly. He would not bear weight on his left leg, and held his left thigh in flexion and abduction when reclining. Pain in his left flank was elicited with straight leg-raising. The remainder of the examination was normal.
 Studies
-The white blood cell (WBC) count was 20,720 cells/µL (53% neutrophils, 8% bands, 27% lymphocytes, 11 % monocytes, 1% eosinophils), hematocrit 25.4% and platelets 790,000/µL. Routine serum chemistries, urinalysis and tests of liver and renal function were normal. The erythrocyte sedimentation rate measured 104 mm per hour (normal 0-20 mm/hr), and the C-reactive protein level was 28.7 mg/dL (normal <1.0mg/dL). Ultrasonography of the abdomen showed enlargement of the left kidney with abnormal echotexture ( Figure 1 ). Computerized tomography (CT) of the abdomen showed a large mass-like density emanating from the mid and lower pole of the left kidney extending inferiorly to the left pararenal space, and close to the left iliopsoas muscle ( Figure 2 ).
+The white blood cell (WBC) count was 20,720 cells/µL (53% neutrophils, 8% bands, 27% lymphocytes, 11 % monocytes, 1% eosinophils), hematocrit 25.4% and platelets 790,000/µL. Routine serum chemistries, urinalysis and tests of liver and renal function were normal. The erythrocyte sedimentation rate measured 104 mm per hour (normal 0-20 mm/hr), and the C-reactive protein level was 28.7 mg/dL (normal <1.0mg/dL). Ultrasonography of the abdomen showed enlargement of the left kidney with abnormal echotexture (Figure 1). Computerized tomography (CT) of the abdomen showed a large mass-like density emanating from the mid and lower pole of the left kidney extending inferiorly to the left pararenal space, and close to the left iliopsoas muscle (Figure 2).
 Figure 1. Ultrasonography of the abdomen.
 Figure 2. CT of the abdomen, with contrast.
 Clinical Course Prior to Diagnosis
 In the Emergency Department, aspiration of the left hip was performed, but little fluid was obtained. He was admitted and intravenous clindamycin and cefotaxime were begun.
 Diagnostic Procedure(s) and Result(s)
-The CT of the abdomen ( Figure 3 ) revealed a mass consistent with a large perinephric abscess. Percutaneous drainage of the mass, guided by ultrasonography, was performed and purulent material aspirated. Cultures of the aspirate grew methicillin-resistant Staphylococcus aureus (MRSA), which was susceptible to clindamycin. Blood and urine cultures were sterile.
+The CT of the abdomen (Figure 3) revealed a mass consistent with a large perinephric abscess. Percutaneous drainage of the mass, guided by ultrasonography, was performed and purulent material aspirated. Cultures of the aspirate grew methicillin-resistant Staphylococcus aureus (MRSA), which was susceptible to clindamycin. Blood and urine cultures were sterile.
 Figure 3. CT of the abdomen, with left renal mass (arrows).
 Treatment and Followup
-After the procedure, intravenous clindamycin was administered for 2 weeks, with complete resolution of symptoms and signs. A follow-up CT scan is shown in Figure 4 .
+After the procedure, intravenous clindamycin was administered for 2 weeks, with complete resolution of symptoms and signs. A follow-up CT scan is shown in Figure 4.
 Figure 4. Follow-up CT of the abdomen.
 Discussion
 Renal and perinephric abscesses are uncommon in children and clinical manifestations are variable [Practice Parameter. Pediatrics 1991]. All age groups are affected and there is no gender predominance. Staphylococcus aureus continues to be an important cause of hematogenously-acquired disease. Enterobacteriaceae also can cause infection, especially if the abscess is precipitated by a urinary tract infection [Steele et al. 1990]. Anaerobic bacteria are isolated rarely, usually in association with recent urologic or abdominal surgery, renal anomalies or abdominal trauma [Brook 1994, Casullo et al. 2001].
 Non-specific symptoms, such as malaise, lethargy, decreased appetite, weight loss, nausea, and vomiting, are common and typically associated with fever and pain in the flank or abdomen [Steele et al. 1990]. The clinical picture can mimic retrocecal appendicitis with or without rupture. When a palpable mass is present, evaluation for pediatric neoplasms such as Wilm’s tumor or neuroblastoma is warranted [Angel et al 2003]. The possibility of renal abscesses should be investigated in patients with persistent fever, flank pain or mass, and abdominal pain with elevated erythrocyte sedimentation rate and leukocytosis [Practice Parameter. Pediatrics 1991].
 Renal ultrasonography and computerized tomography (CT) are the current imaging modalities of choice for diagnosis. CT scans are very accurate and have the added advantage of distinguishing between renal and perinephric abscesses. The mainstay of treatment is broad-spectrum parenteral antibiotics with agents effective against Staphylococcus aureus and Enterobacteriaceae as well as percutaneous or open surgical drainage of the abscess. Anaerobic coverage in patients with predisposing factors should be considered [Angel et al 2003].
 Final Diagnosis
-Perinephric abscess in a toddler, caused by methicillin-resistant Staphylococcus aureus .
+Perinephric abscess in a toddler, caused by methicillin-resistant Staphylococcus aureus.
 References
 (1999). Practice parameter: the diagnosis, treatment, and evaluation of the initial urinary tract infection in febrile infants and young children. American Academy of Pediatrics. Committee on Quality Improvement. Subcommittee on Urinary Tract Infection. Pediatrics 103, 843-852.
-PMID:10103321 ( PubMed abstract )
+PMID:10103321(PubMed abstract) Angel, C., Shu, T., Green, J., Orihuela, E., Rodriquez, G., and Hendrick, E. (2003). Renal and peri-renal abscesses in children: proposed physio-pathologic mechanisms and treatment algorithm. Pediatr Surg Int 19, 35-39.
+PMID:12721720(PubMed abstract) Brook, I. (1994). The role of anaerobic bacteria in perinephric and renal abscesses in children. Pediatrics 93, 261-264.
+PMID:8121738(PubMed abstract) Casullo, V.A., Bottone, E., and Herold, B.C. (2001). Peptostreptococcus asaccharolyticus renal abscess: a rare cause of fever of unknown origin. Pediatrics 107, E11.
+PMID:11134475(PubMed abstract) Steele, B.T., Petrou, C., and de Maria, J. (1990). Renal abscess in children. Urology 36, 325-328
+PMID:2219612(PubMed abstract)
+(1999). Practice parameter: the diagnosis, treatment, and evaluation of the initial urinary tract infection in febrile infants and young children. American Academy of Pediatrics. Committee on Quality Improvement. Subcommittee on Urinary Tract Infection. Pediatrics 103, 843-852.
+PMID:10103321(PubMed abstract)
 Angel, C., Shu, T., Green, J., Orihuela, E., Rodriquez, G., and Hendrick, E. (2003). Renal and peri-renal abscesses in children: proposed physio-pathologic mechanisms and treatment algorithm. Pediatr Surg Int 19, 35-39.
-PMID:12721720 ( PubMed abstract )
+PMID:12721720(PubMed abstract)
 Brook, I. (1994). The role of anaerobic bacteria in perinephric and renal abscesses in children. Pediatrics 93, 261-264.
-PMID:8121738 ( PubMed abstract )
+PMID:8121738(PubMed abstract)
 Casullo, V.A., Bottone, E., and Herold, B.C. (2001). Peptostreptococcus asaccharolyticus renal abscess: a rare cause of fever of unknown origin. Pediatrics 107, E11.
-PMID:11134475 ( PubMed abstract )
+PMID:11134475(PubMed abstract)
 Steele, B.T., Petrou, C., and de Maria, J. (1990). Renal abscess in children. Urology 36, 325-328
-PMID:2219612 ( PubMed abstract )
+PMID:2219612(PubMed abstract)

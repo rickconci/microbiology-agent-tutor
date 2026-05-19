@@ -10,7 +10,7 @@ The child had lived in the United States for the previous three years, and had v
 Physical Examination
 The patient was febrile and tachycardic, alert and in no distress. Mild scleral icterus and a soft systolic heart murmur were present. The liver edge was three centimeters below the costal margin. There was no splenomegaly or rash.
 Studies
-The white blood cell count (WBC) was 23,000 cells/mm³, with a left shift in the differential. The hematocrit was 21%, and platelets 351,000/mm³. The bilirubin was 5.1 mg/dL, aspartate aminotransferase (AST) 55 U/L, and alanine aminotransferase (ALT) 32 U/L. Images of the peripheral blood smear are shown (Figures 1 through 3).
+The white blood cell count (WBC) was 23,000 cells/mm³, with a left shift in the differential. The hematocrit was 21%, and platelets 351,000/mm³. The bilirubin was 5.1 mg/dL, aspartate aminotransferase (AST) 55 U/L, and alanine aminotransferase (ALT) 32 U/L. Images of the peripheral blood smear are shown (Figures 1 through 3). Figure 1. Peripheral blood smear. Figure 2. Peripheral blood smear. Figure 3. Peripheral blood smear.
 Figure 1. Peripheral blood smear.
 Figure 2. Peripheral blood smear.
 Figure 3. Peripheral blood smear.
@@ -25,6 +25,9 @@ Final Diagnosis
 Plasmodium falciparum malaria in a child with sickle cell disease.
 References
 Kwiatkowski, D.P. (2005). How malaria has affected the human genome and what human genetics can teach us about malaria. Am J Hum Genet 77, 171-192.
-PMID:16001361 ( PubMed abstract )
+PMID:16001361(PubMed abstract) Oramasionwu, G.E., Wootton, S.H., and Edwards, M.S. (2010). Epidemiologic features impacting the presentation of malaria in children in Houston. Pediatr Infect Dis J 29, 28-32.
+PMID:19884871(PubMed abstract)
+Kwiatkowski, D.P. (2005). How malaria has affected the human genome and what human genetics can teach us about malaria. Am J Hum Genet 77, 171-192.
+PMID:16001361(PubMed abstract)
 Oramasionwu, G.E., Wootton, S.H., and Edwards, M.S. (2010). Epidemiologic features impacting the presentation of malaria in children in Houston. Pediatr Infect Dis J 29, 28-32.
-PMID:19884871 ( PubMed abstract )
+PMID:19884871(PubMed abstract)

@@ -1,11 +1,9 @@
 History of Present Illness
 2011 IDSA Fellows’ Day Case Presentation Summary: A woman with sarcoidosis and new cough and dyspnea.
 A woman in her forties with pulmonary sarcoidosis developed a new cough and dyspnea. Amoxicillin and a short tapering course of corticosteroids were administered, with symptomatic improvement.
-One month later, slurred speech, lightheadedness, loss of balance, and a posterior headache developed. Magnetic resonance imaging (MRI) ( Figures 1 and 2 ) revealed hyperintense white matter lesions in the cerebellum ( Fig. 1 see arrows ) and brain stem on fluid attenuated inversion recovery (FLAIR) sequences.
+One month later, slurred speech, lightheadedness, loss of balance, and a posterior headache developed. Magnetic resonance imaging (MRI) (Figures 1 and 2) revealed hyperintense white matter lesions in the cerebellum (Fig. 1 see arrows) and brain stem on fluid attenuated inversion recovery (FLAIR) sequences.
 A diagnosis of possible neurosarcoidosis was made, and prednisone was administered (60 mg daily, decreasing to 40 mg daily). Ataxia and dysarthria increased, and she was referred to another hospital. Neurology and Infectious Diseases consultations were obtained.
-Figure 1. Image
 Figure 1. MRI of the brainstem and cerebellum.
-Figure 2. Image
 Figure 2. MRI scan.
 Past Medical History
 Pulmonary sarcoidosis was diagnosed 6 years earlier by mediastinoscopy. The most recent symptomatic flare had occurred 3 years before admission, when corticosteroids were administered. Three months before the onset of the current symptoms, shingles involving the right chest and flank had occurred.
@@ -24,8 +22,8 @@ Diagnostic Procedure(s) and Result(s)
 Polymerase chain reaction amplification (PCR) of the CSF for herpes simplex virus (HSV), Epstein Barr virus (EBV), varicella zoster virus (VZV), cytomegalovirus (CMV) and Tropheryma whipplei were negative. Testing of the CSF for cryptococcus antigen, arbovirus and West Nile virus antibody panels and Histoplasma antibodies was negative. Aerobic, anaerobic, fungal, acid fast bacilli and viral cultures of the CSF were all negative.
 JC virus was identified in the CSF by polymerase chain reaction (PCR) testing. Subsequent quantitative testing revealed a JC virus nucleic acid level of 25,205 copies per mL (ref: <500).
 Treatment and Followup
-Mefloquine (500mg, orally biweekly for 1 week, followed by 250mg orally, weekly) and mirtazipine (30mg orally, daily) were administered, based on prior studies and case reports of PML in patients with sarcoidosis [Gofton et al. 2010, Owczarczyk et al. 2007]. Prednisone was tapered and discontinued. However, at follow-up 1 month later, her clinical course had worsened. Repeat MRI of the brain revealed progression of the lesions ( Figures 3 and 4 ). A repeat JC viral level of the CSF was 31,102 copies per mL.
-A stereotactic brain biopsy was performed, and showed the presence of demyelination, and oligodendritic viral inclusions in the cerebellar white matter, confirming the diagnosis of JC virus-associated PML (see Figures 5 through 7 . Pathological images courtesy of Dennis Dickson, M.D.)
+Mefloquine (500mg, orally biweekly for 1 week, followed by 250mg orally, weekly) and mirtazipine (30mg orally, daily) were administered, based on prior studies and case reports of PML in patients with sarcoidosis [Gofton et al. 2010, Owczarczyk et al. 2007]. Prednisone was tapered and discontinued. However, at follow-up 1 month later, her clinical course had worsened. Repeat MRI of the brain revealed progression of the lesions (Figures 3 and 4). A repeat JC viral level of the CSF was 31,102 copies per mL.
+A stereotactic brain biopsy was performed, and showed the presence of demyelination, and oligodendritic viral inclusions in the cerebellar white matter, confirming the diagnosis of JC virus-associated PML (see Figures 5 through 7. Pathological images courtesy of Dennis Dickson, M.D.)
 Cytarabine (2mg/kg daily) intravenous infusion was administered for 5 consecutive days, with stabilization but without improvement in ataxia, dysarthria or dysphagia.
 Figure 3. MRI scan, 1 months later.
 Figure 4. MRI scan, 1 months later.
@@ -44,29 +42,43 @@ Final Diagnosis
 Progressive multifocal leukoencephalopathy (PML) caused by JC virus in a patient with sarcoidosis.
 References
 Aksamit, A.J. (2001). Treatment of non-AIDS progressive multifocal leukoencephalopathy with cytosine arabinoside. J Neurovirol 7, 386-390.
-PMID:11517422 ( PubMed abstract )
+PMID:11517422(PubMed abstract) Berger, J.R. (2007). Progressive multifocal leukoencephalopathy. Curr Neurol Neurosci Rep 7, 461-469.
+PMID:17999891(PubMed abstract) Bossolasco, S., Calori, G., Moretti, F., Boschini, A., Bertelli, D., Mena, M., Gerevini, S., Bestetti, A., Pedale, R., Sala, S., Lazzarin, A., and Cinque, P. (2005). Prognostic significance of JC virus DNA levels in cerebrospinal fluid of patients with HIV-associated progressive multifocal leukoencephalopathy. Clin Infect Dis 40, 738-744.
+PMID:15714422(PubMed abstract) ClincalTrials.gov. Study to explore the effect of mefloquine in subjects with progressive multifocal leukoencephalopathy (PML). U.S. National Institutes of Health. NCT ID: NCT00746941 De Luca, A., Ammassari, A., Pezzotti, P., Cinque, P., Gasnault, J., Berenguer, J., Di Giambenedetto, S., Cingolani, A., Taoufik, Y., Miralles, P., Marra, C.M., and Antinori, A. (2008). Cidofovir in addition to antiretroviral treatment is not effective for AIDS-associated progressive multifocal leukoencephalopathy: a multicohort analysis. AIDS 22, 1759-1767.
+PMID:18753934(PubMed abstract) Fong, I.W., Britton, C.B., Luinstra, K.E., Toma, E., and Mahony, J.B. (1995). Diagnostic value of detecting JC virus DNA in cerebrospinal fluid of patients with progressive multifocal leukoencephalopathy. J Clin Microbiol 33, 484-486.
+PMID:7714213(PubMed abstract) Gasnault, J., Kousignian, P., Kahraman, M., Rahoiljaon, J., Matheron, S., Delfraissy, J.F., and Taoufik, Y. (2001). Cidofovir in AIDS-associated progressive multifocal leukoencephalopathy: a monocenter observational study with clinical and JC virus load monitoring. J Neurovirol 7, 375-381
+PMID:11517420(PubMed abstract) Gofton, T.E., Al-Khotani, A., O'Farrell, B., Ang, L.C., and McLachlan, R.S. (2011). Mefloquine in the treatment of progressive multifocal leukoencephalopathy. J Neurol Neurosurg Psychiatry 82, 452-455.
+PMID:20562463(PubMed abstract) Goldbecker, A., Tountopoulou, A., Wurster, U., Donnerstag, F., Brandis, A., Bonnemann, C., and Weissenborn, K. (2010). Spontaneous recovery from progressive multifocal leukoencephalopathy in a patient with non-active sarcoidosis. Int J Infect Dis 14 Suppl 3, e313-316.
+PMID:20599411(PubMed abstract) Kraemer, C., Evers, S., Nolting, T., Arendt, G., and Husstedt, I.W. (2008). Cidofovir in combination with HAART and survival in AIDS-associated progressive multifocal leukoencephalopathy. J Neurol 255, 526-531.
+PMID:18202814(PubMed abstract) Marzocchetti, A., Di Giambenedetto, S., Cingolani, A., Ammassari, A., Cauda, R., and De Luca, A. (2005). Reduced rate of diagnostic positive detection of JC virus DNA in cerebrospinal fluid in cases of suspected progressive multifocal leukoencephalopathy in the era of potent antiretroviral therapy. J Clin Microbiol 43, 4175-4177.
+PMID:16081969(PubMed abstract) Owczarczyk, K., Hilker, R., Brunn, A., Hallek, M., and Rubbert, A. (2007). Progressive multifocal leucoencephalopathy in a patient with sarcoidosis--successful treatment with cidofovir and mirtazapine. Rheumatology (Oxford) 46, 888-890.
+PMID:17389659(PubMed abstract) Tan, C.S., and Koralnik, I.J. (2010). Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol 9, 425-437.
+PMID:20298966(PubMed abstract) Volker, H.U., Kraft, K., Arnold, E., Steinhoff, S., Kolios, G., and Sommer, S. (2007). Progressive multifocal leukoencephalopathy developing in advanced pulmonal sarcoidosis. Clin Neurol Neurosurg 109, 624-630.
+PMID:17601660(PubMed abstract)
+Aksamit, A.J. (2001). Treatment of non-AIDS progressive multifocal leukoencephalopathy with cytosine arabinoside. J Neurovirol 7, 386-390.
+PMID:11517422(PubMed abstract)
 Berger, J.R. (2007). Progressive multifocal leukoencephalopathy. Curr Neurol Neurosci Rep 7, 461-469.
-PMID:17999891 ( PubMed abstract )
+PMID:17999891(PubMed abstract)
 Bossolasco, S., Calori, G., Moretti, F., Boschini, A., Bertelli, D., Mena, M., Gerevini, S., Bestetti, A., Pedale, R., Sala, S., Lazzarin, A., and Cinque, P. (2005). Prognostic significance of JC virus DNA levels in cerebrospinal fluid of patients with HIV-associated progressive multifocal leukoencephalopathy. Clin Infect Dis 40, 738-744.
-PMID:15714422 ( PubMed abstract )
+PMID:15714422(PubMed abstract)
 ClincalTrials.gov. Study to explore the effect of mefloquine in subjects with progressive multifocal leukoencephalopathy (PML). U.S. National Institutes of Health. NCT ID: NCT00746941
 De Luca, A., Ammassari, A., Pezzotti, P., Cinque, P., Gasnault, J., Berenguer, J., Di Giambenedetto, S., Cingolani, A., Taoufik, Y., Miralles, P., Marra, C.M., and Antinori, A. (2008). Cidofovir in addition to antiretroviral treatment is not effective for AIDS-associated progressive multifocal leukoencephalopathy: a multicohort analysis. AIDS 22, 1759-1767.
-PMID:18753934 ( PubMed abstract )
+PMID:18753934(PubMed abstract)
 Fong, I.W., Britton, C.B., Luinstra, K.E., Toma, E., and Mahony, J.B. (1995). Diagnostic value of detecting JC virus DNA in cerebrospinal fluid of patients with progressive multifocal leukoencephalopathy. J Clin Microbiol 33, 484-486.
-PMID:7714213 ( PubMed abstract )
+PMID:7714213(PubMed abstract)
 Gasnault, J., Kousignian, P., Kahraman, M., Rahoiljaon, J., Matheron, S., Delfraissy, J.F., and Taoufik, Y. (2001). Cidofovir in AIDS-associated progressive multifocal leukoencephalopathy: a monocenter observational study with clinical and JC virus load monitoring. J Neurovirol 7, 375-381
-PMID:11517420 ( PubMed abstract )
+PMID:11517420(PubMed abstract)
 Gofton, T.E., Al-Khotani, A., O'Farrell, B., Ang, L.C., and McLachlan, R.S. (2011). Mefloquine in the treatment of progressive multifocal leukoencephalopathy. J Neurol Neurosurg Psychiatry 82, 452-455.
-PMID:20562463 ( PubMed abstract )
+PMID:20562463(PubMed abstract)
 Goldbecker, A., Tountopoulou, A., Wurster, U., Donnerstag, F., Brandis, A., Bonnemann, C., and Weissenborn, K. (2010). Spontaneous recovery from progressive multifocal leukoencephalopathy in a patient with non-active sarcoidosis. Int J Infect Dis 14 Suppl 3, e313-316.
-PMID:20599411 ( PubMed abstract )
+PMID:20599411(PubMed abstract)
 Kraemer, C., Evers, S., Nolting, T., Arendt, G., and Husstedt, I.W. (2008). Cidofovir in combination with HAART and survival in AIDS-associated progressive multifocal leukoencephalopathy. J Neurol 255, 526-531.
-PMID:18202814 ( PubMed abstract )
+PMID:18202814(PubMed abstract)
 Marzocchetti, A., Di Giambenedetto, S., Cingolani, A., Ammassari, A., Cauda, R., and De Luca, A. (2005). Reduced rate of diagnostic positive detection of JC virus DNA in cerebrospinal fluid in cases of suspected progressive multifocal leukoencephalopathy in the era of potent antiretroviral therapy. J Clin Microbiol 43, 4175-4177.
-PMID:16081969 ( PubMed abstract )
+PMID:16081969(PubMed abstract)
 Owczarczyk, K., Hilker, R., Brunn, A., Hallek, M., and Rubbert, A. (2007). Progressive multifocal leucoencephalopathy in a patient with sarcoidosis--successful treatment with cidofovir and mirtazapine. Rheumatology (Oxford) 46, 888-890.
-PMID:17389659 ( PubMed abstract )
+PMID:17389659(PubMed abstract)
 Tan, C.S., and Koralnik, I.J. (2010). Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol 9, 425-437.
-PMID:20298966 ( PubMed abstract )
+PMID:20298966(PubMed abstract)
 Volker, H.U., Kraft, K., Arnold, E., Steinhoff, S., Kolios, G., and Sommer, S. (2007). Progressive multifocal leukoencephalopathy developing in advanced pulmonal sarcoidosis. Clin Neurol Neurosurg 109, 624-630.
-PMID:17601660 ( PubMed abstract )
+PMID:17601660(PubMed abstract)

@@ -11,15 +11,15 @@ Physical Examination
 On examination, he was an ill-appearing, lethargic male with mild tachypnea. The temperature was 39.1°C (102.4°F), respirations 24 breaths per minute and oxygen saturation 98% on ambient air. The lungs revealed slight crackles anteriorly. The mucous membranes were dry. There were no oral lesions or lymphadenopathy. The remainder of the examination was normal.
 Studies
 The white blood cell count was 6,600 cells/mm³. Arterial blood gases revealed a partial pressure of oxygen of 69 mm Hg on ambient air; the alveolar and arterial oxygen gradient was 44 mm Hg. The level of lactate dehydrogenase was 2,706 IU/L (elevated).
-A chest radiograph from three years earlier is shown in Figure 1 , and one from this admission in Figure 2 . Computed tomography (CT) of the chest is shown in Figure 3 .
+A chest radiograph from three years earlier is shown in Figure 1, and one from this admission in Figure 2. Computed tomography (CT) of the chest is shown in Figure 3.
 Figure 1. Chest radiograph, three years before admission.
 Figure 2. Chest radiograph on admission.
 Figure 3. CT scan of the chest on admission.
 Clinical Course Prior to Diagnosis
-Testing for antibodies to human immunodeficiency virus (HIV) was positive (ELISA) and confirmed by Western Blot analysis. The CD4 T-lymphocyte count was 10 cells/mm³, CD4 percentage 1%, and the HIV-RNA level was >750,000 copies/ml. A bronchoscopy with transbronchial biopsy of right middle lobe was performed. Hematoxylin and eosin staining of the biopsy specimen is shown in Figure 4 .
+Testing for antibodies to human immunodeficiency virus (HIV) was positive (ELISA) and confirmed by Western Blot analysis. The CD4 T-lymphocyte count was 10 cells/mm³, CD4 percentage 1%, and the HIV-RNA level was >750,000 copies/ml. A bronchoscopy with transbronchial biopsy of right middle lobe was performed. Hematoxylin and eosin staining of the biopsy specimen is shown in Figure 4.
 Figure 4. H and E stain of lung biopsy.
 Diagnostic Procedure(s) and Result(s)
-The biopsy specimen revealed Toxoplasma . The arrows in Figures 5 and 6 indicate the location of encysted forms of the organism.
+The biopsy specimen revealed Toxoplasma. The arrows in Figures 5 and 6 indicate the location of encysted forms of the organism.
 Figure 5. H and E stain of lung biopsy.
 Figure 6. Immunohistochemical stain of biopsy.
 Treatment and Followup
@@ -30,3 +30,4 @@ Discussion
 Most cases of Toxoplasma pneumonitis in patients with HIV infection and AIDS are related to reactivation of latent Toxoplasma gondii infection. The most common symptoms are nonproductive cough and dyspnea. Definitive diagnosis requires either histological demonstration of the organism or isolation by culture. Direct visualization with Giemsa or hematoxylin and eosin (H&E) staining may show crescent-shaped tachyzoites. Stains may show encysted forms, as in this case. Standard therapy at the time of this publication is pyrimethamine and sulfadiazine.
 Final Diagnosis
 Toxoplasma pneumonitis caused by Toxoplasma gondii in a patient with HIV infection and AIDS.
+References

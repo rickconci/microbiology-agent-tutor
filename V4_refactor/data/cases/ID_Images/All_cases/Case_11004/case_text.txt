@@ -19,42 +19,52 @@ He appeared chronically ill, thin, and was markedly diaphoretic. He was intubate
 Studies
 On admission, the CD4+ T-lymphocyte cell count was 22 cells/cubic millimeter and the level of HIV nucleic acid by PCR was 2.3 million copies/mL.
 Clinical Course Prior to Diagnosis
-Bronchoscopic examination revealed white-tan plaques throughout the tracheal and bronchial tree, with some ulcerations ( Figures 1 and 2 , images courtesy of Dr. Sharon Peach). Endobronchial biopsies were obtained and bronchial alveolar lavage (BAL) performed. Specimens were sent for bacterial, fungal, and acid-fast staining, as well as viral studies and galactomannan. Serologic specimens for viral polymerase chain reaction (PCR) testing for herpes simplex virus, varicella zoster virus, and cytomegalovirus were obtained.
+Bronchoscopic examination revealed white-tan plaques throughout the tracheal and bronchial tree, with some ulcerations (Figures 1 and 2, images courtesy of Dr. Sharon Peach). Endobronchial biopsies were obtained and bronchial alveolar lavage (BAL) performed. Specimens were sent for bacterial, fungal, and acid-fast staining, as well as viral studies and galactomannan. Serologic specimens for viral polymerase chain reaction (PCR) testing for herpes simplex virus, varicella zoster virus, and cytomegalovirus were obtained.
 Acyclovir was administered intravenously for presumptive viral tracheobronchitis, and high level ventilatory support continued.
 Figure 1. Bronchoscopic findings.
 Figure 2. Bronchoscopic findings.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of specimens from the endobronchial biopsy revealed mycetomas ( Figures 3 and 4 , images courtesy of Dr. Rodney Schmidt) and necrotic tissue with eosinophilic cytoplasmic inclusions ( Figure 5 , image courtesy of Dr. Rodney Schmidt), consistent with a necrotizing viral infection.
-Cultures of both the endobronchial biopsy and bronchoalveolar lavage grew Aspergillus fumigatus ( Figure 6 , image courtesy of Dr. Lindley Barbee). A galactomannan level obtained from the lavage fluid was 7.49 (normal < 0.499) The CMV shell vial culture was positive on day one, and the level of serum CMV nucleic acid was 14,000,000 copies/mL. Testing of the serum and BAL aspirate for VZV and HSV was negative, as were tests of the BAL aspirate for influenza and other respiratory viruses.
+Pathological examination of specimens from the endobronchial biopsy revealed mycetomas (Figures 3 and 4, images courtesy of Dr. Rodney Schmidt) and necrotic tissue with eosinophilic cytoplasmic inclusions (Figure 5, image courtesy of Dr. Rodney Schmidt), consistent with a necrotizing viral infection.
+Cultures of both the endobronchial biopsy and bronchoalveolar lavage grew Aspergillus fumigatus (Figure 6, image courtesy of Dr. Lindley Barbee). A galactomannan level obtained from the lavage fluid was 7.49 (normal < 0.499) The CMV shell vial culture was positive on day one, and the level of serum CMV nucleic acid was 14,000,000 copies/mL. Testing of the serum and BAL aspirate for VZV and HSV was negative, as were tests of the BAL aspirate for influenza and other respiratory viruses.
 Figure 3. Histopathology of endobronchial biopsy showing mycetoma.
 Figure 4. Histopathology showing hyphal elements.
 Figure 5. Histopathology with cytoplasmic inclusions.
 Figure 6. Fungal culture.
 Treatment and Followup
 Ganciclovir and voriconazole were administered intravenously, and the acyclovir was stopped.
-During the following two weeks, the patient’s fevers resolved and his respiratory status improved, as marked by a decrease in the ventilatory support requirement. Unfortunately, he developed cutaneous Kaposi’s sarcoma (KS), a pneumothorax complicated by cardiac arrest that required resuscitation, and lastly, gastrointestinal bleeding thought to be due to either KS or cytomegalovirus infection. In consultation with the family, he was transitioned to comfort measures and, nearly four months after his original admission, he expired .
+During the following two weeks, the patient’s fevers resolved and his respiratory status improved, as marked by a decrease in the ventilatory support requirement. Unfortunately, he developed cutaneous Kaposi’s sarcoma (KS), a pneumothorax complicated by cardiac arrest that required resuscitation, and lastly, gastrointestinal bleeding thought to be due to either KS or cytomegalovirus infection. In consultation with the family, he was transitioned to comfort measures and, nearly four months after his original admission, he expired.
 Discussion
-Aspergillus tracheobronchitis occurs in less than 5% of all cases of invasive aspergillosis [Wu et al 2010]. It can manifest as either a bronchial obstruction from a pseuomembrane consisting of necrotic tissue, exudates and hyphal elements, or as discrete plaques in the trachea and bronchi [Clarke et al 1991, Denning et al 1991, Wu et al 2010 ], as seen in this patient. The lung parenchyma can also be involved [Clarke et al 1991, Denning et al 1991]. It is most often associated with severe immunosuppression, such as in the case of advanced HIV, stem cell transplant or lung transplant.
+Aspergillus tracheobronchitis occurs in less than 5% of all cases of invasive aspergillosis [Wu et al 2010]. It can manifest as either a bronchial obstruction from a pseuomembrane consisting of necrotic tissue, exudates and hyphal elements, or as discrete plaques in the trachea and bronchi [Clarke et al 1991, Denning et al 1991, Wu et al 2010], as seen in this patient. The lung parenchyma can also be involved [Clarke et al 1991, Denning et al 1991]. It is most often associated with severe immunosuppression, such as in the case of advanced HIV, stem cell transplant or lung transplant.
 Among HIV patients, invasive pulmonary aspergillosis is rarely a cause of pulmonary infections (~1.4%) [Kemper et al 1993], and Aspergillus tracheobronchitis is even less common (3/35 cases) [Lortholary et al 1993]. When diagnosed in patients with HIV, Aspergillus tracheobronchitis is more commonly found in advanced cases (<100 CD4+ T-lymphocytes per cubic millimeter) and in those patients who have concomitant steroids or neutropenia [Kemper et al 1993, Klapholz et al 1991].
 Treatment for Aspergillus tracheobronchitis is the same as for invasive pulmonary aspergillosis, with voriconazole being the antifungal agent of choice [Walsh et al 2008]. Amphotericin B is also an option if voriconazole is not tolerated [Walsh et al 2008]. Voriconazole dosing can be problematic among patients on ARVs as both are metabolized by the CYP450 enzymes. Voriconazole is both metabolized by and inhibits CYP3A4, CYP2C19 and CYP2C9. Ritonavir is also an important inhibitor of CYP3A as well as an inducer of CYP2C19. Thus when prescribing both voriconazole and ritonavir, higher levels of voriconazole are expected at first, as inhibition has a faster onset of action than induction. However, in steady state, decreased levels of voriconazole are expected. For this reason, it is recommended to avoid the concomitant administration of voriconazole and ritonavir. Another important ARV interaction with voriconazole is with efavirenz. Efavirenz both induces and inhibits CYP3A4. In studies, co-administration was shown to decrease voriconazole levels by 77% and raise efavirenz levels by 44%. When dosing voriconazole with efavirenz, it is recommended that one double the daily dose of voriconazole and halve the daily dose of efavirenz [Yakiwchu et al 2008]. When planning to co-administer voriconzole and anti-retrovirals, consultation with a pharmacist is recommended.
 Final Diagnosis
 Tracheobronchitis caused by Aspergillus fumigatus in a patient with HIV infection and AIDS.
 References
 Clarke, A.Clarke, A., Skelton, J., and Fraser, R.S. (1991). Fungal tracheobronchitis. Report of 9 cases and review of the literature. Medicine (Baltimore) 70, 1-14.
-PMID:1988763 ( PubMed abstract )
+PMID:1988763(PubMed abstract) Denning, D.W., Follansbee, S.E., Scolaro, M., Norris, S., Edelstein, H., and Stevens, D.A. (1991). Pulmonary aspergillosis in the acquired immunodeficiency syndrome. N Engl J Med 324, 654-662.
+PMID:1994248(PubMed abstract) Kemper, C.A., Hostetler, J.S., Follansbee, S.E., Ruane, P., Covington, D., Leong, S.S., Deresinski, S.C., and Stevens, D.A. (1993). Ulcerative and plaque-like tracheobronchitis due to infection with Aspergillus in patients with AIDS. Clin Infect Dis 17, 344-352.
+PMID:8218674(PubMed abstract) Klapholz, A., Salomon, N., Perlman, D.C., and Talavera, W. (1991). Aspergillosis in the acquired immunodeficiency syndrome. Chest 100, 1614-1618.
+PMID:1959405(PubMed abstract) Lortholary O, Meyohas MC, Dupot B, Cadranel J, Salmon-Ceron D Peyramond D, Simonin D for the French Cooperative Study Group on Aspergillosis in AIDS. Invasive Aspergillosis in patients with Acquired Immunodeficiency Syndrome: Report of 33 cases. Am J of Med 1993; 95(2): 177-187.
+PMID:8395142(PubMed abstract) Miller, W.T., Jr., Sais, G.J., Frank, I., Gefter, W.B., Aronchick, J.M., and Miller, W.T. (1994). Pulmonary aspergillosis in patients with AIDS. Clinical and radiographic correlations. Chest 105, 37-44.
+PMID:8275779(PubMed abstract) Walsh, T.J., Anaissie, E.J., Denning, D.W., Herbrecht, R., Kontoyiannis, D.P., Marr, K.A., Morrison, V.A., Segal, B.H., Steinbach, W.J., Stevens, D.A., van Burik, J.A., Wingard, J.R., and Patterson, T.F. (2008). Treatment of aspergillosis: clinical practice guidelines of the Infectious Diseases Society of America. Clin Infect Dis 46, 327-360.
+PMID:18177225(PubMed abstract) Wu, N., Huang, Y., Li, Q., Bai, C., Huang, H.D., and Yao, X.P. (2010). Isolated invasive Aspergillus tracheobronchitis: a clinical study of 19 cases. Clin Microbiol Infect 16, 689-695.
+PMID:19689467(PubMed abstract) Yakiwchuk, E.M., Foisy, M.M., and Hughes, C.A. (2008). Complexity of interactions between voriconazole and antiretroviral agents. Ann Pharmacother 42, 698-703.
+PMID:18413691(PubMed abstract)
+Clarke, A.Clarke, A., Skelton, J., and Fraser, R.S. (1991). Fungal tracheobronchitis. Report of 9 cases and review of the literature. Medicine (Baltimore) 70, 1-14.
+PMID:1988763(PubMed abstract)
 Denning, D.W., Follansbee, S.E., Scolaro, M., Norris, S., Edelstein, H., and Stevens, D.A. (1991). Pulmonary aspergillosis in the acquired immunodeficiency syndrome. N Engl J Med 324, 654-662.
-PMID:1994248 ( PubMed abstract )
+PMID:1994248(PubMed abstract)
 Kemper, C.A., Hostetler, J.S., Follansbee, S.E., Ruane, P., Covington, D., Leong, S.S., Deresinski, S.C., and Stevens, D.A. (1993). Ulcerative and plaque-like tracheobronchitis due to infection with Aspergillus in patients with AIDS. Clin Infect Dis 17, 344-352.
-PMID:8218674 ( PubMed abstract )
+PMID:8218674(PubMed abstract)
 Klapholz, A., Salomon, N., Perlman, D.C., and Talavera, W. (1991). Aspergillosis in the acquired immunodeficiency syndrome. Chest 100, 1614-1618.
-PMID:1959405 ( PubMed abstract )
+PMID:1959405(PubMed abstract)
 Lortholary O, Meyohas MC, Dupot B, Cadranel J, Salmon-Ceron D Peyramond D, Simonin D for the French Cooperative Study Group on Aspergillosis in AIDS. Invasive Aspergillosis in patients with Acquired Immunodeficiency Syndrome: Report of 33 cases. Am J of Med 1993; 95(2): 177-187.
-PMID:8395142 ( PubMed abstract )
+PMID:8395142(PubMed abstract)
 Miller, W.T., Jr., Sais, G.J., Frank, I., Gefter, W.B., Aronchick, J.M., and Miller, W.T. (1994). Pulmonary aspergillosis in patients with AIDS. Clinical and radiographic correlations. Chest 105, 37-44.
-PMID:8275779 ( PubMed abstract )
+PMID:8275779(PubMed abstract)
 Walsh, T.J., Anaissie, E.J., Denning, D.W., Herbrecht, R., Kontoyiannis, D.P., Marr, K.A., Morrison, V.A., Segal, B.H., Steinbach, W.J., Stevens, D.A., van Burik, J.A., Wingard, J.R., and Patterson, T.F. (2008). Treatment of aspergillosis: clinical practice guidelines of the Infectious Diseases Society of America. Clin Infect Dis 46, 327-360.
-PMID:18177225 ( PubMed abstract )
+PMID:18177225(PubMed abstract)
 Wu, N., Huang, Y., Li, Q., Bai, C., Huang, H.D., and Yao, X.P. (2010). Isolated invasive Aspergillus tracheobronchitis: a clinical study of 19 cases. Clin Microbiol Infect 16, 689-695.
-PMID:19689467 ( PubMed abstract )
+PMID:19689467(PubMed abstract)
 Yakiwchuk, E.M., Foisy, M.M., and Hughes, C.A. (2008). Complexity of interactions between voriconazole and antiretroviral agents. Ann Pharmacother 42, 698-703.
-PMID:18413691 ( PubMed abstract )
+PMID:18413691(PubMed abstract)

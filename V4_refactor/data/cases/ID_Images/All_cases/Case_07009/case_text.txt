@@ -18,14 +18,14 @@ Laboratory results included a white blood cell count of 33,800 cells/mm³ (68% l
 Serologic test results included sodium 133 mmol/liter, potassium 3.7 mmol/liter, chloride 101 mmol/liter, carbon dioxide 21.0 mmol/liter, urea nitrogen 8 mg/dl, creatinine 0.6 mg/dl, glucose 192 mg/dl, calcium 8.8 mg/dl, phosphorus 2.6 mg/dl, magnesium 1.3 mmol/liter, and protein 7.1 g/dl. A pregnancy test was negative.
 Other testing included fibrinogen 519 mg/dl (reference range 150-400 mg/dl) and D-Dimer 3026 ng/ml (reference range <500 ng/ml).
 Clinical Course Prior to Diagnosis
-Ceftriaxone and vancomycin were administered emergently, followed by a lumbar puncture and computed tomography (CT) of the head, shown in Figure 1 .
-The fourth tube of cerebrospinal fluid (CSF) was cloudy white. There were 29 red cells per cubic millimeter and 1156 white cells per cubic millimeter (neutrophils 80%, monocytes 6% and lymphocytes 14%.) Additional testing of the CSF revealed glucose level of 83 mg/dl and total protein 85 mg/dl. A gram stain of the CSF is shown in Figure 2 .
+Ceftriaxone and vancomycin were administered emergently, followed by a lumbar puncture and computed tomography (CT) of the head, shown in Figure 1.
+The fourth tube of cerebrospinal fluid (CSF) was cloudy white. There were 29 red cells per cubic millimeter and 1156 white cells per cubic millimeter (neutrophils 80%, monocytes 6% and lymphocytes 14%.) Additional testing of the CSF revealed glucose level of 83 mg/dl and total protein 85 mg/dl. A gram stain of the CSF is shown in Figure 2.
 [Figure 1. Scan of the brain.] [Figure 2. Gram stain of spun CSF.]
 Figure 1. CT scan of the brain.
 Figure 2. Gram stain of spun CSF.
 Diagnostic Procedure(s) and Result(s)
-Computed tomography (CT) scanning of the brain showed diffuse swelling, without evidence of an acute infarction or mass lesion ( Figure 1 ). There was debris within the suprasellar and interpeduncular cisterns and the sylvian fissures, which was thought to be purulent material. The chest radiograph showed mild peribronchial cuffing, which could be seen with reactive airways disease and bronchitis; no focal pneumonia was identified.
-The gram stain of the cerebrospinal fluid revealed abundant polymorphonuclear leukocytes and moderate numbers of gram-negative diplococci. (See Figure 3 , with arrows showing bacteria.) Latex agglutination was positive for meningococcus ( Neisseria meningitidis ). The CSF culture grew abundant N. meningitidis ; the chocolate agar plate is shown in Figure 4 and reveals the smooth, moist colonies, with a glistening surface, characteristic of that organism
+Computed tomography (CT) scanning of the brain showed diffuse swelling, without evidence of an acute infarction or mass lesion (Figure 1). There was debris within the suprasellar and interpeduncular cisterns and the sylvian fissures, which was thought to be purulent material. The chest radiograph showed mild peribronchial cuffing, which could be seen with reactive airways disease and bronchitis; no focal pneumonia was identified.
+The gram stain of the cerebrospinal fluid revealed abundant polymorphonuclear leukocytes and moderate numbers of gram-negative diplococci. (See Figure 3, with arrows showing bacteria.) Latex agglutination was positive for meningococcus (Neisseria meningitidis). The CSF culture grew abundant N. meningitidis; the chocolate agar plate is shown in Figure 4 and reveals the smooth, moist colonies, with a glistening surface, characteristic of that organism
 Figure 3. Gram stain of CSF, with gram negative diplococci (arrows).
 Figure 4. Chocolate agar plate with N. meningitidis colonies.
 Treatment and Followup
@@ -40,13 +40,19 @@ Final Diagnosis
 Meningococcal meningitis caused by Neisseria meningitidis infection.
 References
 (2007). Revised recommendations of the Advisory Committee on Immunization Practices to Vaccinate all Persons Aged 11-18 Years with Meningococcal Conjugate Vaccine. MMWR Morb Mortal Wkly Rep 56, 794-795.
-PMID:17694617 ( PubMed abstract )
+PMID:17694617(PubMed abstract) Bilukha, O.O., and Rosenstein, N. (2005). Prevention and control of meningococcal disease. Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 54, 1-21.
+PMID:15917737(PubMed abstract) Christie AB. Acute bacterial or pyogenic meningitis. Infectious diseases: epidemiology and clinical practice. 4th ed. Vol 2. Edinburgh: Churchill Livingstone, 1987:872 Bedford, H., de Louvois, J., Halket, S., Peckham, C., Hurley, R., and Harvey, D. (2001). Meningitis in infancy in England and Wales: follow up at age 5 years. BMJ 323, 533-536.
+PMID:11546697(PubMed abstract) Duggal, S., Duggal, N., Charoo, H., and Mahajan, R.K. (2007). Recent outbreak of meningococcal meningitis--a microbiological study with brief review of literature. J Commun Dis 39, 209-216.
+PMID:18697589(PubMed abstract) Durand, M.L., Calderwood, S.B., Weber, D.J., Miller, S.I., Southwick, F.S., Caviness, V.S., Jr., and Swartz, M.N. (1993). Acute bacterial meningitis in adults. A review of 493 episodes. N Engl J Med 328, 21-28.
+PMID:8416268(PubMed abstract)
+(2007). Revised recommendations of the Advisory Committee on Immunization Practices to Vaccinate all Persons Aged 11-18 Years with Meningococcal Conjugate Vaccine. MMWR Morb Mortal Wkly Rep 56, 794-795.
+PMID:17694617(PubMed abstract)
 Bilukha, O.O., and Rosenstein, N. (2005). Prevention and control of meningococcal disease. Recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep 54, 1-21.
-PMID:15917737 ( PubMed abstract )
+PMID:15917737(PubMed abstract)
 Christie AB. Acute bacterial or pyogenic meningitis. Infectious diseases: epidemiology and clinical practice. 4th ed. Vol 2. Edinburgh: Churchill Livingstone, 1987:872
 Bedford, H., de Louvois, J., Halket, S., Peckham, C., Hurley, R., and Harvey, D. (2001). Meningitis in infancy in England and Wales: follow up at age 5 years. BMJ 323, 533-536.
-PMID:11546697 ( PubMed abstract )
+PMID:11546697(PubMed abstract)
 Duggal, S., Duggal, N., Charoo, H., and Mahajan, R.K. (2007). Recent outbreak of meningococcal meningitis--a microbiological study with brief review of literature. J Commun Dis 39, 209-216.
-PMID:18697589 ( PubMed abstract )
+PMID:18697589(PubMed abstract)
 Durand, M.L., Calderwood, S.B., Weber, D.J., Miller, S.I., Southwick, F.S., Caviness, V.S., Jr., and Swartz, M.N. (1993). Acute bacterial meningitis in adults. A review of 493 episodes. N Engl J Med 328, 21-28.
-PMID:8416268 ( PubMed abstract )
+PMID:8416268(PubMed abstract)

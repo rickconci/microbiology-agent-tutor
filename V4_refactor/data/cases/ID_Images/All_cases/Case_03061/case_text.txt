@@ -10,10 +10,10 @@ He was lethargic. His blood pressure was 160/90 mm Hg, heart rate 100 beats/minu
 Studies
 Two days later, a repeat lumbar puncture revealed 313 white blood cells (WBCs) per cubic millimeter, with 95% lymphocytes, protein 305 mg/dL, and glucose 75 mg/dL. The gram stain was negative. All cultures for microorganisms were negative.
 Clinical Course Prior to Diagnosis
-Eleven days after the first lumbar puncture, a third lumbar puncture was performed and showed 538 white blood cells per cubic millimeter, with 91% lymphocytes, total protein 111 mg/dL, and glucose 83 mg/dL. Cerebrospinal fluid cultures remained negative. Cytology of the cerebrospinal fluid showed large, atypical cells with abundant pale blue cytoplasm and large, footprint nuclei ( Figure 1 ).
+Eleven days after the first lumbar puncture, a third lumbar puncture was performed and showed 538 white blood cells per cubic millimeter, with 91% lymphocytes, total protein 111 mg/dL, and glucose 83 mg/dL. Cerebrospinal fluid cultures remained negative. Cytology of the cerebrospinal fluid showed large, atypical cells with abundant pale blue cytoplasm and large, footprint nuclei (Figure 1).
 Figure 1. Laboratory finding.
 Diagnostic Procedure(s) and Result(s)
-Herpes simplex virus (HSV) was detected in the cerebrospinal fluid by PCR amplification (See Figure 2 .) Type-specific ELISA of serum showed no evidence of prior HSV-1 infection but was strongly positive for HSV-2 IgG.
+Herpes simplex virus (HSV) was detected in the cerebrospinal fluid by PCR amplification (See Figure 2.) Type-specific ELISA of serum showed no evidence of prior HSV-1 infection but was strongly positive for HSV-2 IgG.
 Figure 2. Laboratory finding.
 Treatment and Followup
 The patient received 3 weeks of acyclovir (30 mg/kg/d). He improved clinically, but his headache persisted and fevers occurred intermittently. He discontinued alcohol use, according to family, but continued to have headaches. A subsequent lumbar puncture showed 30 WBCs per cubic millimeter (98% lymphocytes), 0 RBCs, total protein 58 mg/dL, and glucose 70 mg/dL. The repeat HSV PCR was negative.
@@ -23,6 +23,9 @@ Final Diagnosis
 Herpes Simplex Virus Type-2 meningitis with Mollaret's cells.
 References
 Picard, F.J., Dekaban, G.A., Silva, J., and Rice, G.P. (1993). Mollaret's meningitis associated with herpes simplex type 2 infection. Neurology 43, 1722-1727.
-PMID:8414021 ( PubMed abstract )
+PMID:8414021(PubMed abstract) Tyler, K.L. (2004). Herpes simplex virus infections of the central nervous system: encephalitis and meningitis, including Mollaret's. Herpes 11 Suppl 2, 57A-64A.
+PMID:15319091(PubMed abstract)
+Picard, F.J., Dekaban, G.A., Silva, J., and Rice, G.P. (1993). Mollaret's meningitis associated with herpes simplex type 2 infection. Neurology 43, 1722-1727.
+PMID:8414021(PubMed abstract)
 Tyler, K.L. (2004). Herpes simplex virus infections of the central nervous system: encephalitis and meningitis, including Mollaret's. Herpes 11 Suppl 2, 57A-64A.
-PMID:15319091 ( PubMed abstract )
+PMID:15319091(PubMed abstract)

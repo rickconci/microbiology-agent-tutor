@@ -8,14 +8,14 @@ Medications included propranolol, rabeprazole, spironolactone, olanzapine, lactu
 Epidemiological History
 He consumed one pint of alcohol every 4-5 days; he did not smoke or use illicit drugs. He had had dinner at a seafood restaurant with his family the day before his illness and ate raw oysters. He had a cat at home and denied recent travel, recent trauma or exposure to fresh or salt water.
 Physical Examination
-The patient appeared ill and malnourished. The temperature was normal; the blood pressure was 99/74 mm/Hg and pulse 75 beats per minute. There was conjunctival icterus and the abdomen was distended with hepatosplenomegaly. There were spider angiomas on his chest. He had bilateral palmar erythema, and purpuric and hemorrhagic bullous lesions on the arms and legs, with +2 bilateral leg edema ( Figures 1, 2, and 3 ).
+The patient appeared ill and malnourished. The temperature was normal; the blood pressure was 99/74 mm/Hg and pulse 75 beats per minute. There was conjunctival icterus and the abdomen was distended with hepatosplenomegaly. There were spider angiomas on his chest. He had bilateral palmar erythema, and purpuric and hemorrhagic bullous lesions on the arms and legs, with +2 bilateral leg edema (Figures 1, 2, and 3).
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Figure 3. Physical finding on leg.
 Studies
 The white blood cell count (WBC) was 6,500/mm³, hematocrit 29%, platelets 59,000/mm³, and INR 1.87. The level of sodium was 127 mmol/L, potassium 3.3 mmol/L, carbon dioxide (CO2) 18 mmol/L, urea nitrogen 34 mg/dL, creatinine 1.4 mg/dL, aspartate aminotransferase (AST) 38 U/L, and alanine aminotransferase (ALT) 27 U/L.
 Diagnostic Procedure(s) and Result(s)
-Aspirations of bullae showed numerous white blood cells (WBC) and rare gram negative rods on the gram stain. A culture of the aspirate grew Vibrio vulnificus . Blood cultures were negative.
+Aspirations of bullae showed numerous white blood cells (WBC) and rare gram negative rods on the gram stain. A culture of the aspirate grew Vibrio vulnificus. Blood cultures were negative.
 Treatment and Followup
 The patient was started on intravenous doxycycline and cefepime on admission. After his culture results were available, the antibiotic therapy was narrowed to doxycycline alone, with improvement. The patient remained hemodynamically stable. He was discharged home after two weeks of treatment.
 Discussion
@@ -24,3 +24,4 @@ Vibrio vulnificus is associated with a severe, distinctive soft tissue infection
 Patients at risk should avoid uncooked oysters, contact with seawater during warm months, and they should use protective gloves when handling shellfish.
 Final Diagnosis
 Vibrio vulnificus cellulitis in a patient with cirrhotic liver disease.
+References

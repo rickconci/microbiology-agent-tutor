@@ -9,34 +9,48 @@ The patient appeared well. The blood pressure was 120/80 mm Hg, pulse 72 beats p
 The right hand demonstrated a fusiform enlargement of the third proximal interphalangeal joint (PIPJ) with distinct subcentimeter nodules and a few pustules (Figure 1). There was a 1 cm nodule at the dorsal aspect of the right fourth metacarpophalangeal (MCP) area. Another nodule measuring less than 1 cm was present just proximal to the dorsum of the right wrist (Figure 2). There was no cervical or axillary lymphadenopathy.
 Her renal graft was non-tender. The rest of her examination were unremarkable.
 Figure 1. Figure 1: Right hand at presentation
+Figure 1: Right hand at presentation
 Figure 2. Figure 2: Extensor surface of the right wrist at presentation
+Figure 2: Extensor surface of the right wrist at presentation
 Studies
-X-ray of her right hand showed a dense fusiform soft tissue mass at the level of the PIP of the right third finger and a small soft tissue mass over the 3rd MCP area (Figure 3). MRI of her hand (Figure 4) showed 4 complex subcutaneous cystic masses. There was a 0.9 x 0.5 x 0.9 cm T2 hyperintense and T1 hypointense subcutaneous soft tissue nodule on the palmar aspect of the distal phalanx of the middle finger. There was a 2.3 x 1.4 x 5.8 cm mass in the dorsal aspect of the middle finger, overlying the proximal and middle phalanges. There was a lobulated, T2 hyperintense lesion with internal T2 hypointense septations. It was predominantly T1 hypointense. This encased the extensor digitorum longus tendon. There was another lesion, measuring 1.8 x 1.6 x 2 cm at the dorsal aspect of the fourth MCPJ, extending medially into the interspace between the heads of the third and fourth metacarpals. There was an ill-defined T1 hypointense and T2 intermediate signal, in the region of the extensor carpi ulnaris tendon, just distal to the ulnar styloid process which showed some enhancement post gadolinium.
+X-ray of her right hand showed a dense fusiform soft tissue mass at the level of the PIP of the right third finger and a small soft tissue mass over the 3rd MCP area (Figure 3). MRI of her hand (Figure 4) showed 4 complex subcutaneous cystic masses. There was a 0.9 x 0.5 x 0.9 cm T2 hyperintense and T1 hypointense subcutaneous soft tissue nodule on the palmar aspect of the distal phalanx of the middle finger. There was a 2.3 x 1.4 x 5.8 cm mass in the dorsal aspect of the middle finger, overlying the proximal and middle phalanges. There was a lobulated, T2 hyperintense lesion with internal T2 hypointense septations. It was predominantly T1 hypointense. This encased the extensor digitorum longus tendon. There was another lesion, measuring 1.8 x 1.6 x 2 cm at the dorsal aspect of the fourth MCPJ, extending medially into the interspace between the heads of the third and fourth metacarpals. There was an ill-defined T1 hypointense and T2 intermediate signal, in the region of the extensor carpi ulnaris tendon, just distal to the ulnar styloid process which showed some enhancement post gadolinium. Figure 3: X-ray of the right hand Figure 4: MRI of the right hand
 Figure 3. Figure 3: X-ray of the right hand
-Figure 4. Figure 4 : MRI of the right hand
+Figure 3: X-ray of the right hand
+Figure 4. Figure 4: MRI of the right hand
+Figure 4: MRI of the right hand
 Diagnostic Procedure(s) and Result(s)
 An incisional biopsy of the right middle finger nodular mass demonstrated necrotizing granulomatous inflammation and hyphal forms consistent with fungal infection. Periodic acid-Schiff (PAS) and Methanamine silver stains for fungal organisms revealed numerous branching closely septated hyphae that are moniliform-like in nature. (Figure 5). Dark olive-black velvety colonies with a dark reverse side were cultured on Sabouraud Dextrose and horse blood agar (Figures 6 and 7). Photomicrography showed septate hyphae with ellipsoidal conidia (Figure 8). The organism was identified as Exophiala oligosperma by molecular testing.
 Figure 5. Figure 5: Periodic acid-Schiff stain demonstrated septated fungal hyphae (black arrows)
+Figure 5: Periodic acid-Schiff stain demonstrated septated fungal hyphae (black arrows)
 Figure 6. Figure 6: Sabouraud's dextrose agar with an olive-black velvet colony and a black reverse
+Figure 6: Sabouraud's dextrose agar with an olive-black velvet colony and a black reverse
 Figure 7. Figure 7: Horse blood agar (left) and Sabouraud agar (right) – Growth after 4 days showed velvety gray colonies with a black reverse.
+Figure 7: Horse blood agar (left) and Sabouraud agar (right) – Growth after 4 days showed velvety gray colonies with a black reverse.
 Figure 8. Figure 8: Photomicrography showed septate hyphae with ellipsoidal conidia
+Figure 8: Photomicrography showed septate hyphae with ellipsoidal conidia
 Treatment and Followup
 The patient was treated with itraconazole. She had elevation of her serum creatinine probably related to drug interaction between itraconazole and tacrolimus. Her tacrolimus dose was adjusted and the trough level was monitored on a weekly basis.
 After 10 months of antifungal therapy, the right third finger fusiform swelling was markedly reduced in size (Figure 9) and the patient had full function of her finger. The nodule along the dorsum of the right fourth MCP joint was also reduced in size. The nodule on the dorsum of the right wrist became punctate in size.
 Figure 9. Figure 9: Photograph of the right hand 10 months after treatment.
+Figure 9: Photograph of the right hand 10 months after treatment.
 Discussion
 A broad differential including opportunistic infections is important when considering unusual presentations in immunosuppressed individuals. Obtaining tissue diagnosis is particularly critical. Cutaneous nocardiosis and unusual fungal infections including sporothrichosis can all present in this manner. Cutaneous aspergilloma is relatively uncommon, but should be considered. Mycobacterium marinum infection may occur in those with water exposure.
 Phaeohyphomycosis is an emerging fungal infection particularly in solid organ transplant recipients and immunosuppressed individuals (1). Phaeohyphomycosis (phaeo- etymology (Greek) for gray) is produced by various black (melanized) fungi (sometimes referred as “dematiaceous”) such as Exophiala, Alternaria, or Bipolaris species. These species may cause pleomorphic infections ranging from allergic diseases (mostly involving the respiratory tract) and superficial subcutaneous infections to fatal disseminated diseases.
-Black yeasts of the genus Exophiala are potential agents of human and animal mycoses. Exophiala is a genus of anamorphic fungi in the Herpotrichiellaceae family. Exophiala spp . are common environmental fungi often associated with decaying wood and soil enriched with organic wastes. Although Exophial a species are environmental fungi, they should not be disregarded as contaminants when they are isolated from clinical specimens (2). These fungi are causative agents of skin and subcutaneous tissue infections and of systemic infections, such as prosthetic valve endocarditis, dialysis-associated peritonitis, and disseminated infections, especially in immunocompromised patients (2).
-In Exophiala spp . infections, the most common sites of involvement were the subcutaneous tissue of distal limbs, usually with a history of local trauma in the weeks or months before appearance of the lesions (3). Disseminated disease is relatively uncommon. The optimal antifungal agent in the treatment of Exophiala infections is unknown (4). Recent data suggest that antifungal susceptibility differs between species, and some suggest obtaining in vitro susceptibilities although it is unclear if this leads to better clinical outcomes. Azole therapy, especially itraconazole and posaconazole, in combination with surgical excision has been associated with improved clinical outcome.
+Black yeasts of the genus Exophiala are potential agents of human and animal mycoses. Exophiala is a genus of anamorphic fungi in the Herpotrichiellaceae family. Exophiala spp. are common environmental fungi often associated with decaying wood and soil enriched with organic wastes. Although Exophial a species are environmental fungi, they should not be disregarded as contaminants when they are isolated from clinical specimens (2). These fungi are causative agents of skin and subcutaneous tissue infections and of systemic infections, such as prosthetic valve endocarditis, dialysis-associated peritonitis, and disseminated infections, especially in immunocompromised patients (2).
+In Exophiala spp. infections, the most common sites of involvement were the subcutaneous tissue of distal limbs, usually with a history of local trauma in the weeks or months before appearance of the lesions (3). Disseminated disease is relatively uncommon. The optimal antifungal agent in the treatment of Exophiala infections is unknown (4). Recent data suggest that antifungal susceptibility differs between species, and some suggest obtaining in vitro susceptibilities although it is unclear if this leads to better clinical outcomes. Azole therapy, especially itraconazole and posaconazole, in combination with surgical excision has been associated with improved clinical outcome.
 Final Diagnosis
 Exophiala oligosperma soft tissue infection
 References
 Palmisano A, Morio F, Le Pape P, et al. Multifocal phaeohyphomycosis caused by Exophiala xenobiotica in a kidney transplant recipient Transpl Infect Dis 2015: 17: 297–302
-PMID:25651934 ( PubMed abstract )
+PMID:25651934(PubMed abstract) Woo PC, Ngan AH, Tsang CC, et al. Clinical spectrum of exophiala infections and a novel Exophiala species, Exophiala hongkongensis.J Clin Microbiol. 2013 Jan; 51(1): 260–267.
+PMID:23152554(PubMed abstract) Sheikh SS, Amr SS. Mycotic cysts: report of 21 cases including eight pheomycotic cysts from Saudi Arabia. Int J Dermatol 2007; 46:388-392
+PMID:17442079(PubMed abstract) Revankar SG, Patterson JE, Sutton DA, et al. Disseminated phaeohyphomycosis: review of an emerging mycosis. Clin Infect Dis 2002; 34 (4): 467–476.
+PMID:11797173(PubMed abstract)
+Palmisano A, Morio F, Le Pape P, et al. Multifocal phaeohyphomycosis caused by Exophiala xenobiotica in a kidney transplant recipient Transpl Infect Dis 2015: 17: 297–302
+PMID:25651934(PubMed abstract)
 Woo PC, Ngan AH, Tsang CC, et al. Clinical spectrum of exophiala infections and a novel Exophiala species, Exophiala hongkongensis.J Clin Microbiol. 2013 Jan; 51(1): 260–267.
-PMID:23152554 ( PubMed abstract )
+PMID:23152554(PubMed abstract)
 Sheikh SS, Amr SS. Mycotic cysts: report of 21 cases including eight pheomycotic cysts from Saudi Arabia. Int J Dermatol 2007; 46:388-392
-PMID:17442079 ( PubMed abstract )
+PMID:17442079(PubMed abstract)
 Revankar SG, Patterson JE, Sutton DA, et al. Disseminated phaeohyphomycosis: review of an emerging mycosis. Clin Infect Dis 2002; 34 (4): 467–476.
-PMID:11797173 ( PubMed abstract )
+PMID:11797173(PubMed abstract)

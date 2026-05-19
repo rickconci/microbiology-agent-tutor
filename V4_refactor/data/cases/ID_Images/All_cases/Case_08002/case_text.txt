@@ -16,15 +16,15 @@ Physical Examination
 The patient appeared frail. The temperature was 98.6°F (37.0°C), pulse 65 beats per minute, blood pressure 150/67 mm Hg, respirations 20 breaths per minute and oxygen saturation 96% while breathing 2 liters of oxygen by nasal cannula. Auscultation of the heart revealed a normal S1 and S2 heart sounds with a 3 of 6 systolic ejection murmur at the right upper sternal border. Palpation of an implantable cardioverter-defibrillator (ICD) revealed no tenderness or overlying erythema. There were rare basilar crackles heard in the lungs. The left arm was swollen and large blisters were noted over the arteriovenous graft site; a thrill was present. Clear discharge emanated from the blisters; there was no erythema or increased warmth. Multiple ecchymoses were seen on the right arm and the right shoulder was tender to palpation anteriorly and posteriorly. Severe pain in the shoulder with motion and fluctuance of the soft tissue, consistent with an anterior shoulder effusion, were noted; there was no increased warmth. The legs demonstrated trace edema and hyperpigmentation consistent with venous stasis changes.
 Studies
 The white cell count of the blood was 11,900 cells per cubic millimeters, hematocrit 29.6%, mean corpuscular volume 98 cubic microliters, and platelets 201,000 per cubic millimeters. The prothrombin time was 13.8 seconds, INR 1.2, and partial thromboplastin time 33.4 seconds. The level of plasma sodium was 130 mmol/l, potassium 4.1 mmol/l, chloride 93 mmol/l and carbon dioxide 93 mEq/l; urea nitrogen was 114 mg/dl and creatinine 6.8 mg/dl, glucose 184 mg/dl, calcium 9.0 mg/dl and phosphorus 6.3 mg/dl.
-A radiograph of the right shoulder revealed progressive erosion and degenerative changes of the humeral joint. Computed tomography (CT) of the right shoulder, shown in Figures 1 and 2 , revealed a fluid collection around the shoulder joint that extended down into the triceps.
+A radiograph of the right shoulder revealed progressive erosion and degenerative changes of the humeral joint. Computed tomography (CT) of the right shoulder, shown in Figures 1 and 2, revealed a fluid collection around the shoulder joint that extended down into the triceps.
 Figure 1. CT of right shoulder.
 Figure 2. CT of right shoulder.
 Clinical Course Prior to Diagnosis
-Cultures of the blood were sent, after which vancomycin and gentamicin were administered empirically. On the 2nd hospital day, a right internal jugular dialysis catheter was placed. Two days later, the blood cultures remained sterile. The right shoulder joint was aspirated; examination of the aspirate revealed 200,000 white cells per cubic millimeter with 94% polymorphonuclear cells. A gram stain of the aspirate is shown in Figure 3 .
+Cultures of the blood were sent, after which vancomycin and gentamicin were administered empirically. On the 2nd hospital day, a right internal jugular dialysis catheter was placed. Two days later, the blood cultures remained sterile. The right shoulder joint was aspirated; examination of the aspirate revealed 200,000 white cells per cubic millimeter with 94% polymorphonuclear cells. A gram stain of the aspirate is shown in Figure 3.
 Irrigation and debridement of the shoulder joint was performed intraoperatively. Pathological examination of the tissue demonstrated inflammatory tissue without frank purulence. On the 4th hospital day, ultrasonography of the left forearm revealed an abscess, which was drained, and 10 cubic centimeters of purulent fluid was evacuated.
 Figure 3. Gram stain of aspirate.
 Diagnostic Procedure(s) and Result(s)
-The gram stain of the aspirate revealed numerous leukocytes and one cluster of gram-negative bacilli (Figure 4, with arrow). Culture of the organism grew Pasteurella multocida , shown in Figures 5 and 6.
+The gram stain of the aspirate revealed numerous leukocytes and one cluster of gram-negative bacilli (Figure 4, with arrow). Culture of the organism grew Pasteurella multocida, shown in Figures 5 and 6.
 Figure 4. Gram stain of aspirate with organisms (arrows).
 Figure 5. Culture plate of aspirate.
 Figure 6. Gram stain of culture growth.
@@ -38,10 +38,13 @@ Though rare, other reported manifestations of P. multocida infection include sep
 As of this writing, penicillin remains the drug of choice for the treatment of Pasteurella infection. Ampicillin and amoxicillin are also effective, whereas the antistaphylococcal penicillins (oxacillin, dicloxacillin) have less in vitro activity and should be avoided. Second and third generation cephalosporins have excellent activity. Of note, beta-lactamase producing strains have been reported.
 For penicillin-allergic individuals, treatment with fluoroquinolones, trimethoprim-sulfamethoxazole, and tetracyclines may be considered. Aminoglycosides are not recommended for treatment of P. multocida infections [Zurlo 2005].
 Final Diagnosis
-Septic arthritis of the right shoulder and soft tissue infection of the left forearm caused by Pasteurella multocida .
+Septic arthritis of the right shoulder and soft tissue infection of the left forearm caused by Pasteurella multocida.
 References
 Ewing, R., Fainstein, V., Musher, D.M., Lidsky, M., and Clarridge, J. (1980). Articular and skeletal infections caused by Pasteurella multocida. South Med J 73, 1349-1352.
-PMID:7434048 ( PubMed abstract )
+PMID:7434048(PubMed abstract) Octavio, J., Rosenberg, W., and Conte, J.E., Jr. (2001). Surgical-wound infection with Pasteurella multocida from pet dogs. N Engl J Med 345, 549.
+PMID:11519523(PubMed abstract) Zurlo JJ, Mandell GL, Bennett JE, Dolin R. "Chapter 225: Pasteurella species." Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 2687-2690
+Ewing, R., Fainstein, V., Musher, D.M., Lidsky, M., and Clarridge, J. (1980). Articular and skeletal infections caused by Pasteurella multocida. South Med J 73, 1349-1352.
+PMID:7434048(PubMed abstract)
 Octavio, J., Rosenberg, W., and Conte, J.E., Jr. (2001). Surgical-wound infection with Pasteurella multocida from pet dogs. N Engl J Med 345, 549.
-PMID:11519523 ( PubMed abstract )
+PMID:11519523(PubMed abstract)
 Zurlo JJ, Mandell GL, Bennett JE, Dolin R. "Chapter 225: Pasteurella species." Principles and Practice of Infectious Diseases. 6th Ed., Vol. 2. 2005, 2687-2690

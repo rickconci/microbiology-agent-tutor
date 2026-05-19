@@ -1,6 +1,6 @@
 History of Present Illness
 Summary: A woman with a history of colon cancer and a pulmonary nodule.
-A woman in her sixties had a pulmonary nodule (1-centimeter in diameter) found incidentally on computed tomography (CT) scanning of the chest, without parenchymal disease. The study ( Figure 1 below) had been performed for a routine follow-up of colon cancer. The patient reported no respiratory symptoms, fever, chills, night sweats or weight loss. Previous CT scanning from three months before admission was negative.
+A woman in her sixties had a pulmonary nodule (1-centimeter in diameter) found incidentally on computed tomography (CT) scanning of the chest, without parenchymal disease. The study (Figure 1 below) had been performed for a routine follow-up of colon cancer. The patient reported no respiratory symptoms, fever, chills, night sweats or weight loss. Previous CT scanning from three months before admission was negative.
 A positron emission tomographic (PET) scan was obtained and showed increased metabolic activity in the area of the nodule. She was admitted and underwent surgical resection of the nodule.
 Past Medical History
 Stage II colon cancer had been diagnosed two years before admission. A sigmoid colectomy was performed and adjuvant chemotherapy, comprised of 5-fluorouracil and leucovorin, was administered. There had been no evidence of relapse on prior studies.
@@ -10,14 +10,14 @@ Physical Examination
 The patient was afebrile with stable vital signs. The examination was normal except for a healing surgical scar.
 Studies
 The complete blood count and metabolic profile were normal. A tuberculin skin test (PPD) was negative. Sputum cultures were also negative.
-CT scanning of the chest ( Figure 1 ) showed a one-centimeter soft tissue, nodular opacity deep to the right margin of the sternum, at the level of the top of the right mainstem bronchus.
+CT scanning of the chest (Figure 1) showed a one-centimeter soft tissue, nodular opacity deep to the right margin of the sternum, at the level of the top of the right mainstem bronchus.
 Figure 1. CT scan of the chest.
 Clinical Course Prior to Diagnosis
-The patient did well following the surgical resection of the nodule. Pathologic examination of the tissue is shown in Figures 2 and 3 .
+The patient did well following the surgical resection of the nodule. Pathologic examination of the tissue is shown in Figures 2 and 3.
 Figure 2. Stain of resected lung nodule.
 Figure 3. Stain of resected lung nodule.
 Diagnostic Procedure(s) and Result(s)
-Pathologic examination of the excised nodule showed necrotizing granulomas with organisms consistent with Histoplasma capsulatum . Hematoxylin and eosin staining ( Figure 2 ) showed necrotizing caseating granulomas, and Gomori methenamine silver (GMS) staining of the organisms revealed budding forms ( Figure 3 ). Cultures taken during the surgical procedure were negative.
+Pathologic examination of the excised nodule showed necrotizing granulomas with organisms consistent with Histoplasma capsulatum. Hematoxylin and eosin staining (Figure 2) showed necrotizing caseating granulomas, and Gomori methenamine silver (GMS) staining of the organisms revealed budding forms (Figure 3). Cultures taken during the surgical procedure were negative.
 Treatment and Followup
 The patient was started on itraconazole (200 mg oral solution twice daily) with the plan of continuing therapy for three months.
 Discussion
@@ -30,4 +30,4 @@ Final Diagnosis
 Histoplasmosis.
 References
 Wheat, L.J., Freifeld, A.G., Kleiman, M.B., Baddley, J.W., McKinsey, D.S., Loyd, J.E., and Kauffman, C.A. (2007). Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 45, 807-825.
-PMID:17806045 ( PubMed abstract )
+PMID:17806045(PubMed abstract)

@@ -10,7 +10,7 @@ The patient was a nursing home resident in an urban area in New England.
 Studies
 Results of a complete blood count and serum levels of electrolytes, urea nitrogen, creatinine, glucose, and liver function tests were normal.
 Clinical Course Prior to Diagnosis
-Colonoscopy was performed. An abnormality seen in the cecum is shown in Figure 1 .
+Colonoscopy was performed. An abnormality seen in the cecum is shown in Figure 1.
 Figure 1. Colonoscopic findings.
 Diagnostic Procedure(s) and Result(s)
 An intestinal worm was visualized on endoscopy, and identified as Trichuris trichiura (whipworm) based on its size.
@@ -18,9 +18,12 @@ Treatment and Followup
 The patient was treated with mebendazole, with improvement.
 Discussion
 Final Diagnosis
-Trichuriasis caused by infection with (whipworm).
+Trichuriasis caused by infection with Trichuris trichiura (whipworm).
 References
 Artis, D. (2006). New weapons in the war on worms: identification of putative mechanisms of immune-mediated expulsion of gastrointestinal nematodes. Int J Parasitol 36, 723-733.
-PMID:16620826 ( PubMed abstract )
+PMID:16620826(PubMed abstract) Ok, K.S., Kim, Y.S., Song, J.H., Lee, J.H., Ryu, S.H., Moon, J.S., Whang, D.H., and Lee, H.K. (2009). Trichuris trichiura infection diagnosed by colonoscopy: case reports and review of literature. Korean J Parasitol 47, 275-280.
+PMID:19724702(PubMed abstract)
+Artis, D. (2006). New weapons in the war on worms: identification of putative mechanisms of immune-mediated expulsion of gastrointestinal nematodes. Int J Parasitol 36, 723-733.
+PMID:16620826(PubMed abstract)
 Ok, K.S., Kim, Y.S., Song, J.H., Lee, J.H., Ryu, S.H., Moon, J.S., Whang, D.H., and Lee, H.K. (2009). Trichuris trichiura infection diagnosed by colonoscopy: case reports and review of literature. Korean J Parasitol 47, 275-280.
-PMID:19724702 ( PubMed abstract )
+PMID:19724702(PubMed abstract)

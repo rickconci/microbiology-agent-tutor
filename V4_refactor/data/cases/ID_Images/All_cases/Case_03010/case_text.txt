@@ -8,7 +8,7 @@ Medications included tacrolimus, mycophenolate, prednisone, and valganciclovir.
 Allergies
 He had no known allergies.
 Physical Examination
-The patient appeared well, and was afebrile with normal vital signs. The skin lesions were flat erythematous areas (1-2 cm in diameter) with scaling ( Figures 1 and 2 ). The remainder of the examination was normal.
+The patient appeared well, and was afebrile with normal vital signs. The skin lesions were flat erythematous areas (1-2 cm in diameter) with scaling (Figures 1 and 2). The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
@@ -16,15 +16,16 @@ The white blood cell (WBC) count was 12,700/mm³ with a normal differential. Oth
 Clinical Course Prior to Diagnosis
 Acyclovir was started empirically for presumed Herpes zoster. A skin biopsy was performed.
 Diagnostic Procedure(s) and Result(s)
-The skin biopsy revealed septate hyphae of a dermatophyte ( Trichophyton rubrum ) in the keratinous layer of skin ( Figures 3 and 4 ).
+The skin biopsy revealed septate hyphae of a dermatophyte (Trichophyton rubrum) in the keratinous layer of skin (Figures 3 and 4).
 Figure 3. PAS stain of skin biopsy.
 Figure 4. GMS stain of skin biopsy.
 Treatment and Followup
 The patient was treated with a single dose of ketoconazole while his immunosuppressive medications were held, followed by topical terbenafine, with resolution of the rash over a month.
 Discussion
-Dermatophytoses are superficial infections caused by fungi capable of colonizing keratinized tissues such as stratum corneum of the epidermis, nails and hair. The three fungal genera that are most commonly involved are: Microsporum , Trichophyton and Epidermophyton . In areas of skin trauma, maceration or occlusion with non-porous material, these fungi may invade and cause skin rashes.
+Dermatophytoses are superficial infections caused by fungi capable of colonizing keratinized tissues such as stratum corneum of the epidermis, nails and hair. The three fungal genera that are most commonly involved are: Microsporum, Trichophyton and Epidermophyton. In areas of skin trauma, maceration or occlusion with non-porous material, these fungi may invade and cause skin rashes.
 Dermatophyte infections routinely affect individuals who are otherwise healthy, but people with compromised immune systems are particularly susceptible. Extensive disease and failure to respond to treatment should alert providers to the possibility of an underlying immunologic problem.
 Clinical syndromes caused by theses fungi are described by the site affected. (For example, Tinea capitis: affecting the scalp, Tinea barbae: affecting the beard area, Tinea corporis: affecting glabrous skin, Tinea cruris: affecting groin and pelvic area, Tinea pedis: affecting feet, Tinea manuum: affecting hands, Tinea unguium: affecting the nail plate, etc.) Trichophyton rubrum is named for the red pigmented colonies produce on Sabouraud’s agar. It is most commonly associated with tinea corporis, tinea cruris, tinea pedis and tinea unguium.
 A presumptive diagnosis of dermatophyte infection should be supported by microscopic examination of clinical material and culture. In a 10% KOH preparation they appear as septate branching hyphal elements. Sabouraud’s dextrose agar is the most commonly used medium for growth of these organisms.
 Final Diagnosis
 Trichophyton rubrum skin infection.
+References

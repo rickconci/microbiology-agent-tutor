@@ -1,22 +1,23 @@
 History of Present Illness
 Medical Student Curriculum Case Summary: A woman developed fever after visiting Haiti.
-A woman in her sixties, living in the United States, returned for a visit to her family in Haiti. One week following her return to the United States, she developed fevers to 103°F (39.4°C), rigors, lethargy, and shortness of breath.
+A woman in her sixties, living in the United States, returned for a visit to her family (In Travel Medicine, the setting of people returning to their home country to visit friends and relatives is so common and so important that it has its own acronym: VFR. People in this category often do not obtain recommended vaccines or prophylaxis and sometimes do not even report having traveled. Patients may believe that they are immune to locally prevalent diseases, unaware that immunity wanes with time.) in Haiti. One week following her return to the United States, she developed fevers to 103°F (39.4°C), rigors, lethargy, and shortness of breath.
 Epidemiological History
-She had recently traveled to .
+She had recently traveled to Haiti (Obtaining a detailed travel history is critical for anyone presenting with an unexplained febrile illness. Several studies show how often this is missed. Usually, travel to a tropical climate entails increased risk of mosquito-borne infections such as dengue and water-borne infections such as typhoid fever.).
 Physical Examination
-Her temperature was 103°F (39.4°C), and the pulse was 100 beats per minute. She was , oriented but lethargic, and had bilateral on lung examination.
+Her temperature was 103°F (39.4°C), and the pulse was 100 beats per minute. She was diaphoretic (vocabulary: sweating), oriented but lethargic, and had bilateral crackles (Rales, indicating fluid build up in the lungs) on lung examination.
 Studies
-The hematocrit was 20% . The blood smear is shown in Figure 1 . Lactate dehydrogenase (LDH) was 1900 U/L. Chest radiography showed bilateral diffuse air space disease.
+The hematocrit was 20% (Markedly anemic, suggestive of a process with destruction of red blood cells.). The blood smear is shown in Figure 1. Lactate dehydrogenase (LDH) was 1900 U/L. Chest radiography showed bilateral diffuse air space disease.
 Figure 1. Blood smear.
 Clinical Course Prior to Diagnosis
 She rapidly developed worsening mental status, anuric renal failure, and respiratory failure with bilateral pulmonary infiltrates.
 Diagnostic Procedure(s) and Result(s)
-Examination of the peripheral blood smear showed numerous intra-erythrocytic ring forms including some with double rings ( Figure 1 ), gametocytes ( Figure 2 ), and schizonts ( Figure 3 ) consistent with Plasmodium falciparum . Estimated initial parasitemia was 20%.
+Examination of the peripheral blood smear showed numerous intra-erythrocytic ring forms including some with double rings (Figure 1), gametocytes (Figure 2), and schizonts (Figure 3) consistent with Plasmodium falciparum. Estimated initial parasitemia was 20%.
 Figure 2. Blood smear with gametocyte.
 Figure 3. Blood smear with schizont.
 Treatment and Followup
-Severe malaria is a common cause of fever in returning travelers. In this patient, the high parasitemia and possible cerebral, pulmonary, and renal involvement required intubation, dialysis, blood transfusions, and prolonged support in an intensive care unit. She was treated with intravenous and exchange transfusion.
+Severe malaria is a common cause of fever in returning travelers. In this patient, the high parasitemia and possible cerebral, pulmonary, and renal involvement required intubation, dialysis, blood transfusions, and prolonged support in an intensive care unit. She was treated with intravenous quinidine (Classical treatment for malaria caused by P. falciparum was quinine but this is often not available in hospitals. The related anti-arrhythmic, quinidine is used in its place for severe malaria.) and exchange transfusion.
 Discussion
-Common causes of fever in travelers returning from Haiti include malaria, dengue, and typhoid fever. This patient had severe malaria due to Plasmodium falciparum . Because P. falciparum can infect red blood cells of all ages, the level of parasitemia may be higher with P. falciparum malaria than with P. vivax or P. ovale , which infect young red blood cells. P. falciparum induces expression of knobs on the red blood cell surface which mediate cytoadherence to endothelial cells and microvascular disease. The result of this microvascular disease may be cerebral, renal, and pulmonary complications, as seen in this case.
+Common causes of fever in travelers returning from Haiti include malaria, dengue, and typhoid fever. This patient had severe malaria due to Plasmodium falciparum (The distinction between P. falciparum and other species is important because the others are not often life-threatening in otherwise healthy people.). Because P. falciparum can infect red blood cells of all ages, the level of parasitemia may be higher with P. falciparum malaria than with P. vivax or P. ovale, which infect young red blood cells. P. falciparum induces expression of knobs on the red blood cell surface which mediate cytoadherence (For this reason, P. falciparum trophozoites are sequestered in the microvasculature, causing end organ damage and, unlike other malarial species, may not be seen in peripheral blood smears.) to endothelial cells and microvascular disease. The result of this microvascular disease may be cerebral, renal, and pulmonary complications, as seen in this case.
 Final Diagnosis
 Severe malaria due to Plasmodium falciparum.
+References

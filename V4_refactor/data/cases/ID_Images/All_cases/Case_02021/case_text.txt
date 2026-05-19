@@ -8,14 +8,14 @@ Lamivudine had been started 3 months earlier.
 Epidemiological History
 She had immigrated to United States more than a decade earlier, and lived alone in suburban New York. She drank alcohol socially, and did not smoke or use intravenous drugs. There was no history of recent travel. She had had lunch in a Chinese restaurant one day before admission, and had no history of recent trauma or exposure to fresh water or salt water.
 Physical Examination
-The patient appeared drowsy, disoriented, and uncomfortable. The temperature was 104°F (40°C), blood pressure 90/50 mm Hg, pulse 120 beats per minute, and respirations 22 breaths per minute. Sclera and skin were icteric. She was confused, but the neurological examination was otherwise non-focal. Physical findings of the legs are shown in Figures 1, 2, and 3 .
+The patient appeared drowsy, disoriented, and uncomfortable. The temperature was 104°F (40°C), blood pressure 90/50 mm Hg, pulse 120 beats per minute, and respirations 22 breaths per minute. Sclera and skin were icteric. She was confused, but the neurological examination was otherwise non-focal. Physical findings of the legs are shown in Figures 1, 2, and 3.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Figure 3. Physical finding.
 Studies
 The white blood cell count (WBC) was 4,200/mm³ (band forms 39%); hematocrit 29% and platelet count 30,000/mm³. The level of bilirubin was 4.8 mg/dL (direct 2.7 mg/dL); aspartate aminotransferase (AST) 29 U/L, alanine aminotransferase (ALT) 60 U/L, creatine kinase (CPK) 94 U/L, prothrombin time (PT) 15.7 seconds, INR 1.9, partial thromboplastin time (PTT) 47 seconds and fibrin split products (FSP) were greater than 40.
 Diagnostic Procedure(s) and Result(s)
-The patient underwent surgical debridement. Cultures from the tissue obtained during debridement grew Vibrio vulnificus . Blood cultures were negative.
+The patient underwent surgical debridement. Cultures from the tissue obtained during debridement grew Vibrio vulnificus. Blood cultures were negative.
 Treatment and Followup
 The patient responded to treatment with ceftazidime and doxycycline, and was finally discharged after three weeks of therapy.
 Discussion
@@ -25,4 +25,4 @@ Final Diagnosis
 Vibrio vulnificus infection.
 References
 Horseman, M.A., and Surani, S. (2011). A comprehensive review of Vibrio vulnificus: an important cause of severe sepsis and skin and soft-tissue infection. Int J Infect Dis 15, e157-166.
-PMID:21177133 ( PubMed abstract )
+PMID:21177133(PubMed abstract)

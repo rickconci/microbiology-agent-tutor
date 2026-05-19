@@ -11,7 +11,7 @@ Physical Examination
 The patient was cachectic and appeared ill. The temperature was 100.5°F (38.1°C). The other vital signs were normal. There was tender, fixed bilateral lymphadenopathy in the preauricular, submandibular, supraclavicular, axillary, and inguinal regions. Edema was present at both ankles. The remainder of the examination was normal.
 Studies
 The white cell count was 5,900 cells/mm³ with a normal differential, hematocrit 23.4%, and platelets 221,000/mm³. The creatinine was 2.8 mg/dL with a glomerular filtration rate of 26 mL per minute. Albumin was 1.6 g/dL. Other routine laboratory test results were normal.
-Computed tomography (CT) of the thorax, abdomen, and pelvis (with the administration of oral contrast) revealed innumerable pathologically enlarged lymph nodes, within the supraclavicular, subpectoral, and axillary regions bilaterally. The largest node measured 3.3 cm in diameter (see Figure 1 ). Within the abdomen, the liver and spleen were diffusely enlarged, and the gastrohepatic and gastrosplenic lymph nodes were also enlarged (see Figure 2 ). In addition, numerous lymph nodes were enlarged within the retroperitoneal region, extending along both iliac chain, throughout the pelvis, and into the inguinal regions ( Figure 3 ).
+Computed tomography (CT) of the thorax, abdomen, and pelvis (with the administration of oral contrast) revealed innumerable pathologically enlarged lymph nodes, within the supraclavicular, subpectoral, and axillary regions bilaterally. The largest node measured 3.3 cm in diameter (see Figure 1). Within the abdomen, the liver and spleen were diffusely enlarged, and the gastrohepatic and gastrosplenic lymph nodes were also enlarged (see Figure 2). In addition, numerous lymph nodes were enlarged within the retroperitoneal region, extending along both iliac chain, throughout the pelvis, and into the inguinal regions (Figure 3).
 Figure 1. CT scan of chest.
 Figure 2. CT scan of abdomen.
 Figure 3. CT scan of pelvis.
@@ -20,7 +20,7 @@ An excisional biopsy of five inguinal lymph nodes was performed. Figures 4 and 5
 Figure 4. Hematoxylin and eosin stain of lymph node.
 Figure 5. Immunohistochemical stain of lymph node.
 Diagnostic Procedure(s) and Result(s)
-Five enlarged lymph nodes in the right axillary region were excised. Pathological examination of the axillary lymph node tissue with hematoxylin and eosin (H and E) staining ( Figures 4 and 6 ) revealed regressively transformed germinal centers rimmed by lymphocytes (A), hyperplastic vessels with hyaline changes (B) and interfollicular areas with dense infiltrates of plasmacytes (C). Immunohistochemical stain demonstrated mantle zone positivity, characteristic of Castleman's disease (see Figure 5 ).
+Five enlarged lymph nodes in the right axillary region were excised. Pathological examination of the axillary lymph node tissue with hematoxylin and eosin (H and E) staining (Figures 4 and 6) revealed regressively transformed germinal centers rimmed by lymphocytes (A), hyperplastic vessels with hyaline changes (B) and interfollicular areas with dense infiltrates of plasmacytes (C). Immunohistochemical stain demonstrated mantle zone positivity, characteristic of Castleman's disease (see Figure 5).
 Figure 6. H and E stain of lymph node biopsy.
 Treatment and Followup
 The patient was discharged, referred to oncology as an outpatient and started on chemotherapy. Several weeks later, he presented to the emergency room in acute respiratory distress with severe hypotension. He was intubated and started on pressors. Chest radiography showed infiltrates in the right middle lobe and left lower lobe.
@@ -32,10 +32,15 @@ Final Diagnosis
 Castleman’s disease in a patient with HIV infection and AIDS.
 References
 Collins, L.S., Fowler, A., Tong, C.Y., and de Ruiter, A. (2006). Multicentric Castleman's disease in HIV infection. Int J STD AIDS 17, 19-24; quiz 25.
-PMID:16409673 ( PubMed abstract )
+PMID:16409673(PubMed abstract) Herrada, J., Cabanillas, F., Rice, L., Manning, J., and Pugh, W. (1998). The clinical behavior of localized and multicentric Castleman disease. Ann Intern Med 128, 657-662
+PMID:9537940(PubMed abstract) Lachant, N.A., Sun, N.C., Leong, L.A., Oseas, R.S., and Prince, H.E. (1985). Multicentric angiofollicular lymph node hyperplasia (Castleman's disease) followed by Kaposi's sarcoma in two homosexual males with the acquired immunodeficiency syndrome (AIDS). Am J Clin Pathol 83, 27-33.
+PMID:3871303(PubMed abstract) Oksenhendler, E., Duarte, M., Soulier, J., Cacoub, P., Welker, Y., Cadranel, J., Cazals-Hatem, D., Autran, B., Clauvel, J.P., and Raphael, M. (1996). Multicentric Castleman's disease in HIV infection: a clinical and pathological study of 20 patients. AIDS 10, 61-67.
+PMID:8924253(PubMed abstract)
+Collins, L.S., Fowler, A., Tong, C.Y., and de Ruiter, A. (2006). Multicentric Castleman's disease in HIV infection. Int J STD AIDS 17, 19-24; quiz 25.
+PMID:16409673(PubMed abstract)
 Herrada, J., Cabanillas, F., Rice, L., Manning, J., and Pugh, W. (1998). The clinical behavior of localized and multicentric Castleman disease. Ann Intern Med 128, 657-662
-PMID:9537940 ( PubMed abstract )
+PMID:9537940(PubMed abstract)
 Lachant, N.A., Sun, N.C., Leong, L.A., Oseas, R.S., and Prince, H.E. (1985). Multicentric angiofollicular lymph node hyperplasia (Castleman's disease) followed by Kaposi's sarcoma in two homosexual males with the acquired immunodeficiency syndrome (AIDS). Am J Clin Pathol 83, 27-33.
-PMID:3871303 ( PubMed abstract )
+PMID:3871303(PubMed abstract)
 Oksenhendler, E., Duarte, M., Soulier, J., Cacoub, P., Welker, Y., Cadranel, J., Cazals-Hatem, D., Autran, B., Clauvel, J.P., and Raphael, M. (1996). Multicentric Castleman's disease in HIV infection: a clinical and pathological study of 20 patients. AIDS 10, 61-67.
-PMID:8924253 ( PubMed abstract )
+PMID:8924253(PubMed abstract)

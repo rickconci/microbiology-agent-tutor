@@ -13,7 +13,7 @@ Physical Examination
 The patient appeared ill. The temperature was 104.3°F (40.2°C), blood pressure 104/62 mm Hg, pulse 140 beats per minute, and respirations 20 breaths per minute. There was mild erythema of the conjunctiva. The tonsils were enlarged and a white exudate was noted. There was tender adenopathy in the anterior cervical and submandibular regions, and mild tenderness to palpation in the epigastrium and peirumbilical areas, without guarding or rebound tenderness. The legs were tender to palpation, and the remainder of the exam was normal.
 Studies
 The hemoglobin was 14.3 g/dL, hematocrit 43.8%, white blood cell count (WBC) 3,400/mm³ (with 63% neutrophils, 26% band forms, 6% lymphocytes, and 2% monocytes), platelets 200,000/mm³, prothrombin time (PT) 17.2 seconds, partial thromboplastin time (PTT) 37 seconds, INR 1.6, sodium 134 mmol/l, potassium 3.8 mmol/l, chloride 98 mmol/l, bicarbonate 20 mmol/l, urea nitrogen 18, creatinine 1.2, glucose 103 mg/dl, bilirubin 4.9 mg/dl (direct 3.1 mg/dl), aspartate aminotransferase (AST) 339 U/L, alanine aminotransferase (ALT) 376 U/L, alkaline phosphatase 164 U/L, amylase 65 U/L, lipase 34 U/L, creatine phosphokinase (CPK) 3193 U/L, lactate dehydrogenase (LDH) 1572 U/L.
-The chest radiograph showed bilateral reticulonodular infiltrates ( Figure 1 ).
+The chest radiograph showed bilateral reticulonodular infiltrates (Figure 1).
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
 The patient was treated with clindamycin and cefotaxime initially. On the third hospital day she became afebrile. Her sore throat and abdominal pain resolved. However, the myalgias continued. A tuberculosis skin test (PPD) was positive, with 30 mm induration. Three sputum samples for acid fast bacilli (AFB) were negative.
@@ -23,7 +23,7 @@ Diagnostic Procedure(s) and Result(s)
 A transbronchial biopsy was not performed due to marked desaturation. The bone morrow biopsy showed multiple non-caseating granulomas but no acid fast bacilli (AFB). The sputum and BAL grew Mycobacterium tuberculosis on culture.
 Treatment and Followup
 Blood, urine and throat cultures were negative for bacteria and fungi. Sputum, urine and throat cultures were negative for virus. The cefotaxime and clindamycin were changed to piperacillin-tazobactam, azithromycin and anti-tuberculosis therapy (isoniazid, rifampin, pyrazinamide and ethambutol). The patient’s condition worsened despite this therapy. She became profoundly acidotic and severely hypoxic with cardiac tachyarrhythmias. She expired on the fourteenth day of the hospitalization.
-An autopsy revealed adult respiratory distress syndrome (ARDS) and pathologic changes consistent with disseminated tuberculosis involving multiple organs. ( Figures 2 through 7 ).
+An autopsy revealed adult respiratory distress syndrome (ARDS) and pathologic changes consistent with disseminated tuberculosis involving multiple organs. (Figures 2 through 7).
 Figure 2. Heart histopathology.
 Figure 3. Lung histopathology.
 Figure 4. Liver histopathology.
@@ -35,4 +35,5 @@ This case describes a very atypical presentation of a fatal case of disseminated
 This patient was a young woman with no history of immunocompromise and no medical complaints except for myalgias. Her initial presentation was most consistent with a severe acute viral illness with pharyngitis, conjunctivitis, myositis, hepatitis and pneumonitis. Given the unusual presentation, tuberculosis was not considered likely especially when the sputum and a bronchoalveolar lavage were negative on smear for AFB. It has been noted that the diagnosis of miliary tuberculosis maybe difficult since smears of sputum for acid-fast bacilli may be positive in only 20-40% of patients and the PPD maybe negative in 30-60% of cases. Had her clinical condition permitted a transbronchial biopsy, it is expected that the yield from this procedure would have been higher than from the BAL.
 This patient died on her third day of anti-tuberculous therapy and the autopsy was consistent with tuberculosis infection of multiple organs. The literature indicates a very poor survival rate for cases of disseminated tuberculosis associated with septic shock or ARDS. It remains an unproven possibility that a severe viral illness predisposed this patient to fatal disseminated tuberculosis.
 Final Diagnosis
-Disseminated tuberculosis, caused by Mycobacterium tuberculosis .
+Disseminated tuberculosis, caused by Mycobacterium tuberculosis.
+References

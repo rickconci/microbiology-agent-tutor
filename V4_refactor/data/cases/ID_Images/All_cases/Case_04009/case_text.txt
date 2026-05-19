@@ -12,26 +12,31 @@ The patient appeared toxic. The temperature was 101.6°F (38.7°C), blood pressu
 Studies
 The white blood count was 20,300 cells/mm³ with 47% neutrophils and 38% bands. Aspartate aminotransferase (AST) was 67 U/liter, alanine aminotransferase (ALT) 173 U/liter, alkaline phosphatase 201 U/liter, and total bilirubin 1.2 mg/dL.
 Clinical Course Prior to Diagnosis
-Ultrasonography of the right upper quadrant showed multiple hypoechoic masses in the liver with no ductal dilatation, and a normal gallbladder. Computed tomography (CT) of the abdomen showed multiple cystic lesions with thick enhancing septa and rims in the right lobe of liver ( Figures 1 and 2 ); a small right pleural effusion was also seen.
+Ultrasonography of the right upper quadrant showed multiple hypoechoic masses in the liver with no ductal dilatation, and a normal gallbladder. Computed tomography (CT) of the abdomen showed multiple cystic lesions with thick enhancing septa and rims in the right lobe of liver (Figures 1 and 2); a small right pleural effusion was also seen.
 Figure 1. CT scan of the abdomen.
 Figure 2. CT scan of the abdomen.
 Diagnostic Procedure(s) and Result(s)
-Aspiration and drainage of the liver masses were performed by interventional radiological techniques. Gram stain of the aspirate revealed thin gram negative rods ( Figure 3 ) and blood cultures grew gram negative rods in the anaerobic bottles ( Figure 4 ). Final speciation of the organism that was cultured from the blood and aspirate identified Fusobacterium nucleatum .
+Aspiration and drainage of the liver masses were performed by interventional radiological techniques. Gram stain of the aspirate revealed thin gram negative rods (Figure 3) and blood cultures grew gram negative rods in the anaerobic bottles (Figure 4). Final speciation of the organism that was cultured from the blood and aspirate identified Fusobacterium nucleatum.
 Figure 3. Gram stain of the liver aspirate.
 Figure 4. Gram stain of the blood culture.
 Treatment and Followup
 Metronidazole, penicillin and levofloxacin were administered and multiple drainage procedures of the abscesses performed. CT scanning of the head and neck did not reveal an obvious source of bacteremia.
 Discussion
 Liver abscesses are generally amebic or pyogenic. Pyogenic liver abscesses are usually due to the spread of bacteria from another source, such as biliary tract disease, portal system infection, hematogenous spread or trauma.
-The bacteriology of pyogenic liver abscesses is usually mixed and may include Enterobacteriaceae , streptococci (aerobic, microaerophilic and anaerobic) and anaerobic gram negative rods (e.g. Fusobacterium and Bacteroides ). Fusobacterium nucleatum is an anaerobic bacterium that is part of the normal oral flora. It is characteristically spindle-shaped and often appears in pairs arranged end-to-end.
+The bacteriology of pyogenic liver abscesses is usually mixed and may include Enterobacteriaceae, streptococci (aerobic, microaerophilic and anaerobic) and anaerobic gram negative rods (e.g. Fusobacterium and Bacteroides). Fusobacterium nucleatum is an anaerobic bacterium that is part of the normal oral flora. It is characteristically spindle-shaped and often appears in pairs arranged end-to-end.
 Final Diagnosis
-Pyogenic liver abscess and bacteremia due to Fusobacterium nucleatum .
+Pyogenic liver abscess and bacteremia due to Fusobacterium nucleatum.
 References
 Crippin, J.S., and Wang, K.K. (1992). An unrecognized etiology for pyogenic hepatic abscesses in normal hosts: dental disease. Am J Gastroenterol 87, 1740-1743.
-PMID:1449134 ( PubMed abstract )
+PMID:1449134(PubMed abstract) Nozawa, Y., Joshita, S., Fukushima, M., Sugiyama, Y., Ichikawa, Y., Kimura, T., Morita, S., Kamijo, A., Umemura, T., Ichijo, T., Matsumoto, A., Yoshizawa, K., and Tanaka, E. (2011). A case of pyogenic liver abscess infected with fusobacterium necrophorum depicted by microscopy and confirmed by tissue culture. Intern Med 50, 1815-1819.
+PMID:21881280(PubMed abstract) Rahimian, J., Wilson, T., Oram, V., and Holzman, R.S. (2004). Pyogenic liver abscess: recent trends in etiology and mortality. Clin Infect Dis 39, 1654-1659.
+PMID:15578367(PubMed abstract) Wallack, M.K., Brown, A.S., Austrian, R., and Fitts, W.T. (1976). Pyogenic liver abscess secondary to asymptomatic sigmoid diverticulitis. Ann Surg 184, 241-243.
+PMID:952571(PubMed abstract)
+Crippin, J.S., and Wang, K.K. (1992). An unrecognized etiology for pyogenic hepatic abscesses in normal hosts: dental disease. Am J Gastroenterol 87, 1740-1743.
+PMID:1449134(PubMed abstract)
 Nozawa, Y., Joshita, S., Fukushima, M., Sugiyama, Y., Ichikawa, Y., Kimura, T., Morita, S., Kamijo, A., Umemura, T., Ichijo, T., Matsumoto, A., Yoshizawa, K., and Tanaka, E. (2011). A case of pyogenic liver abscess infected with fusobacterium necrophorum depicted by microscopy and confirmed by tissue culture. Intern Med 50, 1815-1819.
-PMID:21881280 ( PubMed abstract )
+PMID:21881280(PubMed abstract)
 Rahimian, J., Wilson, T., Oram, V., and Holzman, R.S. (2004). Pyogenic liver abscess: recent trends in etiology and mortality. Clin Infect Dis 39, 1654-1659.
-PMID:15578367 ( PubMed abstract )
+PMID:15578367(PubMed abstract)
 Wallack, M.K., Brown, A.S., Austrian, R., and Fitts, W.T. (1976). Pyogenic liver abscess secondary to asymptomatic sigmoid diverticulitis. Ann Surg 184, 241-243.
-PMID:952571 ( PubMed abstract )
+PMID:952571(PubMed abstract)

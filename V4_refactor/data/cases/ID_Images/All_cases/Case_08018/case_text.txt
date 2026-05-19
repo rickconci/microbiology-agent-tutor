@@ -18,12 +18,12 @@ The pulse was 114 beats per minute, and other vital signs were normal. There was
 Studies
 The pulse was 114 beats per minute, and other vital signs were normal. There was a lacey, serpiginous rash over the face, neck, back, chest, abdomen, and extremities, with sparing of her palms and soles. The remainder of the examination was normal.
 Clinical Course Prior to Diagnosis
-On admission, all medications were held except for prednisone. On the 4th day, dyspnea with tachycardia developed. A chest radiograph ( Figure 1 ) revealed diffuse bilateral interstitial infiltrates. Computed tomography (CT) of the chest ( Figure 2 ) demonstrated diffuse, bilateral fine nodular opacities with densely confluent ground glass opacities.
+On admission, all medications were held except for prednisone. On the 4th day, dyspnea with tachycardia developed. A chest radiograph (Figure 1) revealed diffuse bilateral interstitial infiltrates. Computed tomography (CT) of the chest (Figure 2) demonstrated diffuse, bilateral fine nodular opacities with densely confluent ground glass opacities.
 Respiratory droplet precautions were instituted. The next day, her respiratory status deteriorated, and the trachea was intubated emergently. A bedside flexible bronchoscopy showed severe diffuse alveolar hemorrhage.
 Figure 1. Chest radiograph.
 Figure 2. CT of the chest.
 Diagnostic Procedure(s) and Result(s)
-Cultures of specimens of blood for bacteria, fungi, viruses, and acid-fast organisms were sterile. Examination of a tracheal aspirate wet mount ( Figures 3 and 4 and Video 1 ) revealed multiple, mobile larvae consistent with Strongyloides stercoralis . Subsequent stool and nasogastric aspirates also contained Strongyloides ova, larvae, and adult nematodes. Eosinophilia rose to 13% during the hospitalization. Culture of a sputum specimen ( Figure 5 ) revealed serpiginous tracts.
+Cultures of specimens of blood for bacteria, fungi, viruses, and acid-fast organisms were sterile. Examination of a tracheal aspirate wet mount (Figures 3 and 4 and Video 1) revealed multiple, mobile larvae consistent with Strongyloides stercoralis. Subsequent stool and nasogastric aspirates also contained Strongyloides ova, larvae, and adult nematodes. Eosinophilia rose to 13% during the hospitalization. Culture of a sputum specimen (Figure 5) revealed serpiginous tracts.
 Video 1. Wet mount of sputum specimen.
 Figure 3. Wet mount of tracheal aspirate sputum specimen (also see Video 1).
 Figure 4. Wet mount of tracheal aspirate.
@@ -40,12 +40,18 @@ Final Diagnosis
 Strongyloides stercoralis hyperinfection in a patient with HIV infection and AIDS.
 References
 Gupta, S., Jain, A., Fanning, T.V., Couriel, D.R., Jimenez, C.A., and Eapen, G.A. (2006). An unusual cause of alveolar hemorrhage post hematopoietic stem cell transplantation: a case report. BMC Cancer 6, 87.
-PMID:16603072 ( PubMed abstract )
+PMID:16603072(PubMed abstract) Keiser, P.B., and Nutman, T.B. (2004). Strongyloides stercoralis in the Immunocompromised Population. Clin Microbiol Rev 17, 208-217.
+PMID:14726461(PubMed abstract) Kinjo, T., Tsuhako, K., Nakazato, I., Ito, E., Sato, Y., Koyanagi, Y., and Iwamasa, T. (1998). Extensive intra-alveolar haemorrhage caused by disseminated strongyloidiasis. Int J Parasitol 28, 323-330.
+PMID:9512996(PubMed abstract) Segarra-Newnham, M. (2007). Manifestations, diagnosis, and treatment of Strongyloides stercoralis infection. Ann Pharmacother 41, 1992-2001.
+PMID:17940124(PubMed abstract) Siddiqui, A.A., and Berk, S.L. (2001). Diagnosis of Strongyloides stercoralis infection. Clin Infect Dis 33, 1040-1047.
+PMID:11528578(PubMed abstract)
+Gupta, S., Jain, A., Fanning, T.V., Couriel, D.R., Jimenez, C.A., and Eapen, G.A. (2006). An unusual cause of alveolar hemorrhage post hematopoietic stem cell transplantation: a case report. BMC Cancer 6, 87.
+PMID:16603072(PubMed abstract)
 Keiser, P.B., and Nutman, T.B. (2004). Strongyloides stercoralis in the Immunocompromised Population. Clin Microbiol Rev 17, 208-217.
-PMID:14726461 ( PubMed abstract )
+PMID:14726461(PubMed abstract)
 Kinjo, T., Tsuhako, K., Nakazato, I., Ito, E., Sato, Y., Koyanagi, Y., and Iwamasa, T. (1998). Extensive intra-alveolar haemorrhage caused by disseminated strongyloidiasis. Int J Parasitol 28, 323-330.
-PMID:9512996 ( PubMed abstract )
+PMID:9512996(PubMed abstract)
 Segarra-Newnham, M. (2007). Manifestations, diagnosis, and treatment of Strongyloides stercoralis infection. Ann Pharmacother 41, 1992-2001.
-PMID:17940124 ( PubMed abstract )
+PMID:17940124(PubMed abstract)
 Siddiqui, A.A., and Berk, S.L. (2001). Diagnosis of Strongyloides stercoralis infection. Clin Infect Dis 33, 1040-1047.
-PMID:11528578 ( PubMed abstract )
+PMID:11528578(PubMed abstract)

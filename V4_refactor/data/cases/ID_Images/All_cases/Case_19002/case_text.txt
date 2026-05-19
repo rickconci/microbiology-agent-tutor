@@ -10,15 +10,20 @@ Studies
 Her Complete Blood Count was notable for a Hemoglobin of 11.7 K/uL (Reference: 12-16) and Hematocrit of 34.2% (Reference: 36-46) with no leukocytosis. Her chemistry was unremarkable. Microbiology studies notable for recent negative HIV and Hepatitis B serologies.
 Her MRI Brain (Figure 1) was notable for evidence of acute hydrocephalus with diffuse ventricular and cerebral aqueduct dilatation, with an irregular multiloculated cyst along the floor of the fourth ventricle.
 Figure 1. Fig 1: MRI Brain at presentation. Sagittal section, FIESTA series. Irregular, cystic-appearing multi-loculated debris is seen at the base of the fourth ventricle with associated upstream ventricular enlargement. The cyst is interposed between the pons and middle cerebellar peduncle and is noted to be T2 isointense to CSF.
+Fig 1: MRI Brain at presentation. Sagittal section, FIESTA series. Irregular, cystic-appearing multi-loculated debris is seen at the base of the fourth ventricle with associated upstream ventricular enlargement. The cyst is interposed between the pons and middle cerebellar peduncle and is noted to be T2 isointense to CSF.
 Clinical Course Prior to Diagnosis
 Given the hydrocephalus and ventricular lesion, the patient was admitted to the Neurosurgery service with plan for surgical evacuation of cyst and decompression.
 Diagnostic Procedure(s) and Result(s)
 She underwent a suboccipital craniotomy and evacuation of the cyst. The operative report noted that the fourth ventricle was opened with moderate pressure of cerebrospinal fluid. Yellow cystic material was appreciated immediately underneath this opening, which slid out with very gentle pressure (Figure 2). The ventricle was irrigated and the walls of the fourth ventricle appeared yellowish and gliotic. Ultrasound navigation confirmed that the fourth ventricle was decompressed and there were no obvious cysts remaining.
 Pathology confirmed the presence of non-viable, degenerated, hyalinized material recognizable as a neurocysticercosis cyst wall with a cuticular layer, middle cellular layer and an inner reticular layer (Figures 3-5). Adjacent brain showed chronic inflammation and reactive gliosis. She tested positive for serum IgG antibodies against Taenia solium (T solium) glycoproteins.
 Figure 2. Fig 2: A fluid-filled cyst evacuated intra-operatively from the ventricular system, measuring almost 3cm in diameter. (Contributed by Dr. Pamela Jones)
+Fig 2: A fluid-filled cyst evacuated intra-operatively from the ventricular system, measuring almost 3cm in diameter. (Contributed by Dr. Pamela Jones)
 Figure 3. Fig 3. Histopathology of cyst (100x) showing cyst lining, of which some is necrotic (black arrows). (Courtesy of Dr Nathan Clements)
+Fig 3. Histopathology of cyst (100x) showing cyst lining, of which some is necrotic (black arrows). (Courtesy of Dr Nathan Clements)
 Figure 4. Fig 4. Intact cyst lining (left) and necrotic cyst lining with microcalcifications (right – black arrows). (200x) (Courtesy of Dr Nathan Clements)
+Fig 4. Intact cyst lining (left) and necrotic cyst lining with microcalcifications (right – black arrows). (200x) (Courtesy of Dr Nathan Clements)
 Figure 5. Fig 5: Three layers of the cyst wall is shown: inner reticular (blue), middle cellular (red), and outer layer with tegument and glycocalyx lining (black) 400x. (Courtesy of Dr Nathan Clements)
+Fig 5: Three layers of the cyst wall is shown: inner reticular (blue), middle cellular (red), and outer layer with tegument and glycocalyx lining (black) 400x. (Courtesy of Dr Nathan Clements)
 Treatment and Followup
 Postoperatively, MRI spine was performed and detected no additional cysticerci. With no intra-parenchymal or spinal disease, her disease was categorized as purely intraventricular, and she was considered cured after surgical removal of the cyst. Thus, antiparasitic therapy was deferred and follow-up MRI ordered in 6 months to ensure resolution.
 At a follow-up visit one month after discharge, she expressed resolution of her dizziness, headache, and nausea, and her surgical wounds were healing well.
@@ -33,18 +38,27 @@ Final Diagnosis
 Intraventricular Neurocysticercosis of the 4th ventricle
 References
 Ndimubanzi PC, Carabin H, Budke CM, et al., A systematic review of the frequency of neurocyticercosis with a focus on people with epilepsy. PLoS Negl Trop Dis. 2010 Nov 2;4(11):e870. doi: 10.1371/journal.pntd.0000870.
-PMID:21072231 ( PubMed abstract )
+PMID:21072231(PubMed abstract) Garcia HH, Nash TE and Del Brutto OH. Clinical symptoms, diagnosis, and treatment of neurocysticercosis. Lancet Neurol. 2014 Dec;13(12):1202-15. doi: 10.1016/S1474-4422(14)70094-8.
+PMID:25453460(PubMed abstract) Nash, TE and Garcia HH. Diagnosis and treatment of neurocysticercosis. Nature Reviews Neurology, vol. 7, 2011, pp. 584-94.
+PMID:21912406(PubMed abstract) Lerner A, Shiroishi MS, Zee CS, Law M, Go JL. Imaging of neurocysticercosis. Neuroimaging Clin N Am. 2012 Nov;22(4):659-76. doi: 10.1016/j.nic.2012.05.004.
+PMID:23122261(PubMed abstract) Proaño-Narvaez JV, Meza-Lucas A, Mata-Ruiz O, García-Jerónimo RC, Correa D. Laboratory diagnosis of human neurocysticercosis: double-blind comparison of enzyme-linked immunosorbent assay and electroimmunotransfer blot assay. J Clin Microbiol. 2002 Jun;40(6):2115-8.
+PMID:12037074(PubMed abstract) White AC Jr, Coyle CM, Rajshekhar V, et al. Diagnosis and Treatment of Neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). Clin Infect Dis. 2018 Apr 3;66(8):1159-1163. doi: 10.1093/cid/ciy157.
+PMID:29617787(PubMed abstract) Alsina GA, Johnson JP, McBride DQ, et al. Spinal neurocysticercosis. Neurosurg Focus. 2002 Jun 15;12(6):e8.
+PMID:15926787(PubMed abstract) Khade P, Lemos RS and Toussaint LG. What is the utility of postoperative antihelminthic therapy after resection for intraventricular neurocysticercosis? World Neurosurg. 2013 Mar-Apr;79(3-4):558-67. doi: 10.1016/j.wneu.2011.05.053.
+PMID:22120374(PubMed abstract)
+Ndimubanzi PC, Carabin H, Budke CM, et al., A systematic review of the frequency of neurocyticercosis with a focus on people with epilepsy. PLoS Negl Trop Dis. 2010 Nov 2;4(11):e870. doi: 10.1371/journal.pntd.0000870.
+PMID:21072231(PubMed abstract)
 Garcia HH, Nash TE and Del Brutto OH. Clinical symptoms, diagnosis, and treatment of neurocysticercosis. Lancet Neurol. 2014 Dec;13(12):1202-15. doi: 10.1016/S1474-4422(14)70094-8.
-PMID:25453460 ( PubMed abstract )
+PMID:25453460(PubMed abstract)
 Nash, TE and Garcia HH. Diagnosis and treatment of neurocysticercosis. Nature Reviews Neurology, vol. 7, 2011, pp. 584-94.
-PMID:21912406 ( PubMed abstract )
+PMID:21912406(PubMed abstract)
 Lerner A, Shiroishi MS, Zee CS, Law M, Go JL. Imaging of neurocysticercosis. Neuroimaging Clin N Am. 2012 Nov;22(4):659-76. doi: 10.1016/j.nic.2012.05.004.
-PMID:23122261 ( PubMed abstract )
+PMID:23122261(PubMed abstract)
 Proaño-Narvaez JV, Meza-Lucas A, Mata-Ruiz O, García-Jerónimo RC, Correa D. Laboratory diagnosis of human neurocysticercosis: double-blind comparison of enzyme-linked immunosorbent assay and electroimmunotransfer blot assay. J Clin Microbiol. 2002 Jun;40(6):2115-8.
-PMID:12037074 ( PubMed abstract )
+PMID:12037074(PubMed abstract)
 White AC Jr, Coyle CM, Rajshekhar V, et al. Diagnosis and Treatment of Neurocysticercosis: 2017 Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). Clin Infect Dis. 2018 Apr 3;66(8):1159-1163. doi: 10.1093/cid/ciy157.
-PMID:29617787 ( PubMed abstract )
+PMID:29617787(PubMed abstract)
 Alsina GA, Johnson JP, McBride DQ, et al. Spinal neurocysticercosis. Neurosurg Focus. 2002 Jun 15;12(6):e8.
-PMID:15926787 ( PubMed abstract )
+PMID:15926787(PubMed abstract)
 Khade P, Lemos RS and Toussaint LG. What is the utility of postoperative antihelminthic therapy after resection for intraventricular neurocysticercosis? World Neurosurg. 2013 Mar-Apr;79(3-4):558-67. doi: 10.1016/j.wneu.2011.05.053.
-PMID:22120374 ( PubMed abstract )
+PMID:22120374(PubMed abstract)

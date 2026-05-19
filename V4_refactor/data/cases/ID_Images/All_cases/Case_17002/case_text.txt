@@ -9,16 +9,16 @@ The patient has an allergy to penicillin, which causes a rash.
 Epidemiological History
 The patient lived on a ranch in the rural southwest of the U.S. He took care of multiple animals including horses, goats, sheep and chickens. His previous work involved travel to the east and west coasts, with recent travel to Nevada and Texas.
 Physical Examination
-Upon admission to the hospital, the patient was in no acute distress. Temperature was 98.4 ° F (36.9 ° C), heart rate 88 beats per minute, blood pressure 149/86 mm/Hg, respirations 16 breaths per minute, with an oxygen saturation 92% on room air. His physical exam was significant for sub-centimeter cervical lymphadenopathy, and decreased air entry in the bilateral lung fields; heart and abdominal exam were unremarkable. Skin exam revealed a 2 cm x 2 cm partially healed ulcer in the occiput ( Figure 1 ). He also had a diffuse, maculopapular, raised, scaly, hypertrophied rash with excoriations (Figure 2) . Neurological exam was significant for dysdiadokinesis, without nystagmus.
+Upon admission to the hospital, the patient was in no acute distress. Temperature was 98.4 ° F (36.9 ° C), heart rate 88 beats per minute, blood pressure 149/86 mm/Hg, respirations 16 breaths per minute, with an oxygen saturation 92% on room air. His physical exam was significant for sub-centimeter cervical lymphadenopathy, and decreased air entry in the bilateral lung fields; heart and abdominal exam were unremarkable. Skin exam revealed a 2 cm x 2 cm partially healed ulcer in the occiput (Figure 1). He also had a diffuse, maculopapular, raised, scaly, hypertrophied rash with excoriations (Figure 2). Neurological exam was significant for dysdiadokinesis, without nystagmus.
 Figure 1. Non-healing ulcer on occiput
 Figure 2. Maculopapular skin rash on left shin.
 Studies
-The patient’s white blood cell count was 12.5 x 10 3 (reference range: 4.0-10.5 x 10 3 ) per microliter with 84% neutrophils and 0% eosinophils. Complete blood count was otherwise within normal limits, and basic metabolic panel had no abnormalities. The patient’s alanine transaminase was 73 units /L (reference range 10-40 units/L); the hepatic function panel was otherwise normal. HIV and Hepatitis C serology were negative. MRI of the brain with and without contrast showed a dominant 2.1 x 2.4 cm ring enhancing lesion in the right cerebellar hemisphere, suspicious for abscess (Figure 3) . CT of the chest with contrast showed bilateral lower lobe atelectasis, and multiple sub 4-mm pulmonary nodules scattered throughout, with the incidental finding of borderline adrenal hyperplasia. Peripheral blood cultures were ultimately negative for yeast or bacteria.
+The patient’s white blood cell count was 12.5 x 10 3 (reference range: 4.0-10.5 x 10 3) per microliter with 84% neutrophils and 0% eosinophils. Complete blood count was otherwise within normal limits, and basic metabolic panel had no abnormalities. The patient’s alanine transaminase was 73 units /L (reference range 10-40 units/L); the hepatic function panel was otherwise normal. HIV and Hepatitis C serology were negative. MRI of the brain with and without contrast showed a dominant 2.1 x 2.4 cm ring enhancing lesion in the right cerebellar hemisphere, suspicious for abscess (Figure 3). CT of the chest with contrast showed bilateral lower lobe atelectasis, and multiple sub 4-mm pulmonary nodules scattered throughout, with the incidental finding of borderline adrenal hyperplasia. Peripheral blood cultures were ultimately negative for yeast or bacteria.
 Figure 3. MRI Brain with contrast showing a ring-enhancing lesion in the R cerebellar hemisphere.
 Clinical Course Prior to Diagnosis
 The patient was admitted, and started on broad-spectrum antibiotics with vancomycin, cefepime, and metronidazole. Five days later, the patient underwent brain abscess aspiration with purulent material sent for gram stain, and bacterial and fungal cultures. Dermatology was consulted for the biopsy of the rash and of the occipital wound.
 Diagnostic Procedure(s) and Result(s)
-Serologies for Coccidiodes IgG/IgM, Blastomyces antibodies, and urine Histoplasma antigen were all negative. Biopsies of the skin from the upper extremity, and scalp showed yeast consistent with Histoplasma capsulatum (Figures 4, 5) . After two-and-a-half weeks brain abscess fungal cultures grew mold, with cotton blue staining consistent with Histoplasma capsulatum (Figure 6) . The diagnosis was confirmed by PCR of the brain and skin tissue. Bacterial cultures on the brain tissue remained negative.
+Serologies for Coccidiodes IgG/IgM, Blastomyces antibodies, and urine Histoplasma antigen were all negative. Biopsies of the skin from the upper extremity, and scalp showed yeast consistent with Histoplasma capsulatum (Figures 4, 5). After two-and-a-half weeks brain abscess fungal cultures grew mold, with cotton blue staining consistent with Histoplasma capsulatum (Figure 6). The diagnosis was confirmed by PCR of the brain and skin tissue. Bacterial cultures on the brain tissue remained negative.
 Figure 4. Scalp biopsy, GMS stain
 Figure 5. Skin of the arm, GMS stain
 Figure 6. Brain abscess culture, cotton blue stain.
@@ -33,12 +33,18 @@ Final Diagnosis
 Disseminated Histoplasma capsulatum with right cerebellar abscess
 References
 Wheat LJ, Azar MM, Bahr NC, Spec A, Relich RF, Hage C. Histoplasmosis. Infect Dis Clin North Am 2016; 30(1): 207-27.
-PMID:26897068 ( PubMed abstract )
+PMID:26897068(PubMed abstract) Kauffman CA. Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev 2007; 20(1): 115-32.
+PMID:17223625(PubMed abstract) Wheat LJ, Freifeld AG, Kleiman MB, et al. Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 2007; 45(7): 807-25.
+PMID:17806045(PubMed abstract) Hott JS, Horn E, Sonntag VK, Coons SW, Shetter A. Intramedullary histoplasmosis spinal cord abscess in a nonendemic region: case report and review of the literature. J Spinal Disord Tech 2003; 16(2): 212-5.
+PMID:12679679(PubMed abstract) Srinivasan J, Ooi WW. Successful treatment of histoplasmosis brain abscess with voriconazole. Arch Neurol 2008; 65(5): 666-7.
+PMID:18474746(PubMed abstract)
+Wheat LJ, Azar MM, Bahr NC, Spec A, Relich RF, Hage C. Histoplasmosis. Infect Dis Clin North Am 2016; 30(1): 207-27.
+PMID:26897068(PubMed abstract)
 Kauffman CA. Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev 2007; 20(1): 115-32.
-PMID:17223625 ( PubMed abstract )
+PMID:17223625(PubMed abstract)
 Wheat LJ, Freifeld AG, Kleiman MB, et al. Clinical practice guidelines for the management of patients with histoplasmosis: 2007 update by the Infectious Diseases Society of America. Clin Infect Dis 2007; 45(7): 807-25.
-PMID:17806045 ( PubMed abstract )
+PMID:17806045(PubMed abstract)
 Hott JS, Horn E, Sonntag VK, Coons SW, Shetter A. Intramedullary histoplasmosis spinal cord abscess in a nonendemic region: case report and review of the literature. J Spinal Disord Tech 2003; 16(2): 212-5.
-PMID:12679679 ( PubMed abstract )
+PMID:12679679(PubMed abstract)
 Srinivasan J, Ooi WW. Successful treatment of histoplasmosis brain abscess with voriconazole. Arch Neurol 2008; 65(5): 666-7.
-PMID:18474746 ( PubMed abstract )
+PMID:18474746(PubMed abstract)

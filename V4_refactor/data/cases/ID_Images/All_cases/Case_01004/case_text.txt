@@ -20,10 +20,15 @@ Final Diagnosis
 Group A Streptococcal necrotizing fasciitis.
 References
 Brown CN, Pollard TC, Iyer S, Andrade AJ. Invasive group A streptococcal infection: an update on the epidemiology and orthopaedic management. J Bone Joint Surg Br. 2010 Jun;92(6):763-9.
-PMID:20513870 ( PubMed abstract )
+PMID:20513870(PubMed abstract) Johansson L, Thulin P, Low DE, Norrby-Teglund A. Getting under the skin: the immunopathogenesis of Streptococcus pyogenes deep tissue infections. Clin Infect Dis. 2010 Jul 1;51(1):58-65.
+PMID:20491545(PubMed abstract) Nisbet M, Ansell G, Lang S, Taylor S, Dzendrowskyj P, Holland D. Necrotizing fasciitis: review of 82 cases in South Auckland. Intern Med J. 2011 Jul;41(7):543-8. doi: 10.1111/j.1445-5994.2009.02137.x. Epub 2009 Dec 4.
+PMID:20002853(PubMed abstract) Olsen RJ, Musser JM. Molecular pathogenesis of necrotizing fasciitis. Annu Rev Pathol. 2010;5:1-31.
+PMID:19737105(PubMed abstract)
+Brown CN, Pollard TC, Iyer S, Andrade AJ. Invasive group A streptococcal infection: an update on the epidemiology and orthopaedic management. J Bone Joint Surg Br. 2010 Jun;92(6):763-9.
+PMID:20513870(PubMed abstract)
 Johansson L, Thulin P, Low DE, Norrby-Teglund A. Getting under the skin: the immunopathogenesis of Streptococcus pyogenes deep tissue infections. Clin Infect Dis. 2010 Jul 1;51(1):58-65.
-PMID:20491545 ( PubMed abstract )
+PMID:20491545(PubMed abstract)
 Nisbet M, Ansell G, Lang S, Taylor S, Dzendrowskyj P, Holland D. Necrotizing fasciitis: review of 82 cases in South Auckland. Intern Med J. 2011 Jul;41(7):543-8. doi: 10.1111/j.1445-5994.2009.02137.x. Epub 2009 Dec 4.
-PMID:20002853 ( PubMed abstract )
+PMID:20002853(PubMed abstract)
 Olsen RJ, Musser JM. Molecular pathogenesis of necrotizing fasciitis. Annu Rev Pathol. 2010;5:1-31.
-PMID:19737105 ( PubMed abstract )
+PMID:19737105(PubMed abstract)

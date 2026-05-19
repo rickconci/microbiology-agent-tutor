@@ -7,15 +7,15 @@ Physical Examination
 The patient appeared alert and well. The blood pressure was 118/54 mm Hg, pulse 92 beats per minute, temperature 105.0°F (40.5°C), respirations 18 breaths per minute, and oxygen saturation of 98% while breathing room air. A submandibular lymph node (3-cm in diameter) on the right side was mildly tender, with no fluctuance. There was a 2/6 systolic ejection murmur with regular rate and rhythm and no rubs or gallops. There was mild diffuse tenderness in the posterior right gluteal area, with no spinal tenderness, and there were no skin lesions. The remainder of the physical examination was normal.
 Studies
 The peripheral white blood cell count was 13,200 per cubic millimeter (reference range 4800-10,800) with neutrophils 77% and no bands; the level of hemoglobin was 9.5 grams per deciliter (reference range 13.0-17.0). C-reactive protein 213 milligrams per liter (reference range 0.00-10.00) and erythrocyte sedimentation rate 74 millimeters per hour (reference range 0-15). Blood levels of liver enzymes and routine chemistry tests were normal. A urinalysis was normal and urine culture grew urogenital flora. Multiple blood cultures had no growth.
-A chest radiograph was normal. Computed tomography (CT) of the neck revealed an enhancing submandibular lymph node (2.8 cm by 1.5 cm) on the right side. CT of the abdomen and pelvis with contrast revealed innumerable subcentimeter hypoattenuated lesions throughout the spleen and liver and mild gastrohepatic and peripancreatic lymphadenopathy. An MRI of the abdomen and pelvis performed with the administration of gadolinium revealed the same subcentimeter lesions with T2 hyperintensity and diffusion restriction that were thought to be consistent with microabscesses ( Figures 1 and 2 ).
+A chest radiograph was normal. Computed tomography (CT) of the neck revealed an enhancing submandibular lymph node (2.8 cm by 1.5 cm) on the right side. CT of the abdomen and pelvis with contrast revealed innumerable subcentimeter hypoattenuated lesions throughout the spleen and liver and mild gastrohepatic and peripancreatic lymphadenopathy. An MRI of the abdomen and pelvis performed with the administration of gadolinium revealed the same subcentimeter lesions with T2 hyperintensity and diffusion restriction that were thought to be consistent with microabscesses (Figures 1 and 2).
 Figure 1. Abdominal MRI with contrast.
 Figure 2. Abdominal MRI with contrast.
 Clinical Course Prior to Diagnosis
-Testing for HIV infection, an interferon –gamma release assay (IGRA) for Mycobacterium tuberculosis , transthoracic echocardiogram, respiratory viral panel (RVP) and multiple serologic tests were recommended by Infectious disease team upon consultation.
-HIV and RVP testing was negative. The patient's fevers persisted and, consequently, an ultrasound-guided needle aspiration of the right submandibular gland was performed ( Figure 3 ). Bloody purulent fluid (2 milliliters) was removed and bacterial, fungal and acid-fast stains and culture performed. On the 7th hospital day, a diagnostic test result was received.
+Testing for HIV infection, an interferon –gamma release assay (IGRA) for Mycobacterium tuberculosis, transthoracic echocardiogram, respiratory viral panel (RVP) and multiple serologic tests were recommended by Infectious disease team upon consultation.
+HIV and RVP testing was negative. The patient's fevers persisted and, consequently, an ultrasound-guided needle aspiration of the right submandibular gland was performed (Figure 3). Bloody purulent fluid (2 milliliters) was removed and bacterial, fungal and acid-fast stains and culture performed. On the 7th hospital day, a diagnostic test result was received.
 Figure 3. Ultrasound of the neck with an enlarged right submandibular lymph node (up to 2.86 cm by 1.59 cm).
 Diagnostic Procedure(s) and Result(s)
-Serologic testing for Bartonella henselae IgG antibodies was positive at greater than 1:1024 dilution, and IgM was positive at 1:80 dilution. Serologic testing for both IgG and IgM antibodies to Bartonella quintana was negative. Polymerase chain reaction (PCR) testing of the fluid aspirated from the right submandibular gland node was positive for Bartonella henselae .
+Serologic testing for Bartonella henselae IgG antibodies was positive at greater than 1:1024 dilution, and IgM was positive at 1:80 dilution. Serologic testing for both IgG and IgM antibodies to Bartonella quintana was negative. Polymerase chain reaction (PCR) testing of the fluid aspirated from the right submandibular gland node was positive for Bartonella henselae.
 Treatment and Followup
 The patient was treated with a two-week course of oral azithromycin and rifampin. She was evaluated in outpatient follow-up two weeks later and had complete resolution of her symptoms. A follow-up CT scan is scheduled for 4 months after the completion of therapy.
 Discussion
@@ -25,10 +25,15 @@ Final Diagnosis
 Disseminated Bartonella henselae infection complicated by prolonged fever and hepatosplenic disease.
 References
 Bieraugel K, Oehler D, NeSmith M; Chiovaro J. (2015) Cat Got Your Spleen? Hepatosplenic Bartonella Infection. Am. J. Med.
-PMID:25460524 ( PubMed abstract )
+PMID:25460524(PubMed abstract) Florin TA, Zaoutis TE, Zaoutis LB. (2008) Beyond cat scratch disease: widening spectrum of Bartonella henselae infection. Pediatrics121, e1413–e1425.
+PMID:18443019(PubMed abstract) García JC, Núñez MJ, Castro B, Fernández JM, López A, Portillo A, Oteo JA. (2014) Hepatosplenic cat scratch disease in immunocompetent adults; report of 3 cases and review of the literature. Medicine (Baltimore). Oct;93(17):267-79.
+PMID:25398062(PubMed abstract) Liston TE and Koehler JE. (1996) Granulomatous hepatitis and necrotizing splenitis due to Bartonella henselae in a patient with cancer: case report and review of hepatosplenic manifestations of bartonella infection. Clin. Infect. Dis.22, 951–957.
+PMID:8783692(PubMed abstract)
+Bieraugel K, Oehler D, NeSmith M; Chiovaro J. (2015) Cat Got Your Spleen? Hepatosplenic Bartonella Infection. Am. J. Med.
+PMID:25460524(PubMed abstract)
 Florin TA, Zaoutis TE, Zaoutis LB. (2008) Beyond cat scratch disease: widening spectrum of Bartonella henselae infection. Pediatrics121, e1413–e1425.
-PMID:18443019 ( PubMed abstract )
+PMID:18443019(PubMed abstract)
 García JC, Núñez MJ, Castro B, Fernández JM, López A, Portillo A, Oteo JA. (2014) Hepatosplenic cat scratch disease in immunocompetent adults; report of 3 cases and review of the literature. Medicine (Baltimore). Oct;93(17):267-79.
-PMID:25398062 ( PubMed abstract )
+PMID:25398062(PubMed abstract)
 Liston TE and Koehler JE. (1996) Granulomatous hepatitis and necrotizing splenitis due to Bartonella henselae in a patient with cancer: case report and review of hepatosplenic manifestations of bartonella infection. Clin. Infect. Dis.22, 951–957.
-PMID:8783692 ( PubMed abstract )
+PMID:8783692(PubMed abstract)

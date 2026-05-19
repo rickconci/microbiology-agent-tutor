@@ -21,15 +21,17 @@ Blood and urine cultures drawn on admission were negative. Isolator tubes for fu
 Vancomycin, gentamicin and rifampin were administered. The patient continued to have daily fevers to 101-103°F (38.3-39.4°C) and his constitutional symptoms increased. Metronidazole and ceftriaxone were added to the antibiotic regimen on fourth and sixth hospital days, respectively.
 On the eighth hospital day, he complained of blurry vision bilaterally. Fundoscopic examination was consistent with vitritis and endophthalmitis. A vitreal tap was done and fluid was sent for culture. Magnetic resonance imaging (MRI) of the head showed scattered small areas of hyperintensity, involving multiple areas and consistent with scattered small infarcts. On the FLAIR images, there was loss of the normal cerebrospinal fluid (CSF) signal at small areas of the central sulcus bilaterally, that was thought to represent small amounts of blood or pus in the subarachnoid space. MR angiography of the great vessels of the neck and the circle of Willis was normal.
 On the ninth hospital day, the patient became lethargic. He suffered a cardiac arrest and expired.
-A limited autopsy of the chest revealed pulmonary congestion and cardiomegaly. There was a large (4.3cm by 3.5 cm) vegetation of the bio-prosthetic aortic valve and an abscess of the aortic annulus. Figure 1 shows the large aortic vegetation, and Figure 2 , after the removal of the vegetation, shows a divided suture on the bovine aortic valve allograft (see arrows).
+A limited autopsy of the chest revealed pulmonary congestion and cardiomegaly. There was a large (4.3cm by 3.5 cm) vegetation of the bio-prosthetic aortic valve and an abscess of the aortic annulus. Figure 1 shows the large aortic vegetation, and Figure 2, after the removal of the vegetation, shows a divided suture on the bovine aortic valve allograft (see arrows).
 Figure 1. Aortic valve vegetation.
 Figure 2. Divided suture on allograft.
 Diagnostic Procedure(s) and Result(s)
-The abscess fluid and valve tissue were cultured, with heavy growth of Aspergillus fumigatus in all specimens. Histopathology showed tissue invasion by fungal hyphae on Wright stain ( Figure 3 ) and Gomori methenamine silver stain ( Figures 4 and 5 ).
+The abscess fluid and valve tissue were cultured, with heavy growth of Aspergillus fumigatus in all specimens. Histopathology showed tissue invasion by fungal hyphae on Wright stain (Figure 3) and Gomori methenamine silver stain (Figures 4 and 5).
 Figure 3. Valve tissue, septate hyphae on Wright’s stain.
 Figure 4. Valve tissue with hyphal invasion (silver stain).
 Figure 5. Valve tissue with hyphal elements (silver stain).
+Treatment and Followup
 Discussion
-Prosthetic valve endocarditis (PVE) occurring sixty days to twelve months after valve replacement is most commonly due to coagulase-negative staphylococci, Staphylococcus aureus , Enterococcus , and Streptococcus species. Fungi cause between 10-15% of PVE during this time period. Aspergillus may infect a prosthetic heart valve. Diagnosis may be difficult since blood cultures are usually negative, as in this case. Surgery is generally necessary for cure.
+Prosthetic valve endocarditis (PVE) occurring sixty days to twelve months after valve replacement is most commonly due to coagulase-negative staphylococci, Staphylococcus aureus, Enterococcus, and Streptococcus species. Fungi cause between 10-15% of PVE during this time period. Aspergillus may infect a prosthetic heart valve. Diagnosis may be difficult since blood cultures are usually negative, as in this case. Surgery is generally necessary for cure.
 Final Diagnosis
 Aspergillus fumigatus prosthetic valve endocarditis.
+References

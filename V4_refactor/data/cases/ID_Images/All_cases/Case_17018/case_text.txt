@@ -18,7 +18,7 @@ Figure 4. Post-operative photograph of anal area
 Figure 5. H&E stain of anal tissue (low power) revealed a lesion with a sharply-defined base (arrow). There were no signs of invasion into the underlying connective tissue, differentiating it from a carcinoma.
 Figure 6. H&E stains of anal tissue (high power).The surface epithelium shows koilocytosis (HPV related cellular changes), as demonstrated by the wrinkled hyperchromatic nuclei (arrow), perinuclear halos (box) and multinucleated cells (circle)
 Treatment and Followup
-Two months after the surgery, physical exam revealed anal strictures and recurrence of the perianal lesion (Figure 7). He was treated with electrocautery and serial anal dilation but the lesions persisted.
+Two months after the surgery, physical exam revealed anal strictures and recurrence of the perianal lesion (Figure 7). He was treated with electrocautery and serial anal dilation but the lesions persisted. Figure 7. Photograph of anal area two months after surgery
 Figure 7. Photograph of anal area two months after surgery
 Discussion
 Buschke–Löwenstein tumor (BLT), also known as giant condyloma acuminata (GCA) is believed to be a transition between condyloma acuminata and squamous cell carcinoma (SCC).[1] Often, verrucous carcinoma and BLT are used interchangeably. This may be misleading as the former has a tendency for metastasis while BLT is benign.[2] Human papilloma virus (HPV) types 6 and 11 have been identified as the etiologic agent in the majority of cases of condyloma acuminata and BLT, while types 16 and 18 have been more frequently associated with a higher degree of dysplasia and carcinoma.[1,2]
@@ -32,26 +32,39 @@ Final Diagnosis
 Buschke–Löwenstein tumor in a man with HIV.
 References
 Patti, R., P.Aiello, G.L.Angelo GDV. Giant condyloma acuminatum quickly growing. Case report. G Chir. 2012;33(10):327-330.
-PMID:23095561 ( PubMed abstract )
+PMID:23095561(PubMed abstract) Yanofsky VR, Patel R V, Goldenberg G. Genital warts: a comprehensive review. J Clin Aesthet Dermatol. 2012;5(6):25-36.
+PMID:22768354(PubMed abstract) Chu QD, Vezeridis MP, Libbey NP, Wanebo HJ. Giant condyloma acuminatum (Buschke-Lowenstein tumor) of the anorectal and perianal regions - Analysis of 42 cases. Dis Colon Rectum. 1994;37(9):950-957
+PMID:8076499(PubMed abstract) Trombetta LJ, Place RJ. Giant condyloma acuminatum of the anorectum: Trends in epidemiology and management - Report of a case and review of the literature. Dis Colon Rectum. 2001;44(12):1878-1886. doi:10.1007/bf02234473.
+PMID:11742180(PubMed abstract) Mudrikova T, Jaspers C, Ellerbroek P, Hoepelman A. HPV-related anogenital disease and HIV infection: Not always “ordinary” condylomata acuminata. Neth J Med. 2008;66(3):98-102.
+PMID:18349464(PubMed abstract) Steffen C. The men behind the eponym--Abraham Buschke and Ludwig Lowenstein: giant condyloma (Buschke-Loewenstein). Am J Dermatopathol. 2006;28(6):526-536. doi:10.1097/01.dad.0000211528.87928.a8.
+PMID:17122499(PubMed abstract) Spinu D, Radulescu A, Bratu O, Checherita IA, Ranetti AE, Mischianu D. Giant condyloma acuminatum - Buschke-Lowenstein disease - a literature review. Chirurgia (Bucur). 2014;109(4):445-450.
+PMID:25149605(PubMed abstract) Marchetti G, Comi L, Bini T, et al. HPV Infection in a Cohort of HIV-Positive Men and Women: Prevalence of Oncogenic Genotypes and Predictors of Mucosal Damage at Genital and Oral Sites. J Sex Transm Dis. 2013;2013:915169. doi:10.1155/2013/915169
+PMID:26316967(PubMed abstract) Sobhani I, Vuagnat A, Walker F, et al. Prevalence of high-grade dysplasia and cancer in the anal canal in human papillomavirus-infected individuals. Gastroenterology. 2001;120(4):857-866. doi:10.1053/gast.2001.22446.
+PMID:112319460(PubMed abstract) Palefsky JM, Holly EA, Ralston ML, Jay N, Berry JM, Darragh TM. High incidence of anal high-grade squamous intra-epithelial lesions among HIV-positive and HIV-negative homosexual and bisexual men. Aids. 1998;12(0269-9370 (Print)):495-503. doi:10.1097/00002030-199805000-00011.
+PMID:10037100(PubMed abstract) Melbye M, Cote TR, Kessler L, Gail M, Biggar RJ. High incidence of anal cancer among AIDS patients. The AIDS/Cancer Working Group. Lancet. 1994;343(0140-6736 (Print)):636-639. doi:10.1016/S0140-6736(94)92636-0.
+PMID:7906812(PubMed abstract) Weiss DA, Yang G, Myers JB, Breyer BN. Condyloma Overgrowth Caused by Immune Reconstitution Inflammatory Syndrome. Urology. 2009;74(5):1013-1014. doi:10.1016/j.urology.2009.04.076.
+PMID:19616289(PubMed abstract)
+Patti, R., P.Aiello, G.L.Angelo GDV. Giant condyloma acuminatum quickly growing. Case report. G Chir. 2012;33(10):327-330.
+PMID:23095561(PubMed abstract)
 Yanofsky VR, Patel R V, Goldenberg G. Genital warts: a comprehensive review. J Clin Aesthet Dermatol. 2012;5(6):25-36.
-PMID:22768354 ( PubMed abstract )
+PMID:22768354(PubMed abstract)
 Chu QD, Vezeridis MP, Libbey NP, Wanebo HJ. Giant condyloma acuminatum (Buschke-Lowenstein tumor) of the anorectal and perianal regions - Analysis of 42 cases. Dis Colon Rectum. 1994;37(9):950-957
-PMID:8076499 ( PubMed abstract )
+PMID:8076499(PubMed abstract)
 Trombetta LJ, Place RJ. Giant condyloma acuminatum of the anorectum: Trends in epidemiology and management - Report of a case and review of the literature. Dis Colon Rectum. 2001;44(12):1878-1886. doi:10.1007/bf02234473.
-PMID:11742180 ( PubMed abstract )
+PMID:11742180(PubMed abstract)
 Mudrikova T, Jaspers C, Ellerbroek P, Hoepelman A. HPV-related anogenital disease and HIV infection: Not always “ordinary” condylomata acuminata. Neth J Med. 2008;66(3):98-102.
-PMID:18349464 ( PubMed abstract )
+PMID:18349464(PubMed abstract)
 Steffen C. The men behind the eponym--Abraham Buschke and Ludwig Lowenstein: giant condyloma (Buschke-Loewenstein). Am J Dermatopathol. 2006;28(6):526-536. doi:10.1097/01.dad.0000211528.87928.a8.
-PMID:17122499 ( PubMed abstract )
+PMID:17122499(PubMed abstract)
 Spinu D, Radulescu A, Bratu O, Checherita IA, Ranetti AE, Mischianu D. Giant condyloma acuminatum - Buschke-Lowenstein disease - a literature review. Chirurgia (Bucur). 2014;109(4):445-450.
-PMID:25149605 ( PubMed abstract )
+PMID:25149605(PubMed abstract)
 Marchetti G, Comi L, Bini T, et al. HPV Infection in a Cohort of HIV-Positive Men and Women: Prevalence of Oncogenic Genotypes and Predictors of Mucosal Damage at Genital and Oral Sites. J Sex Transm Dis. 2013;2013:915169. doi:10.1155/2013/915169
-PMID:26316967 ( PubMed abstract )
+PMID:26316967(PubMed abstract)
 Sobhani I, Vuagnat A, Walker F, et al. Prevalence of high-grade dysplasia and cancer in the anal canal in human papillomavirus-infected individuals. Gastroenterology. 2001;120(4):857-866. doi:10.1053/gast.2001.22446.
-PMID:112319460 ( PubMed abstract )
+PMID:112319460(PubMed abstract)
 Palefsky JM, Holly EA, Ralston ML, Jay N, Berry JM, Darragh TM. High incidence of anal high-grade squamous intra-epithelial lesions among HIV-positive and HIV-negative homosexual and bisexual men. Aids. 1998;12(0269-9370 (Print)):495-503. doi:10.1097/00002030-199805000-00011.
-PMID:10037100 ( PubMed abstract )
+PMID:10037100(PubMed abstract)
 Melbye M, Cote TR, Kessler L, Gail M, Biggar RJ. High incidence of anal cancer among AIDS patients. The AIDS/Cancer Working Group. Lancet. 1994;343(0140-6736 (Print)):636-639. doi:10.1016/S0140-6736(94)92636-0.
-PMID:7906812 ( PubMed abstract )
+PMID:7906812(PubMed abstract)
 Weiss DA, Yang G, Myers JB, Breyer BN. Condyloma Overgrowth Caused by Immune Reconstitution Inflammatory Syndrome. Urology. 2009;74(5):1013-1014. doi:10.1016/j.urology.2009.04.076.
-PMID:19616289 ( PubMed abstract )
+PMID:19616289(PubMed abstract)

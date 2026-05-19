@@ -8,11 +8,11 @@ Physical Examination
 The patient did not appear to be in any acute distress. The temperature was 100.9°F (38.3°C). On examination, there was right upper and lower quadrant tenderness, without rebound or guarding.
 Studies
 The white blood cell count was 11,690 cells/mm³ (81% polymorphonuclear leukocytes). The hematocrit was 32%, and platelets 506,000/mm³. Alkaline phosphatase was 123 U/liter, aspartate aminotransferase (AST) 31 U/liter and alanine aminotransferase (ALT) was 58 U/liter.
-Computed tomography (CT) of the abdomen is shown in Figure 1 .
+Computed tomography (CT) of the abdomen is shown in Figure 1.
 Figure 1. CT scan of the abdomen.
 Diagnostic Procedure(s) and Result(s)
 CT scanning of the abdomen revealed a liver abscess measuring 9.6 centimeters in diameter in the posterior segment of the right lobe of the liver. Scattered bubbles of peritoneal gas were noted and suggested a perforated viscus. Multiple diverticula were also noted in the sigmoid colon.
-CT-guided drainage of the liver lesion produced 175 cubic centimeters of purulent fluid, which grew Streptococcus intermedius . Blood cultures were negative. Serology for Entameoba histolytica was negative.
+CT-guided drainage of the liver lesion produced 175 cubic centimeters of purulent fluid, which grew Streptococcus intermedius. Blood cultures were negative. Serology for Entameoba histolytica was negative.
 Treatment and Followup
 Ampicillin, levofloxacin, and metronidazole were administered for broad spectrum coverage prior to drainage. She was discharged with plans to continue broad spectrum coverage with levofloxacin, metronidazole, and cefuroxime for a six-week course of antimicrobial therapy. Follow up CT scanning revealed decreased size of the abscess.
 Discussion
@@ -20,11 +20,15 @@ The most common cause of pyogenic liver abscess is from local spread due from in
 Amebic abscess was also high on the differential in this case because the patient was originally from an endemic area. However, amebic liver abscess usually occurs within months of return from the endemic region (though longer lag times have been reported). In this case, the aspirated fluid did not have the “anchovy paste” appearance typical of amebic abscess and serology was negative.
 Pyogenic abscesses are usually of mixed morphology (typically involving anaerobic pathogens). When a single organism is isolated, as in this case, it may be due to hematogenous seeding of the organ. Blood cultures were negative in this case.
 Final Diagnosis
-Pyogenic liver abscess, caused by Streptococcus intermedius .
+Pyogenic liver abscess, caused by Streptococcus intermedius.
 References
 Dorvilus, P., and Edoo-Sowah, R. (2001). Streptococcus milleri: a cause of pyogenic liver abscess. J Natl Med Assoc 93, 276-277.
-PMID:11491278 ( PubMed abstract )
+PMID:11491278(PubMed abstract) Saugel, B., Schmid, R.M., and Ludwig, L. (2008). Electronic clinical challenges and images in GI. Pyogenic liver abscesses caused by an infection with Streptococcus intermedius (Streptococcus milleri group). Gastroenterology 135, e3-4.
+PMID:19000680(PubMed abstract) Whiley, R.A., Beighton, D., Winstanley, T.G., Fraser, H.Y., and Hardie, J.M. (1992). Streptococcus intermedius, Streptococcus constellatus, and Streptococcus anginosus (the Streptococcus milleri group): association with different body sites and clinical infections. J Clin Microbiol 30, 243-244.
+PMID:1734062(PubMed abstract)
+Dorvilus, P., and Edoo-Sowah, R. (2001). Streptococcus milleri: a cause of pyogenic liver abscess. J Natl Med Assoc 93, 276-277.
+PMID:11491278(PubMed abstract)
 Saugel, B., Schmid, R.M., and Ludwig, L. (2008). Electronic clinical challenges and images in GI. Pyogenic liver abscesses caused by an infection with Streptococcus intermedius (Streptococcus milleri group). Gastroenterology 135, e3-4.
-PMID:19000680 ( PubMed abstract )
+PMID:19000680(PubMed abstract)
 Whiley, R.A., Beighton, D., Winstanley, T.G., Fraser, H.Y., and Hardie, J.M. (1992). Streptococcus intermedius, Streptococcus constellatus, and Streptococcus anginosus (the Streptococcus milleri group): association with different body sites and clinical infections. J Clin Microbiol 30, 243-244.
-PMID:1734062 ( PubMed abstract )
+PMID:1734062(PubMed abstract)

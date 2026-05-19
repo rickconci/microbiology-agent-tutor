@@ -10,7 +10,7 @@ Epidemiological History
 The patient had traveled to rural Colorado six days before the onset of fever, where he played in native scrub. He had also had contact with lizards, a hermit crab and a parakeet on the trip. He had not traveled out of the United States recently, but had been to Mexico several years before.
 He had a pet rat and “love birds” at home. There had been no ingestion of unpasteurized cheese or milk, and no known tick, flea or other insect bites.
 Physical Examination
-In general, he appeared well. The temperature was 97°F (36.1°C), blood pressure 135/69 mm Hg, pulse 84 beats per minute and respirations 24 breaths per minute. A petechial rash ( Figures 1 through 4 ) involved the distal extremities, including palms and soles, and became slightly purpuric on feet and ankles. Both feet and ankles were mildly puffy. There was mild tenderness to firm palpation of the left heel with no overlying ecchymosis. The patient walked favoring the left heel. The rest of the examination was normal.
+In general, he appeared well. The temperature was 97°F (36.1°C), blood pressure 135/69 mm Hg, pulse 84 beats per minute and respirations 24 breaths per minute. A petechial rash (Figures 1 through 4) involved the distal extremities, including palms and soles, and became slightly purpuric on feet and ankles. Both feet and ankles were mildly puffy. There was mild tenderness to firm palpation of the left heel with no overlying ecchymosis. The patient walked favoring the left heel. The rest of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Figure 3. Physical findings.
@@ -19,16 +19,17 @@ Studies
 In the emergency department, the white blood cell count (WBC) was 23,900/mm³ (86% neutrophils, 8% bands), platelet count 284,000/mm³, and hemoglobin 14 g/dL. The level of urea nitrogen, creatinine, glucose and electrolytes were normal. Urinalysis revealed trace blood, and a normal microscopic exam; an abdominal ultrasound did not show an appendix, and computed tomography (CT) of the abdomen with contrast was normal.
 In the clinic at follow-up, the WBC was 11,700/mm³ (92% neutrophils on automated differential), platelet count 151,000/mm³, and hemoglobin 12.6 g/dL. The urinalysis had a small amount of blood, protein >300 mg/dl, and urobilinogen 1; the microscopic examination was normal. Plain radiographs of the foot were normal.
 Diagnostic Procedure(s) and Result(s)
-The blood culture grew Streptobacillus moniliformis , which was confirmed in a reference laboratory.
-A few days later, magnetic resonance imaging (MRI) of the foot demonstrated changes consistent with osteomyelitis of the calcaneus ( Figures 5 and 6 ). There was abnormal hyperintensity on T2 sequences within the posterior os calcis, at the metaphysis-growth plate margin. Hyperintense signal was also noted within the adjacent os calcis, which was compatible with bone edema. There was also adjacent soft tissue edema noted, but the ankle and subtalar joints appeared normal.
+The blood culture grew Streptobacillus moniliformis, which was confirmed in a reference laboratory.
+A few days later, magnetic resonance imaging (MRI) of the foot demonstrated changes consistent with osteomyelitis of the calcaneus (Figures 5 and 6). There was abnormal hyperintensity on T2 sequences within the posterior os calcis, at the metaphysis-growth plate margin. Hyperintense signal was also noted within the adjacent os calcis, which was compatible with bone edema. There was also adjacent soft tissue edema noted, but the ankle and subtalar joints appeared normal.
 Figure 5. MRI scan of feet.
 Figure 6. MRI scan of the left foot.
 Treatment and Followup
 The patient denied any history of rat bites, but reported that he occasionally kissed the rat. He was initially treated with cefotaxime intravenously, and defervesced rapidly.
 After final identification of the organism, he was switched to oral amoxicillin (at 80-90 mg/kg/day) to complete a six-week course. The erythrocyte sedimentation rate and C-reactive protein, which had been elevated, normalized in the first week. Nine months later, at follow-up, he was clinically well and walking normally.
 Discussion
-Rat Bite Fever is usually due to Streptobacillus moniliformis , and less commonly due to Spirillum minor (also known as S. minus ). These two agents can often be distinguished clinically.
+Rat Bite Fever is usually due to Streptobacillus moniliformis, and less commonly due to Spirillum minor (also known as S. minus). These two agents can often be distinguished clinically.
 Infection with Spirillum minor usually develops approximately 10 days after a rat bite. The bite wound may become painful and swollen. Other symptoms include fever, chills, headache and a macular or urticarial rash. Unlike streptobacillary rat bite fever, infections with S. minus generally do not present with arthritis.
 Streptobacillus moniliformis is part of the normal oral flora of rodents and is also shed in the urine and stool. A bite is not necessary for infection and, if present, has frequently healed at presentation. Incubation period is usually 2-10 days. Haverhill fever is caused by ingestion of S. moniliformis contaminated material and is associated with sore throat, vomiting and fever. S. moniliformis is sensitive to penicillin (the drug of choice at the time of this publication) and (at least in vitro) to cephalosporins. It has not previously been associated with osteomyelitis, but is commonly associated with fever, vomiting, rash, arthralgias, myalgias, and septic arthritis. Occasional cases of abscesses, endocarditis, meningitis and sepsis have been described.
 Final Diagnosis
-Rat bite fever and calcaneal osteomyelitis caused by Streptobacillus moniliformis .
+Rat bite fever and calcaneal osteomyelitis caused by Streptobacillus moniliformis.
+References

@@ -16,17 +16,17 @@ Physical Examination
 The patient appeared well and comfortable at rest, but became slightly short of breath when speaking. He was overweight and did not have signs of rapid weight loss. The temperature was 36.7°C (98.5°F), pulse 76 beats per minute, blood pressure 120/80 mm Hg, respirations 20 breaths per minute, and oxygen saturation 96% while breathing room air. There was a II/IV systolic ejection murmur at the right upper sternal border of the chest, without radiation. The examination was otherwise normal; he did not have any pulmonary findings, lower extremity edema, abdominal distention, jugular venous distention, lymphadenopathy, or clubbing of the digits.
 Studies
 The white blood cell count was 6,540 per cubic millimeter (reference range (ref) 3500-10,500), hematocrit 44.6% (ref 34.9-50 0 in men), and platelets 226,000 per cubic millimeter (ref 150,000-450,000). The blood level of creatinine was 1.1 milligrams per deciliter (ref 0.6-1.3); other routine laboratory tests were normal, including liver function tests. An HIV test was negative.
-A posterior-anterior and lateral chest radiograph ( Figure 1 ) revealed cardiomegaly with right atrial and right ventricular enlargement, calcified densities in the bilateral upper lungs, and possible noncalcified nodular densities in the bilateral lower lungs. Transesophageal echocardiography showed a mean pulmonary gradient of 72 millimeters of mercury (normal being less than 30), a peak velocity of 5.4 meters per second (normal, less than 3), and near-normal right ventricular function.
+A posterior-anterior and lateral chest radiograph (Figure 1) revealed cardiomegaly with right atrial and right ventricular enlargement, calcified densities in the bilateral upper lungs, and possible noncalcified nodular densities in the bilateral lower lungs. Transesophageal echocardiography showed a mean pulmonary gradient of 72 millimeters of mercury (normal being less than 30), a peak velocity of 5.4 meters per second (normal, less than 3), and near-normal right ventricular function.
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) of the chest with the administration of intravenous contrast is shown in Figures 2 and 3 .
+Computed tomography (CT) of the chest with the administration of intravenous contrast is shown in Figures 2 and 3.
 Figure 2. CT of the chest.
 Figure 3. CT of the chest.
 Diagnostic Procedure(s) and Result(s)
-Computed tomography (CT) of the chest with the administration of intravenous contrast showed spiculated calcified masses in the bilateral apices, scattered calcified granulomata, extensive mediastinal calcifications, pleural and pericardial calcified plaques, and narrowing of the main pulmonary artery ( Figures 2 and 3 ).
-Computed tomography angiography (CTA) of the chest was then obtained, which showed (in addition to the above findings) dense calcifications along the ascending aorta and proximal main pulmonary artery with severe stenosis of the main pulmonary artery ( Figure 4 ). Three-dimensional mapping with the CTA showed focal stenosis in the distal main pulmonary artery secondary to a fibrous band encircling the mid ascending aorta and pulmonary artery ( Figure 5 ).
+Computed tomography (CT) of the chest with the administration of intravenous contrast showed spiculated calcified masses in the bilateral apices, scattered calcified granulomata, extensive mediastinal calcifications, pleural and pericardial calcified plaques, and narrowing of the main pulmonary artery (Figures 2 and 3).
+Computed tomography angiography (CTA) of the chest was then obtained, which showed (in addition to the above findings) dense calcifications along the ascending aorta and proximal main pulmonary artery with severe stenosis of the main pulmonary artery (Figure 4). Three-dimensional mapping with the CTA showed focal stenosis in the distal main pulmonary artery secondary to a fibrous band encircling the mid ascending aorta and pulmonary artery (Figure 5).
 Based on the patient’s characteristic chest imaging findings, the presence of calcified granulomas in his lungs and spleen (signifying a prior granulomatous infection), and his clinical and epidemiologic history, a diagnosis of fibrosing mediastinitis was made.
-Due to his chronic cough, additional testing was performed, including serum galactomannan index, (1-3)-beta-D-glucan, serum histoplasma antigen, urine histoplasma antigen, serum histoplasma antibodies, and an enzyme-linked immunosorbent assay (ELISA) blood test for detection of interferon-gamma (IFN-gamma) to Mycobacterium tuberculosis (Mtb) complex antigens. Of these tests, only the ELISA IFN-gamma test for Mtb complex antigens was positive. Bacterial and fungal sputum cultures were negative, as was a sputum specimen stained for acid-fast bacilli (AFB). A nucleic acid amplification test of a sputum specimen was positive for Mtb genetic material. After approximately 2 weeks, sputum cultures grew Mycobacterium tuberculosis .
+Due to his chronic cough, additional testing was performed, including serum galactomannan index, (1-3)-beta-D-glucan, serum histoplasma antigen, urine histoplasma antigen, serum histoplasma antibodies, and an enzyme-linked immunosorbent assay (ELISA) blood test for detection of interferon-gamma (IFN-gamma) to Mycobacterium tuberculosis (Mtb) complex antigens. Of these tests, only the ELISA IFN-gamma test for Mtb complex antigens was positive. Bacterial and fungal sputum cultures were negative, as was a sputum specimen stained for acid-fast bacilli (AFB). A nucleic acid amplification test of a sputum specimen was positive for Mtb genetic material. After approximately 2 weeks, sputum cultures grew Mycobacterium tuberculosis.
 Figure 4. CT of the chest with angiography (CTA).
 Figure 5. Three-dimensional view of the CTA.
 Treatment and Followup
@@ -41,16 +41,24 @@ Final Diagnosis
 Fibrosing mediastinitis caused by Mycobacterium tuberculosis infection.
 References
 Akman C, Kantarci F, Cetinkaya S. (2004) Imaging in mediastinitis: a systematic review based on aetiology. Clinical Radiology. 2004; 59(7):573-85
-PMID:15208062 ( PubMed abstract )
+PMID:15208062(PubMed abstract) Atasoy C, Fitoz S, Erguvan B, Akyar S. (2001) Tuberculous fibrosing mediastinitis: CT and MRI findings. J Thorac Imaging. 2001;16(3):191-3.
+PMID:11428422(PubMed abstract) McNeeley MF, Chung JH, Bhalla S, Godwin JD. (2012) Imaging of granulomatous fibrosing mediastinitis. AJR Am J Roentgenol. 2012;199(2):319-27.
+PMID:22826392(PubMed abstract) Parish JM, Rosenow EC. (2002) Mediastinal Granuloma and Mediastinal Fibrosis.Semin Respir Crit Care Med. 2002;23(2):135-43.
+PMID:16088606(PubMed abstract) Peebles RS, Carpenter CT, Dupont WD, Loyd JE. (2000)Mediastinal fibrosis is associated with human leukocyte antigen-A2. Chest. 2000;117(2):482-5.
+PMID:10669694(PubMed abstract) Peikert T, Colby TV, Midthun DE, Pairolero PC, Edell ES, Schroeder DR, Specks U. (2012) Fibrosing mediastinitis: clinical presentation, therapeutic outcomes, and adaptive immune response. Medicine. 2011;90(6):412-413.
+PMID:22033450(PubMed abstract) Schade MA, Mirani NM. (2013) Fibrosing mediastinitis: an unusual cause of pulmonary symptoms. J Gen Intern Med. 2013;28(12):1677-81. Epub 2013/06/27.
+PMID:23807725(PubMed abstract)
+Akman C, Kantarci F, Cetinkaya S. (2004) Imaging in mediastinitis: a systematic review based on aetiology. Clinical Radiology. 2004; 59(7):573-85
+PMID:15208062(PubMed abstract)
 Atasoy C, Fitoz S, Erguvan B, Akyar S. (2001) Tuberculous fibrosing mediastinitis: CT and MRI findings. J Thorac Imaging. 2001;16(3):191-3.
-PMID:11428422 ( PubMed abstract )
+PMID:11428422(PubMed abstract)
 McNeeley MF, Chung JH, Bhalla S, Godwin JD. (2012) Imaging of granulomatous fibrosing mediastinitis. AJR Am J Roentgenol. 2012;199(2):319-27.
-PMID:22826392 ( PubMed abstract )
+PMID:22826392(PubMed abstract)
 Parish JM, Rosenow EC. (2002) Mediastinal Granuloma and Mediastinal Fibrosis.Semin Respir Crit Care Med. 2002;23(2):135-43.
-PMID:16088606 ( PubMed abstract )
+PMID:16088606(PubMed abstract)
 Peebles RS, Carpenter CT, Dupont WD, Loyd JE. (2000)Mediastinal fibrosis is associated with human leukocyte antigen-A2. Chest. 2000;117(2):482-5.
-PMID:10669694 ( PubMed abstract )
+PMID:10669694(PubMed abstract)
 Peikert T, Colby TV, Midthun DE, Pairolero PC, Edell ES, Schroeder DR, Specks U. (2012) Fibrosing mediastinitis: clinical presentation, therapeutic outcomes, and adaptive immune response. Medicine. 2011;90(6):412-413.
-PMID:22033450 ( PubMed abstract )
+PMID:22033450(PubMed abstract)
 Schade MA, Mirani NM. (2013) Fibrosing mediastinitis: an unusual cause of pulmonary symptoms. J Gen Intern Med. 2013;28(12):1677-81. Epub 2013/06/27.
-PMID:23807725 ( PubMed abstract )
+PMID:23807725(PubMed abstract)

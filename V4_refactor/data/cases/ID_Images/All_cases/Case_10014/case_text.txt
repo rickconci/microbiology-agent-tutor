@@ -9,61 +9,79 @@ The patient was taking oral iron supplementation.
 Epidemiological History
 She had traveled to Mexico one year before presentation. She reported no previous hospitalizations or surgeries, no history of sexual activity and no alcohol, tobacco, or illicit drug use or exposure to sick contacts or animals.
 Physical Examination
-She appeared tired and slightly pale. The temperature was 38.2°C (100.8°F), blood pressure 113/65 mm Hg, heart rate 137 beats per minute, and respiratory rate 17 breaths per minute. The lungs were clear, and there was a soft 1/6 systolic murmur. The spleen was palpable 3-centimeters below the left costal margin, without hepatomegaly. There were scattered petechiae on legs; painful, purpuric lesions on both upper thighs, and a fixed purpuric lesion on the left upper arm with a necrotic center. Skin findings are shown in Figures 1 through 3 . The remainder of the examination was normal.
+She appeared tired and slightly pale. The temperature was 38.2°C (100.8°F), blood pressure 113/65 mm Hg, heart rate 137 beats per minute, and respiratory rate 17 breaths per minute. The lungs were clear, and there was a soft 1/6 systolic murmur. The spleen was palpable 3-centimeters below the left costal margin, without hepatomegaly. There were scattered petechiae on legs; painful, purpuric lesions on both upper thighs, and a fixed purpuric lesion on the left upper arm with a necrotic center. Skin findings are shown in Figures 1 through 3. The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Figure 3. Physical findings.
 Studies
 The white blood cell count was 4600/mm³ (reference range 4500-11,000) with 36% neutrophils, 58% lymphocytes, 4% monocytes and 2%basophils; hemoglobin 7.9 g/dL (ref. 12.0 – 16.0); mean corpuscular volume 71.4 fl (ref. 78.0-100.0) and platelets 190,000/mm³ (ref. 150,000-450,000). The erythrocyte sedimentation rate was 109 mm/hr (ref 0-15) and C-reactive protein 3.4 mg/dL (ref. 0.0-1.0). Polymerase chain reaction (PCR) testing (qualitative) for HIV nucleic acid was negative. C3 and C4 complement levels were normal. Testing for antinuclear antibodies (ANA) and anti-double stranded DNA antibodies were negative; results of rheumatoid factor and anti-neutrophil cytoplasmic IgG antibodies (ANCA) were normal.
-A punch biopsy of a skin lesion was performed. Pathological examination of the biopsy ( Figures 4 and 5 ) demonstrated abundant thrombosed small and medium sized vessels with an infiltrate of neutrophils and minimal leukocytoclasis (karyorrhexis of leukocytes). The overlying epidermis showed ischemic changes with bulla formation. The findings were thought to show features of septic vasculitis.
+A punch biopsy of a skin lesion was performed. Pathological examination of the biopsy (Figures 4 and 5) demonstrated abundant thrombosed small and medium sized vessels with an infiltrate of neutrophils and minimal leukocytoclasis (karyorrhexis of leukocytes). The overlying epidermis showed ischemic changes with bulla formation. The findings were thought to show features of septic vasculitis.
 Figure 4. Skin biopsy, hematoxylin and eosin stain.
 Figure 5. Skin biopsy.
 Clinical Course Prior to Diagnosis
-The patient was admitted for fever and presumptive cellulitis, and intravenous ceftriaxone and clindamycin were administered empirically. Blood cultures grew for gram-negative coccobacilli after eighty-one hours incubation; gram stain of the growth is shown in Figure 6 . During the next two days, the patient continued to be febrile and additional blood cultures remained positive.
+The patient was admitted for fever and presumptive cellulitis, and intravenous ceftriaxone and clindamycin were administered empirically. Blood cultures grew for gram-negative coccobacilli after eighty-one hours incubation; gram stain of the growth is shown in Figure 6. During the next two days, the patient continued to be febrile and additional blood cultures remained positive.
 Figure 6. Gram stain of growth from blood culture.
 Diagnostic Procedure(s) and Result(s)
-Gram stain of the skin punch biopsy specimen ( Figure 5 ) revealed rare gram-variable coccobacilli in the region of thrombosed vessels. The organism growing in the blood cultures was identified as Brucella melitensis ( Figure 6 ). Testing for serum antibodies for Brucella revealed an IgM level of 4.92 and IgG 1.43 (reference range <0.8 negative, and greater than or equal to 1.10, antibody detected).
+Gram stain of the skin punch biopsy specimen (Figure 5) revealed rare gram-variable coccobacilli in the region of thrombosed vessels. The organism growing in the blood cultures was identified as Brucella melitensis (Figure 6). Testing for serum antibodies for Brucella revealed an IgM level of 4.92 and IgG 1.43 (reference range <0.8 negative, and greater than or equal to 1.10, antibody detected).
 Treatment and Followup
 Upon further questioning, the patient revealed consumption of “queso blanco” (unpasteurized fresh cheese) as well as other locally prepared dairy and meat products while in Mexico. The patient received intravenous doxycycline and gentamicin for one week. After 72 hours on this therapy, the fevers resolved. At discharge, oral doxycycline and rifampin were begun, for a total of 6 weeks of antimicrobial therapy. At the completion of therapy, her symptoms, skin findings, and anemia had resolved.
 Discussion
 The patient’s findings of fever, petechiae, purpura, and elevated inflammatory markers suggest a vasculitis, which was confirmed on histopathologic examination of the skin biopsy.
-The clinical findings may be suggestive of infection with Rickettsia rickettsii , which causes a disseminated vasculitis. In cases of Rocky Mountain Spotted Fever the petechial rash classically begins in the distal extremities, involves the palms and soles, spreads centrally, and can coalesce into purpura [Weber and Walker 1991]. Streptobacillis moniliformis which is the causative agent of rat-bite fever, may have clinical findings similar to Rickettsia rickettsii , including rash involving the palms and soles; arthralgia and arthritis are more prominent findings [Cunningham et al. 1998]. Yersinia enterocolitica is a gram-negative rod that can cause extra-intestinal manifestations including a leukocytoclastic vasculitis as a complication in patients with iron-overload syndromes [Tak et al. 1992]. Aggregatibacter actinomycetemcomitans , is a fastidious gram negative rod, that can cause endocarditis, soft tissue infection, and central nervous system infection [Kaplan et al. 1989].
+The clinical findings may be suggestive of infection with Rickettsia rickettsii, which causes a disseminated vasculitis. In cases of Rocky Mountain Spotted Fever the petechial rash classically begins in the distal extremities, involves the palms and soles, spreads centrally, and can coalesce into purpura [Weber and Walker 1991]. Streptobacillis moniliformis which is the causative agent of rat-bite fever, may have clinical findings similar to Rickettsia rickettsii, including rash involving the palms and soles; arthralgia and arthritis are more prominent findings [Cunningham et al. 1998]. Yersinia enterocolitica is a gram-negative rod that can cause extra-intestinal manifestations including a leukocytoclastic vasculitis as a complication in patients with iron-overload syndromes [Tak et al. 1992]. Aggregatibacter actinomycetemcomitans, is a fastidious gram negative rod, that can cause endocarditis, soft tissue infection, and central nervous system infection [Kaplan et al. 1989].
 In the United States, Brucella is most commonly transmitted through the consumption of unpasteurized milk products [Wyatt 2005; Pappas et al. 2005]. Less than 100 cases per year are reported to the CDC [Cook et al. 2002]. The states with the highest incidence in the United States include Texas, California, and Florida. It is more prevalent in the Mediterranean basin, Arabian peninsula, Indian subcontinent, and Latin America [Doyle and Bryan 2000; Pappas et al. 2006; Hasanjani et al. 2004].
 Patients present with fever, fatigue and malaise, weight loss, arthralgias, and splenomegaly. In children, a monoarticular arthritis is a common presentation, while in adults sacroiliitis or vertebral osteomyelitis are more frequently seen [al-Eissa et al. 1990]. Skin findings have been described rarely in brucellosis (6-12%) most commonly as either (1) disseminated papulonodular eruptions, (2) erythema nodosum-like lesions, (3) purpura, and (4) maculopapular eruptions. Other case reports of brucellosis have described a panniculitis or Stevens-Johnson syndrome [Ariza et al. 1989; Perez et al. 1999; Tanyel et al. 2008; Metin et al. 2001; Berger et al. 1981; Milionis et al. 2000]. Our patient’s findings likely represent hematogenous spread of the bacterium.
 Final Diagnosis
-Brucellosis caused by Brucella melitensis , with vasculitic purpura.
+Brucellosis caused by Brucella melitensis, with vasculitic purpura.
 References
 al-Eissa, Y.A., Kambal, A.M., al-Nasser, M.N., al-Habib, S.A., al-Fawaz, I.M., and al-Zamil, F.A. (1990). Childhood brucellosis: a study of 102 cases. Pediatr Infect Dis J 9, 74-79.
-PMID:2314956 ( PubMed abstract )
+PMID:2314956(PubMed abstract) Ariza, J., Servitje, O., Pallares, R., Fernandez Viladrich, P., Rufi, G., Peyri, J., and Gudiol, F. (1989). Characteristic cutaneous lesions in patients with brucellosis. Arch Dermatol 125, 380-383.
+PMID:2923445(PubMed abstract) Berger, T.G., Guill, M.A., and Goette, D.K. (1981). Cutaneous lesions in brucellosis. Arch Dermatol 117, 40-42.
+PMID:7458383(PubMed abstract) Cook, W.E., Williams, E.S., Thorne, E.T., Kreeger, T.J., Stout, G., Bardsley, K., Edwards, H., Schurig, G., Colby, L.A., Enright, F., and Elzer, P.H. (2002). Brucella abortus strain RB51 vaccination in elk. I. Efficacy of reduced dosage. J Wildl Dis 38, 18-26.
+PMID:11838212(PubMed abstract) Cunningham, B.B., Paller, A.S., and Katz, B.Z. (1998). Rat bite fever in a pet lover. J Am Acad Dermatol 38, 330-332.
+PMID:9486709(PubMed abstract) Doyle, T.J., and Bryan, R.T. (2000). Infectious disease morbidity in the US region bordering Mexico, 1990-1998. J Infect Dis 182, 1503-1510.
+PMID:11010841(PubMed abstract) Hasanjani Roushan, M.R., Mohrez, M., Smailnejad Gangi, S.M., Soleimani Amiri, M.J., and Hajiahmadi, M. (2004). Epidemiological features and clinical manifestations in 469 adult patients with brucellosis in Babol, Northern Iran. Epidemiol Infect 132, 1109-1114.
+PMID:15635968(PubMed abstract) Kaplan, A.H., Weber, D.J., Oddone, E.Z., and Perfect, J.R. (1989). Infection due to Actinobacillus actinomycetemcomitans: 15 cases and review. Rev Infect Dis 11, 46-63.
+PMID:2644690(PubMed abstract) Metin, A., Akdeniz, H., Buzgan, T., and Delice, I. (2001). Cutaneous findings encountered in brucellosis and review of the literature. Int J Dermatol 40, 434-438.
+PMID:11678996(PubMed abstract) Milionis, H., Christou, L., and Elisaf, M. (2000). Cutaneous manifestations in brucellosis: case report and review of the literature. Infection 28, 124-126.
+PMID:10782403(PubMed abstract) Pappas, G., Akritidis, N., Bosilkovski, M., and Tsianos, E. (2005). Brucellosis. N Engl J Med 352, 2325-2336.
+PMID:15930423(PubMed abstract) Pappas, G., Papadimitriou, P., Akritidis, N., Christou, L., and Tsianos, E.V. (2006). The new global map of human brucellosis. Lancet Infect Dis 6, 91-99.
+PMID:16439329(PubMed abstract) Perez, C., Hernandez, R., Murie, M., Vives, R., and Guarch, R. (1999). Relapsing leucocytoclastic vasculitis as the initial manifestation of acute brucellosis. Br J Dermatol 140, 1177-1178.
+PMID:10354097(PubMed abstract) Tak, P.P., Visser, L.G., Hoogkamp-Korstanje, J.A., Kluin-Nelemans, J.C., Hogendoorn, P.C., Kluin, P.M., Barza, M., de Koning, J., and van Furth, R. (1992). Unusual manifestations of Yersinia enterocolitica infections diagnosed using novel methods. Clin Infect Dis 15, 645-649.
+PMID:1420678(PubMed abstract) Tanyel, E., Tasdelen Fisgin, N., Yildiz, L., Leblebicioglu, H., Doganci, L., and Tulek, N. (2008). Panniculitis as the initial manifestation of brucellosis: a case report. Am J Dermatopathol 30, 169-171.
+PMID:18360123(PubMed abstract) Weber DJ, Walker DH. (1991) Rocky Mountain spotted fever. Infect Dis Clin North Am,. 5(1): p. 19-35. Review.
+PMID:1904897(PubMed abstract) Wyatt, H.V. (2005). How Themistocles Zammit found Malta Fever (brucellosis) to be transmitted by the milk of goats. J R Soc Med 98, 451-454.
+PMID:16199812(PubMed abstract)
+al-Eissa, Y.A., Kambal, A.M., al-Nasser, M.N., al-Habib, S.A., al-Fawaz, I.M., and al-Zamil, F.A. (1990). Childhood brucellosis: a study of 102 cases. Pediatr Infect Dis J 9, 74-79.
+PMID:2314956(PubMed abstract)
 Ariza, J., Servitje, O., Pallares, R., Fernandez Viladrich, P., Rufi, G., Peyri, J., and Gudiol, F. (1989). Characteristic cutaneous lesions in patients with brucellosis. Arch Dermatol 125, 380-383.
-PMID:2923445 ( PubMed abstract )
+PMID:2923445(PubMed abstract)
 Berger, T.G., Guill, M.A., and Goette, D.K. (1981). Cutaneous lesions in brucellosis. Arch Dermatol 117, 40-42.
-PMID:7458383 ( PubMed abstract )
+PMID:7458383(PubMed abstract)
 Cook, W.E., Williams, E.S., Thorne, E.T., Kreeger, T.J., Stout, G., Bardsley, K., Edwards, H., Schurig, G., Colby, L.A., Enright, F., and Elzer, P.H. (2002). Brucella abortus strain RB51 vaccination in elk. I. Efficacy of reduced dosage. J Wildl Dis 38, 18-26.
-PMID:11838212 ( PubMed abstract )
+PMID:11838212(PubMed abstract)
 Cunningham, B.B., Paller, A.S., and Katz, B.Z. (1998). Rat bite fever in a pet lover. J Am Acad Dermatol 38, 330-332.
-PMID:9486709 ( PubMed abstract )
+PMID:9486709(PubMed abstract)
 Doyle, T.J., and Bryan, R.T. (2000). Infectious disease morbidity in the US region bordering Mexico, 1990-1998. J Infect Dis 182, 1503-1510.
-PMID:11010841 ( PubMed abstract )
+PMID:11010841(PubMed abstract)
 Hasanjani Roushan, M.R., Mohrez, M., Smailnejad Gangi, S.M., Soleimani Amiri, M.J., and Hajiahmadi, M. (2004). Epidemiological features and clinical manifestations in 469 adult patients with brucellosis in Babol, Northern Iran. Epidemiol Infect 132, 1109-1114.
-PMID:15635968 ( PubMed abstract )
+PMID:15635968(PubMed abstract)
 Kaplan, A.H., Weber, D.J., Oddone, E.Z., and Perfect, J.R. (1989). Infection due to Actinobacillus actinomycetemcomitans: 15 cases and review. Rev Infect Dis 11, 46-63.
-PMID:2644690 ( PubMed abstract )
+PMID:2644690(PubMed abstract)
 Metin, A., Akdeniz, H., Buzgan, T., and Delice, I. (2001). Cutaneous findings encountered in brucellosis and review of the literature. Int J Dermatol 40, 434-438.
-PMID:11678996 ( PubMed abstract )
+PMID:11678996(PubMed abstract)
 Milionis, H., Christou, L., and Elisaf, M. (2000). Cutaneous manifestations in brucellosis: case report and review of the literature. Infection 28, 124-126.
-PMID:10782403 ( PubMed abstract )
+PMID:10782403(PubMed abstract)
 Pappas, G., Akritidis, N., Bosilkovski, M., and Tsianos, E. (2005). Brucellosis. N Engl J Med 352, 2325-2336.
-PMID:15930423 ( PubMed abstract )
+PMID:15930423(PubMed abstract)
 Pappas, G., Papadimitriou, P., Akritidis, N., Christou, L., and Tsianos, E.V. (2006). The new global map of human brucellosis. Lancet Infect Dis 6, 91-99.
-PMID:16439329 ( PubMed abstract )
+PMID:16439329(PubMed abstract)
 Perez, C., Hernandez, R., Murie, M., Vives, R., and Guarch, R. (1999). Relapsing leucocytoclastic vasculitis as the initial manifestation of acute brucellosis. Br J Dermatol 140, 1177-1178.
-PMID:10354097 ( PubMed abstract )
+PMID:10354097(PubMed abstract)
 Tak, P.P., Visser, L.G., Hoogkamp-Korstanje, J.A., Kluin-Nelemans, J.C., Hogendoorn, P.C., Kluin, P.M., Barza, M., de Koning, J., and van Furth, R. (1992). Unusual manifestations of Yersinia enterocolitica infections diagnosed using novel methods. Clin Infect Dis 15, 645-649.
-PMID:1420678 ( PubMed abstract )
+PMID:1420678(PubMed abstract)
 Tanyel, E., Tasdelen Fisgin, N., Yildiz, L., Leblebicioglu, H., Doganci, L., and Tulek, N. (2008). Panniculitis as the initial manifestation of brucellosis: a case report. Am J Dermatopathol 30, 169-171.
-PMID:18360123 ( PubMed abstract )
+PMID:18360123(PubMed abstract)
 Weber DJ, Walker DH. (1991) Rocky Mountain spotted fever. Infect Dis Clin North Am,. 5(1): p. 19-35. Review.
-PMID:1904897 ( PubMed abstract )
+PMID:1904897(PubMed abstract)
 Wyatt, H.V. (2005). How Themistocles Zammit found Malta Fever (brucellosis) to be transmitted by the milk of goats. J R Soc Med 98, 451-454.
-PMID:16199812 ( PubMed abstract )
+PMID:16199812(PubMed abstract)

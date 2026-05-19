@@ -6,19 +6,19 @@ There was a history of coronary artery disease, hypertension, Type II diabetes m
 Epidemiological History
 She denied recent travel within or outside the United States. She also denied recent exposures to pets, fish tanks, marine-life, insect bites, gardening or other horticulture exposure.
 Physical Examination
-She was afebrile and the blood pressure was 158/76 mm/Hg. Oxygen saturation was 94% on while breathing 2 liters of supplemental oxygen. She was an elderly, chronically-ill-appearing woman who did not look toxic. There were scattered wheezes and bibasilar crackles. The skin over her right extremity revealed multiple erythematous, violaceous, non-tender nodules. There was no lymphangiitic streaking. The lesions were confined to right upper extremity only.
+She was afebrile and the blood pressure was 158/76 mm/Hg. Oxygen saturation was 94% on while breathing 2 liters of supplemental oxygen. She was an elderly, chronically-ill-appearing woman who did not look toxic. There were scattered wheezes and bibasilar crackles. The skin over her right extremity revealed multiple erythematous, violaceous, non-tender nodules. There was no lymphangiitic streaking. The lesions were confined to right upper extremity only. Figure 1. Physical finding. Figure 2. Physical finding.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Diagnostic Procedure(s) and Result(s)
-Biopsy of one of the nodules was performed, and examination of the tissue revealed a gram stain with a few Gram-positive cocci in clusters. The culture was positive for coagulase-negative Staphylococcus , and the fungal wet preparation and culture were negative. Acid-fast bacilli (AFB) staining was positive; modified AFB testing was negative.
-Culture from the biopsy of one of the nodules subsequently grew Mycobacterium chelonae .
+Biopsy of one of the nodules was performed, and examination of the tissue revealed a gram stain with a few Gram-positive cocci in clusters. The culture was positive for coagulase-negative Staphylococcus, and the fungal wet preparation and culture were negative. Acid-fast bacilli (AFB) staining was positive; modified AFB testing was negative.
+Culture from the biopsy of one of the nodules subsequently grew Mycobacterium chelonae.
 Treatment and Followup
 The patient was treated with clarithromycin and gatifloxacin. The nodules were improving slowly when she expired from her cardiac disease.
 Discussion
-The pattern of nodular lesions starting on the hand and slowly spreading up the extremity suggests a sporotrichoid pattern. The infectious pathogens causing these types of lesions include mycobacteria (especially M. chelonae and M. marinum ), fungi (especially Sporothrix ), and bacteria (especially Nocardia ). In this case the exposure history is not specifically provocative thus M. chelonae should be strongly considered given its ubiquitous nature. Biopsy is absolutely required to identify the causitive pathogen, which was M chelonae in this case.
-Mycobacterium chelonae falls under the group of non-tuberculous mycobacteria known as the “rapid growers.” Other rapid growers include Mycobacterium abscessus and Mycobacterium fortuitum . These three are probably the most common non-tuberculous mycobacteria involved in cases of community and nosocomial acquired skin and soft tissue infections. The organisms are ubiquitous in the environment; in the hospital they have been isolated from hospital water supplies, topical skin solutions, injectable medicines, and other sources.
+The pattern of nodular lesions starting on the hand and slowly spreading up the extremity suggests a sporotrichoid pattern. The infectious pathogens causing these types of lesions include mycobacteria (especially M. chelonae and M. marinum), fungi (especially Sporothrix), and bacteria (especially Nocardia). In this case the exposure history is not specifically provocative thus M. chelonae should be strongly considered given its ubiquitous nature. Biopsy is absolutely required to identify the causitive pathogen, which was M chelonae in this case.
+Mycobacterium chelonae falls under the group of non-tuberculous mycobacteria known as the “rapid growers.” Other rapid growers include Mycobacterium abscessus and Mycobacterium fortuitum. These three are probably the most common non-tuberculous mycobacteria involved in cases of community and nosocomial acquired skin and soft tissue infections. The organisms are ubiquitous in the environment; in the hospital they have been isolated from hospital water supplies, topical skin solutions, injectable medicines, and other sources.
 Final Diagnosis
 Mycobacterium chelonae soft tissue infection.
 References
 Hay, R.J. (2009). Mycobacterium chelonae--a growing problem in soft tissue infection. Curr Opin Infect Dis 22, 99-101.
-PMID:19276876 ( PubMed abstract )
+PMID:19276876(PubMed abstract)

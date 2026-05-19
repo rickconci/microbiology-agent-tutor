@@ -6,12 +6,12 @@ Non-contributory.
 Epidemiological History
 She was a high school student who lived with her mother. She was not sexually active and had no history of illicit drug use.
 Physical Examination
-She was alert but toxic- and ill-appearing. The temperature was 101°F (38.3°C) with no rash seen. Facial swelling, peri-orbital edema, marked proptosis, chemosis, complete ophthalmoplegia and meningismus were noted. The remainder of the examination was normal. (See Figure 1 .)
+She was alert but toxic- and ill-appearing. The temperature was 101°F (38.3°C) with no rash seen. Facial swelling, peri-orbital edema, marked proptosis, chemosis, complete ophthalmoplegia and meningismus were noted. The remainder of the examination was normal. (See Figure 1.)
 Figure 1. Physical findings.
 Studies
 The white blood cell count (WBC) was 19,700 cells/mm³, with 91% polys, 6% lymphocytes, and 3% monocytes. A lumbar puncture had an opening pressure of 26 cm of water. Analysis of the cerebrospinal fluid (CSF) revealed red blood cells 83 cells/mm³, white blood cells 87 cells/mm³, with 82% polymorphonuclear leukocytes, 10% bands, 1% lymphocytes, and 7% monocytes, glucose 20 mg/dL and total protein 396 mg/dL.
 Diagnostic Procedure(s) and Result(s)
-The patient had a computed tomography (CT) scan performed emergently, which revealed extensive right ethmoid and sphenoid sinusitis, minimal left ethmoid disease, and marked proptosis on the left greater than the right (OS>OD). (See Figure 2 .) Magnetic resonance imaging (MRI) demonstrated bilateral cavernous sinus enlargement and thrombosis. In addition, there was probable left ophthalmic vein thrombosis, bilateral orbital cellulitis with a possible left medial orbital collection, pituitary enhancement and edema, low attenuation of the clivus suggesting osteomyelitis, and leptomeningeal enhancement.
+The patient had a computed tomography (CT) scan performed emergently, which revealed extensive right ethmoid and sphenoid sinusitis, minimal left ethmoid disease, and marked proptosis on the left greater than the right (OS>OD). (See Figure 2.) Magnetic resonance imaging (MRI) demonstrated bilateral cavernous sinus enlargement and thrombosis. In addition, there was probable left ophthalmic vein thrombosis, bilateral orbital cellulitis with a possible left medial orbital collection, pituitary enhancement and edema, low attenuation of the clivus suggesting osteomyelitis, and leptomeningeal enhancement.
 Figure 2. CT scan of the head.
 Treatment and Followup
 The patient underwent bilateral lateral canthotomies, drainage of a left medial orbital abscess, and subsequent drainage of a right orbital abscess. Sequential MRI studies documented infarction in the right subinsular region, globus pallidus, and posterior limb of the right internal capsule with preservation of flow in the right middle cerebral artery. These findings were felt to be secondary to basilar meningitis.
@@ -21,6 +21,9 @@ Final Diagnosis
 Cavernous sinus thrombosis.
 References
 Cannon, M.L., Antonio, B.L., McCloskey, J.J., Hines, M.H., Tobin, J.R., and Shetty, A.K. (2004). Cavernous sinus thrombosis complicating sinusitis. Pediatr Crit Care Med 5, 86-88.
-PMID:14697115 ( PubMed abstract )
+PMID:14697115(PubMed abstract) Pollock, T.J., Kim, P., Sargent, M.A., Aroichane, M., Lyons, C.J., and Gardiner, J.A. (2011). Ophthalmic complications of otitis media in children. J AAPOS 15, 272-275.
+PMID:21777800(PubMed abstract)
+Cannon, M.L., Antonio, B.L., McCloskey, J.J., Hines, M.H., Tobin, J.R., and Shetty, A.K. (2004). Cavernous sinus thrombosis complicating sinusitis. Pediatr Crit Care Med 5, 86-88.
+PMID:14697115(PubMed abstract)
 Pollock, T.J., Kim, P., Sargent, M.A., Aroichane, M., Lyons, C.J., and Gardiner, J.A. (2011). Ophthalmic complications of otitis media in children. J AAPOS 15, 272-275.
-PMID:21777800 ( PubMed abstract )
+PMID:21777800(PubMed abstract)

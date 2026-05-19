@@ -6,7 +6,7 @@ He had acute myelogenous leukemia (AML), M4 sub-type.
 Medications
 The medications are noted above.
 Physical Examination
-The patient was in no acute distress. The temperature was 101°F (38.3°C). There was a macular lesion above right upper lip and an ulcerated lesion with a white base on his hard palate ( Figure 1 ). The gums were markedly hypertrophied, which was thought to be due to tissue infiltration from his underlying M4-AML. The examination was otherwise normal.
+The patient was in no acute distress. The temperature was 101°F (38.3°C). There was a macular lesion above right upper lip and an ulcerated lesion with a white base on his hard palate (Figure 1). The gums were markedly hypertrophied, which was thought to be due to tissue infiltration from his underlying M4-AML. The examination was otherwise normal.
 Figure 1. Physical findings on hard palate.
 Studies
 The white blood cell count (WBC) was 90 cells/mm³ with 85% lymphocytes, 3% monocytes and 12% atypical cells.
@@ -20,8 +20,12 @@ Final Diagnosis
 Herpes simplex virus Type 1 (HSV-1) lesion of the lip and hard palate in a neutropenic patient with M4-AML.
 References
 Bergmann, O.J., Mogensen, S.C., Ellermann-Eriksen, S., and Ellegaard, J. (1997). Acyclovir prophylaxis and fever during remission-induction therapy of patients with acute myeloid leukemia: a randomized, double-blind, placebo-controlled trial. J Clin Oncol 15, 2269-2274.
-PMID:9196140 ( PubMed abstract )
+PMID:9196140(PubMed abstract) Lam, M.T., Pazin, G.J., Armstrong, J.A., and Ho, M. (1981). Herpes simplex infection in acute myelogenous leukemia and other hematologic malignancies: a prospective study. Cancer 48, 2168-2171.
+PMID:6271382(PubMed abstract) Morfin, F., and Thouvenot, D. (2003). Herpes simplex virus resistance to antiviral drugs. J Clin Virol 26, 29-37.
+PMID:12589832(PubMed abstract)
+Bergmann, O.J., Mogensen, S.C., Ellermann-Eriksen, S., and Ellegaard, J. (1997). Acyclovir prophylaxis and fever during remission-induction therapy of patients with acute myeloid leukemia: a randomized, double-blind, placebo-controlled trial. J Clin Oncol 15, 2269-2274.
+PMID:9196140(PubMed abstract)
 Lam, M.T., Pazin, G.J., Armstrong, J.A., and Ho, M. (1981). Herpes simplex infection in acute myelogenous leukemia and other hematologic malignancies: a prospective study. Cancer 48, 2168-2171.
-PMID:6271382 ( PubMed abstract )
+PMID:6271382(PubMed abstract)
 Morfin, F., and Thouvenot, D. (2003). Herpes simplex virus resistance to antiviral drugs. J Clin Virol 26, 29-37.
-PMID:12589832 ( PubMed abstract )
+PMID:12589832(PubMed abstract)

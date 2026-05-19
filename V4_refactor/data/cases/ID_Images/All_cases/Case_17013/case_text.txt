@@ -15,18 +15,21 @@ Complete blood count showed mild microcytic anemia [Hb 12.6 g/dL (normal range, 
 Hepatitis A IgM, IgG, Hepatitis B sAg, cAb, sAb, Hepatitis C Ab, and 4th generation HIV test were all negative. Both QuantiFERON-TB Gold and Echinococcus IgG Ab (enzyme-linked immunosorbent assay reflex to western blot, Quest diagnostics) were negative.
 Chest X-ray showed no significant abnormality. CT abdomen and pelvis with contrast showed cystic lesion in the right hepatic lobe (77x86x 83mm) and caudate lobe (49x58x54mm) (Figure 1a and b). There was a large unilocular thin-walled cystic lesion in the mesentery (67x100x85mm) (Figure 1c, arrow).
 Figure 1. Figure 1a. Coronal section of CT abdomen. Arrows indicate two large hypoechoic liver lesions; the regular walls are consistent with cystic lesions. Also indicated: a large cystic lesion in the small bowel mesentery.
-Figure 2. Figure 1b. Axial section of CT abdomen.
-Figure 3. Figure 1c. Axial section of CT abdomen.
+Figure 1a. Coronal section of CT abdomen. Arrows indicate two large hypoechoic liver lesions; the regular walls are consistent with cystic lesions. Also indicated: a large cystic lesion in the small bowel mesentery.
+Figure 2. Macroscopic picture of ruptured mesenteric cyst
+Figure 1b. Axial section of CT abdomen.
+Figure 3. Microscopic features of the ruptured mesenteric cyst (at low power) demonstrating multiple layers of parasite-derived cyst wall
+Figure 1c. Axial section of CT abdomen.
 Clinical Course Prior to Diagnosis
 Cystic Echinococcosis was strongly suspected but the Echinococcus IgG Ab was negative. Oral albendazole was started and the patient was admitted for laparotomy and excision of mesenteric cyst, which he had the next day.
 Diagnostic Procedure(s) and Result(s)
 During the operation, a substantial amount of turbid fluid was noted in the peritoneal cavity upon entry. The ruptured cyst wall was partially removed (some was adherent to the intestinal wall and unable to be removed) and sent for pathology. The abdominal cavity was copiously irrigated with saline.
 The removed cyst wall (Figure 2) consisted of a tan rubbery soft tissue fragment measuring 85x60 mm and ranging from 3 to 6mm with attached fibro-adipose tissue measuring 40x35x6 mm. One surface was tan, smooth and the opposite was hemorrhagic and nodular. Microscopic examination revealed laminated cyst wall and fragments of cyst wall (Figure 3) with granulomatous foreign body reaction, chronic inflammation and fibrosis (Figure 4), consistent with Echinococcal cyst wall.
-Figure 4. Macroscopic picture of ruptured mesenteric cyst
+Figure 4. Microscopic features of the ruptured mesenteric cyst (at high power)
 Figure 5. Microscopic features of the ruptured mesenteric cyst (at low power) demonstrating multiple layers of parasite-derived cyst wall
-Figure 6. Microscopic features of the ruptured mesenteric cyst (at high power)
+Figure 6. CT abdomen at 7 months of follow- up demonstrating compromised integrity of the cyst consistent with transitional phase
 Treatment and Followup
-Surgical pathology confirmed the diagnosis of Cystic Echinococcosis ( Echinococcus granulosus ). He was continued on oral albendazole and Puncture-Aspiration–Injection–Reaspiration (PAIR) procedure was done to the right hepatic lobe cyst 4 months later (Figure 5). The other hepatic cyst was too close to the portal vein and deemed unsafe for surgical intervention. Given the incidence of mesenteric cyst rupture and remaining hepatic cyst, the plan is to continue oral albendazole for at least 12 months. His liver cysts demonstrated compromised integrity of the cyst consistent with transitional phase (as per WHO classification [1]) 7-months post-treatment (Figure 6).
+Surgical pathology confirmed the diagnosis of Cystic Echinococcosis (Echinococcus granulosus). He was continued on oral albendazole and Puncture-Aspiration–Injection–Reaspiration (PAIR) procedure was done to the right hepatic lobe cyst 4 months later (Figure 5). The other hepatic cyst was too close to the portal vein and deemed unsafe for surgical intervention. Given the incidence of mesenteric cyst rupture and remaining hepatic cyst, the plan is to continue oral albendazole for at least 12 months. His liver cysts demonstrated compromised integrity of the cyst consistent with transitional phase (as per WHO classification [1]) 7-months post-treatment (Figure 6).
 Figure 7. PAIR (Puncture-Aspiration–Injection–Re-aspiration) of the right hepatic lobe cyst via CT guidance
 Figure 8. CT abdomen at 7 months of follow- up demonstrating compromised integrity of the cyst consistent with transitional phase
 Discussion
@@ -36,11 +39,16 @@ Final Diagnosis
 Cystic Echinococcosis with mesenteric hydatid cyst
 References
 Brunetti E, Kern P, Vuitton DA, Writing Panel for the WHO-IWGE. Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans. Acta Trop. 2010;114(1):1
-PMID:19931502 ( PubMed abstract )
+PMID:19931502(PubMed abstract) Marija Stojkovic, Bruno Gottstein, Thomas Junghanss. Manson's Tropical Diseases 23rd Edition, Saunders Ltd, 795-819, 2013. Biava MF, Dao A, Fortier B. Laboratory diagnosis of cystic hydatic disease. World J Surg. 2001;25(1):10-14.
+PMID:11213147(PubMed abstract) Kushwaha JK, Gupta R, Mohanti S, Kumar S. Primary mesenteric hydatid cyst. BMJ Case Rep. 2012;2012:10.1136.
+PMID:22778458(PubMed abstract) Prousalidis J, Kosmidis C, Kapoutzis K, Fachantidis E, Harlaftis N, Aletras H. Intrabiliary rupture of hydatid cysts of the liver. Am J Surg. 2009;197(2):193-198
+PMID:18558386(PubMed abstract)
+Brunetti E, Kern P, Vuitton DA, Writing Panel for the WHO-IWGE. Expert consensus for the diagnosis and treatment of cystic and alveolar echinococcosis in humans. Acta Trop. 2010;114(1):1
+PMID:19931502(PubMed abstract)
 Marija Stojkovic, Bruno Gottstein, Thomas Junghanss. Manson's Tropical Diseases 23rd Edition, Saunders Ltd, 795-819, 2013.
 Biava MF, Dao A, Fortier B. Laboratory diagnosis of cystic hydatic disease. World J Surg. 2001;25(1):10-14.
-PMID:11213147 ( PubMed abstract )
+PMID:11213147(PubMed abstract)
 Kushwaha JK, Gupta R, Mohanti S, Kumar S. Primary mesenteric hydatid cyst. BMJ Case Rep. 2012;2012:10.1136.
-PMID:22778458 ( PubMed abstract )
+PMID:22778458(PubMed abstract)
 Prousalidis J, Kosmidis C, Kapoutzis K, Fachantidis E, Harlaftis N, Aletras H. Intrabiliary rupture of hydatid cysts of the liver. Am J Surg. 2009;197(2):193-198
-PMID:18558386 ( PubMed abstract )
+PMID:18558386(PubMed abstract)

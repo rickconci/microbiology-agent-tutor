@@ -8,24 +8,24 @@ A left ovarian cyst, which was asymptomatic, had been diagnosed incidentally by 
 Medications
 Recent chemotherapy is noted above. She was also on trimethoprim-sulfamethoxazole prophylaxis, and had received vancomycin, gentamicin and piperacillin-tazobactam while in the hospital.
 Physical Examination
-She appeared tired. The temperature was 97.2°F (36.2°C), blood pressure 115/65 mm Hg, pulse 80 beats per minute and respirations 15 breaths per minute, with an oxygen saturation of 100% while breathing ambient air. The mucous membranes were moist, with no evidence of mucositis. The nares revealed clear nasal drainage with blackish necrotic areas on the nasal septum and turbinates. There was an erythematous painful papule (2 mm in diameter) on the scalp. There were multiple small erythematous papular lesions over the right knee, left thigh, right shoulder, right arm and back, most measuring approximately 5-6 mm in diameter, some with hyperpigmented centers, erythematous bases, or early ulcerations ( Figure 1 ). All lesions were tender to palpation. The remainder of the examination was normal.
+She appeared tired. The temperature was 97.2°F (36.2°C), blood pressure 115/65 mm Hg, pulse 80 beats per minute and respirations 15 breaths per minute, with an oxygen saturation of 100% while breathing ambient air. The mucous membranes were moist, with no evidence of mucositis. The nares revealed clear nasal drainage with blackish necrotic areas on the nasal septum and turbinates. There was an erythematous painful papule (2 mm in diameter) on the scalp. There were multiple small erythematous papular lesions over the right knee, left thigh, right shoulder, right arm and back, most measuring approximately 5-6 mm in diameter, some with hyperpigmented centers, erythematous bases, or early ulcerations (Figure 1). All lesions were tender to palpation. The remainder of the examination was normal.
 Figure 1. Skin lesion.
 Studies
 The white blood cell count was 1900 cells/mm³ (reference range (ref) 4500-13,500), with neutrophils 2.5% and lymphocytes 97%), hemoglobin 9.3 g/dL (ref 13.0-16.0) and platelets 34,000 cells/mm³ (ref 150,000-450,000). Tests of liver function, including aspartate aminotransferase (AST), alanine aminotransferase (ALT), alkaline phosphatase, and gamma glutamyl transpeptidase (GGT), and of renal function were normal.
 Clinical Course Prior to Diagnosis
-A lesion on the left thigh was biopsied, and the tissue cultured; micropathological examination of the tissue is shown in Figure 2 . Cultures of the blood, obtained from a peripherally-inserted central catheter, and urine were sterile.
-Computed tomography (CT) of her sinuses, chest ( Figure 3 ), abdomen ( Figure 4 ) and pelvis, with and without contrast, revealed pansinusitis, pulmonary and renal nodules. An ophthalmological examination revealed endophthalmitis and a vitreal lesion in the left eye ( Figure 5 ).
+A lesion on the left thigh was biopsied, and the tissue cultured; micropathological examination of the tissue is shown in Figure 2. Cultures of the blood, obtained from a peripherally-inserted central catheter, and urine were sterile.
+Computed tomography (CT) of her sinuses, chest (Figure 3), abdomen (Figure 4) and pelvis, with and without contrast, revealed pansinusitis, pulmonary and renal nodules. An ophthalmological examination revealed endophthalmitis and a vitreal lesion in the left eye (Figure 5).
 Figure 2. Skin biopsy, Giemsa stain.
 Figure 3. CT scan of the chest.
 Figure 4. CT of the abdomen.
 Figure 5. Ophthalmic examination.
 Diagnostic Procedure(s) and Result(s)
-Histopathological examination of the skin biopsy demonstrated angioinvasive filamentous fungi, which were subsequently identified as Fusarium spp ( Figure 2 ). Computed tomography (CT) revealed nodules consistent with disseminated fusariosis ( Figures 3 and 4 ) and ophthalmological examination revealed a vitreal fungal lesion ( Figure 5 ) in the left eye.
+Histopathological examination of the skin biopsy demonstrated angioinvasive filamentous fungi, which were subsequently identified as Fusarium spp (Figure 2). Computed tomography (CT) revealed nodules consistent with disseminated fusariosis (Figures 3 and 4) and ophthalmological examination revealed a vitreal fungal lesion (Figure 5) in the left eye.
 Treatment and Followup
 Amphotericin B was initially started, and voriconazole added to the regimen. The fungal isolate was sent for antifungal susceptibility testing and found to be sensitive only to amphotericin B with mean inhibitory concentrations (MICs) of 0.5 to 1. There were necrotic lesions on the inferior turbinates including the right and left anterior nasal septum (Figure 6), and four debridement procedures of the sinuses were performed. Two intravitreal injections of amphotericin B and voriconazole were followed by vitrectomy. The clinical symptoms and cutaneous, sinus, renal, and pulmonary lesions improved.
 Figure 6. Nasal examination.
 Discussion
-Fusarium is a common soil saprophyte and plant pathogen. It is present ubiquitously in the environment, especially in soil and water. Its tissue form is hyaline in nature and is similar to other filamentous fungi ( Aspergillus , Scedosporium , Scopulariopsis , Acremonium spp.) in that it has septate hyphal forms [Ammari et al. 1993]. However it may also have unpigmented toruloid forms [Anaissie et al. 2001].
+Fusarium is a common soil saprophyte and plant pathogen. It is present ubiquitously in the environment, especially in soil and water. Its tissue form is hyaline in nature and is similar to other filamentous fungi (Aspergillus, Scedosporium, Scopulariopsis, Acremonium spp.) in that it has septate hyphal forms [Ammari et al. 1993]. However it may also have unpigmented toruloid forms [Anaissie et al. 2001].
 Many species of Fusarium exist. Most infections in humans are associated with the Fusarium solani species complex (FSSC) and the F. oxysporum species complex [Boutati and Anaissie 1997]. In immunocompetent patients, it may cause keratitis, especially in contact lens wearers. It is also known to cause onychomycosis, peritonitis and cellulitis in the immunocompetent host [Dignani and Anaissie 2004]. In the immunocompromised patients, particularly in patients with hematological malignancies and hematopoetic stem cell transplant recipients, Fusarium causes disseminated disease [Boutati and Anaissie 1997, Dignani and Anaissie 2004, Nucci and Anaissie 2002, Nucci and Anaissie 2007].
 The mortality rate from disseminated fusariosis in the immunocompromised host ranges between 50-80% [Dignani and Anaissie 2004, Nucci and Anaissie 2002, Nucci and Anaissie 2007]. The clinical spectrum most commonly includes refractory fever, followed by cutaneous manifestations, sinusitis and pulmonary involvement [Dignani and Anaissie 2004, Nucci et al. 2003]. Cutaneous manifestations range from painful erythematous papules with or without central necrosis to target lesions and those mimicking ecthyma gangrenosum [Nucci et al. 2003]. In contrast to disseminated aspergillosis, in which blood cultures are rarely positive, fusariosis can be diagnosed by blood culture in 40% of these patients [Dignani and Anaissie 2004]. Endophthalmitis and endocarditis are some of the other complications. Diagnosis is based on histopathology and blood cultures. If suspicious of fungal disease, CT scan of the sinuses, chest, abdomen and pelvis, ophthalmological examination and echocardiogram should be considered.
 Management of disseminated fusariosis includes debridement of the affected tissues, appropriate antifungal therapy, granulocyte or granulocyte-monocyte stimulating factor for persistently neutropenic patients and removal of infected catheters [Boutati and Anaissie 1997, Dignani and Anaissie 2004, Nucci et al. 2003]. Fusarium spp. have varied susceptibility to antifungal agents. Depending on the species, Fusarium may have low in-vitro susceptibility to 5-flucytosine, fluconazole and amphotericin B and variable susceptibility to the newer azoles [Dignani and Anaissie 2004]. Thus combination therapy may be required for a successful outcome. Poor prognostic factors are persistent neutropenia and corticosteroid therapy [Boutati and Anaissie 1997, Dignani and Anaissie 2004, Nucci and Anaissie 2002, Nucci et al. 2003].
@@ -33,16 +33,24 @@ Final Diagnosis
 Disseminated fusariosis in an immunocompromised patient.
 References
 Ammari, L.K., Puck, J.M., and McGowan, K.L. (1993). Catheter-related Fusarium solani fungemia and pulmonary infection in a patient with leukemia in remission. Clin Infect Dis 16, 148-150.
-PMID:8448293 ( PubMed abstract )
+PMID:8448293(PubMed abstract) Anaissie, E.J., Kuchar, R.T., Rex, J.H., Francesconi, A., Kasai, M., Muller, F.M., Lozano-Chiu, M., Summerbell, R.C., Dignani, M.C., Chanock, S.J., and Walsh, T.J. (2001). Fusariosis associated with pathogenic fusarium species colonization of a hospital water system: a new paradigm for the epidemiology of opportunistic mold infections. Clin Infect Dis 33, 1871-1878.
+PMID:11692299(PubMed abstract) Boutati, E.I., and Anaissie, E.J. (1997). Fusarium, a significant emerging pathogen in patients with hematologic malignancy: ten years' experience at a cancer center and implications for management. Blood 90, 999-1008.
+PMID:9242529(PubMed abstract) Dignani, M.C., and Anaissie, E. (2004). Human fusariosis. Clin Microbiol Infect 10 Suppl 1, 67-75.
+PMID:14748803(PubMed abstract) Nucci, M., Anaissie, E.J., Queiroz-Telles, F., Martins, C.A., Trabasso, P., Solza, C., Mangini, C., Simoes, B.P., Colombo, A.L., Vaz, J., Levy, C.E., Costa, S., Moreira, V.A., Oliveira, J.S., Paraguay, N., Duboc, G., Voltarelli, J.C., Maiolino, A., Pasquini, R., and Souza, C.A. (2003). Outcome predictors of 84 patients with hematologic malignancies and Fusarium infection. Cancer 98, 315-319.
+PMID:12872351(PubMed abstract) Nucci, M., and Anaissie, E. (2002). Cutaneous infection by Fusarium species in healthy and immunocompromised hosts: implications for diagnosis and management. Clin Infect Dis 35, 909-920.
+PMID:12355377(PubMed abstract) Nucci, M., and Anaissie, E. (2007). Fusarium infections in immunocompromised patients. Clin Microbiol Rev 20, 695-704.
+PMID:17934079(PubMed abstract)
+Ammari, L.K., Puck, J.M., and McGowan, K.L. (1993). Catheter-related Fusarium solani fungemia and pulmonary infection in a patient with leukemia in remission. Clin Infect Dis 16, 148-150.
+PMID:8448293(PubMed abstract)
 Anaissie, E.J., Kuchar, R.T., Rex, J.H., Francesconi, A., Kasai, M., Muller, F.M., Lozano-Chiu, M., Summerbell, R.C., Dignani, M.C., Chanock, S.J., and Walsh, T.J. (2001). Fusariosis associated with pathogenic fusarium species colonization of a hospital water system: a new paradigm for the epidemiology of opportunistic mold infections. Clin Infect Dis 33, 1871-1878.
-PMID:11692299 ( PubMed abstract )
+PMID:11692299(PubMed abstract)
 Boutati, E.I., and Anaissie, E.J. (1997). Fusarium, a significant emerging pathogen in patients with hematologic malignancy: ten years' experience at a cancer center and implications for management. Blood 90, 999-1008.
-PMID:9242529 ( PubMed abstract )
+PMID:9242529(PubMed abstract)
 Dignani, M.C., and Anaissie, E. (2004). Human fusariosis. Clin Microbiol Infect 10 Suppl 1, 67-75.
-PMID:14748803 ( PubMed abstract )
+PMID:14748803(PubMed abstract)
 Nucci, M., Anaissie, E.J., Queiroz-Telles, F., Martins, C.A., Trabasso, P., Solza, C., Mangini, C., Simoes, B.P., Colombo, A.L., Vaz, J., Levy, C.E., Costa, S., Moreira, V.A., Oliveira, J.S., Paraguay, N., Duboc, G., Voltarelli, J.C., Maiolino, A., Pasquini, R., and Souza, C.A. (2003). Outcome predictors of 84 patients with hematologic malignancies and Fusarium infection. Cancer 98, 315-319.
-PMID:12872351 ( PubMed abstract )
+PMID:12872351(PubMed abstract)
 Nucci, M., and Anaissie, E. (2002). Cutaneous infection by Fusarium species in healthy and immunocompromised hosts: implications for diagnosis and management. Clin Infect Dis 35, 909-920.
-PMID:12355377 ( PubMed abstract )
+PMID:12355377(PubMed abstract)
 Nucci, M., and Anaissie, E. (2007). Fusarium infections in immunocompromised patients. Clin Microbiol Rev 20, 695-704.
-PMID:17934079 ( PubMed abstract )
+PMID:17934079(PubMed abstract)

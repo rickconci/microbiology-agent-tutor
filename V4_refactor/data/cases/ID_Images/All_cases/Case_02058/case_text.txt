@@ -6,7 +6,7 @@ There was a history of rheumatoid arthritis and a seizure disorder.
 Epidemiological History
 She had traveled in the previous month to Florida, and had no animal exposures.
 Physical Examination
-She was an obese woman with a temperature of 99°F (37.2°C), blood pressure 70/30 mm Hg, pulse 90 beats/minute, and respiratory rate 20 breaths per minute. The skin was erythematous over the right chest wall, with no drainage from the wound ( Figures 1 and 2 ). There was no adenopathy. The neck was supple, without jugular venous distention, and she had a clear chest. Cardiac examination revealed a I/VI systolic murmur at the left sternal border, without rub or gallop. The abdomen was obese, soft and nontender, without hepatosplenomegaly or masses. The left knee was swollen and tender, with a decreased range of motion to 60 degrees.
+She was an obese woman with a temperature of 99°F (37.2°C), blood pressure 70/30 mm Hg, pulse 90 beats/minute, and respiratory rate 20 breaths per minute. The skin was erythematous over the right chest wall, with no drainage from the wound (Figures 1 and 2). There was no adenopathy. The neck was supple, without jugular venous distention, and she had a clear chest. Cardiac examination revealed a I/VI systolic murmur at the left sternal border, without rub or gallop. The abdomen was obese, soft and nontender, without hepatosplenomegaly or masses. The left knee was swollen and tender, with a decreased range of motion to 60 degrees.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Studies
@@ -14,7 +14,7 @@ The white blood cell count was 13,000 cells/mm³ (with 35% band forms) and the p
 Clinical Course Prior to Diagnosis
 The patient had persistent hypotension for which pressors were required.
 Diagnostic Procedure(s) and Result(s)
-All blood culture bottles, knee aspirate cultures, and a swab from open area of wound were grew Group G Streptococcus .
+All blood culture bottles, knee aspirate cultures, and a swab from open area of wound were grew Group G Streptococcus.
 Treatment and Followup
 The hypotension, liver function abnormalities, and renal dysfunction normalized after forty-eight hours with supportive therapy and antibiotics. She was treated for six weeks with penicillin G, and improved.
 Discussion
@@ -23,4 +23,4 @@ Final Diagnosis
 Group G streptococcal cellulitis and septic arthritis, with toxic shock syndrome.
 References
 Ekelund, K., Skinhoj, P., Madsen, J., and Konradsen, H.B. (2005). Invasive group A, B, C and G streptococcal infections in Denmark 1999-2002: epidemiological and clinical aspects. Clin Microbiol Infect 11, 569-576.
-PMID:15966976 ( PubMed abstract )
+PMID:15966976(PubMed abstract)

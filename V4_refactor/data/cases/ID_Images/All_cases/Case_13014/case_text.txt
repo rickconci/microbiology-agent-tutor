@@ -19,21 +19,22 @@ An ultrasound of the abdomen demonstrated steatosis with no intra- or extrahepat
 Clinical Course Prior to Diagnosis
 The patient became somnolent and the trachea was intubated for airway protection. Shortly thereafter, hematemesis occurred; a Minnesota tube was placed to control bleeding and pressors were administered. Esophagogastroduodenoscopy (EGD) did not reveal the source of bleeding. Piperacillin-tazobactam, doxycycline, metronidazole, fluconazole, vancomycin and acyclovir were administered. Blood, platelets and fresh frozen plasma were transfused.
 Acidosis worsened, with pH decreasing to 7.07 and lactate rising to 17mMol/L. Continuous renal replacement therapy was started. Hypoxia occurred while being ventilated with 100% oxygen.
-His condition deteriorated rapidly and he died, 36 hours after transfer. An autopsy was performed; pathological examination of the liver ( Figures 1 and 2 ) and adrenal gland ( Figure 3 ) is shown.
+His condition deteriorated rapidly and he died, 36 hours after transfer. An autopsy was performed; pathological examination of the liver (Figures 1 and 2) and adrenal gland (Figure 3) is shown.
 Figure 1. Pathological examination of the liver.
 Figure 2. Pathological examination of the liver.
 Figure 3. Pathological examination of the adrenal gland.
 Diagnostic Procedure(s) and Result(s)
 Testing for herpes simplex virus (HSV) type-1 DNA in the blood by PCR revealed greater than 560,000 copies/ml. Other testing, including for nucleic acid of herpes simplex virus type-2, cytomegalovirus, and Epstein-Barr virus by PCR; hepatitis B core antigen and antibody; hepatitis B surface antibody; anti-hepatitis A antibodies; anti-hepatitis C antibodies; antibodies to leptospirosis and serum and urine Histoplasma antigen were negative.
-On autopsy, there was hepatomegaly, with extensive coagulative necrosis, limited inflammatory infiltrate and hepatocyte nuclear inclusions ( Figures 1, 2 and 4 ). Pathological examination of the adrenal gland ( Figures 3 and 5 ) showed cortical necrosis with viral inclusions. Immune histochemical staining for HSV-1 was positive in the liver and adrenal gland ( Figures 6 and 7, respectively ). Other findings on autopsy included esophageal mucosal ulceration with necrosis and huge sloughed squamous epithelial cells with nuclear viral inclusions, congestive splenomegaly with acute immunoblastic proliferation suggestive of acute viral infection, and renal enlargement with acute tubular necrosis.
+On autopsy, there was hepatomegaly, with extensive coagulative necrosis, limited inflammatory infiltrate and hepatocyte nuclear inclusions (Figures 1, 2 and 4). Pathological examination of the adrenal gland (Figures 3 and 5) showed cortical necrosis with viral inclusions. Immune histochemical staining for HSV-1 was positive in the liver and adrenal gland (Figures 6 and 7, respectively). Other findings on autopsy included esophageal mucosal ulceration with necrosis and huge sloughed squamous epithelial cells with nuclear viral inclusions, congestive splenomegaly with acute immunoblastic proliferation suggestive of acute viral infection, and renal enlargement with acute tubular necrosis.
 Figure 4. Pathological examination of the liver, viral inclusions shown with arrows.
 Figure 5. Pathological examination of the adrenal gland, viral inclusions shown with arrows.
 Figure 6. Immunohistochemical staining for HSV-1 in liver tissue.
 Figure 7. Immunohistochemical staining for HSV-1 in adrenal tissue.
+Treatment and Followup
 Discussion
 This young male patient presented with shock, disseminated intravascular coagulation (DIC) and multi-organ failure one week after the onset of prodromal symptoms of fever, fatigue, nausea and vomiting.
 Regarding the diagnoses considered, if untreated, Rocky Mountain Spotted Fever (RMSF) can progress to multi-organ failure and disseminated intravascular coagulation (DIC) in 7-15 days. Spotless Rocky Mountain fever can be seen in black patients, which may delay diagnosis and treatment. However, RMSF is rare in Pennsylvania (0.1-1.0 per one million persons per year [Walker 2010]).
-Weil’s disease can progress to acute renal and liver failure after the acute phase and is usually characterized by a high fever up to 40°C (104.0°F) and , unlike the findings in this patient, marked hyperbilirubinemia and a modest elevation of the transaminases [Levett 2001]. Reyes syndrome is most commonly seen in children but has been reported in adults. It is characterized by a prodromal viral illness followed by vomiting, worsening mental status in the absence of focal neurological deficits. The use of aspirin has been linked to the development of Reyes syndrome [Meythaler and Varma 1987].
+Weil’s disease can progress to acute renal and liver failure after the acute phase and is usually characterized by a high fever up to 40°C (104.0°F) and, unlike the findings in this patient, marked hyperbilirubinemia and a modest elevation of the transaminases [Levett 2001]. Reyes syndrome is most commonly seen in children but has been reported in adults. It is characterized by a prodromal viral illness followed by vomiting, worsening mental status in the absence of focal neurological deficits. The use of aspirin has been linked to the development of Reyes syndrome [Meythaler and Varma 1987].
 Herpes simplex virus (HSV) fulminant liver failure can be seen in immunosuppressed patients, primarily in transplant recipients. HSV hepatitis accounts for less than 1% of all acute liver failure. Around 100 cases have been described in the literature. Fulminant HSV hepatitis may represent primary infection or reactivation. Clues to the diagnosis are mucocutaneous lesions, marked elevation in transaminases with normal or slightly elevated bilirubin and DIC [Wind et al. 2012]. Patients who are male, older age, immunocompromised, and/or presenting with significant liver dysfunction are more likely to progress to death [Norvell et al. 2007].
 Herpes simplex virus (HSV)-1 typically causes orolabial infections and has an estimated seroprevalence of 62%. Hepatic involvement during infections with HSV-1 and HSV-2 is rare. Neonates, malnourished children, pregnant women, and patients receiving immunosuppressive medications are particularly at risk. Less than 10 cases of fulminate hepatitis described in immunocompetent patients [Talwani et al. 2011]
 HSV hepatitis occurs as a so-called concomitant hepatitis in systemic HSV infection or HSV sepsis and is characterized by fulminant hepatic necrosis, with serum aminotransferase levels 100 to 1000 fold above normal [Riediger et al. 2009]. In one study, 24% were considered immunocompetent. The remaining patients were either pregnant (23%) or immunocompromised from a previous solid organ or hematopoietic cell transplantation (30%) or immunosuppressive agent (23%). The majority were first diagnosed after death on autopsy (57.6%) [Norvell et al. 2007].
@@ -44,19 +45,28 @@ Final Diagnosis
 Disseminated Herpes Simplex Virus-1 infection with fulminant HSV hepatitis.
 References
 Beersma MF, Verjans GM, Metselaar HJ, Osterhaus AD, Berrington WR, van Doornum GJ. (2011) Quantification of viral DNA and liver enzymes in plasma improves early diagnosis and management of herpes simplex virus hepatitis. J Viral Hepat. 2011 Apr;18(4):e160-6. doi: 10.1111/j.1365-2893.2010.01352.x. Epub 2010 Aug 12.
-PMID:20704650 ( PubMed abstract )
+PMID:20704650(PubMed abstract) Levett PN. (2001) Leptospirosis. Clin Microbiol Rev. 2001 Apr;14(2):296-326.
+PMID:11292640(PubMed abstract) Meythaler JM, Varma RR. (1987) Reye's syndrome in adults. Diagnostic considerations. Arch Intern Med. 1987 Jan;147(1):61-4.
+PMID:3800531(PubMed abstract) Norvell JP, Blei AT, Jovanovic BD, Levitsky J. (2007) Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34.
+PMID:17902129(PubMed abstract) Peters DJ, Greene WH, Ruggiero F, McGarrity TJ. (2000) Herpes simplex-induced fulminant hepatitis in adults: a call for empiric therapy. Dig Dis Sci. 2000 Dec;45(12):2399-404.
+PMID:11258565(PubMed abstract) Riediger C, Sauer P, Matevossian E, Müller MW, Büchler P, Friess H. (2009) Herpes simplex virus sepsis and acute liver failure. Clin Transplant. 2009 Dec;23 Suppl 21:37-41.
+PMID:19930315(PubMed abstract) Talwani R, Gilliam BL, Howell C. (2011) Infectious diseases and the liver. Clin Liver Dis. 2011 Feb;15(1):111-30.
+PMID:21111996(PubMed abstract) Walker DH, Chapter 187 Rickettsia rickettsii and Other Spotted Fever Group Rickettsiae (Rocky Mountain Spotted Fever and Other Spotted Fevers) Mandell, Douglas and Bennett's Principles and Practices of infectious disease, pp. 2499-2507, Seventh edition, 2010, Elsevier Churchill Livingstone. Wind L, van Herwaarden M, Sebens F, Gerding M. (2012) Severe hepatitis with coagulopathy due to HSV-1 in an immunocompetent man. Neth J Med. 2012 Jun;70(5):227-9.
+PMID:22744924(PubMed abstract)
+Beersma MF, Verjans GM, Metselaar HJ, Osterhaus AD, Berrington WR, van Doornum GJ. (2011) Quantification of viral DNA and liver enzymes in plasma improves early diagnosis and management of herpes simplex virus hepatitis. J Viral Hepat. 2011 Apr;18(4):e160-6. doi: 10.1111/j.1365-2893.2010.01352.x. Epub 2010 Aug 12.
+PMID:20704650(PubMed abstract)
 Levett PN. (2001) Leptospirosis. Clin Microbiol Rev. 2001 Apr;14(2):296-326.
-PMID:11292640 ( PubMed abstract )
+PMID:11292640(PubMed abstract)
 Meythaler JM, Varma RR. (1987) Reye's syndrome in adults. Diagnostic considerations. Arch Intern Med. 1987 Jan;147(1):61-4.
-PMID:3800531 ( PubMed abstract )
+PMID:3800531(PubMed abstract)
 Norvell JP, Blei AT, Jovanovic BD, Levitsky J. (2007) Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34.
-PMID:17902129 ( PubMed abstract )
+PMID:17902129(PubMed abstract)
 Peters DJ, Greene WH, Ruggiero F, McGarrity TJ. (2000) Herpes simplex-induced fulminant hepatitis in adults: a call for empiric therapy. Dig Dis Sci. 2000 Dec;45(12):2399-404.
-PMID:11258565 ( PubMed abstract )
+PMID:11258565(PubMed abstract)
 Riediger C, Sauer P, Matevossian E, Müller MW, Büchler P, Friess H. (2009) Herpes simplex virus sepsis and acute liver failure. Clin Transplant. 2009 Dec;23 Suppl 21:37-41.
-PMID:19930315 ( PubMed abstract )
+PMID:19930315(PubMed abstract)
 Talwani R, Gilliam BL, Howell C. (2011) Infectious diseases and the liver. Clin Liver Dis. 2011 Feb;15(1):111-30.
-PMID:21111996 ( PubMed abstract )
+PMID:21111996(PubMed abstract)
 Walker DH, Chapter 187 Rickettsia rickettsii and Other Spotted Fever Group Rickettsiae (Rocky Mountain Spotted Fever and Other Spotted Fevers) Mandell, Douglas and Bennett's Principles and Practices of infectious disease, pp. 2499-2507, Seventh edition, 2010, Elsevier Churchill Livingstone.
 Wind L, van Herwaarden M, Sebens F, Gerding M. (2012) Severe hepatitis with coagulopathy due to HSV-1 in an immunocompetent man. Neth J Med. 2012 Jun;70(5):227-9.
-PMID:22744924 ( PubMed abstract )
+PMID:22744924(PubMed abstract)

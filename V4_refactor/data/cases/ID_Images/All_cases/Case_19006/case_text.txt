@@ -10,10 +10,15 @@ She was born and raised in New England, USA and had not traveled elsewhere previ
 Physical Examination
 Temperature 97.8°F (37.1°C), blood pressure 128/82 mm Hg, pulse 81 beats per minute, and a respiratory rate of 18 per minute. She was a good historian, lucid, alert and fully oriented. She looked uncomfortable and had mild conjunctival injection. The posterior oropharynx was erythematous but without vesicles or ulcerations. Dermatological exam was notable for a generalized eruption consisting of discrete 1-2 mm blanching macules and papules on the palms, soles, trunk, and extremities coalescing into confluent patches on the face, ears, and neck (Figures 1-5). There was mild ear and facial edema, without targetoid lesions, no blistering, and no ulcerations. She did not complain of pruritus or skin tenderness. There was hyperpigmented scarring seen at site of prior zoster. The rest of the examination was normal.
 Figure 1. Figure 1: Photograph of her back
+Figure 1: Photograph of her back
 Figure 2. Figure 2: Photograph of her upper torso
+Figure 2: Photograph of her upper torso
 Figure 3. Figure 3: Photograph of her right upper extremity
+Figure 3: Photograph of her right upper extremity
 Figure 4. Figure 4: Photograph of her palms
+Figure 4: Photograph of her palms
 Figure 5. Figure 5: Photograph of her lower extremities
+Figure 5: Photograph of her lower extremities
 Studies
 Relevant laboratory findings included leukopenia with bandemia and thrombocytopenia; white blood cell count was 2,080/uL with 16% lymphocytes, 2% eosinophils, and 24% bands (reference range 4,400 – 11,300/uL) and platelets were 85 K/uL (reference range 150 – 450 K/uL). There was an increase in both aspartate aminotransferase and alanine aminotransferase, which were 91 IU/L (reference range 11 – 40 IU/L) and 155 IU/L (reference range 4 – 35 IU/L) respectively. C-reactive protein was 22.4 mg/L (reference range <5.0 mg/L). Other routine laboratory test results were normal. Chest x-ray showed no acute cardiopulmonary process.
 Diagnostic Procedure(s) and Result(s)
@@ -28,9 +33,13 @@ Final Diagnosis
 Measles infection
 References
 Goodson JL, Seward JF. Measles 50 Years After Use of Measles Vaccine. Infect Dis Clin North Am. 2015 Dec;29(4):725-43
-PMID:26610423 ( PubMed abstract )
+PMID:26610423(PubMed abstract) Centers for Disease Control and Prevention. Measles Cases and Outbreaks. https://www.cdc.gov/measles/cases-outbreaks.html Moss WJ. Measles. Lancet. 2017 Dec 2;390(10111):2490-2502
+PMID:28673424(PubMed abstract) Cherry JD, Zahn M. Clinical Characteristics of Measles in Previously Vaccinated and Unvaccinated Patients in California. Clin Infect Dis. 2018 Oct 15;67(9):1315-1319
+PMID:29878209(PubMed abstract)
+Goodson JL, Seward JF. Measles 50 Years After Use of Measles Vaccine. Infect Dis Clin North Am. 2015 Dec;29(4):725-43
+PMID:26610423(PubMed abstract)
 Centers for Disease Control and Prevention. Measles Cases and Outbreaks. https://www.cdc.gov/measles/cases-outbreaks.html
 Moss WJ. Measles. Lancet. 2017 Dec 2;390(10111):2490-2502
-PMID:28673424 ( PubMed abstract )
+PMID:28673424(PubMed abstract)
 Cherry JD, Zahn M. Clinical Characteristics of Measles in Previously Vaccinated and Unvaccinated Patients in California. Clin Infect Dis. 2018 Oct 15;67(9):1315-1319
-PMID:29878209 ( PubMed abstract )
+PMID:29878209(PubMed abstract)

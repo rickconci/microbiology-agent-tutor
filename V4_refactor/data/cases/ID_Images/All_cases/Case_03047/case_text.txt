@@ -10,7 +10,7 @@ The patient was afebrile. There was temporal wasting and findings consistent wit
 Studies
 The white blood cell count was 8,000 cells/mm³ (4.6% lymphocytes, 1.1% monocytes, and 94% neutrophils). Computed tomography (CT) of the head revealed multiple ring enhancing lesions. Blood cultures were unrevealing.
 Clinical Course Prior to Diagnosis
-Magnetic resonance imaging (MRI) of the brain revealed multiple ring enhancing lesions ( Figures 1 and 2 ) and entrapment of the right temporal horn.
+Magnetic resonance imaging (MRI) of the brain revealed multiple ring enhancing lesions (Figures 1 and 2) and entrapment of the right temporal horn.
 A lumbar puncture was performed; analysis of the cerebrospinal fluid (CSF) revealed total protein 162 mg/dL, glucose 56 mg/dL, and 5 white blood cells/mm³.
 Figure 1. MRI scan of the head.
 Figure 2. MRI scan of the head.
@@ -24,10 +24,15 @@ Final Diagnosis
 Cerebral toxoplasmosis in a patient with human immunodeficiency virus (HIV) and AIDS, and a history of hepatitis C virus infection.
 References
 Barratt, J.L., Harkness, J., Marriott, D., Ellis, J.T., and Stark, D. (2010). Importance of nonenteric protozoan infections in immunocompromised people. Clin Microbiol Rev 23, 795-836.
-PMID:20930074 ( PubMed abstract )
+PMID:20930074(PubMed abstract) Mamidi, A., DeSimone, J.A., and Pomerantz, R.J. (2002). Central nervous system infections in individuals with HIV-1 infection. J Neurovirol 8, 158-167.
+PMID:12053271(PubMed abstract) Offiah, C.E., and Turnbull, I.W. (2006). The imaging appearances of intracranial CNS infections in adult HIV and AIDS patients. Clin Radiol 61, 393-401.
+PMID:16679111(PubMed abstract) Pereira-Chioccola, V.L., Vidal, J.E., and Su, C. (2009). Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol 4, 1363-1379.
+PMID:19995194(PubMed abstract)
+Barratt, J.L., Harkness, J., Marriott, D., Ellis, J.T., and Stark, D. (2010). Importance of nonenteric protozoan infections in immunocompromised people. Clin Microbiol Rev 23, 795-836.
+PMID:20930074(PubMed abstract)
 Mamidi, A., DeSimone, J.A., and Pomerantz, R.J. (2002). Central nervous system infections in individuals with HIV-1 infection. J Neurovirol 8, 158-167.
-PMID:12053271 ( PubMed abstract )
+PMID:12053271(PubMed abstract)
 Offiah, C.E., and Turnbull, I.W. (2006). The imaging appearances of intracranial CNS infections in adult HIV and AIDS patients. Clin Radiol 61, 393-401.
-PMID:16679111 ( PubMed abstract )
+PMID:16679111(PubMed abstract)
 Pereira-Chioccola, V.L., Vidal, J.E., and Su, C. (2009). Toxoplasma gondii infection and cerebral toxoplasmosis in HIV-infected patients. Future Microbiol 4, 1363-1379.
-PMID:19995194 ( PubMed abstract )
+PMID:19995194(PubMed abstract)

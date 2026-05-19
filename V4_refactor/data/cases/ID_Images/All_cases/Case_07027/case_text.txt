@@ -8,28 +8,31 @@ The patient was raised on a farm in East Africa and then moved to an urban area.
 Physical Examination
 The weight was 47.3 kilograms (104 pounds) and the temperature was normal. No cervical, axillary, or inguinal lymph nodes were palpable. The thyroid gland was enlarged, non-tender with a 2-centimeter nodule in the left lobe, which was a chronic and stable finding. The abdomen was not tender and there was no hepatosplenomegaly. There was a healed surgical scar on the inferior, outer quadrant of left breast, and the remainder of the examination was normal.
 Studies
-The white cell count was 4500 cells/mm³, with 4% eosinophils. Serum levels of liver enzymes and bilirubin were normal. Thyroid studies were within normal limits. Testing for antibodies to human immunodeficiency virus, types 1 and 2 (HIV-1 and -2, by ELISA) was negative. Computed tomography (CT) of the abdomen is shown in Figure 1, with arrows , and revealed subcapsular enhancement of the liver ( A ) and a dilated common bile duct ( B ).
+The white cell count was 4500 cells/mm³, with 4% eosinophils. Serum levels of liver enzymes and bilirubin were normal. Thyroid studies were within normal limits. Testing for antibodies to human immunodeficiency virus, types 1 and 2 (HIV-1 and -2, by ELISA) was negative. Computed tomography (CT) of the abdomen is shown in Figure 1, with arrows, and revealed subcapsular enhancement of the liver (A) and a dilated common bile duct (B).
 Figure 1. CT of the abdomen.
 Clinical Course Prior to Diagnosis
-Finding on endoscopic retrograde cholangiopancreatography (ERCP) are shown ( Figures 2 and 3 ).
+Finding on endoscopic retrograde cholangiopancreatography (ERCP) are shown (Figures 2 and 3).
 Figure 2. ERCP findings.
 Figure 3. ERCP findings.
 Diagnostic Procedure(s) and Result(s)
-ERCP showed a live liver fluke of Fasciola hepatica . The examination of stool did not reveal Fasciola eggs.
-Video 1. ERCP findings.
+ERCP showed a live liver fluke of Fasciola hepatica. The examination of stool did not reveal Fasciola eggs.
 Treatment and Followup
 Nitazoxanide (500 mg) was administered twice daily for seven days. The patient’s symptoms resolved and there was no evidence of eggs on follow-up stool microscopy.
 Discussion
 Fasciola hepatica is a trematode flatworm, and the hermaphroditic adult fluke is brown, leaf-shaped, and measures approximately 3 x 1.5 centimeters. Transmission is usually through ingestion of fresh water plants (such as water cress) containing infectious metacercariae. Following ingestion, immature stages of the parasite penetrate the intestinal wall, migrate through the peritoneal cavity, and penetrate through the hepatic capsule. The immature parasites then migrate through hepatic parenchyma until they reach the biliary tracts where they mature and begin to lay eggs that are passed through the bile into the feces to be expelled from the body. The parasite then completes its lifecycle in specific snail intermediate hosts. During the hepatic migratory phase, patients are often symptomatic with right upper quadrant pain, nausea, vomiting, and anorexia, and peripheral eosinophilia may be prominent. Imaging studies often disclose migratory "tracts" within hepatic parenchyma. Once the parasites reach the biliary tracts, symptoms usually resolve, and patients may be relatively asymptomatic for years. Fascioliasis is global in distribution.
 At the time of this publication, standard treatment is with triclabendazole or bithionol, neither of which is commercially available in the United States. In a single study, administration of nitazoxanide was also associated with clearance of eggs from stool in 40% of children and 60% of adults with fascioliasis.
 Final Diagnosis
-Fasciola hepatica .
+Fasciola hepatica.
 References
+Centers for Disease Control and Prevention (CDC) website: www.dpd.cdc.gov/DPDx/HTML/Fascioliasis.htm Favennec, L., Jave Ortiz, J., Gargala, G., Lopez Chegne, N., Ayoub, A., and Rossignol, J.F. (2003). Double-blind, randomized, placebo-controlled study of nitazoxanide in the treatment of fascioliasis in adults and children from northern Peru. Aliment Pharmacol Ther 17, 265-270.
+PMID:12534412(PubMed abstract) Graham, C.S., Brodie, S.B., and Weller, P.F. (2001). Imported Fasciola hepatica infection in the United States and treatment with triclabendazole. Clin Infect Dis 33, 1-5.
+PMID:11389487(PubMed abstract) Mandell, Bennett, & Dolin: Principles and Practice of Infectious Diseases, 6th ed., 2005. Elsevier Churchill Livingstone Stauffer, W.M., Sellman, J.S., and Walker, P.F. (2004). Biliary liver flukes (Opisthorchiasis and Clonorchiasis) in immigrants in the United States: often subtle and diagnosed years after arrival. J Travel Med 11, 157-159.
+PMID:15710057(PubMed abstract)
 Centers for Disease Control and Prevention (CDC) website: www.dpd.cdc.gov/DPDx/HTML/Fascioliasis.htm
 Favennec, L., Jave Ortiz, J., Gargala, G., Lopez Chegne, N., Ayoub, A., and Rossignol, J.F. (2003). Double-blind, randomized, placebo-controlled study of nitazoxanide in the treatment of fascioliasis in adults and children from northern Peru. Aliment Pharmacol Ther 17, 265-270.
-PMID:12534412 ( PubMed abstract )
+PMID:12534412(PubMed abstract)
 Graham, C.S., Brodie, S.B., and Weller, P.F. (2001). Imported Fasciola hepatica infection in the United States and treatment with triclabendazole. Clin Infect Dis 33, 1-5.
-PMID:11389487 ( PubMed abstract )
+PMID:11389487(PubMed abstract)
 Mandell, Bennett, & Dolin: Principles and Practice of Infectious Diseases, 6th ed., 2005. Elsevier Churchill Livingstone
 Stauffer, W.M., Sellman, J.S., and Walker, P.F. (2004). Biliary liver flukes (Opisthorchiasis and Clonorchiasis) in immigrants in the United States: often subtle and diagnosed years after arrival. J Travel Med 11, 157-159.
-PMID:15710057 ( PubMed abstract )
+PMID:15710057(PubMed abstract)

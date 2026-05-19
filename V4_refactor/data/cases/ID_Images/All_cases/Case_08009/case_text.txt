@@ -10,7 +10,7 @@ She worked in a healthcare setting, and had no pets or known sick contacts. She 
 Physical Examination
 The patient appeared fatigued and uncomfortable. The temperature was 96.6°F (35.9°C), blood pressure 133/77 mm Hg, pulse 96 beats per minute, and respirations 20 breaths per minute, with an oxygen saturation of 97% while breathing ambient air. There were numerous discrete, tender, erythematous macules, less than 1 centimeter in diameter with a 1-to-3 millimeter pustular center, on the face, scalp, chest, back, inner thighs, and arms, and one lesion on her palm. The physical examination was otherwise normal.
 Studies
-The white blood cell count was 6,300 cells/mm³, with 35% neutrophils, 35% lymphocytes, 21% atypical lymphocytes, 6% monocytes, 2% eosinophils, and 1% basophils. A Wright stain of the blood smear is shown in Figures 1 and 2 . The remainder of the complete blood count analysis, and levels of electrolytes and renal function, were normal. Additional tests were pending.
+The white blood cell count was 6,300 cells/mm³, with 35% neutrophils, 35% lymphocytes, 21% atypical lymphocytes, 6% monocytes, 2% eosinophils, and 1% basophils. A Wright stain of the blood smear is shown in Figures 1 and 2. The remainder of the complete blood count analysis, and levels of electrolytes and renal function, were normal. Additional tests were pending.
 Figure 1. Blood smear, on admission. (Image courtesy of Bernard Khor, MD, used with permission.)
 Figure 2. Blood smear. (Image courtesy of Bernard Khor, MD, used with permission.)
 Clinical Course Prior to Diagnosis
@@ -18,11 +18,11 @@ The patient was discharged to home to await the remaining test results, with fur
 She felt worse the following day, with increasing headache and skin lesions. On examination, the temperature was normal; the neck was supple, and examination of the skin revealed approximately 30 pustules on an erythematous base. The remainder of the examination was unchanged from the previous day. She was admitted to the hospital.
 Additional test results included an alkaline phosphatase of 154 U/L (reference range 30-100 U/L), aspartate aminotransferase 42 U/L (reference range 9-32 U/L), alanine aminotransferase 47 U/L (reference range 7-30 U/L), and total bilirubin 0.3 mg/dl.
 A lumbar puncture was performed, and analysis of the cerebrospinal fluid showed no white blood cells and normal levels of glucose and protein. A chest radiograph and computed tomography of the brain were also normal. An ultrasound of the abdomen showed diffuse fatty infiltration of the liver and the spleen size was normal. The patient was seen by the dermatology service and a skin biopsy was performed.
-Acyclovir was administered empirically. Over the next two days, some lesions evolved to become crusted with a central eschar ( Figures 3 and 4 ).
+Acyclovir was administered empirically. Over the next two days, some lesions evolved to become crusted with a central eschar (Figures 3 and 4).
 Figure 3. Physical findings on day 3.
 Figure 4. Physical findings on day 3.
 Diagnostic Procedure(s) and Result(s)
-After the initial history of chickenpox in childhood was elicited, the patient’s mother was contacted and reported that the patient had not had the disease. The varicella immunoglobulin (Ig) G antibody test was negative. Bacterial, fungal, mycobacterial, and viral cultures of the skin biopsy were negative. A direct fluorescent antibody stain of the tissue showed the presence of varicella zoster virus (VZV) antigens ( Figure 5 ).
+After the initial history of chickenpox in childhood was elicited, the patient’s mother was contacted and reported that the patient had not had the disease. The varicella immunoglobulin (Ig) G antibody test was negative. Bacterial, fungal, mycobacterial, and viral cultures of the skin biopsy were negative. A direct fluorescent antibody stain of the tissue showed the presence of varicella zoster virus (VZV) antigens (Figure 5).
 Additional testing for heterophile antibodies, blood cytomegalovirus (CMV) antigenemia and immunoglobin G antibodies, rapid plasma reagin (RPR) for syphilis, Lyme antibodies, and human immunodeficiency virus (HIV) antibody and ribonucleic acid (RNA) was negative. Epstein Barr virus (EBV) antibody titers were positive, and consistent with past infection, and IgG antibodies to rubella and measles were also positive. Cultures of the blood, urine, throat, and cerebrospinal fluid were sterile, and VZV was not detected in the CSF by polymerase chain reaction (PCR) testing.
 Figure 5. Fluorescent stain of skin specimen for VZV antigen.
 Treatment and Followup
@@ -37,11 +37,16 @@ Final Diagnosis
 Primary varicella zoster virus infection (chickenpox) in an adult.
 References
 Heininger, U., and Seward, J.F. (2006). Varicella. Lancet 368, 1365-1376
-PMID:17046469 ( PubMed abstract )
+PMID:17046469(PubMed abstract) Marin, M., Watson, T.L., Chaves, S.S., Civen, R., Watson, B.M., Zhang, J.X., Perella, D., Mascola, L., and Seward, J.F. (2008). Varicella among adults: data from an active surveillance project, 1995-2005. J Infect Dis 197 Suppl 2, S94-S100.
+PMID:18419417(PubMed abstract) Oxman, M.N., Levin, M.J., Johnson, G.R., Schmader, K.E., Straus, S.E., Gelb, L.D., Arbeit, R.D., Simberkoff, M.S., Gershon, A.A., Davis, L.E., Weinberg, A., Boardman, K.D., Williams, H.M., Zhang, J.H., Peduzzi, P.N., Beisel, C.E., Morrison, V.A., Guatelli, J.C., Brooks, P.A., Kauffman, C.A., Pachucki, C.T., Neuzil, K.M., Betts, R.F., Wright, P.F., Griffin, M.R., Brunell, P., Soto, N.E., Marques, A.R., Keay, S.K., Goodman, R.P., Cotton, D.J., Gnann, J.W., Jr., Loutit, J., Holodniy, M., Keitel, W.A., Crawford, G.E., Yeh, S.S., Lobo, Z., Toney, J.F., Greenberg, R.N., Keller, P.M., Harbecke, R., Hayward, A.R., Irwin, M.R., Kyriakides, T.C., Chan, C.Y., Chan, I.S., Wang, W.W., Annunziato, P.W., and Silber, J.L. (2005). A vaccine to prevent herpes zoster and postherpetic neuralgia in older adults. N Engl J Med 352, 2271-2284.
+PMID:15930418(PubMed abstract) Rozenberg, G. Microscopic haematology: A practical guide for the haematology laboratory. New York: Taylor & Francis, 2002; 100-101. Straus, S.E., Ostrove, J.M., Inchauspe, G., Felser, J.M., Freifeld, A., Croen, K.D., and Sawyer, M.H. (1988). NIH conference. Varicella-zoster virus infections. Biology, natural history, treatment, and prevention. Ann Intern Med 108, 221-237
+PMID:2829675(PubMed abstract)
+Heininger, U., and Seward, J.F. (2006). Varicella. Lancet 368, 1365-1376
+PMID:17046469(PubMed abstract)
 Marin, M., Watson, T.L., Chaves, S.S., Civen, R., Watson, B.M., Zhang, J.X., Perella, D., Mascola, L., and Seward, J.F. (2008). Varicella among adults: data from an active surveillance project, 1995-2005. J Infect Dis 197 Suppl 2, S94-S100.
-PMID:18419417 ( PubMed abstract )
+PMID:18419417(PubMed abstract)
 Oxman, M.N., Levin, M.J., Johnson, G.R., Schmader, K.E., Straus, S.E., Gelb, L.D., Arbeit, R.D., Simberkoff, M.S., Gershon, A.A., Davis, L.E., Weinberg, A., Boardman, K.D., Williams, H.M., Zhang, J.H., Peduzzi, P.N., Beisel, C.E., Morrison, V.A., Guatelli, J.C., Brooks, P.A., Kauffman, C.A., Pachucki, C.T., Neuzil, K.M., Betts, R.F., Wright, P.F., Griffin, M.R., Brunell, P., Soto, N.E., Marques, A.R., Keay, S.K., Goodman, R.P., Cotton, D.J., Gnann, J.W., Jr., Loutit, J., Holodniy, M., Keitel, W.A., Crawford, G.E., Yeh, S.S., Lobo, Z., Toney, J.F., Greenberg, R.N., Keller, P.M., Harbecke, R., Hayward, A.R., Irwin, M.R., Kyriakides, T.C., Chan, C.Y., Chan, I.S., Wang, W.W., Annunziato, P.W., and Silber, J.L. (2005). A vaccine to prevent herpes zoster and postherpetic neuralgia in older adults. N Engl J Med 352, 2271-2284.
-PMID:15930418 ( PubMed abstract )
+PMID:15930418(PubMed abstract)
 Rozenberg, G. Microscopic haematology: A practical guide for the haematology laboratory. New York: Taylor & Francis, 2002; 100-101.
 Straus, S.E., Ostrove, J.M., Inchauspe, G., Felser, J.M., Freifeld, A., Croen, K.D., and Sawyer, M.H. (1988). NIH conference. Varicella-zoster virus infections. Biology, natural history, treatment, and prevention. Ann Intern Med 108, 221-237
-PMID:2829675 ( PubMed abstract )
+PMID:2829675(PubMed abstract)

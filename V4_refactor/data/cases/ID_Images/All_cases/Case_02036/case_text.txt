@@ -1,17 +1,17 @@
 History of Present Illness
 Summary: A man with fever and bullae on his skin.
-A man in his fifties was admitted with nephrolithiasis and urosepsis from Escherichia coli . In the hospital, he developed acute respiratory distress syndrome (ARDS), requiring prolonged ventilatory support and a tracheostomy.
+A man in his fifties was admitted with nephrolithiasis and urosepsis from Escherichia coli. In the hospital, he developed acute respiratory distress syndrome (ARDS), requiring prolonged ventilatory support and a tracheostomy.
 Four weeks into his hospitalization, he developed fevers, respiratory distress, and left lower lobe pneumonia by chest radiograph, and methicillin-resistant Staphylococcus aureus grew on sputum culture. He was treated with vancomycin, with gradual improvement. Nine days into his course of vancomycin, fever recurred, with no clear source. The next day, he developed a rash.
 Medications
 Medications included vancomycin.
 Physical Examination
-The temperature was 103.2°F (39.6°C) and the heart rate 84 beats/minute. The skin examination revealed erythematous areas primarily in both axillae, the middle of the back, and the left thigh. On the erythematous base, there were tight bullae, which expressed yellow, serous, nonpurulent fluid when opened. The remainder of the examination was normal. (See Figures 1 and 2 .)
+The temperature was 103.2°F (39.6°C) and the heart rate 84 beats/minute. The skin examination revealed erythematous areas primarily in both axillae, the middle of the back, and the left thigh. On the erythematous base, there were tight bullae, which expressed yellow, serous, nonpurulent fluid when opened. The remainder of the examination was normal. (See Figures 1 and 2.)
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Studies
 The white cell count (WBC) was 15,700 cells/mm³ (84% neutrophils, 9% lymphocytes, 3% monocytes, and 3% eosinophils), and the hematocrit 28.6%. Cultures, including for gonorrhea, of the bullous fluid were negative.
 Diagnostic Procedure(s) and Result(s)
-The diagnosis was established by a skin biopsy. The hematoxylin and eosin (H and E) stain showed an inflammatory rich infiltrate at the dermal-epidermal junction with numerous neutrophils ( Figure 3 ). Immuno-fluorescent stain for immunoglobulin (Ig) A showed IgA deposition on the basement membrane at the dermal-epidermal junction ( Figure 4 ).
+The diagnosis was established by a skin biopsy. The hematoxylin and eosin (H and E) stain showed an inflammatory rich infiltrate at the dermal-epidermal junction with numerous neutrophils (Figure 3). Immuno-fluorescent stain for immunoglobulin (Ig) A showed IgA deposition on the basement membrane at the dermal-epidermal junction (Figure 4).
 Figure 3. Biopsy results.
 Figure 4. Immunofluorescent stain.
 Treatment and Followup
@@ -23,6 +23,9 @@ Final Diagnosis
 Linear IgA bullous dermatosis from vancomycin.
 References
 Carpenter, S., Berg, D., Sidhu-Malik, N., Hall, R.P., 3rd, and Rico, M.J. (1992). Vancomycin-associated linear IgA dermatosis. A report of three cases. J Am Acad Dermatol 26, 45-48.
-PMID:1531056 ( PubMed abstract )
+PMID:1531056(PubMed abstract) Neughebauer, B.I., Negron, G., Pelton, S., Plunkett, R.W., Beutner, E.H., and Magnussen, R. (2002). Bullous skin disease: an unusual allergic reaction to vancomycin. Am J Med Sci 323, 273-278.
+PMID:12018672(PubMed abstract)
+Carpenter, S., Berg, D., Sidhu-Malik, N., Hall, R.P., 3rd, and Rico, M.J. (1992). Vancomycin-associated linear IgA dermatosis. A report of three cases. J Am Acad Dermatol 26, 45-48.
+PMID:1531056(PubMed abstract)
 Neughebauer, B.I., Negron, G., Pelton, S., Plunkett, R.W., Beutner, E.H., and Magnussen, R. (2002). Bullous skin disease: an unusual allergic reaction to vancomycin. Am J Med Sci 323, 273-278.
-PMID:12018672 ( PubMed abstract )
+PMID:12018672(PubMed abstract)

@@ -6,7 +6,7 @@ Naproxen.
 Epidemiological History
 The patient lived in a shelter.
 Physical Examination
-The patient appeared well. The vital signs were normal. The lower extremities had several ulcers with surrounding erythema and superficial exudates; some had central eschar. The neurologic and vascular examinations were normal.
+The patient appeared well. The vital signs were normal. The lower extremities had several ulcers with surrounding erythema and superficial exudates; some had central eschar. The neurologic and vascular examinations were normal. Figure 1. Physical finding.
 Figure 1. Physical finding.
 Studies
 The complete blood count (CBC) including the white blood cell differential was within normal limits. Liver function tests were normal. Tests for human immunodeficiency virus (HIV), Hepatitis B virus or Hepatitis C virus infections were negative, and testing for autoimmune diseases was normal.
@@ -22,4 +22,4 @@ Final Diagnosis
 Pyoderma gangrenosum.
 References
 Miller, J., Yentzer, B.A., Clark, A., Jorizzo, J.L., and Feldman, S.R. (2010). Pyoderma gangrenosum: a review and update on new therapies. J Am Acad Dermatol 62, 646-654.
-PMID:20227580 ( PubMed abstract )
+PMID:20227580(PubMed abstract)

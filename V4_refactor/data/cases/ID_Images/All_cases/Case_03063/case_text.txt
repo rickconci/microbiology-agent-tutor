@@ -7,11 +7,11 @@ She was status post carpal tunnel release.
 Epidemiological History
 She was born and raised in India.
 Physical Examination
-Examination of the skin revealed two very large hypopigmented and anesthetic lesions on her back and left deltoid area ( Figures 1 and 2 ), and a polyneuropathy noted earlier.
+Examination of the skin revealed two very large hypopigmented and anesthetic lesions on her back and left deltoid area (Figures 1 and 2), and a polyneuropathy noted earlier.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Diagnostic Procedure(s) and Result(s)
-A sural nerve biopsy was performed. Gram stain revealed few polymorphonuclear cells and no organisims. The bacterial and fungal cultures were negative. Acid-fast bacilli (AFB) smear was positive ( Figure 3 ). AFB culture was negative.
+A sural nerve biopsy was performed. Gram stain revealed few polymorphonuclear cells and no organisims. The bacterial and fungal cultures were negative. Acid-fast bacilli (AFB) smear was positive (Figure 3). AFB culture was negative.
 The pathologic specimens of the sural nerve sheath were diagnostic of lepromatous leprosy.
 Figure 3. Acid-fast stain of biopsy.
 Treatment and Followup
@@ -26,8 +26,12 @@ Final Diagnosis
 Lepromatous leprosy due to Mycobacterium leprae infection.
 References
 Bhatia, A.S., Katoch, K., Narayanan, R.B., Ramu, G., Mukherjee, A., and Lavania, R.K. (1993). Clinical and histopathological correlation in the classification of leprosy. Int J Lepr Other Mycobact Dis 61, 433-438.
-PMID:8228443 ( PubMed abstract )
+PMID:8228443(PubMed abstract) Lockwood, D. (2007). Leprosy. Clin Evid (Online) 2007.
+PMID:19454067(PubMed abstract) Rao, P.N., Pratap, D., Ramana Reddy, A.V., and Sujai, S. (2006). Evaluation of leprosy patients with 1 to 5 skin lesions with relevance to their grouping into paucibacillary or multibacillary disease. Indian J Dermatol Venereol Leprol 72, 207-210.
+PMID:16766835(PubMed abstract)
+Bhatia, A.S., Katoch, K., Narayanan, R.B., Ramu, G., Mukherjee, A., and Lavania, R.K. (1993). Clinical and histopathological correlation in the classification of leprosy. Int J Lepr Other Mycobact Dis 61, 433-438.
+PMID:8228443(PubMed abstract)
 Lockwood, D. (2007). Leprosy. Clin Evid (Online) 2007.
-PMID:19454067 ( PubMed abstract )
+PMID:19454067(PubMed abstract)
 Rao, P.N., Pratap, D., Ramana Reddy, A.V., and Sujai, S. (2006). Evaluation of leprosy patients with 1 to 5 skin lesions with relevance to their grouping into paucibacillary or multibacillary disease. Indian J Dermatol Venereol Leprol 72, 207-210.
-PMID:16766835 ( PubMed abstract )
+PMID:16766835(PubMed abstract)

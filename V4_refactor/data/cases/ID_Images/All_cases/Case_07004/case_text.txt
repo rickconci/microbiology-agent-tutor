@@ -16,10 +16,10 @@ The physical examination was normal. Rectal exam was refused.
 Studies
 The hematocrit was 14.4%, mean corpuscular volume of 84.4 um³, reticulocyte count of 0.3%, and red cell distribution width of 13.4. The CD4 T-lymphocyte cell count was 33 cells/mm³. The white cell count was 2,190 cells/mm³ (64% polymorphonuclear leukocytes, 4% bands, 14% lymphocytes, 4% atypical lymphocytes, 10% monocytes, and 4% eosinophils), and platelets 439,000/mm³. The iron level was 160 ug/dL (reference range 40-159 ug/dL), increased from 11 ug/dL one year before; transferrin 135 ug/dL (150-450 ug/dL) and ferritin 531 ug/dL (10-345 ug/dL). The serum levels of lactate dehydrogenase (LDH), folate and vitamin B-12 were normal, and haptoglobin was elevated. Erythropoietin was 2,185 mU/mL (4.1 – 19.5 mU/mL). Urine histoplasma antigen was negative.
 Clinical Course Prior to Diagnosis
-The patient was transfused and later left the hospital against medical advice, without completion of his evaluation. He was lost to follow-up for approximately 18 months, when he presented again to the emergency room with shortness of breath. The hematocrit was 10.8%. He was re-admitted and blood was transfused. A bone marrow biopsy was performed; hematoxylin and eosin (H and E) staining of the biopsy is shown in Figure 1 .
+The patient was transfused and later left the hospital against medical advice, without completion of his evaluation. He was lost to follow-up for approximately 18 months, when he presented again to the emergency room with shortness of breath. The hematocrit was 10.8%. He was re-admitted and blood was transfused. A bone marrow biopsy was performed; hematoxylin and eosin (H and E) staining of the biopsy is shown in Figure 1.
 Figure 1. H and E stain of a bone marrow biopsy.
 Diagnostic Procedure(s) and Result(s)
-A bone marrow biopsy revealed numerous immature erythroid forms with viral nuclear inclusions ( Figure 2 ). Maturing erythroid elements were moderately to markedly decreased. Myeloid elements, including interstitial and perivascular plasma cells and megakaryocytes were increased. Multiple non-paratrabecular lymphoplasmacytic aggregates comprised approximately 20% of the marrow cellularity and about 15% of the intertrabecular space. Hemosiderin was present. Erythroid elements and bare nuclei with intranuclear inclusions were present, consistent with parvovirus infection. No micro-organisms were seen on pathological examination of the specimens with special stains, including acid fast and silver stains.
+A bone marrow biopsy revealed numerous immature erythroid forms with viral nuclear inclusions (Figure 2). Maturing erythroid elements were moderately to markedly decreased. Myeloid elements, including interstitial and perivascular plasma cells and megakaryocytes were increased. Multiple non-paratrabecular lymphoplasmacytic aggregates comprised approximately 20% of the marrow cellularity and about 15% of the intertrabecular space. Hemosiderin was present. Erythroid elements and bare nuclei with intranuclear inclusions were present, consistent with parvovirus infection. No micro-organisms were seen on pathological examination of the specimens with special stains, including acid fast and silver stains.
 Serum polymerase chain reaction (PCR) testing for parvovirus B19 DNA was positive, and parvovirus immunoglobulin (Ig) M and IgG antibodies were negative.
 Figure 2. H and E stain of marrow, showing viral inclusion bodies (arrows).
 Treatment and Followup
@@ -35,8 +35,12 @@ Final Diagnosis
 Chronic parvovirus B19 infection in a patient with HIV infection and AIDS.
 References
 Anderson, M.J., Higgins, P.G., Davis, L.R., Willman, J.S., Jones, S.E., Kidd, I.M., Pattison, J.R., and Tyrrell, D.A. (1985). Experimental parvoviral infection in humans. J Infect Dis 152, 257-265.
-PMID:2993431 ( PubMed abstract )
+PMID:2993431(PubMed abstract) Borkowski, J., Amrikachi, M., and Hudnall, S.D. (2000). Fulminant parvovirus infection following erythropoietin treatment in a patient with acquired immunodeficiency syndrome. Arch Pathol Lab Med 124, 441-445.
+PMID:10705404(PubMed abstract) Crook, T.W., Rogers, B.B., McFarland, R.D., Kroft, S.H., Muretto, P., Hernandez, J.A., Latimer, M.J., and McKenna, R.W. (2000). Unusual bone marrow manifestations of parvovirus B19 infection in immunocompromised patients. Hum Pathol 31, 161-168.
+PMID:10685629(PubMed abstract)
+Anderson, M.J., Higgins, P.G., Davis, L.R., Willman, J.S., Jones, S.E., Kidd, I.M., Pattison, J.R., and Tyrrell, D.A. (1985). Experimental parvoviral infection in humans. J Infect Dis 152, 257-265.
+PMID:2993431(PubMed abstract)
 Borkowski, J., Amrikachi, M., and Hudnall, S.D. (2000). Fulminant parvovirus infection following erythropoietin treatment in a patient with acquired immunodeficiency syndrome. Arch Pathol Lab Med 124, 441-445.
-PMID:10705404 ( PubMed abstract )
+PMID:10705404(PubMed abstract)
 Crook, T.W., Rogers, B.B., McFarland, R.D., Kroft, S.H., Muretto, P., Hernandez, J.A., Latimer, M.J., and McKenna, R.W. (2000). Unusual bone marrow manifestations of parvovirus B19 infection in immunocompromised patients. Hum Pathol 31, 161-168.
-PMID:10685629 ( PubMed abstract )
+PMID:10685629(PubMed abstract)

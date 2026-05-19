@@ -18,13 +18,13 @@ Studies
 The white blood cell count was 10,300 cells/mm³, hematocrit 26% and platelets 282,000/mm³. The electrocardiogram showed sinus rhythm with poor R-wave progression and a P-R interval of 122 milliseconds. Chest radiography revealed vascular cephalization and bilateral bronchial opacities. Lower extremity non-invasive studies were negative for deep venous thrombosis.
 Clinical Course Prior to Diagnosis
 Diuretics were administered and blood cultures drawn. Vancomycin and gentamicin were administered empirically. On the second hospital day, a cesarean section was performed and the infant delivered without complications.
-On the fourth hospital day, an echocardiogram performed. (See Figures 1, 2, and 3. )
+On the fourth hospital day, an echocardiogram performed. (See Figures 1, 2, and 3.)
 Video 1. Echocardiography of aortic valve.
 Figure 1. Echocardiography of aortic valve.
 Figure 2. Doppler flow study across aortic valve.
 Figure 3. Echocardiography.
 Diagnostic Procedure(s) and Result(s)
-Four sets of blood cultures grew coagulase-negative Staphylococcus epidermidis . The organism was resistant to penicillin, erythromycin and ampicillin, and sensitive to the other agents routinely tested including oxacillin, gentamicin, vancomycin and rifampin. Echocardiography revealed the following: Figures 1 and 4 show a view of the aortic valve with a prominent elongated mobile echo density consistent with a vegetation prolapsing into the left ventricular outflow tract. This appears to be attached to the noncoronary leaflet and measures 1.9 x 0.4 centimeters in orthogonal dimensions.
+Four sets of blood cultures grew coagulase-negative Staphylococcus epidermidis. The organism was resistant to penicillin, erythromycin and ampicillin, and sensitive to the other agents routinely tested including oxacillin, gentamicin, vancomycin and rifampin. Echocardiography revealed the following: Figures 1 and 4 show a view of the aortic valve with a prominent elongated mobile echo density consistent with a vegetation prolapsing into the left ventricular outflow tract. This appears to be attached to the noncoronary leaflet and measures 1.9 x 0.4 centimeters in orthogonal dimensions.
 Figures 2 and 5 show a Doppler image showing moderate aortic insufficiency with an eccentric anteroseptally directed jet (no systolic flow reversal is documented in the descending aorta).
 Figures 3 and 6 reveal the trileaflet aortic valve with an echo density consistent with a vegetation measuring 0.5 cm at the leaflet base in the cross-sectional diameter.
 Figure 4. Aortic valve lesion by echocardiography.
@@ -45,6 +45,9 @@ Final Diagnosis
 Endocarditis caused by coagulase-negative Staphylococcus epidermidis infection.
 References
 Ameen, M., Talhari, C., and Talhari, S. (2010). Advances in paracoccidioidomycosis. Clin Exp Dermatol 35, 576-580.
-PMID:19874328 ( PubMed abstract )
+PMID:19874328(PubMed abstract) Brazao-Silva, M.T., Andrade, M.F., Franco, T., Ribeiro, R.I., Silva Wdos, S., Faria, G., Faria, P.R., Cardoso, S.V., and Loyola, A.M. (2011). Paracoccidioidomycosis: a series of 66 patients with oral lesions from an endemic area. Mycoses 54, e189-195.
+PMID:20406390(PubMed abstract)
+Ameen, M., Talhari, C., and Talhari, S. (2010). Advances in paracoccidioidomycosis. Clin Exp Dermatol 35, 576-580.
+PMID:19874328(PubMed abstract)
 Brazao-Silva, M.T., Andrade, M.F., Franco, T., Ribeiro, R.I., Silva Wdos, S., Faria, G., Faria, P.R., Cardoso, S.V., and Loyola, A.M. (2011). Paracoccidioidomycosis: a series of 66 patients with oral lesions from an endemic area. Mycoses 54, e189-195.
-PMID:20406390 ( PubMed abstract )
+PMID:20406390(PubMed abstract)

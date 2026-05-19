@@ -6,11 +6,11 @@ As above, there was a history of acute myelogenous leukemia (AML) and bone marro
 Medications
 The patient had recently received vancomycin and meropenem.
 Physical Examination
-The patient appeared uncomfortable, with temperatures to 101°F (38.3°C). There was a diffuse blistering skin eruption, which involved the mucous membranes of his mouth and genital region, and conjunctival injection was present.
+The patient appeared uncomfortable, with temperatures to 101°F (38.3°C). There was a diffuse blistering skin eruption, which involved the mucous membranes of his mouth and genital region, and conjunctival injection was present. Figure 1. Physical finding. Figure 2. Physical finding.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Clinical Course Prior to Diagnosis
-The patient’s skin lesions progressed to involve approximately 80% of his body surface area ( Figures 1 and 2 ).
+The patient’s skin lesions progressed to involve approximately 80% of his body surface area (Figures 1 and 2).
 Diagnostic Procedure(s) and Result(s)
 Skin biopsy revealed full thickness epidermal necrosis and subepidermal vesicle formation consistent with toxic epidermal necrolysis (TEN).
 Treatment and Followup
@@ -22,4 +22,4 @@ Final Diagnosis
 Toxic epidermal necrolysis (TEN).
 References
 Gerull, R., Nelle, M., and Schaible, T. (2011). Toxic epidermal necrolysis and Stevens-Johnson syndrome: a review. Crit Care Med 39, 1521-1532.
-PMID:21358399 ( PubMed abstract )
+PMID:21358399(PubMed abstract)

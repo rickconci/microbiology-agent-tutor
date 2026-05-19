@@ -15,7 +15,7 @@ He was non-toxic appearing, flushed, and supplemental oxygen was being delivered
 Studies
 A basic metabolic panel noted normal renal function. Total bilirubin was 1.5 mg/dL (reference range 0.0-1.0), with a direct component of 1.1 mg/dL (reference range 0.0-0.4). Aspartate transaminase and alanine transaminase were 235 U/L (reference range 10-40) and 346 U/L (reference range 10-55), respectively. The alkaline phosphatase was 250 U/L (reference range 45-115). Complete blood count with differential identified hemoglobin 12.9 g/dL (reference range for men 13.5-17.5 g/dL), platelets 130,000/mcL (reference range 150-400 x 10 3 /mcL), and white blood cells 6790/mcL (reference range 4.5-11 x 10 3 /mcL) with 17% atypical lymphocytes (reference range 0%). The N-terminal pro-hormone brain natriuretic peptide was 868 pg/mL (reference range 0-900 pg/mL). A chest radiograph identified pulmonary interstitial edema. Computed tomography scans of the neck and face were performed with intravenous contrast and identified prominent palatine tonsils with a right-sided 6 mm low-attenuation region in addition to several enlarged cervical lymph nodes. Computed tomography scans of the chest, abdomen, and pelvis were also performed with intravenous contrast and identified multifocal groundglass and consolidative opacities within both lungs, small volume bilateral pleural effusions, and mediastinal and bilateral axillary lymphadenopathy. No hepatosplenomegaly was noted. A respiratory pathogen polymerase chain reaction panel was negative, as was polymerase chain reaction-based testing for SARS-CoV-2. A respiratory sputum culture grew normal flora, and no organisms were visualized on Gram stain. Serological tests for hepatitis A virus and hepatitis B virus were negative. A real-time polymerase chain reaction test for hepatitis C virus found an undetectable viral load. Urine legionella and histoplasma antigen tests were negative. Two sets of blood cultures were collected and did not demonstrate growth after seven days of incubation.
 Clinical Course Prior to Diagnosis
-In the emergency department, he was placed on supplemental oxygen due to hypoxemia. Azithromycin, piperacillin-tazobactam, and vancomycin were empirically administered. Antimicrobial therapy was transitioned to ceftriaxone and doxycycline on hospital day one. The following day, antimicrobial therapy was narrowed to doxycycline, and diuresis with furosemide was initiated. The same day, a mildly pruritic, morbilliform rash (Figure 1) developed on the chest (Figure 2) , back (Figure 3) , abdomen, upper arms, and upper thighs.
+In the emergency department, he was placed on supplemental oxygen due to hypoxemia. Azithromycin, piperacillin-tazobactam, and vancomycin were empirically administered. Antimicrobial therapy was transitioned to ceftriaxone and doxycycline on hospital day one. The following day, antimicrobial therapy was narrowed to doxycycline, and diuresis with furosemide was initiated. The same day, a mildly pruritic, morbilliform rash (Figure 1) developed on the chest (Figure 2), back (Figure 3), abdomen, upper arms, and upper thighs.
 Figure 1. Physical exam finding. Dense, erythematous, maculopapular eruption
 Figure 2. Physical exam finding. Morbilliform eruption along chest wall and abdomen
 Figure 3. Physical exam finding. Morbilliform eruption along back and flanks
@@ -30,12 +30,18 @@ Final Diagnosis
 Primary Epstein-Barr virus infection
 References
 Fowler K, Mucha J, Neumann M, et al. A systematic literature review of the global seroprevalence of cytomegalovirus: possible implications for treatment, screening, and vaccine development. BMC Public Health. 2022;22(1):1659.
-PMID:36050659 ( PubMed abstract )
+PMID:36050659(PubMed abstract) Luzuriaga K, Sullivan JL. Infectious mononucleosis. N Engl J Med. 2010;362(21):1993-2000
+PMID:20505178(PubMed abstract) Haller A, von Segesser L, Baumann PC, Krause M. Severe respiratory insufficiency complicating Epstein-Barr virus infection: case report and review. Clin Infect Dis. 1995;21(1):206-9.
+PMID:7578734(PubMed abstract) Shiohara T, Iijima M, Ikezawa Z, Hashimoto K. The diagnosis of a DRESS syndrome has been sufficiently established on the basis of typical clinical features and viral reactivations. Br J Dermatol. 2007;156(5):1083-4.
+PMID:17381452(PubMed abstract) Chovel-Sella A, Ben Tov A, Lahav E, et al. Incidence of rash after amoxicillin treatment in children with infectious mononucleosis. Pediatrics. 2013;131(5):e1424-7.
+PMID:23589810(PubMed abstract)
+Fowler K, Mucha J, Neumann M, et al. A systematic literature review of the global seroprevalence of cytomegalovirus: possible implications for treatment, screening, and vaccine development. BMC Public Health. 2022;22(1):1659.
+PMID:36050659(PubMed abstract)
 Luzuriaga K, Sullivan JL. Infectious mononucleosis. N Engl J Med. 2010;362(21):1993-2000
-PMID:20505178 ( PubMed abstract )
+PMID:20505178(PubMed abstract)
 Haller A, von Segesser L, Baumann PC, Krause M. Severe respiratory insufficiency complicating Epstein-Barr virus infection: case report and review. Clin Infect Dis. 1995;21(1):206-9.
-PMID:7578734 ( PubMed abstract )
+PMID:7578734(PubMed abstract)
 Shiohara T, Iijima M, Ikezawa Z, Hashimoto K. The diagnosis of a DRESS syndrome has been sufficiently established on the basis of typical clinical features and viral reactivations. Br J Dermatol. 2007;156(5):1083-4.
-PMID:17381452 ( PubMed abstract )
+PMID:17381452(PubMed abstract)
 Chovel-Sella A, Ben Tov A, Lahav E, et al. Incidence of rash after amoxicillin treatment in children with infectious mononucleosis. Pediatrics. 2013;131(5):e1424-7.
-PMID:23589810 ( PubMed abstract )
+PMID:23589810(PubMed abstract)

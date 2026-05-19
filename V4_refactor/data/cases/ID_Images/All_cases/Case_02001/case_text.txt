@@ -11,15 +11,16 @@ Physical Examination
 He was obtunded and obese. The temperature was 103.5°F (39.7°C), respiration 20 breaths per minute, pulse 120 beats/minute and blood pressure 95/63 mm/Hg. The conjunctiva were injected, the neck was supple, and the cardiac rhythm was tachycardic and irregularly irregular. A faint diffuse maculopapular rash was noted on the trunk and proximal portion of the extremities, with no plantar or palmar skin lesions. His speech was unintelligible and he moved all extremities.
 Studies
 The white blood cell count (WBC) was 6,000/mm³ (86% polysmorphonuclear leukocytes, 4% bands, 9% lymphocytes, 1% eosinophils); hematocrit 26% platelets 45,000/mm³, and the INR was 1.3. The level of serum sodium was 128 mmol/L, glucose 95 mg/dL, creatinine 5.7 mg/dL, aspartate aminotransferase (AST) 306 U/Lm and alanine aminotransferase (ALT) 120 U/L.
-Analysis of cerebrospinal fluid (CSF) revealed 57 white cells per cubic millimeter (79% polymorphonuclear leukocytes, 12% lymphocytes, and 9% atypical lymphocytes) ( Figures 1 and 2 ); the level of glucose was 39 mg/dL and protein 235. Gram stain of the CSF was negative, and cultures of specimens of blood, CSF and urine were sterile. Testing for toxins was also negative.
+Analysis of cerebrospinal fluid (CSF) revealed 57 white cells per cubic millimeter (79% polymorphonuclear leukocytes, 12% lymphocytes, and 9% atypical lymphocytes) (Figures 1 and 2); the level of glucose was 39 mg/dL and protein 235. Gram stain of the CSF was negative, and cultures of specimens of blood, CSF and urine were sterile. Testing for toxins was also negative.
 A chest radiograph showed a right middle lobe opacity. Computed tomography (CT) of the head, without contrast, showed no acute changes.
 Figure 1. Wright stain of the CSF.
 Figure 2. Wright stain of the CSF.
 Diagnostic Procedure(s) and Result(s)
-Review of the “atypical” lymphocytes identified on the CSF Wright stain ( Figures 1 and 2 ) revealed intracellular “mulberry” inclusions within several mononuclear cells. The titer of immunoglobulin (Ig) G to Ehrlichia chaffeensis on the first hospital day was 1:64, and the Ehrlichia chaffeensis IgG level on the tenth hospital day was 1:2056.
+Review of the “atypical” lymphocytes identified on the CSF Wright stain (Figures 1 and 2) revealed intracellular “mulberry” inclusions within several mononuclear cells. The titer of immunoglobulin (Ig) G to Ehrlichia chaffeensis on the first hospital day was 1:64, and the Ehrlichia chaffeensis IgG level on the tenth hospital day was 1:2056.
 Treatment and Followup
 The patient was diagnosed with human monocytic ehrlichiosis (HME). He received 14 days of doxycycline 100 mg twice daily. He spent 10 days in the Intensive Care Unit (ICU) requiring mechanical ventilation, vasopressors, and hemodialysis. The patient's multisystem organ failure resolved. He responded to doxycycline and supportive care. His mental status slowly improved. The patient's hospital course was complicated by ventricular tachycardia and pulmonary embolus. He was discharged to a rehabilitation facility.
 Discussion
 Human monocytic ehrlichiosis (HME) is a tick-borne zoonosis. The clustered inclusion-like entities in vacuoles are known as morula. Morulae are seen in macrophages and monocytes, including macrophages in the CSF, and sometimes may be seen in lymphocytes or neutrophils. Symptoms of HME include fever and headache; about one-third of patients have a rash. Laboratory studies may reveal leukopenia, thrombocytopenia, and elevated transaminases; about half of the patients have infiltrates on chest radiography.
 Final Diagnosis
-Human monocytic ehrlichiosis, caused by Ehrlichia chaffeensis .
+Human monocytic ehrlichiosis, caused by Ehrlichia chaffeensis.
+References

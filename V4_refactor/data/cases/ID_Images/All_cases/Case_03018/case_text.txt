@@ -6,14 +6,14 @@ He had a history of chickenpox as a child.
 Epidemiological History
 He was sexually active with one female partner for the preceding six months, and testing for antibodies to human immunodeficiency virus (HIV) was negative one year earlier. He occasionally drank alcohol, and denied smoking or recent blood transfusions.
 Physical Examination
-He appeared well. The blood pressure was 137/74 mm Hg, pulse 80 beats per minute, temperature 36.9°C (98.4°F), respirations 18 breaths per minute, and oxygen saturation 99% while breathing ambient air. There were numerous small erythematous papulo-macular lesions and a few vesicles on the back, trunk and buttock, with sparing of the mouth and palms. The right deltoid vaccine site had evidence of a good take and no vesicles were present. The skin lesions are shown in Figures 1 and 2 . The remainder of the examination was normal.
+He appeared well. The blood pressure was 137/74 mm Hg, pulse 80 beats per minute, temperature 36.9°C (98.4°F), respirations 18 breaths per minute, and oxygen saturation 99% while breathing ambient air. There were numerous small erythematous papulo-macular lesions and a few vesicles on the back, trunk and buttock, with sparing of the mouth and palms. The right deltoid vaccine site had evidence of a good take and no vesicles were present. The skin lesions are shown in Figures 1 and 2. The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Vaccine site on right deltoid.
 Studies
 The white blood cell count (WBC) was 6,900/mm³, hemoglobin 16 gm/L and platelet count 153,000/mm³. The chest radiograph was normal and testing for antibodies to HIV was negative.
 Clinical Course Prior to Diagnosis
 The skin lesion was swabbed, and direct fluorescence antibody assays for herpes simplex and varicella virus, and for vaccinia PCR and culture were performed. The patient was sent home without treatment but with close observation and daily follow-up in the first 48 hours.
-The skin lesions were photographed again 24 hours after his initial presentation ( Figure 3 ). There were numerous small erythematous maculopapular lesions and a few vesicular lesions on the back, trunk, and buttocks. The rash spared the mouth and palms.
+The skin lesions were photographed again 24 hours after his initial presentation (Figure 3). There were numerous small erythematous maculopapular lesions and a few vesicular lesions on the back, trunk, and buttocks. The rash spared the mouth and palms.
 Figure 3. Twenty-four hour follow-up.
 Diagnostic Procedure(s) and Result(s)
 Skin lesion swabs for direct fluorescence antibody assay for herpes simplex virus and varicella virus were negative. Skin lesion swabs for vaccinia polymerase chain reaction (PCR) and culture were negative.
@@ -26,3 +26,4 @@ The World Health Organization (WHO) has recommended that response to vaccination
 Generalized vaccinia is characterized by a disseminated macular or vesicular rash on an erythematous base, which occurs 6-9 days after first-time vaccination and might be preceded by fever. It is self-limited in immunocompetent hosts. Vaccine immune globulin (VIG) might be beneficial in the systemically ill vaccinee.
 Final Diagnosis
 Generalized vaccinia following a smallpox vaccine.
+References

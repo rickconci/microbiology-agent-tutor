@@ -8,21 +8,21 @@ He was on no medications.
 Epidemiological History
 The patient smoked cigarettes and occasionally drank alcohol, and had no history of illicit drug use. He was born in China, moved to the United States several years before this presentation, and returned to visit China frequently. He lived in New England, and had previously lived in Illinois. He was sexually active with his girlfriend, worked with computers and was physically active, including outdoor activities.
 Physical Examination
-The patient appeared well. The blood pressure was123/80 mmHg, pulse 60 beats per minute, temperature 98.4°F (36.9°C), respirations 18 breaths per minute, and oxygen saturation 100% while breathing room air. There was mild right flank tenderness and swelling. Multiple discrete lesions were present on the thighs and arms ( Figures 1 and 2 ). There was no lymphadenopathy, and the remainder of the examination was normal.
+The patient appeared well. The blood pressure was123/80 mmHg, pulse 60 beats per minute, temperature 98.4°F (36.9°C), respirations 18 breaths per minute, and oxygen saturation 100% while breathing room air. There was mild right flank tenderness and swelling. Multiple discrete lesions were present on the thighs and arms (Figures 1 and 2). There was no lymphadenopathy, and the remainder of the examination was normal.
 Figure 1. Physical finding on the left posterior thigh.
 Figure 2. Physical finding on the anterior right thigh.
 Studies
 The white cell count was 13,200 per microliter (reference range (ref) 4000-11,000) with 76% neutrophils, erythrocyte sedimentation rate 104 mm per hour (ref 0-15) and C-reactive protein 54 mg per liter (ref 0-7.48); the results of other routine laboratory tests were normal.
-A chest radiograph was normal. Other radiographic studies revealed multiple abnormalities, including a destructive lesion of the left distal radial metadiaphysis; multiple peripherally enhancing loculated fluid collections in the paraspinal, psoas, and right gluteal muscle groups bilaterally; and evidence of advanced osteomyelitis with lytic lesions and multiple Brodie’s abscesses in the left greater trochanter and lumbar spine ( Figures 3, 4 and 5 ).
+A chest radiograph was normal. Other radiographic studies revealed multiple abnormalities, including a destructive lesion of the left distal radial metadiaphysis; multiple peripherally enhancing loculated fluid collections in the paraspinal, psoas, and right gluteal muscle groups bilaterally; and evidence of advanced osteomyelitis with lytic lesions and multiple Brodie’s abscesses in the left greater trochanter and lumbar spine (Figures 3, 4 and 5).
 Figure 3. Radiograph of left wrist.
 Figure 4. Computed tomography (CT) of the abdomen and extremities.
 Figure 5. CT and magnetic resonance imaging (MRI) of the lumbar spine.
 Diagnostic Procedure(s) and Result(s)
-Needle aspiration of the gluteal collection was performed. Hematoxylin and eosin (H and E) staining ( Figure 6 ) and Grocott methenamine-silver (GMS) staining ( Figure 7 ) of the fluid obtained by needle aspiration revealed broad-based budding yeast consistent with Blastomyces dermatitidis . The same organism later grew on cultures. Blastomyces urinary antigen was positive at a level of 2.80 ng/mL (reference range 0.2-14.7).
+Needle aspiration of the gluteal collection was performed. Hematoxylin and eosin (H and E) staining (Figure 6) and Grocott methenamine-silver (GMS) staining (Figure 7) of the fluid obtained by needle aspiration revealed broad-based budding yeast consistent with Blastomyces dermatitidis. The same organism later grew on cultures. Blastomyces urinary antigen was positive at a level of 2.80 ng/mL (reference range 0.2-14.7).
 Figure 6. Pathological examination of the gluteal aspirate (H and E stain).
 Figure 7. Pathological examination of the gluteal aspirate (GMS stain).
 Treatment and Followup
-Liposomal amphotericin B was administered for 6 weeks, followed by oral itraconazole for approximately 18 months. Dose adjustments were made according to measured levels. The patient improved clinically, with decreasing back pain, fading skin lesions ( Figure 8 ), improvement in the appearance of the radiographic abnormalities, and normalization of blood inflammatory markers. The urinary Blastomyces antigen also became undetectable.
+Liposomal amphotericin B was administered for 6 weeks, followed by oral itraconazole for approximately 18 months. Dose adjustments were made according to measured levels. The patient improved clinically, with decreasing back pain, fading skin lesions (Figure 8), improvement in the appearance of the radiographic abnormalities, and normalization of blood inflammatory markers. The urinary Blastomyces antigen also became undetectable.
 Testing for immunocompromising conditions was unrevealing. The HIV test was negative, CD4 T-cell lymphocyte count was 1125 per cubic millimeter (43.3%) and levels of immunoglobulins were normal. Genetic testing revealed no known pathologic variants in interleukin-12 or interferon-gamma pathway genes. The patient did not require surgery after radiologic drainage of gluteal abscess.
 Figure 8. Physical findings 10 months after diagnosis.
 Discussion
@@ -32,10 +32,14 @@ Prolonged courses of antifungal therapy are required to achieve cure. Infectious
 Final Diagnosis
 Disseminated blastomycosis with skin, soft tissue and bone involvement.
 References
+Bradsher, RW (2015). Chapter 266, Blastomycosis. In Bennett JE, Dolin R, Blaser MJ (Eds). Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Eighth edition (pp. 2963-73). Philadelphia, PA: Elsevier/Saunders; 2015. Chapman SW, Dismukes WE, Proia LA, Bradsher RW, Pappas PG, Threlkeld MG, Kauffman CA, Infectious Diseases Society of America. Clinical practice guidelines for the management of blastomycosis: 2008 update by the Infectious Diseases Society of America. Clinical Infectious Diseases: An official publication of the Infectious Diseases Society of America. 2008;46(12):1801-12.
+PMID:18462107(PubMed abstract) Frost HM, Novicki TJ. Blastomyces Antigen Detection for Diagnosis and Management of Blastomycosis. Journal of clinical microbiology. 2015;53(11):3660-2.
+PMID:26338856(PubMed abstract) Saccente M, Abernathy RS, Pappas PG, Shah HR, Bradsher RW. Vertebral blastomycosis with paravertebral abscess: report of eight cases and review of the literature. Clinical Infectious Diseases: An official publication of the Infectious Diseases Society of America. 1998;26(2):413-8.
+PMID:9502464(PubMed abstract)
 Bradsher, RW (2015). Chapter 266, Blastomycosis. In Bennett JE, Dolin R, Blaser MJ (Eds). Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Eighth edition (pp. 2963-73). Philadelphia, PA: Elsevier/Saunders; 2015.
 Chapman SW, Dismukes WE, Proia LA, Bradsher RW, Pappas PG, Threlkeld MG, Kauffman CA, Infectious Diseases Society of America. Clinical practice guidelines for the management of blastomycosis: 2008 update by the Infectious Diseases Society of America. Clinical Infectious Diseases: An official publication of the Infectious Diseases Society of America. 2008;46(12):1801-12.
-PMID:18462107 ( PubMed abstract )
+PMID:18462107(PubMed abstract)
 Frost HM, Novicki TJ. Blastomyces Antigen Detection for Diagnosis and Management of Blastomycosis. Journal of clinical microbiology. 2015;53(11):3660-2.
-PMID:26338856 ( PubMed abstract )
+PMID:26338856(PubMed abstract)
 Saccente M, Abernathy RS, Pappas PG, Shah HR, Bradsher RW. Vertebral blastomycosis with paravertebral abscess: report of eight cases and review of the literature. Clinical Infectious Diseases: An official publication of the Infectious Diseases Society of America. 1998;26(2):413-8.
-PMID:9502464 ( PubMed abstract )
+PMID:9502464(PubMed abstract)

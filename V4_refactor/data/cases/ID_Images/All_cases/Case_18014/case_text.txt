@@ -10,13 +10,14 @@ The patient was alert and appeared non-toxic. The blood pressure was 154/92 mmHg
 Figure 1. Early erythematous annular plaques on arms and back
 Figure 2. Rhomboid and target shaped lesions on the torso
 Figure 3. Figure 3: Cloud-shaped lesions expanding outward with central clearing on torso
+Figure 3: Cloud-shaped lesions expanding outward with central clearing on torso
 Figure 4. Rhomboid and bubble-shaped lesions on legs
 Figure 5. Localized swelling and erythema of left middle finger from previous splinter
 Studies
 The serum aspartate aminotransferase was 104 U/L (reference range 16-40), alanine aminotransferase 53 U/L (reference range 8-54), alkaline phosphatase 170 U/L (reference range 56-119), total bilirubin 3.6 mg/dL (reference range 0.2-1.3); albumin 2 g/dL (reference range 3.5-5). Transaminases were similar to results obtained 8 months prior. HIV Ag/Ab test was negative and syphilis antibody was nonreactive.
 The peripheral white blood cell count was 7,780/mm3 (reference range 4.4-11), hemoglobin was 13.2 g/dL (reference range 13.9-17.2), and platelets were 32,000/mm3 (reference range 140-440). White blood cell count differential was 88% neutrophils, 2.6% lymphocytes, 3.5% monocytes, 0% eosinophils. C-reactive protein was 3mg/dL (reference range <0.3) and erythrocyte sedimentation rate was 37 mm/hr (0-10). X-ray of the lumbar spine showed no compression deformities with multi-level disc space narrowing worse at L4-5 and L5-S1 and multilevel osteophytes. There was mild L5-S1 facet arthrosis.
 Diagnostic Procedure(s) and Result(s)
-Two (of two) sets of blood cultures yielded Gram-positive rods subsequently identified as Erysipelothrix rhusiopathiae . A trans-thoracic echocardiogram was negative for valvular vegetations or other findings suggestive of endocarditis.
+Two (of two) sets of blood cultures yielded Gram-positive rods subsequently identified as Erysipelothrix rhusiopathiae. A trans-thoracic echocardiogram was negative for valvular vegetations or other findings suggestive of endocarditis.
 Treatment and Followup
 Treatment with ampicillin/sulbactam 3g IV every 6 hours was initiated when blood cultures returned positive for Gram-positive rods. When the species was identified as E. rhusiopathiae he was switched to penicillin G 18 million units IV daily for 4-weeks. Within 24 hours of starting a beta-lactam his fevers abated and the intensity of the erythema decreased. By the fifth day of beta lactam therapy his rash had completely resolved.
 Discussion
@@ -26,19 +27,27 @@ Risk factors for development of diffuse systemic disease after E. rhusiopathiae 
 Final Diagnosis
 Disseminated cutaneous Erysipelothrix rhusiopathiae with bacteremia
 References
+Winn W, Allen S, Janda W, Koneman E. Color atlas and textbook of diagnostic microbiology. Estados Unidos: Lippincott Williams & Wilkins; 2006. Veraldi S, Girgenti V, Dassoni F, Gianotti R. Erysipeloid: a review. Clin Exp Dermatol 2009;34:859-862.
+PMID:19663854(PubMed abstract) Brooke CJ, Riley TV. Erysipelothrix rhusiopathiae: bacteriology, epidemiology and clinical manifestations of an occupational pathogen. J Med Microbiol 1999;48:789-799.
+PMID:10482289(PubMed abstract) Wang Q, Chang B, Riley T. Erysipelothrix rhusiopathiae. Veterinary Microbiology 2010;140(3-4):405-417.
+PMID:19733019(PubMed abstract) Schiffman W, Black A. Acute Bacterial Endocarditis Caused by Erysipelothrix rhusiopathiae. N Engl J Med 1956;255:1148-1150.
+PMID:13378631(PubMed abstract) Reboli A, Farrar W. Erysipelothrix rhusiopathiae: an occupational pathogen. Clin Microbiol Rev. 1989;2:354-359.
+PMID:2680056(PubMed abstract) Mandell G, Douglas R, Bennett J, Dolin R, Blaser M. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Philadelphia, Pa: Elsevier, Saunders; 2015. Cascio A, Stassi G, Cacciola I, Saitta C, Squadrito G. Fever and rhomboid target lesion in decompensated cirrhosis. Lancet Infect Dis 2012;12:576.
+PMID:22742640(PubMed abstract) Tan EM, Marcelin JR, Adeel N, Lewis RJ, Enzler MJ, Tosh PK. Erysipelothrix rhusiopathiae bloodstream infection – a 22-year experience at Mayo Clinic, Minnesota. Zoonoses Public Health 2017;64:e65-e72.
+PMID:28206705(PubMed abstract)
 Winn W, Allen S, Janda W, Koneman E. Color atlas and textbook of diagnostic microbiology. Estados Unidos: Lippincott Williams & Wilkins; 2006.
 Veraldi S, Girgenti V, Dassoni F, Gianotti R. Erysipeloid: a review. Clin Exp Dermatol 2009;34:859-862.
-PMID:19663854 ( PubMed abstract )
+PMID:19663854(PubMed abstract)
 Brooke CJ, Riley TV. Erysipelothrix rhusiopathiae: bacteriology, epidemiology and clinical manifestations of an occupational pathogen. J Med Microbiol 1999;48:789-799.
-PMID:10482289 ( PubMed abstract )
+PMID:10482289(PubMed abstract)
 Wang Q, Chang B, Riley T. Erysipelothrix rhusiopathiae. Veterinary Microbiology 2010;140(3-4):405-417.
-PMID:19733019 ( PubMed abstract )
+PMID:19733019(PubMed abstract)
 Schiffman W, Black A. Acute Bacterial Endocarditis Caused by Erysipelothrix rhusiopathiae. N Engl J Med 1956;255:1148-1150.
-PMID:13378631 ( PubMed abstract )
+PMID:13378631(PubMed abstract)
 Reboli A, Farrar W. Erysipelothrix rhusiopathiae: an occupational pathogen. Clin Microbiol Rev. 1989;2:354-359.
-PMID:2680056 ( PubMed abstract )
+PMID:2680056(PubMed abstract)
 Mandell G, Douglas R, Bennett J, Dolin R, Blaser M. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. Philadelphia, Pa: Elsevier, Saunders; 2015.
 Cascio A, Stassi G, Cacciola I, Saitta C, Squadrito G. Fever and rhomboid target lesion in decompensated cirrhosis. Lancet Infect Dis 2012;12:576.
-PMID:22742640 ( PubMed abstract )
+PMID:22742640(PubMed abstract)
 Tan EM, Marcelin JR, Adeel N, Lewis RJ, Enzler MJ, Tosh PK. Erysipelothrix rhusiopathiae bloodstream infection – a 22-year experience at Mayo Clinic, Minnesota. Zoonoses Public Health 2017;64:e65-e72.
-PMID:28206705 ( PubMed abstract )
+PMID:28206705(PubMed abstract)

@@ -11,17 +11,17 @@ Physical Examination
 The patient appeared mildly ill and fatigued. The temperature was 40°C (104.0°F), blood pressure 99/45 mm Hg, pulse 140 beats per minute, and respirations 16 times per minute. The lips were dry, without oral lesions. There was a harsh 3/6 systolic ejection murmur at the right upper sternal border, a 2/6 vibratory systolic murmur at the left lower sternal border, and a 2/4 diastolic decrescendo murmur. There was no evidence of peripheral embolic phenomena or rash. The suprapubic region of the abdomen was mildly tender, without guarding or rebound tenderness.
 Studies
 The white blood cell count was 20,300 cells per cubic millimeter (reference range 4,500-13,500), with segmented neutrophils 80% (ref 39-75), band forms 12% (ref 5-11), lymphocytes 4% (ref 28-48), monocytes 3% (ref 2-8) and eosinophils 1% (1-4).
-A transesophageal echocardiogram revealed a large aortic valve vegetation and severe aortic regurgitation, as well as an apparent right atrial mass ( Figures 1 and 2 ).
+A transesophageal echocardiogram revealed a large aortic valve vegetation and severe aortic regurgitation, as well as an apparent right atrial mass (Figures 1 and 2).
 Figure 1. Echocardiography.
 Figure 2. Echocardiography.
 Clinical Course Prior to Diagnosis
-Gram stains of growth from an anaerobic blood culture, with sodium polyanethol sulfonate (SPS) activity inhibited by addition of gelatin to the media, are shown in Figures 3 and 4 .
+Gram stains of growth from an anaerobic blood culture, with sodium polyanethol sulfonate (SPS) activity inhibited by addition of gelatin to the media, are shown in Figures 3 and 4.
 Results of a bone scan were negative. Ampicillin-sulbactam and gentamicin were administered, and the temperatures returned to normal. Shortly thereafter, the ampicillin-sulbactam was changed to penicillin.
 Despite antibiotic therapy, his clinical condition worsened. He developed respiratory distress, severe hypotension and severe aortic regurgitation, which required emergent operative intervention.
 Figure 3. Gram stain of growth from anaerobic bottle, 100x magnification.
 Figure 4. Gram stain of growth from anaerobic bottle, 100x magnification.
 Diagnostic Procedure(s) and Result(s)
-Multiple anaerobic blood cultures with media that did not contain sodium polyanethol sulfonate (SPS) activity, which inhibits Streptobacillus moniliformis growth, revealed growth consistent with Streptobacillus moniliformis , ( Figure 4 ). The identification of the organism was confirmed by the Centers for Disease Control and Prevention (CDC). A bone scan did not reveal evidence of osteomyelitis. Testing for antibodies to human immunodeficiency virus (HIV), types 1 and 2, and Bartonella were negative and testing for parvovirus, Epstein-Barr virus, and cytomegalovirus titers were consistent with past infections.
+Multiple anaerobic blood cultures with media that did not contain sodium polyanethol sulfonate (SPS) activity, which inhibits Streptobacillus moniliformis growth, revealed growth consistent with Streptobacillus moniliformis, (Figure 4). The identification of the organism was confirmed by the Centers for Disease Control and Prevention (CDC). A bone scan did not reveal evidence of osteomyelitis. Testing for antibodies to human immunodeficiency virus (HIV), types 1 and 2, and Bartonella were negative and testing for parvovirus, Epstein-Barr virus, and cytomegalovirus titers were consistent with past infections.
 A transesophageal echocardiogram performed at the beginning of the hospitalization and the intraoperative echocardiogram done 2 weeks later revealed an enlarging aortic valve vegetation, as well as severe and increasing aortic regurgitation, moderate to severe mitral regurgitation, and an intraventricular abscess.
 Treatment and Followup
 Two weeks after admission, aortic root replacement, debridement of an intraventricular abscess that involved the right coronary artery, and repair of the mitral and tricuspid valves were performed. The patient continued to have intermittent fevers post-operatively. Rifampin was added to the treatment regimen, with plans to continue the gentamicin for the first two weeks of therapy, and the other antibiotics for six weeks. The patient improved significantly, but aortic insufficiency persisted and an aneurysmal eruption occurred at the site of his aortic root patch. He continued to be followed closely by cardiology.
@@ -30,6 +30,8 @@ Streptobacillus moniliformis is a fastidious gram-negative anaerobic bacillus, w
 Final Diagnosis
 Aortic valve endocarditis caused by Streptobacillus moniliformis infection.
 References
+Byington, CL and Basow, RD. Textbook of Pediatric Infectious Diseases. Feigin and Cherry. Fifth Edition, 2004, pp. 1687-1689. Elliott, S.P. (2007). Rat bite fever and Streptobacillus moniliformis. Clin Microbiol Rev 20, 13-22.
+PMID:17223620(PubMed abstract)
 Byington, CL and Basow, RD. Textbook of Pediatric Infectious Diseases. Feigin and Cherry. Fifth Edition, 2004, pp. 1687-1689.
 Elliott, S.P. (2007). Rat bite fever and Streptobacillus moniliformis. Clin Microbiol Rev 20, 13-22.
-PMID:17223620 ( PubMed abstract )
+PMID:17223620(PubMed abstract)

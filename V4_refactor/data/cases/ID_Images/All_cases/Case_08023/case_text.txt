@@ -15,10 +15,10 @@ He was reportedly unable to walk, and was carried into the office by his parents
 Studies
 Complete blood count revealed 9,300 white cells per cubic millimeter with a differential of 37% polymorphonuclear cells, 51% lymphocytes. Hemoglobin and hematocrit were 12.9 g/dL and 37.5%, respectively. Platelet count was 326,000 per cubic millimeter. The basic metabolic panel was normal limits. Creatine kinase was also normal at 114 units/L.
 Clinical Course Prior to Diagnosis
-The skin lesion was removed ( Figure 1 ).
+The skin lesion was removed (Figure 1).
 Figure 1. Figure 1.
 Diagnostic Procedure(s) and Result(s)
-On further examination, the skin lesion, which was first thought to be a skin tag when noted by his mother 10 days earlier, was an engorged tick, which was removed (See Figure 1 ). The tick was not identified further.
+On further examination, the skin lesion, which was first thought to be a skin tag when noted by his mother 10 days earlier, was an engorged tick, which was removed (See Figure 1). The tick was not identified further.
 Treatment and Followup
 Within 2 hours of the removal of the tick, he had significant improvement in his ability to ambulate. Within 8 hours, his neurological abnormalities had resolved. A post-inflammatory nodule at the site of the tick bite developed that did not resolve with steroid treatment. He underwent a local incision and biopsy of the nodule without further sequelae. Five months after tick removal, his mother reported that he was still doing well.
 Discussion
@@ -30,10 +30,14 @@ After removal of the ticks, the prognosis is very good. However, the disease is 
 Final Diagnosis
 Tick paralysis.
 References
+Center for Disease Control (CDC). Cluster of tick paralysis cases---Colorado, 2006. MMWR 2006;55:933-5. Edlow, J.A., and McGillicuddy, D.C. (2008). Tick paralysis. Infect Dis Clin North Am 22, 397-413, vii.
+PMID:18755381(PubMed abstract) Felz, M.W., Smith, C.D., and Swift, T.R. (2000). A six-year-old girl with tick paralysis. N Engl J Med 342, 90-94.
+PMID:10631277(PubMed abstract) Rose, I. (1954). A review of tick paralysis. Can Med Assoc J 70, 175-176.
+PMID:13126868(PubMed abstract)
 Center for Disease Control (CDC). Cluster of tick paralysis cases---Colorado, 2006. MMWR 2006;55:933-5.
 Edlow, J.A., and McGillicuddy, D.C. (2008). Tick paralysis. Infect Dis Clin North Am 22, 397-413, vii.
-PMID:18755381 ( PubMed abstract )
+PMID:18755381(PubMed abstract)
 Felz, M.W., Smith, C.D., and Swift, T.R. (2000). A six-year-old girl with tick paralysis. N Engl J Med 342, 90-94.
-PMID:10631277 ( PubMed abstract )
+PMID:10631277(PubMed abstract)
 Rose, I. (1954). A review of tick paralysis. Can Med Assoc J 70, 175-176.
-PMID:13126868 ( PubMed abstract )
+PMID:13126868(PubMed abstract)

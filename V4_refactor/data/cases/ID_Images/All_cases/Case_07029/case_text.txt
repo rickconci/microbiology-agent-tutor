@@ -9,10 +9,10 @@ Physical Examination
 The patient appeared cachectic and in mild respiratory distress. The temperature was 99.5°F (37.5°C) orally, pulse 126 beats per minute, blood pressure 95/53 mm Hg, and respirations 26 breaths per minute. There was oral thrush and no lymphadenopathy. The jugular venous pressure was normal. The trachea was midline. The chest was clear to auscultation on the right side and there were absent breath sounds and hyperresonance to percussion on the left side. Extremities were symmetrical without swelling, tenderness, or erythema.
 Studies
 The white blood count was 6,400/uL, hematocrit 18%, and platelet count 418,000/uL. Serum testing for sodium was 133 mEq/L, potassium 5.2 mEq/L, chloride 107 mEq/L, and bicarbonate 14 mEq/L. An arterial blood gas revealed a pH of 7.47, partial pressure of carbon dioxide of 26.5 mm Hg, and partial pressure of oxygen of 161 mm Hg, on supplemental oxygen. The CD4 T-lymphocyte cell count was 78 cells/uL.
-A chest radiograph is shown in Figure 1 . An electrocardiogram showed sinus tachycardia.
+A chest radiograph is shown in Figure 1. An electrocardiogram showed sinus tachycardia.
 Figure 1. Chest radiograph.
 Diagnostic Procedure(s) and Result(s)
-A chest radiograph revealed a large left-sided pneumothorax ( Figure 1 ). The patient was continued on supplemental oxygen, and a chest tube was placed. Upon re-expansion of the lung, a parenchymal cavity became evident ( Figure 2 ).
+A chest radiograph revealed a large left-sided pneumothorax (Figure 1). The patient was continued on supplemental oxygen, and a chest tube was placed. Upon re-expansion of the lung, a parenchymal cavity became evident (Figure 2).
 On the 3rd hospital day, a stain of a sputum specimen revealed acid-fast bacilli, consistent with Mycobacterium tuberculosis infection.
 Figure 2. Chest radiograph, after chest tube placement.
 Treatment and Followup
@@ -26,3 +26,4 @@ References:
 3. Floris C, Sulis ML, Bernascani M, Turno R, Tedde A, Sulis E. Pneumothorax in pleuropulmonary Kaposi's sarcoma related to acquired immunodeficiency syndrome. Am J Med, 1989. 87(1): p. 123-4. PMID: 2741975
 Final Diagnosis
 Pneumothorax secondary to pulmonary tuberculosis, in an African patient with HIV infection and AIDS.
+References

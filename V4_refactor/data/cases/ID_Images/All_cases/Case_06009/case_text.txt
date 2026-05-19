@@ -2,15 +2,16 @@ History of Present Illness
 2006 September Featured Case Summary: A woman with fever, headache, and a new rash.
 A woman in her fifties presented with fever, headache, myalgias and a new rash on her left flank that had begun seven days earlier.
 Epidemiological History
-She had returned from .
+She had recently (Timeline is very important in relation to the travel history as some infections have early and late stages of symptomatology.) returned from opening her summer home on an island off the northeastern coast of the United States (Certain infections are very common during a particular season of the year and are endemic in some areas so the time of the year and geographical location/travel history is very important to elicit in ID. Also exposure to animals, pets and insect-bites can provide a key to diagnosis. Infections seen in the warm months of the year in temperate climates raise the possibility of arthropod-borne pathogens.).
 Physical Examination
-The patient was uncomfortable but did not appear toxic . The temperature was 102°F (38.9°C) and there was a large annular rash on her left flank , which measured approximately 20 centimeters in diameter. (See Figure 1 .)
+The patient was uncomfortable but did not appear toxic (It is very important to determine if the patient looks unwell or toxic as that may indicate the need for aggressive and broad-spectrum therapy, usually with supportive measures.). The temperature was 102°F (38.9°C) (The degree of temperature elevation does not necessarily correspond to the severity of the illness.) and there was a large annular rash on her left flank (It is very important to differentiate a generalized rash from an isolated rash as that may be a manifestation of systemic response to the infecting organism. The appearance of the rash may be pathognomonic for a particular infection.), which measured approximately 20 centimeters in diameter. (See Figure 1.)
 Figure 1. Physical finding.
 Diagnostic Procedure(s) and Result(s)
 Enzyme-linked immunosorbent assay (ELISA) and Western Blot tests for Lyme disease were positive.
 Treatment and Followup
 The patient was treated with doxycycline.
 Discussion
-Lyme disease is a multi-organ disease caused by Borrelia burgdorferi , and is spread by the bite of an infected Ixodes tick. This patient’s annular rash (called erythema chronicum migrans) is the hallmark of early localized disease and occurs in 90% of infected patients. An expanding annular rash in a patient from an area endemic for Lyme disease is considered diagnostic of primary Lyme disease. Approximately 10-20% of the time, there may be multiple erythematous patches. Serologic studies may be negative if testing is performed early in the course of the illness.
+Lyme disease is a multi-organ disease caused by Borrelia burgdorferi, and is spread by the bite of an infected Ixodes tick. This patient’s annular rash (called erythema chronicum migrans) is the hallmark of early localized disease and occurs in 90% of infected patients. An expanding annular rash in a patient from an area endemic for Lyme disease is considered diagnostic of primary Lyme disease. Approximately 10-20% of the time, there may be multiple erythematous patches. Serologic studies may be negative if testing is performed early in the course of the illness.
 Final Diagnosis
-Erythema chronicum migrans and Lyme Disease, caused by infection with the spirochete Borrelia burgdorferi .
+Erythema chronicum migrans and Lyme Disease, caused by infection with the spirochete Borrelia burgdorferi.
+References

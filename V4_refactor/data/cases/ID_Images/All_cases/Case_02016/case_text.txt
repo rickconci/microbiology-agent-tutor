@@ -14,17 +14,18 @@ Physical Examination
 The patient was thin. The temperature was 97.8°F (36.6°C). The neck was supple; the bowel sounds were hypoactive, and there was tenderness in all quadrants of the abdomen, extending into the inguinal regions. On neurologic examination, he was unintelligible and unable to follow commands. There was a right facial droop and right upper and lower extremity weakness.
 Studies
 The level of sodium was 126 mmol/L, glucose 220 mg/dL, white blood cell count (WBC) 8,900 cells/mm³. CD4 T-lymphocytes 224 cells/mm³ (38% of total lymphs). Testing for human immunodeficiency virus (HIV) was negative. Cerebrospinal fluid (CSF) analysis revealed white cells of 353 cells/mm³ (89% lymphocytes), glucose 31 mg/dL, and protein 2,400. A stain for acid fast bacilli (AFB) was negative.
-A chest radiograph showed no active disease or scarring. Magnetic resonance imaging (MRI) of spine showed diffuse enhancement of the spinal cord between the T2-T6 thoracic verebrae, that was thought to be consistent with pachymeningitis, with no obstruction or focal defect. Results of a head MRI scan are shown in Figures 1 and 2 .
+A chest radiograph showed no active disease or scarring. Magnetic resonance imaging (MRI) of spine showed diffuse enhancement of the spinal cord between the T2-T6 thoracic verebrae, that was thought to be consistent with pachymeningitis, with no obstruction or focal defect. Results of a head MRI scan are shown in Figures 1 and 2.
 Figure 1. Head MRI scan.
 Figure 2. Head MRI scan.
 Clinical Course Prior to Diagnosis
-Pathological examination of the scrotal tissue is shown in Figure 3 .
+Pathological examination of the scrotal tissue is shown in Figure 3.
 Figure 3. Pathology of scrotal tissue.
 Diagnostic Procedure(s) and Result(s)
-Staining of the scrotal tissue for acid-fast bacilli (AFB) is shown in Figure 4 . Culture of an induced sputum specimen grew Mycobacterium tuberculosis , which was resistant to isoniazid (INH).
+Staining of the scrotal tissue for acid-fast bacilli (AFB) is shown in Figure 4. Culture of an induced sputum specimen grew Mycobacterium tuberculosis, which was resistant to isoniazid (INH).
 Figure 4. AFB stain of scrotal tissue.
 Treatment and Followup
 The patient was treated with anti-tuberculous therapy and steroids, with initial improvement. The subsequent course was notable for lower extremity weakness and a thoracic epidural abscess, urinary retention and evidence of granulomas on prostate biopsy, and worsening mental status and neurologic signs when steroids were tapered.
+Discussion
 Final Diagnosis
 Disseminated tuberculosis caused by Mycobacterium tuberculosis including tuberculous epididymitis, prostatitis, pneumonitis, pachymeningitis and numerous tuberculomas of the brain in a patient with diabetes mellitus.
 References:
@@ -32,6 +33,9 @@ Crump JA, Reller LB. Two decades of disseminated tuberculosis at a university me
 Wise GJ, Shteynshlyuger A. An update on lower urinary tract tuberculosis. Curr Urol Rep. 2008 Jul;9(4):305-13. PMID: 18765130
 References
 Crump, J.A., and Reller, L.B. (2003). Two decades of disseminated tuberculosis at a university medical center: the expanding role of mycobacterial blood culture. Clin Infect Dis 37, 1037-1043.
-PMID:14523767 ( PubMed abstract )
+PMID:14523767(PubMed abstract) Wise, G.J., and Shteynshlyuger, A. (2008). An update on lower urinary tract tuberculosis. Curr Urol Rep 9, 305-313.
+PMID:18765130(PubMed abstract)
+Crump, J.A., and Reller, L.B. (2003). Two decades of disseminated tuberculosis at a university medical center: the expanding role of mycobacterial blood culture. Clin Infect Dis 37, 1037-1043.
+PMID:14523767(PubMed abstract)
 Wise, G.J., and Shteynshlyuger, A. (2008). An update on lower urinary tract tuberculosis. Curr Urol Rep 9, 305-313.
-PMID:18765130 ( PubMed abstract )
+PMID:18765130(PubMed abstract)

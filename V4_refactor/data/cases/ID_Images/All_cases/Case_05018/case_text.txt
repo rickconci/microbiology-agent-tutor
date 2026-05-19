@@ -11,7 +11,7 @@ The patient lived in rural Kentucky.
 Physical Examination
 She appeared well. The temperature was 97°F (36.1°C), blood pressure 90/50 mm Hg, pulse 78 beats per minute, respirations 18 breaths per minute, and oxygen saturation 95% on room air. There was no clinical evidence of pulmonary hypertension, cyanosis or clubbing. The jugular venous pressure was normal.
 Studies
-Laboratory test results were normal, including a negative urinary Histoplasma antigen. Computed tomography (CT) of the chest revealed calcifications in the mediastinum, proximal pulmonary artery stenosis and superior vena cava obstruction ( Figure 1 ).
+Laboratory test results were normal, including a negative urinary Histoplasma antigen. Computed tomography (CT) of the chest revealed calcifications in the mediastinum, proximal pulmonary artery stenosis and superior vena cava obstruction (Figure 1).
 Figure 1. CT scan of chest.
 Diagnostic Procedure(s) and Result(s)
 The diagnosis of fibrosing mediastinitis was made on the basis of the clinical history and the findings on CT scan of the chest, including the presence of mediastinal calcifications. No biopsy or other invasive confirmatory test was performed.
@@ -25,6 +25,9 @@ Final Diagnosis
 Fibrosing mediastinitis in a patient with a history of prior pulmonary Histoplasmosis.
 References
 Hammoud, Z.T., Rose, A.S., Hage, C.A., Knox, K.S., Rieger, K., and Kesler, K.A. (2009). Surgical management of pulmonary and mediastinal sequelae of histoplasmosis: a challenging spectrum. Ann Thorac Surg 88, 399-403.
-PMID:19632382 ( PubMed abstract )
+PMID:19632382(PubMed abstract) Peikert, T., Colby, T.V., Midthun, D.E., Pairolero, P.C., Edell, E.S., Schroeder, D.R., and Specks, U. (2011). Fibrosing mediastinitis: clinical presentation, therapeutic outcomes, and adaptive immune response. Medicine (Baltimore) 90, 412-423.
+PMID:22033450(PubMed abstract)
+Hammoud, Z.T., Rose, A.S., Hage, C.A., Knox, K.S., Rieger, K., and Kesler, K.A. (2009). Surgical management of pulmonary and mediastinal sequelae of histoplasmosis: a challenging spectrum. Ann Thorac Surg 88, 399-403.
+PMID:19632382(PubMed abstract)
 Peikert, T., Colby, T.V., Midthun, D.E., Pairolero, P.C., Edell, E.S., Schroeder, D.R., and Specks, U. (2011). Fibrosing mediastinitis: clinical presentation, therapeutic outcomes, and adaptive immune response. Medicine (Baltimore) 90, 412-423.
-PMID:22033450 ( PubMed abstract )
+PMID:22033450(PubMed abstract)

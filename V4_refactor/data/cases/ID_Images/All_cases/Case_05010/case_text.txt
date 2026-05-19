@@ -1,9 +1,8 @@
 History of Present Illness
 Summary: A man with shortness of breath after stem cell transplantation.
 A man in his fifties, with a history of recurrent non-Hodgkin’s lymphoma, autologous transplant and mini allograft unmatched stem cell transplant, and graft-versus-host disease, presented with progressive shortness of breath of seven weeks' duration. Graft-versus-host disease had worsened six months before and affected 35% of the skin; immunosuppressive medications were increased.
-Three weeks before admission, the patient presented with shortness of breath of four weeks' duration that was associated with weight loss of fifteen pounds. Computed tomography (CT) of the chest is shown in Figure 1 . Cultures of the sputum and blood were negative. The patient was treated empirically with levofloxacin and imipenem without improvement.
+Three weeks before admission, the patient presented with shortness of breath of four weeks' duration that was associated with weight loss of fifteen pounds. Computed tomography (CT) of the chest is shown in Figure 1. Cultures of the sputum and blood were negative. The patient was treated empirically with levofloxacin and imipenem without improvement.
 Three weeks later, he developed hemoptysis and increasing weakness.
-Figure 1. Image
 Figure 1. Chest CT scan three weeks before current admission.
 Past Medical History
 There was a history of recurrent non-Hodgkin’s lymphoma for which an autologous transplant and mini allograft unmatched stem cell transplantation had been performed. He also had a history of graft-versus-host disease and coronary artery disease.
@@ -14,23 +13,26 @@ The patient was born in Europe and had lived in the Middle East as a child. He h
 Physical Examination
 The patient appeared tired and cachectic. The temperature was 98.3ºF (36.8ºC), pulse 112 beats per minute, oxygen saturation 97% on 2 liters inspired oxygen. The skin revealed extensive breakdown and peeling. Examination of the lungs revealed crackles bilaterally, which were most prominent in the left mid-lung field. There were no cardiac murmurs; the remainder of the examination was normal.
 Studies
-The white blood cell count was 15,060 cells/mm³, sodium 128 mmol/L, and C-reactive protein 195.0 mg/liter. A sputum sample revealed 2+ polymorphonuclear cells and 4+ epithelial cells. Chest radiographs are shown in Figures 2 and 3 .
+The white blood cell count was 15,060 cells/mm³, sodium 128 mmol/L, and C-reactive protein 195.0 mg/liter. A sputum sample revealed 2+ polymorphonuclear cells and 4+ epithelial cells. Chest radiographs are shown in Figures 2 and 3.
 Figure 2. Chest radiograph.
 Figure 3. Chest radiograph, lateral view.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) scan of the chest is shown in Figure 4 . Bronchoscopy revealed purulent material.
+Computed tomography (CT) scan of the chest is shown in Figure 4. Bronchoscopy revealed purulent material.
 Figure 4. Chest CT scan, post hemoptysis.
 Diagnostic Procedure(s) and Result(s)
-Cultures of the sputum and bronchoscopic aspirate grew Pseudomonas aeruginosa .
+Cultures of the sputum and bronchoscopic aspirate grew Pseudomonas aeruginosa.
 Treatment and Followup
 Tobramycin and ceftazidime, to which the organism was sensitive, were administered. However, the infection progressed; inhaled tobramycin and colistin were added.
 Discussion
 Pseudomonas aeruginosa is a non-fermentative gram-negative aerobic rod. One of the most common causes of gram negative nosocomial pneumonia, it is notoriously difficult to treat. Part of the challenge is that the bacteria have barrier properties in the outer membrane. To enter through the outer membrane porins, a compound must have a low molecular weight and zwitterionic properties.
-In addition, P. aeruginosa has developed a wide variety of resistance to anti-pseudomonal antibiotics. Data regarding monotherapy versus combination therapy is limited. Studies which compare combination therapy with monotherapy in patients with cystic fibrosis have shown no difference in outcome, but the density of bacteria was lower in the sputum and time to next pulmonary infection requiring hospitalization was prolonged in those patients with combination therapy. Eradication of P. aeruginosa from bronchial secretions is difficult; the potential risk for emergence of resistance is high, as is mortality in patients with pneumonia due to P. aeruginosa . Due to these factors and despite the absence of data, treatment with at least two agents is often recommended.
+In addition, P. aeruginosa has developed a wide variety of resistance to anti-pseudomonal antibiotics. Data regarding monotherapy versus combination therapy is limited. Studies which compare combination therapy with monotherapy in patients with cystic fibrosis have shown no difference in outcome, but the density of bacteria was lower in the sputum and time to next pulmonary infection requiring hospitalization was prolonged in those patients with combination therapy. Eradication of P. aeruginosa from bronchial secretions is difficult; the potential risk for emergence of resistance is high, as is mortality in patients with pneumonia due to P. aeruginosa. Due to these factors and despite the absence of data, treatment with at least two agents is often recommended.
 Final Diagnosis
 Lung abscess due to Pseudomonas aeruginosa, in a patient with graft-versus-host disease.
 References
 Fujitani, S., Sun, H.Y., Yu, V.L., and Weingarten, J.A. (2011). Pneumonia due to Pseudomonas aeruginosa: part I: epidemiology, clinical diagnosis, and source. Chest 139, 909-919.
-PMID:21467058 ( PubMed abstract )
+PMID:21467058(PubMed abstract) Sun, H.Y., Fujitani, S., Quintiliani, R., and Yu, V.L. (2011). Pneumonia due to Pseudomonas aeruginosa: part II: antimicrobial resistance, pharmacodynamic concepts, and antibiotic therapy. Chest 139, 1172-1185.
+PMID:21540216(PubMed abstract)
+Fujitani, S., Sun, H.Y., Yu, V.L., and Weingarten, J.A. (2011). Pneumonia due to Pseudomonas aeruginosa: part I: epidemiology, clinical diagnosis, and source. Chest 139, 909-919.
+PMID:21467058(PubMed abstract)
 Sun, H.Y., Fujitani, S., Quintiliani, R., and Yu, V.L. (2011). Pneumonia due to Pseudomonas aeruginosa: part II: antimicrobial resistance, pharmacodynamic concepts, and antibiotic therapy. Chest 139, 1172-1185.
-PMID:21540216 ( PubMed abstract )
+PMID:21540216(PubMed abstract)

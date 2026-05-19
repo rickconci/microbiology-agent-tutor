@@ -16,12 +16,12 @@ The patient was in no distress and the temperature was normal. There were non-te
 Studies
 The white blood cell count was 23,300 cells/mm³ (13% segmented cells, 1% bands, 60% lymphocytes, 16% atypical cells, 9% monocytes, and 1% prolymphocytes); hematocrit 42.5%; platelets 247,000/mm³ with clumps, prothrombin time 12.5 seconds, and partial thromboplastin time 30.3 seconds. The creatinine was 0.9 mg/dL, alanine aminotransferase (ALT) 455 U/liter, aspartate aminotransferase (AST) 447 U/liter, alkaline phosphatase 687 U/liter, total bilirubin 1.6 mg/dL, direct bilirubin 0.8 mg/dL, and lactate dehydrogenase 526 U/liter.
 Clinical Course Prior to Diagnosis
-Serologic tests were sent and flow cytometry was performed on peripheral blood. Ultrasonography of the right upper quadrant and computed tomography (CT) of the abdomen were performed ( Figures 1 and 2 ).
+Serologic tests were sent and flow cytometry was performed on peripheral blood. Ultrasonography of the right upper quadrant and computed tomography (CT) of the abdomen were performed (Figures 1 and 2).
 Figure 1. CT scan of the abdomen.
 Figure 2. CT scan of the abdomen.
 Diagnostic Procedure(s) and Result(s)
 Testing for cytomegalovirus (CMV) Immunoglobulin G was positive, consistent with prior infection. Testing for Hepatitis B surface antigen, antibody to hepatitis B surface antigen and hepatitis C antibody was negative. Flow cytometry of peripheral blood showed T-cell lymphocytosis with an inverted CD4:CD8 ratio. The serum protein electrophoresis (SPEP) was normal.
-Ultrasonography of the liver showed cholelithiasis, without cholecystitis, and a fatty liver. CT scanning of the abdomen demonstrated mesenteric adenopathy and colonic wall thickening with multiple low attenuation foci within the spleen, as well as cholelithiasis, diverticulosis and evidence of past radical prostatectomy ( Figures 1 and 2 ).
+Ultrasonography of the liver showed cholelithiasis, without cholecystitis, and a fatty liver. CT scanning of the abdomen demonstrated mesenteric adenopathy and colonic wall thickening with multiple low attenuation foci within the spleen, as well as cholelithiasis, diverticulosis and evidence of past radical prostatectomy (Figures 1 and 2).
 The heterophile test was positive. Epstein Barr virus (EBV) serology was consistent with acute Epstein Barr virus (EBV) infection: Anti-VCA IgG 640, anti-VCA IgM 20, early antigen > 640, and antinuclear antigen <10.
 Treatment and Followup
 The patient recovered uneventfully without additional treatment.
@@ -33,6 +33,9 @@ Final Diagnosis
 Acute mononucleosis due to Epstein Barr virus (EBV) infection in an elderly adult.
 References
 Hunt, D.P., Thabet, A., and Rosenberg, E.S. (2010). Case records of the Massachusetts General Hospital. Case 29-2010. A 29-year-old woman with fever and abdominal pain. N Engl J Med 363, 1266-1274.
-PMID:20860509 ( PubMed abstract )
+PMID:20860509(PubMed abstract) Okano, M., and Gross, T.G. (2011). Acute or Chronic Life-Threatening Diseases Associated With Epstein-Barr Virus Infection. Am J Med Sci.
+PMID:22104426(PubMed abstract)
+Hunt, D.P., Thabet, A., and Rosenberg, E.S. (2010). Case records of the Massachusetts General Hospital. Case 29-2010. A 29-year-old woman with fever and abdominal pain. N Engl J Med 363, 1266-1274.
+PMID:20860509(PubMed abstract)
 Okano, M., and Gross, T.G. (2011). Acute or Chronic Life-Threatening Diseases Associated With Epstein-Barr Virus Infection. Am J Med Sci.
-PMID:22104426 ( PubMed abstract )
+PMID:22104426(PubMed abstract)

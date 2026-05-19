@@ -6,10 +6,10 @@ He had a history of Crohn's disease.
 Physical Examination
 The patient was thin and chronically ill-appearing. The vital signs were normal. The PICC line site was not tender or erythematous. The remainder of his general physical examination was normal.
 Studies
-Gram stain of a blood culture specimen revealed the forms shown in Figure 1 .
+Gram stain of a blood culture specimen revealed the forms shown in Figure 1.
 Figure 1. Gram stain.
 Diagnostic Procedure(s) and Result(s)
-The gram stain of the blood culture demonstrates oval broad-based budding cells that are suggestive of Malassezia furfur and inconsistent with the other organisms in the differential diagnosis. Plating of the culture samples on Sabouraud dextrose agar supplemented with sterile olive oil yielded Malassezia furfur ( Figure 2 ).
+The gram stain of the blood culture demonstrates oval broad-based budding cells that are suggestive of Malassezia furfur and inconsistent with the other organisms in the differential diagnosis. Plating of the culture samples on Sabouraud dextrose agar supplemented with sterile olive oil yielded Malassezia furfur (Figure 2).
 Figure 2. Culture plate.
 Treatment and Followup
 The patient’s central line was removed and he was treated with a course of systemic amphotericin B.
@@ -19,4 +19,4 @@ Final Diagnosis
 Malassezia furfur line infection.
 References
 Marcon, M.J., and Powell, D.A. (1992). Human infections due to Malassezia spp. Clin Microbiol Rev 5, 101-119.
-PMID:1576583 ( PubMed abstract )
+PMID:1576583(PubMed abstract)

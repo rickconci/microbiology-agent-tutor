@@ -13,17 +13,17 @@ Studies
 The level of hemoglobin was 11.6 grams/dL and the white blood cell count (WBC) was normal. The level of aspartate aminotransferase (AST) was 111 U/L (normal 20-60), alanine aminotransferase (ALT) 79 U/L (normal 20-60), and alkaline phosphatase 146 U/L (normal 40-125); the bilirubin level was normal. Serological tests for anti-nuclear antibodies (ANA), syphilis (RPR), and exposure to human immunodeficiency virus (HIV), hepatitis viruses A, B, and C, Epstein-Barr Virus (EBV) and cytomegalovirus (CMV) were negative.
 A chest radiograph was normal. Computed tomography (CT) scan showed hepatosplenomegaly and mild fatty infiltration of the liver. Examination of tissue from a bone marrow biopsy was unremarkable.
 Clinical Course Prior to Diagnosis
-A liver biopsy was performed. Pathological examination of the tissue from the liver biopsy is shown in Figures 1 and 2 .
+A liver biopsy was performed. Pathological examination of the tissue from the liver biopsy is shown in Figures 1 and 2.
 Figure 1. Liver biopsy.
 Figure 2. Liver biopsy.
 Diagnostic Procedure(s) and Result(s)
-The pathological examination of the liver biopsy revealed “doughnut” granulomas ( Figures 1 and 2 ). Q fever serology was negative at week 2 and week 4 after the onset of illness, but at week 8, serological testing showed an immunoglobulin (Ig) M titer greater or equal to 1:10 and IgG greater or equal to 1:1280.
+The pathological examination of the liver biopsy revealed “doughnut” granulomas (Figures 1 and 2). Q fever serology was negative at week 2 and week 4 after the onset of illness, but at week 8, serological testing showed an immunoglobulin (Ig) M titer greater or equal to 1:10 and IgG greater or equal to 1:1280.
 Treatment and Followup
 The patient was treated with doxycycline and rifampin for a total course of 6 weeks' duration. His fever resolved and the liver enzymes returned to normal levels one month after the onset of the illness. By the second month, he was completely well.
 Discussion
-Coxiella burnetii , the agent of Q fever, is contracted through exposure to infected ruminants (parturient goats, cattle, sheep). Transmission mainly occurs by inhalation. Q fever is highly infectious, and may be a possible bioterrorism agent. Acute disease usually presents with high fever, pneumonia or hepatitis. The pathologic finding of "doughnut" granuloma is characteristic of Q fever, but may be seen in Hodgkin's disease, allopurinol hypersensitivity, Epstein-Barr virus infection, cytomegalovirus infection, and Salmonella typhi and Mycobacterium tuberculosis infections.
+Coxiella burnetii, the agent of Q fever, is contracted through exposure to infected ruminants (parturient goats, cattle, sheep). Transmission mainly occurs by inhalation. Q fever is highly infectious, and may be a possible bioterrorism agent. Acute disease usually presents with high fever, pneumonia or hepatitis. The pathologic finding of "doughnut" granuloma is characteristic of Q fever, but may be seen in Hodgkin's disease, allopurinol hypersensitivity, Epstein-Barr virus infection, cytomegalovirus infection, and Salmonella typhi and Mycobacterium tuberculosis infections.
 Final Diagnosis
-Q fever caused by Coxiella burnetii .
+Q fever caused by Coxiella burnetii.
 References
 Raoult, D. (2009). Reemergence of Q fever after 11 September 2001. Clin Infect Dis 48, 558-559.
-PMID:19191639 ( PubMed abstract )
+PMID:19191639(PubMed abstract)

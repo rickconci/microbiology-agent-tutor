@@ -8,28 +8,31 @@ Medications included glycopyrrolate (doubled dose over previous six months) and 
 Epidemiological History
 She had immigrated to the United States from Ethiopia six years before, and had not traveled since. She was married; her husband was her only sexual partner and was reportedly monogamous. She had no children or pets, worked in an office, and denied any history of tobacco, alcohol or drug use.
 Physical Examination
-The temperature was 97.9°F (36.6°), pulse 60 beats per minute, and blood pressure 100/68 mm Hg. She was well-nourished and appeared well. There were no oral lesions, and she had excellent dentition. There was a non-tender, rubbery, non-fixed lymph node (4-centimeters in diameter) in the right anterior cervical chain midway up the sternocleidomastoid (Figure 1) , and a non-tender, rubbery, non-fixed lymph node (two-centimeters in diameter) just lateral to the left margin of the thyroid. There was no supraclavicular, axillary, inguinal or other lymphadenopathy. Lungs were clear bilaterally, and the liver and spleen were non-tender and not enlarged. There was no clubbing, edema or rash noted in extremities.
+The temperature was 97.9°F (36.6°), pulse 60 beats per minute, and blood pressure 100/68 mm Hg. She was well-nourished and appeared well. There were no oral lesions, and she had excellent dentition. There was a non-tender, rubbery, non-fixed lymph node (4-centimeters in diameter) in the right anterior cervical chain midway up the sternocleidomastoid (Figure 1), and a non-tender, rubbery, non-fixed lymph node (two-centimeters in diameter) just lateral to the left margin of the thyroid. There was no supraclavicular, axillary, inguinal or other lymphadenopathy. Lungs were clear bilaterally, and the liver and spleen were non-tender and not enlarged. There was no clubbing, edema or rash noted in extremities.
 Figure 1. Physical finding.
 Studies
 Computed tomography (CT) of the chest showed no air space disease, granulomas or lymphadenopathy. A test for human immunodeficiency virus type 1 (HIV-1) was negative.
 Diagnostic Procedure(s) and Result(s)
 A Mantoux (PPD) test was placed and resulted in a positive reaction that measured 30 millimeters.
-The fine needle aspiration produced five milliliters (ml) of cloudy material that was sent for gram stain, culture, fungal stain, fungal culture, acid-fast bacilli (AFB) stain and mycobacterial culture, as well as cytopathology. Rapid cytology showed necrosis, and the AFB stain was positive. The final pathology revealed granulomas with a few giant cells and necrosis ( Figures 2 and 3 ).
-The culture grew Mycobacterium tuberculosis .
+The fine needle aspiration produced five milliliters (ml) of cloudy material that was sent for gram stain, culture, fungal stain, fungal culture, acid-fast bacilli (AFB) stain and mycobacterial culture, as well as cytopathology. Rapid cytology showed necrosis, and the AFB stain was positive. The final pathology revealed granulomas with a few giant cells and necrosis (Figures 2 and 3).
+The culture grew Mycobacterium tuberculosis.
 Figure 2. Pathology of aspiration specimen.
 Figure 3. Pathology of aspiration specimen.
 Treatment and Followup
 She was started on 4-drug therapy with isoniazid (INH), rifampin, pyrazinamide (PZA) and ethambutol. After one month, the organism was found to be susceptible to all of the above drugs and the ethambutol was stopped. Her lymph nodes decreased in size without suppuration.
 Discussion
 Tuberculous lymphadenitis is the most common cause of lymphadenopathy in developing countries (30-64%), and cervical nodes are most frequently affected (75%). Most adult cases are thought to represent a reactivation of the initial lymphatic spread of primary pulmonary infection, although this assumption has not been confirmed using newer molecular epidemiological tools.
-The differentiation between cervical lymphadenitis due to Mycobacterium tuberculosis versus atypical Mycobacterium is critical because the treatment strategy differs (medical vs. surgical, respectively). Epidemiology is particularly helpful: ~97% of mycobacterial lymphadenitis in U.S. adults is due to M. tuberculosis , whereas ~90% in U.S. children is due to atypical mycobacterium such as M. avium-intracellulare and M. scrofulaceum . The size of the PPD reaction is not a reliable way to differentiate because nontuberculous mycobacterial lymphadenitis in healthy children has been associated, in one study, with a mean PPD of 15.5 millimeters.
+The differentiation between cervical lymphadenitis due to Mycobacterium tuberculosis versus atypical Mycobacterium is critical because the treatment strategy differs (medical vs. surgical, respectively). Epidemiology is particularly helpful: ~97% of mycobacterial lymphadenitis in U.S. adults is due to M. tuberculosis, whereas ~90% in U.S. children is due to atypical mycobacterium such as M. avium-intracellulare and M. scrofulaceum. The size of the PPD reaction is not a reliable way to differentiate because nontuberculous mycobacterial lymphadenitis in healthy children has been associated, in one study, with a mean PPD of 15.5 millimeters.
 Where available, fine needle aspiration (FNA) is the initial diagnostic test of choice based on its low morbidity and high clinical yield (~80%). Specimens should be evaluated for cytopathology as well as AFB smear and mycobacterial culture.
 As with all forms of TB, therapy needs to be individually guided based on the site(s) of infection, the organism burden and the underlying immunocompetence of the host. Although a six-month course of therapy is generally recommended, some experts suggest that a longer duration may be helpful in preventing relapse. In up to one third of cases, node enlargement with pain, suppuration and even sinus formation can occur during chemotherapy. This paradoxical worsening is thought to represent an immune reaction to tuberculous antigens rather than failure of drug treatment, and improvement ultimately ensues. Short courses of corticosteroids and surgical excision have been reported to help in extreme circumstances. Affected lymph nodes may not disappear despite successful treatment: up to 20% of patients will have residual small (<1cm) lymph nodes.
 Final Diagnosis
-Lymphadenitis due to Mycobacterium tuberculosis .
+Lymphadenitis due to Mycobacterium tuberculosis.
 References
 Beyene, D., Bergval, I., Hailu, E., Ashenafi, S., Yamuah, L., Aseffa, A., Wiker, H.G., Engers, H., Klatser, P., and Sviland, L. (2009). Identification and genotyping of the etiological agent of tuberculous lymphadenitis in Ethiopia. J Infect Dev Ctries 3, 412-419.
-PMID:19762953 ( PubMed abstract )
+PMID:19762953(PubMed abstract) Handa, U., Mundi, I., and Mohan, S. (2012). Nodal tuberculosis revisited: a review. J Infect Dev Ctries 6, 6-12.
+PMID:22240421(PubMed abstract) World Health Organization Global tuberculosis control: surveillance, planning, financing: WHO report 2011. http://www.who.int/tb/publications/global_report/en/
+Beyene, D., Bergval, I., Hailu, E., Ashenafi, S., Yamuah, L., Aseffa, A., Wiker, H.G., Engers, H., Klatser, P., and Sviland, L. (2009). Identification and genotyping of the etiological agent of tuberculous lymphadenitis in Ethiopia. J Infect Dev Ctries 3, 412-419.
+PMID:19762953(PubMed abstract)
 Handa, U., Mundi, I., and Mohan, S. (2012). Nodal tuberculosis revisited: a review. J Infect Dev Ctries 6, 6-12.
-PMID:22240421 ( PubMed abstract )
+PMID:22240421(PubMed abstract)
 World Health Organization Global tuberculosis control: surveillance, planning, financing: WHO report 2011. http://www.who.int/tb/publications/global_report/en/

@@ -15,7 +15,7 @@ The patient was allergic to penicillin, cephalosporins, and multiple foods.
 Epidemiological History
 The child lived in an urban area of the United States Northeast. There was no history of recent travel, ill contacts, or insect bites.
 Physical Examination
-The patient was afebrile and in no distress. There was a normal oropharynx without oral or perioral ulcers. There was shotty cervical and groin adenopathy; no organomegaly was palpated. Sparse small vesicles were present on an erythematous base overlying erythematous, largely scabbed plaques on the anterior thighs, shins, ankles, and feet. There were intact periungual vesicles near the 2nd and 3rd digits of the right hand and over the ankle.
+The patient was afebrile and in no distress. There was a normal oropharynx without oral or perioral ulcers. There was shotty cervical and groin adenopathy; no organomegaly was palpated. Sparse small vesicles were present on an erythematous base overlying erythematous, largely scabbed plaques on the anterior thighs, shins, ankles, and feet. There were intact periungual vesicles near the 2nd and 3rd digits of the right hand and over the ankle. Figure 1. Physical findings.
 Figure 1. Physical findings.
 Diagnostic Procedure(s) and Result(s)
 An intact vesicle was unroofed and sent for immunofluorescent assay (IFA) and viral culture. Herpes simplex virus (HSV) was detected by the IFA and HSV-1 grew on viral culture. A swab obtained from a weeping area of lower leg grew Staphylococcus aureus on bacterial culture.
@@ -26,9 +26,12 @@ Eczema herpeticum has also been called “Kaposi’s varicelliform eruption due 
 Varicella could be considered given the appearance of vesicles of different ages but the limited distribution to areas of atopic dermatitis suggests HSV. While eczema herpeticum is usually limited to the skin, systemic dissemination can occur.
 Mortality prior to the availability of antiviral therapy was as high as 9%. The coalescence of vesicles leads to plaques that look impetigenous; superinfection with Staphylococcus aureus or Streptococcus pyogenes may also occur.
 Final Diagnosis
-Eczema herpeticum (herpes simplex virus-1 infection) with impetigo due to Staphylococcus aureus .
+Eczema herpeticum (herpes simplex virus-1 infection) with impetigo due to Staphylococcus aureus.
 References
 Brook, I. (2002). Secondary bacterial infections complicating skin lesions. J Med Microbiol 51, 808-812.
-PMID:12435058 ( PubMed abstract )
+PMID:12435058(PubMed abstract) Wollenberg, A., Wetzel, S., Burgdorf, W.H., and Haas, J. (2003). Viral infections in atopic dermatitis: pathogenic aspects and clinical management. J Allergy Clin Immunol 112, 667-674.
+PMID:14564342(PubMed abstract)
+Brook, I. (2002). Secondary bacterial infections complicating skin lesions. J Med Microbiol 51, 808-812.
+PMID:12435058(PubMed abstract)
 Wollenberg, A., Wetzel, S., Burgdorf, W.H., and Haas, J. (2003). Viral infections in atopic dermatitis: pathogenic aspects and clinical management. J Allergy Clin Immunol 112, 667-674.
-PMID:14564342 ( PubMed abstract )
+PMID:14564342(PubMed abstract)

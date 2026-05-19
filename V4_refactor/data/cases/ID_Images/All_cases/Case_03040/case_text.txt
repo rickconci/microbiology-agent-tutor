@@ -4,18 +4,19 @@ A man in his twenties presented with a 3-week history of fevers and papules on h
 Epidemiological History
 The patient was heterosexual and incarcerated in South Africa at the time of his presentation. He denied a history of exposure to animals, and had never traveled outside of the country.
 Physical Examination
-The patient looked ill. His temperature was 38.5°C (101.3°F). Papules were present diffusely, involving the face ( Figure 1 ), limbs ( Figure 2 ) and trunk.
+The patient looked ill. His temperature was 38.5°C (101.3°F). Papules were present diffusely, involving the face (Figure 1), limbs (Figure 2) and trunk.
 Figure 1. Physical findings on the face.
 Figure 2. Upper extremity physical findings.
 Studies
 The white blood cell (WBC) count was 4,500 cells/mm³ (lymphocytes 600/mm³), hemoglobin 9.9 g/dL, platelets 507,000/mm³. The plasma levels of urea and electrolytes were normal; the level of alkaline phosphatase was 168 U/L, gamma glutamyl-transpeptidase (GGT) 236 U/L and alanine aminotransferase (ALT, or glutamic pyruvate transaminase (SGPT)) 65 U/L.
 A chest radiograph and ultrasonography of the abdomen were normal.
 Diagnostic Procedure(s) and Result(s)
-Screening and confirmation tests for human immunodeficiency virus (HIV) were positive. The CD4 T-lymphocyte cell count was 10 cells/mm³. Pathological examination of a skin biopsy showed vascular proliferation with a neutrophilic infiltrate. Warthin starry stain of the tissue revealed clumps of organisms consistent with Bartonella .
+Screening and confirmation tests for human immunodeficiency virus (HIV) were positive. The CD4 T-lymphocyte cell count was 10 cells/mm³. Pathological examination of a skin biopsy showed vascular proliferation with a neutrophilic infiltrate. Warthin starry stain of the tissue revealed clumps of organisms consistent with Bartonella.
 Treatment and Followup
-The patient improved after treatment with erythromycin (500 mg every six hours for two weeks). Follow-up examination is shown in Figure 3 .
+The patient improved after treatment with erythromycin (500 mg every six hours for two weeks). Follow-up examination is shown in Figure 3.
 Figure 3. Appearance after treatment.
 Discussion
-This patient with HIV infection and AIDS had bacillary angiomatosis (BA). This disease is caused by Bartonella quintana and Bartonella henselae . BA occurs in immunocompromised patients, such as individuals with AIDS, and is characterized by proliferation of endothelial cells. BA generally involves the skin and lymph nodes, but may occasionally affect the liver or spleen (bacillary peliosis) or other internal organs. The cutaneous lesions of BA often have a vascular appearance and may bleed when incised. The appearance of the cutaneous lesions is similar to that of verruga peruana, but the latter is restricted to South America.
+This patient with HIV infection and AIDS had bacillary angiomatosis (BA). This disease is caused by Bartonella quintana and Bartonella henselae. BA occurs in immunocompromised patients, such as individuals with AIDS, and is characterized by proliferation of endothelial cells. BA generally involves the skin and lymph nodes, but may occasionally affect the liver or spleen (bacillary peliosis) or other internal organs. The cutaneous lesions of BA often have a vascular appearance and may bleed when incised. The appearance of the cutaneous lesions is similar to that of verruga peruana, but the latter is restricted to South America.
 Final Diagnosis
 Bacillary angiomatosis due to Bartonella infection in an African patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).
+References

@@ -9,41 +9,49 @@ Epidemiological History
 The patient was a marine biologist. He was frequently bitten in the course of caring for marine animals but had never been ill as a result of these bites. The beluga whale was ill, and died shortly after the bite occurred.
 Approximately one week after sustaining the bite, he had traveled to Taiwan for a conference. He stayed one week in a hotel in a large, urban area and reported no unusual activities or food exposures. During the previous decade, he had lived in French Polynesia, Japan, Mexico, United States and Canada.
 Physical Examination
-The patient appeared well. The temperature was 99.4°F (37.4°C), blood pressure 159/105 mm Hg, pulse 98 beats per minute, respirations 18 per minute, and oxygen saturation 95% while breathing room air. There were two raised tender violaceous and erythematous nodules on the dorsal surface of his right forearm ( Figure 1 ), associated with erythematous tracking up the right forearm from the nodules. There was no drainage, warmth, fluctuance. or palpable axillary, supraclavicular, or cervical lymphadenopathy. His lungs were clear, without crackles or wheezes. The remainder of the examination was otherwise normal.
+The patient appeared well. The temperature was 99.4°F (37.4°C), blood pressure 159/105 mm Hg, pulse 98 beats per minute, respirations 18 per minute, and oxygen saturation 95% while breathing room air. There were two raised tender violaceous and erythematous nodules on the dorsal surface of his right forearm (Figure 1), associated with erythematous tracking up the right forearm from the nodules. There was no drainage, warmth, fluctuance. or palpable axillary, supraclavicular, or cervical lymphadenopathy. His lungs were clear, without crackles or wheezes. The remainder of the examination was otherwise normal.
 Figure 1. Physical findings.
 Studies
 Routine laboratory testing, including a complete blood count with differential, comprehensive chemistry panel, and electrolytes, was normal. Testing for HIV antibodies was negative, and blood and urine cultures were sterile. A chest radiograph was normal.
 Clinical Course Prior to Diagnosis
 The patient was admitted to the hospital and clindamycin was administered for cellulitis with lymphangitis.
 Diagnostic Procedure(s) and Result(s)
-Dermatology consultants performed a skin biopsy. On the third hospital day, histopathological examination of the tissue revealed oval yeast forms that stained positive with diastase periodic acid Schiff (DPAS) staining, consistent with Histoplasma capsulatum ( Figure 2, with arrows ); the organisms were also seen with hematoxylin and eosin (H&E) staining ( Figure 3 ). Fungal culture of the skin biopsy specimen grew a fungus that was identified as Histoplasma capsulatum by 18s rRNA genetic sequencing at the Northwestern Memorial Hospital microbiology laboratory.
+Dermatology consultants performed a skin biopsy. On the third hospital day, histopathological examination of the tissue revealed oval yeast forms that stained positive with diastase periodic acid Schiff (DPAS) staining, consistent with Histoplasma capsulatum (Figure 2, with arrows); the organisms were also seen with hematoxylin and eosin (H&E) staining (Figure 3). Fungal culture of the skin biopsy specimen grew a fungus that was identified as Histoplasma capsulatum by 18s rRNA genetic sequencing at the Northwestern Memorial Hospital microbiology laboratory.
 The patient’s urine Histoplasma antigen was 0.78 ng/mL (0.6 – 3.9 ng/ml considered low positive).
-Histopatholgical examination of tissue from the lung of the beluga whale obtained at necropsy (performed by Dr. Michael Kinsel) also showed oval yeast forms that stained positive with Gomori’s methenamine silver stain, and were consistent with Histoplasma capsulatum ( Figure 4, with arrow ). This was also confirmed by genetic sequencing performed on the lung tissue at the University of Illinois veterinary pathology laboratory.
+Histopatholgical examination of tissue from the lung of the beluga whale obtained at necropsy (performed by Dr. Michael Kinsel) also showed oval yeast forms that stained positive with Gomori’s methenamine silver stain, and were consistent with Histoplasma capsulatum (Figure 4, with arrow). This was also confirmed by genetic sequencing performed on the lung tissue at the University of Illinois veterinary pathology laboratory.
 Figure 2. Skin biopsy, DPAS stain, with arrow showing organisms.
 Figure 3. Skin biopsy, H&E stain.
 Figure 4. Whale lung, GMS stain, with arrow showing organisms.
 Treatment and Followup
 Clindamycin was discontinued and the patient was started on itraconazole. At follow-up one month later, his skin lesions and constitutional symptoms had completely resolved. He was treated for a total of three months with no signs of recurrent disease.
 Discussion
-Zoonotic transmission of infection via marine mammal bite has been most commonly reported for Mycobacterium marinum , Mycoplasma spp., and Erysipelothrix spp. [Geraci JR and Ridway SH, 1991]. Fungal infections in marine mammals are reported occasionally [Higgins R, 2000; Dierauf LA and Gulland FMD, 2001], and may include cryptococcosis, coccidioidomycosis, aspergillosis, histoplasmosis and blastomycosis. One documented case of transmission of a fungal infection from a marine mammal to humans [Symmers WS, 1983] involved a case of Lobo's disease, also known as lobomycosis, which is now thought to be caused by Lacazia loboi [Paniz-Mondolfi et al. 2012].
+Zoonotic transmission of infection via marine mammal bite has been most commonly reported for Mycobacterium marinum, Mycoplasma spp., and Erysipelothrix spp. [Geraci JR and Ridway SH, 1991]. Fungal infections in marine mammals are reported occasionally [Higgins R, 2000; Dierauf LA and Gulland FMD, 2001], and may include cryptococcosis, coccidioidomycosis, aspergillosis, histoplasmosis and blastomycosis. One documented case of transmission of a fungal infection from a marine mammal to humans [Symmers WS, 1983] involved a case of Lobo's disease, also known as lobomycosis, which is now thought to be caused by Lacazia loboi [Paniz-Mondolfi et al. 2012].
 Primary cutaneous skin lesions without systemic involvement are an uncommon presentation of histoplasmosis. They most often present as tender, erythematous nodules with associated lymphangitic streaking. Most cases in the literature are associated with accidental inoculations among patients with occupational exposure [Tesh RB and Schneidau JD. 1966; Saheki MN et al. 2008;Tosh FE et al. 1964; Krunic AL et al. 2002]. Diagnosis is usually made by histopathology or culture or a skin biopsy specimen. Need for treatment is unclear, but in reported cases, treatment with varying doses and durations of itraconazole produced clinical cure [Tesh RB and Schneidau JD. 1966; Saheki MN et al. 2008;Tosh FE et al. 1964; Krunic AL et al. 2002].
 Primary cutaneous histoplasmosis should be considered in the differential diagnosis of nodular skin lesions among patients with appropriate exposure history.
 Final Diagnosis
-Primary cutaneous histoplasmosis, caused by Histoplasma capsulatum , following a bite by a beluga whale.
+Primary cutaneous histoplasmosis, caused by Histoplasma capsulatum, following a bite by a beluga whale.
 References
+Dierauf, L.A., and Gulland, F.M.D. (2001). CRC handbook of marine mammal medicine, 2nd edn (Boca Raton, FL, CRC Press). Geraci, J. R. and Ridgway, S. H. (1991), On disease transmission between cetaceans and humans. Marine Mammal Science, 7: 191–194. doi: 10.1111/j.1748-7692.1991.tb00565.x Higgins, R. (2000). Bacteria and fungi of marine mammals: a review. Can Vet J 41, 105-116.
+PMID:10723596(PubMed abstract) Krunic, A.L., Carag, H., Medenica, M.M., and Lorincz, A.L. (2002). A case of primary cutaneous histoplasmosis in a patient with diabetes and multi-infarct dementia. J Dermatol 29, 797-802.
+PMID:12532047(PubMed abstract) Paniz-Mondolfi A, Talhari C, Sander Hoffmann L, Connor DL, Talhari S, Bermudez-Villapol L, Hernandez-Perez M, Van Bressem MF. (2012) Lobomycosis: an emerging disease in humans and delphinidae.Mycoses. 2012 Jul;55(4):298-309. doi: 10.1111/j.1439-0507.2012.02184.x. Epub Mar 19.
+PMID:22429689(PubMed abstract) Saheki, M.N., Schubach Ade, O., Salgueiro Mde, M., Conceicao-Silva, F., Wanke, B., and Lazera, M. (2008). [Primary cutaneous histoplasmosis: case report on an immunocompetent patient and review of the literature]. Rev Soc Bras Med Trop 41, 680-682.
+PMID:19142453(PubMed abstract) Symmers, W.S. (1983). A possible case of Lobo's disease acquired in Europe from a bottle-nosed dolphin (Tursiops truncatus). Bull Soc Pathol Exot Filiales 76, 777-784.
+PMID:6231133(PubMed abstract) Tesh, R.B., and Schneidau, J.D., Jr. (1966). Primary cutaneous histoplasmosis. N Engl J Med 275, 597-599.
+PMID:5920413(PubMed abstract) Tosh, F.E., Balhuizen, J., Yates, J.L., and Brasher, C.A. (1964). Primary Cutaneous Histoplasmosis. Report of a Case. Arch Intern Med 114, 118-119.
+PMID:14152118(PubMed abstract)
 Dierauf, L.A., and Gulland, F.M.D. (2001). CRC handbook of marine mammal medicine, 2nd edn (Boca Raton, FL, CRC Press).
 Geraci, J. R. and Ridgway, S. H. (1991), On disease transmission between cetaceans and humans. Marine Mammal Science, 7: 191–194. doi: 10.1111/j.1748-7692.1991.tb00565.x
 Higgins, R. (2000). Bacteria and fungi of marine mammals: a review. Can Vet J 41, 105-116.
-PMID:10723596 ( PubMed abstract )
+PMID:10723596(PubMed abstract)
 Krunic, A.L., Carag, H., Medenica, M.M., and Lorincz, A.L. (2002). A case of primary cutaneous histoplasmosis in a patient with diabetes and multi-infarct dementia. J Dermatol 29, 797-802.
-PMID:12532047 ( PubMed abstract )
+PMID:12532047(PubMed abstract)
 Paniz-Mondolfi A, Talhari C, Sander Hoffmann L, Connor DL, Talhari S, Bermudez-Villapol L, Hernandez-Perez M, Van Bressem MF. (2012) Lobomycosis: an emerging disease in humans and delphinidae.Mycoses. 2012 Jul;55(4):298-309. doi: 10.1111/j.1439-0507.2012.02184.x. Epub Mar 19.
-PMID:22429689 ( PubMed abstract )
+PMID:22429689(PubMed abstract)
 Saheki, M.N., Schubach Ade, O., Salgueiro Mde, M., Conceicao-Silva, F., Wanke, B., and Lazera, M. (2008). [Primary cutaneous histoplasmosis: case report on an immunocompetent patient and review of the literature]. Rev Soc Bras Med Trop 41, 680-682.
-PMID:19142453 ( PubMed abstract )
+PMID:19142453(PubMed abstract)
 Symmers, W.S. (1983). A possible case of Lobo's disease acquired in Europe from a bottle-nosed dolphin (Tursiops truncatus). Bull Soc Pathol Exot Filiales 76, 777-784.
-PMID:6231133 ( PubMed abstract )
+PMID:6231133(PubMed abstract)
 Tesh, R.B., and Schneidau, J.D., Jr. (1966). Primary cutaneous histoplasmosis. N Engl J Med 275, 597-599.
-PMID:5920413 ( PubMed abstract )
+PMID:5920413(PubMed abstract)
 Tosh, F.E., Balhuizen, J., Yates, J.L., and Brasher, C.A. (1964). Primary Cutaneous Histoplasmosis. Report of a Case. Arch Intern Med 114, 118-119.
-PMID:14152118 ( PubMed abstract )
+PMID:14152118(PubMed abstract)

@@ -12,10 +12,11 @@ Figure 1. Abdominal skin rash
 Studies
 Hemoglobin 10.3 g/dL (reference range 11.5-15.5), hematocrit 31.4% (reference range 36-46%), platelets 314 k/uL (reference range 150-400), white cell count 3.7 k/uL (reference range 3.7-11.0), with 29% neutrophils, 14% lymphocytes, 43% eosinophils. Serum electrolytes and chemistries were normal except for a creatinine of 1.46 mg/dL (reference 0.58-0.96). C-reactive protein 3.4 mg/dL (reference range < 0.9).
 Computed tomography (CT) Abdomen/Pelvis demonstrated borderline to mildly dilated loops of small bowel in the lower abdomen with suggestion of wall thickening, possibly enteritis. No pneumatosis, portal venous gas, or free intraperitoneal air. CT Chest showed new diffuse lung opacities, differential including including pulmonary edema, atypical pneumonia, or alveolar hemorrhage.
-Figure 2. Labs
+Figure 2. Skin, abdomen punch biopsy
+Figure 5. Skin, abdomen punch biopsy
 Clinical Course Prior to Diagnosis
 Pre-transplant screening was unremarkable, including negative Strongyloides IgG. The patient received standard immunizations. She had minimal travel history outside of the U.S., with a past trip to Mexico over 20 years prior. Post-transplant she was placed on standard immunosuppressive therapy with tacrolimus, mycophenolate mofetil, and prednisone. She was also on valganciclovir and trimethoprim-sulfamethoxazole prophylaxis. She had undergone esophagogastroduodenoscopy (EGD) approximately 2 weeks post-transplant for dysphagia and odynophagia with evidence of many superficial esophageal ulcers. Pathology demonstrated active esophagitis with granulation tissue, with special stains negative for herpes simplex virus (HSV), cytomegalovirus (CMV) and PAS/D. She was discharged with pantoprazole which was continued until re-admission 2 months later.
-Initial workup, including stool pathogen panel, blood cultures, and CMV and EBV DNA levels, was negative. On hospital day 4, an EGD revealed erosive gastropathy and a CT A/P raised concern for ileus. Empiric ganciclovir was started due to concern for tissue invasive CMV infection. That evening, the patient became confused and developed hypoxia, necessitating transfer to the ICU and intubation with mechanical ventilation. Blood cultures obtained at this time were positive for gram negative rods, which were subsequently identified as Enterobacter cloacae .
+Initial workup, including stool pathogen panel, blood cultures, and CMV and EBV DNA levels, was negative. On hospital day 4, an EGD revealed erosive gastropathy and a CT A/P raised concern for ileus. Empiric ganciclovir was started due to concern for tissue invasive CMV infection. That evening, the patient became confused and developed hypoxia, necessitating transfer to the ICU and intubation with mechanical ventilation. Blood cultures obtained at this time were positive for gram negative rods, which were subsequently identified as Enterobacter cloacae.
 Diagnostic Procedure(s) and Result(s)
 EGD (esophagogastroduodenoscopy)
 Small bowel, duodenum, biopsy: Acute duodenitis with Strongyloides organisms. CMV, HSV and adenovirus immunohistochemistry negative (Figure 3)
@@ -33,13 +34,12 @@ Right ventricle, endomyocardial biopsy:
 Foci of interstitial mononuclear cell infiltrates with numerous eosinophils. There is one biopsy fragment with a granuloma containing an elongated wrinkled eosinophilic structure with numerous faint blue nuclei. In the setting of disseminated Strongyloides infestation, the morphology of this structure is consistent with a degenerated Strongyloides larva.
 Figure 3. Small bowel, duodenum, biopsy. Acute duodenitis with strongyloides organisms.
 Figure 4. Stool Ova & Parasite test
-Figure 5. Skin, abdomen punch biopsy
-Figure 6. CT Chest
+Figure 6. Stool Ova & Parasite test
 Treatment and Followup
 Strongyloides was identified on duodenal biopsy, prompting immediate initiation of oral ivermectin. Because pre-transplant screening of the patient for Strongyloides IgG was negative, there was concern for donor-derived infection which was later confirmed in another recipient from the same donor. A stool O&P confirmed presence of Strongyloides.
 Prednisone dosing was reduced and ESBL Enterobacter cloacae bacteremia was treated with meropenem. Despite initial therapy, the patient’s condition worsened, requiring intensive care unit admission for respiratory failure and intubation. Bronchoscopy with BAL demonstrated diffuse alveolar hemorrhage (DAH) and O&P of BAL fluid confirmed presence of Strongyloides larvae, leading to the diagnosis of hyperinfection syndrome. Due to persistent encephalopathy, a lumbar puncture was obtained, with E. faecium on culture which was treated with linezolid.
 The abdominal maculopapular rash noted on admission became progressively more purpuric and spread to involve her periumbilical region, bilateral flanks and bilateral proximal anterior thighs (Figure 1). Dermatology was consulted due to high suspicion of cutaneous strongyloidiasis. A punch skin biopsy was obtained and histological examination showed basophilic exogenous structures, consistent with nematode larvae, percolating between collagen bundles within the dermis and subcutaneous tissues (Figure 2).
-Patient was initiated on oral ivermectin 200 mcg/kg/day the same day that the EGD results were reported. Due to the development of ileus with concern for impaired enteric absorption, an Investigational New Drug (IND) application was submitted and approved by the FDA for subcutaneous administration of a veterinary preparation of ivermectin, which was started on hospital day 9, at which point her PO ivermectin was discontinued. She finished a course of meropenem for ESBL Enterobacter bacteremia . Stool O&Ps were performed every 3 days while on subcutaneously administered ivermectin. O&P became negative after 12 days of ivermectin (9 days of subcutaneous ivermectin) and she was transitioned back to oral ivermectin once bowel function returned.
+Patient was initiated on oral ivermectin 200 mcg/kg/day the same day that the EGD results were reported. Due to the development of ileus with concern for impaired enteric absorption, an Investigational New Drug (IND) application was submitted and approved by the FDA for subcutaneous administration of a veterinary preparation of ivermectin, which was started on hospital day 9, at which point her PO ivermectin was discontinued. She finished a course of meropenem for ESBL Enterobacter bacteremia. Stool O&Ps were performed every 3 days while on subcutaneously administered ivermectin. O&P became negative after 12 days of ivermectin (9 days of subcutaneous ivermectin) and she was transitioned back to oral ivermectin once bowel function returned.
 Discussion
 This case highlights the potential for donor-derived Strongyloides infection in heart transplant recipients, underscoring the need for vigilant screening in high-risk populations. Early recognition and treatment with ivermectin are critical in preventing progression to hyperinfection syndrome.
 Additionally, this case demonstrates both disseminated disease in which there is spread of organism to organs outside of the normal life cycle as well as hyperinfection syndrome, characterized by an accelerated autoinfection.
@@ -49,17 +49,25 @@ Final Diagnosis
 Donor-derived Strongyloidiasis Hyperinfection Syndrome with cutaneous involvement.
 References
 Kalb RE, Grossman ME. Periumbilical purpura in disseminated strongyloidiasis. JAMA. 1986 Sep 5;256(9):1170-1. PMID: 3735652.
-PMID:3735652 ( PubMed abstract )
+PMID:3735652(PubMed abstract) Periumbilical thumbprint parasitic purpura: A highly fatal sign in disseminated Strongyloides infection that may mimic vasculitis clinically. Journal of the American Academy of Dermatology, Volume 72, Issue 5, AB129 Pivoto João GA, Alves Antunes IF, Mendes Dos Santos L. Fatal Disseminated Strongyloidiasis with Periumbilical Purpura. Am J Trop Med Hyg. 2021 Jun 28;105(4):860-861. doi: 10.4269/ajtmh.21-0464. PMID: 34181569; PMCID: PMC8592155.
+PMID:34181569(PubMed abstract) Purvis RS, Beightler EL, Diven DG, Sanchez RL, Tyring SK. Strongyloides hyperinfection presenting with petechiae and purpura. Int J Dermatol. 1992 Mar;31(3):169-71. doi: 10.1111/j.1365-4362.1992.tb03925.x. PMID: 1568809.
+PMID:1568809(PubMed abstract) Salluh JI, Bozza FA, Pinto TS, Toscano L, Weller PF, Soares M. Cutaneous periumbilical purpura in disseminated strongyloidiasis in cancer patients: a pathognomonic feature of potentially lethal disease? Braz J Infect Dis. 2005 Oct;9(5):419-24. doi: 10.1590/s1413-86702005000500010. Epub 2006 Jan 6. PMID: 16410894.
+PMID:16410894(PubMed abstract) van Hattem S, Schuttelaar ML. Disseminated strongyloidiasis caused by heart donor-to-host transmission presenting with purpura. Clin Exp Dermatol. 2010 Jun;35(4):e149-50. doi: 10.1111/j.1365-2230.2009.03740.x. Epub 2009 Nov 3. PMID: 19886957
+PMID:19886957(PubMed abstract) Weiser JA, Scully BE, Bulman WA, Husain S, Grossman ME. Periumbilical parasitic thumbprint purpura: strongyloides hyperinfection syndrome acquired from a cadaveric renal transplant. Transpl Infect Dis. 2011 Feb;13(1):58-62. doi: 10.1111/j.1399-3062.2010.00516.x. PMID: 20525017.
+PMID:20525017(PubMed abstract) Zeitler K, Jariwala R, Restrepo-Jaramillo R, Kapadia S, Casanas B, Alrabaa S, Sriaroon C. Successful use of subcutaneous ivermectin for the treatment of Strongyloides stercoralis hyperinfection in the setting of small bowel obstruction and paralytic ileus in the immunocompromised population. BMJ Case Rep. 2018 Jun 4;2018:bcr2017223138. doi: 10.1136/bcr-2017-223138. PMID: 29866667; PMCID: PMC5990086.
+PMID:29866667(PubMed abstract)
+Kalb RE, Grossman ME. Periumbilical purpura in disseminated strongyloidiasis. JAMA. 1986 Sep 5;256(9):1170-1. PMID: 3735652.
+PMID:3735652(PubMed abstract)
 Periumbilical thumbprint parasitic purpura: A highly fatal sign in disseminated Strongyloides infection that may mimic vasculitis clinically. Journal of the American Academy of Dermatology, Volume 72, Issue 5, AB129
 Pivoto João GA, Alves Antunes IF, Mendes Dos Santos L. Fatal Disseminated Strongyloidiasis with Periumbilical Purpura. Am J Trop Med Hyg. 2021 Jun 28;105(4):860-861. doi: 10.4269/ajtmh.21-0464. PMID: 34181569; PMCID: PMC8592155.
-PMID:34181569 ( PubMed abstract )
+PMID:34181569(PubMed abstract)
 Purvis RS, Beightler EL, Diven DG, Sanchez RL, Tyring SK. Strongyloides hyperinfection presenting with petechiae and purpura. Int J Dermatol. 1992 Mar;31(3):169-71. doi: 10.1111/j.1365-4362.1992.tb03925.x. PMID: 1568809.
-PMID:1568809 ( PubMed abstract )
+PMID:1568809(PubMed abstract)
 Salluh JI, Bozza FA, Pinto TS, Toscano L, Weller PF, Soares M. Cutaneous periumbilical purpura in disseminated strongyloidiasis in cancer patients: a pathognomonic feature of potentially lethal disease? Braz J Infect Dis. 2005 Oct;9(5):419-24. doi: 10.1590/s1413-86702005000500010. Epub 2006 Jan 6. PMID: 16410894.
-PMID:16410894 ( PubMed abstract )
+PMID:16410894(PubMed abstract)
 van Hattem S, Schuttelaar ML. Disseminated strongyloidiasis caused by heart donor-to-host transmission presenting with purpura. Clin Exp Dermatol. 2010 Jun;35(4):e149-50. doi: 10.1111/j.1365-2230.2009.03740.x. Epub 2009 Nov 3. PMID: 19886957
-PMID:19886957 ( PubMed abstract )
+PMID:19886957(PubMed abstract)
 Weiser JA, Scully BE, Bulman WA, Husain S, Grossman ME. Periumbilical parasitic thumbprint purpura: strongyloides hyperinfection syndrome acquired from a cadaveric renal transplant. Transpl Infect Dis. 2011 Feb;13(1):58-62. doi: 10.1111/j.1399-3062.2010.00516.x. PMID: 20525017.
-PMID:20525017 ( PubMed abstract )
+PMID:20525017(PubMed abstract)
 Zeitler K, Jariwala R, Restrepo-Jaramillo R, Kapadia S, Casanas B, Alrabaa S, Sriaroon C. Successful use of subcutaneous ivermectin for the treatment of Strongyloides stercoralis hyperinfection in the setting of small bowel obstruction and paralytic ileus in the immunocompromised population. BMJ Case Rep. 2018 Jun 4;2018:bcr2017223138. doi: 10.1136/bcr-2017-223138. PMID: 29866667; PMCID: PMC5990086.
-PMID:29866667 ( PubMed abstract )
+PMID:29866667(PubMed abstract)

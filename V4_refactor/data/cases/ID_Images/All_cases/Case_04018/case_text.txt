@@ -4,14 +4,14 @@ A middle-aged man presented with a right posterolateral headache and fevers up t
 Past Medical History
 He had a history of Osler Weber Rendu Syndrome and pulmonary arteriovenous malformations (AVMs). He had a right temporal brain abscess seven years previously, which had been treated with surgical resection and antibiotics.
 Physical Examination
-The patient appeared uncomfortable and drowsy. He was afebrile with normal vital signs; the oxygen saturation was 88% on ambient air. His speech was slow and labored, and some word finding difficulty was noted. The motor and sensory examinations were normal. There was mild clubbing and hypertrophic osteoarthropathy ( Figure 1 ).
+The patient appeared uncomfortable and drowsy. He was afebrile with normal vital signs; the oxygen saturation was 88% on ambient air. His speech was slow and labored, and some word finding difficulty was noted. The motor and sensory examinations were normal. There was mild clubbing and hypertrophic osteoarthropathy (Figure 1).
 Figure 1. Physical findings.
 Studies
-Magnetic resonance imaging (MRI) of the brain ( Figures 2 and 3 ) revealed a round, 2-centimeter by 2-centimeter ring-enhancing lesion in the anterior portion of the right temporal lobe and a 4-millimeter left frontal lobe lesion. There was also right occipital lobe encephalomalacia at the site of the resection of his previous brain abscess.
+Magnetic resonance imaging (MRI) of the brain (Figures 2 and 3) revealed a round, 2-centimeter by 2-centimeter ring-enhancing lesion in the anterior portion of the right temporal lobe and a 4-millimeter left frontal lobe lesion. There was also right occipital lobe encephalomalacia at the site of the resection of his previous brain abscess.
 Figure 2. MRI scan of the brain.
 Figure 3. MRI scan of the brain.
 Diagnostic Procedure(s) and Result(s)
-The patient underwent a craniotomy, and cultures from resected brain mass grew a mixture of organisms, including alpha-hemolytic Streptococcus anginosus (milleri group), Prevotella intermedia , Fusobacterium nucleatum , Peptostreptococcus species and Bacteroides ureolyticus .
+The patient underwent a craniotomy, and cultures from resected brain mass grew a mixture of organisms, including alpha-hemolytic Streptococcus anginosus (milleri group), Prevotella intermedia, Fusobacterium nucleatum, Peptostreptococcus species and Bacteroides ureolyticus.
 Treatment and Followup
 The patient was treated with ceftriaxone and metronidazole for a prolonged course and recovered completely.
 Discussion
@@ -21,4 +21,4 @@ Final Diagnosis
 Bacterial brain abscess in a patient with hereditary hemorrhagic telangiectasia (Osler Weber Rendu) and pulmonary arteriovenous malformations.
 References
 Swanson, K.L., Prakash, U.B., and Stanson, A.W. (1999). Pulmonary arteriovenous fistulas: Mayo Clinic experience, 1982-1997. Mayo Clin Proc 74, 671-680.
-PMID:10405695 ( PubMed abstract )
+PMID:10405695(PubMed abstract)

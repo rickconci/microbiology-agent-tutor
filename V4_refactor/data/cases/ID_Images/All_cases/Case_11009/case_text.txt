@@ -16,15 +16,15 @@ Serologic testing for antibodies to human immunodeficiency virus (HIV) and tests
 A chest radiograph was normal. Computed tomography (CT), without contrast enhancement, of the chest, abdomen and pelvis, showed bilateral paraseptal emphysematous changes and dependent bilateral groundglass opacities in all lung fields. CT of the head was normal. Echocardiography showed a left ventricular ejection fraction of 60% and no evidence of vegetations, and there was no evidence of thrombosis by non-invasive testing (Doppler) of the legs.
 Clinical Course Prior to Diagnosis
 Ceftriaxone, azithromycin, intravenous fluids, and high dose corticosteroids were administered and cryoprecipitate was infused for possible pulmonary infection, acute kidney injury cryoglobulinemia and vasculitis. After one dose, azithromycin was stopped and acyclovir and vancomycin were added for possible meningitis. Lumbar puncture was not performed because of thrombocytopenia.
-During the next two days, dyspnea increased, scrotal edema and pain worsened and the mottled appearance of the feet evolved into frank necrosis. Physical findings are shown in Figures 1 and 2 . CT of the chest demonstrated bilateral opacities.
-A punch skin biopsy of the proximal first toe was performed; pathological examination of the biopsy with hematoxylin and eosin (H and E) stain is shown in Figures 3 and 4 .
+During the next two days, dyspnea increased, scrotal edema and pain worsened and the mottled appearance of the feet evolved into frank necrosis. Physical findings are shown in Figures 1 and 2. CT of the chest demonstrated bilateral opacities.
+A punch skin biopsy of the proximal first toe was performed; pathological examination of the biopsy with hematoxylin and eosin (H and E) stain is shown in Figures 3 and 4.
 Ultrasonography demonstrated evidence of epididymo-orchitis on the right.
 Figure 1. Physical findings.
 Figure 2. Physical findings, with reticulate erythema on the palms.
 Figure 3. Skin biopsy, hematoxylin and eosin stain.
 Figure 4. Skin biopsy, H and E stain.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of the biopsy, shown in Figure 3 at 20 x magnification, revealed epidermis with full thickness necrosis and focal detachment. The papillary dermis was edematous, with separation of collagen bundles. Figure 4 , shown at 600 x magnification, demonstrates the reticular dermis with small blood vessels involved by a leukocytoclastic vasculitis surrounding eccrine ducts. Trans mural fibrinoid necrosis (solid arrow), characteristic of a leukocytoclastic vasculitis, is seen, with nuclear dust (open arrow) from degenerating neutrophils. There were also swollen vascular endothelial cells (solid arrow with notched tail) and intraluminal fibrin thrombi (open arrow with notched tail), as well as white cells in the vessel wall, and reactive endothelial cells.
+Pathological examination of the biopsy, shown in Figure 3 at 20 x magnification, revealed epidermis with full thickness necrosis and focal detachment. The papillary dermis was edematous, with separation of collagen bundles. Figure 4, shown at 600 x magnification, demonstrates the reticular dermis with small blood vessels involved by a leukocytoclastic vasculitis surrounding eccrine ducts. Trans mural fibrinoid necrosis (solid arrow), characteristic of a leukocytoclastic vasculitis, is seen, with nuclear dust (open arrow) from degenerating neutrophils. There were also swollen vascular endothelial cells (solid arrow with notched tail) and intraluminal fibrin thrombi (open arrow with notched tail), as well as white cells in the vessel wall, and reactive endothelial cells.
 Testing for antibodies to Rickettsia typhi was positive: IgG Rickettsia typhi >1:1024 (reference range <1:64 = Negative, 1:64-1:28 = Equivocal, >1: 256 = Positive) and IgM Rickettsia typhi >1:1024 (ref <1:64 = Negative and >1:64 = Positive).
 Treatment and Followup
 Doxycycline was administered empirically, before the results of the diagnostic tests were available, with improvement in mentation, fevers, and shortness of breath. The platelet count improved and acute renal failure resolved. Necrotic toes required amputation.
@@ -32,13 +32,18 @@ Discussion
 Rickettsia typhi is the etiologic agent of murine typhus, which is often referred to as “endemic typhus” or “fleaborne typhus.” R. typhi is a small (0.4×1.3 µm), gram-negative, obligate intracellular bacterium that depends on hematophagous arthropods (e.g., fleas and ticks) and mammals to maintain its life cycle [Civen and Ngo 2008]. In the United States, many of the cases of murine typhus are reported in Texas, California and Hawaii [Civen and Ngo 2008], and there has been a recent documented outbreak in a community of coastal California [Green et al. 2011]. Given these geographic considerations, a diagnosis of murine typhus merited consideration in this patient.
 Murine typhus is commonly a mild illness associated with a rash with an incubation period of 8 to 16 days. However, as in this case, it can cause an illness with significant morbidity, and deaths can occur if appropriate treatment is not administered. The primary pathological lesion of R. typhi infection is an inflammatory vasculitis characterized by perivascular infiltration of lymphocytes, macrophages, plasma, and mast cells. In rare cases, the vasculitis may be accompanied by mural or intimal thrombi in small vessels of the heart, lungs, kidneys, and central nervous system or, as in our case, small vessels of the feet. The pathophysiology of the rickettsial diseases could well explain the formation of clots within blood vessels. Rickettsiae are known to invade the endothelium of blood vessels - arterial, capillary, as well as venous. The damage to the integrity of the endothlial lining may thus begin the clotting cascade and cases of deep venous thrombosis and pulmonary embolus have been reported in the literature as well [Potasman and Bassan 1986]. The clinical and lab findings in murine typhus are frequently non-specific; because patients respond well to treatment, prompt consideration of the diagnosis and empiric therapy are essential [Potasman and Bassan 1986]. The drug of choice in adults is doxycycline. Doxycycline should be continued for 48 hours after the patient becomes afebrile or for a minimum of five days
 Final Diagnosis
-Murine typhus caused by Rickettsia typhi .
+Murine typhus caused by Rickettsia typhi.
 References
 Civen, R., and Ngo, V. (2008). Murine typhus: an unrecognized suburban vectorborne disease. Clin Infect Dis 46, 913-918.
-PMID:18260783 ( PubMed abstract )
+PMID:18260783(PubMed abstract) Dumler, J.S., Taylor, J.P., and Walker, D.H. (1991). Clinical and laboratory features of murine typhus in south Texas, 1980 through 1987. JAMA 266, 1365-1370.
+PMID:1880866(PubMed abstract) Green, J.S., Singh, J., Cheung, M., Adler, F.C., and Ashouri, N. (2011). A cluster of pediatric endemic typhus cases in Orange County, California. Pediatr Infect Dis J 30, 163-165.
+PMID:21298850(PubMed abstract) Potasman, I., and Bassan, H.M. (1986). Pulmonary embolism complicating murine typhus. J R Soc Med 79, 367-368.
+PMID:3723539(PubMed abstract)
+Civen, R., and Ngo, V. (2008). Murine typhus: an unrecognized suburban vectorborne disease. Clin Infect Dis 46, 913-918.
+PMID:18260783(PubMed abstract)
 Dumler, J.S., Taylor, J.P., and Walker, D.H. (1991). Clinical and laboratory features of murine typhus in south Texas, 1980 through 1987. JAMA 266, 1365-1370.
-PMID:1880866 ( PubMed abstract )
+PMID:1880866(PubMed abstract)
 Green, J.S., Singh, J., Cheung, M., Adler, F.C., and Ashouri, N. (2011). A cluster of pediatric endemic typhus cases in Orange County, California. Pediatr Infect Dis J 30, 163-165.
-PMID:21298850 ( PubMed abstract )
+PMID:21298850(PubMed abstract)
 Potasman, I., and Bassan, H.M. (1986). Pulmonary embolism complicating murine typhus. J R Soc Med 79, 367-368.
-PMID:3723539 ( PubMed abstract )
+PMID:3723539(PubMed abstract)

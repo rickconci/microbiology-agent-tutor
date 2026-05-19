@@ -13,8 +13,8 @@ Physical Examination
 The patient was alert, oriented, and appropriately interactive, and appeared well. The blood pressure was 124/69 mm Hg, pulse 80 beats per minute, temperature 98.9°F (37.2°C), and peripheral oxygen saturation 92% while breathing ambient air. There was mild flattening of the left nasolabial fold. The abdomen was protuberant, with abdominal striae. There was hearing loss in the right ear and a mild sensory loss in both feet. The remainder of the examination, including ophthalmologic and motor examinations, was normal.
 Studies
 The white cell count was 8400 cells per cubic millimeter (differential including neutrophils 77%, lymphocytes 16% and band forms 3%); hemoglobin 11.2 gm/dL and platelets 164,000 per cubic millimeter. The blood level of glucose was 418 mg/dl, sodium 123 mmol/L, anion gap 17 mmol/L; the remainder of the routine chemistry profile and tests of liver function were normal.
-A radiograph of the chest ( Figure 01 ) showed an opacity in the right base. CT of the chest ( Figure 02 ) with the administration of contrast showed a small focal airspace opacity within the lateral aspect of the right lower lobe, which contained a small air fluid level associated with a small right pleural effusion and small mediastinal and hilar lymphadenopathy.
-Magnetic resonance imaging (MRI) of the brain with contrast enhancement showed six ring-enhancing lesions: two in the right fronto-temporal region, two in the left frontal region, one in the right parasagittal frontal lobe and a left gyrus rectus multi-compartment ring-enhancing lesion ( see Figures 03 and 04 ).
+A radiograph of the chest (Figure 01) showed an opacity in the right base. CT of the chest (Figure 02) with the administration of contrast showed a small focal airspace opacity within the lateral aspect of the right lower lobe, which contained a small air fluid level associated with a small right pleural effusion and small mediastinal and hilar lymphadenopathy.
+Magnetic resonance imaging (MRI) of the brain with contrast enhancement showed six ring-enhancing lesions: two in the right fronto-temporal region, two in the left frontal region, one in the right parasagittal frontal lobe and a left gyrus rectus multi-compartment ring-enhancing lesion (see Figures 03 and 04).
 Figure 1. Chest radiograph.
 Figure 2. CT of the chest.
 Figure 3. Sagittal T1-weighted MR image.
@@ -22,18 +22,18 @@ Figure 4. Axial T1-weighted MR image.
 Clinical Course Prior to Diagnosis
 He was admitted to the intensive care unit.
 The patient’s HIV serology, quantiferon-TB gold test and serum galactomannan were negative and blood cultures remained sterile. An echocardiogram showed no vegetations. Cerebrospinal fluid demonstrated 2 white cells per cubic millimeter, and normal levels of protein and glucose; Gram stain, India ink and cryptococcal antigen testing were negative; culture was sterile.
-A bronchoalveolar lavage (without biopsy) was normal. An image-guided biopsy of a lesion ( Figure 05 ) was performed. Histopathological examination of the tissue showed neutrophils, plasma cells, and lymphocytes, consistent with acute and chronic inflammation. Hematoxylin and eosin (H and E) stain ( Figure 06 ), GMS stain ( Figure 07 ) and Calcofluor stain ( Figure 08 ) are shown.
+A bronchoalveolar lavage (without biopsy) was normal. An image-guided biopsy of a lesion (Figure 05) was performed. Histopathological examination of the tissue showed neutrophils, plasma cells, and lymphocytes, consistent with acute and chronic inflammation. Hematoxylin and eosin (H and E) stain (Figure 06), GMS stain (Figure 07) and Calcofluor stain (Figure 08) are shown.
 Figure 5. Biopsy of lesion.
 Figure 6. H and E stain of brain lesion.
 Figure 7. GMS stain of brain aspirate.
 Figure 8. Calcofluor stain of frontal abscess aspirate.
 Diagnostic Procedure(s) and Result(s)
-GMS stain showed numerous fungal hyphal forms ( Figure 07 ). Calcofluor stain showed narrow filamentous hyphal forms with acute branching angles ( Figure 08 ). CNS Aspergillosis was suspected and the patient was started on voriconazole.
-Two weeks later, his culture grew a pigmented fungi, which was identified as Curvularia sp. Figure 09 shows wet mount microscopy of Curvularia .
+GMS stain showed numerous fungal hyphal forms (Figure 07). Calcofluor stain showed narrow filamentous hyphal forms with acute branching angles (Figure 08). CNS Aspergillosis was suspected and the patient was started on voriconazole.
+Two weeks later, his culture grew a pigmented fungi, which was identified as Curvularia sp. Figure 09 shows wet mount microscopy of Curvularia.
 Figure 9. Wet mount microscopy with multicellular conidia of Curvularia.
 Treatment and Followup
 An MRI scan performed 3 weeks later showed no change in the size of the lesions, but there was a mild increase in the surrounding vasogenic edema. He was readmitted to the hospital where he was continued on voriconazole and liposomal amphotericin was added.
-To eradicate this infection, he underwent a two-staged surgical approach to remove the six lesions in both hemispheres through two separate craniotomies ( Figures 10 and 11 ). All surgical specimens grew Curvularia sp. that were susceptible to voriconazole (MIC <= 0.06). Dual antifungal therapy was continued intravenously for 3 weeks; he was then discharged to home on oral voriconazole with the plan to treat for 6 to 12 months. A follow-up MRI 3 months later showed a stable post-surgical appearance of his brain with no new regions of enhancement.
+To eradicate this infection, he underwent a two-staged surgical approach to remove the six lesions in both hemispheres through two separate craniotomies (Figures 10 and 11). All surgical specimens grew Curvularia sp. that were susceptible to voriconazole (MIC <= 0.06). Dual antifungal therapy was continued intravenously for 3 weeks; he was then discharged to home on oral voriconazole with the plan to treat for 6 to 12 months. A follow-up MRI 3 months later showed a stable post-surgical appearance of his brain with no new regions of enhancement.
 Figure 10. Intra-operative digital photograph of the frontal cortex containing a posterior frontal fungal abscess.
 Figure 11. Resected fungal abscess
 Discussion
@@ -42,19 +42,27 @@ In CNS phaeohyphomycosis, the most frequent dematiaceous fungi species isolated 
 The main postulated mechanism of disease is hematogenous spread from a possible subclinical pulmonary focus; direct extension from associated sinus disease is another possibility. In our case, hematogenous spread was the most likely route of dissemination to the brain given the pulmonary lesion, multifocal cerebral lesions and the absence of any history of sinus disease.
 CNS phaeohyphomycosis is a severe disease with high mortality rates. Its management is difficult and involves a combination of surgical debridement and antifungal treatment, typically with amphotericin B or an azole antifungal therapy with good CNS penetration [Revankar et al. 2004].
 Final Diagnosis
-Multifocal cerebral phaeohyphomycosis due to .
+Multifocal cerebral phaeohyphomycosis due to Curvularia.
 References
 Carter, E., and Boudreaux, C. (2004). Fatal cerebral phaeohyphomycosis due to Curvularia lunata in an immunocompetent patient. J Clin Microbiol 42, 5419-5423.
-PMID:15528761 ( PubMed abstract )
+PMID:15528761(PubMed abstract) de la Monte, S.M., and Hutchins, G.M. (1985). Disseminated Curvularia infection. Arch Pathol Lab Med 109, 872-874.
+PMID:3839661(PubMed abstract) Ebright, J.R., Chandrasekar, P.H., Marks, S., Fairfax, M.R., Aneziokoro, A., and McGinnis, M.R. (1999). Invasive sinusitis and cerebritis due to Curvularia clavata in an immunocompetent adult. Clin Infect Dis 28, 687-689.
+PMID:10194103(PubMed abstract) Friedman, A.D., Campos, J.M., Rorke, L.B., Bruce, D.A., and Arbeter, A.M. (1981). Fatal recurrent Curvularia brain abscess. J Pediatr 99, 413-415.
+PMID:7264797(PubMed abstract) Lampert, R.P., Hutto, J.H., Donnelly, W.H., and Shulman, S.T. (1977). Pulmonary and cerebral mycetoma caused by Curvularia pallescens. J Pediatr 91, 603-605.
+PMID:561837(PubMed abstract) Revankar, S.G., Sutton, D.A., and Rinaldi, M.G. (2004). Primary central nervous system phaeohyphomycosis: a review of 101 cases. Clin Infect Dis 38, 206-216.
+PMID:14699452(PubMed abstract) Singh, H., Irwin, S., Falowski, S., Rosen, M., Kenyon, L., Jungkind, D., and Evans, J. (2008). Curvularia fungi presenting as a large cranial base meningioma: case report. Neurosurgery 63, E177; discussion E177.
+PMID:18728558(PubMed abstract)
+Carter, E., and Boudreaux, C. (2004). Fatal cerebral phaeohyphomycosis due to Curvularia lunata in an immunocompetent patient. J Clin Microbiol 42, 5419-5423.
+PMID:15528761(PubMed abstract)
 de la Monte, S.M., and Hutchins, G.M. (1985). Disseminated Curvularia infection. Arch Pathol Lab Med 109, 872-874.
-PMID:3839661 ( PubMed abstract )
+PMID:3839661(PubMed abstract)
 Ebright, J.R., Chandrasekar, P.H., Marks, S., Fairfax, M.R., Aneziokoro, A., and McGinnis, M.R. (1999). Invasive sinusitis and cerebritis due to Curvularia clavata in an immunocompetent adult. Clin Infect Dis 28, 687-689.
-PMID:10194103 ( PubMed abstract )
+PMID:10194103(PubMed abstract)
 Friedman, A.D., Campos, J.M., Rorke, L.B., Bruce, D.A., and Arbeter, A.M. (1981). Fatal recurrent Curvularia brain abscess. J Pediatr 99, 413-415.
-PMID:7264797 ( PubMed abstract )
+PMID:7264797(PubMed abstract)
 Lampert, R.P., Hutto, J.H., Donnelly, W.H., and Shulman, S.T. (1977). Pulmonary and cerebral mycetoma caused by Curvularia pallescens. J Pediatr 91, 603-605.
-PMID:561837 ( PubMed abstract )
+PMID:561837(PubMed abstract)
 Revankar, S.G., Sutton, D.A., and Rinaldi, M.G. (2004). Primary central nervous system phaeohyphomycosis: a review of 101 cases. Clin Infect Dis 38, 206-216.
-PMID:14699452 ( PubMed abstract )
+PMID:14699452(PubMed abstract)
 Singh, H., Irwin, S., Falowski, S., Rosen, M., Kenyon, L., Jungkind, D., and Evans, J. (2008). Curvularia fungi presenting as a large cranial base meningioma: case report. Neurosurgery 63, E177; discussion E177.
-PMID:18728558 ( PubMed abstract )
+PMID:18728558(PubMed abstract)

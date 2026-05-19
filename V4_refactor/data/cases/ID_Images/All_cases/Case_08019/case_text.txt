@@ -9,11 +9,11 @@ Physical Examination
 The patient appeared ill. The temperature was 39.7°C (103.5°F). The blood pressure was 80/60 mm Hg, pulse 113 beats per minute, and respirations 40 breaths per minute. Respirations were shallow with mild splinting. She took deep breaths on command but reported discomfort over the right flank; clear breath sounds were auscultated over the anterior and posterior left lung fields, but air entry was decreased in lower 1/3-1/4 right posterior and lateral lung fields. No dullness to percussion was elicited, and no adventitious sounds were heard. There was moderate distension of the abdomen, and tenderness to superficial palpation in right upper and lower quadrants with involuntary guarding; no rebound tenderness was elicited. The liver spanned approximately 14 cm in right mid-clavicular line.
 Studies
 The white blood cell count was 32,700 cells per cubic millimeter (reference range 4,500-14,500/cmm) with 83.2% granulocytes and a left shift. The erythrocyte sedimentation rate (ESR) measured 109 mm/hr (ref. range 0-20 mm/hr) and C- reactive protein (CRP) 34.4 mg/dl (ref. range 0.0-0.8 mg/dl). Gamma-glutamyl transpeptidase (GGT) was 153 U/L (ref. range 14-36 U/L). Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) levels were within normal. Urinalysis revealed positive leukocyte esterase (250/ul), proteinuria (100 mg/dl), and 14 white cells per high power field but negative nitrite test.
-A radiograph of the chest and abdomen ( Figure 1 ) showed under-aerated lungs and prominence of the liver. Ultrasonography of the abdomen ( Figure 2 ) demonstrated a well circumscribed focal liver lesion (7.3 cm by 7.0 cm by 7.3 cm) with heterogeneous echogenicity seen in the right lobe.
+A radiograph of the chest and abdomen (Figure 1) showed under-aerated lungs and prominence of the liver. Ultrasonography of the abdomen (Figure 2) demonstrated a well circumscribed focal liver lesion (7.3 cm by 7.0 cm by 7.3 cm) with heterogeneous echogenicity seen in the right lobe.
 Figure 1. Radiograph of the chest and abdomen.
 Figure 2. Ultrasonogram of abdomen.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) scan (shown in Figures 3 through 5 ) revealed lesions that appeared cystic, and which were thought to be consistent with a large liver abscess and satellite lesions.
+Computed tomography (CT) scan (shown in Figures 3 through 5) revealed lesions that appeared cystic, and which were thought to be consistent with a large liver abscess and satellite lesions.
 Cefotaxime (intravenously) was begun empirically on admission for treatment of possible pyelonephritis, pending the results of laboratory tests, and Pediatric Infectious Disease consultation was obtained following the imaging studies.
 Figure 3. CT scan of the abdomen.
 Figure 4. CT scan of the abdomen.
@@ -31,15 +31,20 @@ At the time of this publication, therapy for liver amebiasis includes metronidaz
 Final Diagnosis
 Amebic liver abscess, consistent with Entamoeba histolytica infection.
 References
+Chen SC, Yen CH, Tsao SM, Huang CC, Chen CC, Lee MC, Bell WR. Comparison of pyogenic liver abscesses of biliary and cryptogenic origin. Swiss Med Wkly 2005;135:344–351 Chung R and Friedman L. Liver Abscess and Bacterial, Parasitic, Fungal and granulomatous liver disease. In: Sleisenger and Fordtran's Gastrointestinal and Liver Disease: Pathophysiology, diagnosis, management. Eighth edition. Edited by Feldman M., Scharschmidt B., et al. Philadelphia: W.B. Saunders; 2006. p. 1746-1749. Haque, R., Huston, C.D., Hughes, M., Houpt, E., and Petri, W.A., Jr. (2003). Amebiasis. N Engl J Med 348, 1565-1573.
+PMID:12700377(PubMed abstract) Hotez PJ and Strickland AD. Amebiasis. In: Feigin RD, Demler GJ, Cherry JD, Kaplan SL, editors. Textbook of pediatric infectious diseases. 5th ed. Philadelphia: Saunders; 2004. p.2660–2664. Hughes, M.A., and Petri, W.A., Jr. (2000). Amebic liver abscess. Infect Dis Clin North Am 14, 565-582, viii.
+PMID:10987110(PubMed abstract) Johannsen EC and Madoff LC. Infections of the Liver and Biliary System. In: Mandell, Douglas, and Bennett's Principles and Practice of infectious diseases (6th ed.). Edited by Mandell GL, Bennett JE, Dolin R (2005). Last accessed at /das/book/0/view/1259/546.html Mohsen, A.H., Green, S.T., Read, R.C., and McKendrick, M.W. (2002). Liver abscess in adults: ten years experience in a UK centre. QJM 95, 797-802.
+PMID:12454322(PubMed abstract) Stanley, S.L., Jr. (2003). Amoebiasis. Lancet 361, 1025-1034.
+PMID:12660071(PubMed abstract)
 Chen SC, Yen CH, Tsao SM, Huang CC, Chen CC, Lee MC, Bell WR. Comparison of pyogenic liver abscesses of biliary and cryptogenic origin. Swiss Med Wkly 2005;135:344–351
 Chung R and Friedman L. Liver Abscess and Bacterial, Parasitic, Fungal and granulomatous liver disease. In: Sleisenger and Fordtran's Gastrointestinal and Liver Disease: Pathophysiology, diagnosis, management. Eighth edition. Edited by Feldman M., Scharschmidt B., et al. Philadelphia: W.B. Saunders; 2006. p. 1746-1749.
 Haque, R., Huston, C.D., Hughes, M., Houpt, E., and Petri, W.A., Jr. (2003). Amebiasis. N Engl J Med 348, 1565-1573.
-PMID:12700377 ( PubMed abstract )
+PMID:12700377(PubMed abstract)
 Hotez PJ and Strickland AD. Amebiasis. In: Feigin RD, Demler GJ, Cherry JD, Kaplan SL, editors. Textbook of pediatric infectious diseases. 5th ed. Philadelphia: Saunders; 2004. p.2660–2664.
 Hughes, M.A., and Petri, W.A., Jr. (2000). Amebic liver abscess. Infect Dis Clin North Am 14, 565-582, viii.
-PMID:10987110 ( PubMed abstract )
+PMID:10987110(PubMed abstract)
 Johannsen EC and Madoff LC. Infections of the Liver and Biliary System. In: Mandell, Douglas, and Bennett's Principles and Practice of infectious diseases (6th ed.). Edited by Mandell GL, Bennett JE, Dolin R (2005). Last accessed at /das/book/0/view/1259/546.html
 Mohsen, A.H., Green, S.T., Read, R.C., and McKendrick, M.W. (2002). Liver abscess in adults: ten years experience in a UK centre. QJM 95, 797-802.
-PMID:12454322 ( PubMed abstract )
+PMID:12454322(PubMed abstract)
 Stanley, S.L., Jr. (2003). Amoebiasis. Lancet 361, 1025-1034.
-PMID:12660071 ( PubMed abstract )
+PMID:12660071(PubMed abstract)

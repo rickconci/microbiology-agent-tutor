@@ -9,12 +9,12 @@ The patient resided in the southern United States. He denied intravenous drug us
 Physical Examination
 The temperature was 98.2°F (36.8°C), pulse 67 beats per minute, blood pressure 100/70 mm Hg, respirations 12 per minute, and oxygen saturation 97%. A systolic ejection murmur was present, unchanged from earlier examinations.
 Clinical Course Prior to Diagnosis
-The patient was transferred to the tertiary medical center, and was not receiving antibiotics. Additional blood cultures were obtained and were positive for the same organism found growing in the blood cultures that had been drawn at the outside hospital ( Figures 1 and 2 ).
+The patient was transferred to the tertiary medical center, and was not receiving antibiotics. Additional blood cultures were obtained and were positive for the same organism found growing in the blood cultures that had been drawn at the outside hospital (Figures 1 and 2).
 Figure 1. Stain of growth from blood culture.
 Figure 2. Detail of Figure 1.
 Diagnostic Procedure(s) and Result(s)
-All blood cultures eventually grew out a gram-positive bacillus in the aerobic bottles. This was initially identified at the outside hospital as modified acid-fast bacilli (AFB) stain positive, and later shown to be AFB-stain positive, shown in Figures 1 and 2 , as well. Probes were negative for Mycobacterium tuberculosis and Mycobacterium avium complex (MAC).
-Blood cultures drawn at the tertiary hospital were positive after five days, and the organism was classified as a rapidly growing mycobacterium. Subsequent biochemical tests identified the organism as Mycobacterium chelonae .
+All blood cultures eventually grew out a gram-positive bacillus in the aerobic bottles. This was initially identified at the outside hospital as modified acid-fast bacilli (AFB) stain positive, and later shown to be AFB-stain positive, shown in Figures 1 and 2, as well. Probes were negative for Mycobacterium tuberculosis and Mycobacterium avium complex (MAC).
+Blood cultures drawn at the tertiary hospital were positive after five days, and the organism was classified as a rapidly growing mycobacterium. Subsequent biochemical tests identified the organism as Mycobacterium chelonae.
 Treatment and Followup
 After cultures were obtained, vancomycin, cefotaxime, and doxycycline were administered to treat common gram-positive rods as well as atypical causes of endocarditis. Soon after the patient's admission, an embolic lesion on his left fifth digit appeared.
 When the organism was found to exhibit modified acid-fast-bacilli (AFB) staining, cefotaxime was discontinued and imipenem was administered. The doxycycline was changed to minocycline for increased activity against possible Nocardia infection.
@@ -25,9 +25,12 @@ Discussion
 There are few reported cases of rapidly growing mycobacteria (RGM) causing endocarditis. The majority of cases were reported in patients with prosthetic valves and occurred soon after valve replacement raising the possibility of hospital acquisition. Only one other “late occurrence” is reported.
 Surgery is critical in managing these patients with close to 100% mortality resulting if the valve is not removed. Antimicrobials should be selected based on susceptibilities of the known RGM. Mycobacterium fortuitum is usually susceptible to amikacin, cefoxitin, amikacin, and quinolones. Mycobacterium abscessus and Mycobacterium chelonae are more resistant but these mycobacteria are generally susceptible to clarithromycin. These organisms are also usually susceptible to amikacin.
 Final Diagnosis
-Prosthetic valve endocarditis due to a rapidly growing mycobacterium, Mycobacterium chelonae .
+Prosthetic valve endocarditis due to a rapidly growing mycobacterium, Mycobacterium chelonae.
 References
 Bush, L.M., Paturi, A., Chaparro-Rojas, F., and Perez, M.T. (2010). Mycobacterial prosthetic valve endocarditis. Curr Infect Dis Rep 12, 257-265.
-PMID:21308540 ( PubMed abstract )
+PMID:21308540(PubMed abstract) Vail, G., Kohler, R., Steiner, F., and Donepudi, R. (2000). Successful treatment of Mycobacterium fortuitum prosthetic valve endocarditis: case report. Clin Infect Dis 30, 629-630.
+PMID:10722472(PubMed abstract)
+Bush, L.M., Paturi, A., Chaparro-Rojas, F., and Perez, M.T. (2010). Mycobacterial prosthetic valve endocarditis. Curr Infect Dis Rep 12, 257-265.
+PMID:21308540(PubMed abstract)
 Vail, G., Kohler, R., Steiner, F., and Donepudi, R. (2000). Successful treatment of Mycobacterium fortuitum prosthetic valve endocarditis: case report. Clin Infect Dis 30, 629-630.
-PMID:10722472 ( PubMed abstract )
+PMID:10722472(PubMed abstract)

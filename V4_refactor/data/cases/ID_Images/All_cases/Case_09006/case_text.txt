@@ -9,11 +9,11 @@ Malarone had been taken for malaria prophylaxis. A tetanus toxoid booster had be
 Epidemiological History
 As noted above, she had recently returned from a trip to Africa. While there, she had swum in a salt water pool, but not in fresh water lakes or rivers. She had worn socks and shoes, and had not had any trauma, insect or animal bites to her feet. She denied recent sexual contact.
 Physical Examination
-A lesion on the left foot was present, shown in Figures 1 and 2 .
+A lesion on the left foot was present, shown in Figures 1 and 2.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Diagnostic Procedure(s) and Result(s)
-The local area was sterilized and anesthetized, and then aspirated with a syringe and a 14-gauge needle. Forceps were also used to extract foreign material. The contents of the aspiration and extraction were consistent with a diagnosis of tungiasis, caused by infestation by the flea Tunga penetrans . Figures 3 and 4 show the body contents of the flea magnified times four, and Figures 5 and 6 , magnified times 10, show additional features of the flea and eggs, respectively.
+The local area was sterilized and anesthetized, and then aspirated with a syringe and a 14-gauge needle. Forceps were also used to extract foreign material. The contents of the aspiration and extraction were consistent with a diagnosis of tungiasis, caused by infestation by the flea Tunga penetrans. Figures 3 and 4 show the body contents of the flea magnified times four, and Figures 5 and 6, magnified times 10, show additional features of the flea and eggs, respectively.
 Figure 3. Aspirate of lesion, magnification x 4.
 Figure 4. Aspirate of lesion, magnification x 4.
 Figure 5. Aspirate of lesion, magnification x 10.
@@ -25,11 +25,15 @@ Tungiasis is caused by infestation by the burrowing flea Tunga penetrans. The fl
 The flea invades upon contact with unprotected skin, usually of feet (interdigitally or subungually). The impregnated female flea feeds on dermal blood vessels, and eggs are extruded through the surface orifice. Lesions usually appear papular or nodular, with a dark central opening, but some may be wart-like, pustular, bullous or ulcerative. Lesions may grow up to approximately one centimeter in diameter, and can be painful or pruritic. Patients usually have one or two lesions, although on occasion multiple lesions--dozens to even hundreds--may be seen. Most lesions resolve spontaneously, but ulceration and fibrosis may occur. There is a high rate of secondary infection, and occasionally development of lymphangitis, gangrene or tetanus.
 As noted above, the definitive therapy is the physical extraction of the flea, eggs and foreign contents with forceps or needle, under sterile conditions. Topical ivermectin, metrifonate and thiabendazole kill the flea, but do not remove the organism. Petroleum jelly over the breathing hole suffocates the flea. Anti-bacterial prophylaxis and immunization against tetanus are essential to prevent the morbidity associated with the infestation.
 Final Diagnosis
-Tungiasis, caused by the flea Tunga penetrans .
+Tungiasis, caused by the flea Tunga penetrans.
 References
 Cestari, T.F., Pessato, S., and Ramos-e-Silva, M. (2007). Tungiasis and myiasis. Clin Dermatol 25, 158-164.
-PMID:17350494 ( PubMed abstract )
+PMID:17350494(PubMed abstract) Davis, R.F., Johnston, G.A., and Sladden, M.J. (2009). Recognition and management of common ectoparasitic diseases in travelers. Am J Clin Dermatol 10, 1-8.
+PMID:19170405(PubMed abstract) Veraldi, S., and Valsecchi, M. (2007). Imported tungiasis: a report of 19 cases and review of the literature. Int J Dermatol 46, 1061-1066.
+PMID:17910715(PubMed abstract)
+Cestari, T.F., Pessato, S., and Ramos-e-Silva, M. (2007). Tungiasis and myiasis. Clin Dermatol 25, 158-164.
+PMID:17350494(PubMed abstract)
 Davis, R.F., Johnston, G.A., and Sladden, M.J. (2009). Recognition and management of common ectoparasitic diseases in travelers. Am J Clin Dermatol 10, 1-8.
-PMID:19170405 ( PubMed abstract )
+PMID:19170405(PubMed abstract)
 Veraldi, S., and Valsecchi, M. (2007). Imported tungiasis: a report of 19 cases and review of the literature. Int J Dermatol 46, 1061-1066.
-PMID:17910715 ( PubMed abstract )
+PMID:17910715(PubMed abstract)

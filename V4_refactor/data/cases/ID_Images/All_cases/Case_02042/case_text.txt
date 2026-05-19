@@ -14,10 +14,11 @@ Studies
 The white blood cell count (WBC) was 5,400/mm³, hematocrit 25%, and platelets 60,000/mm³. The levels of plasma electrolytes were sodium 133 mmol/L, potassium 3.8 mmol/L, chloride 97 mmol/L, and carbon dioxide (HCO3) 22 mmol/L; the aspartate aminotransferase (AST, SGOT) was 40 U/L and total bilirubin 1.5 mg/dL.
 Diagnostic Procedure(s) and Result(s)
 Amastigotes were not seen on Giemsa stain of the blood. The stool studies were negative for any ova or parasites. Testing for HIV (ELISA) was negative. Rare Plasmodium were seen in erythrocytes, identified as P. falciparum based on morphology. She was treated with seven days of quinine and doxycycline and her hepatosplenomegaly regressed over several weeks.
+Treatment and Followup
 Discussion
 Massive tropical splenomegaly may be caused by hyper-reactive malarial splenomegaly, schistosomiasis, visceral leishmaniasis, thalassemia major, and malignancies (including lymphoproliferative disorders). In a study from West Africa, hyper-reactive malarial splenomegaly (HMS) and B cell lymphoproliferative disorders were the most common cause of massive splenomegaly [Bedu-Addo and Bates]. In this study, HMS was more associated with younger (less than 40 years) age, female gender and lower absolute lymphocyte count as compared to lymphoproliferative disorders.
 Final Diagnosis
 Chronic malaria.
 References
 Bedu-Addo, G., and Bates, I. (2002). Causes of massive tropical splenomegaly in Ghana. Lancet 360, 449-454.
-PMID:12241718 ( PubMed abstract )
+PMID:12241718(PubMed abstract)

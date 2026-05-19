@@ -11,23 +11,23 @@ Physical Examination
 The patient had a mild pallor. The temperature was 39°C (102.2°F). There were gangrenous wounds on the medial side of the left lower leg, 1st toe, 3rd toe, and dorsum of the left foot. The left popliteal and dorsalis pedis pulses were not palpable. There was mild hepatosplenomegaly, and the remainder of examination was normal.
 Studies
 The hematocrit was 18.4%. The hemoglobin (Hb) typing showed HbE 16%, HbA 77%, Bart’s 3%, and HbH 4%. Echocardiography showed mild mitral and tricuspid regurgitation, but no evidence of vegetations. Blood cultures were sterile. Wound cultures grew mixed aerobic flora.
-An angiogram of the leg showed an arterial occlusion of the left superficial femoral artery ( Figure 1 ).
+An angiogram of the leg showed an arterial occlusion of the left superficial femoral artery (Figure 1).
 Figure 1. Left leg angiogram.
 Clinical Course Prior to Diagnosis
 Because of severe pain, the patient underwent a below-the-knee amputation and resection of superficial artery of the left leg.
-Pathological findings included a thrombotic occlusion at the proximal superficial femoral artery. Histopathology of the arterial wall is seen in Figures 2a, 2b, and 2c . Fungal cultures are shown in Figures 3, 4, and 5 .
+Pathological findings included a thrombotic occlusion at the proximal superficial femoral artery. Histopathology of the arterial wall is seen in Figures 2a, 2b, and 2c. Fungal cultures are shown in Figures 3, 4, and 5.
 Figure 2. Histopathology of the arterial wall.
 Figure 3. Culture results on Sabouraud agar.
 Figure 4. Culture results by light microscopy.
 Figure 5. Culture results by light microscopy.
 Diagnostic Procedure(s) and Result(s)
-An enzyme-linked immunosorbent assay (ELISA) for pythiosis was positive but the immunodiffusion test was negative.
+An enzyme-linked immunosorbent assay (ELISA) for pythiosis was positive but the immunodiffusion test was negative. Figure 4. Culture results by light microscopy. Figure 5. Culture results by light microscopy.
 Treatment and Followup
 The surgeons caring for the patient were concerned that excision may not be adequate, and the patient was immunized with pythium vaccine. No recurrence was seen after 2 years.
 Discussion
 Pythium insidiosum causes a rare, occasionally fatal disease. It was first isolated from a horse in 1902. The first human case reported in Thailand, where the organism appears to be endemic, was in 1985. There are three main clinical presentations: a) cutaneous/subcutaneous lesions; b) ocular disease presenting as corneal ulcers or keratitis and c) systemic disease (most common). Systemic pythiosis often affects vascular tissue, resulting in arterial occlusions leading to gangrene, or aneurysm leading to arterial rupture. Hemoglobinopathy and rice-field work are risk factors.
 Final Diagnosis
-Human pythiosis caused by Pythium insidiosum .
+Human pythiosis caused by Pythium insidiosum.
 References
 Prasertwitayakij, N., Louthrenoo, W., Kasitanon, N., Thamprasert, K., and Vanittanakom, N. (2003). Human pythiosis, a rare cause of arteritis: case report and literature review. Semin Arthritis Rheum 33, 204-214.
-PMID:14671729 ( PubMed abstract )
+PMID:14671729(PubMed abstract)

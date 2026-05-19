@@ -13,16 +13,18 @@ The white cell count was 24,200/mm³ (reference range 3,200-9,800/mm³) with 74%
 Blood cultures were obtained; an extended respiratory viral panel and a cytomegalovirus polymerase chain reaction (CMV PCR) were negative.
 Computed tomography of the abdomen showed multiple lobulated hypoattenuated collections within the liver. Lesions in the left hepatic lobe contained multiple foci of air (Figures 1a and 1b).
 Figure 1. Figure 1a. Non-contrast Computed tomography of the abdomen showing multiple lobulated hypoattenuated collections within the allograft.
+Figure 1a. Non-contrast Computed tomography of the abdomen showing multiple lobulated hypoattenuated collections within the allograft.
 Figure 2. Figure 1b. Non-contrast Computed tomography of the abdomen showing contained foci of air in some of the hypodense collections within the allograft.
+Figure 1b. Non-contrast Computed tomography of the abdomen showing contained foci of air in some of the hypodense collections within the allograft.
 Clinical Course Prior to Diagnosis
 Blood cultures were obtained. The hepatic lesions were drained and material was sent for culture. He was started empirically on intravenous (IV) piperacillin/tazobactam, IV vancomycin and fluconazole while awaiting culture results. Due to persistent fever, blood cultures were again obtained 2 days after admission. Entecavir was continued.
 Diagnostic Procedure(s) and Result(s)
-One out of 2 blood cultures from admission grew extended spectrum beta-lactamase (ESBL) Escherichia coli . His repeat blood cultures grew Enterococcus faecium (Vancomycin susceptible only). The cultures from the liver abscess grew Escherichia coli (resistant to ciprofloxacin and trimethoprim/sulfamethoxazole), carbapenem resistant Klebsiella pneumoniae (only susceptible to tigecycline), pan-susceptible Pseudomonas aeruginosa , and vancomycin-resistant Enterococcus faecium (VRE) (susceptible to daptomycin only). He required repeat drainage for his hepatic abscesses, also isolating Candida krusei and vancomycin resistant E. faecium . Please see Table 1 for selected susceptibilities.
-Molecular testing was done at the University of Virginia Clinical Microbiology Laboratory on the K. pneumoniae and P. aeruginosa . This was done with the BD Max RUO (research use only) kit via real-time PCR, allowing detection of KPC, OXA-48 like, NDM and VIM. The K. pneumoniae was found to carry NDM as well as OXA-2 (which is an OXA-48 like carbapenemase); the P. aeruginosa did not carry any detectable beta-lactamase gene.
+One out of 2 blood cultures from admission grew extended spectrum beta-lactamase (ESBL) Escherichia coli. His repeat blood cultures grew Enterococcus faecium (Vancomycin susceptible only). The cultures from the liver abscess grew Escherichia coli (resistant to ciprofloxacin and trimethoprim/sulfamethoxazole), carbapenem resistant Klebsiella pneumoniae (only susceptible to tigecycline), pan-susceptible Pseudomonas aeruginosa, and vancomycin-resistant Enterococcus faecium (VRE) (susceptible to daptomycin only). He required repeat drainage for his hepatic abscesses, also isolating Candida krusei and vancomycin resistant E. faecium. Please see Table 1 for selected susceptibilities.
+Molecular testing was done at the University of Virginia Clinical Microbiology Laboratory on the K. pneumoniae and P. aeruginosa. This was done with the BD Max RUO (research use only) kit via real-time PCR, allowing detection of KPC, OXA-48 like, NDM and VIM. The K. pneumoniae was found to carry NDM as well as OXA-2 (which is an OXA-48 like carbapenemase); the P. aeruginosa did not carry any detectable beta-lactamase gene.
 Treatment and Followup
 With a diagnosis of polymicrobial bacteremia secondary to hepatic abscesses, he was initially treated with IV meropenem, ciprofloxacin, micafungin, daptomycin and tigecycline during his first admission. He was discharged home on IV ertapenem, tigecycyline and oral ciprofloxacin. When the C. krusei was identified in the abscess, IV micafungin was restarted. He was on single immunosuppression with tacrolimus only; his level was targeted at around 5ng/ml.
 He required repeat placement of a hepatic drain. At that time, the NDM K. pneumoniae returned intermediate to tigecycline. Colistin susceptibility was requested returning minimum inhibitory concentrations (MICs) of 0.125 for strain 1, and 0.25 for strain 2 (no breakpoints available). He was then started on IV colistin. Unfortunately, he developed renal dysfunction and the colistin needed to be discontinued. Emergency investigational new drug permission was granted for off-label use of IV fosfomycin.
-One and a half months after his initial presentation, he developed an empyema, as a result of a hepatic abscess drain inadvertently traversing the pleural space. He required video-assisted thoracoscopic surgery with decortication. His operative cultures grew two strains of carbapenem resistant NDM-1 K. pneumoniae . See Table 1.
+One and a half months after his initial presentation, he developed an empyema, as a result of a hepatic abscess drain inadvertently traversing the pleural space. He required video-assisted thoracoscopic surgery with decortication. His operative cultures grew two strains of carbapenem resistant NDM-1 K. pneumoniae. See Table 1.
 Entecavir was continued throughout his clinical course, as no donor history was available. He remained HBV DNA negative throughout his transplant although notably his Hepatitis B core antibody was positive after transplantation.
 For an approximate timeline of events and therapy, please refer to Figure 2.
 Despite all these complications, the patient recovered well. His imaging abnormalities completely resolved six months after presentation. Three years later, he continues to do well with no further major infectious complications
@@ -142,73 +144,101 @@ N/A
 S
 R
 N/A
-Table 1. Selected susceptibilities. * E-test . R=resistant, S=susceptible, I=intermediate. *E-test
+Table 1. Selected susceptibilities. * E-test. R=resistant, S=susceptible, I=intermediate. *E-test
 Figure 3. Clinical Timeline. * Piperacilin/tazobactam, vancomycin, fluconazole.
 Discussion
 The initial clinical concern was that of hepatic abscesses as well as potential bacteremia. Based on initial gram stains, we knew that we were dealing with a polymicrobial infection.
-The challenging parts of this case were the burden of multi-drug resistant organisms (MDRO) that this patient had in the liver and ultimately blood and pleural space, the lack of any donor information and the unavailability of the patient's prior culture results and treatment history. He presented with an extended-spectrum beta-lactamase-producing (ESBL) E. Coli , vancomycin-resistant and linezolid-resistant E. faecium , OXA-2 and NDM-1 K. pneumoniae as well as C. krusei . C. krusei , although not considered a MDRO, is intrinsically resistant to fluconazole, thus requiring intravenous therapy with an echinocandin. Interestingly, during treatment the K. pneumoniae isolated from the liver lesions altered its susceptibility pattern from being susceptible to tigecycline and intermediate susceptibility to minocycline, to intermediate and resistant, respectively, adding yet another challenge to his clinical management.
-For the last couple of decades, we have witnessed an increase in MDRO, not only in our hospitals but also in the community. Some of these organisms are included in the acronym ESKAPE ( E. faecium , Staphylococcus aureus, K. pneumoniae, Acinetobacter baumannii, P. aeruginosa and Enterobacter species ) (1). Mainly, these organisms have earned their status due to their resistance patterns.
+The challenging parts of this case were the burden of multi-drug resistant organisms (MDRO) that this patient had in the liver and ultimately blood and pleural space, the lack of any donor information and the unavailability of the patient's prior culture results and treatment history. He presented with an extended-spectrum beta-lactamase-producing (ESBL) E. Coli, vancomycin-resistant and linezolid-resistant E. faecium, OXA-2 and NDM-1 K. pneumoniae as well as C. krusei. C. krusei, although not considered a MDRO, is intrinsically resistant to fluconazole, thus requiring intravenous therapy with an echinocandin. Interestingly, during treatment the K. pneumoniae isolated from the liver lesions altered its susceptibility pattern from being susceptible to tigecycline and intermediate susceptibility to minocycline, to intermediate and resistant, respectively, adding yet another challenge to his clinical management.
+For the last couple of decades, we have witnessed an increase in MDRO, not only in our hospitals but also in the community. Some of these organisms are included in the acronym ESKAPE (E. faecium, Staphylococcus aureus, K. pneumoniae, Acinetobacter baumannii, P. aeruginosa and Enterobacter species) (1). Mainly, these organisms have earned their status due to their resistance patterns.
 Regarding solid organ transplant (SOT) recipients, a recent review showed that approximately one in five patients is colonized with ESBL Enterobacteriaceae (2). Other risk factors for acquisition of these organisms include the severity of underlying disease, prolonged hospitalization, intensive care admission, mechanical ventilation, gastrointestinal surgery, use of invasive devices and antimicrobial exposure (3, 4). SOT recipients often fulfill all these criteria.
 The prevalence of any MDRO varies by country, region and even institutions within the same geographical region. Additionally, many institutions still encounter barriers to preventing transmission of these infections (5). Colonization is a strong risk factor for invasive disease (6). New Delhi metallo-beta-lactamase 1 (NDM-1) was first described in India and we suspect this is where our patient acquired it, along with his other MDROs, during his peri-transplant phase. The NDM mechanism of resistance is a genetic element encoding for multiple resistance genes and is transmissible to other organisms. Since its initial description it has spread to many other countries around the world (7). International travel facilitates the spread of MDRO and managing patients with healthcare exposure in different countries is becoming more frequent (8).
 Specifically in liver transplant recipients, independent factors associated with mortality in ESKAPE infections are female sex, lymphocyte counts of <300/mm³, the presence of septic shock (9), white blood cell counts >15,000/mm³, and fever of 39°C (10).
 Early treatment of MDRO is critical to ensure good clinical outcomes(4) and mortality is increased in these patients (11, 12). That said, therapeutic options are limited and are often poorly tolerated. (13) Treatment failure rates are significant (14). Recent studies evaluated in vitro combination therapies, such as ceftazidime/avibactam, meropenem/vaborbactam or dual carbapenem combination, and seek new indications for some drugs (15-17). Although a recent series described an acceptable renal and neurologic toxicity profile with colistin in SOT recipients (18), our patient did not tolerate intravenous colistin due to renal toxicity, necessitating compassionate use of intravenous fosfomycin, which is not available in the United States. Data on fosfomycin susceptibility for MDR enterobacteriaceae are available (19, 20) and promising. While fosfomycin susceptibility readings can be challenging and difficult to interpret, it is generally used in combination therapy when treating MDRO (21). The polymyxins, mainly polymyxin B and polymyxin E (also known as colistin) are old drugs with activity against certain MDR gram-negative organisms (22). While polymyxin B is less nephrotoxic, it is also not active in urine. Colistin has the added challenge of inconsistent dose regimens due to multiple available formulations (23).
-If we had seen this case more recently, we would have requested ceftazidime/avibactam and/or meropenem/vaborbactam susceptibilities but unfortunately, those drugs were not available when our patient presented. Ceftazidime/avibactam in combination with aztreonam has shown in vitro effect against metallo-beta-lactamases (24). Most recently, cefiderocol, a novel siderophore cephalosporin antibiotic, has demonstrated antimicrobial activity against Enterobacteriaceae , including strains that produce KPC or NDM-1 (25). Ceftolazone/tazobactam is not effective against imipenem resistant Pseudomonas if mediated by metallo-beta-lactamases (26). In the U.S., the imipenem resistance is usually mediated by porin changes, thus could be an option in those selected cases. It is also effective against ampC producing strains, although emergent resistance has been described (27). For gram-negative ESBL infections, this discussion would not be complete without mentioning the recent published MERINO trial (28) which compared a carbapenem-sparing regimen with piperacillin/tazobactam for ceftriaxone-resistant E. coli or K. pneumoniae bloodstream infections. Its results did not support the use of piperacillin/tazobactam compared with meropenem for these infections.
-In conclusion, this case describes a case of polymicrobial bacteremia secondary to hepatic abscesses and further complicated by empyema in a liver transplant recipient. MDROs involved in this case included gram positives, VRE, as well as gram-negative bacteria, ESBL E. Coli and NDM-1 K. pneumoniae . Additional molecular testing was needed for the beta-lactamase genes (NDM-1, OXA), as well as susceptibility testing for colistin which did not have Clinical and Laboratory Standards Institute (CLSI) breakpoints. Fosfomycin susceptibility was not available but the drug was used on compassionate grounds as part of a multipronged treatment strategy that was ultimately successful.
+If we had seen this case more recently, we would have requested ceftazidime/avibactam and/or meropenem/vaborbactam susceptibilities but unfortunately, those drugs were not available when our patient presented. Ceftazidime/avibactam in combination with aztreonam has shown in vitro effect against metallo-beta-lactamases (24). Most recently, cefiderocol, a novel siderophore cephalosporin antibiotic, has demonstrated antimicrobial activity against Enterobacteriaceae, including strains that produce KPC or NDM-1 (25). Ceftolazone/tazobactam is not effective against imipenem resistant Pseudomonas if mediated by metallo-beta-lactamases (26). In the U.S., the imipenem resistance is usually mediated by porin changes, thus could be an option in those selected cases. It is also effective against ampC producing strains, although emergent resistance has been described (27). For gram-negative ESBL infections, this discussion would not be complete without mentioning the recent published MERINO trial (28) which compared a carbapenem-sparing regimen with piperacillin/tazobactam for ceftriaxone-resistant E. coli or K. pneumoniae bloodstream infections. Its results did not support the use of piperacillin/tazobactam compared with meropenem for these infections.
+In conclusion, this case describes a case of polymicrobial bacteremia secondary to hepatic abscesses and further complicated by empyema in a liver transplant recipient. MDROs involved in this case included gram positives, VRE, as well as gram-negative bacteria, ESBL E. Coli and NDM-1 K. pneumoniae. Additional molecular testing was needed for the beta-lactamase genes (NDM-1, OXA), as well as susceptibility testing for colistin which did not have Clinical and Laboratory Standards Institute (CLSI) breakpoints. Fosfomycin susceptibility was not available but the drug was used on compassionate grounds as part of a multipronged treatment strategy that was ultimately successful.
 Final Diagnosis
 Multidrug-resistant polymicrobial liver abscess with bacteremia in a liver transplant recipient
 References
 Rice LB. 2008. Federal funding for the study of antimicrobial resistance in nosocomial pathogens: no ESKAPE. J Infect Dis 197:1079-81.
-PMID:18419525 ( PubMed abstract )
+PMID:18419525(PubMed abstract) Alevizakos M, Kallias A, Flokas ME, Mylonakis E. 2017. Colonization with extended-spectrum beta-lactamase-producing Enterobacteriaceae in solid organ transplantation: A meta-analysis and review. Transpl Infect Dis 19
+PMID:28470983(PubMed abstract) Safdar N, Maki DG. 2002. The commonality of risk factors for nosocomial colonization and infection with antimicrobial-resistant Staphylococcus aureus, enterococcus, gram-negative bacilli, Clostridium difficile, and Candida. Ann Intern Med 136:834-44.
+PMID:12044132(PubMed abstract) van Delden C, Blumberg EA. 2009. Multidrug resistant gram-negative bacteria in solid organ transplant recipients. Am J Transplant 9 Suppl 4:S27-34.
+PMID:20070690(PubMed abstract) Safdar N, Sengupta S, Musuuza JS, et al. 2017. Status of the Prevention of Multidrug-Resistant Organisms in International Settings: A Survey of the Society for Healthcare Epidemiology of America Research Network. Infect Control Hosp Epidemiol 38:53-60.
+PMID:27817759(PubMed abstract) Denis B, Lafaurie M, Donay JL, et al. 2015. Prevalence, risk factors, and impact on clinical outcome of extended-spectrum beta-lactamase-producing Escherichia coli bacteraemia: a five-year study. Int J Infect Dis 39:1-6
+PMID:26189774(PubMed abstract) Moellering RC, Jr. 2010. NDM-1--a cause for worldwide concern. N Engl J Med 363:2377-9
+PMID:21158655(PubMed abstract) Antibiotic Resistance Threats in the United States, 2013. U.S. Department of Health and Human Services: Center for Disease Control and Prevention; 2013. Song SH, Li XX, Wan QQ, Ye QF. 2014. Risk factors for mortality in liver transplant recipients with ESKAPE infection. Transplant Proc 46:3560-3.
+PMID:25498089(PubMed abstract) Ouyang W, Li X, Wan Q, Ye Q. 2015. The risk factors for mortality and septic shock in liver transplant recipients with ESKAPE bacteremia. Hepatogastroenterology 62:346-9.
+PMID:25916061(PubMed abstract) Ramos-Castaneda JA, Ruano-Ravina A, Barbosa-Lorenzo R, et al. 2018. Mortality due to KPC carbapenemase-producing Klebsiella pneumoniae infections: Systematic review and meta-analysis: Mortality due to KPC Klebsiella pneumoniae infections. J Infect doi:10.1016/j.jinf.2018.02.007.
+PMID:29477802(PubMed abstract) Patel G, Huprikar S, Factor SH, Jenkins SG, Calfee DP. 2008. Outcomes of carbapenem-resistant Klebsiella pneumoniae infection and the impact of antimicrobial and adjunctive therapies. Infect Control Hosp Epidemiol 29:1099-106.
+PMID:18973455(PubMed abstract) Rodriguez-Bano J, Gutierrez-Gutierrez B, Machuca I, Pascual A. 2018. Treatment of Infections Caused by Extended-Spectrum-Beta-Lactamase-, AmpC-, and Carbapenemase-Producing Enterobacteriaceae. Clin Microbiol Rev 31.
+PMID:29444952(PubMed abstract) Lee GC, Burgess DS. 2012. Treatment of Klebsiella pneumoniae carbapenemase (KPC) infections: a review of published case series and case reports. Ann Clin Microbiol Antimicrob 11:32.
+PMID:23234297(PubMed abstract) Poirel L, Kieffer N, Nordmann P. 2016. In vitro evaluation of dual carbapenem combinations against carbapenemase-producing Enterobacteriaceae. J Antimicrob Chemother 71:156-61.
+PMID:26416781(PubMed abstract) Sherry NL, Baines SL, Howden BP. 2018. Ceftazidime-avibactam susceptibility by three different susceptibility testing methods in carbapenemase-producing Gram-negative bacteria from Australia. Int J Antimicrob Agents doi:10.1016/j.ijantimicag.2018.02.017
+PMID:29499316(PubMed abstract) Hackel MA, Lomovskaya O, Dudley MN, Karlowsky JA, Sahm DF. 2018. In Vitro Activity of Meropenem-Vaborbactam against Clinical Isolates of KPC-Positive Enterobacteriaceae. Antimicrobial Agents and Chemotherapy. 62(1):e01904-17. doi:10.1128/AAC.01904-17.
+PMID:29084745(PubMed abstract) Florescu DF, Mindru C, Keck MA, Qiu F, Kalil AC. 2016. Colistin, an Old Drug in a New Territory, Solid Organ Transplantation. Transplant Proc 48:152-7.
+PMID:26915861(PubMed abstract) Kaase M, Szabados F, Anders A, Gatermann SG. 2014. Fosfomycin susceptibility in carbapenem-resistant Enterobacteriaceae from Germany. J Clin Microbiol 52:1893-7.
+PMID:24648559(PubMed abstract) Falagas ME, Kastoris AC, Kapaskelis AM, Karageorgopoulos DE. 2010. Fosfomycin for the treatment of multidrug-resistant, including extended-spectrum beta-lactamase producing, Enterobacteriaceae infections: a systematic review. Lancet Infect Dis 10:43-50.
+PMID:20129148(PubMed abstract) Michalopoulos A, Virtzili S, Rafailidis P, Chalevelakis G, Damala M, Falagas ME. 2010. Intravenous fosfomycin for the treatment of nosocomial infections caused by carbapenem-resistant Klebsiella pneumoniae in critically ill patients: a prospective evaluation. Clin Microbiol Infect 16:184-6.
+PMID:19694767(PubMed abstract) Velkov T, Roberts KD, Nation RL, Thompson PE, Li J. 2013. Pharmacology of polymyxins: new insights into an ‘old’ class of antibiotics. Future microbiology 8:10.2217/fmb.13.39.
+PMID:23701329(PubMed abstract) Li J, Nation RL, Turnidge JD, et al. 2006. Colistin: the re-emerging antibiotic for multidrug-resistant Gram-negative bacterial infections. Lancet Infect Dis 6:589-601.
+PMID:16931410(PubMed abstract) Marshall S, Hujer AM, Rojas LJ, et al. 2017. Can Ceftazidime-Avibactam and Aztreonam Overcome beta-Lactam Resistance Conferred by Metallo-beta-Lactamases in Enterobacteriaceae? Antimicrob Agents Chemother 61.(4). pii: e02243-16. doi: 10.1128/AAC.02243-16.
+PMID:28167541(PubMed abstract) Kohira N, West J, Ito A, et al. 2016. In Vitro Antimicrobial Activity of a Siderophore Cephalosporin, S-649266, against Enterobacteriaceae Clinical Isolates, Including Carbapenem-Resistant Strains. Antimicrob Agents Chemother 60:729-34.
+PMID:26574013(PubMed abstract) van Duin D, Bonomo RA. 2016. Ceftazidime/Avibactam and Ceftolozane/Tazobactam: Second-generation beta-Lactam/beta-Lactamase Inhibitor Combinations. Clin Infect Dis 63:234-41.
+PMID:27098166(PubMed abstract) Fraile-Ribot PA, Cabot G, Mulet X, et al. 2017. Mechanisms leading to in vivo ceftolozane/tazobactam resistance development during the treatment of infections caused by MDR Pseudomonas aeruginosa. J Antimicrob Chemother doi:10.1093/jac/dkx424
+PMID:29149337(PubMed abstract) Harris P, Tambyah P, Lye D, et al. 2018. Effect of Piperacillin-Tazobactam vs Meropenem on 30-Day Mortality for Patients With E coli or Klebsiella pneumoniae Bloodstream Infection and Ceftriaxone Resistance A Randomized Clinical Trial. Journal of the American Medical Association 320:984-994.
+PMID:30208454(PubMed abstract)
+Rice LB. 2008. Federal funding for the study of antimicrobial resistance in nosocomial pathogens: no ESKAPE. J Infect Dis 197:1079-81.
+PMID:18419525(PubMed abstract)
 Alevizakos M, Kallias A, Flokas ME, Mylonakis E. 2017. Colonization with extended-spectrum beta-lactamase-producing Enterobacteriaceae in solid organ transplantation: A meta-analysis and review. Transpl Infect Dis 19
-PMID:28470983 ( PubMed abstract )
+PMID:28470983(PubMed abstract)
 Safdar N, Maki DG. 2002. The commonality of risk factors for nosocomial colonization and infection with antimicrobial-resistant Staphylococcus aureus, enterococcus, gram-negative bacilli, Clostridium difficile, and Candida. Ann Intern Med 136:834-44.
-PMID:12044132 ( PubMed abstract )
+PMID:12044132(PubMed abstract)
 van Delden C, Blumberg EA. 2009. Multidrug resistant gram-negative bacteria in solid organ transplant recipients. Am J Transplant 9 Suppl 4:S27-34.
-PMID:20070690 ( PubMed abstract )
+PMID:20070690(PubMed abstract)
 Safdar N, Sengupta S, Musuuza JS, et al. 2017. Status of the Prevention of Multidrug-Resistant Organisms in International Settings: A Survey of the Society for Healthcare Epidemiology of America Research Network. Infect Control Hosp Epidemiol 38:53-60.
-PMID:27817759 ( PubMed abstract )
+PMID:27817759(PubMed abstract)
 Denis B, Lafaurie M, Donay JL, et al. 2015. Prevalence, risk factors, and impact on clinical outcome of extended-spectrum beta-lactamase-producing Escherichia coli bacteraemia: a five-year study. Int J Infect Dis 39:1-6
-PMID:26189774 ( PubMed abstract )
+PMID:26189774(PubMed abstract)
 Moellering RC, Jr. 2010. NDM-1--a cause for worldwide concern. N Engl J Med 363:2377-9
-PMID:21158655 ( PubMed abstract )
+PMID:21158655(PubMed abstract)
 Antibiotic Resistance Threats in the United States, 2013. U.S. Department of Health and Human Services: Center for Disease Control and Prevention; 2013.
 Song SH, Li XX, Wan QQ, Ye QF. 2014. Risk factors for mortality in liver transplant recipients with ESKAPE infection. Transplant Proc 46:3560-3.
-PMID:25498089 ( PubMed abstract )
+PMID:25498089(PubMed abstract)
 Ouyang W, Li X, Wan Q, Ye Q. 2015. The risk factors for mortality and septic shock in liver transplant recipients with ESKAPE bacteremia. Hepatogastroenterology 62:346-9.
-PMID:25916061 ( PubMed abstract )
+PMID:25916061(PubMed abstract)
 Ramos-Castaneda JA, Ruano-Ravina A, Barbosa-Lorenzo R, et al. 2018. Mortality due to KPC carbapenemase-producing Klebsiella pneumoniae infections: Systematic review and meta-analysis: Mortality due to KPC Klebsiella pneumoniae infections. J Infect doi:10.1016/j.jinf.2018.02.007.
-PMID:29477802 ( PubMed abstract )
+PMID:29477802(PubMed abstract)
 Patel G, Huprikar S, Factor SH, Jenkins SG, Calfee DP. 2008. Outcomes of carbapenem-resistant Klebsiella pneumoniae infection and the impact of antimicrobial and adjunctive therapies. Infect Control Hosp Epidemiol 29:1099-106.
-PMID:18973455 ( PubMed abstract )
+PMID:18973455(PubMed abstract)
 Rodriguez-Bano J, Gutierrez-Gutierrez B, Machuca I, Pascual A. 2018. Treatment of Infections Caused by Extended-Spectrum-Beta-Lactamase-, AmpC-, and Carbapenemase-Producing Enterobacteriaceae. Clin Microbiol Rev 31.
-PMID:29444952 ( PubMed abstract )
+PMID:29444952(PubMed abstract)
 Lee GC, Burgess DS. 2012. Treatment of Klebsiella pneumoniae carbapenemase (KPC) infections: a review of published case series and case reports. Ann Clin Microbiol Antimicrob 11:32.
-PMID:23234297 ( PubMed abstract )
+PMID:23234297(PubMed abstract)
 Poirel L, Kieffer N, Nordmann P. 2016. In vitro evaluation of dual carbapenem combinations against carbapenemase-producing Enterobacteriaceae. J Antimicrob Chemother 71:156-61.
-PMID:26416781 ( PubMed abstract )
+PMID:26416781(PubMed abstract)
 Sherry NL, Baines SL, Howden BP. 2018. Ceftazidime-avibactam susceptibility by three different susceptibility testing methods in carbapenemase-producing Gram-negative bacteria from Australia. Int J Antimicrob Agents doi:10.1016/j.ijantimicag.2018.02.017
-PMID:29499316 ( PubMed abstract )
+PMID:29499316(PubMed abstract)
 Hackel MA, Lomovskaya O, Dudley MN, Karlowsky JA, Sahm DF. 2018. In Vitro Activity of Meropenem-Vaborbactam against Clinical Isolates of KPC-Positive Enterobacteriaceae. Antimicrobial Agents and Chemotherapy. 62(1):e01904-17. doi:10.1128/AAC.01904-17.
-PMID:29084745 ( PubMed abstract )
+PMID:29084745(PubMed abstract)
 Florescu DF, Mindru C, Keck MA, Qiu F, Kalil AC. 2016. Colistin, an Old Drug in a New Territory, Solid Organ Transplantation. Transplant Proc 48:152-7.
-PMID:26915861 ( PubMed abstract )
+PMID:26915861(PubMed abstract)
 Kaase M, Szabados F, Anders A, Gatermann SG. 2014. Fosfomycin susceptibility in carbapenem-resistant Enterobacteriaceae from Germany. J Clin Microbiol 52:1893-7.
-PMID:24648559 ( PubMed abstract )
+PMID:24648559(PubMed abstract)
 Falagas ME, Kastoris AC, Kapaskelis AM, Karageorgopoulos DE. 2010. Fosfomycin for the treatment of multidrug-resistant, including extended-spectrum beta-lactamase producing, Enterobacteriaceae infections: a systematic review. Lancet Infect Dis 10:43-50.
-PMID:20129148 ( PubMed abstract )
+PMID:20129148(PubMed abstract)
 Michalopoulos A, Virtzili S, Rafailidis P, Chalevelakis G, Damala M, Falagas ME. 2010. Intravenous fosfomycin for the treatment of nosocomial infections caused by carbapenem-resistant Klebsiella pneumoniae in critically ill patients: a prospective evaluation. Clin Microbiol Infect 16:184-6.
-PMID:19694767 ( PubMed abstract )
+PMID:19694767(PubMed abstract)
 Velkov T, Roberts KD, Nation RL, Thompson PE, Li J. 2013. Pharmacology of polymyxins: new insights into an ‘old’ class of antibiotics. Future microbiology 8:10.2217/fmb.13.39.
-PMID:23701329 ( PubMed abstract )
+PMID:23701329(PubMed abstract)
 Li J, Nation RL, Turnidge JD, et al. 2006. Colistin: the re-emerging antibiotic for multidrug-resistant Gram-negative bacterial infections. Lancet Infect Dis 6:589-601.
-PMID:16931410 ( PubMed abstract )
+PMID:16931410(PubMed abstract)
 Marshall S, Hujer AM, Rojas LJ, et al. 2017. Can Ceftazidime-Avibactam and Aztreonam Overcome beta-Lactam Resistance Conferred by Metallo-beta-Lactamases in Enterobacteriaceae? Antimicrob Agents Chemother 61.(4). pii: e02243-16. doi: 10.1128/AAC.02243-16.
-PMID:28167541 ( PubMed abstract )
+PMID:28167541(PubMed abstract)
 Kohira N, West J, Ito A, et al. 2016. In Vitro Antimicrobial Activity of a Siderophore Cephalosporin, S-649266, against Enterobacteriaceae Clinical Isolates, Including Carbapenem-Resistant Strains. Antimicrob Agents Chemother 60:729-34.
-PMID:26574013 ( PubMed abstract )
+PMID:26574013(PubMed abstract)
 van Duin D, Bonomo RA. 2016. Ceftazidime/Avibactam and Ceftolozane/Tazobactam: Second-generation beta-Lactam/beta-Lactamase Inhibitor Combinations. Clin Infect Dis 63:234-41.
-PMID:27098166 ( PubMed abstract )
+PMID:27098166(PubMed abstract)
 Fraile-Ribot PA, Cabot G, Mulet X, et al. 2017. Mechanisms leading to in vivo ceftolozane/tazobactam resistance development during the treatment of infections caused by MDR Pseudomonas aeruginosa. J Antimicrob Chemother doi:10.1093/jac/dkx424
-PMID:29149337 ( PubMed abstract )
+PMID:29149337(PubMed abstract)
 Harris P, Tambyah P, Lye D, et al. 2018. Effect of Piperacillin-Tazobactam vs Meropenem on 30-Day Mortality for Patients With E coli or Klebsiella pneumoniae Bloodstream Infection and Ceftriaxone Resistance A Randomized Clinical Trial. Journal of the American Medical Association 320:984-994.
-PMID:30208454 ( PubMed abstract )
+PMID:30208454(PubMed abstract)

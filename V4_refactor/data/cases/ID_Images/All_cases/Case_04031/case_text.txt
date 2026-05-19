@@ -4,29 +4,32 @@ A woman in her sixties presented with a red, tender, swollen right upper arm and
 Past Medical History
 She had a history of invasive ductal carcinoma of the right breast, treated with lumpectomy, with no positive lymph nodes. Adjuvant chemotherapy was being administered.
 Physical Examination
-The patient was in no acute distress. The temperature was 103.5°F (39.7°C), pulse 110 per minute, and blood pressure 124/76 mm Hg. The right upper arm is shown in Figure 1 . Scratch marks were faintly visible. There was full range of motion at the elbow, without crepitus or fluctuance. There was no palpable lymphadenopathy, and the remainder of the examination was normal.
+The patient was in no acute distress. The temperature was 103.5°F (39.7°C), pulse 110 per minute, and blood pressure 124/76 mm Hg. The right upper arm is shown in Figure 1. Scratch marks were faintly visible. There was full range of motion at the elbow, without crepitus or fluctuance. There was no palpable lymphadenopathy, and the remainder of the examination was normal.
 Figure 1. Physical findings.
 Studies
 The white blood cell count was 400 cells/mm³, absolute neutrophil count 100 cells/mm³, hematocrit 29%, and platelets 98,000/mm³. The remainder of the laboratory testing was normal.
 Clinical Course Prior to Diagnosis
-Forty-eight hours after admission, 4 out of 4 blood culture bottles were positive. A gram stain from one of the aerobic bottles is shown in Figure 2 .
+Forty-eight hours after admission, 4 out of 4 blood culture bottles were positive. A gram stain from one of the aerobic bottles is shown in Figure 2.
 The patient received intravenous antibiotics and granulocyte colony-stimulating factor (G-CSF). Although the fever subsided after 48 hours, the arm lesion progressed despite appropriate antimicrobial therapy with increased erythema, bullae formation and an eschar at the site of the cat bite. No extension to deep tissue, bone or joint space was detected.
 The patient's white blood cell count was reconstituted by the fifth hospital day, and she slowly improved over the subsequent two weeks.
 Figure 2. Gram stain from an aerobic bottle.
 Diagnostic Procedure(s) and Result(s)
-Blood cultures, drawn before antibiotics were administered, grew gram-negative rods in four out of four bottles. The organism was identified as Pasteurella multocida ( Figure 2 ).
+Blood cultures, drawn before antibiotics were administered, grew gram-negative rods in four out of four bottles. The organism was identified as Pasteurella multocida (Figure 2).
 Treatment and Followup
-Progression of the skin findings is shown in Figures 3 and 4 .
+Progression of the skin findings is shown in Figures 3 and 4.
 Figure 3. Physical findings (Day 3).
 Figure 4. Physical findings (Day 7).
 Discussion
 Up to 80% of cat bites become infected, and Pasteurella multocida is the most common organism responsible. Intense local inflammation and rapid progression are typical. Abscesses, tenosynovitis, septic arthritis and osteomyelitis, particularly of the hands are the most common complications. Bacteremia is rare.
-Penicillin G remains the drug of choice against Pasteurella multocida . When treating animal bite infections before culture data is available, it is important to cover broadly with an agent such as oral amoxicillin-clavulanate or intravenous ampicillin-sulbactam. Doxycycline and clindamycin can be used for the penicillin-allergic patient.
+Penicillin G remains the drug of choice against Pasteurella multocida. When treating animal bite infections before culture data is available, it is important to cover broadly with an agent such as oral amoxicillin-clavulanate or intravenous ampicillin-sulbactam. Doxycycline and clindamycin can be used for the penicillin-allergic patient.
 The duration of therapy should be determined by the severity of the infection and the response to treatment. It is not unusual to treat P. multocida soft tissue infections with a three-to-four-week course of antibiotics.
 Final Diagnosis
 Pasteurella multocida infection, following a cat-bite, in a patient receiving adjuvant chemotherapy.
 References
 Casey, A.C., Greenspoon, J.S., and Lagasse, L.D. (1995). Pasteurella multocida Bacteremia in a Patient With Ovarian Cancer and Chemotherapy-induced Neutropenia. Infect Dis Obstet Gynecol 3, 205-209.
-PMID:18472893 ( PubMed abstract )
+PMID:18472893(PubMed abstract) Weber, D.J., Wolfson, J.S., Swartz, M.N., and Hooper, D.C. (1984). Pasteurella multocida infections. Report of 34 cases and review of the literature. Medicine (Baltimore) 63, 133-154.
+PMID:6371440(PubMed abstract)
+Casey, A.C., Greenspoon, J.S., and Lagasse, L.D. (1995). Pasteurella multocida Bacteremia in a Patient With Ovarian Cancer and Chemotherapy-induced Neutropenia. Infect Dis Obstet Gynecol 3, 205-209.
+PMID:18472893(PubMed abstract)
 Weber, D.J., Wolfson, J.S., Swartz, M.N., and Hooper, D.C. (1984). Pasteurella multocida infections. Report of 34 cases and review of the literature. Medicine (Baltimore) 63, 133-154.
-PMID:6371440 ( PubMed abstract )
+PMID:6371440(PubMed abstract)

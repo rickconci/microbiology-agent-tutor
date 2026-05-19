@@ -12,20 +12,24 @@ The temperature was 101.6°F (38.7°C). Examination of the lungs revealed decrea
 Studies
 A chest radiograph showed a right pleural effusion. Computed tomography (CT) of the abdomen showed ascites. The ascitic fluid was tapped and had a white blood cell count 1800 cells/mm³ with 3% polys and 97% lymphs, glucose 76 mg/dL, protein 5.6 mg/dL, and lactate dehydrogenase (LDH) 300 U/L.
 Clinical Course Prior to Diagnosis
-At laparoscopy, there was diffuse nodularity of the uterine serosa, fallopian tubes, ovaries and studding of the large and small bowel and peritoneal surfaces. Similar findings were seen throughout the peritoneum ( Figure 1 ).
+At laparoscopy, there was diffuse nodularity of the uterine serosa, fallopian tubes, ovaries and studding of the large and small bowel and peritoneal surfaces. Similar findings were seen throughout the peritoneum (Figure 1).
 Figure 1. Findings on laparoscopy.
 Diagnostic Procedure(s) and Result(s)
-Laparoscopic biopsies showed caseating granulomas. Intra-operative cultures grew Mycobacterium tuberculosis .
+Laparoscopic biopsies showed caseating granulomas. Intra-operative cultures grew Mycobacterium tuberculosis.
 Treatment and Followup
 The patient was tested for human immunodeficiency virus type 1 (HIV-1) and was found to be negative. She received treatment for tuberculosis and her symptoms resolved.
 Discussion
 The clinical presentation of tuberculous peritonitis is divided into the serous or plastic type. The serous type is characterized by ascites, as in this case. The plastic type is notable for abdominal masses and a "doughy" abdomen.
 Final Diagnosis
-Peritonitis caused by .
+Peritonitis caused by Mycobacterium tuberculosis.
 References
 Guirat, A., Koubaa, M., Mzali, R., Abid, B., Ellouz, S., Affes, N., Ben Jemaa, M., Frikha, F., Ben Amar, M., and Beyrouti, M.I. (2011). Peritoneal tuberculosis. Clin Res Hepatol Gastroenterol 35, 60-69.
-PMID:21215540 ( PubMed abstract )
+PMID:21215540(PubMed abstract) Manohar, A., Simjee, A.E., Haffejee, A.A., and Pettengell, K.E. (1990). Symptoms and investigative findings in 145 patients with tuberculous peritonitis diagnosed by peritoneoscopy and biopsy over a five year period. Gut 31, 1130-1132.
+PMID:2150661(PubMed abstract) Yeh, H.F., Chiu, T.F., Chen, J.C., and Ng, C.J. (2012). Tuberculous peritonitis: analysis of 211 cases in Taiwan. Dig Liver Dis 44, 111-117.
+PMID:21944948(PubMed abstract)
+Guirat, A., Koubaa, M., Mzali, R., Abid, B., Ellouz, S., Affes, N., Ben Jemaa, M., Frikha, F., Ben Amar, M., and Beyrouti, M.I. (2011). Peritoneal tuberculosis. Clin Res Hepatol Gastroenterol 35, 60-69.
+PMID:21215540(PubMed abstract)
 Manohar, A., Simjee, A.E., Haffejee, A.A., and Pettengell, K.E. (1990). Symptoms and investigative findings in 145 patients with tuberculous peritonitis diagnosed by peritoneoscopy and biopsy over a five year period. Gut 31, 1130-1132.
-PMID:2150661 ( PubMed abstract )
+PMID:2150661(PubMed abstract)
 Yeh, H.F., Chiu, T.F., Chen, J.C., and Ng, C.J. (2012). Tuberculous peritonitis: analysis of 211 cases in Taiwan. Dig Liver Dis 44, 111-117.
-PMID:21944948 ( PubMed abstract )
+PMID:21944948(PubMed abstract)

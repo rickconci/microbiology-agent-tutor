@@ -1,27 +1,31 @@
 History of Present Illness
 Summary: A middle-aged women with abdominal pain.
 A woman in her forties had a history of endometriosis, for which she had undergone multiple surgical procedures. Her most recent procedure, prompted by abdominal pain, included removal of the right ovary and fallopian tube, ligation of the left tube, and extensive fulguration of areas of endometriosis requiring conversion from laparoscopic to an open procedure via a Pfannenstiel incision.
-Five weeks post-operatively, she developed yellow-green drainage around the periumbilical surgical wound. Culture of the drainage grew Escherichia coli , Enterobacter , and enterococci. Oral levofloxacin was administered.
+Five weeks post-operatively, she developed yellow-green drainage around the periumbilical surgical wound. Culture of the drainage grew Escherichia coli, Enterobacter, and enterococci. Oral levofloxacin was administered.
 She then developed a painful red nodule in the right periumbilical laparotomy site and a series of similar nodules along the right side of the Pfannenstiel incision. Computed tomography (CT) of the abdomen did not show a fistula. Resection of nodules in operating room yielded tissue with “foreign body giant cell” reaction. There was no evidence of endometrioma.
 Two weeks later, nodules and green drainage from the wounds recurred.
 Clinical Course Prior to Diagnosis
-Additional surgical exploration yielded further tissue for pathological examination ( Figures 1, 2 and 3 ).
+Additional surgical exploration yielded further tissue for pathological examination (Figures 1, 2 and 3).
 Figure 1. Tissue biopsy.
 Figure 2. Acid fast stain.
 Figure 3. Detail of Figure 2.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of the tissue showed necrotizing granulomas ( Figure 1 ). Staining was positive for acid-fast bacilli (AFB) ( Figures 2 and 3 ). Cultures grew Mycobacterium fortuitum .
+Pathological examination of the tissue showed necrotizing granulomas (Figure 1). Staining was positive for acid-fast bacilli (AFB) (Figures 2 and 3). Cultures grew Mycobacterium fortuitum.
 An extensive epidemiologic evaluation revealed no other recent cases of mycobacterial infection in the institution and no contamination of any surgical instruments or other wound care materials.
 Treatment and Followup
 Based on the susceptibility patterns of the isolate, a course of sulfamethoxazole-trimethoprim and levofloxacin was administered. After four months of therapy, she developed migratory joint pains that were thought to be possibly related to antibiotic intolerance. The sulfamethoxazole-trimethoprim and levofloxacin were discontinued, and clarithromycin monotherapy was administered to complete a 6-month total treatment course. She remained asymptomatic twelve months after finishing this therapy.
 Discussion
-Wound infections that develop within a few days of an operation are most commonly due to streptococci, clostridia and Staphylococcus aureus . Infections that present several weeks after the operation, as in this case, may be due to more indolent organisms, such as non-tuberculous mycobacteria. This case illustrates the importance of surgical debridement and appropriate cultures in the setting of delayed wound infections.
+Wound infections that develop within a few days of an operation are most commonly due to streptococci, clostridia and Staphylococcus aureus. Infections that present several weeks after the operation, as in this case, may be due to more indolent organisms, such as non-tuberculous mycobacteria. This case illustrates the importance of surgical debridement and appropriate cultures in the setting of delayed wound infections.
 Final Diagnosis
 Mycobacterium fortuitum wound infection.
 References
 Appelgren, P., Farnebo, F., Dotevall, L., Studahl, M., Jonsson, B., and Petrini, B. (2008). Late-onset posttraumatic skin and soft-tissue infections caused by rapid-growing mycobacteria in tsunami survivors. Clin Infect Dis 47, e11-16.
-PMID:18549312 ( PubMed abstract )
+PMID:18549312(PubMed abstract) Macadam, S.A., Mehling, B.M., Fanning, A., Dufton, J.A., Kowalewska-Grochowska, K.T., Lennox, P., Anzarut, A., and Rodrigues, M. (2007). Nontuberculous mycobacterial breast implant infections. Plast Reconstr Surg 119, 337-344.
+PMID:17255691(PubMed abstract) Verghese S, Madhusudhan B, Senthil MS, Thabitha C, Leelavathy S, Padmaja P, Madhusudhan K. (2007) Chronic postoperative wound infection caused by Myocobacterium fortuitum complex. J Commun Dis. 2007 Dec;39(4):257-9.
+PMID:18697600(PubMed abstract)
+Appelgren, P., Farnebo, F., Dotevall, L., Studahl, M., Jonsson, B., and Petrini, B. (2008). Late-onset posttraumatic skin and soft-tissue infections caused by rapid-growing mycobacteria in tsunami survivors. Clin Infect Dis 47, e11-16.
+PMID:18549312(PubMed abstract)
 Macadam, S.A., Mehling, B.M., Fanning, A., Dufton, J.A., Kowalewska-Grochowska, K.T., Lennox, P., Anzarut, A., and Rodrigues, M. (2007). Nontuberculous mycobacterial breast implant infections. Plast Reconstr Surg 119, 337-344.
-PMID:17255691 ( PubMed abstract )
+PMID:17255691(PubMed abstract)
 Verghese S, Madhusudhan B, Senthil MS, Thabitha C, Leelavathy S, Padmaja P, Madhusudhan K. (2007) Chronic postoperative wound infection caused by Myocobacterium fortuitum complex. J Commun Dis. 2007 Dec;39(4):257-9.
-PMID:18697600 ( PubMed abstract )
+PMID:18697600(PubMed abstract)

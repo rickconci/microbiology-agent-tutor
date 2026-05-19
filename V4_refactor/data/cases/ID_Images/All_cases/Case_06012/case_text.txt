@@ -10,16 +10,18 @@ There was no history of smoking, illicit drug or alcohol abuse. She had no expos
 Physical Examination
 The patient appeared well. The temperature was 98.6°F (37°C) and her respiratory rate was 16 breaths per minute. The remainder of her examination was normal.
 Studies
-The hematocrit was 35%; other laboratory test results, including the white blood cell count and differential, were normal. A chest radiograph showed a left upper lobe infiltrate. Computed tomography (CT) of the chest, shown in Figure 1 , revealed a pulmonary nodule.
+The hematocrit was 35%; other laboratory test results, including the white blood cell count and differential, were normal. A chest radiograph showed a left upper lobe infiltrate. Computed tomography (CT) of the chest, shown in Figure 1, revealed a pulmonary nodule.
 Figure 1. CT scan of the chest.
 Clinical Course Prior to Diagnosis
 A biopsy of the lung mass was performed. Results of pathological examination of the biopsy are shown in Figure 2 (hematoxylin and eosin stain) and Figure 3 (Gomori methenamine silver stain.)
 Figure 2. H and E stain of lung biopsy
 Figure 3. GMS stain of lung biopsy.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of the lung biopsy revealed multiple caseating and non-caseating granulomas, with fungal yeast forms present. Figures 2 and 3 show spherules with endospores, consistent with coccidioidomycosis. Culture revealed a filamentous organism, and a gene probe was positive for Coccidioides immitis .
+Pathological examination of the lung biopsy revealed multiple caseating and non-caseating granulomas, with fungal yeast forms present. Figures 2 and 3 show spherules with endospores, consistent with coccidioidomycosis. Culture revealed a filamentous organism, and a gene probe was positive for Coccidioides immitis.
+Treatment and Followup
 Discussion
 Coccidioides immitis is endemic to the Southwestern United States, as well as parts of Central and South America. After entering by inhalation, C. immitis can cause pneumonia and pulmonary nodules. C. immitis may also disseminate systemically and cause meningitis, occasionally with an eosinophilic pleocytosis. This patient most likely contracted C. immitis pulmonary infection while hiking in Arizona.
-The pathology in this case exhibits the classic spherules of Coccidioides immitis . Following inhalation, the spores of C. immitis swell and develop a thick wall. The resulting large spherule contains hundreds of endospores. This pathologic picture is not seen with the other organisms in the differential diagnosis. The yeast form of Histoplasma capsulatum exhibits narrow-based budding. Cryptococcus neoformans has a characteristic capsule, and a mucicarmine stain would be positive. Pneumocystis jirovecii , although now classified as a fungus, would not create a spherule; a silver stain may show helmet shaped organisms. Paracoccidioidomycosis occurs in Latin America, from Mexico to Argentina. In tissue biopsies, the yeast-like cells of this organism exhibit multiple, narrow-based oval "daughter" cells budding from a "mother" cell in a so-called "Mickey Mouse" pattern.
+The pathology in this case exhibits the classic spherules of Coccidioides immitis. Following inhalation, the spores of C. immitis swell and develop a thick wall. The resulting large spherule contains hundreds of endospores. This pathologic picture is not seen with the other organisms in the differential diagnosis. The yeast form of Histoplasma capsulatum exhibits narrow-based budding. Cryptococcus neoformans has a characteristic capsule, and a mucicarmine stain would be positive. Pneumocystis jirovecii, although now classified as a fungus, would not create a spherule; a silver stain may show helmet shaped organisms. Paracoccidioidomycosis occurs in Latin America, from Mexico to Argentina. In tissue biopsies, the yeast-like cells of this organism exhibit multiple, narrow-based oval "daughter" cells budding from a "mother" cell in a so-called "Mickey Mouse" pattern.
 Final Diagnosis
-Coccidioidomycosis, caused by Coccidioides immitis .
+Coccidioidomycosis, caused by Coccidioides immitis.
+References

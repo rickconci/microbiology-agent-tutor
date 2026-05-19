@@ -13,19 +13,21 @@ On admission, the patient was in mild respiratory distress and appeared cachecti
 Studies
 The hematocrit was 35%, white blood cell count 5,600 cells/microliter, and platelet count 52,000/microliter. The creatinine was 2.2 mg/dL, blood urea nitrogen (BUN) 84 mg/dL, D-dimer 886 (normal range 0-95).
 Chest radiography revealed bibasilar infiltrates on the left more than right, a left pleural effusion and a right apical soft tissue density that was stable compared to previous findings.
-Computed tomography (CT) of the chest, without the admnistration of intravenous contrast ( Figure 1 ), revealed a large left pleural effusion, new sub pleural nodules in the left base, and lymph nodes in the pre-vascular space that were suspicious for metastatic disease. There was also a paramediastinal consolidation of right upper lobe that was unchanged from an earlier scan.
+Computed tomography (CT) of the chest, without the admnistration of intravenous contrast (Figure 1), revealed a large left pleural effusion, new sub pleural nodules in the left base, and lymph nodes in the pre-vascular space that were suspicious for metastatic disease. There was also a paramediastinal consolidation of right upper lobe that was unchanged from an earlier scan.
 Figure 1. Chest CT scan without contrast.
 Clinical Course Prior to Diagnosis
 The patient's shortness of breath increased. Oxygen requirements also increased, despite treatment with antibiotics for possible community acquired pneumonia and thoracentesis.
 Progressive pancytopenia developed (hemoglobin 8.0 g/dL, white blood cells 3,400/mm³, platelets 16,000/mm³), and blood transfusions were administered. Pre-renal azotemia resolved with hydration.
 Diagnostic Procedure(s) and Result(s)
-A thoracentesis was performed. Examination of the aspirate with potassium hydroxide (KOH) preparation did not reveal any fungal elements, but pleural fluid cytology showed yeast forms in macrophages ( Figure 2 ). No malignant cells were identified. Culture of the pleural fluid culture grew Histoplasma capsulatum .
-Pathologic examination of a bone marrow biopsy showed normocellular bone marrow. Gomori methenamine silver stains performed on the bone marrow sections were strongly positive for fungal organisms ( Figure 3 ). An increased number of histiocytes were seen, several of which contained multiple small intra-cytoplasmic organelles surrounded by a halo consistent with Histoplasma capsulatum ( Figure 4 ).
-The bone marrow biopsy culture grew Histoplasma capsulatum . Urine Histoplasma antigen was positive.
+A thoracentesis was performed. Examination of the aspirate with potassium hydroxide (KOH) preparation did not reveal any fungal elements, but pleural fluid cytology showed yeast forms in macrophages (Figure 2). No malignant cells were identified. Culture of the pleural fluid culture grew Histoplasma capsulatum.
+Pathologic examination of a bone marrow biopsy showed normocellular bone marrow. Gomori methenamine silver stains performed on the bone marrow sections were strongly positive for fungal organisms (Figure 3). An increased number of histiocytes were seen, several of which contained multiple small intra-cytoplasmic organelles surrounded by a halo consistent with Histoplasma capsulatum (Figure 4).
+The bone marrow biopsy culture grew Histoplasma capsulatum. Urine Histoplasma antigen was positive.
 Figure 2. Pleural fluid cytology.
 Figure 3. Gomori methenamine silver stain of bone marrow.
 Figure 4. Bone marrow biopsy with histiocytes and intra-cytoplasmic organelles.
 Treatment and Followup
 Disseminated histoplasmosis was diagnosed and the patient was treated with amphotericin B lipid complex. Shortly after initiation of therapy, cardiogenic shock and respiratory failure developed. He was intubated and ventilated, and pressors were administered; however, a sustained ventricular tachycardia occurred, followed by cardiopulmonary arrest.
+Discussion
 Final Diagnosis
-Disseminated histoplasmosis caused by Histoplasma capsulatum .
+Disseminated histoplasmosis caused by Histoplasma capsulatum.
+References

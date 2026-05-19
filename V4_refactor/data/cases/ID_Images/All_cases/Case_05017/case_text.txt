@@ -10,20 +10,23 @@ The patient had hiked in late summer in New Hampshire with her dog. There was no
 Physical Examination
 The patient appeared well. The temperature was 103.5°F (39.7°C), blood pressure 104/50 mm Hg, pulse 113-122 beats per minute, respirations 18 per minute and oxygen saturation 97% breathing ambient air. The remainder of the examination was normal. There was no pallor, icterus, meningismus, abdominal tenderness, organomegaly or rash.
 Studies
-The white blood cell count was 2,300/mm³ (51% polymorphonuclear leukocytes, 29% band forms, 14% lymphocytes, and 4% atypical lymphocytes). The hematocrit was 39% and platelets were 24,000/mm³. The peripheral blood smear is shown in Figure 1 . Serum chemistries values were normal and blood cultures were negative.
+The white blood cell count was 2,300/mm³ (51% polymorphonuclear leukocytes, 29% band forms, 14% lymphocytes, and 4% atypical lymphocytes). The hematocrit was 39% and platelets were 24,000/mm³. The peripheral blood smear is shown in Figure 1. Serum chemistries values were normal and blood cultures were negative.
 Figure 1. Peripheral blood smear.
 Diagnostic Procedure(s) and Result(s)
-The peripheral blood smear ( Figure 1 ) showed morulae inside white blood cells, consistent with human granulocytic anaplasmosis. The diagnosis was confirmed with polymerase chain reaction (PCR) testing.
+The peripheral blood smear (Figure 1) showed morulae inside white blood cells, consistent with human granulocytic anaplasmosis. The diagnosis was confirmed with polymerase chain reaction (PCR) testing.
 Treatment and Followup
 Oral doxycycline (100 milligrams) was administered twice daily for seven days.
 Discussion
-Human granulocytic anaplasmosis is a tick-borne illness, caused by Anaplasma phagocytophilum and transmitted by the tick Ixodes scapularis . The incubation period is one to two weeks and patients present with non-specific symptoms including fevers, chills, malaise and headache. Rash is exceedingly rare.
+Human granulocytic anaplasmosis is a tick-borne illness, caused by Anaplasma phagocytophilum and transmitted by the tick Ixodes scapularis. The incubation period is one to two weeks and patients present with non-specific symptoms including fevers, chills, malaise and headache. Rash is exceedingly rare.
 Fifty to ninety percent of patients are leukopenic and most have associated thrombocytopenia and transaminitis. The diagnosis is made through visualization of intraleucocytic morulae on the blood smear, by serology or by serum PCR testing.
 At the time of this publication, treatment is with doxycycline for one week; mortality approaches 4.9%.
 Final Diagnosis
-Human granulocytic anaplasmosis (also known as human granulocytic ehrlichiosis), caused by Anaplasma phagocytophilum and transmitted by the tick Ixodes scapularis .
+Human granulocytic anaplasmosis (also known as human granulocytic ehrlichiosis), caused by Anaplasma phagocytophilum and transmitted by the tick Ixodes scapularis.
 References
 Dumler, J.S., Madigan, J.E., Pusterla, N., and Bakken, J.S. (2007). Ehrlichioses in humans: epidemiology, clinical presentation, diagnosis, and treatment. Clin Infect Dis 45 Suppl 1, S45-51.
-PMID:17582569 ( PubMed abstract )
+PMID:17582569(PubMed abstract) Thomas, R.J., Dumler, J.S., and Carlyon, J.A. (2009). Current management of human granulocytic anaplasmosis, human monocytic ehrlichiosis and Ehrlichia ewingii ehrlichiosis. Expert Rev Anti Infect Ther 7, 709-722.
+PMID:19681699(PubMed abstract)
+Dumler, J.S., Madigan, J.E., Pusterla, N., and Bakken, J.S. (2007). Ehrlichioses in humans: epidemiology, clinical presentation, diagnosis, and treatment. Clin Infect Dis 45 Suppl 1, S45-51.
+PMID:17582569(PubMed abstract)
 Thomas, R.J., Dumler, J.S., and Carlyon, J.A. (2009). Current management of human granulocytic anaplasmosis, human monocytic ehrlichiosis and Ehrlichia ewingii ehrlichiosis. Expert Rev Anti Infect Ther 7, 709-722.
-PMID:19681699 ( PubMed abstract )
+PMID:19681699(PubMed abstract)

@@ -8,22 +8,25 @@ She had been receiving doxorubicin, vincristine, etoposide, cyclophosphamide, an
 Physical Examination
 The patient was unable to sit due to discomfort. The temperature was 97°F (36.1°C), pulse 140 beats per minute, and the blood pressure 128/57 mm Hg. The abdomen was soft, with mild suprapubic tenderness, and decreased bowel sounds. There was no rebound or guarding. A reducible vaginal prolapse and mild perirectal inflammation were present, but no other significant skin changes were seen in the perineum or perirectal area and no spinal tenderness was noted.
 Studies
-The white blood cell count was 110 cells/mm³ with 3% neutrophils. A chest radiograph was normal. Magnetic resonance imaging (MRI) of the lumbar spine did not reveal any cord compression. Computed tomography (CT) of the abdomen demonstrated fat stranding surrounding the anorectal tissues and edema to the level of the sigmoid colon, as well as free fluid in the pelvic cavity ( Figures 1 and 2 ).
+The white blood cell count was 110 cells/mm³ with 3% neutrophils. A chest radiograph was normal. Magnetic resonance imaging (MRI) of the lumbar spine did not reveal any cord compression. Computed tomography (CT) of the abdomen demonstrated fat stranding surrounding the anorectal tissues and edema to the level of the sigmoid colon, as well as free fluid in the pelvic cavity (Figures 1 and 2).
 Figure 1. CT scan of the pelvis.
 Figure 2. CT scan of the pelvis.
 Clinical Course Prior to Diagnosis
 Within hours of presentation, the temperature increased to 101.3°F (38.5°C) and the blood pressure became unstable. The patient was transferred to the intensive care unit and the trachea was intubated due to respiratory distress. The abdomen became distended and tense; the perineum and perirectal region became erythematous and then progressed to an ashen appearance.
 Diagnostic Procedure(s) and Result(s)
-Blood cultures grew Clostridium septicum .
+Blood cultures grew Clostridium septicum.
 Treatment and Followup
 Vancomycin, gentamicin, imipenem, clindamycin, intravenous immunoglobulin and activated protein C were administered. Surgical consultation was obtained soon after presentation to the emergency department and felt the patient was not a surgical condidate. Unfortunately, the patient died within 48 hours of admission.
 Discussion
 The rapid clinical progression to critical illness and positive blood cultures for Clostridium septicum are consistent with spontaneous, nontraumatic gas gangrene. Typically, there is a predisposing, underlying intestinal tract abnormality such as colon cancer, diverticulitis or bowel infarction. Mucosal ulceration or perforation may lead to intra-abdominal infection or, less frequently, to bacteremic spread. Leukemia, diabetes mellitus and neutropenia (as in this case) are also risk factors.
 Spontaneous Clostridium septicum gas gangrene often presents fulminantly and the mortality may be as high as 67-100%. Most patients succumb in the first 24 hours of presentation. At the time of surgical inspection, the involved muscle groups fail to contract on stimulation and do not bleed from a cut surface. These areas later become discolored and friable.
 Final Diagnosis
-Spontaneous, nontraumatic gas gangrene ( Clostridium septicum myonecrosis) in a neutropenic patient.
+Spontaneous, nontraumatic gas gangrene (Clostridium septicum myonecrosis) in a neutropenic patient.
 References
 Kornbluth, A.A., Danzig, J.B., and Bernstein, L.H. (1989). Clostridium septicum infection and associated malignancy. Report of 2 cases and review of the literature. Medicine (Baltimore) 68, 30-37.
-PMID:2642585 ( PubMed abstract )
+PMID:2642585(PubMed abstract) Larson, C.M., Bubrick, M.P., Jacobs, D.M., and West, M.A. (1995). Malignancy, mortality, and medicosurgical management of Clostridium septicum infection. Surgery 118, 592-597; discussion 597-598.
+PMID:7570310(PubMed abstract)
+Kornbluth, A.A., Danzig, J.B., and Bernstein, L.H. (1989). Clostridium septicum infection and associated malignancy. Report of 2 cases and review of the literature. Medicine (Baltimore) 68, 30-37.
+PMID:2642585(PubMed abstract)
 Larson, C.M., Bubrick, M.P., Jacobs, D.M., and West, M.A. (1995). Malignancy, mortality, and medicosurgical management of Clostridium septicum infection. Surgery 118, 592-597; discussion 597-598.
-PMID:7570310 ( PubMed abstract )
+PMID:7570310(PubMed abstract)

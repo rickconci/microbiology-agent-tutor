@@ -12,7 +12,7 @@ Physical Examination
 The patient was resting in bed comfortably. The temperature was 97°F (36.1°C), pulse 80 beats per minute, blood pressure 136/92 mm Hg, respirations 24 per minute, and oximetry 97% on ambient air. He was awake and oriented to self with a paucity of speech and movements. He had a severely ataxic gait, rising up on his toes in order to walk forward. Strength and sensation were normal, cranial nerves intact, and reflexes symmetrical. The plantar reflexes were flexor. He was confused with poor short-term memory. No asterixis was present and the remainder of the examination was normal.
 Studies
 The white blood cell count was 2,000/mm³ with a normal differential. A lumbar puncture had a normal opening pressure, with 2 white blood cells and 71 red blood cells per cubic millimeter. The levels of glucose and protein in the cerebrospinal fluid (CSF) were normal and the gram stain was negative. Toxoplasma serologies were negative.
-Magnetic resonance imaging (MRI) of the brain showed bilateral white matter signal abnormality primarily involving the frontal lobes. (See Figures 1 through 6 .)
+Magnetic resonance imaging (MRI) of the brain showed bilateral white matter signal abnormality primarily involving the frontal lobes. (See Figures 1 through 6.)
 Figure 1. MRI scan of the brain.
 Figure 2. MRI scan of the brain.
 Figure 3. MRI scan of the brain.
@@ -22,7 +22,7 @@ Figure 6. MRI scan of the brain.
 Clinical Course Prior to Diagnosis
 Ceftriaxone, metronidazole and voriconazole were administered empirically to cover bacterial and fungal brain infections. Despite this therapy, his mental status deteriorated significantly.
 Diagnostic Procedure(s) and Result(s)
-A brain biopsy was performed and showed extensive macrophage infiltrates, bizarre astrocytic cells and scattered glial nuclei with enlarged amphophilic cytoplasm, consistent with virally infected cells ( Figures 7 through 9 ). Immunohistochemistry was positive for JC virus. JC virus was also detected by polymerase chain reaction (PCR).
+A brain biopsy was performed and showed extensive macrophage infiltrates, bizarre astrocytic cells and scattered glial nuclei with enlarged amphophilic cytoplasm, consistent with virally infected cells (Figures 7 through 9). Immunohistochemistry was positive for JC virus. JC virus was also detected by polymerase chain reaction (PCR).
 Figure 7. Brain biopsy viewed under low power magnification.
 Figure 8. Brain biopsy.
 Figure 9. Brain biopsy.
@@ -37,6 +37,9 @@ Final Diagnosis
 Progressive Multifocal Leukoencephalopathy secondary to JC virus infection in a patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).
 References
 Cinque, P., Koralnik, I.J., Gerevini, S., Miro, J.M., and Price, R.W. (2009). Progressive multifocal leukoencephalopathy in HIV-1 infection. Lancet Infect Dis 9, 625-636.
-PMID:19778765 ( PubMed abstract )
+PMID:19778765(PubMed abstract) Koralnik, I.J. (2004). New insights into progressive multifocal leukoencephalopathy. Curr Opin Neurol 17, 365-370.
+PMID:15167073(PubMed abstract)
+Cinque, P., Koralnik, I.J., Gerevini, S., Miro, J.M., and Price, R.W. (2009). Progressive multifocal leukoencephalopathy in HIV-1 infection. Lancet Infect Dis 9, 625-636.
+PMID:19778765(PubMed abstract)
 Koralnik, I.J. (2004). New insights into progressive multifocal leukoencephalopathy. Curr Opin Neurol 17, 365-370.
-PMID:15167073 ( PubMed abstract )
+PMID:15167073(PubMed abstract)

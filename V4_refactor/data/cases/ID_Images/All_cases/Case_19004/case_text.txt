@@ -11,13 +11,15 @@ Physical Examination
 The patient appeared systemically well. The blood pressure was 150/70 mmHg, pulse 70 beats per minute. She was saturating at 96% on room air with no signs of respiratory distress and was afebrile with temperature of 37.0ºC (98.6ºF).
 There was a 3 cm x 7 cm area with necrotic ulcerations on the extensor surface of the left forearm (Figure 1). These lesions were tender on palpation and movement. There was also some generalized bruising over both arms.
 Figure 1. Figure 1: Photograph of left forearm
+Figure 1: Photograph of left forearm
 Studies
-Her labs were notable for a white blood cell count of 22.6 x10 9 /L (normal 4 x10 9 – 10 x10 9 ) with neutrophils of 14.15 x10 9 /L (normal 2 x109 - 7 x10 9 ). Her platelets were 46 x10 9 /L (normal 150 x10 9 – 410 x10 9 ) and hemoglobin was 83 g/L (normal 120 – 150). The C-Reactive protein was <2 mg/L (normal <5).
+Her labs were notable for a white blood cell count of 22.6 x10 9 /L (normal 4 x10 9 – 10 x10 9) with neutrophils of 14.15 x10 9 /L (normal 2 x109 - 7 x10 9). Her platelets were 46 x10 9 /L (normal 150 x10 9 – 410 x10 9) and hemoglobin was 83 g/L (normal 120 – 150). The C-Reactive protein was <2 mg/L (normal <5).
 The renal function tests showed mild renal impairment with a creatinine of 144 micromol/L (normal 45 – 90) and an estimated glomerular filtration rate of 28 (normal >90). Her coagulation studies were essentially normal except for a D-dimer of 0.8 mg/L (normal <0.5).
 Diagnostic Procedure(s) and Result(s)
 2 X 3 mm punch biopsies were taken and sent for culture and histopathology.
 Histopathology showed enlarged non-septate thickened branching hyphae consistent with Mucor species as seen in Figure 2. Periodic Acid-Shiff and Grocott’s methenamine silver stains for fungi were positive. Unfortunately, the organism was not cultured in the laboratory.
 Figure 2. Figure 2: H&E stain of skin biopsy showing non-septate thickened branching hyphae (400x magnification)
+Figure 2: H&E stain of skin biopsy showing non-septate thickened branching hyphae (400x magnification)
 Treatment and Followup
 The patient was planned for debridement and for post-operative commencement of liposomal amphotericin B. Unfortunately, the patient developed chest sepsis from a hospital acquired pneumonia prior to debridement and decision for palliation was made given her comorbidities.
 Discussion
@@ -31,15 +33,22 @@ Final Diagnosis
 Cutaneous mucormycosis
 References
 Petrikkos G, Skiada A, Lortholary O, Roilides E, Walsh T, Kontoyiannis D. Epidemiology and Clinical Manifestations of Mucormycosis. Clinical Infectious Diseases. 2012;54(suppl_1):S23-S34.
-PMID:22247442 ( PubMed abstract )
+PMID:22247442(PubMed abstract) Bitar D, Lortholary O, Le Strat Y, Nicolau J, Coignard B, Tattevin P et al. Population-Based Analysis of Invasive Fungal Infections, France, 2001–2010. Emerging Infectious Diseases. 2014;20(7):1163-1169.
+PMID:24960557(PubMed abstract) Castrejón-Pérez A, Welsh E, Miranda I, Ocampo-Candiani J, Welsh O. Cutaneous mucormycosis. Anais Brasileiros de Dermatologia. 2017;92(3):304-311.
+PMID:29186239(PubMed abstract) Marty FM, Ostrosky-Zeichner L, Cornely OA, et al. Isavuconazole treatment for mucormycosis: a single-arm open-label trial and case-control analysis. Lancet Infect Dis. 2016 Jul;16(7):828-837. doi: 10.1016/S1473-3099(16)00071-2.
+PMID:26969258(PubMed abstract) Anthrax | Centres for Disease Control and Prevention [Internet]. Cdc.gov. 2019 [cited 14 January 2019]. Available from: https://www.cdc.gov/anthrax/index.html Biscaye S, Demonchy D, Afanetti M, Dupont A, Haas H, Tran A. Ecthyma gangrenosum, a skin manifestation of Pseudomonas aeruginosa sepsis in a previously healthy child. Medicine. 2017;96(2):e5507.
+PMID:28079790(PubMed abstract) Corti M, Villafañe Fioti M. Nocardiosis: a review. International Journal of Infectious Diseases. 2003;7(4):243-250.
+PMID:14656414(PubMed abstract)
+Petrikkos G, Skiada A, Lortholary O, Roilides E, Walsh T, Kontoyiannis D. Epidemiology and Clinical Manifestations of Mucormycosis. Clinical Infectious Diseases. 2012;54(suppl_1):S23-S34.
+PMID:22247442(PubMed abstract)
 Bitar D, Lortholary O, Le Strat Y, Nicolau J, Coignard B, Tattevin P et al. Population-Based Analysis of Invasive Fungal Infections, France, 2001–2010. Emerging Infectious Diseases. 2014;20(7):1163-1169.
-PMID:24960557 ( PubMed abstract )
+PMID:24960557(PubMed abstract)
 Castrejón-Pérez A, Welsh E, Miranda I, Ocampo-Candiani J, Welsh O. Cutaneous mucormycosis. Anais Brasileiros de Dermatologia. 2017;92(3):304-311.
-PMID:29186239 ( PubMed abstract )
+PMID:29186239(PubMed abstract)
 Marty FM, Ostrosky-Zeichner L, Cornely OA, et al. Isavuconazole treatment for mucormycosis: a single-arm open-label trial and case-control analysis. Lancet Infect Dis. 2016 Jul;16(7):828-837. doi: 10.1016/S1473-3099(16)00071-2.
-PMID:26969258 ( PubMed abstract )
+PMID:26969258(PubMed abstract)
 Anthrax | Centres for Disease Control and Prevention [Internet]. Cdc.gov. 2019 [cited 14 January 2019]. Available from: https://www.cdc.gov/anthrax/index.html
 Biscaye S, Demonchy D, Afanetti M, Dupont A, Haas H, Tran A. Ecthyma gangrenosum, a skin manifestation of Pseudomonas aeruginosa sepsis in a previously healthy child. Medicine. 2017;96(2):e5507.
-PMID:28079790 ( PubMed abstract )
+PMID:28079790(PubMed abstract)
 Corti M, Villafañe Fioti M. Nocardiosis: a review. International Journal of Infectious Diseases. 2003;7(4):243-250.
-PMID:14656414 ( PubMed abstract )
+PMID:14656414(PubMed abstract)

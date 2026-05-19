@@ -9,7 +9,7 @@ As noted in the history of the present illness.
 Epidemiological History
 The patient was born in Mexico and immigrated to the United States more than two decades earlier. He lived in Arizona where he worked as a landscaper. He reported possibly pricking his right index finger with a thorn in the past. There was no recent travel, animal exposures, use of illicit drugs or new sexual contacts.
 Physical Examination
-The patient appeared chronically ill. The blood pressure was 107/68 mmHg, pulse 95 beats per minute, temperature 99°F and respirations 20 breaths per minute. The right index finger was swollen and inflamed in the area of the previous biopsy with patchy inflammatory lesions extended up his arm in a lymphatic distribution ( Figures 1 and 2 ). The lesions were not tender and there was no lymphadenopathy.
+The patient appeared chronically ill. The blood pressure was 107/68 mmHg, pulse 95 beats per minute, temperature 99°F and respirations 20 breaths per minute. The right index finger was swollen and inflamed in the area of the previous biopsy with patchy inflammatory lesions extended up his arm in a lymphatic distribution (Figures 1 and 2). The lesions were not tender and there was no lymphadenopathy.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
@@ -17,20 +17,25 @@ The white blood cell count was 4,300 per microliter (reference range (ref) 4,500
 Clinical Course Prior to Diagnosis
 The patient was readmitted to the hospital. Cultures from the biopsy performed during the first admission had remained negative. Amikacin, ciprofloxacin and rifampin were administered empirically for possible mycobacterial infection. When the lesions worsened, surgical debridement was performed.
 Diagnostic Procedure(s) and Result(s)
-Cultures obtained by biopsy of his right index finger during his first admission eventually grew Mycobacterium haemophilum . Cultures for group A streptococcus, Sporothrix and Nocardia were negative. A diagnosis of immune reconstitution inflammatory syndrome (IRIS) associated with Mycobacterium haemophilum infection was made based on the clinical presentation and testing results.
+Cultures obtained by biopsy of his right index finger during his first admission eventually grew Mycobacterium haemophilum. Cultures for group A streptococcus, Sporothrix and Nocardia were negative. A diagnosis of immune reconstitution inflammatory syndrome (IRIS) associated with Mycobacterium haemophilum infection was made based on the clinical presentation and testing results.
 Treatment and Followup
 Shortly after admission and the diagnosis of IRIS was made, prednisone, amikacin, rifampin and ciprofloxacin were administered. Sensitivity testing of the Mycobacterium haemophilum grown in culture suggested resistance to amikacin and ethambutol and they were discontinued; azithromycin was restarted. Antiretroviral therapy was held and his lesions improved. After 2 weeks, antiretroviral therapy was resumed. Four months later, his lesions had healed, although there was scarring.
 Discussion
 This patient’s right arm inflammatory lesions were due to Immune Reconstitution Inflammatory Syndrome (IRIS), which is defined as the unmasking of a previously unrecognized infection (or malignancy) or paradoxical worsening of a previously existing condition following the initiation of antiretroviral therapy (ART) in an HIV-infected person [Shelburne, et al., 2002]. The mechanism for IRIS is presumed to involve reconstitution of pathogen-specific immunity occurring during the rapid increase in CD4 cells and rapid drop in viral load in response to antiretroviral therapy [Crum-Cianflone 2006]. Diagnosis of IRIS requires clinical suspicion since there is no diagnostic test. Management must be individualized; steroids are often used to manage IRIS, as in this patient [Crum-Cianflone 2006].
-Mycobacteria are a common group of infectious agents associated with IRIS. This patient developed IRIS caused by a non-tuberculous mycobacterium, Mycobacterium haemophilum , a pathogen increasingly recognized in immunocompromised patients [Saubolle et al., 1996; Shah et al., 2001]. Mycobacterium haemophilum is an environmental mycobacterium that can cause skin and soft tissue infections. Growth in culture requires specialized conditions, e.g. supplementation with hemin or ferric ammonium citrate. In addition, optimal growth is at 30-32°C and the organism grows slowly or not at all at higher temperatures. In this patient, these growth requirements contributed to the slow identification of the acid fast organism.
+Mycobacteria are a common group of infectious agents associated with IRIS. This patient developed IRIS caused by a non-tuberculous mycobacterium, Mycobacterium haemophilum, a pathogen increasingly recognized in immunocompromised patients [Saubolle et al., 1996; Shah et al., 2001]. Mycobacterium haemophilum is an environmental mycobacterium that can cause skin and soft tissue infections. Growth in culture requires specialized conditions, e.g. supplementation with hemin or ferric ammonium citrate. In addition, optimal growth is at 30-32°C and the organism grows slowly or not at all at higher temperatures. In this patient, these growth requirements contributed to the slow identification of the acid fast organism.
 Final Diagnosis
 Immune Reconstitution Inflammatory Syndrome (IRIS) associated with Mycobacterium haemophilum infection in a patient with HIV/AIDS.
 References
 Crum-Cianflone NF. (2006) Immune Reconstitution Inflammatory Syndromes: What’s New? AIDS Reader 16:199-206, 213-217, 2006.
-PMID:16617930 ( PubMed abstract )
+PMID:16617930(PubMed abstract) Saubolle MA, Kiehn TE, White MH, Rudinsky MF and Armstrong D. (1996) Mycobacterium haemophilum: Microbiology and Expanding Clinical and Geographic Spectra of Disease in Humans. Clin Micro Rev 9:435-447, 1996.
+PMID:8894345(PubMed abstract) Shah MK, Sebti A, Kiehn TE, Massarella SA and Sepkowitz KA. (2001) Mycobacterium haemophilum in Immunocompromised Patients. Clin Inf Dis 33:330-337, 2001.
+PMID:11438898(PubMed abstract) Shelburne, SA, Hamill RJ, Rodriguez-Barradas MC, Greenberg SB, Atmar RL, Musher DM, Gathe JC, Visnegarwala F and Trautner BW. (2002) Immune Reconstitution Inflammatory Syndrome. Emergence of a Unique Syndrome During Highly Active Antiretroviral Therapy. Medicine 81:213-227, 2002.
+PMID:11997718(PubMed abstract)
+Crum-Cianflone NF. (2006) Immune Reconstitution Inflammatory Syndromes: What’s New? AIDS Reader 16:199-206, 213-217, 2006.
+PMID:16617930(PubMed abstract)
 Saubolle MA, Kiehn TE, White MH, Rudinsky MF and Armstrong D. (1996) Mycobacterium haemophilum: Microbiology and Expanding Clinical and Geographic Spectra of Disease in Humans. Clin Micro Rev 9:435-447, 1996.
-PMID:8894345 ( PubMed abstract )
+PMID:8894345(PubMed abstract)
 Shah MK, Sebti A, Kiehn TE, Massarella SA and Sepkowitz KA. (2001) Mycobacterium haemophilum in Immunocompromised Patients. Clin Inf Dis 33:330-337, 2001.
-PMID:11438898 ( PubMed abstract )
+PMID:11438898(PubMed abstract)
 Shelburne, SA, Hamill RJ, Rodriguez-Barradas MC, Greenberg SB, Atmar RL, Musher DM, Gathe JC, Visnegarwala F and Trautner BW. (2002) Immune Reconstitution Inflammatory Syndrome. Emergence of a Unique Syndrome During Highly Active Antiretroviral Therapy. Medicine 81:213-227, 2002.
-PMID:11997718 ( PubMed abstract )
+PMID:11997718(PubMed abstract)

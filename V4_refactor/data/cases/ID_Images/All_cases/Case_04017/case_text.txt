@@ -8,24 +8,24 @@ There was a history of non-Hodgkin's lymphoma and varicella zoster.
 Medications
 He was taking cyclophosphamide.
 Physical Examination
-The patient appeared toxic. The temperature was 102°F (38.9°C), pulse 128 beats per minute, respirations 16 per minute, and the oxygen saturation was 96% on ambient air. The sclera were anicteric, and there were no conjunctival hemorrhages or petechiae. There was no cervical lymphadenopathy. The lungs were clear; there were no cardiac murmurs, and the abdomen was benign. Examination of the skin revealed a 0.5-centimeter punctate lesion with central necrosis and surrounding erythema on the left forearm and a necrotic, painful lesion (2-centimeter by 2-centimeter) with surrounding erythema and tenderness on the left neck ( Figures 1 and 2 ). No exudates were seen. The hands and nails were free of rash or lesions.
+The patient appeared toxic. The temperature was 102°F (38.9°C), pulse 128 beats per minute, respirations 16 per minute, and the oxygen saturation was 96% on ambient air. The sclera were anicteric, and there were no conjunctival hemorrhages or petechiae. There was no cervical lymphadenopathy. The lungs were clear; there were no cardiac murmurs, and the abdomen was benign. Examination of the skin revealed a 0.5-centimeter punctate lesion with central necrosis and surrounding erythema on the left forearm and a necrotic, painful lesion (2-centimeter by 2-centimeter) with surrounding erythema and tenderness on the left neck (Figures 1 and 2). No exudates were seen. The hands and nails were free of rash or lesions.
 Figure 1. Physical finding on arm.
 Figure 2. Physical finding of neck.
 Studies
 The white blood cell count was 10 cells/mm³, hematocrit 21%, platelets 27,000/mm³, creatinine 1.2 mg/dL. Tests of liver function and urinalysis were normal, and the urine culture was negative. A chest radiograph did not show an infiltrate, and an echocardiogram did not reveal a vegetation.
 Clinical Course Prior to Diagnosis
-Treatment with vancomycin, ceftazidime, and amphotericin was begun empirically for febrile neutropenia and the possibility of disseminated fungemia. Cultures and a skin biopsy of the neck lesion were obtained ( Figures 3 and 4 ).
+Treatment with vancomycin, ceftazidime, and amphotericin was begun empirically for febrile neutropenia and the possibility of disseminated fungemia. Cultures and a skin biopsy of the neck lesion were obtained (Figures 3 and 4).
 Figure 3. H and E stain of neck biopsy.
 Figure 4. Gram stain of neck biopsy.
 Diagnostic Procedure(s) and Result(s)
-Blood cultures (four of four) were positive for methicillin-resistant Staphylococcus aureus . A skin biopsy of the neck lesion was obtained and showed dermal and subcutaneous bacterial infection with abundant gram-positive cocci. There was no accompanying inflammatory or necrotic response in vessels. Silver stains for fungal organisms were negative.
+Blood cultures (four of four) were positive for methicillin-resistant Staphylococcus aureus. A skin biopsy of the neck lesion was obtained and showed dermal and subcutaneous bacterial infection with abundant gram-positive cocci. There was no accompanying inflammatory or necrotic response in vessels. Silver stains for fungal organisms were negative.
 Treatment and Followup
 The intravenous catheter was removed and vancomycin was administered for six weeks.
 Discussion
 In a neutropenic patient, fever and necrotic skin lesions may reflect systemic blood-borne infection. The differential diagnosis in such cases is broad and includes disseminated fungal infection (fusariosis or candidiasis, for example), ecthyma gangrenosum and (occasionally) anaerobic infection or anaerobic-and-gram-negative mixed infections. Given the breadth of the differential diagnosis, early skin biopsy is important for successful management.
-Although ecthyma gangrenosum is classically associated with Pseudomonas aeruginosa and other gram-negative rods, similar lesions may be seen in sepsis due to other organisms, including Staphylococcus aureus .
+Although ecthyma gangrenosum is classically associated with Pseudomonas aeruginosa and other gram-negative rods, similar lesions may be seen in sepsis due to other organisms, including Staphylococcus aureus.
 Final Diagnosis
 Ecthyma gangrenosum secondary to methicillin-resistant Staphylococcus aureus bacteremia in a neutropenic patient.
 References
 Pechter, P.M., Marchione, R., Milikowski, C., and Berman, B. (2011). Ecthyma Gangrenosum Secondary to Staphylococcus Aureus in an Infant with Transient Neutropenia. Pediatr Dermatol.
-PMID:21575047 ( PubMed abstract )
+PMID:21575047(PubMed abstract)

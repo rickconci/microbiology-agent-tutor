@@ -2,15 +2,15 @@ History of Present Illness
 An 83 year old man was seen in the infectious disease clinic due to a persistent periaortic collection and right psoas abscess after aortic aneurysm rupture requiring endovascular aortic repair (EVAR) over 2 years prior.
 The patient initially presented 2 years prior with acute abdominal pain and was found to have a perforated aortic ulceration requiring placement of graft via EVAR. On surveillance imaging six months later (1.5 years prior to presentation), there was soft tissue enhancement surrounding the aorta, extending to the right psoas muscle (Fig 1). The patient was asymptomatic then, and the decision was made to monitor clinically. A year later (6 months prior to presentation), he sought medical care due to right-sided abdominal pain, prompting a CT abdomen that demonstrated new focal collections in the right psoas (Fig 2) which were aspirated, yielding 15 cc of purulent material with negative gram stain and bacterial culture. After a two week course of empiric amoxicillin/clavulanic acid, repeat imaging showed near resolution of the collections (Fig 3); however, surveillance imaging 3 months later (3 months prior to presentation) revealed significant increase in size of the right psoas collection (19 x 9 x 4 cm, Fig 4) with PET/CT showing intense hypermetabolic soft tissue along the distal abdominal aorta and right psoas muscle concerning for an abscess with extent to the aortic stent (Fig 5). Repeat aspiration was attempted but unsuccessful. The patient was deemed to be a poor surgical candidate and was referred to infectious diseases clinic for further diagnostics and antimicrobial guidance.
 On evaluation, the patient reported generalized fatigue, malaise, significant weight loss (40 lbs over one year), and intermittent night sweats in addition to chronic, stable lower back pain of 10 years duration. He denied fevers, chills, abdominal or urinary symptoms.
-Figure 1. Image
+Figure 1. Figure 1: Surveillance imaging 6 months post EVAR showing soft tissue enhancement surrounding the aorta, extending to the right psoas muscle.
 Figure 1: Surveillance imaging 6 months post EVAR showing soft tissue enhancement surrounding the aorta, extending to the right psoas muscle.
-Figure 2. Image
+Figure 2. Figure 2: CT imaging 15 months post EVAR showing new collections in right psoas
 Figure 2: CT imaging 15 months post EVAR showing new collections in right psoas
-Figure 3. Image
+Figure 3. Figure 3: CT imaging 1 month post aspiration showing improvement in collection with small residual collection in right psoas muscle.
 Figure 3: CT imaging 1 month post aspiration showing improvement in collection with small residual collection in right psoas muscle.
-Figure 4. Image
+Figure 4. Figure 4: Recurrence of collection in right psoas muscle on follow up imaging 4 months post aspiration.
 Figure 4: Recurrence of collection in right psoas muscle on follow up imaging 4 months post aspiration.
-Figure 5. Image
+Figure 5. Figure 5: PET/CT showing intense hypermetabolic tissue along soft tissue along the distal abdominal aorta and right psoas muscle concerning for an abscess with extent to aortic stent.
 Figure 5: PET/CT showing intense hypermetabolic tissue along soft tissue along the distal abdominal aorta and right psoas muscle concerning for an abscess with extent to aortic stent.
 Past Medical History
 Coronary artery disease, ischemic cardiomyopathy, atrial fibrillation, cerebrovascular accident, splenectomy and partial bowel resection after a remote motor vehicle accident, recurrent bladder cancer with transurethral resection and Bacillus Calmette-Guerin (BCG) intravesical infusions (total 15 over two years and within a year of the current presentation), saccular aortic aneurysm 2017 c/b rupture s/p EVAR (2020).
@@ -19,8 +19,9 @@ Born and raised in southeastern USA. He has lived in the southwest and Californi
 Physical Examination
 Blood pressure 111/53 mmHg, pulse 86, temperature 37°C, respirations 16 breaths per minute. The examination was otherwise unremarkable.
 Studies
-Notable for mild leukocytosis (12,000) with monocytosis (1380) as well as mild persistent elevation of inflammatory markers (ESR 84, CRP 2.8) of 2 years duration. The remainder of the complete blood count and the complete metabolic panel were unremarkable. Abdominal imaging was repeated (Fig 6), revealing significantly worse periaortic collection with large right psoas collection.
+Notable for mild leukocytosis (12,000) with monocytosis (1380) as well as mild persistent elevation of inflammatory markers (ESR 84, CRP 2.8) of 2 years duration. The remainder of the complete blood count and the complete metabolic panel were unremarkable. Abdominal imaging was repeated (Fig 6), revealing significantly worse periaortic collection with large right psoas collection. Figure 6: Significantly worse periaortic collection with large right psoas collection
 Figure 6. Figure 6: Significantly worse periaortic collection with large right psoas collection
+Figure 6: Significantly worse periaortic collection with large right psoas collection
 Clinical Course Prior to Diagnosis
 Blood cultures (bacterial, mycobacterial, and fungal) were collected, in addition to serologic testing for Brucella, Bartonella, Q fever, Salmonella, and rickettsial diseases, HIV Ag/Ab test, RPR and interferon gamma release assay (IGRA).
 Diagnostic Procedure(s) and Result(s)
@@ -34,9 +35,12 @@ Despite the rare incidence of BCG-related complications, we believe it is import
 Final Diagnosis
 BCG aortitis with psoas abscess
 References
+Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2019.Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2019. O'Donell MA, Orr PH. Infectious complications of intravesical BCG immunotherapy. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed on Feb 20, 2023). Woods JM 4th, Schellack J, Stewart MT, Murray DR, Schwartzman SW. Mycotic abdominal aortic aneurysm induced by immunotherapy with bacille Calmette-Guérin vaccine for malignancy. J Vasc Surg. 1988 Jun;7(6):808-10. doi: 10.1067/mva.1988.avs0070808. PMID: 3286902.
+PMID:3286902(PubMed abstract) Palmier M, Monnot A, Tenière T, Cohen Q, Plissonnier D. Mycotic arterial aneurysm secondary to BCG intravesical instillation: A review. J Med Vasc. 2022 Apr;47(2):94-105. doi: 10.1016/j.jdmv.2022.04.002. Epub 2022 May 20. PMID: 35691669.
+PMID:35691669(PubMed abstract)
 Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2019.Fitzgerald DW, Sterling TR, Haas DW. Mycobacterium tuberculosis. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2019.
 O'Donell MA, Orr PH. Infectious complications of intravesical BCG immunotherapy. In: UpToDate, Post TW (Ed), UpToDate, Waltham, MA. (Accessed on Feb 20, 2023).
 Woods JM 4th, Schellack J, Stewart MT, Murray DR, Schwartzman SW. Mycotic abdominal aortic aneurysm induced by immunotherapy with bacille Calmette-Guérin vaccine for malignancy. J Vasc Surg. 1988 Jun;7(6):808-10. doi: 10.1067/mva.1988.avs0070808. PMID: 3286902.
-PMID:3286902 ( PubMed abstract )
+PMID:3286902(PubMed abstract)
 Palmier M, Monnot A, Tenière T, Cohen Q, Plissonnier D. Mycotic arterial aneurysm secondary to BCG intravesical instillation: A review. J Med Vasc. 2022 Apr;47(2):94-105. doi: 10.1016/j.jdmv.2022.04.002. Epub 2022 May 20. PMID: 35691669.
-PMID:35691669 ( PubMed abstract )
+PMID:35691669(PubMed abstract)

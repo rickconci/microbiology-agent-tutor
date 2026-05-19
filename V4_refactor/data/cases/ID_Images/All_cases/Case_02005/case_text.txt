@@ -8,12 +8,12 @@ The patient was receiving his third cycle of vinorelbine tartrate.
 Epidemiological History
 He was living in New England, and had previously lived in Japan and Vietnam during the 1960's. There was a smoking history of 40 pack years, and no recent animal or travel exposure.
 Physical Examination
-There was a serpiginous rash on his right thigh and multiple urticarial lesions on his lower back, abdomen ( Figure 1 ), and thigh.
+There was a serpiginous rash on his right thigh and multiple urticarial lesions on his lower back, abdomen (Figure 1), and thigh.
 Figure 1. Physical finding.
 Studies
 At the time of his clinic visit, the white blood cell count was 5400 cells/mm³ with a normal differential. Four weeks earlier, the white cell count had been 9400 cells/mm³, with 14% eosinophils.
 Diagnostic Procedure(s) and Result(s)
-Stool examination revealed Strongyloides stercoralis ( Figure 2 ).
+Stool examination revealed Strongyloides stercoralis (Figure 2).
 Figure 2. Examination of stool.
 Treatment and Followup
 The patient had disseminated strongyloidiasis with gastrointestinal manifestations precipitated by chemotherapy, but with no clinical manifestations of hyperinfection syndrome. He was treated with ivermectin.
@@ -21,4 +21,5 @@ Discussion
 The presumed exposure was thought to have occurred during the patient's travel to Southeast Asia. Of the organisms in the differential, only Strongyloides can maintain a subclinical auto-infection over thirty years. Thus onchocerciasis and gnathostomiasis are unlikely. Swimmer's itch is due to avian cercariasis, typically causing a pruritic rash over the lower extremities and associated with wading in fresh water.
 Cutaneous manifestations of chronic strongyloidiasis include urticarial rash and dermatitis due to migration of filariform larvae (larva currens or creeping eruption), as seen in this patient. Immune complex mediated polyarthritis can also be a feature of chronic strongyloidiasis.
 Final Diagnosis
-Disseminated Strongyloides stercoralis .
+Disseminated Strongyloides stercoralis.
+References

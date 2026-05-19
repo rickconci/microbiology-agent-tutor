@@ -16,7 +16,7 @@ Creatinine 3.7 mg/dL, liver enzymes were normal
 CD4 121 cells/uL, 16% CD4
 HIV RNA: 9,500,000 copies/mL
 Clinical Course Prior to Diagnosis
-CT chest abdomen pelvis showed moderate pericardial effusion (Figure 1), extensive lymphadenopathy of the mediastinum and retroperitoneum, left upper lobe cavitary lung lesion (Figure 2). CT neck showed exuberant adenopathy (Figure 3). He was started on Doxycycline and Ceftriaxone as well as Ganciclovir due to high suspicion for disseminated Bartonella or HHV-8-associated Castleman’s disease. He underwent left axillary lymph node biopsy, pericardial window with biopsy of the pericardium, skin biopsy of the right hand lesion as well as biopsy of the left lung lesion. He also underwent lumbar puncture which was negative. Transthoracic echocardiogram showed large pericardial effusion without tamponade physiology.
+CT chest abdomen pelvis showed moderate pericardial effusion (Figure 1), extensive lymphadenopathy of the mediastinum and retroperitoneum, left upper lobe cavitary lung lesion (Figure 2). CT neck showed exuberant adenopathy (Figure 3). He was started on Doxycycline and Ceftriaxone as well as Ganciclovir due to high suspicion for disseminated Bartonella or HHV-8-associated Castleman’s disease. He underwent left axillary lymph node biopsy, pericardial window with biopsy of the pericardium, skin biopsy of the right hand lesion as well as biopsy of the left lung lesion. He also underwent lumbar puncture which was negative. Transthoracic echocardiogram showed large pericardial effusion without tamponade physiology. Figure 1. Non-contrast CT of the chest showing large pericardial effusion. Figure 2. Non-contrast CT of the chest showing left upper lobe cavitary lung lesion, 4.3 cm in diameter. Figure 3. Non-contrast CT of the neck that demonstrates bilateral enlarged lymph nodes. The mid-cervical nodal mass deep to the sternocleidomastoid muscle on the left side measures 4.3 x 2.2 cm in axial plane.
 Figure 1. Non-contrast CT of the chest showing large pericardial effusion.
 Figure 2. Non-contrast CT of the chest showing left upper lobe cavitary lung lesion, 4.3 cm in diameter.
 Figure 3. Non-contrast CT of the neck that demonstrates bilateral enlarged lymph nodes. The mid-cervical nodal mass deep to the sternocleidomastoid muscle on the left side measures 4.3 x 2.2 cm in axial plane.
@@ -28,7 +28,7 @@ Cryptococcal Antigen Titer: 1:131,072
 Left axillary biopsy showed adipose tissue with abundant fungal organisms consistent with Cryptococcus. Grocott’s methenamine silver stain (GMS) and mucin stains were confirmatory.
 Right hand lesion biopsy showed ulcer and granulation tissue with dermal yeast forms identified. GMS stain highlighted numerous dermal yeast forms with morphology with high suspicion for Cryptococcus.
 Lung lesion biopsy showed increase in alveolar foamy macrophages with numerous yeast forms consistent with Cryptococcus (confirmed by GMS stain).
-Pericardial window and biopsy of the pericardium was performed for the large pericardial effusion. Fungal culture of the pericardial fluid was positive for Cryptococcus neoformans . Pathology showed fungal forms present and GMS stain highlighted spherical fungal forms involving pericardial tissue (Figure 4).
+Pericardial window and biopsy of the pericardium was performed for the large pericardial effusion. Fungal culture of the pericardial fluid was positive for Cryptococcus neoformans. Pathology showed fungal forms present and GMS stain highlighted spherical fungal forms involving pericardial tissue (Figure 4).
 Figure 4. GMS special stain, 600x, demonstrates scattered yeast forms in the pericardium.
 Treatment and Followup
 He was started on Amphotericin and Flucytosine for disseminated Cryptococcal infection as well as Atovaquone for pneumocystis prophylaxis. After 14 days, he was transitioned to oral Fluconazole for consolidation therapy as he wanted to leave the hospital against medical advice. There was mild improvement of the size of the lymph nodes on subsequent imaging. Chest pain and shortness of breath had resolved completely. He followed up in the HIV clinic about 3 weeks after discharge and was doing well on Fluconazole. He was started on antiretroviral therapy at that time but was unfortunately lost to follow up.
@@ -38,8 +38,12 @@ Final Diagnosis
 Disseminated Cryptococcal Infection in a patient with AIDS involving lymph nodes, pericardium, cavitary lung lesion, skin and fungemia
 References
 Guidelines for The Diagnosis, Prevention and Management of Cryptococcal Disease in HIV-Infected Adults, Adolescents and Children: Supplement to the 2016 Consolidated Guidelines on the Use of Antiretroviral Drugs for Treating and Preventing HIV Infection. Geneva: World Health Organization; 2018 Mar.
-PMID:30285342 ( PubMed abstract )
+PMID:30285342(PubMed abstract) Bramantono B, Danial A, Hadi U. A case of an AIDS patient with Cryptococcus neoformans infection. Pan Afr Med J. 2020 Jun 15;36:88. doi: 10.11604/pamj.2020.36.88.20406.
+PMID:32774647(PubMed abstract) Levy PY, Habib G, Reynaud-Gaubert M, Raoult D, Rolain JM. Pericardial effusion due to Cryptococcus neoformans in a patient with cystic fibrosis following lung transplantation. Int J Infect Dis. 2008 Jul;12(4):452. doi: 10.1016/j.ijid.2007.12.001. Epub 2008 Jan 22.
+PMID:18207443(PubMed abstract)
+Guidelines for The Diagnosis, Prevention and Management of Cryptococcal Disease in HIV-Infected Adults, Adolescents and Children: Supplement to the 2016 Consolidated Guidelines on the Use of Antiretroviral Drugs for Treating and Preventing HIV Infection. Geneva: World Health Organization; 2018 Mar.
+PMID:30285342(PubMed abstract)
 Bramantono B, Danial A, Hadi U. A case of an AIDS patient with Cryptococcus neoformans infection. Pan Afr Med J. 2020 Jun 15;36:88. doi: 10.11604/pamj.2020.36.88.20406.
-PMID:32774647 ( PubMed abstract )
+PMID:32774647(PubMed abstract)
 Levy PY, Habib G, Reynaud-Gaubert M, Raoult D, Rolain JM. Pericardial effusion due to Cryptococcus neoformans in a patient with cystic fibrosis following lung transplantation. Int J Infect Dis. 2008 Jul;12(4):452. doi: 10.1016/j.ijid.2007.12.001. Epub 2008 Jan 22.
-PMID:18207443 ( PubMed abstract )
+PMID:18207443(PubMed abstract)

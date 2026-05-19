@@ -10,7 +10,7 @@ She appeared healthy and in no distress. The temperature was 98.5°F (36.9°C), 
 Studies
 The white blood cell count was 11,700 cells/mm³ with 80% neutrophils, 14% bands, 5% monocytes and no eosinophils.
 Clinical Course Prior to Diagnosis
-Due to the severity of the fetal hernia, she underwent caesarian section within two weeks of her presentation. She delivered an infant who was subsequently placed on extracorporeal membrane oxygenation (ECMO), and transferred to a pediatric hospital for further care. There was an additional intraoperative finding of a thick-walled cyst attached to the right lobe of the liver ( Figure 1 ).
+Due to the severity of the fetal hernia, she underwent caesarian section within two weeks of her presentation. She delivered an infant who was subsequently placed on extracorporeal membrane oxygenation (ECMO), and transferred to a pediatric hospital for further care. There was an additional intraoperative finding of a thick-walled cyst attached to the right lobe of the liver (Figure 1).
 Figure 1. Intra-operative findings.
 Diagnostic Procedure(s) and Result(s)
 The pathology revealed a fibrous laminated cyst with lens-shaped bodies and scolices diagnostic for echinococcal infection. Figure 2 shows the outer laminar layer of the cyst, while Figure 3 confirms presence of scolices consistent with Echinococcus granulosus.
@@ -24,3 +24,4 @@ Humans with hydatid cyst disease often have a solitary cyst, most commonly occur
 Treatment depends on the size and location of the cyst(s). Therapeutic options include surgical excision, PAIR procedure (percutaneous aspiration, injection, re-aspiration), and chemotherapy (albendazole with or without praziquantel). The other considerations in the differential diagnosis are unlikely as amebiasis typically presents with a hepatic abscess that has anchovy paste-like contents. Schistosomiasis causes a pre-portal fibrosis and Echinococcus multicularis presents with an exophytic infiltrating mass.
 Final Diagnosis
 Echinococcal cyst (hydatid cyst disease) due to Echinococcus granulosus.
+References

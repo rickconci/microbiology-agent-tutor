@@ -15,12 +15,10 @@ The patient worked as a dairy farmer. He had not traveled outside the country an
 Physical Examination
 He appeared well. The blood pressure was 143/86 mm Hg, pulse 60 beats per minute, temperature 97.4°F (36.3°C), and respirations 16 breaths per minute. The left wrist was markedly erythematous and swollen. There was no lymphadenopathy and the remainder of the examination was normal.
 Studies
-The erythrocyte sedimentation rate was 32mm/hr (reference range 0-15) and C-reactive protein was 2 mg/dL (reference range 0-1). Testing for rheumatoid factor and antinuclear antibody (ANA) was negative. Results of the quantiferon TB gold test and serological testing for Q fever, Bartonella, and Brucella were also negative. Results of other routine laboratory tests were normal.
-Magnetic resonance imaging (MRI) of the wrist was performed, which showed evidence of marked tenosynovitis and innumerable low-densities resembling 'rice bodies', with no joint abnormalities ( Figure 1 and 2 ).
+Magnetic resonance imaging (MRI) of the wrist was performed, which showed evidence of marked tenosynovitis and innumerable low-densities resembling 'rice bodies', with no joint abnormalities (Figure 1 and 2).
 Figure 1. MRI of left wrist (axial T2-weighted view) with low-signal masses.
 Figure 2. MRI of the left forearm (sagittal T2-weighted view).
 Clinical Course Prior to Diagnosis
-Irrigation and debridement of the left forearm and left hand were repeated and tenosynovectomy was performed ( ). Tissue removed during the debridement is shown in .
 Figure 3. Intraoperative image of the left wrist.
 Figure 4. Tissue removed during surgical debridement.
 Diagnostic Procedure(s) and Result(s)
@@ -39,12 +37,18 @@ Final Diagnosis
 'Rice body' formation caused by Mycobacterium avium complex (MAC) tenosynovitis.
 References
 Chau CL, Griffith JF, Chan PT, Lui TH, Yu KS, Ngai WK. Rice-body formation in atypical mycobacterial tenosynovitis and bursitis: findings on sonography and MR imaging. AJR Am J Roentgenol. 2003;180(5):1455-9. Epub 2003/04/22. doi: 10.2214/ajr.180.5.1801455.
-PMID:12704068 ( PubMed abstract )
+PMID:12704068(PubMed abstract) Forse CL, Mucha BL, Santos ML, Ongcapin EH. Rice body formation without rheumatic disease or tuberculosis infection: a case report and literature review. Clin Rheumatol. 2012;31(12):1753-6. Epub 2012/09/04. doi: 10.1007/s10067-012-2063-8.
+PMID:22941257(PubMed abstract) Iyengar K, Manickavasagar T, Nadkarni J, Mansour P, Loh W. Bilateral recurrent wrist flexor tenosynovitis and rice body formation in a patient with sero-negative rheumatoid arthritis: A case report and review of literature. Int J Surg Case Rep. 2011;2(7):208-11.
+PMID:22096729(PubMed abstract) Jeong YM, Cho HY, Lee SW, Hwang YM, Kim YK. (2013) Candida septic arthritis with rice body formation: a case report and review of literature. Korean J Radiol. 2013 May-Jun;14(3):465-9.
+PMID:23690715(PubMed abstract) Zenone T, Boibieux A, Tigaud S, Fredenucci JF, Vincent V, Chidiac C, et al. Non-tuberculous mycobacterial tenosynovitis: a review. Scand J Infect Dis. 1999;31(3):221-8. Epub 1999/09/11.
+PMID:10482048(PubMed abstract)
+Chau CL, Griffith JF, Chan PT, Lui TH, Yu KS, Ngai WK. Rice-body formation in atypical mycobacterial tenosynovitis and bursitis: findings on sonography and MR imaging. AJR Am J Roentgenol. 2003;180(5):1455-9. Epub 2003/04/22. doi: 10.2214/ajr.180.5.1801455.
+PMID:12704068(PubMed abstract)
 Forse CL, Mucha BL, Santos ML, Ongcapin EH. Rice body formation without rheumatic disease or tuberculosis infection: a case report and literature review. Clin Rheumatol. 2012;31(12):1753-6. Epub 2012/09/04. doi: 10.1007/s10067-012-2063-8.
-PMID:22941257 ( PubMed abstract )
+PMID:22941257(PubMed abstract)
 Iyengar K, Manickavasagar T, Nadkarni J, Mansour P, Loh W. Bilateral recurrent wrist flexor tenosynovitis and rice body formation in a patient with sero-negative rheumatoid arthritis: A case report and review of literature. Int J Surg Case Rep. 2011;2(7):208-11.
-PMID:22096729 ( PubMed abstract )
+PMID:22096729(PubMed abstract)
 Jeong YM, Cho HY, Lee SW, Hwang YM, Kim YK. (2013) Candida septic arthritis with rice body formation: a case report and review of literature. Korean J Radiol. 2013 May-Jun;14(3):465-9.
-PMID:23690715 ( PubMed abstract )
+PMID:23690715(PubMed abstract)
 Zenone T, Boibieux A, Tigaud S, Fredenucci JF, Vincent V, Chidiac C, et al. Non-tuberculous mycobacterial tenosynovitis: a review. Scand J Infect Dis. 1999;31(3):221-8. Epub 1999/09/11.
-PMID:10482048 ( PubMed abstract )
+PMID:10482048(PubMed abstract)

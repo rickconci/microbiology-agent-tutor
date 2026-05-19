@@ -10,7 +10,7 @@ Medications included amoxicillin-clavulanic acid, ciprofloxacin, and oral contra
 Epidemiological History
 The patient had children and worked with animals. She had traveled to Australia two years before, with no additional travel since.
 Physical Examination
-She was well-developed and in no apparent distress. The temperature was 36.8°C (98.2°F), pulse 100 beats per minute, blood pressure 100/50 mm Hg, and respirations 12 breaths per minute. The right wrist had an moderately tender, ulcerated lesion (2 by 2 cm) with no purulence; scant clear discharge was noted. There was patchy red streaking extending up the arm and an antecubital node was palpated. The right axilla was mildly tender, with a small palpable nodule ( Figures 1 and 2 ).
+She was well-developed and in no apparent distress. The temperature was 36.8°C (98.2°F), pulse 100 beats per minute, blood pressure 100/50 mm Hg, and respirations 12 breaths per minute. The right wrist had an moderately tender, ulcerated lesion (2 by 2 cm) with no purulence; scant clear discharge was noted. There was patchy red streaking extending up the arm and an antecubital node was palpated. The right axilla was mildly tender, with a small palpable nodule (Figures 1 and 2).
 Figure 1. Physical findings.
 Figure 2. Physical finding.
 Studies
@@ -18,13 +18,15 @@ The white blood cell count (WBC) was 4,600/mm³ (67% leukocytes, 24% lymphocytes
 Clinical Course Prior to Diagnosis
 The antibiotics were discontinued. The wound was cultured, and Bartonella serologies were sent. Azithromycin was started empirically while awaiting culture results, with some improvement.
 Diagnostic Procedure(s) and Result(s)
-The wound culture of the right wrist exhibited slow growth of colonies that were small and white. Pigment was seen developing in the center of colonies, with possible rosettes ( Figures 3 and 4 ). The organism was identified as Sporothrix schenckii .
+The wound culture of the right wrist exhibited slow growth of colonies that were small and white. Pigment was seen developing in the center of colonies, with possible rosettes (Figures 3 and 4). The organism was identified as Sporothrix schenckii.
 Figure 3. Culture plate of wound.
 Figure 4. Wound culture plate under microscope.
 Treatment and Followup
-The patient was initially treated with itraconazole orally. However, within 24 hours, she developed a severe full body rash ( Figure 5 ), and the drug was discontinued.
-Subsequently, amphotericin B was administered, which was changed to liposomal amphotericin because of the development of acute renal insufficiency. She received liposomal amphotericin for 3 weeks, with excellent resolution of the ulcer and decrease in the size of the right arm nodules ( Figure 6 ). She then received a course of ketoconazole for 4 weeks, until the ulcer had completely resolved. Following completion of anti-fungal therapy, she had no evidence of recurrent disease.
+The patient was initially treated with itraconazole orally. However, within 24 hours, she developed a severe full body rash (Figure 5), and the drug was discontinued.
+Subsequently, amphotericin B was administered, which was changed to liposomal amphotericin because of the development of acute renal insufficiency. She received liposomal amphotericin for 3 weeks, with excellent resolution of the ulcer and decrease in the size of the right arm nodules (Figure 6). She then received a course of ketoconazole for 4 weeks, until the ulcer had completely resolved. Following completion of anti-fungal therapy, she had no evidence of recurrent disease.
 Figure 5. Reaction to treatment.
 Figure 6. Two months after treatment.
+Discussion
 Final Diagnosis
 Sporotrichosis caused by Sporothrix schenckii and acquired from feline claws.
+References

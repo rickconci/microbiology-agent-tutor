@@ -32,7 +32,11 @@ from playwright.sync_api import BrowserContext, Page, TimeoutError as Playwright
 
 
 BASE_URL = "https://www.idimages.org"
-CASE_URL_TEMPLATE = "https://www.idimages.org/idreview/case/?CaseID={case_id}"
+# The studentcase view contains the same narrative + figures as the regular
+# case view but additionally renders hover-tooltip definitions for student-
+# curriculum cases. For cases without tooltips it behaves identically to
+# /idreview/case/, so we use it unconditionally.
+CASE_URL_TEMPLATE = "https://www.idimages.org/idreview/studentcase/?CaseID={case_id}"
 SEARCH_URL = "https://www.idimages.org/search/"
 DEFAULT_STORAGE_STATE = Path.home() / ".config" / "idimages_scraper" / "storage_state.json"
 
@@ -456,11 +460,63 @@ def infer_caption(img: Tag) -> str:
     return "Image"
 
 
+def collect_tooltip_definitions(soup: BeautifulSoup) -> dict[str, str]:
+    """Map tooltip IDs (e.g. 'tooltip-213') to their definition text.
+
+    Definitions live in `<div class="tooltip ..." id="tooltip-NNN">` blocks,
+    typically outside the main case container. Body text is in a child
+    `<div class="tooltip-body">`.
+    """
+    definitions: dict[str, str] = {}
+    for div in soup.find_all("div", id=re.compile(r"^tooltip-\d+$")):
+        body = div.find(class_="tooltip-body")
+        text_source = body if body is not None else div
+        text = normalize_whitespace(text_source.get_text(" ", strip=True))
+        if text:
+            definitions[div.get("id")] = text
+    return definitions
+
+
+def inline_tooltip_definitions(container: Tag, definitions: dict[str, str]) -> None:
+    """Replace `<span class="tooltip-trigger" rel="#tooltip-N">term</span>` nodes
+    with text `term (definition)`, in-place on the container.
+
+    If a definition is missing, leave the term unchanged.
+    """
+    if not definitions:
+        return
+    triggers = container.find_all(class_="tooltip-trigger")
+    for trigger in triggers:
+        rel = (trigger.get("rel") or "").strip()
+        # BeautifulSoup may parse rel as a list (it's a known multi-value attr).
+        if isinstance(rel, list):
+            rel = rel[0] if rel else ""
+        if not rel.startswith("#"):
+            continue
+        tooltip_id = rel.lstrip("#")
+        term = normalize_whitespace(trigger.get_text(" ", strip=True))
+        if not term:
+            trigger.decompose()
+            continue
+        definition = definitions.get(tooltip_id)
+        if definition and definition.lower() != term.lower():
+            replacement = f"{term} ({definition})"
+        else:
+            replacement = term
+        trigger.replace_with(replacement)
+
+
 def extract_case_content_and_figures(page: Page) -> tuple[str, list[Figure], str | None]:
     html = page.content()
     soup = BeautifulSoup(html, "html.parser")
+
+    # Inline hover-tooltip definitions BEFORE narrowing to the case container,
+    # because the `<div id="tooltip-N">` definition blocks live outside it.
+    definitions = collect_tooltip_definitions(soup)
+
     raw_container = find_case_container(soup)
     container = build_clean_case_container(raw_container)
+    inline_tooltip_definitions(container, definitions)
 
     for junk in container.find_all(["script", "style", "noscript"]):
         junk.decompose()
@@ -521,11 +577,18 @@ def extract_case_content_and_figures(page: Page) -> tuple[str, list[Figure], str
             continue
 
         if node.name == "dd":
-            # For this site, section body text often lives as direct DD text,
-            # while nested P tags are captured separately.
-            direct_parts = [normalize_whitespace(str(s)) for s in node.find_all(string=True, recursive=False)]
-            direct_parts = [part for part in direct_parts if part]
-            text = normalize_whitespace(" ".join(direct_parts))
+            # If the DD contains nested block tags (p/li/dt/dd), let those
+            # emit the text so we don't double-count. Otherwise capture the
+            # DD's full text — including text inside inline wrappers like
+            # <font> (used by the site's hover-tooltip JS).
+            has_nested_block = any(
+                child.name in {"p", "li", "dt", "dd"}
+                for child in node.find_all(recursive=False)
+                if isinstance(child, Tag)
+            )
+            if has_nested_block:
+                continue
+            text = normalize_whitespace(node.get_text(" ", strip=True))
         else:
             text = normalize_whitespace(node.get_text(" ", strip=True))
         if not text:
@@ -537,6 +600,8 @@ def extract_case_content_and_figures(page: Page) -> tuple[str, list[Figure], str
         if len(text) <= 18 and text.lower() in NAV_FRAGMENTS:
             continue
         lines.append(text)
+
+    lines = dedupe_figure_caption_lines(lines)
 
     cleaned_lines: list[str] = []
     previous = None
@@ -554,10 +619,69 @@ def extract_case_content_and_figures(page: Page) -> tuple[str, list[Figure], str
     text = "\n".join(cleaned_lines)
     text = normalize_whitespace(text)
     text = clean_case_text_window(text)
+    text = tighten_punctuation_spacing(text)
 
     body_text = normalize_whitespace(soup.get_text("\n", strip=True))
     display_case_number = infer_display_case_number(body_text)
     return text, figures, display_case_number
+
+
+_FIGURE_LINE_RE = re.compile(r"^Figure\s+(\d+)\.\s*(.*)$", re.IGNORECASE)
+
+
+def dedupe_figure_caption_lines(lines: list[str]) -> list[str]:
+    """Collapse repeated "Figure N. ..." lines.
+
+    The site provides figure captions in two places — the gallery `<dl>` and a
+    nearby `<p>` — and on the studentcase view those don't always agree (the
+    gallery falls back to the placeholder "Image"). Keep the most descriptive
+    caption per figure and emit it exactly once.
+    """
+    best_caption: dict[int, str] = {}
+    for line in lines:
+        match = _FIGURE_LINE_RE.match(line.strip())
+        if not match:
+            continue
+        idx = int(match.group(1))
+        caption = normalize_whitespace(match.group(2))
+        existing = best_caption.get(idx, "")
+        # Prefer the longer caption, treating the "Image" fallback as empty.
+        candidate = "" if caption.lower() == "image" else caption
+        current = "" if existing.lower() == "image" else existing
+        if len(candidate) > len(current):
+            best_caption[idx] = caption
+
+    result: list[str] = []
+    emitted: set[int] = set()
+    for line in lines:
+        match = _FIGURE_LINE_RE.match(line.strip())
+        if match:
+            idx = int(match.group(1))
+            if idx in emitted:
+                continue
+            emitted.add(idx)
+            caption = best_caption.get(idx, normalize_whitespace(match.group(2)))
+            result.append(f"Figure {idx}. {caption}".rstrip())
+            continue
+        result.append(line)
+    return result
+
+
+def tighten_punctuation_spacing(text: str) -> str:
+    """Remove stray whitespace introduced by joining inline elements with " ".
+
+    Examples this fixes:
+    - "Figure 1 ."          -> "Figure 1."
+    - "( Figure 3 )"        -> "(Figure 3)"
+    - "diagnosis ."         -> "diagnosis."
+
+    Definitions in parentheses like "good health (Serious ...)" are unaffected:
+    the closing ")" is preceded by a letter, and the opening "(" is followed by
+    a letter — neither side has whitespace adjacent to the bracket.
+    """
+    text = re.sub(r"[ \t]+([.,;:!?\)\]])", r"\1", text)
+    text = re.sub(r"([\(\[])[ \t]+", r"\1", text)
+    return text
 
 
 def clean_case_text_window(text: str) -> str:

@@ -41,10 +41,14 @@ Final Diagnosis
 Haemophilus parainfluenzae endocarditis.
 References
 Darras-Joly, C., Lortholary, O., Mainardi, J.L., Etienne, J., Guillevin, L., and Acar, J. (1997). Haemophilus endocarditis: report of 42 cases in adults and review. Haemophilus Endocarditis Study Group. Clin Infect Dis 24, 1087-1094.
-PMID:9195062 ( PubMed abstract )
+PMID:9195062(PubMed abstract) Ellner, J.J., Rosenthal, M.S., Lerner, P.I., and McHenry, M.C. (1979). Infective endocarditis caused by slow-growing, fastidious, Gram-negative bacteria. Medicine (Baltimore) 58, 145-158.
+PMID:431400(PubMed abstract) King, E. (1983). Revised Tables from The Identification of Unusual Pathogenic Gram Negative Bacteria (Atlanta, Department of Health and Human Services, CDC) Lynn, D.J., Kane, J.G., and Parker, R.H. (1977). Haemophilus parainfluenzae and influenzae endocarditis: a review of forty cases. Medicine (Baltimore) 56, 115-128.
+PMID:321916(PubMed abstract) Mandell GL, B.J., Dolin R (2000). Principles and Practice of Infectious Diseases (Philadelphia, Churchill Livingstone)
+Darras-Joly, C., Lortholary, O., Mainardi, J.L., Etienne, J., Guillevin, L., and Acar, J. (1997). Haemophilus endocarditis: report of 42 cases in adults and review. Haemophilus Endocarditis Study Group. Clin Infect Dis 24, 1087-1094.
+PMID:9195062(PubMed abstract)
 Ellner, J.J., Rosenthal, M.S., Lerner, P.I., and McHenry, M.C. (1979). Infective endocarditis caused by slow-growing, fastidious, Gram-negative bacteria. Medicine (Baltimore) 58, 145-158.
-PMID:431400 ( PubMed abstract )
+PMID:431400(PubMed abstract)
 King, E. (1983). Revised Tables from The Identification of Unusual Pathogenic Gram Negative Bacteria (Atlanta, Department of Health and Human Services, CDC)
 Lynn, D.J., Kane, J.G., and Parker, R.H. (1977). Haemophilus parainfluenzae and influenzae endocarditis: a review of forty cases. Medicine (Baltimore) 56, 115-128.
-PMID:321916 ( PubMed abstract )
+PMID:321916(PubMed abstract)
 Mandell GL, B.J., Dolin R (2000). Principles and Practice of Infectious Diseases (Philadelphia, Churchill Livingstone)

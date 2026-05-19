@@ -14,6 +14,7 @@ On admission, the patient was thrombocytopenic 98 x 10 9 /L (reference range 150
 - Large vegetation on aortic valve with severe aortic regurgitation and moderate to severe mitral regurgitation secondary to AMVL prolapse
 - Large pedunculated mass 36 x 0.7 mm attached to aortic valve. Multiple smaller masses or vegetation attached to all coronary cusps with destruction of aortic valve architecture
 Figure 1. Figure 1: Transoesophageal echocardiogram demonstrating a large, pedunculated aortic valve vegetation in the mid-oesophageal aortic valve long axis view (left) and the mid-oesophageal aortic valve short axis view (right).
+Figure 1: Transoesophageal echocardiogram demonstrating a large, pedunculated aortic valve vegetation in the mid-oesophageal aortic valve long axis view (left) and the mid-oesophageal aortic valve short axis view (right).
 Clinical Course Prior to Diagnosis
 After 5 blood cultures were taken, when the large aortic valve vegetation was discovered, she was commenced on intravenous (IV) ceftriaxone and IV benzylpenicillin for culture negative endocarditis and transferred to a larger hospital for operative management.
 Diagnostic Procedure(s) and Result(s)
@@ -31,10 +32,10 @@ Treatment and Followup
 The patient continued antibiotics and underwent aortic valve replacement 10 days after presentation. Intra-operative findings were as follows:
 - Aortic valve almost completely destroyed with large vegetations on all leaflets - Ulcerated area of infection at septum under right coronary cusp - Anterior mitral valve leaflet prolapse with tethering of secondary chord and small vegetations on leaflet and chordae
 Conventional bacterial culture was negative at five days. Histopathology of the aortic valve revealed “vegetations and valvular destruction, consistent with endocarditis. Both the aortic valve and mitral chordae also show numerous foamy histiocytes containing granular PAS-D-positive material of uncertain significance, and the possibility of Tropheryma whipplei endocarditis (Whipple disease) cannot be excluded.”
-Considering these findings, the patient underwent small bowel biopsy to assess for classic Whipple’s disease, and the team organised 16S rRNA gene sequencing on valve culture. 16S rRNA gene sequencing on valvular tissue identified Tropheryma whipplei .
+Considering these findings, the patient underwent small bowel biopsy to assess for classic Whipple’s disease, and the team organised 16S rRNA gene sequencing on valve culture. 16S rRNA gene sequencing on valvular tissue identified Tropheryma whipplei.
 The patient received 2 weeks of IV ceftriaxone 2g daily, followed by oral trimethoprim-sulfamethoxazole 160/800mg twice daily to complete a total of six months of antibiotic therapy. At four months follow up the patient remains clinically well with normal cardiovascular function. Duodenal biopsy subsequently returned negative for PAS-D staining and Tropheryma whipplei culture.
 Discussion
-The differential diagnosis for culture negative endocarditis is broad. In this immunocompetent, previously well patient with minimal antibiotic or healthcare exposure and no overseas travel, the main differentials are pathogens from environmental exposure such as Coxiella burnetti, Legionella, Mycoplasma , HACEK organisms given her poor dentition and less likely, Tropheryma whipplei . Fungal or mycobacterial pathogens are less likely given she is immunocompetent and does not have relevant exposures. Non-infective causes are possible, but she did not have any evidence of autoimmune disease or solid organ malignancy.
+The differential diagnosis for culture negative endocarditis is broad. In this immunocompetent, previously well patient with minimal antibiotic or healthcare exposure and no overseas travel, the main differentials are pathogens from environmental exposure such as Coxiella burnetti, Legionella, Mycoplasma, HACEK organisms given her poor dentition and less likely, Tropheryma whipplei. Fungal or mycobacterial pathogens are less likely given she is immunocompetent and does not have relevant exposures. Non-infective causes are possible, but she did not have any evidence of autoimmune disease or solid organ malignancy.
 Tropheryma whipplei is an environmental, slow-growing gram-positive rod [1,2]. It can be found in soil and is thought to be common in the human gut, where it is taken up and replicates in macrophages. However, only a small percentage of carriers develop infection. Illness typically occurs in Caucasian people and is rare in Asian and African populations despite common carriage, which is thought to be due to HLA genotype and other genetic differences [2,3].
 Whipple’s disease is rare, with prevalence thought to be three in one million based on duodenal biopsy prior to PCR. Since 1999, the organism has been more readily isolated in other specimens, and the incidence is now estimated to be one to six new cases per ten million worldwide [1]. Whipple’s disease typically presents in mid-life (age 48 to 54 years), with a male preponderance of 8:1, largely associated with occupations in farming, building or outdoor exposure, or exposure to animals and soil. In more recent studies, women now account for 25% of diagnoses.
 There are 4 clinical syndromes [1,3]:
@@ -44,20 +45,30 @@ There are 4 clinical syndromes [1,3]:
 4. Asymptomatic carriage
 Localised chronic disease including endocarditis, osteoarticular disease and encephalitis, has been increasingly recognized since increased availability of polymerase chain reaction (PCR). These patients do not develop systemic involvement, so as with our case, stool, saliva specimens and duodenal biopsy are often negative [4]. Whipple’s endocarditis is reported to contribute to 1.9 to 6.3% of culture negative infective endocarditis cases. It involves intracellular infection of the valves as opposed to biofilm-like superficial colonization [5]. Diagnosis is most commonly by PCR of valvular tissue [6]. As in this case, Periodic acid-Schiff (PASD) stain, used to detect polysaccharides (glycogen) and mucosubstances (glycoproteins, glycolipids, mucin) can be positive (Figures 2,3). However, it is non-specific for Whipple’s, as it can also be positive in infections with fungi, mycosis fungoides, and Mycobacterium avium [1, 5].
 Optimal treatment is not known, but recommendations include initial intravenous phase with ceftriaxone then switch to oral cotrimoxazole and sulfamethoxazole or doxycycline and hydroxychloroquine [6].
-Figure 2. Figure 2: Hematoxylin and eosin (H&E) stain of aortic valve with lipid laden or “foamy” macrophages that are suggestive of Whipple’s disease
-Figure 3. Figure 3: Histopathology of aortic valve with Periodic acid-Schiff (PAS) stain highlighting foamy macrophages seen in Figure 2.
+Figure 2: Hematoxylin and eosin (H&E) stain of aortic valve with lipid laden or “foamy” macrophages that are suggestive of Whipple’s disease Figure 3: Histopathology of aortic valve with Periodic acid-Schiff (PAS) stain highlighting foamy macrophages seen in Figure 2.
+Figure 2. Image
+Figure 2: Hematoxylin and eosin (H&E) stain of aortic valve with lipid laden or “foamy” macrophages that are suggestive of Whipple’s disease
+Figure 3. Image
+Figure 3: Histopathology of aortic valve with Periodic acid-Schiff (PAS) stain highlighting foamy macrophages seen in Figure 2.
 Final Diagnosis
-endocarditis
+Tropheryma whipplei endocarditis
 References
 Dolmans RAV, Boel CHE, Lacle MM, Kusters JG. 2017. Clinical manifestations, treatment, and diagnosis of Tropheryma whipplei infections. Clin Microbiol Rev 30:529 –555, PMID: 28298472
-PMID:28298472 ( PubMed abstract )
+PMID:28298472(PubMed abstract) Marth T, Moos V, Muller C et al. Tropheryma whipplei infection and Whipple’s disease Lancet Infect Dis 2016; 16: e12–21, PMID: 26856775
+PMID:26856775(PubMed abstract) Lagier JC, Raoult D Whipple’s disease and Tropheryma whipplei infections: when to suspect them and how to diagnose and treat them Curr Opin Infect Dis 2018, 31:463 – 470, PMID: 30299363
+PMID:30299363(PubMed abstract) Alozie A, Zimpfer A, Koller K et al Arthralgia and blood culture-negative endocarditis in middle Age Men suggest tropheryma whipplei infection: report of two cases and review of the literature, BMC Infectious Diseases 2015; 15: 339 PMID 26282628
+PMID:26282628(PubMed abstract) Fenollar F, Celard M, Lagier JC et al Tropheryma whipplei Endocarditis Emerging Infectious Diseases 2013 Nov; 19(11): 1721–1730, PMID 24207100
+PMID:24207100(PubMed abstract) McGee M, Brienesse S, Chong B et al. Tropheryma whipplei Endocarditis: Case Presentation and Review of the Literature Open Forum Infectious Diseases PMID: 30648125
+PMID:30648125(PubMed abstract)
+Dolmans RAV, Boel CHE, Lacle MM, Kusters JG. 2017. Clinical manifestations, treatment, and diagnosis of Tropheryma whipplei infections. Clin Microbiol Rev 30:529 –555, PMID: 28298472
+PMID:28298472(PubMed abstract)
 Marth T, Moos V, Muller C et al. Tropheryma whipplei infection and Whipple’s disease Lancet Infect Dis 2016; 16: e12–21, PMID: 26856775
-PMID:26856775 ( PubMed abstract )
+PMID:26856775(PubMed abstract)
 Lagier JC, Raoult D Whipple’s disease and Tropheryma whipplei infections: when to suspect them and how to diagnose and treat them Curr Opin Infect Dis 2018, 31:463 – 470, PMID: 30299363
-PMID:30299363 ( PubMed abstract )
+PMID:30299363(PubMed abstract)
 Alozie A, Zimpfer A, Koller K et al Arthralgia and blood culture-negative endocarditis in middle Age Men suggest tropheryma whipplei infection: report of two cases and review of the literature, BMC Infectious Diseases 2015; 15: 339 PMID 26282628
-PMID:26282628 ( PubMed abstract )
+PMID:26282628(PubMed abstract)
 Fenollar F, Celard M, Lagier JC et al Tropheryma whipplei Endocarditis Emerging Infectious Diseases 2013 Nov; 19(11): 1721–1730, PMID 24207100
-PMID:24207100 ( PubMed abstract )
+PMID:24207100(PubMed abstract)
 McGee M, Brienesse S, Chong B et al. Tropheryma whipplei Endocarditis: Case Presentation and Review of the Literature Open Forum Infectious Diseases PMID: 30648125
-PMID:30648125 ( PubMed abstract )
+PMID:30648125(PubMed abstract)

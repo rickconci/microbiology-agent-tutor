@@ -9,14 +9,14 @@ Physical Examination
 The patient appeared thin and cachectic. She was afebrile and the vital signs were normal. Thrush was present on the tongue and hard palate. There was no cervical lymphadenopathy. Examinations of the fundi, lungs, heart and abdomen were normal. There was no rash on the skin. The patient was alert and oriented. She was able to follow simple commands but was not able to speak in long sentences or execute complex tasks. She had echolalia and could not name objects. Her strength was 5- out of 5 in right upper and lower extremities and 5 out of 5 in left extremities. Cranial nerves were intact, reflexes were brisk and symmetrical, and the toes were downgoing.
 Studies
 The white blood cell count (WBC) was 2,200/mm³ with 44% neutrophils and 45% lymphocytes, platelets were 188,000/mm³. The total protein was 7.3 g/dL and globulin 3.7 g/dL; the level of creatinine and liver function tests were normal.
-Magnetic resonance imaging (MRI) of the brain revealed multiple foci of abnormal T2 signal involving the white matter in the frontal, temporal, and parietal lobes, with the largest abnormality seen in the left frontal lobe ( Figures 1 and 2 ). There was minimal enhancement after contrast and no mass effect was seen. There was no evidence of a tissue mass in the left frontal lobe.
+Magnetic resonance imaging (MRI) of the brain revealed multiple foci of abnormal T2 signal involving the white matter in the frontal, temporal, and parietal lobes, with the largest abnormality seen in the left frontal lobe (Figures 1 and 2). There was minimal enhancement after contrast and no mass effect was seen. There was no evidence of a tissue mass in the left frontal lobe.
 Figure 1. MRI scan of the brain, axial T2-weighted image.
 Figure 2. MRI scan of the brain, axial T2-weighted image (higher cut).
 Clinical Course Prior to Diagnosis
 Her speech and strength did not improve. An electroencephalogram (EEG) showed abnormal brain activity in the left frontal area.
 Diagnostic Procedure(s) and Result(s)
-Subsequent evaluation revealed a positive antibody test for human immunodeficiency virus (HIV) . The CD4 T-lymphocyte cell count was 20 cells/mm³ and the level of HIV RNA was 182,000 copies/mL. The cerebrospinal fluid (CSF) showed no pleocytosis and a positive JC virus PCR test was consistent with progressive multifocal leukoencephalopathy (PML). The CSF HIV RNA was 21,000 copies/mL.
-MRI scanning T2 images, shown in Figures 1 and 2 , reveal subcortical white matter disease in the left frontoparietal lobe. ( Figure 1 is a lower cut than Figure 2 .)
+Subsequent evaluation revealed a positive antibody test for human immunodeficiency virus (HIV). The CD4 T-lymphocyte cell count was 20 cells/mm³ and the level of HIV RNA was 182,000 copies/mL. The cerebrospinal fluid (CSF) showed no pleocytosis and a positive JC virus PCR test was consistent with progressive multifocal leukoencephalopathy (PML). The CSF HIV RNA was 21,000 copies/mL.
+MRI scanning T2 images, shown in Figures 1 and 2, reveal subcortical white matter disease in the left frontoparietal lobe. (Figure 1 is a lower cut than Figure 2.)
 Treatment and Followup
 The patient was started on combination therapy that included zidovudine (AZT), lamivudine (3TC), and lopinavir-ritonavir with a decrease in the HIV RNA level and increase in the CD4 T-lymphocyte cell count. The neurologic examination improved over the subsequent three months.
 Discussion
@@ -28,6 +28,9 @@ Final Diagnosis
 Progressive multifocal leukoencephalopathy (PML) in a patient with advanced human immunodeficiency virus (HIV) infection.
 References
 Simpson, D.M. (2011). HIV-associated PML: changing epidemiology and clinical approach. Cleve Clin J Med 78 Suppl 2, S24-27.
-PMID:22123930 ( PubMed abstract )
+PMID:22123930(PubMed abstract) Tan, C.S., and Koralnik, I.J. (2010). Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol 9, 425-437.
+PMID:20298966(PubMed abstract)
+Simpson, D.M. (2011). HIV-associated PML: changing epidemiology and clinical approach. Cleve Clin J Med 78 Suppl 2, S24-27.
+PMID:22123930(PubMed abstract)
 Tan, C.S., and Koralnik, I.J. (2010). Progressive multifocal leukoencephalopathy and other disorders caused by JC virus: clinical features and pathogenesis. Lancet Neurol 9, 425-437.
-PMID:20298966 ( PubMed abstract )
+PMID:20298966(PubMed abstract)

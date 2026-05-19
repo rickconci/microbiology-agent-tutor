@@ -4,7 +4,7 @@ A male infant was delivered by emergency cesarean section because of suspected m
 Past Medical History
 There had not been any maternal prenatal care and prenatal laboratory test results were not known.
 Physical Examination
-The weight was 2.5 kilograms; weight and head circumference were at the 50th percentile. Apgar scores were 3, 6 and 8 at 1, 5 and 10 minutes, respectively. There was poor respiratory effort, and the patient was intubated emergently and placed under a radiant warmer. The temperature was 97.8°F (36.5°C); other vital signs were normal. Examination of the skin revealed multiple petechiae (mostly on the torso), and rounded cutaneous lesions that measured 0.3 centimeters (cm) to 1 cm on the palms and soles ( Figures 1 through 4 , the feet are shown after ink was applied for footprinting ). The heart sounds were normal. There were bilateral rales in the lungs, hepatosplenomegaly, bilateral axillary lymphadenopathy and hypotonia. He was poorly responsive to the examination.
+The weight was 2.5 kilograms; weight and head circumference were at the 50th percentile. Apgar scores were 3, 6 and 8 at 1, 5 and 10 minutes, respectively. There was poor respiratory effort, and the patient was intubated emergently and placed under a radiant warmer. The temperature was 97.8°F (36.5°C); other vital signs were normal. Examination of the skin revealed multiple petechiae (mostly on the torso), and rounded cutaneous lesions that measured 0.3 centimeters (cm) to 1 cm on the palms and soles (Figures 1 through 4, the feet are shown after ink was applied for footprinting). The heart sounds were normal. There were bilateral rales in the lungs, hepatosplenomegaly, bilateral axillary lymphadenopathy and hypotonia. He was poorly responsive to the examination.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Figure 3. Physical finding (with ink applied)
@@ -14,11 +14,11 @@ The white cell count was 25,000 cells/mm³ (neutrophils 21%, lymphocytes 47%, mo
 Clinical Course Prior to Diagnosis
 A chest radiograph revealed an increased cardiac silhouette and no radiographic evidence of pneumonia. A computed brain tomography scan and abdominal ultrasound were normal.
 Diagnostic Procedure(s) and Result(s)
-Maternal rapid plasma reagin (RPR) testing at the time of delivery was positive at 1:256, and the infant’s RPR at 1:16. Cerebrospinal fluid (CSF) analysis revealed 350 white cells per cubic millimeter (14% segmented polymorphonuclear leukocytes), protein 423 mg/dL, and a reactive Venereal Disease Research Laboratory (VDRL) test, with a titer of 4. Radiographs of the long bones showed metaphyseal osteochondritis and periostitis ( Figure 5 ), commonly found in congenital syphilis. The findings were consistent with the diagnosis of congenital syphilis, caused by Treponema pallidum infection.
+Maternal rapid plasma reagin (RPR) testing at the time of delivery was positive at 1:256, and the infant’s RPR at 1:16. Cerebrospinal fluid (CSF) analysis revealed 350 white cells per cubic millimeter (14% segmented polymorphonuclear leukocytes), protein 423 mg/dL, and a reactive Venereal Disease Research Laboratory (VDRL) test, with a titer of 4. Radiographs of the long bones showed metaphyseal osteochondritis and periostitis (Figure 5), commonly found in congenital syphilis. The findings were consistent with the diagnosis of congenital syphilis, caused by Treponema pallidum infection.
 Laboratory test results of the mother's serum did not show evidence of infection with hepatitis B virus or human immunodeficiency virus (HIV), and immunity to rubella was documented. Cultures of the infant's blood at birth were negative. Cytomegalovirus was not detected in the urine by polymerase chain reaction (PCR) or culture. Bacterial cultures of the CSF and testing for herpes simplex virus PCR were negative. Viral cultures of the skin, eyes, rectum, and nasopharynx were negative, and cultures of the cutaneous lesions did not reveal bacterial pathogens. Newborn laboratory screening tests for metabolic diseases and hemoglobinopathies were normal.
 Figure 5. Radiographs of long bones.
 Treatment and Followup
-The infant was treated with intravenous penicillin G crystalline (150,000 U/kg/day) for 14 days. Follow-up laboratory test results are shown in Figure 6 , and measurement of the RPR at 2 months was positive at 1:4, reflecting a four-fold decrease.
+The infant was treated with intravenous penicillin G crystalline (150,000 U/kg/day) for 14 days. Follow-up laboratory test results are shown in Figure 6, and measurement of the RPR at 2 months was positive at 1:4, reflecting a four-fold decrease.
 Figure 6. Laboratory test results.
 Discussion
 The constellation of findings at birth in this case indicated the need to consider the TORCH group of infections, as well as other unusual disorders. (The TORCH acronym represents the following infections: toxoplasmosis; other infections including hepatitis B, syphilis, and herpes zoster; rubella; cytomegalovirus; and herpes simplex virus.)
@@ -28,10 +28,14 @@ Cutaneous lesions of the palms and soles are classic manifestations of Treponema
 Final Diagnosis
 Congenital syphilis, caused by Treponema pallidum infection, with hepatitis and central nervous system involvement.
 References
+American Academy of Pediatrics. Syphilis. In: Pickering LK, Baker CJ, Long SS, McMillan JA, eds. Red Book: 2006 Report of the Committee on Infectious Diseases, 27th Ed., Elk Grove Village, IL: American Academy of Pediatrics;2006:631-644. Michelow, I.C., Wendel, G.D., Jr., Norgard, M.V., Zeray, F., Leos, N.K., Alsaadi, R., and Sanchez, P.J. (2002). Central nervous system infection in congenital syphilis. N Engl J Med 346, 1792-1798.
+PMID:12050339(PubMed abstract) Woods, C.R. (2005). Syphilis in children: congenital and acquired. Semin Pediatr Infect Dis 16, 245-257.
+PMID:16210105(PubMed abstract) Workowski, K.A., and Berman, S.M. (2006). Sexually transmitted diseases treatment guidelines, 2006. MMWR Recomm Rep 55, 1-94.
+PMID:16888612(PubMed abstract)
 American Academy of Pediatrics. Syphilis. In: Pickering LK, Baker CJ, Long SS, McMillan JA, eds. Red Book: 2006 Report of the Committee on Infectious Diseases, 27th Ed., Elk Grove Village, IL: American Academy of Pediatrics;2006:631-644.
 Michelow, I.C., Wendel, G.D., Jr., Norgard, M.V., Zeray, F., Leos, N.K., Alsaadi, R., and Sanchez, P.J. (2002). Central nervous system infection in congenital syphilis. N Engl J Med 346, 1792-1798.
-PMID:12050339 ( PubMed abstract )
+PMID:12050339(PubMed abstract)
 Woods, C.R. (2005). Syphilis in children: congenital and acquired. Semin Pediatr Infect Dis 16, 245-257.
-PMID:16210105 ( PubMed abstract )
+PMID:16210105(PubMed abstract)
 Workowski, K.A., and Berman, S.M. (2006). Sexually transmitted diseases treatment guidelines, 2006. MMWR Recomm Rep 55, 1-94.
-PMID:16888612 ( PubMed abstract )
+PMID:16888612(PubMed abstract)

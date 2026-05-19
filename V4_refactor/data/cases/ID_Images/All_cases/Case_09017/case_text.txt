@@ -14,12 +14,12 @@ The patient appeared well. The blood pressure was 121/68 mm Hg, pulse 102 beats 
 Studies
 The white blood cell count was 20,000 cells/mm³ (reference range 4,400 -11,300), with polymorphonuclear leukocytes 85%, lymphocytes 9%, monocytes 6%, and basophils 0.1%). Hemoglobin was 9.4 g/dL, hematocrit 28.2 % and platelet count was 404,000/mm³. The levels of electrolytes and tests of renal and liver function were normal. A chest radiograph, including heart size, was normal, without evidence of pulmonary infiltrates.
 Clinical Course Prior to Diagnosis
-The patient was admitted to the hospital and remained febrile for 11 days with a maximal temperature of 39.1°C (102.4°F). A transthoracic echocardiogram showed thickening of the aortic valve, consistent with a vegetation ( Figure 1 ). Blood cultures were obtained; gram stain of the blood culture is shown in Figure 2 .
+The patient was admitted to the hospital and remained febrile for 11 days with a maximal temperature of 39.1°C (102.4°F). A transthoracic echocardiogram showed thickening of the aortic valve, consistent with a vegetation (Figure 1). Blood cultures were obtained; gram stain of the blood culture is shown in Figure 2.
 Figure 1. Echocardiogram.
 Figure 2. Gram stain of blood culture growth.
 Diagnostic Procedure(s) and Result(s)
 Blood cultures grew Neisseria gonorrhoeae, which was sensitive to ceftriaxone [0.12 S] and meropenem [0.03 S], showed intermediate response to penicillin [0.50I], and was resistant to ciprofloxacin [>=32 R]. Testing for antibodies to human immunodeficiency virus (HIV) was negative and HIV nucleic acid was not detected.
-A transesophageal echocardiogram also demonstrated a vegetation on the aortic valve. An aortic valve replacement was performed, and an extensive aortic root abscess was noted. Pathological examination of the resected valve showed a perforation of the aortic valve specimen and an acquired fusion of the valve leaflets, with rough edges due to vegetations ( Figure 3 ). Figures 4 and 5 show histopathologic changes of inflammation.
+A transesophageal echocardiogram also demonstrated a vegetation on the aortic valve. An aortic valve replacement was performed, and an extensive aortic root abscess was noted. Pathological examination of the resected valve showed a perforation of the aortic valve specimen and an acquired fusion of the valve leaflets, with rough edges due to vegetations (Figure 3). Figures 4 and 5 show histopathologic changes of inflammation.
 Figure 3. Gross pathology of the valve.
 Figure 4. Histopathology of the surgical specimen.
 Figure 5. Histopathology of the surgical specimen.
@@ -28,12 +28,16 @@ The post-operative course was uncomplicated; the administration of intravenous c
 Discussion
 Gonorrhea was described by Hippocrates as early as the 4th to 5th B.C., as “strangury”, meaning obtained from the “pleasures of Venus”. In 130 A.D., the term “gonorrhea” (or “flow of seeds”) was coined by Galen. The association between carditis and gonorrhea was described in 1838, and the causative agent,Neisseria gonorrhoeae, was discovered in 1879. The incidence has decreased with the advent of antibiotics in the 1930s [Edwards and Apicella 2004]. In 2004, the incidence of gonorrhea was estimated to be 113.5 per 100,000 persons [CDC]. In the preantibiotic era, an estimated 11 to 20% of bacterial endocarditis was caused by Neisseria gonorrhoeae. There was a predilection for males, and the organism affected primarily the left-sided heart valves [Jackman and Glamann 1991]. Clinical manifestations of gonococcal endocarditis include fever (described as double quotidian) in 74%, arthralgia (44%), and rash (12%); affected patients may have had no antecedent history of urethral discharge. The organism has a tendency to be aggressive, which may lead to valvular destruction [Jurica and Bomzer 1987]. Studies in the post-antibiotic era report mortality of up to 19% despite medical and surgical treatment. Surgical intervention may be necessary in more than half of cases [Jackman and Glamann 1991]. In this case, persistent pyrexia despite antibiotic therapy and evidence of a valvular abscess prompted surgical intervention. Due to increasing antimicrobial resistance, fluoroquinolones are no longer recommended for the treatment of gonorrhea in the United States. Third generation cephalosporins are considered first-line therapy. In summary, endocarditis was once a common and often fatal complication of N. gonorrhoeae infection. Now, with the advent of antimicrobial treatment of gonococcal infection, it is far more rare, but may still occur, with potentially life-threatening consequences.
 Final Diagnosis
-Infective endocarditis and aortic valvular abscess caused by Neisseria gonorrhoeae .
+Infective endocarditis and aortic valvular abscess caused by Neisseria gonorrhoeae.
 References
+Centers for Disease Control and Prevention (CDC) http://www.cdc.gov/std/Gonorrhea/gonorrhea-fact-sheet.pdf Edwards, J.L., and Apicella, M.A. (2004). The molecular mechanisms used by Neisseria gonorrhoeae to initiate infection differ between men and women. Clin Microbiol Rev 17, 965-981, table of contents.
+PMID:15489357(PubMed abstract) Jackman, J.D., Jr., and Glamann, D.B. (1991). Gonococcal endocarditis: twenty-five year experience. Am J Med Sci 301, 221-230.
+PMID:2000895(PubMed abstract) Jurica, J.V., Bomzer, C.A., and England, A.C., 3rd (1987). Gonococcal endocarditis: a case report and review of the literature. Sex Transm Dis 14, 231-233
+PMID:3326185(PubMed abstract)
 Centers for Disease Control and Prevention (CDC) http://www.cdc.gov/std/Gonorrhea/gonorrhea-fact-sheet.pdf
 Edwards, J.L., and Apicella, M.A. (2004). The molecular mechanisms used by Neisseria gonorrhoeae to initiate infection differ between men and women. Clin Microbiol Rev 17, 965-981, table of contents.
-PMID:15489357 ( PubMed abstract )
+PMID:15489357(PubMed abstract)
 Jackman, J.D., Jr., and Glamann, D.B. (1991). Gonococcal endocarditis: twenty-five year experience. Am J Med Sci 301, 221-230.
-PMID:2000895 ( PubMed abstract )
+PMID:2000895(PubMed abstract)
 Jurica, J.V., Bomzer, C.A., and England, A.C., 3rd (1987). Gonococcal endocarditis: a case report and review of the literature. Sex Transm Dis 14, 231-233
-PMID:3326185 ( PubMed abstract )
+PMID:3326185(PubMed abstract)

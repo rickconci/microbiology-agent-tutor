@@ -4,7 +4,7 @@ A middle-aged woman noted a “bite” on her left thigh seven days before her p
 Epidemiological History
 She lived in a city in the Northeast, and had been in Georgia six months before. She owned a dog, and had noted one mouse in her basement.
 Physical Examination
-Her temperature was 100.5°F (38.1°C), pulse 104 beats per minute, blood pressure 100/60 mm Hg, respirations 16 breaths per minute. She was in no apparent distress, and there was no lymphadenopathy. There was a blanching papular erythematous rash on her extremities, back, and chest ( Figures 1 and 2 ). A lesion was present on her left thigh ( Figures 3 and 4 ).
+Her temperature was 100.5°F (38.1°C), pulse 104 beats per minute, blood pressure 100/60 mm Hg, respirations 16 breaths per minute. She was in no apparent distress, and there was no lymphadenopathy. There was a blanching papular erythematous rash on her extremities, back, and chest (Figures 1 and 2). A lesion was present on her left thigh (Figures 3 and 4).
 Figure 1. Rash on back.
 Figure 2. Rash on leg.
 Figure 3. Lesion on leg.
@@ -12,20 +12,23 @@ Figure 4. Detail of leg lesion.
 Studies
 The white blood cell (WBC) count was 3,200 cells/mm³, hematocrit 34.6% and platelet count 180,000/mm³. The level of alanine aminotransferase (ALT) was 64 U/L, aspartate aminotransferase (AST) 57 U/L, alkaline phosphatase 95 U/L, and lactate dehydrogenase (LDH) 454 U/L; the bilirubin level and chest radiograph were normal. Blood cultures were sterile.
 Diagnostic Procedure(s) and Result(s)
-Serologic testing at the Centers for Disease Control and Prevention (CDC) showed a titer of 1:256 against Rickettsia rickettsii and other members of the spotted fever group of rickettsiae, including Rickettsia akari .
+Serologic testing at the Centers for Disease Control and Prevention (CDC) showed a titer of 1:256 against Rickettsia rickettsii and other members of the spotted fever group of rickettsiae, including Rickettsia akari.
 Treatment and Followup
 The patient was treated with doxycycline, with rapid improvement in her fever and rash.
 Discussion
-Monkeypox was unlikely without known exposure to animals such as prairie dogs that carry monkeypox, or pronounced adenopathy. Cutaneous anthrax, which can be found in contaminated animal products (such as hides) typically gives a shallow necrotic ulcer with extensive surrounding edema. The rash of disseminated Lyme disease, a deer tick-borne infection, may show multiple annular skin lesions.
-Rickettsialpox is caused by Rickettsia akari , a member of the spotted fever group of rickettsiae. The organism is transmitted to humans by a mouse mite. After the bite of an infected mite, Rickettsia akari proliferates locally resulting in a papule, which ulcerates to form an eschar. Three to seven days later, patients develop high fever, chills and headache. Two to three days after the onset of fever, many patients develop a generalized papulovesicular rash.
+Rickettsialpox is caused by Rickettsia akari, a member of the spotted fever group of rickettsiae. The organism is transmitted to humans by a mouse mite. After the bite of an infected mite, Rickettsia akari proliferates locally resulting in a papule, which ulcerates to form an eschar. Three to seven days later, patients develop high fever, chills and headache. Two to three days after the onset of fever, many patients develop a generalized papulovesicular rash.
 Diagnosis of rickettsialpox is generally by serologic testing. At the time of this publication, treatment usually includes a tetracycline for 3-5 days, and clinical response is typically rapid.
 One of the main possibilities in the differential diagnosis in a patient with suspected rickettsialpox is chickenpox, which, of course, is much more common. The following features may help distinguish rickettsialpox from chickenpox: in rickettsialpox, an eschar is typically present, whereas this does not occur in patients with chickenpox; the lesions of chickenpox often occur in crops, whereas this does not generally happen with rickettsialpox; patients with rickettsialpox usually have relatively few skin lesions (20-40), whereas individuals with chickenpox may have many more and, lastly, the skin lesion in rickettsialpox is usually a papulovesicle, whereas vesicles characterize the rash of chickenpox.
 Final Diagnosis
 Rickettsialpox.
 References
 Comer, J.A., Paddock, C.D., and Childs, J.E. (2001). Urban zoonoses caused by Bartonella, Coxiella, Ehrlichia, and Rickettsia species. Vector Borne Zoonotic Dis 1, 91-118.
-PMID:12653141 ( PubMed abstract )
+PMID:12653141(PubMed abstract) Paddock CD, Koss T, Eremeeva ME, Dasch GA, Zaki SR, Sumner JW. Isolation of Rickettsia akari from eschars of patients with rickettsialpox. Am J Trop Med Hyg. 2006 Oct;75(4):732-8.
+PMID:17038703(PubMed abstract) Walker, D.H. (1996). Rickettsiae.
+PMID:21413251(PubMed abstract)
+Comer, J.A., Paddock, C.D., and Childs, J.E. (2001). Urban zoonoses caused by Bartonella, Coxiella, Ehrlichia, and Rickettsia species. Vector Borne Zoonotic Dis 1, 91-118.
+PMID:12653141(PubMed abstract)
 Paddock CD, Koss T, Eremeeva ME, Dasch GA, Zaki SR, Sumner JW. Isolation of Rickettsia akari from eschars of patients with rickettsialpox. Am J Trop Med Hyg. 2006 Oct;75(4):732-8.
-PMID:17038703 ( PubMed abstract )
+PMID:17038703(PubMed abstract)
 Walker, D.H. (1996). Rickettsiae.
-PMID:21413251 ( PubMed abstract )
+PMID:21413251(PubMed abstract)

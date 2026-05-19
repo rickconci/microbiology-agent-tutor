@@ -9,18 +9,19 @@ She lived in a college dorm and had no known sick contacts. She denied drug or a
 Physical Examination
 She was a mildly toxic-appearing young woman, who was alert, oriented and appropriate. The temperature was 102.5°F (39.2°C), pulse was 110 beats per minute, and the respirations and blood pressure were normal. Her conjunctivae were clear; the cranial nerves were normal, without proptosis. There was no trismus, and mucous membranes were moist without lesions. Focal left neck tenderness was present with palpable cervical lymphadenopathy. There was no overlying erythema. A II/VI systolic ejection murmur was heard.
 Studies
-The white blood cell count was 20,300 cells/mm³ with 46% polymorphonuclear cells, 37% bands, and 3% lymphocytes. Coagulation studies and liver function tests were normal. A chest radiograph is shown in Figure 1.
+The white blood cell count was 20,300 cells/mm³ with 46% polymorphonuclear cells, 37% bands, and 3% lymphocytes. Coagulation studies and liver function tests were normal. A chest radiograph is shown in Figure 1. Figure 1. Chest radiograph.
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) scanning of the neck is shown in Figures 2 and 3 .
+Computed tomography (CT) scanning of the neck is shown in Figures 2 and 3.
 Figure 2. CT scan of the neck with contrast, sagittal view
 Figure 3. CT scan of the neck with contrast, axial view.
 Diagnostic Procedure(s) and Result(s)
-The chest radiograph revealed multiple peripheral nodules consistent with septic embolic lesions ( Figure 1 ). Computed tomography (CT) of the head and neck with contrast enhancement revealed left internal jugular vein thrombophlebitis with surrounding inflammation and lymphadenopathy (Figures 2 and 3). Blood cultures obtained on admission grew Fusobacterium necrophorum .
+The chest radiograph revealed multiple peripheral nodules consistent with septic embolic lesions (Figure 1). Computed tomography (CT) of the head and neck with contrast enhancement revealed left internal jugular vein thrombophlebitis with surrounding inflammation and lymphadenopathy (Figures 2 and 3). Blood cultures obtained on admission grew Fusobacterium necrophorum.
 Treatment and Followup
 The patient was treated with one month of ampicillin-sulbactam and quickly became afebrile. Follow-up CT scanning of the chest at the end of intravenous therapy showed resolving cavitating lung nodules. The patient was treated with a tail of oral amoxicillin therapy and recovered completely.
 Discussion
-Lemierre’s syndrome is a primary head and neck infection in a young, previously healthy person that goes on to cause septic thrombophlebitis of the internal jugular vein. The main pathogen is Fusobacterium necrophorum , an anaerobic gram-negative rod, but the infection can also be polymicrobial. The presentation seen in this case is classic: an initial pharyngotonsillitis in a young person that was followed by swelling and tenderness along the sternocleidomastoid muscle, and sepsis due to a septic thrombus of the ipsilateral internal jugular vein. The illness is biphasic, such that within a week or so of the initial symptoms, patients develop high fevers and rigors signifying intravascular infection and embolic phenomena.
+Lemierre’s syndrome is a primary head and neck infection in a young, previously healthy person that goes on to cause septic thrombophlebitis of the internal jugular vein. The main pathogen is Fusobacterium necrophorum, an anaerobic gram-negative rod, but the infection can also be polymicrobial. The presentation seen in this case is classic: an initial pharyngotonsillitis in a young person that was followed by swelling and tenderness along the sternocleidomastoid muscle, and sepsis due to a septic thrombus of the ipsilateral internal jugular vein. The illness is biphasic, such that within a week or so of the initial symptoms, patients develop high fevers and rigors signifying intravascular infection and embolic phenomena.
 Fusobacterium necrophorum is part of the normal flora and it is not known why it penetrates the mucosa in some patients, but it is thought that reduced host defenses in the pharyngeal mucosa due to an unrelated pharyngitis may play a role. High-dose penicillin with metronidazole or clindamycin is often used; anticoagulation is typically not advised because of the risk of extension of the infection, except in cases of cavernous sinus involvement.
 Final Diagnosis
-Lemierre’s Syndrome (septic internal jugular vein thrombophlebitis), caused by Fusobacterium necrophorum .
+Lemierre’s Syndrome (septic internal jugular vein thrombophlebitis), caused by Fusobacterium necrophorum.
+References

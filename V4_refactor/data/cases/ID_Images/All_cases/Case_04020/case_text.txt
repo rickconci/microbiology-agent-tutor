@@ -8,19 +8,19 @@ None.
 Epidemiological History
 Six months before presentation, the patient had traveled to South America. The first three months of the trip were spent working with children in Peru and traveling to highland areas and Titicaca. During the fourth month, the patient traveled to Bolivia and the jungle area in Rurrenabaque before returning to the United States in the late spring.
 Physical Examination
-The patient appeared well. There was a single 4 x 5 centimeter ulcerated lesion with heaped-up margins and violaceous base immediately below the right patella ( Figures 1 and 2 ). There was no surrounding erythema, lymphangitis or sporotrichoid manifestations noted. A lymph node (two-centimeters in diameter) was palpable in the right groin. The remainder of the examination was normal.
+The patient appeared well. There was a single 4 x 5 centimeter ulcerated lesion with heaped-up margins and violaceous base immediately below the right patella (Figures 1 and 2). There was no surrounding erythema, lymphangitis or sporotrichoid manifestations noted. A lymph node (two-centimeters in diameter) was palpable in the right groin. The remainder of the examination was normal.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Studies
 The white blood cell count was 7,600/mm³, with 63% leukocytes, 30% lymphocytes, 5% monocytes, and 2% eosinophils. Other laboratory tests, including hemoglobin, hematocrit, electrolytes, and testing for renal and liver function, were normal.
 Diagnostic Procedure(s) and Result(s)
-A skin biopsy was positive for Leishmania braziliensis .
+A skin biopsy was positive for Leishmania braziliensis.
 Treatment and Followup
 Intravenous antimony was administered for twenty-one days, and the lesion resolved completely.
 Discussion
-The subacute development, in a returned traveler, of papules that coalesce into an ulcer without associated systemic symptomatology is characteristic of Leishmania infection. New World ( braziliensis, mexicana ) and Old World ( major, aethiopica, tropica, donovani ) Leishmania should be distinguished from one another. When Leishmania braziliensis is the causative agent, treatment may prevent remote recurrences in nasopharynx (bundia). The primary lesions heal spontaneously over many months and treatment is not indicated in most cases. The gold standard of treatment is 20mg/kg antimony intravenously per day for 20-28 days; proposed alternatives pentamadine, amphotericin, and ketoconazole have not been fully evaluated.
+The subacute development, in a returned traveler, of papules that coalesce into an ulcer without associated systemic symptomatology is characteristic of Leishmania infection. New World (braziliensis, mexicana) and Old World (major, aethiopica, tropica, donovani) Leishmania should be distinguished from one another. When Leishmania braziliensis is the causative agent, treatment may prevent remote recurrences in nasopharynx (bundia). The primary lesions heal spontaneously over many months and treatment is not indicated in most cases. The gold standard of treatment is 20mg/kg antimony intravenously per day for 20-28 days; proposed alternatives pentamadine, amphotericin, and ketoconazole have not been fully evaluated.
 Final Diagnosis
-Cutaneous New World Leishmaniasis, due to Leishmania braziliensis .
+Cutaneous New World Leishmaniasis, due to Leishmania braziliensis.
 References
 Magill, A.J. (2005). Cutaneous leishmaniasis in the returning traveler. Infect Dis Clin North Am 19, 241-266, x-xi.
-PMID:15701556 ( PubMed abstract )
+PMID:15701556(PubMed abstract)

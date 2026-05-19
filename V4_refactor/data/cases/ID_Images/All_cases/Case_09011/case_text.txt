@@ -15,14 +15,14 @@ Physical Examination
 The patient appeared thin. The temperature was 38.2°C (100.8°F), pulse 106 beats per minute, blood pressure 109/60 mm Hg and respirations 17 breaths per minute. The abdominal examination was normal; the rectal examination revealed slightly decreased anal tone and was otherwise normal, without bleeding or masses. The remainder of the examination was normal.
 Studies
 The leukocyte count was 12,000 per cubic millimeter (reference range 4,000-10,500) with neutrophils 34% (ref 40-74), band forms 14% (ref 0-10), lymphocytes 50% (ref 19-48) and monocytes 2% (ref 3-11), hemoglobin 10 grams per deciliter (ref 12.5 - 16.1), hematocrit 32% (ref 36-47), platelet count 738,000 per cubic millimeter (ref 130,000-400,000) and erythrocyte sedimentation rate 124 mm per hour (ref 0-15). The level of total protein was 8.6 grams per deciliter (ref 6.0-8.5), and albumin 3.2 grams per deciliter (ref 3.3-6.1). The C-reactive protein level was 3.5 mg per deciliter (ref less than or equal to 0.4). Other routine laboratory test results were normal.
-Computed tomography (CT) of the abdomen and pelvis after the administration of oral and intravenous contrast revealed findings suggestive of an enhancing lesion in the rectum ( Figures 1 and 2, arrows ), which was not homogeneous. A large amount of stool was present in the colon, and multiple small inguinal lymph nodes ( Figure 2, 'LN' ) were also noted.
+Computed tomography (CT) of the abdomen and pelvis after the administration of oral and intravenous contrast revealed findings suggestive of an enhancing lesion in the rectum (Figures 1 and 2, arrows), which was not homogeneous. A large amount of stool was present in the colon, and multiple small inguinal lymph nodes (Figure 2, 'LN') were also noted.
 Figure 1. CT of the pelvis.
 Figure 2. CT of the pelvis.
 Clinical Course Prior to Diagnosis
 A test for human immunodeficiency virus (HIV) test was positive, and the level of CD4 T-lymphocytes was 739 cells per cubic millimeter. The plasma level of HIV ribonucleic acid was 24,000 copies per milliliter.
 After receiving these test results, the patient reported having had receptive anal intercourse in the past, with a male partner that he met via the internet.
 Diagnostic Procedure(s) and Result(s)
-Colonoscopic examination to 75 centimeters from the anus revealed very edematous and friable rectal mucosa with nodularity. White plaque-like lesions were noted at approximately 5 to 7 cm, and an ulceration was visible at about 10-15 cm from the anus. Multiple samples were obtained for biopsy and microbiologic studies, including microscopic analysis of rectal, sigmoid and colonic tissue. Pathological examination with hematoxylin and eosin (H and E) stain ( Figure 3 ), revealed granulation tissue, with granulocytic, lymphocytic and plasmacytoid infiltration, and evidence of acute and chronic inflammation and mucosa-associated lymphoid tissue (MALT) hyperplasia. Gram’s, periodic acid-Schiff and acid-fast stains did not reveal any organisms. Routine bacterial and viral cultures were negative. Culture of tissue from the rectal biopsy for Chlamydia (done in cycloheximide-treated McCoy cells with culture confirmation with fluorescein-conjugated Chlamydia trachomatis species-specific monoclonal antibody) was positive. Nucleic acid amplification tests (NAAT) of the urine for Neisseria gonorrhoeae and C. trachomatis were negative.
+Colonoscopic examination to 75 centimeters from the anus revealed very edematous and friable rectal mucosa with nodularity. White plaque-like lesions were noted at approximately 5 to 7 cm, and an ulceration was visible at about 10-15 cm from the anus. Multiple samples were obtained for biopsy and microbiologic studies, including microscopic analysis of rectal, sigmoid and colonic tissue. Pathological examination with hematoxylin and eosin (H and E) stain (Figure 3), revealed granulation tissue, with granulocytic, lymphocytic and plasmacytoid infiltration, and evidence of acute and chronic inflammation and mucosa-associated lymphoid tissue (MALT) hyperplasia. Gram’s, periodic acid-Schiff and acid-fast stains did not reveal any organisms. Routine bacterial and viral cultures were negative. Culture of tissue from the rectal biopsy for Chlamydia (done in cycloheximide-treated McCoy cells with culture confirmation with fluorescein-conjugated Chlamydia trachomatis species-specific monoclonal antibody) was positive. Nucleic acid amplification tests (NAAT) of the urine for Neisseria gonorrhoeae and C. trachomatis were negative.
 Figure 3. H and E stain of biopsy.
 Treatment and Followup
 After the colonoscopic results were available, doxycycline (100 mg orally twice daily for three weeks) was administered, the currently recommended treatment [Centers for Disease Control and Prevention 2006, Mclean et al. 2007]. The patient’s symptoms improved within 48 hours of starting doxycycline and completely resolved within a week. The patient was followed in an adolescent HIV clinic. He was initially monitored off antiretroviral therapy, but subsequently started antiretroviral therapy after a decrease in his CD4 T-lymphocyte cell count.
@@ -35,15 +35,22 @@ Final Diagnosis
 Lymphogranuloma venereum (LGV) proctocolitis caused by Chlamydia trachomatis in an adolescent with human immunodeficiency virus (HIV) infection.
 References
 Kropp, R.Y., and Wong, T. (2005). Emergence of lymphogranuloma venereum in Canada. CMAJ 172, 1674-1676.
-PMID:15928239 ( PubMed abstract )
+PMID:15928239(PubMed abstract) McLean, C.A., Stoner, B.P., and Workowski, K.A. (2007). Treatment of lymphogranuloma venereum. Clin Infect Dis 44 Suppl 3, S147-152.
+PMID:17342667(PubMed abstract) Meyer, T., Arndt, R., von Krosigk, A., and Plettenberg, A. (2005). Repeated detection of lymphogranuloma venereum caused by Chlamydia trachomatis L2 in homosexual men in Hamburg. Sex Transm Infect 81, 91-92.
+PMID:15681732(PubMed abstract) New York City (NYC) Department of Health and Mental Hygiene (DOHMH) Bureau of. Sexually Transmitted Disease Control (BSTDC) Quarterly Report Vol 3, no.1, June 2005. Nieuwenhuis, R.F., Ossewaarde, J.M., Gotz, H.M., Dees, J., Thio, H.B., Thomeer, M.G., den Hollander, J.C., Neumann, M.H., and van der Meijden, W.I. (2004). Resurgence of lymphogranuloma venereum in Western Europe: an outbreak of Chlamydia trachomatis serovar l2 proctitis in The Netherlands among men who have sex with men. Clin Infect Dis 39, 996-1003.
+PMID:15472852(PubMed abstract) Ward, H., Martin, I., Macdonald, N., Alexander, S., Simms, I., Fenton, K., French, P., Dean, G., and Ison, C. (2007). Lymphogranuloma venereum in the United kingdom. Clin Infect Dis 44, 26-32.
+PMID:17143811(PubMed abstract) Workowski, K.A., and Berman, S.M. (2006). Sexually transmitted diseases treatment guidelines, 2006. MMWR Recomm Rep 55, 1-94.
+PMID:16888612(PubMed abstract)
+Kropp, R.Y., and Wong, T. (2005). Emergence of lymphogranuloma venereum in Canada. CMAJ 172, 1674-1676.
+PMID:15928239(PubMed abstract)
 McLean, C.A., Stoner, B.P., and Workowski, K.A. (2007). Treatment of lymphogranuloma venereum. Clin Infect Dis 44 Suppl 3, S147-152.
-PMID:17342667 ( PubMed abstract )
+PMID:17342667(PubMed abstract)
 Meyer, T., Arndt, R., von Krosigk, A., and Plettenberg, A. (2005). Repeated detection of lymphogranuloma venereum caused by Chlamydia trachomatis L2 in homosexual men in Hamburg. Sex Transm Infect 81, 91-92.
-PMID:15681732 ( PubMed abstract )
+PMID:15681732(PubMed abstract)
 New York City (NYC) Department of Health and Mental Hygiene (DOHMH) Bureau of. Sexually Transmitted Disease Control (BSTDC) Quarterly Report Vol 3, no.1, June 2005.
 Nieuwenhuis, R.F., Ossewaarde, J.M., Gotz, H.M., Dees, J., Thio, H.B., Thomeer, M.G., den Hollander, J.C., Neumann, M.H., and van der Meijden, W.I. (2004). Resurgence of lymphogranuloma venereum in Western Europe: an outbreak of Chlamydia trachomatis serovar l2 proctitis in The Netherlands among men who have sex with men. Clin Infect Dis 39, 996-1003.
-PMID:15472852 ( PubMed abstract )
+PMID:15472852(PubMed abstract)
 Ward, H., Martin, I., Macdonald, N., Alexander, S., Simms, I., Fenton, K., French, P., Dean, G., and Ison, C. (2007). Lymphogranuloma venereum in the United kingdom. Clin Infect Dis 44, 26-32.
-PMID:17143811 ( PubMed abstract )
+PMID:17143811(PubMed abstract)
 Workowski, K.A., and Berman, S.M. (2006). Sexually transmitted diseases treatment guidelines, 2006. MMWR Recomm Rep 55, 1-94.
-PMID:16888612 ( PubMed abstract )
+PMID:16888612(PubMed abstract)

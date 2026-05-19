@@ -6,13 +6,13 @@ There was a history of genital herpes simplex virus (HSV) and no known history o
 Epidemiological History
 The patient had immigrated to the United States from India more than ten years earlier. One week before presentation, he had returned from a three-week trip to India and Western Europe. He had stayed with family members while traveling; no one was ill during his stay. He denied sexual contact with anyone other than his wife and had had no exposure to animals.
 Physical Examination
-He appeared ill, but not toxic. The conjunctiva were injected; a vesicular rash had a preponderance of lesions on his face, back, and chest ( Figures 1 and 2 ). There were also ulcerated oral and genital lesions.
+He appeared ill, but not toxic. The conjunctiva were injected; a vesicular rash had a preponderance of lesions on his face, back, and chest (Figures 1 and 2). There were also ulcerated oral and genital lesions.
 Figure 1. Skin lesions.
 Figure 2. Skin lesions.
 Studies
 The white blood cell count was 6,300/mm³, hematocrit 44% and platelets 197,000/mm³. The level of serum chemistries, alkaline phosphatase, and bilirubin were normal. The aspartate aminotransferase (AST) was 61 U/L and alanine aminotransferase (ALT) was 58 U/L.
 Diagnostic Procedure(s) and Result(s)
-A direct fluorescent antibody (DFA) test was positive for varicella zoster virus (VZV).
+A direct fluorescent antibody (DFA) test was positive for varicella zoster virus (VZV). Figure 2. Skin lesions.
 Treatment and Followup
 The patient was treated with oral acyclovir.
 Discussion
@@ -23,6 +23,9 @@ Final Diagnosis
 Varicella (chickenpox) caused by varicella zoster virus (human herpes virus 3) infection.
 References
 Nalca, A., Rimoin, A.W., Bavari, S., and Whitehouse, C.A. (2005). Reemergence of monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 41, 1765-1771.
-PMID:16288402 ( PubMed abstract )
+PMID:16288402(PubMed abstract) Schmidt-Chanasit, J., and Sauerbrei, A. (2011). Evolution and world-wide distribution of varicella-zoster virus clades. Infect Genet Evol 11, 1-10.
+PMID:20817040(PubMed abstract)
+Nalca, A., Rimoin, A.W., Bavari, S., and Whitehouse, C.A. (2005). Reemergence of monkeypox: prevalence, diagnostics, and countermeasures. Clin Infect Dis 41, 1765-1771.
+PMID:16288402(PubMed abstract)
 Schmidt-Chanasit, J., and Sauerbrei, A. (2011). Evolution and world-wide distribution of varicella-zoster virus clades. Infect Genet Evol 11, 1-10.
-PMID:20817040 ( PubMed abstract )
+PMID:20817040(PubMed abstract)

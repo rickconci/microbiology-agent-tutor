@@ -49,10 +49,14 @@ Final Diagnosis
 Cutaneous Leishmaniasis
 References
 Aronson N, Herwaldt BL, Libman M, Pearson R, Lopez-Velez R, Weina P, Carvalho EM, Ephros M, Jeronimo S, Magill A. Diagnosis and Treatment of Leishmaniasis: Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). Clin Infect Dis. 2016 Dec 15;63(12):e202-e264. doi: 10.1093/cid/ciw670. Epub 2016 Nov 14. PMID: 27941151.
-PMID:27941151 ( PubMed abstract )
+PMID:27941151(PubMed abstract) Aronson N, Cutaneous leishmaniasis: Clinical manifestations and diagnosis. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.) 3. Boggild AK, Ramos AP, Espinosa D, Valencia BM, Veland N, Miranda-Verastegui C, Arevalo J, Low DE, Llanos-Cuentas A. Clinical and demographic stratification of test performance: a pooled analysis of five laboratory diagnostic methods for American cutaneous leishmaniasis. Am J Trop Med Hyg. 2010 Aug;83(2):345-50. doi: 10.4269/ajtmh.2010.09-0414. PMID: 20682880; PMCID: PMC2911183.
+PMID:20682880(PubMed abstract) Murray HW. Leishmaniasis in the United States: treatment in 2012. Am J Trop Med Hyg. 2012 Mar;86(3):434-40. doi: 10.4269/ajtmh.2012.11-0682. PMID: 22403313; PMCID: PMC3284358.
+PMID:22403313(PubMed abstract) Aronson N, Cutaneous leishmaniasis: Treatment. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.)
+Aronson N, Herwaldt BL, Libman M, Pearson R, Lopez-Velez R, Weina P, Carvalho EM, Ephros M, Jeronimo S, Magill A. Diagnosis and Treatment of Leishmaniasis: Clinical Practice Guidelines by the Infectious Diseases Society of America (IDSA) and the American Society of Tropical Medicine and Hygiene (ASTMH). Clin Infect Dis. 2016 Dec 15;63(12):e202-e264. doi: 10.1093/cid/ciw670. Epub 2016 Nov 14. PMID: 27941151.
+PMID:27941151(PubMed abstract)
 Aronson N, Cutaneous leishmaniasis: Clinical manifestations and diagnosis. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.)
 3. Boggild AK, Ramos AP, Espinosa D, Valencia BM, Veland N, Miranda-Verastegui C, Arevalo J, Low DE, Llanos-Cuentas A. Clinical and demographic stratification of test performance: a pooled analysis of five laboratory diagnostic methods for American cutaneous leishmaniasis. Am J Trop Med Hyg. 2010 Aug;83(2):345-50. doi: 10.4269/ajtmh.2010.09-0414. PMID: 20682880; PMCID: PMC2911183.
-PMID:20682880 ( PubMed abstract )
+PMID:20682880(PubMed abstract)
 Murray HW. Leishmaniasis in the United States: treatment in 2012. Am J Trop Med Hyg. 2012 Mar;86(3):434-40. doi: 10.4269/ajtmh.2012.11-0682. PMID: 22403313; PMCID: PMC3284358.
-PMID:22403313 ( PubMed abstract )
+PMID:22403313(PubMed abstract)
 Aronson N, Cutaneous leishmaniasis: Treatment. In: UpToDate, Connor RF (Ed), Wolters Kluwer. (Accessed on April 30, 2025.)

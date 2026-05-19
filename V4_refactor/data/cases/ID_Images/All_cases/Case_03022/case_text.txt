@@ -10,21 +10,22 @@ She was born in Guyana, and had immigrated to the United States 50 years before.
 Physical Examination
 The patient appeared weak. The blood pressure was 113/63 mm/Hg, temperature 99.7°F (37.6°C), pulse 70 beats per minute and regular, and respirations 16 breaths per minute. The chest was dull to percussion, and there was reduced air entry at both lung bases posteriorly. Extremities showed bilateral leg pitting edema. The foley catheter drained white-colored urine. The remainder of the examination was normal.
 Studies
-The white blood cell count (WBC) was 6,900/mm³, hemoglobin 15.7 gm/dl, and platelet count 264,000/mm³. The sodium was 122 mmol/l, and tests of liver and renal function were normal. Urinalysis revealed a turbid and whitish color and was positive for blood and protein. (See Figure 1 , with the patient's urine on the right, and normal urine on the left.) Urine microscopy showed 5-10 white cells per high-power field (HPF) and red blood cells were too numerous to count per HPF. The total 24-hour urine protein was 8.6 gm. She had evidence of chyluria.
-A chest radiograph showed small bilateral pleural effusions. Computed tomography (CT) of the abdomen and pelvis revealed extensive bilateral retroperitoneal low attenuation density and a right simple renal cyst ( Figure 2 ). A transthoracic echocardiogram was normal.
+The white blood cell count (WBC) was 6,900/mm³, hemoglobin 15.7 gm/dl, and platelet count 264,000/mm³. The sodium was 122 mmol/l, and tests of liver and renal function were normal. Urinalysis revealed a turbid and whitish color and was positive for blood and protein. (See Figure 1, with the patient's urine on the right, and normal urine on the left.) Urine microscopy showed 5-10 white cells per high-power field (HPF) and red blood cells were too numerous to count per HPF. The total 24-hour urine protein was 8.6 gm. She had evidence of chyluria.
+A chest radiograph showed small bilateral pleural effusions. Computed tomography (CT) of the abdomen and pelvis revealed extensive bilateral retroperitoneal low attenuation density and a right simple renal cyst (Figure 2). A transthoracic echocardiogram was normal.
 Figure 1. Patient's urine on the right.
 Figure 2. Abdominal CT scan.
 Clinical Course Prior to Diagnosis
 During the hospitalization, the blood pressure was borderline low. The level of potassium was mildly elevated; the level of serum cortisol was normal.
 Diagnostic Procedure(s) and Result(s)
-Examination of a blood smear obtained during the night was positive for Wuchereria bancrofti ( Figure 3 ). Filarial serology revealed a high IgG titer.
+Examination of a blood smear obtained during the night was positive for Wuchereria bancrofti (Figure 3). Filarial serology revealed a high IgG titer.
 Figure 3. Blood smear.
 Treatment and Followup
 The patient was treated with diethylcarbamazine (DEC) for 14 days, with partial resolution of chyluria. She was readmitted with chyluria and hyponatremia, and was treated with DEC again. She also received intrarenal pelvic instillation of silver nitrate. Her condition improved with resolution of her chyluria at three months follow-up.
 Discussion
 Lymphatic filariasis results from infection with vector-borne tissue-dwelling nematodes called filariae. Adult filariae may live in the lymphatic, blood vessels, connective tissue or serous membranes.
-There are three species: Wuchereria bancrofti , Brugia malayi and Brugia timori .
+There are three species: Wuchereria bancrofti, Brugia malayi and Brugia timori.
 Chyluria, the presence of chyle in the urine, follows the rupture of dilated lymphatics into the urinary excretory system. Hematochyluria or chyluria mainly develops as a late complication of filarial infection. Diagnosis is based on finding microfilaria on blood smears. Specimens obtained during the night (between 2100 and 0300 hours) are most likely to show the parasite. Enzyme-linked immunosorbent assay (ELISA) for circulating filarial antigen and polymerase chain reaction assay are useful tests as well.
 Treatment of filariasis aims to prevent and/or reverse the progression of disease. Antiparasitic drugs used include diethylcarbamazine (DEC) and ivermectin. Clinically, the most effective treatment of chyluria is renal pedicle lymphatic disconnection. An alternative treatment is intrarenal pelvic instillation of silver nitrate.
 Final Diagnosis
-Filariasis due to Wuchereria bancrofti .
+Filariasis due to Wuchereria bancrofti.
+References

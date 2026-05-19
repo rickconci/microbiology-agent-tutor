@@ -4,14 +4,14 @@ A man in his twenties presented with a one-month history of a nodular exanthem t
 Epidemiological History
 He had immigrated to the United States from an island in the Pacific two years before. There was no history of illicit drug use, or exposures to pets or other animals.
 Physical Examination
-He appeared well-nourished. The temperature was normal. There were erythematous maculopapular lesions on his forehead and malar areas, right tragus and pinna. A confluent, raised plaque-like area along the right forearm had decreased sensation to pinprick testing. There was a similar nodule on the dorsum of the right second metacarpophalangeal (MCP) joint, with synovial thickening along the extensor digitorum longus tendons. (See Figures 1, 2, and 3 .) The remainder of the examination was normal.
+He appeared well-nourished. The temperature was normal. There were erythematous maculopapular lesions on his forehead and malar areas, right tragus and pinna. A confluent, raised plaque-like area along the right forearm had decreased sensation to pinprick testing. There was a similar nodule on the dorsum of the right second metacarpophalangeal (MCP) joint, with synovial thickening along the extensor digitorum longus tendons. (See Figures 1, 2, and 3.) The remainder of the examination was normal.
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Figure 3. Physical finding.
 Studies
 Testing for antibodies to human immunodeficiency virus (HIV) was negative. Test results for the complete blood count (CBC) and serum chemistries were normal.
 Diagnostic Procedure(s) and Result(s)
-A skin biopsy was performed, and pathologicial examination of the tissue with Kinyoun stain is shown ( Figure 4 ), revealing organisms consistent with Mycobacterium leprae .
+A skin biopsy was performed, and pathologicial examination of the tissue with Kinyoun stain is shown (Figure 4), revealing organisms consistent with Mycobacterium leprae.
 Figure 4. Kinyoun stain of skin biopsy.
 Treatment and Followup
 The patient was treated with dapsone, rifampin and clofazimine. At one-month follow-up, lesions were regressing in size and erythema, and no new neurologic lesions had developed.
@@ -21,6 +21,9 @@ Final Diagnosis
 Lepromatous leprosy.
 References
 Boggild, A.K., Correia, J.D., Keystone, J.S., and Kain, K.C. (2004). Leprosy in Toronto: an analysis of 184 imported cases. CMAJ 170, 55-59.
-PMID:14707220 ( PubMed abstract )
+PMID:14707220(PubMed abstract) Walker SL, Lockwood DN. Leprosy. Clin Dermatol. 2007 Mar-Apr;25(2):165-72.
+PMID:17350495(PubMed abstract)
+Boggild, A.K., Correia, J.D., Keystone, J.S., and Kain, K.C. (2004). Leprosy in Toronto: an analysis of 184 imported cases. CMAJ 170, 55-59.
+PMID:14707220(PubMed abstract)
 Walker SL, Lockwood DN. Leprosy. Clin Dermatol. 2007 Mar-Apr;25(2):165-72.
-PMID:17350495 ( PubMed abstract )
+PMID:17350495(PubMed abstract)

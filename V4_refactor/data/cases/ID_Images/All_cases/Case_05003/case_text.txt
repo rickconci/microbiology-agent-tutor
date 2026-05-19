@@ -8,20 +8,21 @@ He was retired and enjoyed sports.
 Epidemiological History
 He had recently traveled to Spain.
 Physical Examination
-The vital signs were normal. There were scattered nodular erythematous lesions with superficial ulceration on the lower extremities, as shown in Figure 1 .
+The vital signs were normal. There were scattered nodular erythematous lesions with superficial ulceration on the lower extremities, as shown in Figure 1.
 Figure 1. Physical finding.
 Studies
 The white blood cell count was 15,000 cells/mm³ with 12% blasts.
 Clinical Course Prior to Diagnosis
-A skin biopsy was performed ( Figures 2 and 3 ).
+A skin biopsy was performed (Figures 2 and 3).
 Figure 2. Biopsy result.
 Figure 3. Biopsy result.
 Diagnostic Procedure(s) and Result(s)
-A skin biopsy revealed a neutrophilic infiltrate and granules consistent with basophilic cocci surrounded by an eosinophilic coat, typical of the Splendore-Hoeppli phenomenon ( Figures 2 and 3 ). Culture grew Staphylococcus aureus .
+A skin biopsy revealed a neutrophilic infiltrate and granules consistent with basophilic cocci surrounded by an eosinophilic coat, typical of the Splendore-Hoeppli phenomenon (Figures 2 and 3). Culture grew Staphylococcus aureus.
 Treatment and Followup
 The patient was treated for six weeks with anti-staphylococcal antibiotics, and the lesions resolved. He then underwent a bone marrow transplant as treatment for his myelodysplastic syndrome (MDS) associated acute myelogenous leukemia (AML).
 Discussion
 Pyoderma gangrenosum and Sweet's syndrome are non-infectious dermatoses. Thus, the presence of gram positive cocci excludes these diagnoses. Myiasis and Leishmaniasis are associated with epidemiologic exposures that are absent in this case.
-Botryomycosis, a chronic suppurative bacterial infection, may present with recurring scattered papular and nodular skin or soft tissue lesions. It often occurs in immunosuppressed patients and is commonly caused by Staphylococcus aureus . Successful treatment requires a prolonged course of antibiotics. The Splendore-Hoeppli phenomenon is the characteristic finding on biopsy and superficially resembles a sulfur granule of actinomycosis. Rarely, botryomycosis may present with visceral disease, such as in the lung.
+Botryomycosis, a chronic suppurative bacterial infection, may present with recurring scattered papular and nodular skin or soft tissue lesions. It often occurs in immunosuppressed patients and is commonly caused by Staphylococcus aureus. Successful treatment requires a prolonged course of antibiotics. The Splendore-Hoeppli phenomenon is the characteristic finding on biopsy and superficially resembles a sulfur granule of actinomycosis. Rarely, botryomycosis may present with visceral disease, such as in the lung.
 Final Diagnosis
 Botryomycosis secondary to Staphylococcus aureus infection.
+References

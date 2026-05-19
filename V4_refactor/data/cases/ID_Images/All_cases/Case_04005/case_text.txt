@@ -7,11 +7,11 @@ He had worked in a factory in the Northeast United States since his arrival.
 Physical Examination
 The patient appeared well and was in no acute distress. The temperature was 96.2°F (35.7°C), pulse 56 per minute, respirations 14 per minute, oxygen saturation 98% on ambient air, and blood pressure 110/68 mm Hg. There was mild meningismus, and the remainder of the examination was normal.
 Studies
-The white blood cell count (WBC) was 8,000/mm³ with 66% neutrophils, 20% lymphocytes, and 7% eosinophils. A lumbar puncture showed 418 white blood cells per high-powered field with 0% neutrophils, 59% lymphocytes, 4% monocytes, 29% eosinophils, and 7% large atypical mononuclear cells with marked basophilic cytoplasm and irregularly shaped prominent neucleoli. (See Figures 1 and 2 .) PPD testing was negative.
+The white blood cell count (WBC) was 8,000/mm³ with 66% neutrophils, 20% lymphocytes, and 7% eosinophils. A lumbar puncture showed 418 white blood cells per high-powered field with 0% neutrophils, 59% lymphocytes, 4% monocytes, 29% eosinophils, and 7% large atypical mononuclear cells with marked basophilic cytoplasm and irregularly shaped prominent neucleoli. (See Figures 1 and 2.) PPD testing was negative.
 Figure 1. Cerebrospinal fluid.
 Figure 2. Cerebrospinal fluid.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) scanning of the head showed no obvious lesions or calcifications, and chest and abdominal CT scans were normal. Magnetic resonance imaging (MRI) showed a left temporal extraaxial cystic lesion ( Figure 3 ).
+Computed tomography (CT) scanning of the head showed no obvious lesions or calcifications, and chest and abdominal CT scans were normal. Magnetic resonance imaging (MRI) showed a left temporal extraaxial cystic lesion (Figure 3).
 Figure 3. Brain MRI scan.
 Diagnostic Procedure(s) and Result(s)
 Cysticercosis immunoblot testing of the serum was positive.
@@ -19,20 +19,26 @@ Treatment and Followup
 Neurosurgical and ophthalmologic evaluations were obtained. A tapering course of steroids was started two days before the treatment for cysticercosis began. The patient then received eight days of albendazole. In addition, ivermectin was administered for two days to prevent dissemination of Strongyloides since co-infection with this helminth could not be excluded in a timely manner. (Serology is the most sensitive test for Strongyloides, but this was expected to take several weeks to return).
 The PPD was negative and therefore the patient did not need to receive prophylactic isoniazid (INH) therapy.
 Discussion
-Eosinophilic meningitis is defined by the presence of ten or more eosinophils per microliter in the cerebrospinal fluid (CSF) or eosinophilia of at least 10% of the total CSF leukocyte count. Parasites account for a large percentage of eosinophilic meningitis from the developing world, and the prevalence of neurocysticercosis, caused by the tapeworm Taenia solium , is very high in this population.
-Other possible infectious causes of eosinophilic meningitis include Angiostrongylus cantonensis , the rat lungworm, which is the most common cause of eosinophilic meningitis worldwide. It is found primarily in Southeast Asia and the Pacific Basin; however, ship-borne migration of rats has led to the spread of this disease outside of this area. In 2002, a report of an outbreak which occurred among U.S. travelers returning from Jamaica appeared in the New England Journal of Medicine. The larvae are obtained by consuming raw snails that have fed upon the excrement of rats. The hallmark neurological features of angiostrongyliasis are facial and ophthalmologic palsies and truncal and extremity paresthesias.
-Gnathostomiasis is another condition that can lead to eosinophilic meningitis. It is caused by the tissue nematode Gnathostoma spingerum . This parasite is endemic in southeast Asia and southern China but has also been identified in parts of Latin America. Humans acquire the disease by consuming raw or inadequately cooked freshwater fish, poultry or pork that harbor the larvae. Unlike Angiostrongylus , G. spingerum does not migrate to neural tissue as part of its life cycle but becomes trapped there on an accidental route. This parasite is much larger and therefore has a more destructive course. Intraparenchymal hemorrhage is more common as well as permanent neurological deficits.
-Baylisascariasis has also been associated with fatal cases of meningoencephalitis. The parasite Baylisascaris procyonis is a raccoon ascarid, and is found in humans who have consumed soil material in areas close to raccoon habitats. The severity of the disease depends upon the number of eggs ingested. Other causes of eosinophilic meningitis include infection with other helminths (such as neurotrichinosis, paragonimiasis, cerebral toxicariasis, and cerebral and spinal schistosomiasis) and fungal meningitis due to Coccidioides immitis .
+Eosinophilic meningitis is defined by the presence of ten or more eosinophils per microliter in the cerebrospinal fluid (CSF) or eosinophilia of at least 10% of the total CSF leukocyte count. Parasites account for a large percentage of eosinophilic meningitis from the developing world, and the prevalence of neurocysticercosis, caused by the tapeworm Taenia solium, is very high in this population.
+Other possible infectious causes of eosinophilic meningitis include Angiostrongylus cantonensis, the rat lungworm, which is the most common cause of eosinophilic meningitis worldwide. It is found primarily in Southeast Asia and the Pacific Basin; however, ship-borne migration of rats has led to the spread of this disease outside of this area. In 2002, a report of an outbreak which occurred among U.S. travelers returning from Jamaica appeared in the New England Journal of Medicine. The larvae are obtained by consuming raw snails that have fed upon the excrement of rats. The hallmark neurological features of angiostrongyliasis are facial and ophthalmologic palsies and truncal and extremity paresthesias.
+Gnathostomiasis is another condition that can lead to eosinophilic meningitis. It is caused by the tissue nematode Gnathostoma spingerum. This parasite is endemic in southeast Asia and southern China but has also been identified in parts of Latin America. Humans acquire the disease by consuming raw or inadequately cooked freshwater fish, poultry or pork that harbor the larvae. Unlike Angiostrongylus, G. spingerum does not migrate to neural tissue as part of its life cycle but becomes trapped there on an accidental route. This parasite is much larger and therefore has a more destructive course. Intraparenchymal hemorrhage is more common as well as permanent neurological deficits.
+Baylisascariasis has also been associated with fatal cases of meningoencephalitis. The parasite Baylisascaris procyonis is a raccoon ascarid, and is found in humans who have consumed soil material in areas close to raccoon habitats. The severity of the disease depends upon the number of eggs ingested. Other causes of eosinophilic meningitis include infection with other helminths (such as neurotrichinosis, paragonimiasis, cerebral toxicariasis, and cerebral and spinal schistosomiasis) and fungal meningitis due to Coccidioides immitis.
 Final Diagnosis
-Eosinophilic meningitis due to neurocysticercosis, consistent with infection by the tapeworm Taenia solium .
+Eosinophilic meningitis due to neurocysticercosis, consistent with infection by the tapeworm Taenia solium.
 References
 Carabin, H., Ndimubanzi, P.C., Budke, C.M., Nguyen, H., Qian, Y., Cowan, L.D., Stoner, J.A., Rainwater, E., and Dickey, M. (2011). Clinical manifestations associated with neurocysticercosis: a systematic review. PLoS Negl Trop Dis 5, e1152.
-PMID:21629722 ( PubMed abstract )
+PMID:21629722(PubMed abstract) Lo Re, V., 3rd, and Gluckman, S.J. (2003). Eosinophilic meningitis. Am J Med 114, 217-223.
+PMID:12637136(PubMed abstract) Nash, T.E., and Garcia, H.H. (2011). Diagnosis and treatment of neurocysticercosis. Nat Rev Neurol 7, 584-594.
+PMID:21912406(PubMed abstract) Ramirez-Avila, L., Slome, S., Schuster, F.L., Gavali, S., Schantz, P.M., Sejvar, J., and Glaser, C.A. (2009). Eosinophilic meningitis due to Angiostrongylus and Gnathostoma species. Clin Infect Dis 48, 322-327.
+PMID:19123863(PubMed abstract) Slom, T.J., Cortese, M.M., Gerber, S.I., Jones, R.C., Holtz, T.H., Lopez, A.S., Zambrano, C.H., Sufit, R.L., Sakolvaree, Y., Chaicumpa, W., Herwaldt, B.L., and Johnson, S. (2002). An outbreak of eosinophilic meningitis caused by Angiostrongylus cantonensis in travelers returning from the Caribbean. N Engl J Med 346, 668-675.
+PMID:11870244(PubMed abstract)
+Carabin, H., Ndimubanzi, P.C., Budke, C.M., Nguyen, H., Qian, Y., Cowan, L.D., Stoner, J.A., Rainwater, E., and Dickey, M. (2011). Clinical manifestations associated with neurocysticercosis: a systematic review. PLoS Negl Trop Dis 5, e1152.
+PMID:21629722(PubMed abstract)
 Lo Re, V., 3rd, and Gluckman, S.J. (2003). Eosinophilic meningitis. Am J Med 114, 217-223.
-PMID:12637136 ( PubMed abstract )
+PMID:12637136(PubMed abstract)
 Nash, T.E., and Garcia, H.H. (2011). Diagnosis and treatment of neurocysticercosis. Nat Rev Neurol 7, 584-594.
-PMID:21912406 ( PubMed abstract )
+PMID:21912406(PubMed abstract)
 Ramirez-Avila, L., Slome, S., Schuster, F.L., Gavali, S., Schantz, P.M., Sejvar, J., and Glaser, C.A. (2009). Eosinophilic meningitis due to Angiostrongylus and Gnathostoma species. Clin Infect Dis 48, 322-327.
-PMID:19123863 ( PubMed abstract )
+PMID:19123863(PubMed abstract)
 Slom, T.J., Cortese, M.M., Gerber, S.I., Jones, R.C., Holtz, T.H., Lopez, A.S., Zambrano, C.H., Sufit, R.L., Sakolvaree, Y., Chaicumpa, W., Herwaldt, B.L., and Johnson, S. (2002). An outbreak of eosinophilic meningitis caused by Angiostrongylus cantonensis in travelers returning from the Caribbean. N Engl J Med 346, 668-675.
-PMID:11870244 ( PubMed abstract )
+PMID:11870244(PubMed abstract)

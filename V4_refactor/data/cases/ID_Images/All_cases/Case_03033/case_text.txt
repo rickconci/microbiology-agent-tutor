@@ -12,15 +12,16 @@ The white blood cell count (WBC) count and differential were normal. Other hemat
 Figure 1. Neck CT scan.
 Figure 2. Chest CT scan.
 Clinical Course Prior to Diagnosis
-An excisional biopsy of an enlarged lymph node was performed. Following appropriate treatment, the lesions recurred six months later as shown in Figures 3 and 4 .
+An excisional biopsy of an enlarged lymph node was performed. Following appropriate treatment, the lesions recurred six months later as shown in Figures 3 and 4.
 Figure 3. Physical findings.
 Figure 4. Physical finding.
 Diagnostic Procedure(s) and Result(s)
-Excisional biopsy showed necrotizing granulomatous lymphadenitis. Acid-fast bacillus (AFB) stain of the biopsy was positive. Culture of biopsy was positive for Mycobacterium tuberculosis .
+Excisional biopsy showed necrotizing granulomatous lymphadenitis. Acid-fast bacillus (AFB) stain of the biopsy was positive. Culture of biopsy was positive for Mycobacterium tuberculosis.
 Treatment and Followup
 He was treated with rifampin, pyrazinamide, ethambutol and isoniazid (INH) for 6 months, with recurrence 12 months later. He was re-treated with the same four drugs for an additional 6 months.
 Discussion
-Scrofuloderma results from contiguous extension from an underlying tuberculous focus due to infection with Mycobacterium tuberculosis and Mycobacterium bovis . The overlying tissue starts as a red-brown nodule and then becomes indurated and breaks down. The resulting ulcers and sinuses may drain watery, purulent or caseous material. It is often associated with pulmonary tuberculosis.
+Scrofuloderma results from contiguous extension from an underlying tuberculous focus due to infection with Mycobacterium tuberculosis and Mycobacterium bovis. The overlying tissue starts as a red-brown nodule and then becomes indurated and breaks down. The resulting ulcers and sinuses may drain watery, purulent or caseous material. It is often associated with pulmonary tuberculosis.
 Mycobacterium bovis from unpasteurized milk may cause scrofuloderma involving the cervical lymph nodes in developing nations. Biopsy of the lesions shows necrosis with abscess formation with numerous acid-fast bacilli. The patient is often PPD positive. The lesions may heal spontaneously over the course of years.
 Final Diagnosis
 Scrofuloderma with underlying pulmonary tuberculosis caused by Mycobacterium tuberculosis.
+References

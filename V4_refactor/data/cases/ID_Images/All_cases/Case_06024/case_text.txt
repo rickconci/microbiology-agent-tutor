@@ -16,26 +16,30 @@ The patient appeared well. The temperature was 99.8°F (37.7°C), blood pressure
 Studies
 On admission, the white blood cell count was 12,400 cells/mm³ with 81% leukocytes, 12% lymphocytes, and 7% monocytes. Hemoglobin was 11.9 gm/dL, hematocrit 34.3% and platelet count 388,000/mm³. The mean corpuscular volume was normal. The erythrocyte sedimentation rate was 100 millimeters per hour. Tests of liver function were normal. Cultures of the urine and blood were negative, including cultures for Bartonella and Brucella. A chest radiograph was normal. Testing for heterophile antibody, Lyme antibody, thick and thin smears for Babesia, and serologic testing for syphilis (RPR) and HIV infection were negative. Rheumatoid factor and anti-nuclear antibodies were also negative.
 Clinical Course Prior to Diagnosis
-Results of computed tomography (CT) of the abdomen are shown in Figures 1 and 2 .
+Results of computed tomography (CT) of the abdomen are shown in Figures 1 and 2.
 Figure 1. CT scan of the abdomen.
 Figure 2. CT scan of the abdomen.
 Diagnostic Procedure(s) and Result(s)
 CT scanning of the abdomen revealed a large-attenuating abnormality in the right lobe of the liver that measured 10.2 centimeters (cm) by 6.6 cm. The abnormality was surrounded by a hypodense rim and had a multiloculated appearance, which was strongly suggestive of a pyogenic hepatic abscess. In addition, there was a dilated tubular structure emanating from the base of the cecum, separate from the terminal ileum, with a calcified rim strongly suspicious for a mucocele of the appendix.
-The liver abscess was aspirated and cytological examination of the aspirate showed abundant necrotic debris and neutrophils consistent with pyogenic abscess. Pathological examination showed no evidence of other organisms besides bacteria and no malignant cells were identified. A gram stain of the aspirate is shown in Figure 3 . Culture of the material grew methicillin-sensitive Staphylococcus aureus . Testing for Entamoeba histolytica and Echinococcus was negative.
+The liver abscess was aspirated and cytological examination of the aspirate showed abundant necrotic debris and neutrophils consistent with pyogenic abscess. Pathological examination showed no evidence of other organisms besides bacteria and no malignant cells were identified. A gram stain of the aspirate is shown in Figure 3. Culture of the material grew methicillin-sensitive Staphylococcus aureus. Testing for Entamoeba histolytica and Echinococcus was negative.
 Figure 3. Gram stain of liver abscess aspirate.
 Treatment and Followup
 The patient was treated with a two-week course of intravenous ceftriaxone and metronidazole, followed by oral dicloxacillin for an additional two weeks. The patient did well with resolution of the fevers, increasing energy levels, and weight gain.
-Follow up CT scanning of the abdomen, shown in Figure 4 , revealed evidence of a resolving liver infarct in the posterior aspect of the right hepatic lobe associated with thrombosis of the branch of right portal vein. Four months after his presentation, laparoscopic appendectomy revealed a low-grade appendiceal mucinous neoplasm. Hematoxylin and eosin staining of the resected appendix is shown in Figure 5 .
+Follow up CT scanning of the abdomen, shown in Figure 4, revealed evidence of a resolving liver infarct in the posterior aspect of the right hepatic lobe associated with thrombosis of the branch of right portal vein. Four months after his presentation, laparoscopic appendectomy revealed a low-grade appendiceal mucinous neoplasm. Hematoxylin and eosin staining of the resected appendix is shown in Figure 5.
 Figure 4. Follow-up CT scan of the abdomen.
 Figure 5. H and E stain of mucocele of the appendix.
 Discussion
 Pyogenic liver abscess is most commonly due to Enterobacteriaceae and anaerobes, and is often a polymicrobial infection. Staphylococcus aureus is an uncommon cause of pyogenic liver abscess, accounting for less than 10% of cases. Cases of S. aureus liver abscess tend to be monomicrobial.
 Final Diagnosis
-Liver abscess secondary to methicillin-sensitive Staphylococcus aureus , with an underlying appendiceal mucinous neoplasm.
+Liver abscess secondary to methicillin-sensitive Staphylococcus aureus, with an underlying appendiceal mucinous neoplasm.
 References
 Harnik, I.G. (2007). Pyogenic liver abscess presenting after malignant polypectomy. Dig Dis Sci 52, 3524-3525.
-PMID:17406839 ( PubMed abstract )
+PMID:17406839(PubMed abstract) Heneghan, H.M., Healy, N.A., Martin, S.T., Ryan, R.S., Nolan, N., Traynor, O., and Waldron, R. (2011). Modern management of pyogenic hepatic abscess: a case series and review of the literature. BMC Res Notes 4, 80.
+PMID:21435221(PubMed abstract) Perez, M.J., Carrillo, J.L., Montin, I.M., and Castellano, A.D. (2007). Liver abscess due to ileocecal perforation: a case report with literature review. Emerg Radiol 14, 241-243.
+PMID:17384970(PubMed abstract)
+Harnik, I.G. (2007). Pyogenic liver abscess presenting after malignant polypectomy. Dig Dis Sci 52, 3524-3525.
+PMID:17406839(PubMed abstract)
 Heneghan, H.M., Healy, N.A., Martin, S.T., Ryan, R.S., Nolan, N., Traynor, O., and Waldron, R. (2011). Modern management of pyogenic hepatic abscess: a case series and review of the literature. BMC Res Notes 4, 80.
-PMID:21435221 ( PubMed abstract )
+PMID:21435221(PubMed abstract)
 Perez, M.J., Carrillo, J.L., Montin, I.M., and Castellano, A.D. (2007). Liver abscess due to ileocecal perforation: a case report with literature review. Emerg Radiol 14, 241-243.
-PMID:17384970 ( PubMed abstract )
+PMID:17384970(PubMed abstract)

@@ -9,21 +9,24 @@ She lived with her husband in a community outside the city, they have no pets at
 Physical Examination
 The patient appeared generally frail, with a low mood but no acute distress. Her blood pressure was 144/78, pulse 96 beats per minute, respirations 16 per minute with normal oxygen saturation. Temperature was 38.1°C (100.5°F), with maximal temperature of 39.1°C (102.2°F) two days prior to assessment. Cardiac and respiratory exam were within normal limits. The site of her indwelling peripheral vascular access had some erythema without fluctuance or purulent drainage. She had a diffuse papular erythematous rash on her posterior scalp which was non-tender and blanchable (Fig 1). This rash was also present on her abdomen, chest and thighs, though more petechial in appearance (Fig 2).
 Figure 1. Figure 1: Photograph of the raised papular rash on the posterior scalp
+Figure 1: Photograph of the raised papular rash on the posterior scalp
 Figure 2. Figure 2: Photograph of petechial rash on upper thighs
+Figure 2: Photograph of petechial rash on upper thighs
 Figure 3. Figure 3: Photographs of the right ankle showing swelling and petechiae
+Figure 3: Photographs of the right ankle showing swelling and petechiae
 Studies
 The total white blood cell count was less than 0.1 x 10^9/L (reference range (RR) 3.5-10.5), hemoglobin was 82 g/L (RR 115-155). Her platelets were less than 10 x10^9/L (RR 130-380). Electrolytes were normal, creatinine 89 umol/L (RR 22-75) or 1.01 mg/dL (RR 0.5-1.0). Her aspartate aminotransferase was 101 U/L (RR 15-37), alanine transaminase was 88 U/L (RR 17-62), alkaline phosphatase was 328 U/L (RR 50-136), gamma-glutamyl transferase was 352 U/L (RR 5-55) and total bilirubin 8 umol/L (RR 3-17) or 0.47 mg/dL (RR 0.2-1.2).
 A chest radiograph revealed no acute intrathoracic pathology. Computed tomography of the chest showed mild interstitial pulmonary edema, but no infective focus in the lungs and no pulmonary embolism. Computed tomography of the abdomen showed fluid-filled distended loops of large bowel, with normal caliber small bowel loops. Ultrasound of the abdomen showed normal echogenicity of the liver and a normal biliary tree, with a moderate amount of ascites in the pelvis.
 Clinical Course Prior to Diagnosis
 After development of the rash, piperacillin-tazobactam was discontinued as it was suspected she had a drug eruption. She progressed to develop anemia (hemoglobin below 80 g/L) requiring two units of packed red blood cells, as well as progression of her diffuse papular facial rash. She underwent routine bone marrow aspiration and biopsy on day 3 as part of her chemotherapy reinduction protocol for treatment refractory ALL. Repeat induction chemotherapy (idarubicin and fludarabine) was initiated on illness day 6, and within the next week she developed severe fatigue, oligoarthritis (right ankle), progressing to polyarthritis (including the joints of her hands), as well as a purpuric rash on her legs (Fig 3). As her neutropenia worsened post-reinduction, she underwent septic work-up multiple times for fevers without an identifiable source. She required six more transfusions of packed red blood cells for anemia, as well as intermittent platelet transfusions for thrombocytopenia.
 Diagnostic Procedure(s) and Result(s)
-Initial microbiology results :
+Initial microbiology results:
 o Blood cultures: Negative after 5 days of growth
 o Clostridium difficile assay: negative
 o Nasopharyngeal swab: negative for influenza virus A and B, respiratory syncytial virus, adenovirus, human metapneumovirus, enterovirus, parainfluenza viruses 1-4, rhinovirus, and coronavirus NL63 and 229E
-Bone marrow biopsy (done on day 3 as part of chemotherapy protocol) results :
+Bone marrow biopsy (done on day 3 as part of chemotherapy protocol) results:
 o Hypocellular marrow with persistent leukemia and severely reduced erythroid precursors. These are abnormally large with prominent nuclear inclusions suspicious for viral inclusions (Fig 4-5).
-Additional microbiology results drawn after bone marrow biopsy :
+Additional microbiology results drawn after bone marrow biopsy:
 o Parvovirus B19 PCR (drawn on day 4): DNA detected
 o Parvovirus B19 serology (drawn day 10): Parvovirus B19 IgG antibody reactive, Parvovirus B19 IgM antibody non-reactive
 o Parvovirus immunohistochemistry positive on bone marrow biopsy (Fig 6)
@@ -32,8 +35,11 @@ o HIV serology: non-reactive
 o Hepatitis B core total antibody non-reactive, surface antigen non-reactive, surface antibody 307 IU/L
 o Hepatitis C virus antibody: non-reactive
 Figure 4. Figure 4: Wright-Giemsa stain of bone marrow aspirate showing large parvovirus B19 erythroblast
+Figure 4: Wright-Giemsa stain of bone marrow aspirate showing large parvovirus B19 erythroblast
 Figure 5. Figure 5: Trephine hematoxylin and eosin staining showing parvovirus inclusion body
+Figure 5: Trephine hematoxylin and eosin staining showing parvovirus inclusion body
 Figure 6. Figure 6: Parvovirus immunohistochemistry positive on bone marrow biopsy
+Figure 6: Parvovirus immunohistochemistry positive on bone marrow biopsy
 Treatment and Followup
 On further questioning, the patient’s daughter had been diagnosed with “slapped cheeks” around the time of a recent visit, ten days preceding the development of symptoms, while the patient was neutropenic. This daughter had multiple young children, and according to the patient, at least half of them had a rash in the preceding week.
 Intravenous immunoglobin was initiated on illness day 4 and repeated on illness day 11 and 18. Repeat parvovirus B19 PCR post-intravenous immunoglobulin remained positive (day 23), and the patient had ongoing symptoms including arthralgias, papular rash, severe fatigue, and ongoing neutropenia post-reinduction chemotherapy. This improved somewhat when her counts recovered on illness day 35.
@@ -47,28 +53,41 @@ Treatment of parvovirus B19 infection is supportive, and in cases of chronic inf
 Final Diagnosis
 Chronic parvovirus B19 infection in immunocompromised host
 References
-Bennett JE, Blaser RD. Mandell, Douglas, and Bennett's principles and practice of infectious diseases: Eighth edition. Philadelphia, PA : Elsevier/Saunders, [2015]; 2015.
+Bennett JE, Blaser RD. Mandell, Douglas, and Bennett's principles and practice of infectious diseases: Eighth edition. Philadelphia, PA: Elsevier/Saunders, [2015]; 2015. Mogensen TH, Jensen JMB, Hamilton-Dutoit S, Larsen CS. Chronic hepatitis caused by persistent parvovirus B19 infection. BMC Infectious Diseases. 2010;10:246.
+PMID:20727151(PubMed abstract) Heegaard ED, Brown KE. Human parvovirus B19. Clinical microbiology reviews. 2002;15(3):485-505.
+PMID:12097253(PubMed abstract) Smith PT, Landry ML, Carey H, Krasnoff J, Cooney E. Papular-Purpuric Gloves and Socks Syndrome Associated with Acute Parvovirus B19 Infection: Case Report and Review. Clinical Infectious Diseases. 1998;27(1):164-8.
+PMID:9675471(PubMed abstract) Katragadda L, Shahid Z, Restrepo A, Muzaffar J, Alapat D, Anaissie E. Preemptive intravenous immunoglobulin allows safe and timely administration of antineoplastic therapies in patients with multiple myeloma and parvovirus B19 disease. Transplant Infectious Disease. 2013;15(4):354-60.
+PMID:23578205(PubMed abstract) Manaresi E, Gallinella G, Zerbini M, Cricca M, Musiani M. Recurrent Erythema in Patients with Long-Term Parvovirus B19 Infection. Clinical Infectious Diseases. 2005;40(12):e117-e9.
+PMID:15909254(PubMed abstract) Frickhofen N, Abkowitz JL, Safford M, Berry JM, Antunez-de-Mayolo J, Astrow A, et al. Persistent B19 Parvovirus Infection in Patients Infected with Human Immunodeficiency Virus Type 1 (HIV-1): A Treatable Cause of Anemia in AIDS. Annals of Internal Medicine. 1990;113(12):926-33.
+PMID:2173460(PubMed abstract) Plentz A, Hahn J, Holler E, Jilg W, Modrow S. Long-term parvovirus B19 viraemia associated with pure red cell aplasia after allogeneic bone marrow transplantation. Journal of Clinical Virology. 2004;31(1):16-9.
+PMID:15288608(PubMed abstract) Poplar S, Allford S, Rooney N. Chronic parvovirus B19 infection leading to red cell aplasia following treatment of Hodgkin lymphoma. British Journal of Haematology. 2010;148(5):671
+PMID:19681883(PubMed abstract) Amina B, Hôpital B, Annette B, Bernard C, François D, Bruno F, et al. Intravenous Immunoglobulin Therapy for Pure Red Cell Aplasia Related to Human Parvovirus B19 Infection: A Retrospective Study of 10 Patients and Review of the Literature. Clinical Infectious Diseases. 2012;56(7):968-77.
+PMID:23243178(PubMed abstract) Seng C, Watkins P, Morse D, Barrett SP, Zambon M, Andrews N, et al. Parvovirus B19 outbreak on an adult ward. Epidemiology and Infection. 1994;113(2):345-53.
+PMID:7925671(PubMed abstract) Jacobson SK, Daly JS, Thorne GM, McIntosh K. Chronic Parvovirus B19 Infection Resulting in Chronic Fatigue Syndrome: Case History and Review. Clinical Infectious Diseases. 1997;24(6):1048-51.
+PMID:9195056(PubMed abstract) Kerr JR, Mattey DL. Preexisting Psychological Stress Predicts Acute and Chronic Fatigue and Arthritis following Symptomatic Parvovirus B19 Infection. Clinical Infectious Diseases. 2008;46(9):e83-e7.
+PMID:18419428(PubMed abstract)
+Bennett JE, Blaser RD. Mandell, Douglas, and Bennett's principles and practice of infectious diseases: Eighth edition. Philadelphia, PA: Elsevier/Saunders, [2015]; 2015.
 Mogensen TH, Jensen JMB, Hamilton-Dutoit S, Larsen CS. Chronic hepatitis caused by persistent parvovirus B19 infection. BMC Infectious Diseases. 2010;10:246.
-PMID:20727151 ( PubMed abstract )
+PMID:20727151(PubMed abstract)
 Heegaard ED, Brown KE. Human parvovirus B19. Clinical microbiology reviews. 2002;15(3):485-505.
-PMID:12097253 ( PubMed abstract )
+PMID:12097253(PubMed abstract)
 Smith PT, Landry ML, Carey H, Krasnoff J, Cooney E. Papular-Purpuric Gloves and Socks Syndrome Associated with Acute Parvovirus B19 Infection: Case Report and Review. Clinical Infectious Diseases. 1998;27(1):164-8.
-PMID:9675471 ( PubMed abstract )
+PMID:9675471(PubMed abstract)
 Katragadda L, Shahid Z, Restrepo A, Muzaffar J, Alapat D, Anaissie E. Preemptive intravenous immunoglobulin allows safe and timely administration of antineoplastic therapies in patients with multiple myeloma and parvovirus B19 disease. Transplant Infectious Disease. 2013;15(4):354-60.
-PMID:23578205 ( PubMed abstract )
+PMID:23578205(PubMed abstract)
 Manaresi E, Gallinella G, Zerbini M, Cricca M, Musiani M. Recurrent Erythema in Patients with Long-Term Parvovirus B19 Infection. Clinical Infectious Diseases. 2005;40(12):e117-e9.
-PMID:15909254 ( PubMed abstract )
+PMID:15909254(PubMed abstract)
 Frickhofen N, Abkowitz JL, Safford M, Berry JM, Antunez-de-Mayolo J, Astrow A, et al. Persistent B19 Parvovirus Infection in Patients Infected with Human Immunodeficiency Virus Type 1 (HIV-1): A Treatable Cause of Anemia in AIDS. Annals of Internal Medicine. 1990;113(12):926-33.
-PMID:2173460 ( PubMed abstract )
+PMID:2173460(PubMed abstract)
 Plentz A, Hahn J, Holler E, Jilg W, Modrow S. Long-term parvovirus B19 viraemia associated with pure red cell aplasia after allogeneic bone marrow transplantation. Journal of Clinical Virology. 2004;31(1):16-9.
-PMID:15288608 ( PubMed abstract )
+PMID:15288608(PubMed abstract)
 Poplar S, Allford S, Rooney N. Chronic parvovirus B19 infection leading to red cell aplasia following treatment of Hodgkin lymphoma. British Journal of Haematology. 2010;148(5):671
-PMID:19681883 ( PubMed abstract )
+PMID:19681883(PubMed abstract)
 Amina B, Hôpital B, Annette B, Bernard C, François D, Bruno F, et al. Intravenous Immunoglobulin Therapy for Pure Red Cell Aplasia Related to Human Parvovirus B19 Infection: A Retrospective Study of 10 Patients and Review of the Literature. Clinical Infectious Diseases. 2012;56(7):968-77.
-PMID:23243178 ( PubMed abstract )
+PMID:23243178(PubMed abstract)
 Seng C, Watkins P, Morse D, Barrett SP, Zambon M, Andrews N, et al. Parvovirus B19 outbreak on an adult ward. Epidemiology and Infection. 1994;113(2):345-53.
-PMID:7925671 ( PubMed abstract )
+PMID:7925671(PubMed abstract)
 Jacobson SK, Daly JS, Thorne GM, McIntosh K. Chronic Parvovirus B19 Infection Resulting in Chronic Fatigue Syndrome: Case History and Review. Clinical Infectious Diseases. 1997;24(6):1048-51.
-PMID:9195056 ( PubMed abstract )
+PMID:9195056(PubMed abstract)
 Kerr JR, Mattey DL. Preexisting Psychological Stress Predicts Acute and Chronic Fatigue and Arthritis following Symptomatic Parvovirus B19 Infection. Clinical Infectious Diseases. 2008;46(9):e83-e7.
-PMID:18419428 ( PubMed abstract )
+PMID:18419428(PubMed abstract)

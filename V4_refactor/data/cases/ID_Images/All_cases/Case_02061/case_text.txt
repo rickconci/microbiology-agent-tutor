@@ -9,7 +9,7 @@ Medications included ceftazidime, vancomycin, dopamine, insulin, and acetominoph
 Epidemiological History
 She lived in the northeast United States. She did not smoke, and reported no history of alcohol abuse, intravenous drug use (IVDU), foreign travel, or exposures to pets or other animals.
 Physical Examination
-She appeared toxic and tachypneic, and could speak only short sentences. The temperature was 103.2°F (39.6°C), blood pressure 100/50 mm Hg on dopamine, and pulse 115/minute. There was mild tenderness and erythema around the site of a subcutaneous reservoir and intravenous catheter and a new skin eruption on her lower extremities that did not blanch ( Figures 1 and 2 ).
+She appeared toxic and tachypneic, and could speak only short sentences. The temperature was 103.2°F (39.6°C), blood pressure 100/50 mm Hg on dopamine, and pulse 115/minute. There was mild tenderness and erythema around the site of a subcutaneous reservoir and intravenous catheter and a new skin eruption on her lower extremities that did not blanch (Figures 1 and 2).
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Studies
@@ -17,9 +17,9 @@ The white blood cell count (WBC) was 200 cells/mm³ (5% neutrophils, 40% blasts,
 Clinical Course Prior to Diagnosis
 A diagnostic procedure was performed; the patient’s antibiotic regimen was broadened to vancomycin, imipenem, and amphotericin B.
 Diagnostic Procedure(s) and Result(s)
-Multiple sets of blood cultures, drawn over several days and despite the administration of amphotericin B, grew Candida pseudotropicalis .
+Multiple sets of blood cultures, drawn over several days and despite the administration of amphotericin B, grew Candida pseudotropicalis.
 Treatment and Followup
-The indwelling reservoir and intravenous catheter were removed and the tip grew abundant C. pseudotropicalis . Despite removing the apparent focus, candidemia persisted. Caspofungin was added three days after the catheter was removed.
+The indwelling reservoir and intravenous catheter were removed and the tip grew abundant C. pseudotropicalis. Despite removing the apparent focus, candidemia persisted. Caspofungin was added three days after the catheter was removed.
 A transthoracic echocardiogram was negative but a vascular ultrasound discovered an extensive deep venous thrombosis (DVT) in her right subclavian vein where a central line had been placed. The central line was removed and 5-fluorocytosine (5-FC) was added. The patient and her family declined further aggressive interventions, and she died after three weeks of persistent candidemia.
 Discussion
 Infectious Diseases Society of America (IDSA) guidelines regarding the management of fever and neutropenia clearly stratify level of risk for invasive fungal infection amongst patients based on the duration of neutropenia.
@@ -29,6 +29,9 @@ Final Diagnosis
 Disseminated candidiasis in a patient with acute myelogenous leukemia and neutropenia.
 References
 Evans, S.E. (2010). Coping with Candida infections. Proc Am Thorac Soc 7, 197-203.
-PMID:20463248 ( PubMed abstract )
+PMID:20463248(PubMed abstract) Ribeiro, P., Sousa, A.B., Nunes, O., Aveiro, F., Fernandes, J.P., and Gouveia, J. (1997). Candidemia in acute leukemia patients. Support Care Cancer 5, 249-251.
+PMID:9176973(PubMed abstract)
+Evans, S.E. (2010). Coping with Candida infections. Proc Am Thorac Soc 7, 197-203.
+PMID:20463248(PubMed abstract)
 Ribeiro, P., Sousa, A.B., Nunes, O., Aveiro, F., Fernandes, J.P., and Gouveia, J. (1997). Candidemia in acute leukemia patients. Support Care Cancer 5, 249-251.
-PMID:9176973 ( PubMed abstract )
+PMID:9176973(PubMed abstract)

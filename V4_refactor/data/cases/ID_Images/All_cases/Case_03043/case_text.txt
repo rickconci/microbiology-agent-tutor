@@ -4,17 +4,18 @@ A woman in her thirties presented with ulcerative skin lesions of two months' du
 Epidemiological History
 The patient lived in a suburb of a South African city and had not recently traveled.
 Physical Examination
-The patient was in no apparent distress. Her temperature was 37.5°C (99.5°F), and she had generalized lymphadenopathy. The skin lesions included ulcers and plaques involving the face ( Figure 1 ), trunk ( Figure 2 ), palms and genitalia. The rest of the examination was normal.
+The patient was in no apparent distress. Her temperature was 37.5°C (99.5°F), and she had generalized lymphadenopathy. The skin lesions included ulcers and plaques involving the face (Figure 1), trunk (Figure 2), palms and genitalia. The rest of the examination was normal.
 Figure 1. Facial lesions.
 Figure 2. Skin lesions on back.
 Studies
 There was a normocytic normochromic anemia. An antibody test for human immunodeficiency virus (HIV) was positive. The chest radiograph showed bilateral pulmonary nodules.
 Diagnostic Procedure(s) and Result(s)
-A Wassermann reaction test for syphilis was negative. Pathological examination of a skin biopsy showed numerous 2-4 micron organisms in the dermis that stained with PAS stain. Fungal cultures of the skin grew Histoplasma capsulatum var. capsulatum .
+A Wassermann reaction test for syphilis was negative. Pathological examination of a skin biopsy showed numerous 2-4 micron organisms in the dermis that stained with PAS stain. Fungal cultures of the skin grew Histoplasma capsulatum var. capsulatum.
 Treatment and Followup
-The patient received itraconazole 400 mg daily for 1 month and thereafter was placed on maintenance therapy with itraconazole 200 mg daily. Her appearance after treatment is shown in Figure 3 .
+The patient received itraconazole 400 mg daily for 1 month and thereafter was placed on maintenance therapy with itraconazole 200 mg daily. Her appearance after treatment is shown in Figure 3.
 Figure 3. Appearance after treatment.
 Discussion
-Histoplasmosis is present in North and South America, Asia, Africa and Europe. There are two varieties, H. capsulatum var. capsulatum and H. capsulatum var. duboisii , both of which may cause disease in Africa. African histoplasmosis is characterized by skin, subcutaneous and bone disease. The cutaneous lesions of African histoplasmosis may include chronic ulcers and tender subcutaneous nodules.
+Histoplasmosis is present in North and South America, Asia, Africa and Europe. There are two varieties, H. capsulatum var. capsulatum and H. capsulatum var. duboisii, both of which may cause disease in Africa. African histoplasmosis is characterized by skin, subcutaneous and bone disease. The cutaneous lesions of African histoplasmosis may include chronic ulcers and tender subcutaneous nodules.
 Final Diagnosis
 Disseminated histoplasmosis due to Histoplasma capsulatum var. capsulatum in a patient with human immunodeficiency virus (HIV) infection and acquired immunodeficiency syndrome (AIDS).
+References

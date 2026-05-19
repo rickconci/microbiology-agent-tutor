@@ -6,7 +6,7 @@ There was a history of human immunodeficiency virus (HIV) and AIDS, cryptococcal
 Medications
 Medications included dapsone, azithromycin, fluconazole, paromomycin, and acyclovir.
 Physical Examination
-The patient appeared chronically ill and in respiratory distress. She was icteric and tachycardic, with bilateral crackles, tender hepatomegaly, 3+ edema, and confluent erosive perirectal ulcers ( Figure 1 ).
+The patient appeared chronically ill and in respiratory distress. She was icteric and tachycardic, with bilateral crackles, tender hepatomegaly, 3+ edema, and confluent erosive perirectal ulcers (Figure 1).
 Figure 1. Physical finding.
 Studies
 The white blood cell count (WBC) was 7,000 cells/mm³, CD4 T-lymphocyte count 9 cells/mm³, total bilirubin 6.7 mg/dL, aspartate aminotransferase (AST, SGOT) 499 U/L, prothrombin time (PT) 20 seconds, and HIV nucleic acid 34,000 copies/mL.
@@ -23,6 +23,9 @@ Final Diagnosis
 Herpes simplex virus, type 2 (HSV-2) ulcers, and acute hepatic failure in a patient with HIV and AIDS.
 References
 Celum, C., Levine, R., Weaver, M., and Wald, A. (2004). Genital herpes and human immunodeficiency virus: double trouble. Bull World Health Organ 82, 447-453.
-PMID:15356938 ( PubMed abstract )
+PMID:15356938(PubMed abstract) Gilbert, C., Bestman-Smith, J., and Boivin, G. (2002). Resistance of herpesviruses to antiviral drugs: clinical impacts and molecular mechanisms. Drug Resist Updat 5, 88-114.
+PMID:12135584(PubMed abstract)
+Celum, C., Levine, R., Weaver, M., and Wald, A. (2004). Genital herpes and human immunodeficiency virus: double trouble. Bull World Health Organ 82, 447-453.
+PMID:15356938(PubMed abstract)
 Gilbert, C., Bestman-Smith, J., and Boivin, G. (2002). Resistance of herpesviruses to antiviral drugs: clinical impacts and molecular mechanisms. Drug Resist Updat 5, 88-114.
-PMID:12135584 ( PubMed abstract )
+PMID:12135584(PubMed abstract)

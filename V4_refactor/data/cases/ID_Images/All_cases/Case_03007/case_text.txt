@@ -11,14 +11,14 @@ Physical Examination
 The patient was in severe respiratory distress. The temperature was 96°F (35.6°C), blood pressure 90/50 mm Hg, pulse 100 beats per minute, respirations 30 breaths per minute. He appeared jaundiced and had scleral icterus. There were increased bronchial breath sounds in the right middle and upper lung fields, and 1+ bilateral pitting edema of the legs. The remainder of his examination was normal.
 Studies
 The white blood cell count (WBC) was 28,700/mm³, 91% polymorphonuclear neutrophils, platelet count 114,000/mm³, creatinine 1.3 mg/dL, albumin 1.8 g/dL, total bilirubin 5 mg/dL, and INR 1.4. An arterial blood gas, while breathing 40% inspired oxygen, revealed pH 7.34, partial pressure of oxygen (pO2) of 54 mm Hg, and partial pressure of carbon dioxide (pCO2) of 46 mm Hg.
-A chest radiograph revealed a new right upper lobe infiltrate ( Figure 1 ). Computed tomography (CT) of the chest is shown in Figure 2 .
+A chest radiograph revealed a new right upper lobe infiltrate (Figure 1). Computed tomography (CT) of the chest is shown in Figure 2.
 Figure 1. Chest radiograph.
 Figure 2. CT scan of the chest.
 Clinical Course Prior to Diagnosis
-The patient was intubated and placed on a mechanical ventilator. Bronchoscopic examination was performed. The gram stain of the bronchial washings of the right upper lobe is shown in Figure 3 .
+The patient was intubated and placed on a mechanical ventilator. Bronchoscopic examination was performed. The gram stain of the bronchial washings of the right upper lobe is shown in Figure 3.
 Figure 3. Gram stain (100x magnification).
 Diagnostic Procedure(s) and Result(s)
-The bronchoscopy did not reveal any endobronchial lesions. In Figure 3 (Gram stain of right upper lobe bronchial washing), the arrows point to gram negative rods, a neutrophil, and (on the bottom of the image) a respiratory epithelial cell. Cytology of the right upper lobe brushings ( Figure 4 ) revealed reactive atypical bronchial epithelial cells with degenerative changes, reactive atypical bronchial epithelial cells, neutrophils, and normal typical bronchial epithelial cells.
+The bronchoscopy did not reveal any endobronchial lesions. In Figure 3 (Gram stain of right upper lobe bronchial washing), the arrows point to gram negative rods, a neutrophil, and (on the bottom of the image) a respiratory epithelial cell. Cytology of the right upper lobe brushings (Figure 4) revealed reactive atypical bronchial epithelial cells with degenerative changes, reactive atypical bronchial epithelial cells, neutrophils, and normal typical bronchial epithelial cells.
 Routine culture of the bronchial brushings and washings grew Klebsiella pneumoniae resistant only to ampicillin and ticarcillin. Other cultures of the bronchial specimens and blood cultures were sterile; acid-fast and silver stains of the brushings and washings were negative. Tests for antibodies to human immunodeficiency virus (HIV) and urinary Legionella antigens were also negative.
 Figure 4. Bronchoalveolar lavage cytology, Papanicolaou stain (40x magnification).
 Treatment and Followup
@@ -32,3 +32,4 @@ The mainstay of therapy has traditionally been comprised of combination therapy 
 The mortality rate from Klebsiella pneumoniae is quite significant. In the pre-antibiotic era, classic Klebsiella pneumoniae was considered almost universally fatal. The use of antibiotic therapy has markedly decreased the mortality rate. A poor prognosis is usually associated with severe underlying medical diseases or inadequate therapy.
 Final Diagnosis
 Klebsiella pneumoniae pneumonia.
+References

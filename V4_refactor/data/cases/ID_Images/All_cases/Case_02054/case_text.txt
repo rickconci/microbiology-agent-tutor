@@ -6,7 +6,7 @@ He was status post cadaveric renal transplant, and had a history of cytomegalovi
 Medications
 Medications included prednisone, mycophenolate mofetil, and azathioprine.
 Physical Examination
-He was toxic in appearance, and the temperature was 103°F (39.4°C). The abdomen was tender, and a maculopapular rash was noted across his face, trunk ( Figure 1 ), and extremities ( Figure 2 ). Some lesions appeared fluid-filled.
+He was toxic in appearance, and the temperature was 103°F (39.4°C). The abdomen was tender, and a maculopapular rash was noted across his face, trunk (Figure 1), and extremities (Figure 2). Some lesions appeared fluid-filled.
 Figure 1. Skin findings.
 Figure 2. Skin findings.
 Studies
@@ -21,4 +21,4 @@ Final Diagnosis
 Disseminated varicella zoster virus (VZV).
 References
 Fehr, T., Bossart, W., Wahl, C., and Binswanger, U. (2002). Disseminated varicella infection in adult renal allograft recipients: four cases and a review of the literature. Transplantation 73, 608-611.
-PMID:11889440 ( PubMed abstract )
+PMID:11889440(PubMed abstract)

@@ -13,7 +13,7 @@ He lived with his parents.
 Epidemiological History
 He had no siblings or pets, and there had been no day care exposures. A grandparent had been ill with an upper respiratory infection.
 Physical Examination
-The patient was a lethargic, minimally interactive young boy in mild distress. He was afebrile but tachycardic with otherwise normal vital signs. His eyes were glassy with clear conjunctivae. He would not open his mouth for examination. His neck was supple without lymphadenopathy or meningismus. The lungs were clear to auscultation, and the cardiac examination did not reveal any murmurs. The abdomen was mildly tender diffusely without rebound or guarding. The liver edge was palpable and nontender. The feet and ankles were diffusely swollen and mildly tender to passive range of motion. There was a left-sided greater than right-sided non-blanching pinpoint rash on the top of his feet, legs, buttocks, and in his left antecubital fossa. (See Figures 1 and 2 .) The rash spared the trunk. His stool was guaiac positive.
+The patient was a lethargic, minimally interactive young boy in mild distress. He was afebrile but tachycardic with otherwise normal vital signs. His eyes were glassy with clear conjunctivae. He would not open his mouth for examination. His neck was supple without lymphadenopathy or meningismus. The lungs were clear to auscultation, and the cardiac examination did not reveal any murmurs. The abdomen was mildly tender diffusely without rebound or guarding. The liver edge was palpable and nontender. The feet and ankles were diffusely swollen and mildly tender to passive range of motion. There was a left-sided greater than right-sided non-blanching pinpoint rash on the top of his feet, legs, buttocks, and in his left antecubital fossa. (See Figures 1 and 2.) The rash spared the trunk. His stool was guaiac positive.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Studies
@@ -30,6 +30,9 @@ Final Diagnosis
 Henoch-Schonlein Purpura.
 References
 Saulsbury, F.T. (1999). Henoch-Schonlein purpura in children. Report of 100 patients and review of the literature. Medicine (Baltimore) 78, 395-409.
-PMID:10575422 ( PubMed abstract )
+PMID:10575422(PubMed abstract) Saulsbury, F.T. (2010). Henoch-Schonlein purpura. Curr Opin Rheumatol 22, 598-602.
+PMID:20473173(PubMed abstract)
+Saulsbury, F.T. (1999). Henoch-Schonlein purpura in children. Report of 100 patients and review of the literature. Medicine (Baltimore) 78, 395-409.
+PMID:10575422(PubMed abstract)
 Saulsbury, F.T. (2010). Henoch-Schonlein purpura. Curr Opin Rheumatol 22, 598-602.
-PMID:20473173 ( PubMed abstract )
+PMID:20473173(PubMed abstract)

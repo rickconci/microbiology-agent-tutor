@@ -9,62 +9,85 @@ The white blood cell count was 8.6 K/microliter (reference range 4.0 – 10.0) w
 Two sets of blood cultures were negative. HIV antigen/antibody and sputum AFB smears were negative. Sputum culture revealed no growth. Mycobacterium tuberculosis PCR was not detected.
 A plain film of the chest revealed a moderate to large layering left pleural effusion with adjacent compressive atelectasis. Bedside ultrasound demonstrated a pleural effusion that was too small to safely sample for a diagnostic thoracentesis. CT chest with contrast on presentation revealed a 2-centimeter left hilar mass with complete occlusion of the left lower lobe bronchus. It was also notable for a left lower lobe pulmonary artery filling defect suspicious for in-situ thrombosis vs. direct extension of the mass (Fig. 1). Bilateral lower extremity duplex was negative for deep vein thrombosis.
 Figure 1. Fig 1: CT chest with contrast at presentation demonstrating a left hilum soft tissue mass (red arrow) measured at 20 mm diameter and a left lower lobe pulmonary artery filling defect with extensive infarction and hemorrhage.
+Fig 1: CT chest with contrast at presentation demonstrating a left hilum soft tissue mass (red arrow) measured at 20 mm diameter and a left lower lobe pulmonary artery filling defect with extensive infarction and hemorrhage.
 Clinical Course Prior to Diagnosis
 The patient was initially started on vancomycin, cefepime, and metronidazole. Anti-tuberculosis treatment was commenced as she had persistent left-sided chest pain, fevers, and small volume hemoptysis. Given identification of pulmonary arterial thrombosis, she was treated with intravenous heparin.
 On the fourth day of admission, given her continued hypoxia and hemoptysis, a repeat CT chest with contrast was performed. This demonstrated left lower lobe pulmonary artery filling defect with extensive infarction/hemorrhage in the left lower lobe, along with the previously observed left hilum soft tissue mass. On the fifth day of admission she underwent a thoracoscopic left lower lobectomy. Extensive necrosis of the lateral portion of the left lower lobe, significant adhesions of the left lower lobe to the chest wall and diaphragm, and a serosanguinous pleural effusion were noted.
 Subsequently, a CT abdomen and pelvis was done to investigate for an underlying malignancy which could contribute to a hypercoagulable state. This revealed curvilinear calcification involving most of the bladder wall (Fig. 2).
 Figure 2. Fig 2: CT Abdomen/Pelvis with contrast showing curvilinear calcification involving most of the bladder wall (arrow).
+Fig 2: CT Abdomen/Pelvis with contrast showing curvilinear calcification involving most of the bladder wall (arrow).
 Diagnostic Procedure(s) and Result(s)
 Initial review of pathology revealed pulmonary infarct with background hemorrhage. Pulmonary necrosis was thought to be due to pulmonary thrombus.
-Further review of pathology demonstrated small foci of granulomatous inflammation with calcified ovum compatible with Schistosoma spp . (Fig. 3-5). The degree of degradation of the ovum made it difficult to speciate. Broad-range PCR of lung tissue for bacterial, fungal, and mycobacterial detection was negative but revealed Schistosoma haematobium DNA. Her serum Schistosoma IgG antibody was positive.
+Further review of pathology demonstrated small foci of granulomatous inflammation with calcified ovum compatible with Schistosoma spp. (Fig. 3-5). The degree of degradation of the ovum made it difficult to speciate. Broad-range PCR of lung tissue for bacterial, fungal, and mycobacterial detection was negative but revealed Schistosoma haematobium DNA. Her serum Schistosoma IgG antibody was positive.
 Figure 3. Fig 3. H&E stain of lung biopsy (200x) demonstrating a granuloma surrounding two Schistosoma spp. ova (arrows).
+Fig 3. H&E stain of lung biopsy (200x) demonstrating a granuloma surrounding two Schistosoma spp. ova (arrows).
 Figure 4. Fig 4: H&E stain of lung biopsy (600x). Cross-sectional view of Schistosoma spp. ovum (arrow).
+Fig 4: H&E stain of lung biopsy (600x). Cross-sectional view of Schistosoma spp. ovum (arrow).
 Treatment and Followup
 She was treated with two doses of praziquantel with good resolution of her symptoms. Echocardiogram revealed no evidence of pulmonary hypertension or right heart strain. She underwent a cystoscopy which demonstrated normal mucosa. Urine cytology was negative for malignant cells. Microscopic examination of urine for Schistosoma spp. ova were negative on three samples. She received an additional dose of praziquantel to improve efficacy of treatment.
 Discussion
-Schistosomiasis is a helminthic disease that is estimated to infect more than 235 million people globally and may cause up to 200,000 deaths annually (1,2). Prevalence is highest in sub-Saharan Africa, though this disease has also been identified in other parts of the African continent, the Middle East, and Brazil, among others (2,3). The two major Schistosoma species found in Africa that infect humans are S. mansoni which is typically linked to intestinal tract disease, and S. haematobium , usually associated with genitourinary tract disease (2). Both species are endemic to Madagascar, where S. mansoni is found in the eastern, central, and southern regions and S. haematobium is predominant in the northwest and west coast (4). Both species coexist in certain irrigated regions (4).
-Regarding the pathogenesis of schistosomiasis, once cercarial larvae penetrate the skin of human hosts, they migrate through the circulatory system as schistosomulae to the liver, where they transform into young worms and mature into adults in the portal vein (1,3,5). The adult worms migrate to the mesenteric ( S. mansoni ) or perivesical venous plexus ( S. haematobium ) and produce eggs, which are deposited in the venules and ultimately excreted (1,2,6). However, eggs can embolize to other organs or become entrapped in tissues while en route to the bladder or intestine (1). Once deposited, the eggs secrete proteolytic enzymes which lead to granulomatous reactions and fibrosis in tissues (1,5). Fibrosis can cause complications such as portal and pulmonary hypertension (2). The host immune response to the schistosome eggs results in clinical disease (3).
+Schistosomiasis is a helminthic disease that is estimated to infect more than 235 million people globally and may cause up to 200,000 deaths annually (1,2). Prevalence is highest in sub-Saharan Africa, though this disease has also been identified in other parts of the African continent, the Middle East, and Brazil, among others (2,3). The two major Schistosoma species found in Africa that infect humans are S. mansoni which is typically linked to intestinal tract disease, and S. haematobium, usually associated with genitourinary tract disease (2). Both species are endemic to Madagascar, where S. mansoni is found in the eastern, central, and southern regions and S. haematobium is predominant in the northwest and west coast (4). Both species coexist in certain irrigated regions (4).
+Regarding the pathogenesis of schistosomiasis, once cercarial larvae penetrate the skin of human hosts, they migrate through the circulatory system as schistosomulae to the liver, where they transform into young worms and mature into adults in the portal vein (1,3,5). The adult worms migrate to the mesenteric (S. mansoni) or perivesical venous plexus (S. haematobium) and produce eggs, which are deposited in the venules and ultimately excreted (1,2,6). However, eggs can embolize to other organs or become entrapped in tissues while en route to the bladder or intestine (1). Once deposited, the eggs secrete proteolytic enzymes which lead to granulomatous reactions and fibrosis in tissues (1,5). Fibrosis can cause complications such as portal and pulmonary hypertension (2). The host immune response to the schistosome eggs results in clinical disease (3).
 The gold standard for diagnosis of schistosomiasis is microscopic examination of urine, stool, or tissues for presence of ova (2,5). Antibody-based assays are sensitive, though do not distinguish between active and chronic infections (1). PCR-based assays allow for species identification (2). Radiology can demonstrate certain pathognomonic signs, such as bladder calcification in S. haematobium (3).
 The manifestations of chronic schistosomiasis depend on the Schistosoma species and location of egg deposition (3). S. haematobium is associated with urinary schistosomiasis, in which patients develop hematuria, and later bladder calcification, hydronephrosis, renal failure, and bladder carcinoma (3). S. mansoni egg deposition in the liver can cause periportal fibrosis leading to portal hypertension and gastrointestinal varices (1,2).
-Regarding pulmonary schistosomiasis, ova embolize to the lung via portosystemic collateral blood vessels ( S. mansoni ) or more rarely directly via the inferior vena cava ( S. haematobium ) (2,6-8). Granulomatous development in reaction to ova deposition in pulmonary arterioles and subsequent fibrosis can lead to granulomatous pulmonary endarteritis/arteriolitis, which has been well described (6, 9-12). Subsequent complications include pulmonary hypertension, pulmonary thrombus, cor pulmonale, and pulmonary arteriovenous fistulas (6,7,9-11,13,14). Symptoms in severe cases may consist of dyspnea, hypoxemia, ascites, and lower extremity edema consistent with right heart failure (7,15).
-This case illustrates a rare presentation of a woman with pulmonary infection due to Schistosoma haematobium complicated by in-situ pulmonary thrombus with infarct. While S. mansoni has been commonly linked to pulmonary disease, cases of pulmonary infection associated with S. haematobium have been identified (11,16-19). Broad- range PCR of the patient’s lung tissue revealed S. haematobium DNA. Histopathologic review demonstrated granuloma formation surrounding Schistosoma ovum, which likely resulted in pulmonary obliterative arteriolitis. She had no evidence of pulmonary hypertension or cor pulmonale . However, it is rare to observe pulmonary schistosomiasis without evidence of pulmonary hypertension (15). The presumed underlying process of pulmonary obliterative arteriolitis from S. haematobium egg deposition, in conjunction with prolonged air travel, likely predisposed this patient to development of pulmonary arterial in-situ thrombosis with extensive hemorrhagic necrosis.
+Regarding pulmonary schistosomiasis, ova embolize to the lung via portosystemic collateral blood vessels (S. mansoni) or more rarely directly via the inferior vena cava (S. haematobium) (2,6-8). Granulomatous development in reaction to ova deposition in pulmonary arterioles and subsequent fibrosis can lead to granulomatous pulmonary endarteritis/arteriolitis, which has been well described (6, 9-12). Subsequent complications include pulmonary hypertension, pulmonary thrombus, cor pulmonale, and pulmonary arteriovenous fistulas (6,7,9-11,13,14). Symptoms in severe cases may consist of dyspnea, hypoxemia, ascites, and lower extremity edema consistent with right heart failure (7,15).
+This case illustrates a rare presentation of a woman with pulmonary infection due to Schistosoma haematobium complicated by in-situ pulmonary thrombus with infarct. While S. mansoni has been commonly linked to pulmonary disease, cases of pulmonary infection associated with S. haematobium have been identified (11,16-19). Broad- range PCR of the patient’s lung tissue revealed S. haematobium DNA. Histopathologic review demonstrated granuloma formation surrounding Schistosoma ovum, which likely resulted in pulmonary obliterative arteriolitis. She had no evidence of pulmonary hypertension or cor pulmonale. However, it is rare to observe pulmonary schistosomiasis without evidence of pulmonary hypertension (15). The presumed underlying process of pulmonary obliterative arteriolitis from S. haematobium egg deposition, in conjunction with prolonged air travel, likely predisposed this patient to development of pulmonary arterial in-situ thrombosis with extensive hemorrhagic necrosis.
 Final Diagnosis
 Pulmonary schistosomiasis due to Schistosoma haematobium complicated by pulmonary thrombus with infarct.
 References
 Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet. 2006;368(9541):1106-1118.
-PMID:16997665 ( PubMed abstract )
+PMID:16997665(PubMed abstract) Mandell GL, Bennett JE, Dolin R. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. 7th ed. Philadelphia, PA: Churchill Livingstone/Elsevier; 2010. Ross AG, Bartley PB, Sleigh AC, et al. Schistosomiasis. N Engl J Med. 2002;346(16):1212-1220.
+PMID:11961151(PubMed abstract) Atlas of the Global Distribution of Schistosomiasis - Madagascar - Mauritius. World Health Organization, 1987.
+PMID:6541400(PubMed abstract) Gray DJ, Ross AG, Li YS, McManus DP. Diagnosis and management of schistosomiasis. BMJ. 2011;342:d2651.
+PMID:21586478(PubMed abstract) SAMI AA. Pulmonary manifestations of schistosomiasis. Dis Chest. 1951;19(6):698-705.
+PMID:14840269(PubMed abstract) Barsoum RS, Esmat G, El-Baz T. Human schistosomiasis: clinical perspective: review. J Adv Res. 2013;4(5):433-444.
+PMID:25685450(PubMed abstract) Graham BB, Bandeira AP, Morrell NW, Butrous G, Tuder RM. Schistosomiasis- associated pulmonary hypertension: pulmonary vascular disease: the global perspective. Chest. 2010;137(6 Suppl):20S-29S.
+PMID:20522577(PubMed abstract) Bethlem EP, Schettino GeP, Carvalho CR. Pulmonary schistosomiasis. Curr Opin Pulm Med. 1997;3(5):361-365.
+PMID:9331538(PubMed abstract) Sadigursky M, Andrade ZA. Pulmonary changes in schistosomal cor pulmonale. Am J Trop Med Hyg. 1982;31(4):779-784.
+PMID:7102911(PubMed abstract) Bedford DE, Aidaros SM, Girgis B. Bilharzal heart disease in Egypt: Cor pulmonale due to bilharzial pulmonary endarteritis. Br Heart J. 1946;8(2):87-95.
+PMID:18610033(PubMed abstract) Chaves E. The pathology of the arterial pulmonary vasculature in manson's schistosomiasis. Dis Chest. 1966;50(1):72-77.
+PMID:5916488(PubMed abstract) Jawahiry KI, Karpas CM. Pulmonary schistosomiasis: a detailed clinicopathologic study. Am Rev Respir Dis. 1963;88:517-527.
+PMID:14068437(PubMed abstract) Andrade ZA, Andrade SG. Pathogenesis of schistosomal pulmonary arteritis. Am J Trop Med Hyg. 1970;19(2):305-310.
+PMID:5443078(PubMed abstract) Papamatheakis DG, Mocumbi AO, Kim NH, Mandel J. Schistosomiasis- associated pulmonary hypertension. Pulm Circ. 2014;4(4):596-611.
+PMID:25610596(PubMed abstract) Bourée P, Piveteau J, Gerbal JL, Halpen G. [Pulmonary arterial hypertension due to bilharziasis. Apropos of a case due to Schistosoma haematobium having been cured by praziquantel]. Bull Soc Pathol Exot. 1990;83(1):66-71.
+PMID:2112430(PubMed abstract) Abo-Salem ES, Ramadan MM. A huge thrombosed pulmonary artery aneurysm without pulmonary hypertension in a patient with hepatosplenic schistosomiasis. Am J Case Rep. 2015;16:140-145.
+PMID:25746428(PubMed abstract) Lapa M, Dias B, Jardim C, et al. Cardiopulmonary manifestations of hepatosplenic schistosomiasis. Circulation. 2009;119(11):1518-1523.
+PMID:19273723(PubMed abstract) Feldman C, Kallenbach J, Sutej P, Lewis M, Goldstein B. Diffuse interstitial pulmonary fibrosis and spontaneous pneumothorax associated with Schistosoma haematobium infestation of the lungs. A case report. S Afr Med J. 1986 Jan 18;69(2):138-9.
+PMID:3079925(PubMed abstract)
+Gryseels B, Polman K, Clerinx J, Kestens L. Human schistosomiasis. Lancet. 2006;368(9541):1106-1118.
+PMID:16997665(PubMed abstract)
 Mandell GL, Bennett JE, Dolin R. Mandell, Douglas, and Bennett's principles and practice of infectious diseases. 7th ed. Philadelphia, PA: Churchill Livingstone/Elsevier; 2010.
 Ross AG, Bartley PB, Sleigh AC, et al. Schistosomiasis. N Engl J Med. 2002;346(16):1212-1220.
-PMID:11961151 ( PubMed abstract )
+PMID:11961151(PubMed abstract)
 Atlas of the Global Distribution of Schistosomiasis - Madagascar - Mauritius. World Health Organization, 1987.
-PMID:6541400 ( PubMed abstract )
+PMID:6541400(PubMed abstract)
 Gray DJ, Ross AG, Li YS, McManus DP. Diagnosis and management of schistosomiasis. BMJ. 2011;342:d2651.
-PMID:21586478 ( PubMed abstract )
+PMID:21586478(PubMed abstract)
 SAMI AA. Pulmonary manifestations of schistosomiasis. Dis Chest. 1951;19(6):698-705.
-PMID:14840269 ( PubMed abstract )
+PMID:14840269(PubMed abstract)
 Barsoum RS, Esmat G, El-Baz T. Human schistosomiasis: clinical perspective: review. J Adv Res. 2013;4(5):433-444.
-PMID:25685450 ( PubMed abstract )
+PMID:25685450(PubMed abstract)
 Graham BB, Bandeira AP, Morrell NW, Butrous G, Tuder RM. Schistosomiasis- associated pulmonary hypertension: pulmonary vascular disease: the global perspective. Chest. 2010;137(6 Suppl):20S-29S.
-PMID:20522577 ( PubMed abstract )
+PMID:20522577(PubMed abstract)
 Bethlem EP, Schettino GeP, Carvalho CR. Pulmonary schistosomiasis. Curr Opin Pulm Med. 1997;3(5):361-365.
-PMID:9331538 ( PubMed abstract )
+PMID:9331538(PubMed abstract)
 Sadigursky M, Andrade ZA. Pulmonary changes in schistosomal cor pulmonale. Am J Trop Med Hyg. 1982;31(4):779-784.
-PMID:7102911 ( PubMed abstract )
+PMID:7102911(PubMed abstract)
 Bedford DE, Aidaros SM, Girgis B. Bilharzal heart disease in Egypt: Cor pulmonale due to bilharzial pulmonary endarteritis. Br Heart J. 1946;8(2):87-95.
-PMID:18610033 ( PubMed abstract )
+PMID:18610033(PubMed abstract)
 Chaves E. The pathology of the arterial pulmonary vasculature in manson's schistosomiasis. Dis Chest. 1966;50(1):72-77.
-PMID:5916488 ( PubMed abstract )
+PMID:5916488(PubMed abstract)
 Jawahiry KI, Karpas CM. Pulmonary schistosomiasis: a detailed clinicopathologic study. Am Rev Respir Dis. 1963;88:517-527.
-PMID:14068437 ( PubMed abstract )
+PMID:14068437(PubMed abstract)
 Andrade ZA, Andrade SG. Pathogenesis of schistosomal pulmonary arteritis. Am J Trop Med Hyg. 1970;19(2):305-310.
-PMID:5443078 ( PubMed abstract )
+PMID:5443078(PubMed abstract)
 Papamatheakis DG, Mocumbi AO, Kim NH, Mandel J. Schistosomiasis- associated pulmonary hypertension. Pulm Circ. 2014;4(4):596-611.
-PMID:25610596 ( PubMed abstract )
+PMID:25610596(PubMed abstract)
 Bourée P, Piveteau J, Gerbal JL, Halpen G. [Pulmonary arterial hypertension due to bilharziasis. Apropos of a case due to Schistosoma haematobium having been cured by praziquantel]. Bull Soc Pathol Exot. 1990;83(1):66-71.
-PMID:2112430 ( PubMed abstract )
+PMID:2112430(PubMed abstract)
 Abo-Salem ES, Ramadan MM. A huge thrombosed pulmonary artery aneurysm without pulmonary hypertension in a patient with hepatosplenic schistosomiasis. Am J Case Rep. 2015;16:140-145.
-PMID:25746428 ( PubMed abstract )
+PMID:25746428(PubMed abstract)
 Lapa M, Dias B, Jardim C, et al. Cardiopulmonary manifestations of hepatosplenic schistosomiasis. Circulation. 2009;119(11):1518-1523.
-PMID:19273723 ( PubMed abstract )
+PMID:19273723(PubMed abstract)
 Feldman C, Kallenbach J, Sutej P, Lewis M, Goldstein B. Diffuse interstitial pulmonary fibrosis and spontaneous pneumothorax associated with Schistosoma haematobium infestation of the lungs. A case report. S Afr Med J. 1986 Jan 18;69(2):138-9.
-PMID:3079925 ( PubMed abstract )
+PMID:3079925(PubMed abstract)

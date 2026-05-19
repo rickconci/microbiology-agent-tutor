@@ -10,11 +10,11 @@ He was well appearing, with a temperature 102°F (38.9°C). The rest of the exam
 Studies
 The hematocrit was 35%, alanine aminotransferase (ALT) 70 IU/L, and aspartate aminotransferase (AST) 55 IU/L. Other routine laboratory testing was normal. Urinalysis was negative. A chest radiograph was normal.
 Clinical Course Prior to Diagnosis
-While in the hospital, the patient continued to have intermittent fevers. Cultures of the blood and urine were negative. A blood smear is shown ( Figures 1 and 2 ).
+While in the hospital, the patient continued to have intermittent fevers. Cultures of the blood and urine were negative. A blood smear is shown (Figures 1 and 2).
 Figure 1. Peripheral blood smear findings.
 Figure 2. Detail of Figure 1.
 Diagnostic Procedure(s) and Result(s)
-The blood smear revealed intraerythrocytic parasites consistent with Babesia microti .
+The blood smear revealed intraerythrocytic parasites consistent with Babesia microti.
 Treatment and Followup
 The patient was treated with azithromycin and atovaquone for 10 days with an excellent clinical response. Serologic testing for Ehrlichia and Lyme disease was negative.
 Discussion
@@ -23,6 +23,9 @@ Final Diagnosis
 Babesia microti infection.
 References
 Homer, M.J., Aguilar-Delfin, I., Telford, S.R., 3rd, Krause, P.J., and Persing, D.H. (2000). Babesiosis. Clin Microbiol Rev 13, 451-469.
-PMID:10885987 ( PubMed abstract )
-Telford, S.R., 3rd, and Goethert, H.K. (2004). Emerging tick-borne infections: rediscovered and better characterized, or truly 'new' ? Parasitology 129 Suppl, S301-327.
-PMID:15940821 ( PubMed abstract )
+PMID:10885987(PubMed abstract) Telford, S.R., 3rd, and Goethert, H.K. (2004). Emerging tick-borne infections: rediscovered and better characterized, or truly 'new'? Parasitology 129 Suppl, S301-327.
+PMID:15940821(PubMed abstract)
+Homer, M.J., Aguilar-Delfin, I., Telford, S.R., 3rd, Krause, P.J., and Persing, D.H. (2000). Babesiosis. Clin Microbiol Rev 13, 451-469.
+PMID:10885987(PubMed abstract)
+Telford, S.R., 3rd, and Goethert, H.K. (2004). Emerging tick-borne infections: rediscovered and better characterized, or truly 'new'? Parasitology 129 Suppl, S301-327.
+PMID:15940821(PubMed abstract)

@@ -9,26 +9,30 @@ Physical Examination
 He appeared chronically ill with a temperature of 102.5°F (39.2°C), pulse 130/minute, and blood pressure 78/52 mm/Hg. Examination of the lungs revealed decreased breath sounds at the right base. The rest of the examination was normal.
 Studies
 The white blood cell count (WBC) was 5,300 cells/mm³ (neutrophils 63%, bands 22%, lymphocytes 0%, monocytes 15%).
-Computed tomography (CT) of the chest showed two nodules in the right lower lobe: 1.7 centimeters (cm) by 1.9cm and 1.4cm by 2 cm. There was also a small right-sided pleural effusion ( Figure 1 ).
+Computed tomography (CT) of the chest showed two nodules in the right lower lobe: 1.7 centimeters (cm) by 1.9cm and 1.4cm by 2 cm. There was also a small right-sided pleural effusion (Figure 1).
 Figure 1. Chest CT scan.
 Clinical Course Prior to Diagnosis
-A CT-guided fine needle aspirate was done on a pulmonary nodule, but an insufficient amount of tissue was obtained. A gram stain of the positive blood culture revealed the findings seen in Figure 2 .
+A CT-guided fine needle aspirate was done on a pulmonary nodule, but an insufficient amount of tissue was obtained. A gram stain of the positive blood culture revealed the findings seen in Figure 2.
 Figure 2. Gram stain of blood culture.
 Diagnostic Procedure(s) and Result(s)
-The gram stain of the positive blood culture revealed branching gram-positive rods ( Figure 2 ). A modified acid-fast stain performed on the blood culture also showed branching rods ( Figure 3 ) that were identified as Nocardia asteroides .
+The gram stain of the positive blood culture revealed branching gram-positive rods (Figure 2). A modified acid-fast stain performed on the blood culture also showed branching rods (Figure 3) that were identified as Nocardia asteroides.
 Figure 3. Modified acid-fast stain.
 Treatment and Followup
 Trimethoprim-sulfamethoxazole (TMP-SMX) was started, and the patient became afebrile within 24 hours. He was sent home on oral TMP-SMX, and did well clinically.
 Discussion
 This case illustrates the importance of obtaining a definitive diagnosis in an immunocompromised host with pulmonary nodules, since the differential diagnosis is very broad. For example, it is not possible to differentiate fungal disease from nocardiosis on the basis of imaging. An accurate diagnosis is essential in providing appropriate therapy.
-A broad range of immunocompromised patients is at increased risk of infection with Nocardia . Risk factors include hematological malignancies, human immunodeficiency virus (HIV) infection, steroids and chemotherapy.
+A broad range of immunocompromised patients is at increased risk of infection with Nocardia. Risk factors include hematological malignancies, human immunodeficiency virus (HIV) infection, steroids and chemotherapy.
 Nocardia bacteremia is unusual. In a recent study from the Massachusetts General Hospital, positive blood cultures accounted for 8.1% of the total Nocardia isolates seen between 1990-1997. Pulmonary involvement occurs in about 2/3 of patients with Nocardia bacteremia. The incubation times for the positive blood cultures ranged from 2-14 days, with a median time to growth of 4 days. Of note, 30% of patients with Nocardia bacteremia had concomitant bacteremia with other organisms, usually gram negative bacilli. This was probably due to the fact that many of the patients were predisposed to such infections by virtue of their immunocompromised state. Finally, patients with bacteremic nocardiosis appear to have similar presentation, risk factors, clinical course and therapeutic outcome as non-bacteremic patients with nocardiosis.
 Final Diagnosis
-Pulmonary nocardiosis ( Nocardia asteroides ) with bacteremia.
+Pulmonary nocardiosis (Nocardia asteroides) with bacteremia.
 References
 Kontoyiannis, D.P., Ruoff, K., and Hooper, D.C. (1998). Nocardia bacteremia. Report of 4 cases and review of the literature. Medicine (Baltimore) 77, 255-267
-PMID:9715730 ( PubMed abstract )
+PMID:9715730(PubMed abstract) Liu, W.L., Lai, C.C., Ko, W.C., Chen, Y.H., Tang, H.J., Huang, Y.L., Huang, Y.T., and Hsueh, P.R. (2011). Clinical and microbiological characteristics of infections caused by various Nocardia species in Taiwan: a multicenter study from 1998 to 2010. Eur J Clin Microbiol Infect Dis 30, 1341-1347.
+PMID:21461846(PubMed abstract) Minero, M.V., Marin, M., Cercenado, E., Rabadan, P.M., Bouza, E., and Munoz, P. (2009). Nocardiosis at the turn of the century. Medicine (Baltimore) 88, 250-261.
+PMID:19593231(PubMed abstract)
+Kontoyiannis, D.P., Ruoff, K., and Hooper, D.C. (1998). Nocardia bacteremia. Report of 4 cases and review of the literature. Medicine (Baltimore) 77, 255-267
+PMID:9715730(PubMed abstract)
 Liu, W.L., Lai, C.C., Ko, W.C., Chen, Y.H., Tang, H.J., Huang, Y.L., Huang, Y.T., and Hsueh, P.R. (2011). Clinical and microbiological characteristics of infections caused by various Nocardia species in Taiwan: a multicenter study from 1998 to 2010. Eur J Clin Microbiol Infect Dis 30, 1341-1347.
-PMID:21461846 ( PubMed abstract )
+PMID:21461846(PubMed abstract)
 Minero, M.V., Marin, M., Cercenado, E., Rabadan, P.M., Bouza, E., and Munoz, P. (2009). Nocardiosis at the turn of the century. Medicine (Baltimore) 88, 250-261.
-PMID:19593231 ( PubMed abstract )
+PMID:19593231(PubMed abstract)

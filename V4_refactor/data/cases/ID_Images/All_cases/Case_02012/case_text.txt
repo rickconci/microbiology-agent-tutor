@@ -1,7 +1,6 @@
 History of Present Illness
 IDSA 2002 Case Summary: A man with abdominal pain and distension for two days.
-A man in his forties living in the Middle East presented with a two-day history of moderate abdominal pain and distention. These symptoms were preceded by anorexia, nausea, vomiting, and low-grade fever. He denied any change in bowel habits. His wife had presented three days earlier with a skin lesion over the upper lip. (See Figure 1 , which shows a skin lesion over the upper lip of the patient's wife.)
-Figure 1. Image
+A man in his forties living in the Middle East presented with a two-day history of moderate abdominal pain and distention. These symptoms were preceded by anorexia, nausea, vomiting, and low-grade fever. He denied any change in bowel habits. His wife had presented three days earlier with a skin lesion over the upper lip. (See Figure 1, which shows a skin lesion over the upper lip of the patient's wife.)
 Figure 1. Physical finding for spouse.
 Past Medical History
 Non-contributory.
@@ -14,11 +13,11 @@ The patient was in shock, with a faint pulse and undetectable blood pressure. Th
 Studies
 Laboratory studies, including white blood cell count (WBC) and differential, were normal.
 Clinical Course Prior to Diagnosis
-The patient underwent a laparotomy, which revealed massive ascites, enlarged mesenteric lymph nodes and edema in the cecum and the adjacent loop of small bowel ( Figure 2 ). The laparotomy showed extensive edema involving the cecum.
+The patient underwent a laparotomy, which revealed massive ascites, enlarged mesenteric lymph nodes and edema in the cecum and the adjacent loop of small bowel (Figure 2). The laparotomy showed extensive edema involving the cecum.
 Figure 2. Findings on laparotomy.
 Diagnostic Procedure(s) and Result(s)
-Gram stain of ascitic fluid revealed gram-positive bacilli with central spores ( Figure 3 ). Pathological examination of an excised mesenteric lymph node revealed gram-positive bacilli ( Figure 4 ).
-Ascitic fluid as well as cultures of lymph node tissue yielded large, non-motile, non-hemolytic colonies that stained as gram-positive bacilli and were catalase positive. The organism was susceptible to penicillin, and was identified as Bacillus anthracis . This was confirmed at the Centers for Disease Control and Prevention by Dr. Philip S. Brachman.
+Gram stain of ascitic fluid revealed gram-positive bacilli with central spores (Figure 3). Pathological examination of an excised mesenteric lymph node revealed gram-positive bacilli (Figure 4).
+Ascitic fluid as well as cultures of lymph node tissue yielded large, non-motile, non-hemolytic colonies that stained as gram-positive bacilli and were catalase positive. The organism was susceptible to penicillin, and was identified as Bacillus anthracis. This was confirmed at the Centers for Disease Control and Prevention by Dr. Philip S. Brachman.
 Figure 3. Gram stain of ascitic fluid.
 Figure 4. Mesenteric lymph node.
 Treatment and Followup
@@ -26,7 +25,7 @@ The patient received intravenous penicillin but despite aggressive resuscitative
 Discussion
 Intestinal anthrax follows the ingestion of contaminated meat. There are three phases that progress over 2-5 days. The first phase includes non-specific symptoms of anorexia, nausea, and vomiting. This is followed by abdominal pain, hematemesis and bloody diarrhea. Lastly, toxemia, shock, cyanosis, and even death may occur. Lesions are frequently seen in the cecum and large intestine. At laparotomy, massive ascites, bowel edema and mesenteric lymphadenopathy may be seen.
 Final Diagnosis
-Intestinal anthrax caused by Bacillus anthracis .
+Intestinal anthrax caused by Bacillus anthracis.
 References
 Swartz, M.N. (2001). Recognition and management of anthrax--an update. N Engl J Med 345, 1621-1626.
-PMID:11704686 ( PubMed abstract )
+PMID:11704686(PubMed abstract)

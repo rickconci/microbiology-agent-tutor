@@ -14,7 +14,7 @@ He lived with his mother and sibling.
 Epidemiological History
 His younger sibling had an upper respiratory illness and his mother was treated two months earlier for severe pharyngitis. He reported eating shrimp 3 days before admission. His only animal exposure was his pet cat (not a kitten). He reported no history of travel, camping, or known insect exposures. He denied sexual activity.
 Physical Examination
-He appeared normally-developed boy, and uncomfortable with use of his hands or legs. The temperature was 40°C (104°F). There was mild periorbital edema and erythematous macules on soft and hard palate. The lower lip was swollen with a yellow blister. The neck was supple, with shotty non-tender cervical nodes, and there was a 2/6 systolic ejection murmur. Painful edema and erythema with petechiae were symmetrically present on the palms and soles. There was tender edema and papular erythema on the dorsal aspects of hands and feet and in a periarticular distribution around elbows and knees. Passive movement of his knees produced minimal pain but the periarticular rash was very tender. (See Figures 1 through 5 .)
+He appeared normally-developed boy, and uncomfortable with use of his hands or legs. The temperature was 40°C (104°F). There was mild periorbital edema and erythematous macules on soft and hard palate. The lower lip was swollen with a yellow blister. The neck was supple, with shotty non-tender cervical nodes, and there was a 2/6 systolic ejection murmur. Painful edema and erythema with petechiae were symmetrically present on the palms and soles. There was tender edema and papular erythema on the dorsal aspects of hands and feet and in a periarticular distribution around elbows and knees. Passive movement of his knees produced minimal pain but the periarticular rash was very tender. (See Figures 1 through 5.)
 Figure 1. Physical finding.
 Figure 2. Physical finding.
 Figure 3. Physical finding.
@@ -35,6 +35,9 @@ Final Diagnosis
 Papulo-Purpuric Gloves and Socks Syndrome (PPGSS) caused by Parvovirus B19 infection with a superimposed streptococcal pharyngitis.
 References
 Dyer JA. (2007). Childhood viral exanthems. Pediatr Ann. 2007 Jan;36(1):21-9.
-PMID:17269280 ( PubMed abstract )
+PMID:17269280(PubMed abstract) McNeely, M., Friedman, J., and Pope, E. (2005). Generalized petechial eruption induced by parvovirus B19 infection. J Am Acad Dermatol 52, S109-113.
+PMID:15858505(PubMed abstract)
+Dyer JA. (2007). Childhood viral exanthems. Pediatr Ann. 2007 Jan;36(1):21-9.
+PMID:17269280(PubMed abstract)
 McNeely, M., Friedman, J., and Pope, E. (2005). Generalized petechial eruption induced by parvovirus B19 infection. J Am Acad Dermatol 52, S109-113.
-PMID:15858505 ( PubMed abstract )
+PMID:15858505(PubMed abstract)

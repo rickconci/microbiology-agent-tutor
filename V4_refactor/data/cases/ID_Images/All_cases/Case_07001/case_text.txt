@@ -17,7 +17,7 @@ Figure 2. Physical Finding.
 Studies
 The white blood cell count revealed 18,000/mm³ (59% leukocytes, 36% lymphocytes, 4% monocytes, 1% eosinophils). A radiograph of the forearm did not reveal a foreign body.
 Diagnostic Procedure(s) and Result(s)
-The center of the lesion was biopsied and the tissue was cultured. A modified acid fast stain of the culture is shown in Figure 3 . Culture of the biopsy material grew Nocardia brasiliensis.
+The center of the lesion was biopsied and the tissue was cultured. A modified acid fast stain of the culture is shown in Figure 3. Culture of the biopsy material grew Nocardia brasiliensis.
 Figure 3. Modified acid fast stain of tissue culture.
 Treatment and Followup
 Sulfamethoxazole-trimethoprim therapy was administered, with significant improvement over one week.
@@ -31,12 +31,12 @@ There are four types of cutaneous nocardiosis:
 3. Mycetoma, a chronic suppurative granulomatous reaction that can be secondary to Nocardia or a host of other pathogens;
 4. Cutaneous involvement from disseminated nocardial infection.
 The differential for lymphocutaneous infection includes:
--Sporothrix schenckii : found in similar geographic environs as Nocardia , and has a similar incubation period of up to 2 weeks.
-- Mycobacterium marinum : usually follows exposure to the organism growing in a pool, ocean or aquarium.
+-Sporothrix schenckii: found in similar geographic environs as Nocardia, and has a similar incubation period of up to 2 weeks.
+- Mycobacterium marinum: usually follows exposure to the organism growing in a pool, ocean or aquarium.
 -Leishmaniasis: requires inoculation by the bite of a sandfly, usually in Central or South America, although occasional cases have occurred in Texas.
-- Francisella tularensis : the ulcer of this infection is often particularly painful, and more associated with fever and systemic symptoms.
+- Francisella tularensis: the ulcer of this infection is often particularly painful, and more associated with fever and systemic symptoms.
 Final Diagnosis
-Lymphocutaneous nocardiosis (due to Nocardia brasiliensis ).
+Lymphocutaneous nocardiosis (due to Nocardia brasiliensis).
 References
 Maraki, S., Scoulica, E., Alpantaki, K., Dialynas, M., and Tselentis, Y. (2003). Lymphocutaneous nocardiosis due to Nocardia brasiliensis. Diagn Microbiol Infect Dis 47, 341-344.
-PMID:12967747 ( PubMed abstract )
+PMID:12967747(PubMed abstract)

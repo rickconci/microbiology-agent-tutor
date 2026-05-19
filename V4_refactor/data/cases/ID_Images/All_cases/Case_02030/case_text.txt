@@ -13,14 +13,15 @@ Physical Examination
 The patient appeared ill and in moderate respiratory distress. The temperature was 100.2°F (37.9°C), heart rate 124 beats/minute, blood pressure 100/60 mm Hg, and oxygen saturation 90% on room air. The chest was clear to auscultation.
 Studies
 The white blood cell count (WBC) was 6,100/mm³, hematocrit 31%, and platelets 96,000/mm³.
-A chest radiograph showed bibasilar opacities ( Figure 1 ). Computed tomography (CT) of the chest delineated bibasilar infiltrates with nodular features ( Figure 2 ).
+A chest radiograph showed bibasilar opacities (Figure 1). Computed tomography (CT) of the chest delineated bibasilar infiltrates with nodular features (Figure 2).
 Figure 1. Chest radiograph.
 Figure 2. Chest CT scan.
 Clinical Course Prior to Diagnosis
 She was admitted to the hospital; vancomycin and levofloxacin were initiated empirically for pneumonia.
 Diagnostic Procedure(s) and Result(s)
-Cytomegalovirus (CMV) viral load by hybrid capture was positive at 6.6 pg/ml. Bronchoscopy with trans-bronchial biopsy was sent for culture and pathology. Pathological examination of the specimens showed was chronic inflammation, consistent with diffuse alveolar damage and cytomegalovirus inclusions. In addition, immunohistochemical stains confirmed the presence of CMV ( Figure 3 ).
+Cytomegalovirus (CMV) viral load by hybrid capture was positive at 6.6 pg/ml. Bronchoscopy with trans-bronchial biopsy was sent for culture and pathology. Pathological examination of the specimens showed was chronic inflammation, consistent with diffuse alveolar damage and cytomegalovirus inclusions. In addition, immunohistochemical stains confirmed the presence of CMV (Figure 3).
 Figure 3. Immunohistochemical stain of biopsy.
+Treatment and Followup
 Discussion
 Immunocompromised patients, particularly transplant recipients, are at risk for CMV pneumonitis. Median time to presentation after transplant is approximately 45 days. Patients often present with dry cough and dyspnea.
 Radiographic studies may be unremarkable, although ground glass opacification, infiltrates or nodules can be observed. Diagnosis often requires bronchoalveolar lavage (BAL) with transbronchial biopsy to confirm CMV culture and histologic evidence of infection.
@@ -28,8 +29,12 @@ Final Diagnosis
 Cytomegalovirus (CMV) pneumonitis in a patient after bone marrow transplantation.
 References
 Machado, C.M., Menezes, R.X., Macedo, M.C., Mendes, A.V., Boas, L.S., Castelli, J.B., Dulley, F.L., and Pannuti, C.S. (2001). Extended antigenemia surveillance and late cytomegalovirus infection after allogeneic BMT. Bone Marrow Transplant 28, 1053-1059.
-PMID:11781616 ( PubMed abstract )
+PMID:11781616(PubMed abstract) Soubani, A.O., Miller, K.B., and Hassoun, P.M. (1996). Pulmonary complications of bone marrow transplantation. Chest 109, 1066-1077.
+PMID:8635332(PubMed abstract) White, P. (2001). Evaluation of pulmonary infiltrates in critically ill patients with cancer and marrow transplant. Crit Care Clin 17, 647-670.
+PMID:11525052(PubMed abstract)
+Machado, C.M., Menezes, R.X., Macedo, M.C., Mendes, A.V., Boas, L.S., Castelli, J.B., Dulley, F.L., and Pannuti, C.S. (2001). Extended antigenemia surveillance and late cytomegalovirus infection after allogeneic BMT. Bone Marrow Transplant 28, 1053-1059.
+PMID:11781616(PubMed abstract)
 Soubani, A.O., Miller, K.B., and Hassoun, P.M. (1996). Pulmonary complications of bone marrow transplantation. Chest 109, 1066-1077.
-PMID:8635332 ( PubMed abstract )
+PMID:8635332(PubMed abstract)
 White, P. (2001). Evaluation of pulmonary infiltrates in critically ill patients with cancer and marrow transplant. Crit Care Clin 17, 647-670.
-PMID:11525052 ( PubMed abstract )
+PMID:11525052(PubMed abstract)

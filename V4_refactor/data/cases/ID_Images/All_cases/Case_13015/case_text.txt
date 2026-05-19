@@ -14,7 +14,7 @@ The patient appeared tired, in no acute distress and able to engage in conversat
 Studies
 On admission, the white count was 23,000 cells/mL (reference range 3,900-9,900), sodium 129 mEq/L (reference range 136 – 145), creatinine 2.0 mg/dL (from baseline of 1.1 mg/dL), and glucose at 219 mg/dL. Procalcitonin was 4.58 ng/mL (reference range 0.0-0.1). Tests of liver function were normal.
 A nasal specimen screening for methicillin-resistant Staphylococcus aureus (MRSA) by PCR was negative. Two sets of blood cultures were obtained; he could not provide a sputum specimen.
-Images of a chest radiograph ( Figure 1 ) and CT scan of the thorax ( Figure 2 ) are shown.
+Images of a chest radiograph (Figure 1) and CT scan of the thorax (Figure 2) are shown.
 Figure 1. Chest radiograph with infiltrate in the left lung and a pleural-based density.
 Figure 2. Chest CT, with areas of consolidation.
 Diagnostic Procedure(s) and Result(s)
@@ -22,7 +22,7 @@ Both sets of blood cultures grew gram-negative rods from the aerobic bottles wit
 Treatment and Followup
 The patient initiated treatment with levofloxacin, vancomycin and piperacillin-tazobactam for possible healthcare-associated pneumonia; follow-up blood cultures done 48 hours after admission remained negative.
 On the sixth hospital day, the laboratory reported possible Burkholderia species, and the Infectious Disease service was consulted for management of the possible Burkholderia pseudomallei pneumonia and sepsis. The antibiotics were changed to oral doxycycline (150mg twice daily) and oral sulfamethoxazole/trimethoprim (1600/320mg twice daily) after completion of intravenous therapy (piperacillin/tazobactam and levofloxacin).
-The patient was discharged with improved condition after thirteen days hospitalization. A skin reaction developed 2 days after discharge and sulfamethoxazole/trimethoprim was subsequently changed to amoxicillin-clavulanate. He completed 20 weeks of treatment with doxycycline and amoxicillin-clavulanate with clinical improvement. Follow-up CT scan of the chest ( Figure 3 ) obtained 4 weeks after the first study was improved. He remained asymptomatic three years after his pneumonia.
+The patient was discharged with improved condition after thirteen days hospitalization. A skin reaction developed 2 days after discharge and sulfamethoxazole/trimethoprim was subsequently changed to amoxicillin-clavulanate. He completed 20 weeks of treatment with doxycycline and amoxicillin-clavulanate with clinical improvement. Follow-up CT scan of the chest (Figure 3) obtained 4 weeks after the first study was improved. He remained asymptomatic three years after his pneumonia.
 Figure 3. Follow-up CT of the chest, 4 weeks later.
 Discussion
 Melioidosis, caused by Burkholderia pseudomallei (a gram-negative, bipolar, aerobic, motile rod-shaped bacterium) occurs predominantly in Southeast Asia, Northern Australia, South Asia and China [Wiersinga et al. 2012]. Its known global distribution is expanding, a reflection of improvements in diagnostic microbiology and increasing numbers of cases in travelers. The Caribbean is not known to be endemic for the disease [Inglis et al. 2006], but cases originating from Puerto Rico have been described [CDC, MMWR 2006; Christenson et al. 2003; Dorman et al. 1998].
@@ -31,12 +31,18 @@ Final Diagnosis
 Burkholderia pseudomallei pneumonia with bacteremia.
 References
 Centers for Disease Control and Prevention (CDC). (2006) Imported melioidosis--South Florida, 2005. MMWR Morb Mortal Wkly Rep 2006 Aug 18;55(32):873-6.
-PMID:16915220 ( PubMed abstract )
+PMID:16915220(PubMed abstract) Christenson B, Fuxench Z, Morales JA, Suarez-Villamil RA, Souchet LM. Severe community-acquired pneumonia and sepsis caused by Burkholderia pseudomallei associated with flooding in Puerto Rico. Bol Asoc Med P R 2003
+PMID:15449787(PubMed abstract) Dorman SE, Gill VJ, Gallin JI, Holland SM. Burkholderia pseudomallei infection in a Puerto Rican patient with chronic granulomatous disease: case report and review of occurrences in the Americas. Clin Infect Dis 1998 Apr;26(4):889-94.
+PMID:9564470(PubMed abstract) Inglis TJ, Rolim DB, Sousa Ade Q. Melioidosis in the Americas. Am J Trop Med Hyg 2006 Nov;75(5):947-54.
+PMID:17123994(PubMed abstract) Wiersinga WJ, Currie BJ, Peacock SJ. Melioidosis. N Engl J Med 2012 Sep 13;367(11):1035-44.
+PMID:22970946(PubMed abstract)
+Centers for Disease Control and Prevention (CDC). (2006) Imported melioidosis--South Florida, 2005. MMWR Morb Mortal Wkly Rep 2006 Aug 18;55(32):873-6.
+PMID:16915220(PubMed abstract)
 Christenson B, Fuxench Z, Morales JA, Suarez-Villamil RA, Souchet LM. Severe community-acquired pneumonia and sepsis caused by Burkholderia pseudomallei associated with flooding in Puerto Rico. Bol Asoc Med P R 2003
-PMID:15449787 ( PubMed abstract )
+PMID:15449787(PubMed abstract)
 Dorman SE, Gill VJ, Gallin JI, Holland SM. Burkholderia pseudomallei infection in a Puerto Rican patient with chronic granulomatous disease: case report and review of occurrences in the Americas. Clin Infect Dis 1998 Apr;26(4):889-94.
-PMID:9564470 ( PubMed abstract )
+PMID:9564470(PubMed abstract)
 Inglis TJ, Rolim DB, Sousa Ade Q. Melioidosis in the Americas. Am J Trop Med Hyg 2006 Nov;75(5):947-54.
-PMID:17123994 ( PubMed abstract )
+PMID:17123994(PubMed abstract)
 Wiersinga WJ, Currie BJ, Peacock SJ. Melioidosis. N Engl J Med 2012 Sep 13;367(11):1035-44.
-PMID:22970946 ( PubMed abstract )
+PMID:22970946(PubMed abstract)

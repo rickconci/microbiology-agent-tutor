@@ -13,11 +13,11 @@ On examination, he appeared pale and fatigued, lying in bed. The weight was 57 k
 Studies
 The white cell count was 12,500/mm³ (reference range 5,000-10,000) with 83% neutrophils, hemoglobin 8.1 g/dL, and platelets 505,000/mm³ (ref. 145,000-400,000). The erythrocyte sedimentation rate (ESR) was 62 mm/hr (ref. 0-10), and the C–reactive protein (CRP) 8.4 mg/dl (ref. 0 - 0.9 mg/dl), total protein 10 gm/dL (ref. 6.0-8.0), and the lactate dehydrogenase (LDH) 1027 U/L (ref. 313-618). Other routine laboratory tests and a chest radiograph were normal.
 Clinical Course Prior to Diagnosis
-Computed tomography (CT) of the chest and abdomen revealed a 6-7 cm heterogeneous mass in the upper pole of the left kidney, which did not appear calcified ( Figure 1 ). The renal mass was associated with infiltrative changes in the surrounding fat and lymphadenopathy, and there was thickening of the diaphragm and spleen ( Figure 2 ). A small, discrete lesion in the lower pole of the left kidney was also noted ( Figure 3 ). Additionally, multiple pleural-based densities were detected.
+Computed tomography (CT) of the chest and abdomen revealed a 6-7 cm heterogeneous mass in the upper pole of the left kidney, which did not appear calcified (Figure 1). The renal mass was associated with infiltrative changes in the surrounding fat and lymphadenopathy, and there was thickening of the diaphragm and spleen (Figure 2). A small, discrete lesion in the lower pole of the left kidney was also noted (Figure 3). Additionally, multiple pleural-based densities were detected.
 Figure 1. CT of the chest and abdomen.
 Figure 2. CT of the abdomen.
 Diagnostic Procedure(s) and Result(s)
-A tuberculin-skin test, testing for antibodies to human immunodeficiency virus (HIV), and cultures of the blood and urine were negative; results of a urinalysis were not available. A percutaneous, ultrasound-guided biopsy of the left kidney mass was performed. Pathological examination of the tissue with hematoxylin and eosin (H and E) staining of the specimens revealed inflammatory cells characteristic of acute and chronic pyelonephritis, including infiltration of lipid-laden (foamy) macrophages throughout the renal parenchyma, including the glomerulus ( Figure 3 ) and renal tubule ( Figure 4 ), consistent with a diagnosis of xanthogranulomatous pyelonephritis. Culture from renal tissue grew methicillin-resistant Staphylococcus aureus (MRSA).
+A tuberculin-skin test, testing for antibodies to human immunodeficiency virus (HIV), and cultures of the blood and urine were negative; results of a urinalysis were not available. A percutaneous, ultrasound-guided biopsy of the left kidney mass was performed. Pathological examination of the tissue with hematoxylin and eosin (H and E) staining of the specimens revealed inflammatory cells characteristic of acute and chronic pyelonephritis, including infiltration of lipid-laden (foamy) macrophages throughout the renal parenchyma, including the glomerulus (Figure 3) and renal tubule (Figure 4), consistent with a diagnosis of xanthogranulomatous pyelonephritis. Culture from renal tissue grew methicillin-resistant Staphylococcus aureus (MRSA).
 Figure 3. Renal biopsy, H and E stain (x400 magnification).
 Figure 4. Renal biopsy, H and E stain (x400 magnification).
 Treatment and Followup
@@ -29,20 +29,30 @@ Final Diagnosis
 Xanthogranulomatous pyelonephritis, with methicillin-resistant Staphylococcus aureus (MRSA) infection.
 References
 Al-Hwiesh, A.K. (2007). Xanthgranulomatous pyelonephritis associated with Staphylococcus aureus. Saudi J Kidney Dis Transpl 18, 613-616.
-PMID:17951953 ( PubMed abstract )
+PMID:17951953(PubMed abstract) Bottalico, T., Parks, S., Zaslau, S., and Tarry, W.F. (2007). Pediatric xanthogranulomatous pyelonephritis masquerading as complex renal mass. Urology 70, 372 e311-372.
+PMID:17826514(PubMed abstract) Brown, P.S., Jr., Dodson, M., and Weintrub, P.S. (1996). Xanthogranulomatous pyelonephritis: report of nonsurgical management of a case and review of the literature. Clin Infect Dis 22, 308-314.
+PMID:8838188(PubMed abstract) Grainger, R.G., Longstaff, A.J., and Parsons, M.A. (1982). Xanthogranulomatous pyelonephritis: a reappraisal. Lancet 1, 1398-1401.
+PMID:6123688(PubMed abstract) Gupta, S., Araya, C.E., and Dharnidharka, V.R. (2010). Xanthogranulomatous pyelonephritis in pediatric patients: case report and review of literature. J Pediatr Urol 6, 355-358.
+PMID:19864185(PubMed abstract) Korkes, F., Favoretto, R.L., Broglio, M., Silva, C.A., Castro, M.G., and Perez, M.D. (2008). Xanthogranulomatous pyelonephritis: clinical experience with 41 cases. Urology 71, 178-180.
+PMID:18308077(PubMed abstract) Levy, M., Baumal, R., and Eddy, A.A. (1994). Xanthogranulomatous pyelonephritis in children. Etiology, pathogenesis, clinical and radiologic features, and management. Clin Pediatr (Phila) 33, 360-366.
+PMID:8200171(PubMed abstract) Smith, E.A., Styn, N., Wan, J., McHugh, J., and Dillman, J.R. (2010). Xanthogranulomatous pyelonephritis: an uncommon pediatric renal mass. Pediatr Radiol 40, 1421-1425.
+PMID:20151117(PubMed abstract) Zugor, V., Schott, G.E., and Labanaris, A.P. (2007). Xanthogranulomatous pyelonephritis in childhood: a critical analysis of 10 cases and of the literature. Urology 70, 157-160.
+PMID:17656228(PubMed abstract)
+Al-Hwiesh, A.K. (2007). Xanthgranulomatous pyelonephritis associated with Staphylococcus aureus. Saudi J Kidney Dis Transpl 18, 613-616.
+PMID:17951953(PubMed abstract)
 Bottalico, T., Parks, S., Zaslau, S., and Tarry, W.F. (2007). Pediatric xanthogranulomatous pyelonephritis masquerading as complex renal mass. Urology 70, 372 e311-372.
-PMID:17826514 ( PubMed abstract )
+PMID:17826514(PubMed abstract)
 Brown, P.S., Jr., Dodson, M., and Weintrub, P.S. (1996). Xanthogranulomatous pyelonephritis: report of nonsurgical management of a case and review of the literature. Clin Infect Dis 22, 308-314.
-PMID:8838188 ( PubMed abstract )
+PMID:8838188(PubMed abstract)
 Grainger, R.G., Longstaff, A.J., and Parsons, M.A. (1982). Xanthogranulomatous pyelonephritis: a reappraisal. Lancet 1, 1398-1401.
-PMID:6123688 ( PubMed abstract )
+PMID:6123688(PubMed abstract)
 Gupta, S., Araya, C.E., and Dharnidharka, V.R. (2010). Xanthogranulomatous pyelonephritis in pediatric patients: case report and review of literature. J Pediatr Urol 6, 355-358.
-PMID:19864185 ( PubMed abstract )
+PMID:19864185(PubMed abstract)
 Korkes, F., Favoretto, R.L., Broglio, M., Silva, C.A., Castro, M.G., and Perez, M.D. (2008). Xanthogranulomatous pyelonephritis: clinical experience with 41 cases. Urology 71, 178-180.
-PMID:18308077 ( PubMed abstract )
+PMID:18308077(PubMed abstract)
 Levy, M., Baumal, R., and Eddy, A.A. (1994). Xanthogranulomatous pyelonephritis in children. Etiology, pathogenesis, clinical and radiologic features, and management. Clin Pediatr (Phila) 33, 360-366.
-PMID:8200171 ( PubMed abstract )
+PMID:8200171(PubMed abstract)
 Smith, E.A., Styn, N., Wan, J., McHugh, J., and Dillman, J.R. (2010). Xanthogranulomatous pyelonephritis: an uncommon pediatric renal mass. Pediatr Radiol 40, 1421-1425.
-PMID:20151117 ( PubMed abstract )
+PMID:20151117(PubMed abstract)
 Zugor, V., Schott, G.E., and Labanaris, A.P. (2007). Xanthogranulomatous pyelonephritis in childhood: a critical analysis of 10 cases and of the literature. Urology 70, 157-160.
-PMID:17656228 ( PubMed abstract )
+PMID:17656228(PubMed abstract)

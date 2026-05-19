@@ -6,15 +6,15 @@ There was a history of hypertension, diabetes mellitus, coronary artery disease,
 Medications
 Medications included insulin and antihypertensives.
 Physical Examination
-The visual acuity of the right eye was significantly diminished, with the patient perceiving hand motion only. Conjunctival injection and a hypopyon were present ( Figure 1 ).
+The visual acuity of the right eye was significantly diminished, with the patient perceiving hand motion only. Conjunctival injection and a hypopyon were present (Figure 1).
 Figure 1. Physical finding.
 Studies
-Cultures were obtained. (See Figures 2 and 3 .)
+Cultures were obtained. (See Figures 2 and 3.)
 Figure 2. Culture plate.
 Figure 3. Culture results.
 Clinical Course Prior to Diagnosis
 Diagnostic Procedure(s) and Result(s)
-Corneal, aqueous, and vitreous cultures grew Fusarium , a septate filamentous fungus, as seen in Figure 3 . Numerous organisms are seen in Figure 4 with a corneal silver stain. Blood cultures were negative.
+Corneal, aqueous, and vitreous cultures grew Fusarium, a septate filamentous fungus, as seen in Figure 3. Numerous organisms are seen in Figure 4 with a corneal silver stain. Blood cultures were negative.
 Figure 4. Silver stain of cornea.
 Treatment and Followup
 The patient underwent a vitrectomy and received intravitreal vancomycin, ceftazidime, and amphotericin B. He was also given systemic itraconazole, and topical amphotericin B and vancomycin. In addition, he underwent a repeat penetrating keratoplasty.
@@ -25,6 +25,9 @@ Final Diagnosis
 Fusarium endophthalmitis.
 References
 Kernt, M., and Kampik, A. (2010). Endophthalmitis: Pathogenesis, clinical presentation, management, and perspectives. Clin Ophthalmol 4, 121-135.
-PMID:20390032 ( PubMed abstract )
+PMID:20390032(PubMed abstract) Wykoff, C.C., Flynn, H.W., Jr., Miller, D., Scott, I.U., and Alfonso, E.C. (2008). Exogenous fungal endophthalmitis: microbiology and clinical outcomes. Ophthalmology 115, 1501-1507, 1507 e1501-1502.
+PMID:18486220(PubMed abstract)
+Kernt, M., and Kampik, A. (2010). Endophthalmitis: Pathogenesis, clinical presentation, management, and perspectives. Clin Ophthalmol 4, 121-135.
+PMID:20390032(PubMed abstract)
 Wykoff, C.C., Flynn, H.W., Jr., Miller, D., Scott, I.U., and Alfonso, E.C. (2008). Exogenous fungal endophthalmitis: microbiology and clinical outcomes. Ophthalmology 115, 1501-1507, 1507 e1501-1502.
-PMID:18486220 ( PubMed abstract )
+PMID:18486220(PubMed abstract)

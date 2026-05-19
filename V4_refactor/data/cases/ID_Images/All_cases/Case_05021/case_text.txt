@@ -8,11 +8,11 @@ The patient had lived in Africa for several years during his childhood, departin
 Physical Examination
 The physical examination was normal.
 Studies
-Images of the findings are shown in Figures 1 and 2 . The finding measured 12 inches in length.
+Images of the findings are shown in Figures 1 and 2. The finding measured 12 inches in length.
 Figure 1. Finding after defecation.
 Figure 2. Detail of Figure 1.
 Diagnostic Procedure(s) and Result(s)
-Examination revealed a gravid female nematode, Ascaris .
+Examination revealed a gravid female nematode, Ascaris.
 Treatment and Followup
 After the identification of the nematode, the patient was treated with one dose of albendazole. He was advised to return to his primary care physician in 1-2 weeks for repeat stool evaluation for ova and parasites to confirm clearance. If ova are found, one additional treatment would be considered.
 Discussion
@@ -22,6 +22,9 @@ Final Diagnosis
 Ascariasis.
 References
 Dold, C., and Holland, C.V. (2011). Ascaris and ascariasis. Microbes Infect 13, 632-637.
-PMID:20934531 ( PubMed abstract )
+PMID:20934531(PubMed abstract) Khuroo, M.S. (1996). Ascariasis. Gastroenterol Clin North Am 25, 553-577.
+PMID:8863040(PubMed abstract)
+Dold, C., and Holland, C.V. (2011). Ascaris and ascariasis. Microbes Infect 13, 632-637.
+PMID:20934531(PubMed abstract)
 Khuroo, M.S. (1996). Ascariasis. Gastroenterol Clin North Am 25, 553-577.
-PMID:8863040 ( PubMed abstract )
+PMID:8863040(PubMed abstract)

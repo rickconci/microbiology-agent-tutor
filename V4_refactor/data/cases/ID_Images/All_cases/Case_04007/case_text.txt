@@ -18,7 +18,7 @@ There was no history of tobacco or alcohol use. She lived in the northeastern Un
 Physical Examination
 The patient was disoriented and delirious. The temperature was 96.6°F (35.9°C), blood pressure 106/64 mm Hg, pulse 109 beats per minute, and the oxygen saturation was 97% on three liters of oxygen per nasal cannula.
 There was conjunctival injection with a mild whitish exudate. A severe oral mucositis was present, with a white exudate in soft palate consistent with thrush, and a few vesicular lesions visualized. The examination was limited due to pain. The neck was supple and there was no lymphadenopathy. There were bilateral rhonchi and decreased breath sounds at the left base. There were no cardiac murmurs, and the abdomen was soft with some voluntary guarding, and positive bowel sounds. There was no hepatomegaly or peripheral edema. The patient moved all four extremities, and had no meningismus or gaze preference.
-There was a diffuse papulo-vesicular rash ( Figures 1 through 3 ). Individual lesions had erythematous well-circumscribed ring-like borders, with a dark center, and involved the trunk, extremities, back, and face. All lesions appeared similar; there was no crusting, no erythematous base, and some lesions were coalescing. Palms and soles had a marked erythroderm, edema and exfoliation. Discrete bullae were present on the soles and were very tender to touch.
+There was a diffuse papulo-vesicular rash (Figures 1 through 3). Individual lesions had erythematous well-circumscribed ring-like borders, with a dark center, and involved the trunk, extremities, back, and face. All lesions appeared similar; there was no crusting, no erythematous base, and some lesions were coalescing. Palms and soles had a marked erythroderm, edema and exfoliation. Discrete bullae were present on the soles and were very tender to touch.
 Figure 1. Skin lesions.
 Figure 2. Skin lesions.
 Figure 3. Skin lesions.
@@ -37,4 +37,4 @@ Final Diagnosis
 Disseminated herpes simplex virus (HSV) in the setting of chemotherapy-induced neutropenia in a patient with Hodgkin's disease.
 References
 Herget, G.W., Riede, U.N., Schmitt-Graff, A., Lubbert, M., Neumann-Haefelin, D., and Kohler, G. (2005). Generalized herpes simplex virus infection in an immunocompromised patient--report of a case and review of the literature. Pathol Res Pract 201, 123-129.
-PMID:15901133 ( PubMed abstract )
+PMID:15901133(PubMed abstract)

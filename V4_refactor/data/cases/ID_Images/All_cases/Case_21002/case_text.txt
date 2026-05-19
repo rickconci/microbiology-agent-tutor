@@ -131,7 +131,7 @@ Positive
 Clinical Course Prior to Diagnosis
 Patient became hypotensive and required pressors (norepinephrine and vasopressin) to maintain hemodynamic stability. Due to progressive deterioration and worsening liver and neurologic function, she received a liver transplant on day 11. Following transplant, her neurologic status failed to improve. Brain imaging revealed central and cerebellar tonsillar herniation. She was declared brain dead by neurologic criteria.
 Diagnostic Procedure(s) and Result(s)
-Hepatitis panel was nonreactive. Computed tomography (CT) of chest, abdomen, and pelvis was notable for hepatosplenomegaly and anasarca. Liver ultrasound showed a recanalized umbilical vein. Liver explant revealed widespread hepatocellular necrosis with evidence of viral cytopathic effects. HSV-1 and HSV-2 immunostains were positive, consistent with HSV hepatitis.
+Hepatitis panel was nonreactive. Computed tomography (CT) of chest, abdomen, and pelvis was notable for hepatosplenomegaly and anasarca. Liver ultrasound showed a recanalized umbilical vein. Liver explant revealed widespread hepatocellular necrosis with evidence of viral cytopathic effects. HSV-1 and HSV-2 immunostains were positive, consistent with HSV hepatitis. Figure 1. CT of abdomen and pelvis demonstrating hepatosplenomegaly and anasarca in (A) Coronal section; (B) Transverse section Figure 2. Post-mortem liver explant gross pathology Heterogenous, mottled liver with patchy areas of yellowish discoloration, corresponding to areas of necrosis Figure 3. Representative histopathology taken from liver explant showing hematoxylin and eosin staining at low magnification with confluent hepatocellular necrosis Figure 4. Representative histopathology taken from liver explant showing hematoxylin and eosin staining at high magnification with evidence of viral cytopathic effects Figure 5. Representative histopathology taken from liver explant showing HSV-1 immunostain with cytoplasmic and nuclear positivity.
 Figure 1. CT of abdomen and pelvis demonstrating hepatosplenomegaly and anasarca in (A) Coronal section; (B) Transverse section
 Figure 2. Post-mortem liver explant gross pathology Heterogenous, mottled liver with patchy areas of yellowish discoloration, corresponding to areas of necrosis
 Figure 3. Representative histopathology taken from liver explant showing hematoxylin and eosin staining at low magnification with confluent hepatocellular necrosis
@@ -151,16 +151,24 @@ Final Diagnosis
 Herpes Simplex Virus Hepatitis
 References
 Calix RX, Loeliger KB, Burn MS, Campbell KH. Acute Herpes Simplex Virus Hepatitis in Pregnancy. Obstet Gynecol. 2020 Feb;135(2):396-400. doi: 10.1097/AOG.0000000000003613. Erratum in: Obstet Gynecol. 2020 Jun;135(6):1489.
-PMID:31923059 ( PubMed abstract )
+PMID:31923059(PubMed abstract) Kaufman B, Gandhi SA, Louie E, Rizzi R, Illei P. Herpes simplex virus hepatitis: case report and review. Clin Infect Dis. 1997 Mar;24(3):334-8. doi: 10.1093/clinids/24.3.334.
+PMID:9114181(PubMed abstract) Natu A, Iuppa G, Packer CD. Herpes Simplex Virus Hepatitis: A Presentation of Multi-Institutional Cases to Promote Early Diagnosis and Management of the Disease. Case Reports Hepatol. 2017;2017:3180984. doi: 10.1155/2017/3180984. Epub 2017 Aug 1.
+PMID:28835860(PubMed abstract) Norvell JP, Blei AT, Jovanovic BD, Levitsky J. Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34. doi: 10.1002/lt.21250.
+PMID:17902129(PubMed abstract) Peters DJ, Greene WH, Ruggiero F, McGarrity TJ. Herpes simplex-induced fulminant hepatitis in adults: a call for empiric therapy. Dig Dis Sci. 2000 Dec;45(12):2399-404. doi: 10.1023/a:1005699210816.
+PMID:11258565(PubMed abstract) Rimawi BH, Meserve J, Rimawi RH, Min Z, Gnann JW Jr. Disseminated Herpes Simplex Virus with Fulminant Hepatitis. Case Reports Hepatol. 2015;2015:463825. doi: 10.1155/2015/463825. Epub 2015 Jul 28.
+PMID:26290760(PubMed abstract) Schiødt FV, Davern TJ, Shakil AO, McGuire B, Samuel G, Lee WM. Viral hepatitis-related acute liver failure. Am J Gastroenterol. 2003 Feb;98(2):448-53. doi: 10.1111/j.1572-0241.2003.t01-1-07223.x.
+PMID:12591067(PubMed abstract)
+Calix RX, Loeliger KB, Burn MS, Campbell KH. Acute Herpes Simplex Virus Hepatitis in Pregnancy. Obstet Gynecol. 2020 Feb;135(2):396-400. doi: 10.1097/AOG.0000000000003613. Erratum in: Obstet Gynecol. 2020 Jun;135(6):1489.
+PMID:31923059(PubMed abstract)
 Kaufman B, Gandhi SA, Louie E, Rizzi R, Illei P. Herpes simplex virus hepatitis: case report and review. Clin Infect Dis. 1997 Mar;24(3):334-8. doi: 10.1093/clinids/24.3.334.
-PMID:9114181 ( PubMed abstract )
+PMID:9114181(PubMed abstract)
 Natu A, Iuppa G, Packer CD. Herpes Simplex Virus Hepatitis: A Presentation of Multi-Institutional Cases to Promote Early Diagnosis and Management of the Disease. Case Reports Hepatol. 2017;2017:3180984. doi: 10.1155/2017/3180984. Epub 2017 Aug 1.
-PMID:28835860 ( PubMed abstract )
+PMID:28835860(PubMed abstract)
 Norvell JP, Blei AT, Jovanovic BD, Levitsky J. Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34. doi: 10.1002/lt.21250.
-PMID:17902129 ( PubMed abstract )
+PMID:17902129(PubMed abstract)
 Peters DJ, Greene WH, Ruggiero F, McGarrity TJ. Herpes simplex-induced fulminant hepatitis in adults: a call for empiric therapy. Dig Dis Sci. 2000 Dec;45(12):2399-404. doi: 10.1023/a:1005699210816.
-PMID:11258565 ( PubMed abstract )
+PMID:11258565(PubMed abstract)
 Rimawi BH, Meserve J, Rimawi RH, Min Z, Gnann JW Jr. Disseminated Herpes Simplex Virus with Fulminant Hepatitis. Case Reports Hepatol. 2015;2015:463825. doi: 10.1155/2015/463825. Epub 2015 Jul 28.
-PMID:26290760 ( PubMed abstract )
+PMID:26290760(PubMed abstract)
 Schiødt FV, Davern TJ, Shakil AO, McGuire B, Samuel G, Lee WM. Viral hepatitis-related acute liver failure. Am J Gastroenterol. 2003 Feb;98(2):448-53. doi: 10.1111/j.1572-0241.2003.t01-1-07223.x.
-PMID:12591067 ( PubMed abstract )
+PMID:12591067(PubMed abstract)

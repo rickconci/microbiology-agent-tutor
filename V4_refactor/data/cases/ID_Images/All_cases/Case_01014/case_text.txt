@@ -5,13 +5,13 @@ Fluormetholone ophthalmic ointment and oral cephalexin were given without respon
 Epidemiological History
 The patient lived in a city in the Western United States. There was no history of travel or animal contact. The patient had gone to a pumpkin patch 3 weeks after the onset of the lesion and sat in a haystack on the mother’s lap.
 Physical Examination
-The examination was normal except for the lesion on the nose as shown in Figures 1 and 2 .
+The examination was normal except for the lesion on the nose as shown in Figures 1 and 2.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Diagnostic Procedure(s) and Result(s)
-Potassium hydroxide (KOH) scraping was negative. Culture of the lesion grew Sporothrix schenckii .
+Potassium hydroxide (KOH) scraping was negative. Culture of the lesion grew Sporothrix schenckii.
 Treatment and Followup
-The patient was treated with itraconazole for four months. The child's appearance one month after the completion of therapy is shown in Figure 3 .
+The patient was treated with itraconazole for four months. The child's appearance one month after the completion of therapy is shown in Figure 3.
 Figure 3. Physical findings at follow-up.
 Discussion
 Sporothrix schenckii is a dimorphic fungus that is ubiquitous and can be isolated from soil, plants, and hay. Sporotrichosis most commonly presents as a cutaneous infection at a site of minor trauma after an average incubation period of 7-30 days.
@@ -19,6 +19,9 @@ Final Diagnosis
 Sporothrix schenckii infection in an infant.
 References
 de Lima Barros, M.B., Schubach, A.O., de Vasconcellos Carvalhaes de Oliveira, R., Martins, E.B., Teixeira, J.L., and Wanke, B. (2011). Treatment of cutaneous sporotrichosis with itraconazole--study of 645 patients. Clin Infect Dis 52, e200-206.
-PMID:21628477 ( PubMed abstract )
+PMID:21628477(PubMed abstract) Song, Y., Yao, L., Zhong, S.X., Tian, Y.P., Liu, Y.Y., and Li, S.S. (2011). Infant sporotrichosis in northeast China: a report of 15 cases. Int J Dermatol 50, 522-529.
+PMID:21506965(PubMed abstract)
+de Lima Barros, M.B., Schubach, A.O., de Vasconcellos Carvalhaes de Oliveira, R., Martins, E.B., Teixeira, J.L., and Wanke, B. (2011). Treatment of cutaneous sporotrichosis with itraconazole--study of 645 patients. Clin Infect Dis 52, e200-206.
+PMID:21628477(PubMed abstract)
 Song, Y., Yao, L., Zhong, S.X., Tian, Y.P., Liu, Y.Y., and Li, S.S. (2011). Infant sporotrichosis in northeast China: a report of 15 cases. Int J Dermatol 50, 522-529.
-PMID:21506965 ( PubMed abstract )
+PMID:21506965(PubMed abstract)

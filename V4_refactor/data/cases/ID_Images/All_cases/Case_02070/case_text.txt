@@ -9,23 +9,27 @@ Physical Examination
 His temperature was 105°F (40.6°C), and his lungs were clear.
 Studies
 The white blood cell count was 9,200 cells/mm³ with 79% polymorphonuclear leukocytes and 3% band forms.
-The initial chest radiograph revealed a nodular infiltrate in the left upper lobe ( Figure 1 ). Sputum gram stain revealed polymorphonuclear leukocytes with mixed oral flora. Bronchoscopy and cultures were unrevealing.
+The initial chest radiograph revealed a nodular infiltrate in the left upper lobe (Figure 1). Sputum gram stain revealed polymorphonuclear leukocytes with mixed oral flora. Bronchoscopy and cultures were unrevealing.
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
-A chest radiograph five days later showed a worsening infiltrate ( Figure 2 ).
+A chest radiograph five days later showed a worsening infiltrate (Figure 2).
 Figure 2. Chest radiograph five days later.
 Diagnostic Procedure(s) and Result(s)
 Following empiric antibiotic treatment, a diagnosis of Legionella micdadei infection was made retrospectively by testing acute and convalescent sera for causes of atypical pneumonia.
 Treatment and Followup
 The patient improved on empiric therapy that included erythromycin.
 Discussion
-The commensal organisms that promote the growth of Legionella pneumophila do not support L. micdadei , perhaps accounting for the lower frequency of the latter in the water supply. Legionella micdadei usually affects individuals who are immunosuppressed or have undergone prolonged hospitalization. At the time of this publication, treatment of L. micdadei pneumonia should include a macrolide or a fluoroquinolone. In immunosuppressed individuals, a longer course of therapy (up to 21 days) may help prevent relapse.
+The commensal organisms that promote the growth of Legionella pneumophila do not support L. micdadei, perhaps accounting for the lower frequency of the latter in the water supply. Legionella micdadei usually affects individuals who are immunosuppressed or have undergone prolonged hospitalization. At the time of this publication, treatment of L. micdadei pneumonia should include a macrolide or a fluoroquinolone. In immunosuppressed individuals, a longer course of therapy (up to 21 days) may help prevent relapse.
 Final Diagnosis
 Legionella micdadei atypical pneumonia.
 References
 Knirsch CA, Jakob K, Schoonmaker D, Kiehlbauch JA, Wong SJ, Della-Latta P, Whittier S, Layton M, Scully B. (2000)An outbreak of Legionella micdadei pneumonia in transplant patients: evaluation, molecular epidemiology, and control. Am J Med. Mar;108(4):290-5.
-PMID:11014721 ( PubMed abstract )
+PMID:11014721(PubMed abstract) Nair, G.B., and Niederman, M.S. (2011). Community-acquired pneumonia: an unfinished battle. Med Clin North Am 95, 1143-1161.
+PMID:22032432(PubMed abstract) Newton, H.J., Ang, D.K., van Driel, I.R., and Hartland, E.L. (2010). Molecular pathogenesis of infections caused by Legionella pneumophila. Clin Microbiol Rev 23, 274-298.
+PMID:20375353(PubMed abstract)
+Knirsch CA, Jakob K, Schoonmaker D, Kiehlbauch JA, Wong SJ, Della-Latta P, Whittier S, Layton M, Scully B. (2000)An outbreak of Legionella micdadei pneumonia in transplant patients: evaluation, molecular epidemiology, and control. Am J Med. Mar;108(4):290-5.
+PMID:11014721(PubMed abstract)
 Nair, G.B., and Niederman, M.S. (2011). Community-acquired pneumonia: an unfinished battle. Med Clin North Am 95, 1143-1161.
-PMID:22032432 ( PubMed abstract )
+PMID:22032432(PubMed abstract)
 Newton, H.J., Ang, D.K., van Driel, I.R., and Hartland, E.L. (2010). Molecular pathogenesis of infections caused by Legionella pneumophila. Clin Microbiol Rev 23, 274-298.
-PMID:20375353 ( PubMed abstract )
+PMID:20375353(PubMed abstract)

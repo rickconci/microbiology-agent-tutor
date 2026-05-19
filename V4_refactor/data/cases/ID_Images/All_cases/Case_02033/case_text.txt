@@ -8,19 +8,23 @@ Medications included prednisone and FK506.
 Physical Examination
 He was afebrile, with mild periorbital edema and quarter-sized hypoesthesia over left cheek. Vision and extraocular movements intact, and the remainder of the examination was normal.
 Studies
-Computerized tomography (CT) scan revealed left ethmoid and maxillary sinusitis, as well as inferior orbital involvement ( Figure 1 ).
+Computerized tomography (CT) scan revealed left ethmoid and maxillary sinusitis, as well as inferior orbital involvement (Figure 1).
 Figure 1. Head CT scan.
 Clinical Course Prior to Diagnosis
 Diagnostic Procedure(s) and Result(s)
-He underwent a left maxillary sinus debridement. Pathology revealed chronic inflammation with invasive fungal forms. Hyphae with acute angle branching are seen in Figure 2 and suggest a diagnosis of Aspergillus . Samples grew Aspergillus fumigatus on culture.
+He underwent a left maxillary sinus debridement. Pathology revealed chronic inflammation with invasive fungal forms. Hyphae with acute angle branching are seen in Figure 2 and suggest a diagnosis of Aspergillus. Samples grew Aspergillus fumigatus on culture.
 Figure 2. Aspergillus fumigatus.
+Treatment and Followup
 Discussion
 Invasive aspergillosis most commonly affects immunocompromised hosts; portal of entry is usually via the lungs or sinuses. Most often, the lung or central nervous system is involved. Treatment is surgical debridement, when possible, as well as antifungal therapy and minimization of immunosuppression. Antifungals with activity against Aspergillus include amphotericin products, as well as more novel therapeutics such as caspofungin and voriconazole.
 The clinical presentation of mucormycosis may be indistinguishable from aspergillosis. Invasive aspergillosis is substantially more common, however. On biopsy, Mucor appears as broad based hyphae without septations. Recurrent lymphoma may present as a retroorbital mass, however the associated sinus disease seen in this case would be unusual. Mycobacterium chelonae may cause disseminated infection in immunocompromised patients, but this typically presents with soft tissue nodules.
 Final Diagnosis
-Invasive aspergillosis, caused by Aspergillus fumigatus , in a patient with Non-Hodgkin's lymphoma and status post bone marrow transplant.
+Invasive aspergillosis, caused by Aspergillus fumigatus, in a patient with Non-Hodgkin's lymphoma and status post bone marrow transplant.
 References
 Coley, S.C., Jager, H.R., Szydlo, R.M., and Goldman, J.M. (1999). CT and MRI manifestations of central nervous system infection following allogeneic bone marrow transplantation. Clin Radiol 54, 390-397.
-PMID:10406341 ( PubMed abstract )
+PMID:10406341(PubMed abstract) Verschraegen, C.F., van Besien, K.W., Dignani, C., Hester, J.P., Andersson, B.S., and Anaissie, E. (1997). Invasive Aspergillus sinusitis during bone marrow transplantation. Scand J Infect Dis 29, 436-438.
+PMID:9360268(PubMed abstract)
+Coley, S.C., Jager, H.R., Szydlo, R.M., and Goldman, J.M. (1999). CT and MRI manifestations of central nervous system infection following allogeneic bone marrow transplantation. Clin Radiol 54, 390-397.
+PMID:10406341(PubMed abstract)
 Verschraegen, C.F., van Besien, K.W., Dignani, C., Hester, J.P., Andersson, B.S., and Anaissie, E. (1997). Invasive Aspergillus sinusitis during bone marrow transplantation. Scand J Infect Dis 29, 436-438.
-PMID:9360268 ( PubMed abstract )
+PMID:9360268(PubMed abstract)

@@ -5,25 +5,31 @@ Epidemiological History
 The patient was from El Salvador, and had recently arrived in the United States. He had a history of smoking 20 cigarettes per day.
 Studies
 Results of a complete blood count (CBC), blood urea nitrogen, creatinine and liver function tests were normal, and a test for syphilis (RPR) was non-reactive.
-Computed tomography (CT) of the chest is shown in Figures 1 and 2 .
+Computed tomography (CT) of the chest is shown in Figures 1 and 2.
 Figure 1. Chest CT scan.
 Figure 2. Chest CT scan.
 Clinical Course Prior to Diagnosis
-A barium swallow is shown in Figure 3 .
+A barium swallow is shown in Figure 3.
 Figure 3. Barium swallow.
 Diagnostic Procedure(s) and Result(s)
 The chest CT scans and barium swallow revealed mega-esophagus. Serologic testing for Chagas disease was positive.
+Treatment and Followup
 Discussion
 Chagas disease, caused by Trypanosoma cruzi, is present only in the Western hemisphere. Most cases occur in Central and South America. Chronic Chagas Disease may cause cardiomyopathy or gastrointestinal tract dysfunction (megadisease). In South America, both cardiomyopathy and megadisease are seen, whereas in Central America megadisease seems to be less common; the reason for this difference in presentation is not clear.
 The most common clinical manifestation of chagasic gastrointestinal disease is mega-esophagus, which typically presents with dysphagia. Other common sites of chagasic gastrointestinal disease are the colon, the parotid glands, and the stomach.
 Final Diagnosis
-Chagas mega-esophagus, caused by Trypanosoma cruzi .
+Chagas mega-esophagus, caused by Trypanosoma cruzi.
 References
 Bern C, Montgomery SP, Herwaldt BL, Rassi A Jr, Marin-Neto JA, Dantas RO, Maguire JH, Acquatella H, Morillo C, Kirchhoff LV, Gilman RH, Reyes PA, Salvatella R, Moore AC. Evaluation and treatment of chagas disease in the United States: a systematic review. JAMA. 2007 Nov 14;298(18):2171-81.
-PMID:18000201 ( PubMed abstract )
+PMID:18000201(PubMed abstract) Pinazo, M.J., Canas, E., Elizalde, J.I., Garcia, M., Gascon, J., Gimeno, F., Gomez, J., Guhl, F., Ortiz, V., Posada Ede, J., Puente, S., Rezende, J., Salas, J., Saravia, J., Torrico, F., Torrus, D., and Trevino, B. (2010). Diagnosis, management and treatment of chronic Chagas' gastrointestinal disease in areas where Trypanosoma cruzi infection is not endemic. Gastroenterol Hepatol 33, 191-200.
+PMID:19837482(PubMed abstract) Rassi, A., Jr., Rassi, A., and Marin-Neto, J.A. (2010). Chagas disease. Lancet 375, 1388-1402.
+PMID:20399979(PubMed abstract) Yun, O., Lima, M.A., Ellman, T., Chambi, W., Castillo, S., Flevaud, L., Roddy, P., Parreno, F., Albajar Vinas, P., and Palma, P.P. (2009). Feasibility, drug safety, and effectiveness of etiological treatment programs for Chagas disease in Honduras, Guatemala, and Bolivia: 10-year experience of Medecins Sans Frontieres. PLoS Negl Trop Dis 3, e488.
+PMID:19582142(PubMed abstract)
+Bern C, Montgomery SP, Herwaldt BL, Rassi A Jr, Marin-Neto JA, Dantas RO, Maguire JH, Acquatella H, Morillo C, Kirchhoff LV, Gilman RH, Reyes PA, Salvatella R, Moore AC. Evaluation and treatment of chagas disease in the United States: a systematic review. JAMA. 2007 Nov 14;298(18):2171-81.
+PMID:18000201(PubMed abstract)
 Pinazo, M.J., Canas, E., Elizalde, J.I., Garcia, M., Gascon, J., Gimeno, F., Gomez, J., Guhl, F., Ortiz, V., Posada Ede, J., Puente, S., Rezende, J., Salas, J., Saravia, J., Torrico, F., Torrus, D., and Trevino, B. (2010). Diagnosis, management and treatment of chronic Chagas' gastrointestinal disease in areas where Trypanosoma cruzi infection is not endemic. Gastroenterol Hepatol 33, 191-200.
-PMID:19837482 ( PubMed abstract )
+PMID:19837482(PubMed abstract)
 Rassi, A., Jr., Rassi, A., and Marin-Neto, J.A. (2010). Chagas disease. Lancet 375, 1388-1402.
-PMID:20399979 ( PubMed abstract )
+PMID:20399979(PubMed abstract)
 Yun, O., Lima, M.A., Ellman, T., Chambi, W., Castillo, S., Flevaud, L., Roddy, P., Parreno, F., Albajar Vinas, P., and Palma, P.P. (2009). Feasibility, drug safety, and effectiveness of etiological treatment programs for Chagas disease in Honduras, Guatemala, and Bolivia: 10-year experience of Medecins Sans Frontieres. PLoS Negl Trop Dis 3, e488.
-PMID:19582142 ( PubMed abstract )
+PMID:19582142(PubMed abstract)

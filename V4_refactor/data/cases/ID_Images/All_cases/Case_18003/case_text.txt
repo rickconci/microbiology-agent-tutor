@@ -11,8 +11,11 @@ He lives in New England. He is a nonsmoker without pets.
 Physical Examination
 The patient appeared well. He had a temperature of 100.6 degrees Fahrenheit, blood pressure of 140/75 mm Hg, pulse of 75 beats per minute. The examination was notable for the truncal rash shown in Figure 1. On his trunk, there were scattered confluent raised erythematous and pruritic red plaques with vesicles atop plaques, many at the same stage. Few had erupted and ulcerated down his arms and legs, sparing palms and soles. His rash extended over the face into his scalp. His back was notable for a confluent rash, erythematous plaques with papules and vesicles. In his mouth, he had 3 small ulcers inside of his lower lip.
 Figure 1. Figure 1a. Confluent raised erythematous and pruritic red plaques with vesicles atop plaques densely clustered on patient’s back.
-Figure 2. Figure 1b. Close-up of clustered plaques with vesicles atop plaques
+Figure 1a. Confluent raised erythematous and pruritic red plaques with vesicles atop plaques densely clustered on patient’s back.
+Figure 2. Immunofluorescent stain of varicella zoster virus from a vesicular lesion (60x). Using the fluorescein isothiocyanate (FITC) filter, VZV infected basal and/or parabasal epithelial cells will appear yellow-gold in color (white arrow).
+Figure 1b. Close-up of clustered plaques with vesicles atop plaques
 Figure 3. Figure 1c. Well-demarcated dense lesions separated from cleared skin at the line of patient’s swim trunks
+Figure 1c. Well-demarcated dense lesions separated from cleared skin at the line of patient’s swim trunks
 Studies
 His labs were notable for a WBC 3.5 K/uL (normal 4.5-11) with 57% neutrophils, 24% lymphocytes, and 17% atypical lymphocytes. His hematocrit was 40% (normal 41-53%), and his platelets were 95 K/uL (normal 150-400 K/uL). Otherwise, his liver function tests and renal panel were normal. He had blood cultures collected which did not grow any organisms.
 Diagnostic Procedure(s) and Result(s)
@@ -30,28 +33,41 @@ The differential diagnosis at the time of presentation included such concerning 
 Final Diagnosis
 Actinic Varicella
 References
+Whitley RJ. Chickenpox and herpes zoster (Varicella-Zoster Virus). [edited by] John E. Bennett, Raphael Dolin, Martin J. Blaser. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2015. Castrow FF 2nd, Wolf JE Jr. Photolocalized varicella. Arch Dermatol 1973; 107:628.
+PMID:4697698(PubMed abstract) Gilchrest B, Baden HP. Photodistribution of viral exanthems. Pediatrics 1974; 54:136–8.
+PMID:4847846(PubMed abstract) Newell GB. Photolocalized varicella. J Ky Med Assoc 1978; 76:443– 4.
+PMID:701973(PubMed abstract) Ridgway D, Avera SP, Jaffe A. Actinic varicella. Pediatr Infect Dis J 1996; 15:921–2.
+PMID:8895933(PubMed abstract) Varella TC, Machado MC. Photolocalized varicella. Acta Derm Venereol 2004; 84:494–5.
+PMID:15844653(PubMed abstract) Findlay GH, Forman L, Hull PR. Actinic chickenpox. S Afr Med J. 1979;55:989-991
+PMID:472951(PubMed abstract) Boyd AS, Neldner KH. Photolocalized varicella in an adult. JAMA 1991; 266:2204.
+PMID:1920713(PubMed abstract) Sakiyama M, Maeshima H, Higashino T, Kawakubo Y. Photolocalized varicella in an adult. British Journal of Dermatology (2014) 170, pp1187–1207.
+PMID:24372142(PubMed abstract) Messner J, Miller JJ et al. Accentuated viral exanthems in areas of inflammation. Journal of the American Academy of Dermatology 1999; 40:345-6
+PMID:10025865(PubMed abstract) Schwarz T. Mechanisms of UV-induced immunosuppression. Keio J Med 2005; 54:165–71.
+PMID:16452825(PubMed abstract) Norval M, Gibbs NK, Gilmour J. The role of urocanic acid in UV- induced immunosuppression: recent advances (1992–1994). Photo- chem Photobiol 1995; 62:209–17.
+PMID:7480130(PubMed abstract) Shreedhar V, Giese T, Sung VW, Ullrich SE. A cytokine cascade including prostaglandin E2, IL-4, and IL-10 is responsible for UV- induced systemic immune suppression. J Immunol 1998; 160:3783–9
+PMID:9558081(PubMed abstract)
 Whitley RJ. Chickenpox and herpes zoster (Varicella-Zoster Virus). [edited by] John E. Bennett, Raphael Dolin, Martin J. Blaser. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases. Philadelphia, PA: Elsevier/Saunders, 2015.
 Castrow FF 2nd, Wolf JE Jr. Photolocalized varicella. Arch Dermatol 1973; 107:628.
-PMID:4697698 ( PubMed abstract )
+PMID:4697698(PubMed abstract)
 Gilchrest B, Baden HP. Photodistribution of viral exanthems. Pediatrics 1974; 54:136–8.
-PMID:4847846 ( PubMed abstract )
+PMID:4847846(PubMed abstract)
 Newell GB. Photolocalized varicella. J Ky Med Assoc 1978; 76:443– 4.
-PMID:701973 ( PubMed abstract )
+PMID:701973(PubMed abstract)
 Ridgway D, Avera SP, Jaffe A. Actinic varicella. Pediatr Infect Dis J 1996; 15:921–2.
-PMID:8895933 ( PubMed abstract )
+PMID:8895933(PubMed abstract)
 Varella TC, Machado MC. Photolocalized varicella. Acta Derm Venereol 2004; 84:494–5.
-PMID:15844653 ( PubMed abstract )
-Findlay GH, Forman L, Hull PR. Actinic chickenpox. S Afr Med J . 1979;55:989-991
-PMID:472951 ( PubMed abstract )
+PMID:15844653(PubMed abstract)
+Findlay GH, Forman L, Hull PR. Actinic chickenpox. S Afr Med J. 1979;55:989-991
+PMID:472951(PubMed abstract)
 Boyd AS, Neldner KH. Photolocalized varicella in an adult. JAMA 1991; 266:2204.
-PMID:1920713 ( PubMed abstract )
+PMID:1920713(PubMed abstract)
 Sakiyama M, Maeshima H, Higashino T, Kawakubo Y. Photolocalized varicella in an adult. British Journal of Dermatology (2014) 170, pp1187–1207.
-PMID:24372142 ( PubMed abstract )
+PMID:24372142(PubMed abstract)
 Messner J, Miller JJ et al. Accentuated viral exanthems in areas of inflammation. Journal of the American Academy of Dermatology 1999; 40:345-6
-PMID:10025865 ( PubMed abstract )
+PMID:10025865(PubMed abstract)
 Schwarz T. Mechanisms of UV-induced immunosuppression. Keio J Med 2005; 54:165–71.
-PMID:16452825 ( PubMed abstract )
+PMID:16452825(PubMed abstract)
 Norval M, Gibbs NK, Gilmour J. The role of urocanic acid in UV- induced immunosuppression: recent advances (1992–1994). Photo- chem Photobiol 1995; 62:209–17.
-PMID:7480130 ( PubMed abstract )
+PMID:7480130(PubMed abstract)
 Shreedhar V, Giese T, Sung VW, Ullrich SE. A cytokine cascade including prostaglandin E2, IL-4, and IL-10 is responsible for UV- induced systemic immune suppression. J Immunol 1998; 160:3783–9
-PMID:9558081 ( PubMed abstract )
+PMID:9558081(PubMed abstract)

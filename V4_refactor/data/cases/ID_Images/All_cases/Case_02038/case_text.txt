@@ -10,17 +10,21 @@ The temperature was 96.5°F (35.8°C). Oxygen saturation was 89% while breating 
 Studies
 The white blood cell count was 9,900 cells/mm³.
 Clinical Course Prior to Diagnosis
-Unfortunately, within 3 hours of presentation the patient expired. An autopsy was performed. Pathological examination of tissues obtained at autopsy are shown in Figures 1 and 2 .
+Unfortunately, within 3 hours of presentation the patient expired. An autopsy was performed. Pathological examination of tissues obtained at autopsy are shown in Figures 1 and 2.
 Figure 1. Mucicarmine stain.
 Figure 2. Hematoxylin and eosin stain.
 Diagnostic Procedure(s) and Result(s)
-The pathologic appearance of the tissues shown ( Figure 2 ) is consistent with cryptococcosis.
+The pathologic appearance of the tissues shown (Figure 2) is consistent with cryptococcosis.
+Treatment and Followup
 Discussion
-The large capsule seen around each organism on histopathologic evaluation is diagnostic of Cryptococcus . Often, a mucicarmine stain is useful for demonstrating the organism. Cryptococcosis can cause disseminated disease months to years after transplantation.
+The large capsule seen around each organism on histopathologic evaluation is diagnostic of Cryptococcus. Often, a mucicarmine stain is useful for demonstrating the organism. Cryptococcosis can cause disseminated disease months to years after transplantation.
 Final Diagnosis
 Disseminated cryptococcal infection in a patient status post bone marrow transplantation.
 References
 Jarvis, J.N., Dromer, F., Harrison, T.S., and Lortholary, O. (2008). Managing cryptococcosis in the immunocompromised host. Curr Opin Infect Dis 21, 596-603.
-PMID:18978527 ( PubMed abstract )
+PMID:18978527(PubMed abstract) Pappas, P.G., Perfect, J.R., Cloud, G.A., Larsen, R.A., Pankey, G.A., Lancaster, D.J., Henderson, H., Kauffman, C.A., Haas, D.W., Saccente, M., Hamill, R.J., Holloway, M.S., Warren, R.M., and Dismukes, W.E. (2001). Cryptococcosis in human immunodeficiency virus-negative patients in the era of effective azole therapy. Clin Infect Dis 33, 690-699.
+PMID:11477526(PubMed abstract)
+Jarvis, J.N., Dromer, F., Harrison, T.S., and Lortholary, O. (2008). Managing cryptococcosis in the immunocompromised host. Curr Opin Infect Dis 21, 596-603.
+PMID:18978527(PubMed abstract)
 Pappas, P.G., Perfect, J.R., Cloud, G.A., Larsen, R.A., Pankey, G.A., Lancaster, D.J., Henderson, H., Kauffman, C.A., Haas, D.W., Saccente, M., Hamill, R.J., Holloway, M.S., Warren, R.M., and Dismukes, W.E. (2001). Cryptococcosis in human immunodeficiency virus-negative patients in the era of effective azole therapy. Clin Infect Dis 33, 690-699.
-PMID:11477526 ( PubMed abstract )
+PMID:11477526(PubMed abstract)

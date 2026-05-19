@@ -12,16 +12,16 @@ Physical Examination
 He was thin and appeared ill. The temperature was 99°F (37.2°C), the blood pressure 100/53 mm Hg, pulse 100 beats per minute, respirations 18 breaths per minute. The calves of the lower legs were tender to touch. Strength measured 4 on a scale up to 5 in the left leg and right hip, and 3 of 5 in the lower leg on the right. Specifically, the strength in the right quadriceps and hamstring measured 4/5; right extension and flexion of lower leg, and the dorsal and plantar foot muscles, 3/5; and in the left quadriceps, hamstring, extension and flexion of lower leg, dorsal and plantar foot muscles, 5/5. Deep tendon reflexes were 1+ bilaterally, and the Babinski plantar reflex was flexor. Hyperesthesia was present over the right anterior thigh, and there was decreased sensation to vibration in the left leg.
 Studies
 Laboratory values included a white blood cell count of 12,200/mm³ (83% neutrophils, 13% lymphocytes, 1% eosinophils), hemoglobin 10.1 g/dL and hematocrit 32.3%. The basic metabolic panel was normal. The aspartate aminotransferase was 61 U/L (elevated) and albumin of 2.4 g/dL (low). Other metabolic test results and coagulation tests were normal. The erythrocyte sedimentation rate was 109 mm/Hr. The CD4 T-lymphocyte count was 127 cells/mm³, with an HIV RNA level of 34,955 copies/ml. Testing for Toxoplasma immunoglobulin (Ig) G was negative at 0.5 IU/mL (less than 6.4 IU/mL is negative). Analysis of the cerebrospinal fluid was normal, except for slightly elevated protein of 48.8 mg/dL. Testing of the cerebrospinal fluid for syphilis (venereal disease research laboratory (VDRL) test), cryptococcal antigen, and nucleic acid by polymerase chain reaction (PCR) for cytomegalovirus, Epstein Barr virus, and varicella zoster virus were all negative.
-Magnetic resonance imaging (MRI) of the spine revealed expansile intramedullary enhancing lesions at the level of the T11-T12 disc space ( Figures 1 and 2 ). MRI of head was normal.
+Magnetic resonance imaging (MRI) of the spine revealed expansile intramedullary enhancing lesions at the level of the T11-T12 disc space (Figures 1 and 2). MRI of head was normal.
 Figure 1. MRI of the lumbosacral spine, T-1 weighted.
 Figure 2. MRI of the spine, T-1 weighted, transverse view.
 Clinical Course Prior to Diagnosis
-On admission, a T11/12 laminectomy was performed. After the dura was opened, a thick arachnoid membrane and large tangle of blood vessels including dilated arteries and veins were observed. An arteriovenous malformation (AVM) was suspected; the wound was closed and a thoracic spinal angiogram performed, however no AVM was seen. Two weeks later, a second surgical resection was performed and hypervascularity was noted over the dorsum of the spinal cord. There was a firm, tan, avascular intramedullary mass in the spinal cord. Frozen section showed inflammation. Pathological examination of the spinal tissue is shown in Figure 3 .
+On admission, a T11/12 laminectomy was performed. After the dura was opened, a thick arachnoid membrane and large tangle of blood vessels including dilated arteries and veins were observed. An arteriovenous malformation (AVM) was suspected; the wound was closed and a thoracic spinal angiogram performed, however no AVM was seen. Two weeks later, a second surgical resection was performed and hypervascularity was noted over the dorsum of the spinal cord. There was a firm, tan, avascular intramedullary mass in the spinal cord. Frozen section showed inflammation. Pathological examination of the spinal tissue is shown in Figure 3.
 Figure 3. Biopsy of the spinal cord lesion.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of the spinal cord tissue, stained with hematoxylin and eosin (H & E) stain, revealed bradyzoites and tachyzoites of Toxoplasma gondii ( Figure 3 ).
+Pathological examination of the spinal cord tissue, stained with hematoxylin and eosin (H & E) stain, revealed bradyzoites and tachyzoites of Toxoplasma gondii (Figure 3).
 Treatment and Followup
-Therapy was begun, including sulfadiazine 1000 mg every 6 hours, pyrimethamine 75 mg daily, leucovorin 20 mg daily and dexamethasone taper, as well as tenofovir-emtricitabine, atazanavir and ritonavir. He transferred to a rehabilitation facility. Ten days later, he returned to the hospital with pneumonia and complaints of progressive weakness, which involved his arms as well. Electromyelography (EMG) showed abnormal activity. A muscle biopsy was performed; hematoxylin and eosin (H & E) stain of the muscle tissue revealed necrotic skeletal muscle with lymphocytic and plasma cell infiltrate ( Figures 4 and 5 ). Within the necrotic inflamed areas were abundant bradyzoites and tachyzoites of T. gondii.
+Therapy was begun, including sulfadiazine 1000 mg every 6 hours, pyrimethamine 75 mg daily, leucovorin 20 mg daily and dexamethasone taper, as well as tenofovir-emtricitabine, atazanavir and ritonavir. He transferred to a rehabilitation facility. Ten days later, he returned to the hospital with pneumonia and complaints of progressive weakness, which involved his arms as well. Electromyelography (EMG) showed abnormal activity. A muscle biopsy was performed; hematoxylin and eosin (H & E) stain of the muscle tissue revealed necrotic skeletal muscle with lymphocytic and plasma cell infiltrate (Figures 4 and 5). Within the necrotic inflamed areas were abundant bradyzoites and tachyzoites of T. gondii.
 The patient was unable to take oral medication secondary to difficulty swallowing pills. Trimethoprim-sulfamethoxazole therapy was given intravenously. Several days later, cardiac arrest occurred. Resuscitation efforts were not successful, and the patient died.
 Figure 4. H and E stain of the muscle biopsy.
 Figure 5. Muscle biopsy with necrotic tissue surrounding tachyzoites.
@@ -32,10 +32,15 @@ Final Diagnosis
 Disseminated toxoplasmosis caused by Toxoplasma gondii in a patient with HIV infection and AIDS.
 References
 Gherardi, R., Baudrimont, M., Lionnet, F., Salord, J.M., Duvivier, C., Michon, C., Wolff, M., and Marche, C. (1992). Skeletal muscle toxoplasmosis in patients with acquired immunodeficiency syndrome: a clinical and pathological study. Ann Neurol 32, 535-542.
-PMID:1456737 ( PubMed abstract )
+PMID:1456737(PubMed abstract) Herskovitz, S., Siegel, S.E., Schneider, A.T., Nelson, S.J., Goodrich, J.T., and Lantos, G. (1989). Spinal cord toxoplasmosis in AIDS. Neurology 39, 1552-1553.
+PMID:2812340(PubMed abstract) Rabaud, C., May, T., Amiel, C., Katlama, C., Leport, C., Ambroise-Thomas, P., and Canton, P. (1994). Extracerebral toxoplasmosis in patients infected with HIV. A French National Survey. Medicine (Baltimore) 73, 306-314.
+PMID:7984082(PubMed abstract) Vyas, R., and Ebright, J.R. (1996). Toxoplasmosis of the spinal cord in a patient with AIDS: case report and review. Clin Infect Dis 23, 1061-1065.
+PMID:8922803(PubMed abstract)
+Gherardi, R., Baudrimont, M., Lionnet, F., Salord, J.M., Duvivier, C., Michon, C., Wolff, M., and Marche, C. (1992). Skeletal muscle toxoplasmosis in patients with acquired immunodeficiency syndrome: a clinical and pathological study. Ann Neurol 32, 535-542.
+PMID:1456737(PubMed abstract)
 Herskovitz, S., Siegel, S.E., Schneider, A.T., Nelson, S.J., Goodrich, J.T., and Lantos, G. (1989). Spinal cord toxoplasmosis in AIDS. Neurology 39, 1552-1553.
-PMID:2812340 ( PubMed abstract )
+PMID:2812340(PubMed abstract)
 Rabaud, C., May, T., Amiel, C., Katlama, C., Leport, C., Ambroise-Thomas, P., and Canton, P. (1994). Extracerebral toxoplasmosis in patients infected with HIV. A French National Survey. Medicine (Baltimore) 73, 306-314.
-PMID:7984082 ( PubMed abstract )
+PMID:7984082(PubMed abstract)
 Vyas, R., and Ebright, J.R. (1996). Toxoplasmosis of the spinal cord in a patient with AIDS: case report and review. Clin Infect Dis 23, 1061-1065.
-PMID:8922803 ( PubMed abstract )
+PMID:8922803(PubMed abstract)

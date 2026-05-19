@@ -6,11 +6,11 @@ The patient was originally from an island in the Caribbean.
 Physical Examination
 The patient appeared well. The temperature was 97.9°F (36.6°C), vital signs were normal. There was tenderness in the left costo-vertebral and suprapubic regions. The remainder of the examination was normal.
 Studies
-Computed tomography (CT) scanning of the abdomen and pelvis showed a ureteral stone (4-millimeter in diameter) with hydroureter, a low-attenuation rounded lesion (2.3cm by 3.4cm) in the left kidney that enhanced and had thickened walls ( Figure 1 ), and an irregularly thickened bladder wall ( Figure 2 ).
+Computed tomography (CT) scanning of the abdomen and pelvis showed a ureteral stone (4-millimeter in diameter) with hydroureter, a low-attenuation rounded lesion (2.3cm by 3.4cm) in the left kidney that enhanced and had thickened walls (Figure 1), and an irregularly thickened bladder wall (Figure 2).
 Figure 1. CT scan of the abdomen.
 Figure 2. CT scan of the abdomen.
 Diagnostic Procedure(s) and Result(s)
-A mantoux test (PPD) was placed and was positive with 17 millimeters induration. Aspiration of the renal mass revealed 3+ acid-fast bacilli (AFB) and cultures grew Mycobacterium tuberculosis that was sensitive to all drugs tested. M. tuberculosis from renal aspirate is shown in Figure 3 .
+A mantoux test (PPD) was placed and was positive with 17 millimeters induration. Aspiration of the renal mass revealed 3+ acid-fast bacilli (AFB) and cultures grew Mycobacterium tuberculosis that was sensitive to all drugs tested. M. tuberculosis from renal aspirate is shown in Figure 3.
 Figure 3. Mycobacterium tuberculosis from renal aspirate, acid-fast stain.
 Treatment and Followup
 The patient was treated with isoniazid, rifampin, pyrazinamide and ethambutol. A stent was placed and she was discharged home. After two months, the medications were changed to isoniazid and rifampin to complete a six-month course of therapy.
@@ -21,8 +21,10 @@ Radiologic studies are often helpful. Intravenous pyelogram (IVP) may be normal 
 Signs of extrarenal disease include ureteral strictures and a contracted bladder. In males, calcification of the vas deferens, seminal vesicles or prostate may be seen.
 The finding of acid-fast organisms in the urine is not pathognomonic for tuberculosis, since nonpathogenic mycobacteria may rarely be present. Although sterile pyuria is typical of renal tuberculosis, positive urine cultures for routine bacterial pathogens may lead to misdiagnosis. Urine culture for mycobacteria is the gold standard for establishing the diagnosis. Three large volume specimens should be sent to maximize sensitivity. Appropriate treatment with antituberculous agents is usually successful.
 Final Diagnosis
-Renal tuberculosis caused by Mycobacterium tuberculosis .
+Renal tuberculosis caused by Mycobacterium tuberculosis.
 References
+Mandell, Douglas and Bennett's Principles and Practice of Infectious Diseases, Fifth Edition (2000), Chapter 240, page 2602. Wise, G.J., and Marella, V.K. (2003). Genitourinary manifestations of tuberculosis. Urol Clin North Am 30, 111-121.
+PMID:12580563(PubMed abstract)
 Mandell, Douglas and Bennett's Principles and Practice of Infectious Diseases, Fifth Edition (2000), Chapter 240, page 2602.
 Wise, G.J., and Marella, V.K. (2003). Genitourinary manifestations of tuberculosis. Urol Clin North Am 30, 111-121.
-PMID:12580563 ( PubMed abstract )
+PMID:12580563(PubMed abstract)

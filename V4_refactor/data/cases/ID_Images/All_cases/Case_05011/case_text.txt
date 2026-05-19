@@ -15,16 +15,16 @@ Physical Examination
 The blood pressure was 140/90 mm Hg, the temperature, pulse and respirations on room air were normal. Lung auscultation revealed coarse breath sounds, without rales or wheezes. The extremities showed trace pedal edema and a poorly-healed ulcer on her right shin. Cardiovascular, abdominal and lymphoreticular examinations were normal.
 Studies
 Laboratory studies revealed a hematocrit of 26.8% with normal white blood cell and platelet counts. The creatinine was slightly elevated from her baseline to 4.6 mg/dL with a serum urea nitrogen of 76 mg/dL.
-A chest radiograph revealed a pleural-based lesion in her right mid-thorax ( Figure 1 ). Computed tomography (CT) scan of the lungs confirmed a wedge-shaped focal area of consolidation.
+A chest radiograph revealed a pleural-based lesion in her right mid-thorax (Figure 1). Computed tomography (CT) scan of the lungs confirmed a wedge-shaped focal area of consolidation.
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
-The patient was admitted to the hospital for further evaluation. Sputum samples were obtained for staining and culture ( Figures 2 through 4 ).
+The patient was admitted to the hospital for further evaluation. Sputum samples were obtained for staining and culture (Figures 2 through 4).
 Figure 2. Gram stain of sputum sample.
 Figure 3. Gram stain of sputum sample.
 Figure 4. Modified acid fast stain of sputum.
 Diagnostic Procedure(s) and Result(s)
-Initial gram stain examination of the primary sputum sample showed Candida albicans . Specimens obtained during bronchoscopy revealed branching gram-positive rods.
-The sputum was planted on modified Thayer Martin plate. Stains of the growth on that plate are shown in Figures 5 and 6 . The organisms were identified as Nocardia nova complex.
+Initial gram stain examination of the primary sputum sample showed Candida albicans. Specimens obtained during bronchoscopy revealed branching gram-positive rods.
+The sputum was planted on modified Thayer Martin plate. Stains of the growth on that plate are shown in Figures 5 and 6. The organisms were identified as Nocardia nova complex.
 Figure 5. Modified acid fast stain of growth from modified Thayer Martin plate.
 Figure 6. Gram stain of growth from Thayer Martin plate.
 Treatment and Followup
@@ -38,6 +38,9 @@ Final Diagnosis
 Pneumonia secondary to Nocardia nova infection in a patient with congenital alpha-1 antitrypsin deficiency, after lung transplantation.
 References
 Khan, B.A., Duncan, M., Reynolds, J., and Wilkes, D.S. (2008). Nocardia infection in lung transplant recipients. Clin Transplant 22, 562-566.
-PMID:18435787 ( PubMed abstract )
+PMID:18435787(PubMed abstract) Peleg, A.Y., Husain, S., Qureshi, Z.A., Silveira, F.P., Sarumi, M., Shutt, K.A., Kwak, E.J., and Paterson, D.L. (2007). Risk factors, clinical characteristics, and outcome of Nocardia infection in organ transplant recipients: a matched case-control study. Clin Infect Dis 44, 1307-1314.
+PMID:17443467(PubMed abstract)
+Khan, B.A., Duncan, M., Reynolds, J., and Wilkes, D.S. (2008). Nocardia infection in lung transplant recipients. Clin Transplant 22, 562-566.
+PMID:18435787(PubMed abstract)
 Peleg, A.Y., Husain, S., Qureshi, Z.A., Silveira, F.P., Sarumi, M., Shutt, K.A., Kwak, E.J., and Paterson, D.L. (2007). Risk factors, clinical characteristics, and outcome of Nocardia infection in organ transplant recipients: a matched case-control study. Clin Infect Dis 44, 1307-1314.
-PMID:17443467 ( PubMed abstract )
+PMID:17443467(PubMed abstract)

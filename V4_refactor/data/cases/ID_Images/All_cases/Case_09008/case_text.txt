@@ -1,12 +1,10 @@
 History of Present Illness
 2009 August Featured Case, Case Presentation from the 2008 Annual Workshop on Advanced Clinical Care - AIDS in Durban, South Africa and Medical Student Curriculum Case Summary: A woman receiving therapy for HIV and TB with malaise and acute chest pain.
 A woman in her thirties with a history of tuberculosis and human immunodeficiency virus (HIV) presented to a hospital in South Africa with increasing malaise and acute chest pain.
-Two years earlier, she had felt well, when she tested positive for antibodies to human immunodeficiency virus (HIV). Treatment with trimethoprim-sulfamethoxazole was begun prophylactically. During the following 24 months, weight loss (greater than 10% of her usual weight) developed, associated with white plaques on her oral mucosa, which were consistent with oral thrush. Abdominal pain developed, and she was evaluated by medical personnel. Laboratory tests revealed hemoglobin of 3.4 g/dL, and a chest radiograph demonstrated multiple densities in a miliary pattern, with minimal blunting of the left costophrenic angle ( Figure 1 ). Ultrasonography of the abdomen revealed extensive intra-abdominal lymphadenopathy, multiple splenic hypodensities, and fluid in the pelvis. Tuberculosis was presumptively diagnosed. Two units of red cells were transfused, and antituberculosis medications, including a 4-drug combination pill (rifampicin, isoniazid, pyrazinamide, and ethambutol) and pyridoxine, were administered; trimethoprim-sulfamethoxazole was continued. Her abdominal pain improved, and she became asymptomatic. The CD4 T-lymphocyte cell count was 45 cells per cubic millimeter.
+Two years earlier, she had felt well, when she tested positive for antibodies to human immunodeficiency virus (HIV). Treatment with trimethoprim-sulfamethoxazole was begun prophylactically. During the following 24 months, weight loss (greater than 10% of her usual weight) developed, associated with white plaques on her oral mucosa, which were consistent with oral thrush. Abdominal pain developed, and she was evaluated by medical personnel. Laboratory tests revealed hemoglobin of 3.4 g/dL, and a chest radiograph demonstrated multiple densities in a miliary pattern, with minimal blunting of the left costophrenic angle (Figure 1). Ultrasonography of the abdomen revealed extensive intra-abdominal lymphadenopathy, multiple splenic hypodensities, and fluid in the pelvis. Tuberculosis was presumptively diagnosed. Two units of red cells were transfused, and antituberculosis medications, including a 4-drug combination pill (rifampicin, isoniazid, pyrazinamide, and ethambutol) and pyridoxine, were administered; trimethoprim-sulfamethoxazole was continued. Her abdominal pain improved, and she became asymptomatic. The CD4 T-lymphocyte cell count was 45 cells per cubic millimeter.
 Stavudine (D4T), lamivudine (3TC), and efavirenz (EFV) were begun.
-Two weeks after the initiation of antiretroviral therapy (ART), malaise, night sweats, and loss of appetite developed and weight loss recurred; she continued her medications. During the next 2 weeks, the severity of the symptoms increased, and pleuritic chest pain developed, followed by dyspnea on exertion. A chest radiograph was repeated ( Figure 2 ). Six weeks after initiation of ART, she was admitted to the hospital.
-Figure 1. Image
+Two weeks after the initiation of antiretroviral therapy (ART), malaise, night sweats, and loss of appetite developed and weight loss recurred; she continued her medications. During the next 2 weeks, the severity of the symptoms increased, and pleuritic chest pain developed, followed by dyspnea on exertion. A chest radiograph was repeated (Figure 2). Six weeks after initiation of ART, she was admitted to the hospital.
 Figure 1. Chest radiograph, on initial presentation.
-Figure 2. Image
 Figure 2. Chest radiograph, 4 weeks after initiation of ART.
 Past Medical History
 She had had 2 cesarean sections.
@@ -20,17 +18,17 @@ Physical Examination
 She appeared pale, without respiratory distress or jaundice. The respiratory rate was 20 breaths per minute. There was shotty lymphadenopathy and crackles in the bases of the lung, bilaterally. The liver spanned 18 centimeters, and was tender, with a smooth edge and firm consistency. There was no splenomegaly or ascites. The remainder of the examination was normal.
 Studies
 Results of laboratory tests included hemoglobin 8.4 g/dL (reference range 11.5-13.5 g/dl), white blood cells 8600 per cubic millimeter, platelets 360,000, total protein 9.3 g/dL (ref 6.0-8.0 g/dL), albumin 3.0 g/dL (ref 3.2-5.0 g/dL), alkaline phosphatase 176 U/liter (ref 42-121 U/L), and gamma glutamyl transpeptidase 161 U/L (ref 10-60 U/L). The levels of total bilirubin and alanine aminotransferase were normal.
-An abdominal ultrasound demonstrated multiple lesions in the spleen ( Figure 3 ), liver, and pancreas, a solitary lesion in the right kidney, and findings consistent with para-aortic lymph nodes.
+An abdominal ultrasound demonstrated multiple lesions in the spleen (Figure 3), liver, and pancreas, a solitary lesion in the right kidney, and findings consistent with para-aortic lymph nodes.
 Figure 3. Splenic ultrasound.
 Clinical Course Prior to Diagnosis
-Biopsies of the liver and bone marrow were performed, and pathological examination with hematoxylin and eosin (H and E) stain of the tissue are shown in Figures 4 and 5 , respectively.
+Biopsies of the liver and bone marrow were performed, and pathological examination with hematoxylin and eosin (H and E) stain of the tissue are shown in Figures 4 and 5, respectively.
 Figure 4. H and E stain of hepatic tissue.
 Figure 5. H and E stain of bone marrow.
 Diagnostic Procedure(s) and Result(s)
-The abdominal ultrasound findings in the liver, spleen and pancreas were thought to be consistent with granulomas. Pathological examination of tissue from the hepatic biopsy revealed granulomas in the portal tracts and lobules, with no evidence of cirrhosis, hepatitis or signs of portal hypertension ( Figure 4 , above). Pathological examination of tissue from the bone marrow demonstrated all three cell lines, with a normal appearance, and reduced iron stores. There was one granuloma seen ( Figure 5 ). On examination of the marrow with Ziehl-Neelson staining ( Figure 6 ), one clump of possible acid-fast bacilli was present.
+The abdominal ultrasound findings in the liver, spleen and pancreas were thought to be consistent with granulomas. Pathological examination of tissue from the hepatic biopsy revealed granulomas in the portal tracts and lobules, with no evidence of cirrhosis, hepatitis or signs of portal hypertension (Figure 4, above). Pathological examination of tissue from the bone marrow demonstrated all three cell lines, with a normal appearance, and reduced iron stores. There was one granuloma seen (Figure 5). On examination of the marrow with Ziehl-Neelson staining (Figure 6), one clump of possible acid-fast bacilli was present.
 Figure 6. Acid-fast (Ziehl-Neelson) stain of marrow, with cluster of possible acid-fast bacilli.
 Treatment and Followup
-The patient's treatment with ART and anti-tuberculosis medications was continued. Ten days after discharge, she felt well, and had no further symptoms. Chest radiographs, repeated 2 months and 7 months after the initiation of HAART, are shown in Figures 7 and 8 , respectively.
+The patient's treatment with ART and anti-tuberculosis medications was continued. Ten days after discharge, she felt well, and had no further symptoms. Chest radiographs, repeated 2 months and 7 months after the initiation of HAART, are shown in Figures 7 and 8, respectively.
 Figure 7. Follow-up after 2 months of ART.
 Figure 8. Follow-up after 7 months of ART.
 Discussion
@@ -39,12 +37,18 @@ Final Diagnosis
 Immune reconstitution inflammatory syndrome (IRIS) in a patient with human immunodeficiency virus (HIV), acquired immunodeficiency syndrome (AIDS) and tuberculosis (TB).
 References
 French, M.A., Price, P., and Stone, S.F. (2004). Immune restoration disease after antiretroviral therapy. AIDS 18, 1615-1627.
-PMID:15280772 ( PubMed abstract )
+PMID:15280772(PubMed abstract) Lawn, S.D., Bekker, L.G., and Miller, R.F. (2005). Immune reconstitution disease associated with mycobacterial infections in HIV-infected individuals receiving antiretrovirals. Lancet Infect Dis 5, 361-373.
+PMID:15919622(PubMed abstract) Lawn, S.D., Wilkinson, R.J., Lipman, M.C., and Wood, R. (2008). Immune reconstitution and "unmasking" of tuberculosis during antiretroviral therapy. Am J Respir Crit Care Med 177, 680-685
+PMID:18202347(PubMed abstract) Meintjes, G., Lawn, S.D., Scano, F., Maartens, G., French, M.A., Worodria, W., Elliott, J.H., Murdoch, D., Wilkinson, R.J., Seyler, C., John, L., van der Loeff, M.S., Reiss, P., Lynen, L., Janoff, E.N., Gilks, C., and Colebunders, R. (2008). Tuberculosis-associated immune reconstitution inflammatory syndrome: case definitions for use in resource-limited settings. Lancet Infect Dis 8, 516-523.
+PMID:18652998(PubMed abstract) Shelburne, S.A., 3rd, and Hamill, R.J. (2003). The immune reconstitution inflammatory syndrome. AIDS Rev 5, 67-79.
+PMID:12876896(PubMed abstract)
+French, M.A., Price, P., and Stone, S.F. (2004). Immune restoration disease after antiretroviral therapy. AIDS 18, 1615-1627.
+PMID:15280772(PubMed abstract)
 Lawn, S.D., Bekker, L.G., and Miller, R.F. (2005). Immune reconstitution disease associated with mycobacterial infections in HIV-infected individuals receiving antiretrovirals. Lancet Infect Dis 5, 361-373.
-PMID:15919622 ( PubMed abstract )
+PMID:15919622(PubMed abstract)
 Lawn, S.D., Wilkinson, R.J., Lipman, M.C., and Wood, R. (2008). Immune reconstitution and "unmasking" of tuberculosis during antiretroviral therapy. Am J Respir Crit Care Med 177, 680-685
-PMID:18202347 ( PubMed abstract )
+PMID:18202347(PubMed abstract)
 Meintjes, G., Lawn, S.D., Scano, F., Maartens, G., French, M.A., Worodria, W., Elliott, J.H., Murdoch, D., Wilkinson, R.J., Seyler, C., John, L., van der Loeff, M.S., Reiss, P., Lynen, L., Janoff, E.N., Gilks, C., and Colebunders, R. (2008). Tuberculosis-associated immune reconstitution inflammatory syndrome: case definitions for use in resource-limited settings. Lancet Infect Dis 8, 516-523.
-PMID:18652998 ( PubMed abstract )
+PMID:18652998(PubMed abstract)
 Shelburne, S.A., 3rd, and Hamill, R.J. (2003). The immune reconstitution inflammatory syndrome. AIDS Rev 5, 67-79.
-PMID:12876896 ( PubMed abstract )
+PMID:12876896(PubMed abstract)

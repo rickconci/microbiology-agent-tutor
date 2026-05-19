@@ -2,9 +2,9 @@ History of Present Illness
 An elderly immunocompromised man with untreated small lymphocytic lymphoma presented with 3.5 weeks of scattered pruritic nodules over his body. He reported that the first lesion developed on his chin, starting out as a mildly pruritic bump, then progressed to an ulcer that then became an eschar (Image 1). He did not apply anything to these lesions or take any medication, and nothing seemed to make them worse.
 Other lesions started the same as the first one, and developed over his chest, abdomen, back, upper arms, thighs, nose and forehead (Image 2).
 His review of systems was negative. He denied new medications. He had no known allergies to medications.
-Figure 1. Image
+Figure 1. Image 1: Ulcerated lesion of the chin, most advanced lesion at time of presentation
 Image 1: Ulcerated lesion of the chin, most advanced lesion at time of presentation
-Figure 2. Image
+Figure 2. Image 2: Lesion on nose of patient, stage prior to eschar formation
 Image 2: Lesion on nose of patient, stage prior to eschar formation
 Past Medical History
 Small lymphocytic lymphoma stage III; iron deficiency anemia; coronary artery disease status post coronary artery stent placements; benign prostate hypertrophy; pre-diabetes; hypertension; gastrointestinal reflux disease and hypothyroidism.
@@ -17,7 +17,7 @@ Physical Examination
 VS: temperature 36.6, Heart rate 76, Blood pressure 123/48
 Patient appeared well. He had numerous subcutaneous, mobile, flesh-colored, nontender nodules scattered over his chest, back, upper arms, thighs, and face. The most prominent lesion was on his chin; that lesion had ulcerated and developed an eschar. Other nodules had ulcerated but not yet scabbed over. Exam was otherwise normal.
 Studies
-Hemoglobin/Hematocrit 7.0/22.2 (reference range: 13.5-17.7/42.0-53.0 ); platelets 107,000 (reference range: 150-400); white blood cell count 4.7 (reference range: 4.0-11.0) neutrophil dominant, which his consistent with his known baseline; CRP 12.8 (reference range: <10); ESR 12 (reference range: <20); Coccidioides IgG negative; Blastomycosis antibody <1:8 negative (reference range: <1:8 antibody is not detected); 1,3 beta D glucan: negative; cryptococcus antigen: negative; Urine Histoplasma antigen negative twice, 7 days apart; Hepatitis B Virus core antigen negative, Hepatitis B Virus surface antigen negative; Hepatitis C Virus antibody negative; Human Immunodeficiency Virus antigen/antibody negative
+Hemoglobin/Hematocrit 7.0/22.2 (reference range: 13.5-17.7/42.0-53.0); platelets 107,000 (reference range: 150-400); white blood cell count 4.7 (reference range: 4.0-11.0) neutrophil dominant, which his consistent with his known baseline; CRP 12.8 (reference range: <10); ESR 12 (reference range: <20); Coccidioides IgG negative; Blastomycosis antibody <1:8 negative (reference range: <1:8 antibody is not detected); 1,3 beta D glucan: negative; cryptococcus antigen: negative; Urine Histoplasma antigen negative twice, 7 days apart; Hepatitis B Virus core antigen negative, Hepatitis B Virus surface antigen negative; Hepatitis C Virus antibody negative; Human Immunodeficiency Virus antigen/antibody negative
 Computed Tomography of the chest: Interval enlargement of the left upper lung pulmonary nodule now measuring 1.4 x 1.3 cm, previously 1.0 x 0.7 cm (from earlier CT scan).
 Diagnostic Procedure(s) and Result(s)
 The patient underwent lung biopsy of the left upper lobe pulmonary nodule. The pathology of lung biopsy displayed granulomatous inflammation and necrosis with numerous yeast present.
@@ -25,38 +25,57 @@ Dermatology biopsied two nodules from patient’s chest, which were sent for bot
 Fungal cultures grew an organism that resembled Emergomyces canadensis (Image 5). Polymerase chain reaction testing on skin biopsy confirmed diagnosis of Emergomycosis.
 Patient was initially treated with oral itraconazole and was then changed to intravenous liposomal amphotericin B. He experienced volume overload, likely secondary to exacerbation of heart failure, and therefore was transitioned to oral posaconazole.
 Figure 3. Image 3a: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
+Image 3a: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
 Figure 4. Image 3b: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
+Image 3b: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
 Figure 5. Image 3c: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
+Image 3c: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
 Figure 6. Image 3d: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
-Figure 7. Image 4: Histopathology of lung with intracellular Emergomyces : round/oval yeast with narrowed-based buds.
+Image 3d: All Grocott–Gömöri's methenamine silver stain Periodic acid–Schiff–diastase stains of lung biopsy: round/oval yeast with narrowed-based buds
+Figure 7. Image 4: Histopathology of lung with intracellular Emergomyces: round/oval yeast with narrowed-based buds.
+Image 4: Histopathology of lung with intracellular Emergomyces: round/oval yeast with narrowed-based buds.
 Figure 8. Image 5: Emergomyces canandensis colonies grown on Potato Flake Agar. Colonies were slow growing, initially white with light red/brown and as they matured became white/tan with yellow and brown.
+Image 5: Emergomyces canandensis colonies grown on Potato Flake Agar. Colonies were slow growing, initially white with light red/brown and as they matured became white/tan with yellow and brown.
+Treatment and Followup
 Discussion
-Emergomycosis is an emerging endemic fungal infection. Emergomyces is thermodependent dimorphic, soil dwelling yeast. Emergomyces canadensis has only been isolated in North America, with only 6 previous cases having been reported. Formerly classified as Emmonsia , other members of the Aiellomycetacae family include Histoplasma , Blastomyces and Paracoccidiodies .
+Emergomycosis is an emerging endemic fungal infection. Emergomyces is thermodependent dimorphic, soil dwelling yeast. Emergomyces canadensis has only been isolated in North America, with only 6 previous cases having been reported. Formerly classified as Emmonsia, other members of the Aiellomycetacae family include Histoplasma, Blastomyces and Paracoccidiodies.
 Assumed to be an inhalation inoculation, there have been outbreaks of other species in southern Africa, eastern Europe and China. All 7 patients (including the one in this report) who developed symptomatic Emergomycosis in North America have been immunocompromised (HIV infection, post-transplant, or hematological malignancies). An early clue that pointed away from histoplasmosis in this patient was the negative result of the sensitive histoplasmosis urine antigen test.
-Unique features of the fungi on tape preparation seen on light microscopy helped differentiate Emergomyces from Histoplasma. The tape preparation showed conidiophores that branched from hyphae at right angles and formed clusters of conidiophores bearing a single small round conidia. Comparatively, Histoplasma demonstrates 8 to 15 µm ovoid macroconidia, with finger-like cell walls and 2 to 4 µm microconidia. On histopathology, Emergomyces stains with Grocott–Gömöri's methenamine silver stain and appears as 2 to 7 µm round/oval yeast with narrow-based buds, often surrounded by granulation issue. Histoplasma is also often surrounded by granulation tissue and stains with Grocott–Gömöri's methenamine silver stain as 2 to 4 µm spores. These similarities explain why, on histopathology, Emergomyces has been mistaken for Histoplasma .
+Unique features of the fungi on tape preparation seen on light microscopy helped differentiate Emergomyces from Histoplasma. The tape preparation showed conidiophores that branched from hyphae at right angles and formed clusters of conidiophores bearing a single small round conidia. Comparatively, Histoplasma demonstrates 8 to 15 µm ovoid macroconidia, with finger-like cell walls and 2 to 4 µm microconidia. On histopathology, Emergomyces stains with Grocott–Gömöri's methenamine silver stain and appears as 2 to 7 µm round/oval yeast with narrow-based buds, often surrounded by granulation issue. Histoplasma is also often surrounded by granulation tissue and stains with Grocott–Gömöri's methenamine silver stain as 2 to 4 µm spores. These similarities explain why, on histopathology, Emergomyces has been mistaken for Histoplasma.
 Clinical manifestations of Emergomycosis have included acute onset of cutaneous lesions, fever, cough, and weight loss. Cutaneous manifestations include umbilicated papules, nodules, ulcers, verrucous lesions, crusted hyperkeratotic plaques and erythema. Of note, polymorphic skin lesions can be found in a single patient. In the Emergomyces canadensis cases, evidence of infection has been found in lung and endocervical tissue, skin and blood.
 Final Diagnosis
-Disseminated
+Disseminated Emergomycosis canadensis
 References
 Ibe C, Mnyambwa NP, Mfinanga SG. Emergomycosis in Africa: Time to Pay Attention to This Emerging Deadly Fungal Infection. Int J Gen Med. 2023 Jun 7;16:2313-2322. doi: 10.2147/IJGM.S403797. PMID: 37309324; PMCID: PMC10257923.
-PMID:37309324 ( PubMed abstract )
+PMID:37309324(PubMed abstract) Mah J, Bakker A, Tseng C, Lafay-Cousin L, Kuhn S, Brundler MA, Lisboa LF. Isolated Pulmonary Emergomycosis in an Immunocompetent Patient in Alberta, Canada. Open Forum Infect Dis. 2022 Feb 14;9(3):ofac021. doi: 10.1093/ofid/ofac021. PMID: 35174253; PMCID: PMC8843081.
+PMID:35174253(PubMed abstract) Mittal J, Ponce MG, Gendlina I, Nosanchuk JD. Histoplasma Capsulatum: Mechanisms for Pathogenesis. Curr Top Microbiol Immunol. 2019;422:157-191. doi: 10.1007/82_2018_114. PMID: 30043340; PMCID: PMC7212190.
+PMID:30043340(PubMed abstract) Nakao K, Nishikori M, Fujimoto M, Arima H, Haga H, Takaori-Kondo A. Concurrent development of small lymphocytic lymphoma and lung cancer: A report of two cases and a review of the literature. J Clin Exp Hematop. 2023 Jun 28;63(2):132-138. doi: 10.3960/jslrt.22047. Epub 2023 May 28. PMID: 37245973; PMCID: PMC10410622.
+PMID:37245973(PubMed abstract) Reddy DL, Nel J, Govender NP. Review: Emergomycosis. J Mycol Med. 2023 Mar;33(1):101313. doi: 10.1016/j.mycmed.2022.101313. Epub 2022 Jul 23. PMID: 36272380. Govender NP, Grayson W. Emergomycosis (Emergomyces africanus) in Advanced HIV Disease. Dermatopathology (Basel). 2019 Jun 26;6(2):63-69. doi: 10.1159/000495405. PMID: 31700845; PMCID: PMC6827448.
+PMID:36272380(PubMed abstract) Rooms I, Mugisha P, Gambichler T, Hadaschik E, Esser S, Rath PM, Haase G, Wilmes D, McCormick-Smith I, Rickerts V. Disseminated Emergomycosis in a Person with HIV Infection, Uganda. Emerg Infect Dis. 2019 Sep;25(9):1750-1751. doi: 10.3201/eid2509.181234. PMID: 31441766; PMCID: PMC6711225.
+PMID:31441766(PubMed abstract) Schwartz IS, Kenyon C, Feng P, Govender NP, Dukik K, Sigler L, Jiang Y, Stielow JB, Muñoz JF, Cuomo CA, Botha A, Stchigel AM, de Hoog GS. 50 Years of Emmonsia Disease in Humans: The Dramatic Emergence of a Cluster of Novel Fungal Pathogens. PLoS Pathog. 2015 Nov 19;11(11):e1005198. doi: 10.1371/journal.ppat.1005198. PMID: 26584311; PMCID: PMC4652914.
+PMID:26584311(PubMed abstract) Schwartz IS, Sanche S, Wiederhold NP, Patterson TF, Sigler L. Emergomyces canadensis, a Dimorphic Fungus Causing Fatal Systemic Human Disease in North America. Emerg Infect Dis. 2018 Apr;24(4):758-761. doi: 10.3201/eid2404.171765. PMID: 29553321; PMCID: PMC5875289.
+PMID:29553321(PubMed abstract) Schwartz, I.S., Maphanga, T.G. & Govender, N.P. Emergomyces: a New Genus of Dimorphic Fungal Pathogens Causing Disseminated Disease among Immunocompromised Persons Globally. Curr Fungal Infect Rep 12, 44–50 (2018). https://doi.org/10.1007/s12281-018-0308-y
+PMID:29553321(PubMed abstract) Schwartz IS, Govender NP, Sigler L, Jiang Y, Maphanga TG, Toplis B, Botha A, Dukik K, Hoving JC, Muñoz JF, de Hoog S, Cuomo CA, Colebunders R, Kenyon C. Emergomyces: The global rise of new dimorphic fungal pathogens. PLoS Pathog. 2019 Sep 19;15(9):e1007977. doi: 10.1371/journal.ppat.1007977. PMID: 31536607; PMCID: PMC6752945.
+PMID:31536607(PubMed abstract) Vinayagamoorthy K, Gangavaram DR, Skiada A, Prakash H. Emergomycosis, an Emerging Thermally Dimorphic Fungal Infection: A Systematic Review. J Fungi (Basel). 2023 Oct 23;9(10):1039. doi: 10.3390/jof9101039. PMID: 37888295; PMCID: PMC10607913.
+PMID:37888295(PubMed abstract)
+Ibe C, Mnyambwa NP, Mfinanga SG. Emergomycosis in Africa: Time to Pay Attention to This Emerging Deadly Fungal Infection. Int J Gen Med. 2023 Jun 7;16:2313-2322. doi: 10.2147/IJGM.S403797. PMID: 37309324; PMCID: PMC10257923.
+PMID:37309324(PubMed abstract)
 Mah J, Bakker A, Tseng C, Lafay-Cousin L, Kuhn S, Brundler MA, Lisboa LF. Isolated Pulmonary Emergomycosis in an Immunocompetent Patient in Alberta, Canada. Open Forum Infect Dis. 2022 Feb 14;9(3):ofac021. doi: 10.1093/ofid/ofac021. PMID: 35174253; PMCID: PMC8843081.
-PMID:35174253 ( PubMed abstract )
+PMID:35174253(PubMed abstract)
 Mittal J, Ponce MG, Gendlina I, Nosanchuk JD. Histoplasma Capsulatum: Mechanisms for Pathogenesis. Curr Top Microbiol Immunol. 2019;422:157-191. doi: 10.1007/82_2018_114. PMID: 30043340; PMCID: PMC7212190.
-PMID:30043340 ( PubMed abstract )
+PMID:30043340(PubMed abstract)
 Nakao K, Nishikori M, Fujimoto M, Arima H, Haga H, Takaori-Kondo A. Concurrent development of small lymphocytic lymphoma and lung cancer: A report of two cases and a review of the literature. J Clin Exp Hematop. 2023 Jun 28;63(2):132-138. doi: 10.3960/jslrt.22047. Epub 2023 May 28. PMID: 37245973; PMCID: PMC10410622.
-PMID:37245973 ( PubMed abstract )
+PMID:37245973(PubMed abstract)
 Reddy DL, Nel J, Govender NP. Review: Emergomycosis. J Mycol Med. 2023 Mar;33(1):101313. doi: 10.1016/j.mycmed.2022.101313. Epub 2022 Jul 23. PMID: 36272380. Govender NP, Grayson W. Emergomycosis (Emergomyces africanus) in Advanced HIV Disease. Dermatopathology (Basel). 2019 Jun 26;6(2):63-69. doi: 10.1159/000495405. PMID: 31700845; PMCID: PMC6827448.
-PMID:36272380 ( PubMed abstract )
+PMID:36272380(PubMed abstract)
 Rooms I, Mugisha P, Gambichler T, Hadaschik E, Esser S, Rath PM, Haase G, Wilmes D, McCormick-Smith I, Rickerts V. Disseminated Emergomycosis in a Person with HIV Infection, Uganda. Emerg Infect Dis. 2019 Sep;25(9):1750-1751. doi: 10.3201/eid2509.181234. PMID: 31441766; PMCID: PMC6711225.
-PMID:31441766 ( PubMed abstract )
+PMID:31441766(PubMed abstract)
 Schwartz IS, Kenyon C, Feng P, Govender NP, Dukik K, Sigler L, Jiang Y, Stielow JB, Muñoz JF, Cuomo CA, Botha A, Stchigel AM, de Hoog GS. 50 Years of Emmonsia Disease in Humans: The Dramatic Emergence of a Cluster of Novel Fungal Pathogens. PLoS Pathog. 2015 Nov 19;11(11):e1005198. doi: 10.1371/journal.ppat.1005198. PMID: 26584311; PMCID: PMC4652914.
-PMID:26584311 ( PubMed abstract )
+PMID:26584311(PubMed abstract)
 Schwartz IS, Sanche S, Wiederhold NP, Patterson TF, Sigler L. Emergomyces canadensis, a Dimorphic Fungus Causing Fatal Systemic Human Disease in North America. Emerg Infect Dis. 2018 Apr;24(4):758-761. doi: 10.3201/eid2404.171765. PMID: 29553321; PMCID: PMC5875289.
-PMID:29553321 ( PubMed abstract )
+PMID:29553321(PubMed abstract)
 Schwartz, I.S., Maphanga, T.G. & Govender, N.P. Emergomyces: a New Genus of Dimorphic Fungal Pathogens Causing Disseminated Disease among Immunocompromised Persons Globally. Curr Fungal Infect Rep 12, 44–50 (2018). https://doi.org/10.1007/s12281-018-0308-y
-PMID:29553321 ( PubMed abstract )
+PMID:29553321(PubMed abstract)
 Schwartz IS, Govender NP, Sigler L, Jiang Y, Maphanga TG, Toplis B, Botha A, Dukik K, Hoving JC, Muñoz JF, de Hoog S, Cuomo CA, Colebunders R, Kenyon C. Emergomyces: The global rise of new dimorphic fungal pathogens. PLoS Pathog. 2019 Sep 19;15(9):e1007977. doi: 10.1371/journal.ppat.1007977. PMID: 31536607; PMCID: PMC6752945.
-PMID:31536607 ( PubMed abstract )
+PMID:31536607(PubMed abstract)
 Vinayagamoorthy K, Gangavaram DR, Skiada A, Prakash H. Emergomycosis, an Emerging Thermally Dimorphic Fungal Infection: A Systematic Review. J Fungi (Basel). 2023 Oct 23;9(10):1039. doi: 10.3390/jof9101039. PMID: 37888295; PMCID: PMC10607913.
-PMID:37888295 ( PubMed abstract )
+PMID:37888295(PubMed abstract)

@@ -11,15 +11,15 @@ Physical Examination
 On admission, he appeared cachectic. The temperature was 96.9°F (36.1°C). There was mild thrush, severe gingivitis with dental caries and missing dentition, and bilateral sub-mandibular lymphadenopathy. The lungs were clear, the abdomen was soft and moderately distended with scant bowel sounds and severe left lower quadrant abdominal pain. There were no skin lesions or genital ulcers.
 Studies
 The white blood cell count was 1800 cells/mm³ (59% neutrophils, 28% lymphocytes, 9% monocytes, 2% eosinophils). Sputum specimens were positive for acid-fast bacilli by fluorescent staining.
-The chest radiograph revealed diffuse reticulonodular densities ( Figures 1 and 2 ).
+The chest radiograph revealed diffuse reticulonodular densities (Figures 1 and 2).
 Figure 1. Chest radiograph.
 Figure 2. Detail of Figure 1.
 Clinical Course Prior to Diagnosis
-An abdominal radiograph and computed tomography (CT) of the abdomen revealed findings consistent with a high grade small bowel obstruction and mass-like thickening in right lower quadrant ( Figures 3 and 4 ).
+An abdominal radiograph and computed tomography (CT) of the abdomen revealed findings consistent with a high grade small bowel obstruction and mass-like thickening in right lower quadrant (Figures 3 and 4).
 Figure 3. Abdominal radiograph.
 Figure 4. Abdominal CT scan.
 Diagnostic Procedure(s) and Result(s)
-Resection of the mid and distal small bowel was performed. Pathological examination of tissue from the resected intestinal wall showed caseating granulomas and ulcerated bowel wall on hematoxylin and eosin (H & E) staining ( Figures 5 and 6 ). Silver staining of the intestinal wall showed yeast-like organisms consistent with histoplasmosis ( Figure 7 ). Urinary Histoplasma antigen was positive at 9.60 units. Sputum cultures grew Mycobacterium avium complex (MAC).
+Resection of the mid and distal small bowel was performed. Pathological examination of tissue from the resected intestinal wall showed caseating granulomas and ulcerated bowel wall on hematoxylin and eosin (H & E) staining (Figures 5 and 6). Silver staining of the intestinal wall showed yeast-like organisms consistent with histoplasmosis (Figure 7). Urinary Histoplasma antigen was positive at 9.60 units. Sputum cultures grew Mycobacterium avium complex (MAC).
 Figure 5. H and E stain of caseating granuloma.
 Figure 6. H and E stain of mucosal ulceration.
 Figure 7. Silver stain of biopsy.
@@ -33,6 +33,9 @@ Final Diagnosis
 Intestinal histoplasmosis and pulmonary Mycobacterium avium complex infection, in a patient with HIV and AIDS, in the setting of immune reconstitution syndrome.
 References
 Kahi, C.J., Wheat, L.J., Allen, S.D., and Sarosi, G.A. (2005). Gastrointestinal histoplasmosis. Am J Gastroenterol 100, 220-231.
-PMID:15654803 ( PubMed abstract )
+PMID:15654803(PubMed abstract) Salama, C., Policar, M., and Venkataraman, M. (2003). Isolated pulmonary Mycobacterium avium complex infection in patients with human immunodeficiency virus infection: case reports and literature review. Clin Infect Dis 37, e35-40.
+PMID:12884187(PubMed abstract)
+Kahi, C.J., Wheat, L.J., Allen, S.D., and Sarosi, G.A. (2005). Gastrointestinal histoplasmosis. Am J Gastroenterol 100, 220-231.
+PMID:15654803(PubMed abstract)
 Salama, C., Policar, M., and Venkataraman, M. (2003). Isolated pulmonary Mycobacterium avium complex infection in patients with human immunodeficiency virus infection: case reports and literature review. Clin Infect Dis 37, e35-40.
-PMID:12884187 ( PubMed abstract )
+PMID:12884187(PubMed abstract)

@@ -20,35 +20,48 @@ Figure 3. Silver stain of left perihilar and left upper lobe nodes demonstrating
 Figure 4. Direct tissue-KOH preparation demonstrating a thick-walled yeast with a diameter of 11.43 µm
 Figure 5. GMS Stain from culture plates of left hilar node demonstrating thick walled conidia resembling Histoplasma var. duboisii
 Treatment and Followup
-He was started on oral itraconazole 200 mg twice daily and referred to Infectious Diseases clinic for follow-up. Due to a lack of clinical and radiological response with standard itraconazole therapy, he was switched to posaconazole 300 mg daily. His respiratory symptoms improved and a repeat Chest CT after 4 months showed a decrease size of the left peri-hilar mass and left upper consolidations (Figure 6).
+He was started on oral itraconazole 200 mg twice daily and referred to Infectious Diseases clinic for follow-up. Due to a lack of clinical and radiological response with standard itraconazole therapy, he was switched to posaconazole 300 mg daily. His respiratory symptoms improved and a repeat Chest CT after 4 months showed a decrease size of the left peri-hilar mass and left upper consolidations (Figure 6). Figure 6. Follow-up CT chest without contrast at 4 months demonstrating decrease in size of the left hilar mass
 Figure 6. Follow-up CT chest without contrast at 4 months demonstrating decrease in size of the left hilar mass
 Discussion
-The clinical presentation of Histoplasma capsulatum var. duboisii exhibits some differences from that caused by H. capsulatum var. capsulatum . African histoplasmosis usually involves the skin, subcutaneous tissues, lymph nodes and bones unlike classical histoplasmosis, which generally involves lungs and mucosa and less commonly cutaneous or bone lesions. The predilection of duboisii histoplasmosis for the bone, particularly the elements of marrow is characteristic of the disease [1]. Two forms of African histoplasmosis are typically described as a localized chronic form that involves skin, subcutaneous tissue, bones, or lymph nodes; and a disseminated rapidly evolving form, which can also involve the spleen, liver, lungs, and abdominal viscera through hematogenous invasion [2]. African histoplasmosis is not commonly reported in immunosuppressed hosts, however reports in HIV-infected individuals are emerging [3-4]. We did not find any previous reports of African histoplasmosis in solid organ recipients.
-Fungal culture remains the gold standard for the diagnosis of histoplasmosis [5]. Differentiating this organism from Cryptococcus is not difficult based on morphology and antigen testing. The cryptococcal encapsulated yeast size diameter is about 5 to 10 µm, and is usually surrounded by empty spaces that reflect the capsule while the yeast form of Histoplasma capsulatum var. duboisii is typically larger (diameter up to 15 µm). Blastomyces dermatididis is similar in size to H. capsulatum var. duboisii and both exhibit a thick cell wall. However, the diagnosis of blastomycosis requires identification of broad-based buds and/or multiple nuclei compared to Histoplasma capsulatum var. duboisii which has a narrow-based bud and is uni-nucleated [6]. Histoplasma var. duboisii is also unique in that in vivo it appears similar to B. dermatitidis but in vitro it grows with mycelia similar to H. capsulatum with large, thick-walled round tuberculate macroconidia. Histoplasma antigen detection in serum and urine is a sensitive test but has been developed only for the variety capsulatum , and is not validated for species duboisii [7]. PCR assays have been developed but are not yet routinely used [8].
+The clinical presentation of Histoplasma capsulatum var. duboisii exhibits some differences from that caused by H. capsulatum var. capsulatum. African histoplasmosis usually involves the skin, subcutaneous tissues, lymph nodes and bones unlike classical histoplasmosis, which generally involves lungs and mucosa and less commonly cutaneous or bone lesions. The predilection of duboisii histoplasmosis for the bone, particularly the elements of marrow is characteristic of the disease [1]. Two forms of African histoplasmosis are typically described as a localized chronic form that involves skin, subcutaneous tissue, bones, or lymph nodes; and a disseminated rapidly evolving form, which can also involve the spleen, liver, lungs, and abdominal viscera through hematogenous invasion [2]. African histoplasmosis is not commonly reported in immunosuppressed hosts, however reports in HIV-infected individuals are emerging [3-4]. We did not find any previous reports of African histoplasmosis in solid organ recipients.
+Fungal culture remains the gold standard for the diagnosis of histoplasmosis [5]. Differentiating this organism from Cryptococcus is not difficult based on morphology and antigen testing. The cryptococcal encapsulated yeast size diameter is about 5 to 10 µm, and is usually surrounded by empty spaces that reflect the capsule while the yeast form of Histoplasma capsulatum var. duboisii is typically larger (diameter up to 15 µm). Blastomyces dermatididis is similar in size to H. capsulatum var. duboisii and both exhibit a thick cell wall. However, the diagnosis of blastomycosis requires identification of broad-based buds and/or multiple nuclei compared to Histoplasma capsulatum var. duboisii which has a narrow-based bud and is uni-nucleated [6]. Histoplasma var. duboisii is also unique in that in vivo it appears similar to B. dermatitidis but in vitro it grows with mycelia similar to H. capsulatum with large, thick-walled round tuberculate macroconidia. Histoplasma antigen detection in serum and urine is a sensitive test but has been developed only for the variety capsulatum, and is not validated for species duboisii [7]. PCR assays have been developed but are not yet routinely used [8].
 The treatment of moderate pulmonary histoplasmosis as per the IDSA 2007 clinical practice guidelines is with oral itraconazole; in case of disseminated disease, amphotericin followed by itraconazole is the recommended regimen [9]. Posaconazole has been successfully used as salvage therapy in a pediatric patient with disseminated African histoplasmosis [10,11].
 Final Diagnosis
-Pulmonary histoplasmosis caused by Histoplasma var. duboisii , in a renal transplant patient.
+Pulmonary histoplasmosis caused by Histoplasma var. duboisii, in a renal transplant patient.
 References
 Gugnani HC, Muotoe-Okafor F. Rev Iberoam Micol. 1997 African histoplasmosis: a review. Dec;14(4):155-9.
-PMID:15538817 ( PubMed abstract )
+PMID:15538817(PubMed abstract) Deepe, G.S. (2015). Histoplasma capsulatum (Histoplasmosis). In G. M. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 8th Edition, Eds. Bennett, Dolin, & Blaser. (pp.2949-2962). Elsevier: Philadelphia, PA. Loulergue P, Bastides F, Baudouin V, Chandenier J, Mariani-Kurkdjian P, Dupont B, Viard JP, Dromer F, Lortholary O. Literature review and case histories of Histoplasma capsulatum var. duboisii infections in HIV-infected patients. Emerg Infect Dis. 2007;13:1647–1652
+PMID:18217546(PubMed abstract) Manfredi R, Mazzoni A, Nanetti A, Chiodo F. Histoplasmosis capsulati and duboisii in Europe: the impact of the HIV pandemic, travel and immigration. Eur J Epidemiol. 1994;10:675–6814.
+PMID:7672046(PubMed abstract) Carme B, Hayette MP, Ngapro AL, et al. Histoplasmose Africaine à Histoplasma duboisii (Histoplasma capsulatum var. duboisii) quatorze cas congolais observés en 10 ans (1981-1990). J Mycol Med 1993;3: 67-73. Gugnani HC. Histoplasmosis in Africa: a review. Indian J Chest Dis Allied Sci. 2000;42:271–277
+PMID:15597674(PubMed abstract) Mary Klassen-Fischer, Peter McEvoy, Ronald C. Neafie, Ann Marie Nelson; Accurate Diagnosis of Infection with Histoplasma capsulatum var. duboisii. Clin Infect Dis 2004; 38 (4): 595
+PMID:14765358(PubMed abstract) Kauffman CA Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev. 2007;20:115–32 10.1128/CMR.00027-06
+PMID:17223625(PubMed abstract) Wheat LJ, Freifeld AG, Kleiman MB, Baddley JW, McKinsey DS, Loyd JE, Kauffman
+CA; Infectious Diseases Society of America. Clinical practice guidelines for the
+management of patients with histoplasmosis: 2007 update by the Infectious
+Diseases Society of America. Clin Infect Dis. 2007 Oct 1;45(7):807-25.
+PMID:17806045(PubMed abstract) Restrepo A, Tobón A, Clark B, et al. Salvage treatment of histoplasmosis with posaconazole. J Infect. 2007;54: 319–27
+PMID:16824608(PubMed abstract) Gonçalves D, Ferraz C, Vaz L. Posaconazole as rescue therapy in African histoplasmosis. Brazilian Journal of Infectious Diseases, 17(1), 102-105.
+PMID:23312726(PubMed abstract)
+Gugnani HC, Muotoe-Okafor F. Rev Iberoam Micol. 1997 African histoplasmosis: a review. Dec;14(4):155-9.
+PMID:15538817(PubMed abstract)
 Deepe, G.S. (2015). Histoplasma capsulatum (Histoplasmosis). In G. M. Mandell, Douglas, and Bennett's Principles and Practice of Infectious Diseases, 8th Edition, Eds. Bennett, Dolin, & Blaser. (pp.2949-2962). Elsevier: Philadelphia, PA.
 Loulergue P, Bastides F, Baudouin V, Chandenier J, Mariani-Kurkdjian P, Dupont B, Viard JP, Dromer F, Lortholary O. Literature review and case histories of Histoplasma capsulatum var. duboisii infections in HIV-infected patients. Emerg Infect Dis. 2007;13:1647–1652
-PMID:18217546 ( PubMed abstract )
+PMID:18217546(PubMed abstract)
 Manfredi R, Mazzoni A, Nanetti A, Chiodo F. Histoplasmosis capsulati and duboisii in Europe: the impact of the HIV pandemic, travel and immigration. Eur J Epidemiol. 1994;10:675–6814.
-PMID:7672046 ( PubMed abstract )
+PMID:7672046(PubMed abstract)
 Carme B, Hayette MP, Ngapro AL, et al. Histoplasmose Africaine à Histoplasma duboisii (Histoplasma capsulatum var. duboisii) quatorze cas congolais observés en 10 ans (1981-1990). J Mycol Med 1993;3: 67-73.
 Gugnani HC. Histoplasmosis in Africa: a review. Indian J Chest Dis Allied Sci. 2000;42:271–277
-PMID:15597674 ( PubMed abstract )
+PMID:15597674(PubMed abstract)
 Mary Klassen-Fischer, Peter McEvoy, Ronald C. Neafie, Ann Marie Nelson; Accurate Diagnosis of Infection with Histoplasma capsulatum var. duboisii. Clin Infect Dis 2004; 38 (4): 595
-PMID:14765358 ( PubMed abstract )
+PMID:14765358(PubMed abstract)
 Kauffman CA Histoplasmosis: a clinical and laboratory update. Clin Microbiol Rev. 2007;20:115–32 10.1128/CMR.00027-06
-PMID:17223625 ( PubMed abstract )
+PMID:17223625(PubMed abstract)
 Wheat LJ, Freifeld AG, Kleiman MB, Baddley JW, McKinsey DS, Loyd JE, Kauffman
 CA; Infectious Diseases Society of America. Clinical practice guidelines for the
 management of patients with histoplasmosis: 2007 update by the Infectious
 Diseases Society of America. Clin Infect Dis. 2007 Oct 1;45(7):807-25.
-PMID:17806045 ( PubMed abstract )
+PMID:17806045(PubMed abstract)
 Restrepo A, Tobón A, Clark B, et al. Salvage treatment of histoplasmosis with posaconazole. J Infect. 2007;54: 319–27
-PMID:16824608 ( PubMed abstract )
+PMID:16824608(PubMed abstract)
 Gonçalves D, Ferraz C, Vaz L. Posaconazole as rescue therapy in African histoplasmosis. Brazilian Journal of Infectious Diseases, 17(1), 102-105.
-PMID:23312726 ( PubMed abstract )
+PMID:23312726(PubMed abstract)

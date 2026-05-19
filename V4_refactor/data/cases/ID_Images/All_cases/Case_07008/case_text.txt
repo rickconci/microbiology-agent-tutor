@@ -15,23 +15,27 @@ The patient appeared unwell and fatigued. The temperature was 96.7°F (35.9°C),
 Studies
 The white blood cell count was 5,900 cells/mm³, hematocrit 29.5% and platelets 94,000/mm³. Serum sodium was 126 mmol/L, urea nitrogen 29 mg/dL, creatinine 2.3 mg/dL, alanine aminotransferase 95 U/L, aspartate aminotransferase 288 U/L, lactate dehydrogenase 771 U/L, alkaline phosphatase 434 U/L and total bilirubin 5.7 mg/dL.
 Clinical Course Prior to Diagnosis
-Specimens of blood were cultured; a gram stain of the culture is shown in Figure 1 .
+Specimens of blood were cultured; a gram stain of the culture is shown in Figure 1.
 Figure 1. Gram stain of blood culture.
 Diagnostic Procedure(s) and Result(s)
-Culture of the blood grew Penicillium marneffei , shown in Figures 2 and 3 .
+Culture of the blood grew Penicillium marneffei, shown in Figures 2 and 3.
 Figure 2. Gram stain of blood culture.
 Figure 3. Plate of blood culture growth.
 Treatment and Followup
 The patient received intravenous amphotericin B (liposomal) for two weeks followed by a course of oral itraconazole. The fevers resolved and the blood cultures cleared on therapy.
 At follow-up, highly active anti-retroviral therapy (HAART) was re-instated with lamivudine, zidovudine, tenofovir, ritonavir, and tipranavir. Trimethoprim-sulfamethoxazole and azithromycin prophylaxis medications were also administered.
 Discussion
-Penicillium marneffei is a dimorphic fungus that causes disseminated infection in patients with AIDS. It is the third most common opportunistic infection seen in AIDS patients in Northern Thailand and has been described throughout Southeast Asia as well as southern China and Hong Kong. Patients present with a subacute illness characterized by fever, weight loss and skin lesions; these lesions tend to be papular with central umbilication reminiscent of molluscum. Fifty percent of patients present with fungemia, lymphadenopathy and cough. Diagnosis of Penicillium marneffei infection is made when a smear of blood or tissue reveals yeast forms extracellularly and within phagocytes. The extracellular forms may have a transverse septum. Culture at 30°C reveals a mold that produces a characteristic soluble red pigment ( Figure 3 ). As of this writing, patients are often treated with amphotericin for two weeks, followed by ten weeks of itraconazole. Secondary prophylaxis with daily itraconazole is standard.
+Penicillium marneffei is a dimorphic fungus that causes disseminated infection in patients with AIDS. It is the third most common opportunistic infection seen in AIDS patients in Northern Thailand and has been described throughout Southeast Asia as well as southern China and Hong Kong. Patients present with a subacute illness characterized by fever, weight loss and skin lesions; these lesions tend to be papular with central umbilication reminiscent of molluscum. Fifty percent of patients present with fungemia, lymphadenopathy and cough. Diagnosis of Penicillium marneffei infection is made when a smear of blood or tissue reveals yeast forms extracellularly and within phagocytes. The extracellular forms may have a transverse septum. Culture at 30°C reveals a mold that produces a characteristic soluble red pigment (Figure 3). As of this writing, patients are often treated with amphotericin for two weeks, followed by ten weeks of itraconazole. Secondary prophylaxis with daily itraconazole is standard.
 Final Diagnosis
 Penicillium marneffei in a patient with HIV infection and AIDS from a large city in southeastern China.
 References
 Sirisanthana, T., Supparatpinyo, K., Perriens, J., and Nelson, K.E. (1998). Amphotericin B and itraconazole for treatment of disseminated Penicillium marneffei infection in human immunodeficiency virus-infected patients. Clin Infect Dis 26, 1107-1110.
-PMID:9597237 ( PubMed abstract )
+PMID:9597237(PubMed abstract) Supparatpinyo, K., Perriens, J., Nelson, K.E., and Sirisanthana, T. (1998). A controlled trial of itraconazole to prevent relapse of Penicillium marneffei infection in patients infected with the human immunodeficiency virus. N Engl J Med 339, 1739-1743.
+PMID:9845708(PubMed abstract) Ustianowski, A.P., Sieu, T.P., and Day, J.N. (2008). Penicillium marneffei infection in HIV. Curr Opin Infect Dis 21, 31-36.
+PMID:18192783(PubMed abstract)
+Sirisanthana, T., Supparatpinyo, K., Perriens, J., and Nelson, K.E. (1998). Amphotericin B and itraconazole for treatment of disseminated Penicillium marneffei infection in human immunodeficiency virus-infected patients. Clin Infect Dis 26, 1107-1110.
+PMID:9597237(PubMed abstract)
 Supparatpinyo, K., Perriens, J., Nelson, K.E., and Sirisanthana, T. (1998). A controlled trial of itraconazole to prevent relapse of Penicillium marneffei infection in patients infected with the human immunodeficiency virus. N Engl J Med 339, 1739-1743.
-PMID:9845708 ( PubMed abstract )
+PMID:9845708(PubMed abstract)
 Ustianowski, A.P., Sieu, T.P., and Day, J.N. (2008). Penicillium marneffei infection in HIV. Curr Opin Infect Dis 21, 31-36.
-PMID:18192783 ( PubMed abstract )
+PMID:18192783(PubMed abstract)

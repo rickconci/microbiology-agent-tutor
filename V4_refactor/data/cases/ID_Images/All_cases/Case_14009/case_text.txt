@@ -1,8 +1,7 @@
 History of Present Illness
 A Japanese man in his seventies with a history of miliary tuberculosis presented with progressive enlargement of masses in the left side of the neck and right thigh.
 Eight months before this presentation, a diagnosis of miliary tuberculosis had been made after acid-fast bacilli (AFB) culture of a sputum specimen was positive. Diagnoses of tuberculous enteritis and tuberculoma of the brain were also made at that time. Isoniazid (300 mg), rifampin (450 mg), ethambutol (750 mg) and pyrazinamide (1000 mg) daily were administered for 8 weeks until susceptibility results returned, and the treatment was changed to isoniazid and rifampin. Seven months before this presentation, ileocecectomy and right hemicolectomy were performed because of hemorrhagic shock and recurrent bleeding from an ileocecal ulcer of tuberculous enteritis.
-Five months later, the patient noted a subcutaneous mass in the region of the surgical site. Computed tomography showed an intra-abdominal mass extending to abdominal wall. Debridement of an abscess extending from the subcutaneous to the intra-abdominal tissue was performed. AFB culture of the abscess was negative; pathological examination of the tissue with hematoxylin and eosin (HE) staining revealed caseating epithelioid granuloma with Langhans’ giant cells ( Figure 1 ). One month before this presentation, his family noted a hard subcutaneous mass on his right thigh, which was painless. Approximately 20 days later, the patient noted progressive enlargement of a left neck mass
-Figure 1. Image
+Five months later, the patient noted a subcutaneous mass in the region of the surgical site. Computed tomography showed an intra-abdominal mass extending to abdominal wall. Debridement of an abscess extending from the subcutaneous to the intra-abdominal tissue was performed. AFB culture of the abscess was negative; pathological examination of the tissue with hematoxylin and eosin (HE) staining revealed caseating epithelioid granuloma with Langhans’ giant cells (Figure 1). One month before this presentation, his family noted a hard subcutaneous mass on his right thigh, which was painless. Approximately 20 days later, the patient noted progressive enlargement of a left neck mass
 Figure 1. Subcutaneous to intra-abdominal abscess, HE stain.
 Past Medical History
 He had a history of miliary tuberculosis as above, and, for 5 years, hypertension.
@@ -18,29 +17,34 @@ Physical Examination
 He appeared in mild distress and was oriented to person only. The blood pressure was 105/66 mm Hg, pulse 76 beats per minute, temperature 98.0°F (36.7°C), and respirations 16 breaths per minute. There was a tender left cervical mass (140 mm by 80 mm) that was fixed, warm and slightly erythematous. The abdomen was soft with a stoma on his lower abdomen; the surgical scar was well-healed and there was no tenderness or mass. A subcutaneous mass (40mm by 35mm) on the right thigh was non-tender and without erythema. There was no lymphadenopathy including in the right cervical, supraclavicular, axillary, trochlear or inguinal regions. The remainder of the examination was normal.
 Studies
 The white cell count was 8,700 per cubic millimeter (reference range 3,900-9,800) with neutrophils 89%, band forms 3%, and lymphocytes 3%; the level of hemoglobin was 9.6 mg/dL (reference range 13.5-17.6) and the platelet count was 343,000 per cubic millimeter (reference range 130,000-369,000). The serum level of urea nitrogen was 31 mg/dL (reference range 8-20), creatinine 0.93 mg/dL (reference range 0.63-1.03), aspartate aminotransferase 37 IU/L (reference range 11-30), alanine aminotransferase 33 IU/L (reference range 4-30), alkaline phosphatase 255 IU/L (reference range 107-330), gamma-glutamyl transpeptidase (GGTP) 104 IU/L (reference range <70), lactate dehydrogenase 165 IU/L (reference range 109-216), and albumin 2.5 g/dL (reference range 3.9-5.1).
-Computed tomography (CT) of the neck with the administration of contrast showed a large mass on the left side ( Figure 2 ).
+Computed tomography (CT) of the neck with the administration of contrast showed a large mass on the left side (Figure 2).
 Figure 2. CT of the neck with contrast, coronal view.
 Clinical Course Prior to Diagnosis
-Three sputum specimens were negative for acid-fast bacilli. The serum concentration of isoniazid (INH) was 4.7 µg/mL (usual therapeutic range 1-7) and rifampin 19.0 µg/mL (usual therapeutic range 4-32). Testing for antibodies to human immunodeficiency virus (HIV) was negative. Biopsy of thigh and neck masses was performed; images of pathological examination of the neck mass ( Figure 3 ) and thigh subcutaneous mass ( Figure 4 ) are shown, both with hematoxylin and eosin (HE) staining.
+Three sputum specimens were negative for acid-fast bacilli. The serum concentration of isoniazid (INH) was 4.7 µg/mL (usual therapeutic range 1-7) and rifampin 19.0 µg/mL (usual therapeutic range 4-32). Testing for antibodies to human immunodeficiency virus (HIV) was negative. Biopsy of thigh and neck masses was performed; images of pathological examination of the neck mass (Figure 3) and thigh subcutaneous mass (Figure 4) are shown, both with hematoxylin and eosin (HE) staining.
 Figure 3. Left neck mass, HE stain, high power.
 Figure 4. Right thigh mass, HE stain, high power.
 Diagnostic Procedure(s) and Result(s)
-Pathological examination of the neck and thigh subcutaneous masses ( Figures 3 and 4 ) showed mixtures of intermediate and large atypical tumor cells. Immunohistochemical staining was positive for CD3, CD4 and CD8 and negative for CD29 and CD 79a, results that were consistent with T-cell lymphoma. Testing for antibody to human T-cell leukemia virus type 1 (HTLV-1) was positive.
+Pathological examination of the neck and thigh subcutaneous masses (Figures 3 and 4) showed mixtures of intermediate and large atypical tumor cells. Immunohistochemical staining was positive for CD3, CD4 and CD8 and negative for CD29 and CD 79a, results that were consistent with T-cell lymphoma. Testing for antibody to human T-cell leukemia virus type 1 (HTLV-1) was positive.
 Treatment and Followup
 Additional history was obtained that the patient was born on an island in Japan where HTLV-1 is endemic. The patient's condition deteriorated and he died on the 37th hospital day.
 Discussion
 HTLV-1 infects an estimated 20 million people worldwide. Endemic areas include Japan, Africa, the Caribbean islands, and Central and South America.
 The route of HTLV-1 transmission includes breast feeding, sexual transmission, tissue donation and injection drug use. One million people are infected in Japan, where vertical transmission by breast-feeding is thought to be the most common route of contagion. Seroprevalence rates are up to 37% and are especially high in the southwestern isles of Shikoku, Kyusyu and Okinawa.
 Most infected people remain entirely asymptomatic. However, the HTLV-1 virus infection has been associated with a number of complications, including Adult T-cell Lymphoma/Leukemia (ATL), HTLV-1-associated myelopathy/tropical spastic paraparesis, and HTLV-1-associated uveitis. Acute ATL is a fulminant disease with poor outcome. Furthermore HTLV-1 infection increases the severity and susceptibility to strongyloidiasis, scabies, leprosy and tuberculosis (TB)
-Several studies have investigated the effect of HTLV-1 infection on both infection and disease due to M. tuberculosis . People with HTLV-1 infection have 2- to 4-fold increased risk of acquiring M. tuberculosis . Suppression of delayed-type hypersensitivity to purified protein derivative (PPD) of M. tuberculosis has been demonstrated [Bastos et al., 2012], possibly due to impairment of TNF-alpha production caused by HTLV-1 infection.
+Several studies have investigated the effect of HTLV-1 infection on both infection and disease due to M. tuberculosis. People with HTLV-1 infection have 2- to 4-fold increased risk of acquiring M. tuberculosis. Suppression of delayed-type hypersensitivity to purified protein derivative (PPD) of M. tuberculosis has been demonstrated [Bastos et al., 2012], possibly due to impairment of TNF-alpha production caused by HTLV-1 infection.
 Final Diagnosis
 T-cell lymphoma associated with Human T-cell leukemia virus type 1.
 References
 Bastos Mde L, Santos SB, Souza A, Finkmoore B, Bispo O, Barreto T, Cardoso I, Bispo I, Bastos F, Pereira D, Riley L, Carvalho EM. Influence of HTLV-1 on the clinical, microbiologic and immunologic presentation of tuberculosis. (2012). BMC Infect Dis. 2012 Aug 28;12:199.
-PMID:22925731 ( PubMed abstract )
+PMID:22925731(PubMed abstract) Gonçalves DU1, Proietti FA, Ribas JG, Araújo MG, Pinheiro SR, Guedes AC, Carneiro-Proietti AB.(2010). Epidemiology, Treatment, and Prevention of Human T-Cell Leukemia Virus Type 1-Associated Diseases. Clin Microbiol Rev. 23(3): 577–589.
+PMID:20610824(PubMed abstract) Marsh BJ. (1996). Infectious complications of human T cell leukemia/lymphoma virus type infection. Clin Infect Dis. 23(1):138-45.
+PMID:8816143(PubMed abstract) Yoshida M, Miyoshi I, Hinuma Y. (1982). Isolation and characterization of retrovirus from cell lines of human adult T-cell leukemia and its implication in the disease. Proc Natl Acad Sci U S A. 1982 Mar;79(6):2031-5.
+PMID:6979048(PubMed abstract)
+Bastos Mde L, Santos SB, Souza A, Finkmoore B, Bispo O, Barreto T, Cardoso I, Bispo I, Bastos F, Pereira D, Riley L, Carvalho EM. Influence of HTLV-1 on the clinical, microbiologic and immunologic presentation of tuberculosis. (2012). BMC Infect Dis. 2012 Aug 28;12:199.
+PMID:22925731(PubMed abstract)
 Gonçalves DU1, Proietti FA, Ribas JG, Araújo MG, Pinheiro SR, Guedes AC, Carneiro-Proietti AB.(2010). Epidemiology, Treatment, and Prevention of Human T-Cell Leukemia Virus Type 1-Associated Diseases. Clin Microbiol Rev. 23(3): 577–589.
-PMID:20610824 ( PubMed abstract )
+PMID:20610824(PubMed abstract)
 Marsh BJ. (1996). Infectious complications of human T cell leukemia/lymphoma virus type infection. Clin Infect Dis. 23(1):138-45.
-PMID:8816143 ( PubMed abstract )
+PMID:8816143(PubMed abstract)
 Yoshida M, Miyoshi I, Hinuma Y. (1982). Isolation and characterization of retrovirus from cell lines of human adult T-cell leukemia and its implication in the disease. Proc Natl Acad Sci U S A. 1982 Mar;79(6):2031-5.
-PMID:6979048 ( PubMed abstract )
+PMID:6979048(PubMed abstract)

@@ -6,14 +6,15 @@ The patient had recently moved to the United States from Honduras.
 Physical Examination
 The patient was thin, but in no acute distress. The temperature was 102°F (38.9°C), and other vital signs were normal. There were white lesions on the oral mucosa consistent with oral thrush, a freely mobile non-tender lymph node (2-centimeters in diameter) in the left axilla and shotty inguinal lymphadenopathy. The remainder of the examination was normal.
 Studies
-The white blood cell (WBC) count was 2,900 cells/mm³ and the hematocrit 24%. Computed tomography (CT) of the chest revealed innumerable tiny nodules and axillary lymphadenopathy ( Figure 1 ).
+The white blood cell (WBC) count was 2,900 cells/mm³ and the hematocrit 24%. Computed tomography (CT) of the chest revealed innumerable tiny nodules and axillary lymphadenopathy (Figure 1).
 Figure 1. Chest CT scan.
 Diagnostic Procedure(s) and Result(s)
-An induced sputum specimen was obtained. Staining of the sputum for acid fast bacilli (AFB) was positive. Culture of the induced sputum grew Mycobacterium tuberculosis .
+An induced sputum specimen was obtained. Staining of the sputum for acid fast bacilli (AFB) was positive. Culture of the induced sputum grew Mycobacterium tuberculosis.
 Treatment and Followup
 The patient was diagnosed with miliary tuberculosis. Testing for antibodies to human immunodeficiency virus (HIV) was also positive.
 Discussion
-Miliary tuberculosis (TB) results from uncontrolled hematogenous dissemination of Mycobacterium tuberculosis . The presentation is often non-specific and includes fever, weight loss and night sweats. Hematologic abnormalities, including leukopenia and normocytic anemia, are often seen. Miliary TB is more common in patients with HIV infection.
+Miliary tuberculosis (TB) results from uncontrolled hematogenous dissemination of Mycobacterium tuberculosis. The presentation is often non-specific and includes fever, weight loss and night sweats. Hematologic abnormalities, including leukopenia and normocytic anemia, are often seen. Miliary TB is more common in patients with HIV infection.
 The other diagnoses in the differential listed above were less likely: Paracoccidioidomycosis, histoplasmosis and tuberculosis may all present in the manner seen in this case, but of these, tuberculosis is the most prevalent disease. Candida pneumonia is far more rare, and cryptococcal pneumonia typically presents with a nodular pattern.
 Final Diagnosis
-Miliary tuberculosis, caused by Mycobacterium tuberculosis , and human immunodeficiency virus (HIV) infection.
+Miliary tuberculosis, caused by Mycobacterium tuberculosis, and human immunodeficiency virus (HIV) infection.
+References

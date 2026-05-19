@@ -10,12 +10,12 @@ There were no allergies to medications.
 Epidemiological History
 The patient spent time fishing in the Chesapeake Bay, drank 2-3 beers per day, and did not smoke or use intravenous drugs.
 Physical Examination
-The patient appeared toxic and lethargic. The temperature was 104°F (40°C), blood pressure 60/40 mm Hg, pulse 126 beats per minute, respirations 30 breaths per minute, and the oxygen saturation 90% while breathing room air. There were multiple hemorrhagic bullae, predominantly on the extremities. See Figure 1 .
+The patient appeared toxic and lethargic. The temperature was 104°F (40°C), blood pressure 60/40 mm Hg, pulse 126 beats per minute, respirations 30 breaths per minute, and the oxygen saturation 90% while breathing room air. There were multiple hemorrhagic bullae, predominantly on the extremities. See Figure 1.
 Figure 1. Physical finding.
 Studies
 The white blood cell count was 3300 cells/mm³ (60% polymorphonuclear cells, 23% bands), hemoglobin 12 grams/dL, and platelets 122,000/mm³. The prothrombin time was 18 seconds, INR 2, and the partial thromboplastin time was 49 seconds. The level of plasma creatinine was 3.5 mg/dL, bicarbonate 14 mEq/L, creatine kinase 23,500 U/L, aspartate aminotransferase (AST) 465 U/L, alanine aminotransferase (ALT) 145 U/L, albumin 1.9 g/dL, total bilirubin 3.7 mg/dL, direct bilirubin 3.5 mg/dL and D-dimer 658 ng/mL.
 Diagnostic Procedure(s) and Result(s)
-Multiple blood and wound cultures grew Vibrio vulnificus .
+Multiple blood and wound cultures grew Vibrio vulnificus.
 Treatment and Followup
 Despite the administration of cefepime and doxycycline, aggressive surgical debridement and intensive care support, the patient unfortunately died.
 Discussion
@@ -27,10 +27,15 @@ Final Diagnosis
 Septicemia, due to Vibrio vulnificus infection.
 References
 Blake, P.A., Merson, M.H., Weaver, R.E., Hollis, D.G., and Heublein, P.C. (1979). Disease caused by a marine Vibrio. Clinical characteristics and epidemiology. N Engl J Med 300, 1-5.
-PMID:758155 ( PubMed abstract )
+PMID:758155(PubMed abstract) Morris, J.G., Jr. (2003). Cholera and other types of vibriosis: a story of human pandemics and oysters on the half shell. Clin Infect Dis 37, 272-280.
+PMID:12856219(PubMed abstract) Morris, J.G., Jr., and Black, R.E. (1985). Cholera and other vibrioses in the United States. N Engl J Med 312, 343-350.
+PMID:3881668(PubMed abstract) Ulusarac, O., and Carter, E. (2004). Varied clinical presentations of Vibrio vulnificus infections: a report of four unusual cases and review of the literature. South Med J 97, 163-168
+PMID:14982266(PubMed abstract)
+Blake, P.A., Merson, M.H., Weaver, R.E., Hollis, D.G., and Heublein, P.C. (1979). Disease caused by a marine Vibrio. Clinical characteristics and epidemiology. N Engl J Med 300, 1-5.
+PMID:758155(PubMed abstract)
 Morris, J.G., Jr. (2003). Cholera and other types of vibriosis: a story of human pandemics and oysters on the half shell. Clin Infect Dis 37, 272-280.
-PMID:12856219 ( PubMed abstract )
+PMID:12856219(PubMed abstract)
 Morris, J.G., Jr., and Black, R.E. (1985). Cholera and other vibrioses in the United States. N Engl J Med 312, 343-350.
-PMID:3881668 ( PubMed abstract )
+PMID:3881668(PubMed abstract)
 Ulusarac, O., and Carter, E. (2004). Varied clinical presentations of Vibrio vulnificus infections: a report of four unusual cases and review of the literature. South Med J 97, 163-168
-PMID:14982266 ( PubMed abstract )
+PMID:14982266(PubMed abstract)

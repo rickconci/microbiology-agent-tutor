@@ -5,7 +5,7 @@ No significant past medical history
 Medications
 Oral contraceptive pill
 Epidemiological History
-Occupation : Works with young children in day care Substance use : No tobacco or recreational drug use; drinks alcohol socially Travel : Born and bred in Northeast United States, no recent travel; Central America a few years prior. Sexual : Had protected intercourse with a new male partner two weeks prior Living : Lives near a city in the Northeast US Vaccinations : Completed childhood vaccinations
+Occupation: Works with young children in day care Substance use: No tobacco or recreational drug use; drinks alcohol socially Travel: Born and bred in Northeast United States, no recent travel; Central America a few years prior. Sexual: Had protected intercourse with a new male partner two weeks prior Living: Lives near a city in the Northeast US Vaccinations: Completed childhood vaccinations
 Physical Examination
 The patient was ill-appearing and flushed, but not jaundiced. Temperature was 102.7 F, BP: 121/81, HR: 100, RR: 22, O2 saturation: 97% on room air. She was alert and oriented to time, place and self, but was taciturn. Abdominal exam revealed no tenderness or hepatosplenomegaly. There was no palpable cervical or supraclavicular lymphadenopathy and there were no oral or external genital ulcers. The remainder of the exam was normal.
 Studies
@@ -23,22 +23,33 @@ Final Diagnosis
 HSV hepatitis with HLH-like syndrome secondary to primary HSV-1 infection; co-existent EBV reactivation
 References
 Norvell JP, Blei AT, Jovanovic BD, Levitsky J. Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34
-PMID:17902129 ( PubMed abstract )
+PMID:17902129(PubMed abstract) Rimawi BH, Meserve J, Rimawi RH, Min Z, Gnann JW Jr. Disseminated Herpes Simplex Virus with Fulminant Hepatitis. Case Reports Hepatol. 2015;2015:463825.
+PMID:26290760(PubMed abstract) Then EO, Gayam V, Are VS, Sunkara T, Gaduputi V. Herpes Simplex Virus Hepatitis: A Brief Review of an Oft-overlooked Pathology. Cureus. 2019;11(3):e4313.
+PMID:31183293(PubMed abstract) Freytag MR, Jørgensen SE, Thomsen MM, Al-Mousawi A, Hait AS, Olagnier D, Bay JT, Helleberg M, Mogensen TH. Postpartum Disseminated Herpes Simplex Virus Type 1 Infection With Hemophagocytic Lymphohistiocytosis and Fulminant Neonatal Herpes Infection. J Infect Dis. 2022 Jan 5;225(1):157-162.
+PMID:34037797(PubMed abstract) Honsig C, Beinhardt S, Tomasits J, Dienes HP. Haemophagocytic lymphohistiocytosis associated with fulminant hepatitis and multiorgan failure following primary Epstein-Barr virus and herpes simplex virus type 1 infection. BMJ Case Rep. 2017 Mar 29;2017:bcr2016218310.
+PMID:28356254(PubMed abstract) Liew JW, Jones BL, Hunter AJ. Disseminated Herpes Simplex Masquerading as Hemophagocytic Lymphohistiocytosis: A Case Report. Perm J. 2019;23:18-202.
+PMID:31167703(PubMed abstract) Spinner MA, Ker JP, Stoudenmire CJ, Fadare O, Mace EM, Orange JS, Hsu AP, Holland SM. GATA2 deficiency underlying severe blastomycosis and fatal herpes simplex virus-associated hemophagocytic lymphohistiocytosis. J Allergy Clin Immunol. 2016 Feb;137(2):638-40.
+PMID:26395816(PubMed abstract) Yabushita T, Yoshioka S, Koba Y, Ono Y, Hiramoto N, Tabata S, Itou M, Shimizu N, Tomii K, Ishikawa T. Successful Treatment of Herpes Simplex Virus (HSV)-1-associated Hemophagocytic Lymphohistiocytosis (HLH) with Acyclovir: A Case Report and Literature Review. Intern Med. 2017 Nov 1;56(21):2919-2923.
+PMID:28924117(PubMed abstract) Dropulic LK, Cohen JI. Severe viral infections and primary immunodeficiencies. Clin Infect Dis. 2011 Nov;53(9):897-909.
+PMID:21960712(PubMed abstract) Morimoto A, Nakazawa Y, Ishii E. Hemophagocytic lymphohistiocytosis: Pathogenesis, diagnosis, and management. Pediatr Int. 2016 Sep;58(9):817-25.
+PMID:27289085(PubMed abstract)
+Norvell JP, Blei AT, Jovanovic BD, Levitsky J. Herpes simplex virus hepatitis: an analysis of the published literature and institutional cases. Liver Transpl. 2007 Oct;13(10):1428-34
+PMID:17902129(PubMed abstract)
 Rimawi BH, Meserve J, Rimawi RH, Min Z, Gnann JW Jr. Disseminated Herpes Simplex Virus with Fulminant Hepatitis. Case Reports Hepatol. 2015;2015:463825.
-PMID:26290760 ( PubMed abstract )
+PMID:26290760(PubMed abstract)
 Then EO, Gayam V, Are VS, Sunkara T, Gaduputi V. Herpes Simplex Virus Hepatitis: A Brief Review of an Oft-overlooked Pathology. Cureus. 2019;11(3):e4313.
-PMID:31183293 ( PubMed abstract )
+PMID:31183293(PubMed abstract)
 Freytag MR, Jørgensen SE, Thomsen MM, Al-Mousawi A, Hait AS, Olagnier D, Bay JT, Helleberg M, Mogensen TH. Postpartum Disseminated Herpes Simplex Virus Type 1 Infection With Hemophagocytic Lymphohistiocytosis and Fulminant Neonatal Herpes Infection. J Infect Dis. 2022 Jan 5;225(1):157-162.
-PMID:34037797 ( PubMed abstract )
+PMID:34037797(PubMed abstract)
 Honsig C, Beinhardt S, Tomasits J, Dienes HP. Haemophagocytic lymphohistiocytosis associated with fulminant hepatitis and multiorgan failure following primary Epstein-Barr virus and herpes simplex virus type 1 infection. BMJ Case Rep. 2017 Mar 29;2017:bcr2016218310.
-PMID:28356254 ( PubMed abstract )
+PMID:28356254(PubMed abstract)
 Liew JW, Jones BL, Hunter AJ. Disseminated Herpes Simplex Masquerading as Hemophagocytic Lymphohistiocytosis: A Case Report. Perm J. 2019;23:18-202.
-PMID:31167703 ( PubMed abstract )
+PMID:31167703(PubMed abstract)
 Spinner MA, Ker JP, Stoudenmire CJ, Fadare O, Mace EM, Orange JS, Hsu AP, Holland SM. GATA2 deficiency underlying severe blastomycosis and fatal herpes simplex virus-associated hemophagocytic lymphohistiocytosis. J Allergy Clin Immunol. 2016 Feb;137(2):638-40.
-PMID:26395816 ( PubMed abstract )
+PMID:26395816(PubMed abstract)
 Yabushita T, Yoshioka S, Koba Y, Ono Y, Hiramoto N, Tabata S, Itou M, Shimizu N, Tomii K, Ishikawa T. Successful Treatment of Herpes Simplex Virus (HSV)-1-associated Hemophagocytic Lymphohistiocytosis (HLH) with Acyclovir: A Case Report and Literature Review. Intern Med. 2017 Nov 1;56(21):2919-2923.
-PMID:28924117 ( PubMed abstract )
+PMID:28924117(PubMed abstract)
 Dropulic LK, Cohen JI. Severe viral infections and primary immunodeficiencies. Clin Infect Dis. 2011 Nov;53(9):897-909.
-PMID:21960712 ( PubMed abstract )
+PMID:21960712(PubMed abstract)
 Morimoto A, Nakazawa Y, Ishii E. Hemophagocytic lymphohistiocytosis: Pathogenesis, diagnosis, and management. Pediatr Int. 2016 Sep;58(9):817-25.
-PMID:27289085 ( PubMed abstract )
+PMID:27289085(PubMed abstract)

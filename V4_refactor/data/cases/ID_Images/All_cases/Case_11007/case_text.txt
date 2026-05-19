@@ -19,13 +19,13 @@ The patient was sedated, on mechanical ventilation. The blood pressure was 110/8
 The sclera were icteric. There was crepitus in the lower lung fields bilaterally and anasarca was present. The abdomen was mildly distended, with normal bowel sounds, and was soft, without organomegaly.
 Studies
 The hematocrit was 35.0% (reference range 41.0-53.0 in men), white blood count 7700/cubic millimeter (reference range 3800 - 9800), and platelets 49,000/cubic millimeter (reference range 140,000 - 440,000). The serum level of total bilirubin was 3.0 mg/dl (reference range 0.3 - 1.1), direct bilirubin 2.1 mg/dl (reference range 0.0 - 0.3), aspartate aminotransferase 352 U/L (reference range 11 - 47), alanine aminotransferase 265 U/L (reference range 7 - 53), and creatinine 3.08 mg/dl (reference range 0.70 - 1.30).
-Testing for antibodies to human immunodeficiency virus (HIV) was negative. Cultures of the blood culture, urine and cerebrospinal fluid (CSF) were sterile. A chest radiograph revealed multiple areas of airspace consolidation throughout all lobes of both lungs, which were thought to represent multifocal pneumonia ( Figure 1 ).
+Testing for antibodies to human immunodeficiency virus (HIV) was negative. Cultures of the blood culture, urine and cerebrospinal fluid (CSF) were sterile. A chest radiograph revealed multiple areas of airspace consolidation throughout all lobes of both lungs, which were thought to represent multifocal pneumonia (Figure 1).
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
 Cultures of the pericardial fluid for bacteria, fungus and acid-fast bacilli remained sterile. Fevers persisted, and the antibiotics were changed to vancomycin, cefepime, and metronidazole. Continuous veno-venous hemodialysis and extracorporeal membrane oxygenation were begun because of renal failure and respiratory distress syndrome.
 Diagnostic Procedure(s) and Result(s)
 Polymerase chain reaction (PCR) testing of a nasopharyngeal specimen and a tracheal aspirate detected influenza A virus (H1N1) 2009 RNA. PCR testing of the pericardial fluid was negative for enterovirus. Analysis of the stool was negative for enterovirus shredding. The level of serum ferritin was 9000 ng/ml (reference range 22 – 322).
-By the tenth hospital day, the white cell count had decreased to 600 cells per cubic millimeter, and thrombocytopenia persisted. A bone marrow biopsy was performed. Pathological examination of a bone marrow biopsy with hematoxylin and eosin (H and E) stain and CD25 staining for histiocytes and macrophages revealed hypocellular marrow with evidence of hemophagocytosis ( Figures 2 and 3 ).
+By the tenth hospital day, the white cell count had decreased to 600 cells per cubic millimeter, and thrombocytopenia persisted. A bone marrow biopsy was performed. Pathological examination of a bone marrow biopsy with hematoxylin and eosin (H and E) stain and CD25 staining for histiocytes and macrophages revealed hypocellular marrow with evidence of hemophagocytosis (Figures 2 and 3).
 Figure 2. Bone marrow biopsy specimen, hematoxylin and eosin stain.
 Figure 3. Bone marrow biopsy specimen, CD25 stain showing histiocytes and macrophages.
 Treatment and Followup
@@ -40,14 +40,21 @@ Final Diagnosis
 Influenza A (H1N1) 2009 virus infection with myopericarditis, respiratory failure and hemophagocytic syndrome.
 References
 Beutel, G., Wiesner, O., Eder, M., Hafer, C., Schneider, A.S., Kielstein, J.T., Kuhn, C., Heim, A., Ganzenmuller, T., Kreipe, H.H., Haverich, A., Tecklenburg, A., Ganser, A., Welte, T., and Hoeper, M.M. (2011). Virus-associated hemophagocytic syndrome as a major contributor to death in patients with 2009 influenza A (H1N1) infection. Crit Care 15, R80.
-PMID:21366922 ( PubMed abstract )
+PMID:21366922(PubMed abstract) Fisman, D.N. (2000). Hemophagocytic syndromes and infection. Emerg Infect Dis 6, 601-608.
+PMID:11076718(PubMed abstract) Letsas, K.P., Filippatos, G.S., Delimpasi, S., Spanakis, N., Kounas, S.P., Efremidis, M., Tsakris, A., and Kardaras, F. (2007). Enterovirus-induced fulminant myocarditis and hemophagocytic syndrome. J Infect 54, e75-77.
+PMID:16733067(PubMed abstract) Puzelli, S., Buonaguro, F.M., Facchini, M., Palmieri, A., Calzoletti, L., De Marco, M.A., Arace, P., de Campora, E., Esposito, C., Cassone, A., Rezza, G., and Donatelli, I. (2010). Cardiac tamponade and heart failure due to myopericarditis as a presentation of infection with the pandemic H1N1 2009 influenza A virus. J Clin Microbiol 48, 2298-2300.
+PMID:20392922(PubMed abstract) Rouphael, N.G., Talati, N.J., Vaughan, C., Cunningham, K., Moreira, R., and Gould, C. (2007). Infections associated with haemophagocytic syndrome. Lancet Infect Dis 7, 814-822.
+PMID:18045564(PubMed abstract) Zheng, Y., Yang, Y., Zhao, W., and Wang, H. (2010). Novel swine-origin influenza A (H1N1) virus-associated hemophagocytic syndrome--a first case report. Am J Trop Med Hyg 82, 743-745.
+PMID:20348529(PubMed abstract)
+Beutel, G., Wiesner, O., Eder, M., Hafer, C., Schneider, A.S., Kielstein, J.T., Kuhn, C., Heim, A., Ganzenmuller, T., Kreipe, H.H., Haverich, A., Tecklenburg, A., Ganser, A., Welte, T., and Hoeper, M.M. (2011). Virus-associated hemophagocytic syndrome as a major contributor to death in patients with 2009 influenza A (H1N1) infection. Crit Care 15, R80.
+PMID:21366922(PubMed abstract)
 Fisman, D.N. (2000). Hemophagocytic syndromes and infection. Emerg Infect Dis 6, 601-608.
-PMID:11076718 ( PubMed abstract )
+PMID:11076718(PubMed abstract)
 Letsas, K.P., Filippatos, G.S., Delimpasi, S., Spanakis, N., Kounas, S.P., Efremidis, M., Tsakris, A., and Kardaras, F. (2007). Enterovirus-induced fulminant myocarditis and hemophagocytic syndrome. J Infect 54, e75-77.
-PMID:16733067 ( PubMed abstract )
+PMID:16733067(PubMed abstract)
 Puzelli, S., Buonaguro, F.M., Facchini, M., Palmieri, A., Calzoletti, L., De Marco, M.A., Arace, P., de Campora, E., Esposito, C., Cassone, A., Rezza, G., and Donatelli, I. (2010). Cardiac tamponade and heart failure due to myopericarditis as a presentation of infection with the pandemic H1N1 2009 influenza A virus. J Clin Microbiol 48, 2298-2300.
-PMID:20392922 ( PubMed abstract )
+PMID:20392922(PubMed abstract)
 Rouphael, N.G., Talati, N.J., Vaughan, C., Cunningham, K., Moreira, R., and Gould, C. (2007). Infections associated with haemophagocytic syndrome. Lancet Infect Dis 7, 814-822.
-PMID:18045564 ( PubMed abstract )
+PMID:18045564(PubMed abstract)
 Zheng, Y., Yang, Y., Zhao, W., and Wang, H. (2010). Novel swine-origin influenza A (H1N1) virus-associated hemophagocytic syndrome--a first case report. Am J Trop Med Hyg 82, 743-745.
-PMID:20348529 ( PubMed abstract )
+PMID:20348529(PubMed abstract)

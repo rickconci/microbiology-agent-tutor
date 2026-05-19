@@ -14,11 +14,11 @@ The patient appeared well. The blood pressure was 100/70 mm Hg, pulse 64 beats p
 Studies
 The hematocrit was 53%, and other standard laboratory tests were normal. Testing for fecal leukocytes, Clostridium difficile toxin A, Giardia antigen in stool, and cytomegalovirus pp65 antigen in polymorphonuclear leukocytes was negative.
 Clinical Course Prior to Diagnosis
-Fresh and preserved stool was submitted for bacterial culture and parasitological examination. Samples were examined directly in saline, as well as following concentration by modified trichrome, calcofluor, auramine and modified acid-fast stains. (See Figures 1 and 2 .)
+Fresh and preserved stool was submitted for bacterial culture and parasitological examination. Samples were examined directly in saline, as well as following concentration by modified trichrome, calcofluor, auramine and modified acid-fast stains. (See Figures 1 and 2.)
 Figure 1. Modified acid fast stain of stool specimen.
 Figure 2. Modified acid fast stain of stool.
 Diagnostic Procedure(s) and Result(s)
-Modified acid-fast ( Figures 1 and 2 ) and auramine stains were positive for oocysts of Isospora belli .
+Modified acid-fast (Figures 1 and 2) and auramine stains were positive for oocysts of Isospora belli.
 Treatment and Followup
 The patient was treated with trimethoprim-sulfamethoxazole (TMP-SMX) 160/800mg three times daily for three weeks with resolution of his diarrhea. On reducing his dose to one tablet twice daily, his symptoms recurred but responded to increasing back to a higher dose of the antibiotics.
 Discussion
@@ -30,30 +30,45 @@ Final Diagnosis
 Isosporiasis caused by Isospora belli in a patient following renal transplantation.
 References
 (1992). 1993 revised classification system for HIV infection and expanded surveillance case definition for AIDS among adolescents and adults. MMWR Recomm Rep 41, 1-19. 1361652
-PMID:1361652 ( PubMed abstract )
+PMID:1361652(PubMed abstract) Ali, M.S., Mahmoud, L.A., Abaza, B.E., and Ramadan, M.A. (2000). Intestinal spore-forming protozoa among patients suffering from chronic renal failure. J Egypt Soc Parasitol 30, 93-100.
+PMID:10786022(PubMed abstract) Bialek, R., Overkamp, D., Rettig, I., and Knobloch, J. (2001). Case report: Nitazoxanide treatment failure in chronic isosporiasis. Am J Trop Med Hyg 65, 94-95.
+PMID:11508398(PubMed abstract) Hammouda, N.A., Sadaka, H.A., El-Gebaly, W.M., and El-Nassery, S.M. (1996). Opportunistic intestinal protozoa in chronic diarrhoeic immunosuppressed patients. J Egypt Soc Parasitol 26, 143-153.
+PMID:8721235(PubMed abstract) Hu, D.J., Fleming, P.L., Castro, K.G., Jones, J.L., Bush, T.J., Hanson, D., Chu, S.Y., Kaplan, J., and Ward, J.W. (1995). How important is race/ethnicity as an indicator of risk for specific AIDS-defining conditions? J Acquir Immune Defic Syndr Hum Retrovirol 10, 374-380.
+PMID:7552500(PubMed abstract) Jongwutiwes, S., Sampatanukul, P., and Putaporntip, C. (2002). Recurrent isosporiasis over a decade in an immunocompetent host successfully treated with pyrimethamine. Scand J Infect Dis 34, 859-862.
+PMID:12578164(PubMed abstract) Lindsay, D.S., Dubey, J.P., and Blagburn, B.L. (1997). Biology of Isospora spp. from humans, nonhuman primates, and domestic animals. Clin Microbiol Rev 10, 19-34.
+PMID:8993857(PubMed abstract) Marshall, M.M., Naumovitz, D., Ortega, Y., and Sterling, C.R. (1997). Waterborne protozoan pathogens. Clin Microbiol Rev 10, 67-85.
+PMID:8993859(PubMed abstract) Ok, U.Z., Cirit, M., Uner, A., Ok, E., Akcicek, F., Basci, A., and Ozcel, M.A. (1997). Cryptosporidiosis and blastocystosis in renal transplant recipients. Nephron 75, 171-174.
+PMID:9041537(PubMed abstract) Pape, J.W., Verdier, R.I., and Johnson, W.D., Jr. (1989). Treatment and prophylaxis of Isospora belli infection in patients with the acquired immunodeficiency syndrome. N Engl J Med 320, 1044-1047.
+PMID:2927483(PubMed abstract) Shaffer, N., and Moore, L. (1989). Chronic travelers' diarrhea in a normal host due to Isospora belli. J Infect Dis 159, 596-597.
+PMID:2915177(PubMed abstract) Sorvillo, F.J., Lieb, L.E., Seidel, J., Kerndt, P., Turner, J., and Ash, L.R. (1995). Epidemiology of isosporiasis among persons with acquired immunodeficiency syndrome in Los Angeles County. Am J Trop Med Hyg 53, 656-659.
+PMID:8561272(PubMed abstract) Verdier, R.I., Fitzgerald, D.W., Johnson, W.D., Jr., and Pape, J.W. (2000). Trimethoprim-sulfamethoxazole compared with ciprofloxacin for treatment and prophylaxis of Isospora belli and Cyclospora cayetanensis infection in HIV-infected patients. A randomized, controlled trial. Ann Intern Med 132, 885-888.
+PMID:10836915(PubMed abstract) Zulu, I., Veitch, A., Sianongo, S., McPhail, G., Feakins, R., Farthing, M.J., and Kelly, P. (2002). Albendazole chemotherapy for AIDS-related diarrhoea in Zambia--clinical, parasitological and mucosal responses. Aliment Pharmacol Ther 16, 595-601.
+PMID:11876715(PubMed abstract)
+(1992). 1993 revised classification system for HIV infection and expanded surveillance case definition for AIDS among adolescents and adults. MMWR Recomm Rep 41, 1-19. 1361652
+PMID:1361652(PubMed abstract)
 Ali, M.S., Mahmoud, L.A., Abaza, B.E., and Ramadan, M.A. (2000). Intestinal spore-forming protozoa among patients suffering from chronic renal failure. J Egypt Soc Parasitol 30, 93-100.
-PMID:10786022 ( PubMed abstract )
+PMID:10786022(PubMed abstract)
 Bialek, R., Overkamp, D., Rettig, I., and Knobloch, J. (2001). Case report: Nitazoxanide treatment failure in chronic isosporiasis. Am J Trop Med Hyg 65, 94-95.
-PMID:11508398 ( PubMed abstract )
+PMID:11508398(PubMed abstract)
 Hammouda, N.A., Sadaka, H.A., El-Gebaly, W.M., and El-Nassery, S.M. (1996). Opportunistic intestinal protozoa in chronic diarrhoeic immunosuppressed patients. J Egypt Soc Parasitol 26, 143-153.
-PMID:8721235 ( PubMed abstract )
+PMID:8721235(PubMed abstract)
 Hu, D.J., Fleming, P.L., Castro, K.G., Jones, J.L., Bush, T.J., Hanson, D., Chu, S.Y., Kaplan, J., and Ward, J.W. (1995). How important is race/ethnicity as an indicator of risk for specific AIDS-defining conditions? J Acquir Immune Defic Syndr Hum Retrovirol 10, 374-380.
-PMID:7552500 ( PubMed abstract )
+PMID:7552500(PubMed abstract)
 Jongwutiwes, S., Sampatanukul, P., and Putaporntip, C. (2002). Recurrent isosporiasis over a decade in an immunocompetent host successfully treated with pyrimethamine. Scand J Infect Dis 34, 859-862.
-PMID:12578164 ( PubMed abstract )
+PMID:12578164(PubMed abstract)
 Lindsay, D.S., Dubey, J.P., and Blagburn, B.L. (1997). Biology of Isospora spp. from humans, nonhuman primates, and domestic animals. Clin Microbiol Rev 10, 19-34.
-PMID:8993857 ( PubMed abstract )
+PMID:8993857(PubMed abstract)
 Marshall, M.M., Naumovitz, D., Ortega, Y., and Sterling, C.R. (1997). Waterborne protozoan pathogens. Clin Microbiol Rev 10, 67-85.
-PMID:8993859 ( PubMed abstract )
+PMID:8993859(PubMed abstract)
 Ok, U.Z., Cirit, M., Uner, A., Ok, E., Akcicek, F., Basci, A., and Ozcel, M.A. (1997). Cryptosporidiosis and blastocystosis in renal transplant recipients. Nephron 75, 171-174.
-PMID:9041537 ( PubMed abstract )
+PMID:9041537(PubMed abstract)
 Pape, J.W., Verdier, R.I., and Johnson, W.D., Jr. (1989). Treatment and prophylaxis of Isospora belli infection in patients with the acquired immunodeficiency syndrome. N Engl J Med 320, 1044-1047.
-PMID:2927483 ( PubMed abstract )
+PMID:2927483(PubMed abstract)
 Shaffer, N., and Moore, L. (1989). Chronic travelers' diarrhea in a normal host due to Isospora belli. J Infect Dis 159, 596-597.
-PMID:2915177 ( PubMed abstract )
+PMID:2915177(PubMed abstract)
 Sorvillo, F.J., Lieb, L.E., Seidel, J., Kerndt, P., Turner, J., and Ash, L.R. (1995). Epidemiology of isosporiasis among persons with acquired immunodeficiency syndrome in Los Angeles County. Am J Trop Med Hyg 53, 656-659.
-PMID:8561272 ( PubMed abstract )
+PMID:8561272(PubMed abstract)
 Verdier, R.I., Fitzgerald, D.W., Johnson, W.D., Jr., and Pape, J.W. (2000). Trimethoprim-sulfamethoxazole compared with ciprofloxacin for treatment and prophylaxis of Isospora belli and Cyclospora cayetanensis infection in HIV-infected patients. A randomized, controlled trial. Ann Intern Med 132, 885-888.
-PMID:10836915 ( PubMed abstract )
+PMID:10836915(PubMed abstract)
 Zulu, I., Veitch, A., Sianongo, S., McPhail, G., Feakins, R., Farthing, M.J., and Kelly, P. (2002). Albendazole chemotherapy for AIDS-related diarrhoea in Zambia--clinical, parasitological and mucosal responses. Aliment Pharmacol Ther 16, 595-601.
-PMID:11876715 ( PubMed abstract )
+PMID:11876715(PubMed abstract)

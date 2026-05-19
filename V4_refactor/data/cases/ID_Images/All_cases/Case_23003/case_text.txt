@@ -15,12 +15,15 @@ Studies
 WBC 8.6 x 10 3 cells/µL (eosinophils 2440 cells/µL, lymphocytes 840 cell/µL) Na 130 mmol/L, AST 137 U/L, ALT 57 U/L, CRP 42 mg/L, LDH 1112 U/L, pro-BNP 31,097 pg/mL (normal range <125). hsTrop 16,740 ng/L (normal range <14) initially; troponin peaked at 20,150 before down-trending to 17,000. Total IgG 370 mg/dL. Two blood cultures on admission were negative for growth, urine culture negative, multiplex respiratory viral nucleic acid amplification test (NAAT) panel negative, CMV and EBV NAAT serum negative, stool multiplex gastrointestinal pathogen panel by NAAT notable only for Enteropathogenic E. coli.
 CT chest showed upper lobe fine pulmonary nodules, multifocal subsolid and groundglass nodules throughout, with more dense ground glass opacities in the lower lobes. CT abdomen and pelvis did not show evidence of enterocolitis or cholecystitis. MRI brain demonstrated extensive supra- and infratentorial ring enhancing brain lesions consistent with abscesses, some of which were present in the deep grey nuclei.
 Figure 1. Figure 1a. CT scan of chest without contrast
+Figure 1a. CT scan of chest without contrast
 Figure 2. Figure 1b: CT scan of chest without contrast
+Figure 1b: CT scan of chest without contrast
 Figure 3. Figure 1c: CT scan of chest without contrast
+Figure 1c: CT scan of chest without contrast
 Figure 4. MRI scan of the brain with and without contrast
+Figure 5. MRI scan of the brain with and without contrast
 Diagnostic Procedure(s) and Result(s)
 A cardiac biopsy showed Toxoplasma gondii bradyzoites with surrounding inflammation. Serum toxoplasma quantitative PCR was 38,000 copies, although the patient’s toxoplasma IgG negative. Bronchoscopy was grossly normal, with negative bacterial, fungal, and AFB cultures. Other negative BAL studies included PJP immunofluorescence, aspergillus antigen, HSV NAAT, VZV NAAT. CMV NAAT was positive on BAL but negative in blood. Toxoplasma NAAT from BAL fluid was also positive. Lumbar puncture showed 4 WBC/µL (47% lymphocytes, 43% monocytes, glucose 102 mg/dL, protein 87 mg/dL), CSF toxoplasma NAAT positive. CSF bacterial, fungal, and AFB cultures negative.
-Figure 5. Cardiac biopsy with H&E staining
 Treatment and Followup
 Given the diagnosis of disseminated toxoplasmosis and her prior allergy to TMP-SMX, she was transferred to an intensive care unit for desensitization and started on IV TMP-SMX with goal of 10mg/kg total per day, renally adjusted. She developed worsening mental status, oriented only to self, possible seizure like activities in the days following initiation of therapy. Following evaluation by Neurology, she was found to have new onset seizures. Given concern for an immune reconstitution inflammatory syndrome (IRIS)-like response to lysing of toxoplasma, she was started on dexamethasone 2 mg every 4 hours with improvement in mental status, which was weaned to 2 mg every 8 hours after 2 days, and stopped after 2 additional days. Following improvement in mental status, she was changed to oral TMP-SMX which was continued for approximately 12 weeks at which time repeat MRI brain appeared back to prior baseline. She was then transitioned to suppressive TMP-SMX 1 DS tab daily, which will continue indefinitely.
 Discussion
@@ -32,13 +35,18 @@ Although traditionally first line treatment of toxoplasmosis consisted of pyrime
 Final Diagnosis
 Disseminated toxoplasmosis
 References
+Montoya C, Gomez C. Toxoplamosis After Solid Organ Transplant. In: Transplant Infections. Springer International Publishing; 2016. doi:10.1007/978-3-319-28797-3 Hermanns B, Brunn A, Schwarz ER, Sachweh JS, Seipelt I, Schröder JM, Vogel U, Schoendube FA, Buettner R. Fulminant toxoplasmosis in a heart transplant recipient. Pathol Res Pract. 2001;197(3):211-5. doi: 10.1078/0344-0338-00036
+PMID:11314787(PubMed abstract) Khurana S, Batra N. Toxoplasmosis in organ transplant recipients: Evaluation, implication, and prevention. In: Tropical Parasitology. Vol 6. Medknow Publications; 2016:123-128. doi:10.4103/2229-5070.190814 Konstantinovic N, Guegan H, Stäjner T, Belaz S, Robert-Gangneux F. Treatment of toxoplasmosis: Current options and future perspectives. Food Waterborne Parasitol. 2019;15. doi:10.1016/j.fawpar.2019.e00036
+PMID:32095610(PubMed abstract) Rajput R, Denniston AK, Murray PI. False Negative Toxoplasma Serology in an Immunocompromised Patient with PCR Positive Ocular Toxoplasmosis. Ocul Immunol Inflamm. 2018;26(8). doi:10.1080/09273948.2017.1332769
+PMID:28700250(PubMed abstract) Villard O, Cimon B, L’Ollivier C, et al. Serological diagnosis of Toxoplasma gondii infection. Diagn Microbiol Infect Dis. 2016;84(1). doi:10.1016/j.diagmicrobio.2015.09.009
+PMID:26458281(PubMed abstract)
 Montoya C, Gomez C. Toxoplamosis After Solid Organ Transplant. In: Transplant Infections. Springer International Publishing; 2016. doi:10.1007/978-3-319-28797-3
 Hermanns B, Brunn A, Schwarz ER, Sachweh JS, Seipelt I, Schröder JM, Vogel U, Schoendube FA, Buettner R. Fulminant toxoplasmosis in a heart transplant recipient. Pathol Res Pract. 2001;197(3):211-5. doi: 10.1078/0344-0338-00036
-PMID:11314787 ( PubMed abstract )
+PMID:11314787(PubMed abstract)
 Khurana S, Batra N. Toxoplasmosis in organ transplant recipients: Evaluation, implication, and prevention. In: Tropical Parasitology. Vol 6. Medknow Publications; 2016:123-128. doi:10.4103/2229-5070.190814
 Konstantinovic N, Guegan H, Stäjner T, Belaz S, Robert-Gangneux F. Treatment of toxoplasmosis: Current options and future perspectives. Food Waterborne Parasitol. 2019;15. doi:10.1016/j.fawpar.2019.e00036
-PMID:32095610 ( PubMed abstract )
+PMID:32095610(PubMed abstract)
 Rajput R, Denniston AK, Murray PI. False Negative Toxoplasma Serology in an Immunocompromised Patient with PCR Positive Ocular Toxoplasmosis. Ocul Immunol Inflamm. 2018;26(8). doi:10.1080/09273948.2017.1332769
-PMID:28700250 ( PubMed abstract )
+PMID:28700250(PubMed abstract)
 Villard O, Cimon B, L’Ollivier C, et al. Serological diagnosis of Toxoplasma gondii infection. Diagn Microbiol Infect Dis. 2016;84(1). doi:10.1016/j.diagmicrobio.2015.09.009
-PMID:26458281 ( PubMed abstract )
+PMID:26458281(PubMed abstract)

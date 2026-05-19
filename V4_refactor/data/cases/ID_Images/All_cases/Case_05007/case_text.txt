@@ -14,13 +14,13 @@ Physical Examination
 The patient was mildly diaphoretic. The temperature was 101.6°F (38.7°C). He was aphasic and a right-sided hemiplegia was present.
 Studies
 The white blood cell count was 15,600 cells/mm³ (74% polymorphonuclear leukocytes, 15% bands and 3% lymphocytes). The potassium was 2.6 mmol/liter, aspartate aminotransferase 165 U/liter, and alanine aminotransferase 145 U/liter.
-Magnetic resonance imaging (MRI) of the brain revealed a left subdural lesion consistent with an empyema and meningeal enhancement with left frontal and parietal lobe cerebritis ( Figures 1 through 3 ). There was a 9-millimeter rightward midline shift with early uncal and subfalcine herniation and paranasal sinus mucosal thickening, with possible acute sinusitis.
+Magnetic resonance imaging (MRI) of the brain revealed a left subdural lesion consistent with an empyema and meningeal enhancement with left frontal and parietal lobe cerebritis (Figures 1 through 3). There was a 9-millimeter rightward midline shift with early uncal and subfalcine herniation and paranasal sinus mucosal thickening, with possible acute sinusitis.
 Figure 1. MRI scan of the brain.
 Figure 2. MRI scan of the brain with contrast.
 Figure 3. MRI scan of the brain with contrast.
 Diagnostic Procedure(s) and Result(s)
-Craniectomy was performed with drainage of a subdural fluid collection. The gram stain of the aspirate showed mixed flora, including gram positive cocci in pairs and short chains and gram negative rods of mixed morphology ( Figures 4 and 5 ).
-Culture of the aspirate later grew multiple organisms including anaerobic organisms, Fusobacterium necrophorum and Peptostreptococcus , and aerobic organisms consistent with Streptococcus anginosus (milleri group). In addition, three out of four blood cultures drawn at initial presentation were positive for Streptococcus anginosus (milleri group). Two of four bottles were positive for Fusobacterium necrophorum and Peptostreptococcus species.
+Craniectomy was performed with drainage of a subdural fluid collection. The gram stain of the aspirate showed mixed flora, including gram positive cocci in pairs and short chains and gram negative rods of mixed morphology (Figures 4 and 5).
+Culture of the aspirate later grew multiple organisms including anaerobic organisms, Fusobacterium necrophorum and Peptostreptococcus, and aerobic organisms consistent with Streptococcus anginosus (milleri group). In addition, three out of four blood cultures drawn at initial presentation were positive for Streptococcus anginosus (milleri group). Two of four bottles were positive for Fusobacterium necrophorum and Peptostreptococcus species.
 Figure 4. Gram stain of an aspirate from a subdural collection.
 Figure 5. Detail of Figure 4.
 Treatment and Followup
@@ -29,14 +29,18 @@ Antimicrobial therapy was changed to penicillin and metronidazole, which were co
 Discussion
 Subdural empyema (abscess) is an intracranial focal collection of purulent material located between the dura mater and the arachnoid mater. A single abscess focus in the brain is most likely from contiguous spread. Mastoiditis, otitis, sinus infection, or dental infections can lead to contiguous spread. Thorough examination of the sinuses, mouth and ears should be done at the time of an initial examination.
 If multiple abscess foci are found, hematogenous spread should be suspected. Bacterial endocarditis is one possible source of hematogenous spread.
-Brain abscesses usually possess mixed flora and often include anaerobic pathogens. Fusobacterium and Peptostreptococcus are both common pathogens isolated; Bacteroides species (including B. fragilis), Prevotella melaninogenica , Propionibacterium, Eubacterium , Veillonella, and Actinomyces may also be isolated. Of the aerobic bacteria, Streptococcus (milleri group) is particularly common because it predisposes to necrosis and abscess formation. If the patient has had sinus or intracranial surgery, then Staphylococcus aureus and Pseudomonas aeruginosa should be suspected.
+Brain abscesses usually possess mixed flora and often include anaerobic pathogens. Fusobacterium and Peptostreptococcus are both common pathogens isolated; Bacteroides species (including B. fragilis), Prevotella melaninogenica, Propionibacterium, Eubacterium, Veillonella, and Actinomyces may also be isolated. Of the aerobic bacteria, Streptococcus (milleri group) is particularly common because it predisposes to necrosis and abscess formation. If the patient has had sinus or intracranial surgery, then Staphylococcus aureus and Pseudomonas aeruginosa should be suspected.
 Treatment with broad spectrum antibiotics is appropriate for empiric coverage. Once the etiology is known a more selective choice of antibiotics is appropriate.
 Final Diagnosis
-Intracranial subdural empyema, with mixed flora (including anaerobic organisms, Fusobacterium necrophorum and Peptostreptococcus , and aerobic organisms consistent with Streptococcus anginosus (milleri group)), following sinusitis.
+Intracranial subdural empyema, with mixed flora (including anaerobic organisms, Fusobacterium necrophorum and Peptostreptococcus, and aerobic organisms consistent with Streptococcus anginosus (milleri group)), following sinusitis.
 References
 Hicks, C.W., Weber, J.G., Reid, J.R., and Moodley, M. (2011). Identifying and managing intracranial complications of sinusitis in children: a retrospective series. Pediatr Infect Dis J 30, 222-226.
-PMID:21416657 ( PubMed abstract )
+PMID:21416657(PubMed abstract) Kombogiorgas, D., Seth, R., Athwal, R., Modha, J., and Singh, J. (2007). Suppurative intracranial complications of sinusitis in adolescence. Single institute experience and review of literature. Br J Neurosurg 21, 603-609.
+PMID:18071989(PubMed abstract) Osborn, M.K., and Steinberg, J.P. (2007). Subdural empyema and other suppurative complications of paranasal sinusitis. Lancet Infect Dis 7, 62-67.
+PMID:17182345(PubMed abstract)
+Hicks, C.W., Weber, J.G., Reid, J.R., and Moodley, M. (2011). Identifying and managing intracranial complications of sinusitis in children: a retrospective series. Pediatr Infect Dis J 30, 222-226.
+PMID:21416657(PubMed abstract)
 Kombogiorgas, D., Seth, R., Athwal, R., Modha, J., and Singh, J. (2007). Suppurative intracranial complications of sinusitis in adolescence. Single institute experience and review of literature. Br J Neurosurg 21, 603-609.
-PMID:18071989 ( PubMed abstract )
+PMID:18071989(PubMed abstract)
 Osborn, M.K., and Steinberg, J.P. (2007). Subdural empyema and other suppurative complications of paranasal sinusitis. Lancet Infect Dis 7, 62-67.
-PMID:17182345 ( PubMed abstract )
+PMID:17182345(PubMed abstract)

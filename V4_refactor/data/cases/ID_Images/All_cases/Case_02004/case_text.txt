@@ -6,14 +6,15 @@ The past history included acute myelogenous leukemia (AML) and gastro-esophageal
 Epidemiological History
 The patient was originally from Peru. Family members, including young children, had visited recently.
 Physical Examination
-There were scattered erythematous papules across the trunk, axillae, and upper extremities ( Figure 1 ).
+There were scattered erythematous papules across the trunk, axillae, and upper extremities (Figure 1).
 Figure 1. Physical finding.
 Diagnostic Procedure(s) and Result(s)
-A skin biopsy was performed. Pathological examination of the skin biopsy revealed a scabies mite within a parakeratotic scale ( Figure 2 ).
+A skin biopsy was performed. Pathological examination of the skin biopsy revealed a scabies mite within a parakeratotic scale (Figure 2).
 Figure 2. Biopsy result with scabies mite.
 Treatment and Followup
 The patient was treated with 5% permethrin cream, with reapplication 1 week later. On further evaluation, the children who had recently visited were also found to have scabies infestation. The subcentimeter lesions in the liver and spleen were determined to be due to leukemic infiltration.
 Discussion
-Scabies is an ectoparasitic infestation by the mite, Sarcoptes scabiei . Transmission occurs by contact and nosocomial outbreaks are well described. At the time of this publication, treatment is typically topical with either lindane or permethrin.
+Scabies is an ectoparasitic infestation by the mite, Sarcoptes scabiei. Transmission occurs by contact and nosocomial outbreaks are well described. At the time of this publication, treatment is typically topical with either lindane or permethrin.
 Final Diagnosis
 Scabies infestation, in a patient with acute myelogenous leukemia.
+References

@@ -17,17 +17,17 @@ The patient appeared ill. The temperature was 102.4°F (39.1°C), pulse 85 beats
 Studies
 The white blood cell count was 17,700 per cubic millimeter (neutrophils 75%, lymphocytes 17% and monocytes 8%) and the hematocrit 34% (reference range 40.7-50.3% in men). The level of serum glucose was 134 mg/dL (ref 65-199), alkaline phosphatase 393 IU/L (ref 38-126 IU/L) and albumin of 3.1 g/dL (ref 3.6-5.0 g/dL). The levels of electrolytes, urea nitrogen, creatinine and other tests of liver function were normal.
 The urinalysis revealed pH 6.0, leukocyte esterase 3+, red cells 3 cells per high-powered field, white cells greater than 50 cells per high-powered field, bacteria 1+, and no nitrites.
-A radiograph of the chest showed multifocal irregular nodular opacities bilaterally ( Figure 1 ).
+A radiograph of the chest showed multifocal irregular nodular opacities bilaterally (Figure 1).
 Figure 1. Chest radiograph.
 Clinical Course Prior to Diagnosis
 Vancomycin, ciprofloxacin and cefepime were administered, however, fevers persisted. On the 4th day, tests revealed a persistent leukocytosis, alkaline phosphatase 487 IU/L, aspartate aminotransferase (AST) 83 IU/L (ref 11-47 IU/L), and alanine aminotransferase (ALT) 113 IU/L (ref 7-53 IU/L). Cultures of the blood demonstrated polymicrobial oral flora, which were thought to be contaminants, and culture of a urine specimen was sterile.
-Computed tomography (CT) of the chest, abdomen and pelvis showed multiple cavitary pulmonary nodules ( Figure 2 ), an enlarged prostate with surrounding fat stranding ( Figure 3 ), and an irregular hypodense lesion on right liver lobe, associated with a thrombosed right hepatic vein tributary ( Figure 4 ).
+Computed tomography (CT) of the chest, abdomen and pelvis showed multiple cavitary pulmonary nodules (Figure 2), an enlarged prostate with surrounding fat stranding (Figure 3), and an irregular hypodense lesion on right liver lobe, associated with a thrombosed right hepatic vein tributary (Figure 4).
 Figure 2. CT of the chest.
 Figure 3. CT of the pelvis.
 Figure 4. CT of the abdomen.
 Diagnostic Procedure(s) and Result(s)
-The patient underwent an ultrasound-guided aspiration of the liver abscess. Gram stain of the aspirate revealed a gram negative rod ( Figure 5 ), and the specimen grew heavily mucoid pink colonies on MacConkey agar ( Figures 6 and 7 ), which were identified as hypermucoviscous Klebsiella pneumoniae , resistant only to ampicillin. A urine culture that had previously been obtained by the primary care provider’s office also grew Klebsiella pneumoniae with the same susceptibility pattern.
-The "string test", which demonstrates the hyperviscosity of K. pneumoniae , is shown in Figure 8 .
+The patient underwent an ultrasound-guided aspiration of the liver abscess. Gram stain of the aspirate revealed a gram negative rod (Figure 5), and the specimen grew heavily mucoid pink colonies on MacConkey agar (Figures 6 and 7), which were identified as hypermucoviscous Klebsiella pneumoniae, resistant only to ampicillin. A urine culture that had previously been obtained by the primary care provider’s office also grew Klebsiella pneumoniae with the same susceptibility pattern.
+The "string test", which demonstrates the hyperviscosity of K. pneumoniae, is shown in Figure 8.
 Figure 5. Gram stain of liver aspirate.
 Figure 6. Growth of liver aspirate on MacConkey agar.
 Figure 7. Hypermucoviscous colonies on MacConkey agar.
@@ -35,24 +35,31 @@ Figure 8. String test.
 Treatment and Followup
 Antibiotics were changed to ciprofloxacin (750 mg orally twice a day) and ertapenem (1 gram intravenously, daily) with a duration of 6 weeks planned, or until radiographic evidence of resolution of abscess. The patient became afebrile within 24 hours after the procedure and gradually improved.
 Discussion
-Klebsiella pneumoniae , a gram-negative rod-shaped encapsulated bacillus and facultative anaerobe, has emerged in the last 20 years as the most common cause of primary liver abscess in Southeast Asia. It is now also identified as the most frequent cause of primary liver abscess in the United States, and according to a recent series [Lederman et al, 2005], the organism has been identified in up to 30% of reported cases. This case, of a patient with liver abscess as well as thrombosis of the hepatic venous system, acute prostatitis, and pulmonary septic emboli, illustrates a clinical presentation of infection with the hypermucoviscous phenotype of Klebsiella pneumoniae .
-The hypermucoviscous strain typically forms very mucoid colonies and may be diagnosed by forming a 5-millimeter or longer strand from a colony with a loop ( Figure 8 ), also known as the “string test” [Fang et al, 2004]. The hypermucoviscous strain of Klebsiella pneumoniae is associated with metastatic lesions, including the brain, lungs, bone, spleen, joints and soft tissue. In Taiwan, the strain has been reported to cause endophthalmitis and meningitis. Liver lesions are usually solitary in the right lobe.
-There is evidence that hypermucoviscosity provides resistance to phagocytosis [Fang et al, 2004]. The hypermucoviscous strain of K. pneumoniae is usually associated with the K1 serotype, which has been identified as a risk factor for endophthalmitis or central nervous system disease. The specific virulence factors of this organism are not well characterized and are the topic of ongoing study. The most important identified to date is the mucoviscosity-associated gene A ( mag A ), which is essential for the formation of the capsule exopolysaccharide. This gene was present in most strains found in patients in Taiwan with liver abscess [Fang et al, 2004]. Another gene, rmpA (rmp = regulator of the mucoid phenotype) has also been implicated in the pathogenesis of these liver strains [Yu et al, 2006].
+Klebsiella pneumoniae, a gram-negative rod-shaped encapsulated bacillus and facultative anaerobe, has emerged in the last 20 years as the most common cause of primary liver abscess in Southeast Asia. It is now also identified as the most frequent cause of primary liver abscess in the United States, and according to a recent series [Lederman et al, 2005], the organism has been identified in up to 30% of reported cases. This case, of a patient with liver abscess as well as thrombosis of the hepatic venous system, acute prostatitis, and pulmonary septic emboli, illustrates a clinical presentation of infection with the hypermucoviscous phenotype of Klebsiella pneumoniae.
+The hypermucoviscous strain typically forms very mucoid colonies and may be diagnosed by forming a 5-millimeter or longer strand from a colony with a loop (Figure 8), also known as the “string test” [Fang et al, 2004]. The hypermucoviscous strain of Klebsiella pneumoniae is associated with metastatic lesions, including the brain, lungs, bone, spleen, joints and soft tissue. In Taiwan, the strain has been reported to cause endophthalmitis and meningitis. Liver lesions are usually solitary in the right lobe.
+There is evidence that hypermucoviscosity provides resistance to phagocytosis [Fang et al, 2004]. The hypermucoviscous strain of K. pneumoniae is usually associated with the K1 serotype, which has been identified as a risk factor for endophthalmitis or central nervous system disease. The specific virulence factors of this organism are not well characterized and are the topic of ongoing study. The most important identified to date is the mucoviscosity-associated gene A (mag A), which is essential for the formation of the capsule exopolysaccharide. This gene was present in most strains found in patients in Taiwan with liver abscess [Fang et al, 2004]. Another gene, rmpA (rmp = regulator of the mucoid phenotype) has also been implicated in the pathogenesis of these liver strains [Yu et al, 2006].
 Hypermucoviscous Klebsiella pneumoniae is typically acquired from environmental sources in the community, and a history of prior hospitalization is not a risk factor for developing disease with this organism. No anatomic predisposing factors have been described, although there is an increased incidence of the infection in patients with diabetes mellitus.
 The bacterium is usually susceptible to most antibiotics including cephalosporins, carbapenems and fluroquinolones [Fang et al, 2007]. Therefore, choice of antimicrobial therapy is based on the antimicrobial susceptibility profile of the isolate, drug penetration into the affected tissue and patient factors.
 Final Diagnosis
-Liver abscess caused by hypermucoviscous Klebsiella pneumoniae , associated with prostatitis and pulmonary septic emboli.
+Liver abscess caused by hypermucoviscous Klebsiella pneumoniae, associated with prostatitis and pulmonary septic emboli.
 References
 Fang, C.T., Chuang, Y.P., Shun, C.T., Chang, S.C., and Wang, J.T. (2004). A novel virulence gene in Klebsiella pneumoniae strains causing primary liver abscess and septic metastatic complications. J Exp Med 199, 697-705.
-PMID:14993253 ( PubMed abstract )
+PMID:14993253(PubMed abstract) Fang, C.T., Lai, S.Y., Yi, W.C., Hsueh, P.R., Liu, K.L., and Chang, S.C. (2007). Klebsiella pneumoniae genotype K1: an emerging pathogen that causes septic ocular or central nervous system complications from pyogenic liver abscess. Clin Infect Dis 45, 284-293.
+PMID:17599305(PubMed abstract) Kawai, T. (2006). Hypermucoviscosity: an extremely sticky phenotype of Klebsiella pneumoniae associated with emerging destructive tissue abscess syndrome. Clin Infect Dis 42, 1359-1361.
+PMID:16619145(PubMed abstract) Keynan, Y., Karlowsky, J.A., Walus, T., and Rubinstein, E. (2007). Pyogenic liver abscess caused by hypermucoviscous Klebsiella pneumoniae. Scand J Infect Dis 39, 828-830.
+PMID:17701725(PubMed abstract) Lederman, E.R., and Crum, N.F. (2005). Pyogenic liver abscess with a focus on Klebsiella pneumoniae as a primary pathogen: an emerging disease with unique clinical characteristics. Am J Gastroenterol 100, 322-331.
+PMID:15667489(PubMed abstract) McIver C and Janda M. Pathogenesis and laboratory identification of emerging hepatovirulent Klebsiella pneumoniae. Clin Microbiol Newsletter 2008;30:127-131. Yu, W.L., Ko, W.C., Cheng, K.C., Lee, H.C., Ke, D.S., Lee, C.C., Fung, C.P., and Chuang, Y.C. (2006). Association between rmpA and magA genes and clinical syndromes caused by Klebsiella pneumoniae in Taiwan. Clin Infect Dis 42, 1351-1358.
+PMID:16619144(PubMed abstract)
+Fang, C.T., Chuang, Y.P., Shun, C.T., Chang, S.C., and Wang, J.T. (2004). A novel virulence gene in Klebsiella pneumoniae strains causing primary liver abscess and septic metastatic complications. J Exp Med 199, 697-705.
+PMID:14993253(PubMed abstract)
 Fang, C.T., Lai, S.Y., Yi, W.C., Hsueh, P.R., Liu, K.L., and Chang, S.C. (2007). Klebsiella pneumoniae genotype K1: an emerging pathogen that causes septic ocular or central nervous system complications from pyogenic liver abscess. Clin Infect Dis 45, 284-293.
-PMID:17599305 ( PubMed abstract )
+PMID:17599305(PubMed abstract)
 Kawai, T. (2006). Hypermucoviscosity: an extremely sticky phenotype of Klebsiella pneumoniae associated with emerging destructive tissue abscess syndrome. Clin Infect Dis 42, 1359-1361.
-PMID:16619145 ( PubMed abstract )
+PMID:16619145(PubMed abstract)
 Keynan, Y., Karlowsky, J.A., Walus, T., and Rubinstein, E. (2007). Pyogenic liver abscess caused by hypermucoviscous Klebsiella pneumoniae. Scand J Infect Dis 39, 828-830.
-PMID:17701725 ( PubMed abstract )
+PMID:17701725(PubMed abstract)
 Lederman, E.R., and Crum, N.F. (2005). Pyogenic liver abscess with a focus on Klebsiella pneumoniae as a primary pathogen: an emerging disease with unique clinical characteristics. Am J Gastroenterol 100, 322-331.
-PMID:15667489 ( PubMed abstract )
+PMID:15667489(PubMed abstract)
 McIver C and Janda M. Pathogenesis and laboratory identification of emerging hepatovirulent Klebsiella pneumoniae. Clin Microbiol Newsletter 2008;30:127-131.
 Yu, W.L., Ko, W.C., Cheng, K.C., Lee, H.C., Ke, D.S., Lee, C.C., Fung, C.P., and Chuang, Y.C. (2006). Association between rmpA and magA genes and clinical syndromes caused by Klebsiella pneumoniae in Taiwan. Clin Infect Dis 42, 1351-1358.
-PMID:16619144 ( PubMed abstract )
+PMID:16619144(PubMed abstract)

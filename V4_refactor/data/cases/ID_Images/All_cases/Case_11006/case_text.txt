@@ -14,18 +14,18 @@ Physical Examination
 The patient appeared well, alert and fully oriented. The blood pressure was 125/73 mm Hg, pulse 54 beats per minute, temperature 98.6°F (37.0°C), respirations 12 breaths per minute and oxygen saturation 95% while breathing ambient air. The neurological examination revealed poor coordination during fast, alternating movements; left upper extremity motor weakness and hyperesthesia of the left arm, shoulder, chest and back. There were no meningeal signs, and the remainder of the examination was normal.
 Studies
 The white blood cell count was 9100 cells per cubic millimeter (reference range 4000-12,000); other routine laboratory test results were normal. Blood cultures were sterile. An interferon-gamma release assay for tuberculosis was negative.
-Magnetic resonance imaging (MRI) of the brain and cervical spine, performed with the administration of gadolinium, showed an abnormal signal in the medulla predominant on T2 and FLAIR images, with small amount of gadolinium enhancement that extended to the entire cervical cord down to the level of the first thoracic vertebra (T1) (see Figures 1 and 2 ).
+Magnetic resonance imaging (MRI) of the brain and cervical spine, performed with the administration of gadolinium, showed an abnormal signal in the medulla predominant on T2 and FLAIR images, with small amount of gadolinium enhancement that extended to the entire cervical cord down to the level of the first thoracic vertebra (T1) (see Figures 1 and 2).
 Figure 1. MRI of the brain and brainstem, with gadolinium.
 Figure 2. MRI of the cervical spine, with gadolinium.
 Clinical Course Prior to Diagnosis
 The patient initially declined lumbar puncture. Because of a concern for a rapid demyelinating condition, the patient was immediately started on methylprednisolone (60 mg every 6 hrs, intravenously), with slight improvement in her weakness.
 On the fifth hospital day, double vision and a peripheral facial palsy on the left side developed. The next day, difficulty in swallowing and speaking occurred, without shortness of breath. Her mental status remained intact. Dysphagia progressed and the trachea was subsequently intubated for airway protection.
-A repeat MRI of the brain showed increased T2/FLAIR signal with enhancement in the brainstem and a new region of increased uptake in the posterior left pons ( Figures 3 and 4 ).
+A repeat MRI of the brain showed increased T2/FLAIR signal with enhancement in the brainstem and a new region of increased uptake in the posterior left pons (Figures 3 and 4).
 Figure 3. Follow-up MRI of the brain and brainstem, with gadolinium.
 Figure 4. Follow-up MRI, with gadolinium.
 Diagnostic Procedure(s) and Result(s)
 A lumbar puncture was performed and analysis of the cerebrospinal fluid (CSF) revealed 269 leukocytes per cubic millimeter (55% neutrophils and 45% monocytes), protein 92 mg/dL (reference range 14-45 mg/dL)), and glucose 54 mg/dL (ref 40-80 mg/dL).
-Gram stain of the CSF showed no organisms, but culture of the CSF grew gram positive rods with tumbling motility characteristic of Listeria monocytogenes ( Figure 5 ).
+Gram stain of the CSF showed no organisms, but culture of the CSF grew gram positive rods with tumbling motility characteristic of Listeria monocytogenes (Figure 5).
 Figure 5. Gram stain of CSF culture growth.
 Treatment and Followup
 The patient was started on high dose ampicillin and gentamicin intravenously and steroids were tapered. Within forty-eight hours of starting antibiotics, the patient noted improvement of the hyperesthesia. By day 6 of antibiotics, she noted 50% improvement of the hyperesthesia and by day 7, she was extubated. A repeat brain and cervical MRI after 2 weeks of antibiotics still showed abnormal signal in the pons and medulla which was stable but the enhancement seen previously on cervical cord had decreased.
@@ -38,29 +38,40 @@ Immunocompromised patients and pregnant women are at particularly high risk for 
 By contrast, Listeria brainstem encephalitis, one of its rare CNS manifestations, has been reported predominantly in healthy adults with only about 8% seen in immunocompromised patients [Armstrong and Fung 1993]. It is typically a biphasic illness, usually beginning with headache, fever, nausea and vomiting, followed by cranial nerve palsies, ataxia, weakness, decreased consciousness and occasionally, seizures. Myelitis and spinal cord abscesses are even rarer manifestations of neurolisteriosis and have been reported in both immunocompetent and immunocompromised patients [Bartt 2000, Josephson et al. 2000].
 Cerebrospinal fluid (CSF) examination is the most useful diagnostic test for both Listeria brainstem encephalitis and cervical myelitis. In a review of CSF findings in reported cases of brainstem encephalitis, CSF leukocytes ranged from 100 to 499 cells, which may either be neutrophilic or lymphocytic predominant cells [Armstrong and Fung 1993]. CSF protein is high and CSF glucose is often normal. Blood cultures are positive in half of the cases. In general, magnetic resonance imaging (MRI) is more useful than CT scan in visualizing the posterior fossa which often shows increased intensity of the lesions on T2-weighted images which may or may not enhance with contrast [Alper et al. 1995].
 Demyelinating conditions, with intense lesions on MRI T2-weighted images, as seen in our patient, have been reported in a case series of 20 patients during and following treatment with TNF-alpha antagonists [Mohan et al. 2001]. However, patients typically improved with discontinuation of the offending drug and the start of alternative therapies such as glucocorticoids, interferon (IFN)-beta or intravenous immunoglobulin (IVIG). Our patient’s symptoms worsened on steroids, which raised suspicion for an infectious etiology.
-Mycoplasma pneumoniae can also cause an acute transverse myelitis or disseminated encephalomyelitis condition [Daxboeck 2006]. It is more common in children and is usually preceded by respiratory symptoms. Mycoplasma pneumoniae IgM can also persist for an extended period of time, sometimes up to 12 months after an initial infection, in some patients. In this case, Mycoplasma infection was less likely because of the absence of preceding respiratory symptoms and the patient’s improvement on ampicillin, a drug that does not target Mycoplasma .
+Mycoplasma pneumoniae can also cause an acute transverse myelitis or disseminated encephalomyelitis condition [Daxboeck 2006]. It is more common in children and is usually preceded by respiratory symptoms. Mycoplasma pneumoniae IgM can also persist for an extended period of time, sometimes up to 12 months after an initial infection, in some patients. In this case, Mycoplasma infection was less likely because of the absence of preceding respiratory symptoms and the patient’s improvement on ampicillin, a drug that does not target Mycoplasma.
 There is an increased risk of reactivation of tuberculosis (TB) in patients on anti-TNF-alpha treatment with the majority presenting as extrapulmonary disease [Keane et al. 2001]. Tuberculosis may potentially have atypical presentations as well. However, the majority of TB CNS infections presents with basilar arachnoiditis or meningeal enhancement associated with some degree of hydrocephalus on neuroimaging. In addition to the lack of compatible clinical and radiologic findings, our patient had negative interferon-gamma release assay for tuberculosis.
 Listeria monocytogenes infection should be considered in an immunocompromised patient presenting with acute craniopathies, hemiparesis or any focal neurological deficits, even with lack of systemic signs and symptoms of infection. Examination of the CSF is a crucial tool in the evaluation of acute neurologic symptoms prior to giving empiric high-dose corticosteroids or other treatment modalities which would potentially worsen an underlying infection.
 Final Diagnosis
 Brainstem encephalitis and cervical myelitis caused by Listeria monocytogenes in an immunocompromised woman with ulcerative colitis.
 References
 (2011). Multistate outbreak of listeriosis associated with Jensen Farms cantaloupe--United States, August-September 2011. MMWR Morb Mortal Wkly Rep 60, 1357-1358.
-PMID:21976119 ( PubMed abstract )
+PMID:21976119(PubMed abstract) Alper, G., Knepper, L., and Kanal, E. (1996). MR findings in listerial rhombencephalitis. AJNR Am J Neuroradiol 17, 593-596.
+PMID:8881261(PubMed abstract) Armstrong, R.W., and Fung, P.C. (1993). Brainstem encephalitis (rhombencephalitis) due to Listeria monocytogenes: case report and review. Clin Infect Dis 16, 689-702.
+PMID:8507761(PubMed abstract) Bartt, R. (2000). Listeria and atypical presentations of Listeria in the central nervous system. Semin Neurol 20, 361-373.
+PMID:11051300(PubMed abstract) Daxboeck, F. (2006). Mycoplasma pneumoniae central nervous system infections. Curr Opin Neurol 19, 374-378.
+PMID:16914976(PubMed abstract) Josephson, S.A., Pillai, D.R., Phillips, J.J., and Chou, D. (2006). Neurolisteriosis presenting as cervical myelitis in an immunocompetent patient. Neurology 66, 1122-1123.
+PMID:16606936(PubMed abstract) Keane, J., Gershon, S., Wise, R.P., Mirabile-Levens, E., Kasznica, J., Schwieterman, W.D., Siegel, J.N., and Braun, M.M. (2001). Tuberculosis associated with infliximab, a tumor necrosis factor alpha-neutralizing agent. N Engl J Med 345, 1098-1104.
+PMID:11596589(PubMed abstract) Mohan, N., Edwards, E.T., Cupps, T.R., Oliverio, P.J., Sandberg, G., Crayton, H., Richert, J.R., and Siegel, J.N. (2001). Demyelination occurring during anti-tumor necrosis factor alpha therapy for inflammatory arthritides. Arthritis Rheum 44, 2862-2869.
+PMID:11762947(PubMed abstract) Slifman, N.R., Gershon, S.K., Lee, J.H., Edwards, E.T., and Braun, M.M. (2003). Listeria monocytogenes infection as a complication of treatment with tumor necrosis factor alpha-neutralizing agents. Arthritis Rheum 48, 319-324.
+PMID:12571839(PubMed abstract) Wallis, R.S., Broder, M.S., Wong, J.Y., Hanson, M.E., and Beenhouwer, D.O. (2004). Granulomatous infectious diseases associated with tumor necrosis factor antagonists. Clin Infect Dis 38, 1261-1265
+PMID:15127338(PubMed abstract)
+(2011). Multistate outbreak of listeriosis associated with Jensen Farms cantaloupe--United States, August-September 2011. MMWR Morb Mortal Wkly Rep 60, 1357-1358.
+PMID:21976119(PubMed abstract)
 Alper, G., Knepper, L., and Kanal, E. (1996). MR findings in listerial rhombencephalitis. AJNR Am J Neuroradiol 17, 593-596.
-PMID:8881261 ( PubMed abstract )
+PMID:8881261(PubMed abstract)
 Armstrong, R.W., and Fung, P.C. (1993). Brainstem encephalitis (rhombencephalitis) due to Listeria monocytogenes: case report and review. Clin Infect Dis 16, 689-702.
-PMID:8507761 ( PubMed abstract )
+PMID:8507761(PubMed abstract)
 Bartt, R. (2000). Listeria and atypical presentations of Listeria in the central nervous system. Semin Neurol 20, 361-373.
-PMID:11051300 ( PubMed abstract )
+PMID:11051300(PubMed abstract)
 Daxboeck, F. (2006). Mycoplasma pneumoniae central nervous system infections. Curr Opin Neurol 19, 374-378.
-PMID:16914976 ( PubMed abstract )
+PMID:16914976(PubMed abstract)
 Josephson, S.A., Pillai, D.R., Phillips, J.J., and Chou, D. (2006). Neurolisteriosis presenting as cervical myelitis in an immunocompetent patient. Neurology 66, 1122-1123.
-PMID:16606936 ( PubMed abstract )
+PMID:16606936(PubMed abstract)
 Keane, J., Gershon, S., Wise, R.P., Mirabile-Levens, E., Kasznica, J., Schwieterman, W.D., Siegel, J.N., and Braun, M.M. (2001). Tuberculosis associated with infliximab, a tumor necrosis factor alpha-neutralizing agent. N Engl J Med 345, 1098-1104.
-PMID:11596589 ( PubMed abstract )
+PMID:11596589(PubMed abstract)
 Mohan, N., Edwards, E.T., Cupps, T.R., Oliverio, P.J., Sandberg, G., Crayton, H., Richert, J.R., and Siegel, J.N. (2001). Demyelination occurring during anti-tumor necrosis factor alpha therapy for inflammatory arthritides. Arthritis Rheum 44, 2862-2869.
-PMID:11762947 ( PubMed abstract )
+PMID:11762947(PubMed abstract)
 Slifman, N.R., Gershon, S.K., Lee, J.H., Edwards, E.T., and Braun, M.M. (2003). Listeria monocytogenes infection as a complication of treatment with tumor necrosis factor alpha-neutralizing agents. Arthritis Rheum 48, 319-324.
-PMID:12571839 ( PubMed abstract )
+PMID:12571839(PubMed abstract)
 Wallis, R.S., Broder, M.S., Wong, J.Y., Hanson, M.E., and Beenhouwer, D.O. (2004). Granulomatous infectious diseases associated with tumor necrosis factor antagonists. Clin Infect Dis 38, 1261-1265
-PMID:15127338 ( PubMed abstract )
+PMID:15127338(PubMed abstract)

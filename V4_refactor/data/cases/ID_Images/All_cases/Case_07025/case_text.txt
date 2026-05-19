@@ -8,16 +8,16 @@ The patient lived in the Southern United States with her husband, worked in an o
 Physical Examination
 The temperature was 38.7°C (101.7°F), blood pressure 155/80 mm Hg, pulse 98 beats per minute, respirations 18 breaths per minute, and oxygen saturation 98% while breathing ambient air. The patient appeared comfortable. There was clear nasal discharge but no sinus tenderness. The remainder of the examination was normal.
 Studies
-The white cell count was 500 cells/mm³, hemoglobin 8.4 g/dl, and platelet count 4000 cells/mm³. Results of a serum chemistry panel were normal. Cultures of the blood and urine were sterile. A chest radiograph was normal. Computed tomography (CT) of the head showed moderate mucosal thickening of the maxillary, ethmoid, and sphenoid sinuses on the left ( Figure 1 ).
+The white cell count was 500 cells/mm³, hemoglobin 8.4 g/dl, and platelet count 4000 cells/mm³. Results of a serum chemistry panel were normal. Cultures of the blood and urine were sterile. A chest radiograph was normal. Computed tomography (CT) of the head showed moderate mucosal thickening of the maxillary, ethmoid, and sphenoid sinuses on the left (Figure 1).
 Figure 1. CT of the head.
 Clinical Course Prior to Diagnosis
-Sinusitis was diagnosed, and surgical debridement of the affected sinuses performed. Intraoperatively, specimens were sent for culture and pathological examination. Pathological evaluation of the sinus tissues revealed tissue necrosis and fungal hyphae with invasion of the lamina propria of the respiratory mucosa. (See Figures 2 through 5 .) Amphotericin B was initiated pending the results of the cultures.
+Sinusitis was diagnosed, and surgical debridement of the affected sinuses performed. Intraoperatively, specimens were sent for culture and pathological examination. Pathological evaluation of the sinus tissues revealed tissue necrosis and fungal hyphae with invasion of the lamina propria of the respiratory mucosa. (See Figures 2 through 5.) Amphotericin B was initiated pending the results of the cultures.
 Figure 2. H and E stain, magnified x 200.
 Figure 3. H and E stain, magnified x 400.
 Figure 4. H and E stain, magnified x 400.
 Figure 5. H and E stain magnified x 400.
 Diagnostic Procedure(s) and Result(s)
-Fungal tissue cultures of the sinuses obtained intraoperatively showed Curvularia , a dematiaceous filamentous fungus (see Figures 6 and 7 ).
+Fungal tissue cultures of the sinuses obtained intraoperatively showed Curvularia, a dematiaceous filamentous fungus (see Figures 6 and 7).
 Figure 6. Fungal culture of biopsy specimen.
 Figure 7. Fungal culture.
 Treatment and Followup
@@ -26,20 +26,26 @@ Discussion
 Invasive fungal sinusitis is usually seen in immunosuppressed patients, including those with hematologic malignancies, bone marrow transplants, chemotherapy-induced neutropenia, solid organ transplants, advanced HIV disease, and diabetes mellitus. It may be due to invasion of fungi, which have chronically colonized the sinuses in patients with a history of chronic sinusitis or anatomic abnormalities of the sinuses. The fungi establish local infection and then invade tissues. The disease may be rapidly progressive depending on the degree of immunosuppression. Spread is by direct extension but fungemia with metastatic spread can occur.
 Some of the fungi implicated in invasive fungal sinusitis in immunosuppressed patients are listed in the differential diagnosis section above. Clinical presentation may include fever, facial pain, nasal congestion, epistaxis, or visual disturbances. A non-specific diagnosis of sinusitis may be made by imaging studies (such as computed tomography) but prompt surgical evaluation is necessary to establish the diagnosis of fungal sinusitis as well as to obtain culture data. Treatment is urgent surgical debridement.
 Amphotericin B is often used for initial therapy, followed by continued therapy with an agent appropriate for the organism. Intravenous therapy is generally continued until clinical response or reversal of immunocompromising conditions in achieved. Chronic suppressive therapy may be employed thereafter. Curvularia is a dematiaceous filamentous fungus with a dark cell wall. It can cause sinusitis, brain abscesses, and cutaneous disease in both humans and animals. Limited data is available on management of this organism and there is no standard method for in-vitro susceptibility testing of
-Curvularia species. In-vitro data showed that Amphotericin B, ketoconazole, miconazole, itraconazole, and voriconazole have low minimum inhibitory concentrations for Curvularia , so these agents are usually employed for treatment of this organism.
+Curvularia species. In-vitro data showed that Amphotericin B, ketoconazole, miconazole, itraconazole, and voriconazole have low minimum inhibitory concentrations for Curvularia, so these agents are usually employed for treatment of this organism.
 Final Diagnosis
-Invasive fungal sinusitis caused by Curvularia , a dematiaceous filamentous fungus, in an immunocompromised, neutropenic patient.
+Invasive fungal sinusitis caused by Curvularia, a dematiaceous filamentous fungus, in an immunocompromised, neutropenic patient.
 References
 Brandt, M.E., and Warnock, D.W. (2003). Epidemiology, clinical manifestations, and therapy of infections caused by dematiaceous fungi. J Chemother 15 Suppl 2, 36-47.
-PMID:14708965 ( PubMed abstract )
+PMID:14708965(PubMed abstract) Ismail, Y., Johnson, R.H., Wells, M.V., Pusavat, J., Douglas, K., and Arsura, E.L. (1993). Invasive sinusitis with intracranial extension caused by Curvularia lunata. Arch Intern Med 153, 1604-1606.
+PMID:8323423(PubMed abstract) Mandell, Bennett and Dolin: Principles and Practice of Infectious Diseases. 6th ed. 2005 Elsevior Churchill Livingstone McGinnis, M.R., and Pasarell, L. (1998). In vitro testing of susceptibilities of filamentous ascomycetes to voriconazole, itraconazole, and amphotericin B, with consideration of phylogenetic implications. J Clin Microbiol 36, 2353-2355.
+PMID:9666022(PubMed abstract) Parva, P., Rojas, R., and Palacios, E. (2005). Unusual rhinosinusitis caused by Curvularia fungi. Ear Nose Throat J 84, 270, 275.
+PMID:15971744(PubMed abstract) Radford, S.A., Johnson, E.M., and Warnock, D.W. (1997). In vitro studies of activity of voriconazole (UK-109,496), a new triazole antifungal agent, against emerging and less-common mold pathogens. Antimicrob Agents Chemother 41, 841-843.
+PMID:9087501(PubMed abstract) www.doctorfungus.org www.uptodate.com
+Brandt, M.E., and Warnock, D.W. (2003). Epidemiology, clinical manifestations, and therapy of infections caused by dematiaceous fungi. J Chemother 15 Suppl 2, 36-47.
+PMID:14708965(PubMed abstract)
 Ismail, Y., Johnson, R.H., Wells, M.V., Pusavat, J., Douglas, K., and Arsura, E.L. (1993). Invasive sinusitis with intracranial extension caused by Curvularia lunata. Arch Intern Med 153, 1604-1606.
-PMID:8323423 ( PubMed abstract )
+PMID:8323423(PubMed abstract)
 Mandell, Bennett and Dolin: Principles and Practice of Infectious Diseases. 6th ed. 2005 Elsevior Churchill Livingstone
 McGinnis, M.R., and Pasarell, L. (1998). In vitro testing of susceptibilities of filamentous ascomycetes to voriconazole, itraconazole, and amphotericin B, with consideration of phylogenetic implications. J Clin Microbiol 36, 2353-2355.
-PMID:9666022 ( PubMed abstract )
+PMID:9666022(PubMed abstract)
 Parva, P., Rojas, R., and Palacios, E. (2005). Unusual rhinosinusitis caused by Curvularia fungi. Ear Nose Throat J 84, 270, 275.
-PMID:15971744 ( PubMed abstract )
+PMID:15971744(PubMed abstract)
 Radford, S.A., Johnson, E.M., and Warnock, D.W. (1997). In vitro studies of activity of voriconazole (UK-109,496), a new triazole antifungal agent, against emerging and less-common mold pathogens. Antimicrob Agents Chemother 41, 841-843.
-PMID:9087501 ( PubMed abstract )
+PMID:9087501(PubMed abstract)
 www.doctorfungus.org
 www.uptodate.com

@@ -9,39 +9,50 @@ Studies
 The white blood cell count was 14.28 per deciliter. Aspartate aminotransferase (AST) 49 IU/L (ref 14-40 IU/L), alanine aminotransferase (ALT) 79 IU/L (10-54 IU/L), alkaline phosphatase 303 IU/L (36-180 IU/L). HIV Antibody/Antigen combo was negative.
 Diagnostic Procedure(s) and Result(s)
 Frozen tissue from corneal biopsy stained with Gomori methenamine silver (GMS) demonstrated broad long, sparsely septated hyaline hyphae (Figures 2a and b).
-On potato dextrose agar, the surface of the slowly growing colonies was white to colorless with an irregular radiating pattern (Figure 3). The lactophenol cotton blue stain preparation of the culture revealed long broad sparsely septated hyphae arranged at right angles projecting off the main cell body (Figure 4a) and zoospore (Figure 4b). These features were morphologically suggestive of Pythium insidiosum infection. The isolate was sent to University of Texas for sequence identification and was later confirmed as P. insidiosum .
+On potato dextrose agar, the surface of the slowly growing colonies was white to colorless with an irregular radiating pattern (Figure 3). The lactophenol cotton blue stain preparation of the culture revealed long broad sparsely septated hyphae arranged at right angles projecting off the main cell body (Figure 4a) and zoospore (Figure 4b). These features were morphologically suggestive of Pythium insidiosum infection. The isolate was sent to University of Texas for sequence identification and was later confirmed as P. insidiosum.
 Importantly, P. insidiosum is more closely related to algae than fungi, making antifungal therapy ineffective [1]. Although there are no established breakpoints [2], susceptibilities demonstrated resistance to all antifungals with no synergy.
 Figure 2. Figure 2a. Frozen tissue from corneal biopsy stained with GMS demonstrated broad long, sparsely septated hyaline hyphae at 40X augmentation.
-Figure 3. Figure 2b. Frozen tissue from corneal biopsy stained with GMS demonstrated broad long, sparsely septated hyaline hyphae at 100x augmentation.
+Figure 2a. Frozen tissue from corneal biopsy stained with GMS demonstrated broad long, sparsely septated hyaline hyphae at 40X augmentation.
+Figure 3. Plate cultures on potato dextrose agar (PDA). The surface of the slowly growing colonies were white to colorless with an irregular radiating pattern.
+Figure 2b. Frozen tissue from corneal biopsy stained with GMS demonstrated broad long, sparsely septated hyaline hyphae at 100x augmentation.
 Figure 4. Plate cultures on potato dextrose agar (PDA). The surface of the slowly growing colonies were white to colorless with an irregular radiating pattern.
 Figure 5. Figure 4a. Lactophenol cotton blue stain preparation of the PDA plate culture revealed long broad sparsely septated hyphae arranged at right angles projecting off of the main cell body at 200X augmentation
+Figure 4a. Lactophenol cotton blue stain preparation of the PDA plate culture revealed long broad sparsely septated hyphae arranged at right angles projecting off of the main cell body at 200X augmentation
 Figure 6. Figure 4b. Lactophenol cotton blue stain preparation of the PDA plate culture revealed a zoospore at 400X augmentation.
+Figure 4b. Lactophenol cotton blue stain preparation of the PDA plate culture revealed a zoospore at 400X augmentation.
 Treatment and Followup
 The initial suspicion was for fusarium keratitis based on the preliminary pathology result which indicated a filamentous fungal infection. Patient was started on empirical antifungal therapy with topical amphotericin B, voriconazole, natamycin and ultimately systemic therapy with posaconazole was begun, with the intention to achieve optimal eye penetration.
 While on therapy, patient underwent penetrating keratoplasty (PK). Intraoperatively, he was noted to have a perforated corneal ulcer with complete corneal melt requiring oversized corneal transplant to close the perforation.
-In the meantime, internal sequencing found that the organism was consistent with Pythium insidiosum . While awaiting confirmation from the reference laboratory, we added intravenous micafungin 150mg daily as this particular organism has poor response to azoles due to their lack of ergosterol.
+In the meantime, internal sequencing found that the organism was consistent with Pythium insidiosum. While awaiting confirmation from the reference laboratory, we added intravenous micafungin 150mg daily as this particular organism has poor response to azoles due to their lack of ergosterol.
 At follow-up examination twenty days post penetrating keratoplasty, there was poor corneal graft re-epithelialization and diffuse scleral injection. The patient developed total limbal stem cell failure, inability of corneal epithelium to repair and renew itself; for this reason, enucleation was considered given lack of response and risk of extraocular spread.
-Once result from sequencing and susceptibilities were received, the decision was made to discontinue all systemic antifungals and start intravenous tigecycline. The rationale for starting this antibacterial was based on recent in vitro studies that have shown activity of glycylcyclines, macrolides, aminoglycosides and tetracyclines against P. insidiosum .[3] After starting therapy with tigecycline, there was gradual but progressive reduction of the scleritis (Figure 5). Tigecycline was discontinued after a 10 week course secondary to thrombocytopenia and worsening liver function tests. Although the cornea became opaque, no further thinning or perforation occurred and the surface gradually epithelialized with conjunctiva 6 weeks after completing antibiotics.
+Once result from sequencing and susceptibilities were received, the decision was made to discontinue all systemic antifungals and start intravenous tigecycline. The rationale for starting this antibacterial was based on recent in vitro studies that have shown activity of glycylcyclines, macrolides, aminoglycosides and tetracyclines against P. insidiosum.[3] After starting therapy with tigecycline, there was gradual but progressive reduction of the scleritis (Figure 5). Tigecycline was discontinued after a 10 week course secondary to thrombocytopenia and worsening liver function tests. Although the cornea became opaque, no further thinning or perforation occurred and the surface gradually epithelialized with conjunctiva 6 weeks after completing antibiotics.
 Figure 7. Appearance of right eye 4-months after penetrating keratoplasty. Conjunctival surface has covered the cornea but notably absent is the severe diffuse scleritis seen at presentation.
 Discussion
 Pythium insidiosum is an aquatic oomycete found in tropical and subtropical environment, usually found in wet swampy areas and has been reported to cause disease in mammals, particularly in horses, dogs and humans. P. insidiosum is a fungus-like organism and its cell wall contains cellulose and beta glucans but not chitin or ergosterol thus rendering it resistant to azoles. This organism develops motile zoospores which serve as the infective propagules and seem to be chemotactically attracted to injured tissue. [4]
 Several cases of P. insidiosum infection have been reported in Thailand and India. Cutaneous, vascular, ocular and disseminated forms of Pythiosis have been described. In a case series published in 2013, contaminated water, particularly rainwater and/or floodwater, was the main risk factor for the occurrence of Pythium keratitis.[5] Morbidity is high because response to medical treatment is poor. [4] In a cohort of 11 cases of ocular pythiosis in Thailand, 91% of cases required enucleation.[6]
-Failure to identify the organism leads to progression of pythiosis and poor outcomes. Zoospore formation is an important diagnostic tool for identification of Pythium species. Delay in zoospore formation and culture failure are the main challenges in the diagnosis of Pythium spp. . Unlike fungi, Pythium spp. show poor or no staining with PAS stain given their cell wall characteristics. Mittal et al recently developed a simple, quick and inexpensive stain to differentiate the oomycete Pythium spp . from fungal organisms based on potassium iodide sulfuric acid.[7]
+Failure to identify the organism leads to progression of pythiosis and poor outcomes. Zoospore formation is an important diagnostic tool for identification of Pythium species. Delay in zoospore formation and culture failure are the main challenges in the diagnosis of Pythium spp.. Unlike fungi, Pythium spp. show poor or no staining with PAS stain given their cell wall characteristics. Mittal et al recently developed a simple, quick and inexpensive stain to differentiate the oomycete Pythium spp. from fungal organisms based on potassium iodide sulfuric acid.[7]
 The rationale for the use of tigecycline was based on two previously published in vitro susceptibility studies where this agent was found to be promising.[3,8] There is no standard treatment for Pythium insidiosum keratitis. A multidisciplinary approach including penetrating keratoplasty and antimicrobials is important in achieving an optimum outcome.
 Final Diagnosis
 Pythium insidiosum keratitis
 References
+Mendoza, L., & Vilela, R. (2013). The mammalian pathogenic oomycetes. Current Fungal Infection Reports, 7(3), 198-208. https://doi.org/10.1007/s12281-013-0144-z Wayne, P. (2008). Clinical and Laboratory Standards Institute: Reference method for broth dilution antifungal susceptibility testing of yeasts; approved standard-; CLSI document M27-A3. CLSI 2008a, 28, 6-12. Loreto, É. S., et al (2014). New insights into the in vitro susceptibility of Pythium insidiosum. Antimicrobial agents and chemotherapy, 58(12), 7534-7537
+PMID:25223997(PubMed abstract) Gaastra, W., Lipman, L. J., et al. (2010). Pythium insidiosum: an overview. Veterinary microbiology, 146(1), 1-16
+PMID:20800978(PubMed abstract) Thanathanee, O., Enkvetchakul, O., et al. (2013). Outbreak of Pythium keratitis during rainy season: a case series. Cornea, 32(2), 199-204
+PMID:22902492(PubMed abstract) Krajaejun, T., Pracharktam, R., et al. (2004). Ocular pythiosis: is it under-diagnosed?. American journal of ophthalmology, 137(2), 370-372.
+PMID:14962441(PubMed abstract) Mittal, R., et al. (2017). Pythium Insidiosum Keratitis: Histopathology and Rapid Novel Diagnostic Staining Technique. Cornea, 36(9), 1124-1132
+PMID:28582375(PubMed abstract) Mahl, D. L., de Jesus, F. P. K., et al. (2012). In vitro susceptibility of Pythium insidiosum isolates to aminoglycoside antibiotics and tigecycline. Antimicrobial agents and chemotherapy, 56(7), 4021-4023
+PMID:22508303(PubMed abstract)
 Mendoza, L., & Vilela, R. (2013). The mammalian pathogenic oomycetes. Current Fungal Infection Reports, 7(3), 198-208. https://doi.org/10.1007/s12281-013-0144-z
 Wayne, P. (2008). Clinical and Laboratory Standards Institute: Reference method for broth dilution antifungal susceptibility testing of yeasts; approved standard-; CLSI document M27-A3. CLSI 2008a, 28, 6-12.
 Loreto, É. S., et al (2014). New insights into the in vitro susceptibility of Pythium insidiosum. Antimicrobial agents and chemotherapy, 58(12), 7534-7537
-PMID:25223997 ( PubMed abstract )
+PMID:25223997(PubMed abstract)
 Gaastra, W., Lipman, L. J., et al. (2010). Pythium insidiosum: an overview. Veterinary microbiology, 146(1), 1-16
-PMID:20800978 ( PubMed abstract )
+PMID:20800978(PubMed abstract)
 Thanathanee, O., Enkvetchakul, O., et al. (2013). Outbreak of Pythium keratitis during rainy season: a case series. Cornea, 32(2), 199-204
-PMID:22902492 ( PubMed abstract )
+PMID:22902492(PubMed abstract)
 Krajaejun, T., Pracharktam, R., et al. (2004). Ocular pythiosis: is it under-diagnosed?. American journal of ophthalmology, 137(2), 370-372.
-PMID:14962441 ( PubMed abstract )
-Mittal, R., et al . (2017). Pythium Insidiosum Keratitis: Histopathology and Rapid Novel Diagnostic Staining Technique. Cornea, 36(9), 1124-1132
-PMID:28582375 ( PubMed abstract )
+PMID:14962441(PubMed abstract)
+Mittal, R., et al. (2017). Pythium Insidiosum Keratitis: Histopathology and Rapid Novel Diagnostic Staining Technique. Cornea, 36(9), 1124-1132
+PMID:28582375(PubMed abstract)
 Mahl, D. L., de Jesus, F. P. K., et al. (2012). In vitro susceptibility of Pythium insidiosum isolates to aminoglycoside antibiotics and tigecycline. Antimicrobial agents and chemotherapy, 56(7), 4021-4023
-PMID:22508303 ( PubMed abstract )
+PMID:22508303(PubMed abstract)

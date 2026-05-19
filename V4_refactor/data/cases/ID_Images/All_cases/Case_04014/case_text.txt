@@ -10,13 +10,13 @@ Physical Examination
 The patient appeared ill. The temperature was 102°F (38.9°C), pulse 124 beats per minute; the other vital signs were normal. There was a soft tissue abscess in the right chest wall that extended into the right axilla and mid abdominal wall. (See Figure 1 for appearance after incision and drainage procedure.) The remainder of the examination was normal.
 Figure 1. Physical findings after initial incision and drainage.
 Studies
-The white blood cell count was 15,300 cells/mm³ with 71% polymorphonuclear leukocytes and 16% band formss. Computed tomography (CT) scanning of the chest showed a soft tissue mass consistent with an abscess in the subpectoralis area ( Figure 2 ).
+The white blood cell count was 15,300 cells/mm³ with 71% polymorphonuclear leukocytes and 16% band formss. Computed tomography (CT) scanning of the chest showed a soft tissue mass consistent with an abscess in the subpectoralis area (Figure 2).
 Figure 2. CT scan of the chest.
 Clinical Course Prior to Diagnosis
-The patient was started on vancomycin and ampicillin-sulbactam intravenously. The soft tissue mass was incised and revealed a purulent discharge that was sent for stains and cultures. The gram stain is shown in Figure 3 . A biopsy of the fascia showed no evidence of necrotizing fasciitis.
+The patient was started on vancomycin and ampicillin-sulbactam intravenously. The soft tissue mass was incised and revealed a purulent discharge that was sent for stains and cultures. The gram stain is shown in Figure 3. A biopsy of the fascia showed no evidence of necrotizing fasciitis.
 Figure 3. Gram stain of purulent discharge.
 Diagnostic Procedure(s) and Result(s)
-Culture of the purulent discharge grew Pasteurella multocida ( Figure 3 ).
+Culture of the purulent discharge grew Pasteurella multocida (Figure 3).
 Treatment and Followup
 The patient went to the operating room where the surgeons found 600 cubic centimeters of purulent material. Intravenous penicillin was administered for two weeks and was followed by oral amoxicillin. On follow-up, the patient was doing very well.
 Discussion
@@ -27,8 +27,12 @@ Final Diagnosis
 Soft tissue abscess secondary to Pasteurella multocida infection, following a dog bite.
 References
 Brook, I. (2009). Management of human and animal bite wound infection: an overview. Curr Infect Dis Rep 11, 389-395.
-PMID:19698283 ( PubMed abstract )
+PMID:19698283(PubMed abstract) Oehler, R.L., Velez, A.P., Mizrachi, M., Lamarche, J., and Gompf, S. (2009). Bite-related and septic syndromes caused by cats and dogs. Lancet Infect Dis 9, 439-447.
+PMID:19555903(PubMed abstract) Talan, D.A., Citron, D.M., Abrahamian, F.M., Moran, G.J., and Goldstein, E.J. (1999). Bacteriologic analysis of infected dog and cat bites. Emergency Medicine Animal Bite Infection Study Group. N Engl J Med 340, 85-92.
+PMID:9887159(PubMed abstract)
+Brook, I. (2009). Management of human and animal bite wound infection: an overview. Curr Infect Dis Rep 11, 389-395.
+PMID:19698283(PubMed abstract)
 Oehler, R.L., Velez, A.P., Mizrachi, M., Lamarche, J., and Gompf, S. (2009). Bite-related and septic syndromes caused by cats and dogs. Lancet Infect Dis 9, 439-447.
-PMID:19555903 ( PubMed abstract )
+PMID:19555903(PubMed abstract)
 Talan, D.A., Citron, D.M., Abrahamian, F.M., Moran, G.J., and Goldstein, E.J. (1999). Bacteriologic analysis of infected dog and cat bites. Emergency Medicine Animal Bite Infection Study Group. N Engl J Med 340, 85-92.
-PMID:9887159 ( PubMed abstract )
+PMID:9887159(PubMed abstract)

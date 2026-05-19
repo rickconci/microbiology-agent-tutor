@@ -10,7 +10,7 @@ There were no allergies.
 Epidemiological History
 The patient was from the Midwestern United States. There was no recent travel, animal bites, or tick exposure. He had a remote history of sex with men. At the time of presentation, he reported being monogamous with a female partner of two years.
 Physical Examination
-The patient was cachectic. The temperature was 39°C (102.2°F). White plaques were present on the oral mucosa. There was a diffuse, crusted, papular and nodular eruption on the skin. Individual lesions ranged between 0.5-3.0 centimeters in size and were located over the back, chest, arms, legs, groin, face (including lips), and scalp, notably sparing of the palms and soles ( Figures 1 through 4 ). The remainder of the examination was normal.
+The patient was cachectic. The temperature was 39°C (102.2°F). White plaques were present on the oral mucosa. There was a diffuse, crusted, papular and nodular eruption on the skin. Individual lesions ranged between 0.5-3.0 centimeters in size and were located over the back, chest, arms, legs, groin, face (including lips), and scalp, notably sparing of the palms and soles (Figures 1 through 4). The remainder of the examination was normal.
 Figure 1. Physical findings.
 Figure 2. Physical findings.
 Figure 3. Physical findings.
@@ -22,7 +22,7 @@ A biopsy of a representative papule was performed. The hematoxylin and eosin sta
 Figure 5. H and E stain of biopsy.
 Figure 6. H and E stain of biopsy.
 Diagnostic Procedure(s) and Result(s)
-A silver stain of the biopsy material revealed treponemes ( Figure 7 with arrows). A rapid plasma reagin (RPR) test was positive at 1:8 dilutions, and a fluorescent treponemal antibody absorption test (FTA-Abs) was reactive.
+A silver stain of the biopsy material revealed treponemes (Figure 7 with arrows). A rapid plasma reagin (RPR) test was positive at 1:8 dilutions, and a fluorescent treponemal antibody absorption test (FTA-Abs) was reactive.
 Figure 7. Silver stain of biopsy.
 Treatment and Followup
 Benzathine penicillin, 2.4 million units, was administered intramuscularly once weekly for three weeks. Antiretroviral therapy was also initiated. The patient's symptoms resolved within 3 weeks.
@@ -30,16 +30,20 @@ Discussion
 When an initial syphilitic chancre is left untreated, treponemes proliferate and disseminate hematogenously, leading to a secondary eruption. Such lesions generally appear 4 to 10 weeks after the primary infection, presenting as generalized macules, papules, pustules, or rarely, vesicles. Secondary syphilitic eruptions are often accompanied by malaise, fever, and diffuse lymphadenopathy [Baughn and Musher 2005].
 Lues maligna (malignant, or rupioid syphilis) is a rare and severe form of secondary syphilis. Initially described in 1864, lues maligna is characterized by multiple, pleomorphic, noduloulcerative lesions [Dubac 1864]. Patients present after an incubation period of 6 weeks to 1 year with a subacute prodrome of fevers, arthralgias, headache, and photophobia.
 On examination, the lesions initially appear as papules, and evolve into pustules within a few days. Central necrosis, clean, well-demarcated ulcers, and a surrounding halo of erythema characterize lesions as they progress. Terminal ulcers are covered with layers of crust. Classically, the trunk, mucosal membranes, palms and soles are spared.
-Histopathologic findings in lues maligna resemble those of other lesions of secondary syphilis. A band-like, lichenoid infiltrate of lymphocytes and plasma cells appears at the dermal-epidermal junction ( Figures 5 and 6 ). There may be hyperkeratosis or necrosis in the epidermis [3]. On occasion, treponemes are visible on silver stain, as in Figure 7 .
+Histopathologic findings in lues maligna resemble those of other lesions of secondary syphilis. A band-like, lichenoid infiltrate of lymphocytes and plasma cells appears at the dermal-epidermal junction (Figures 5 and 6). There may be hyperkeratosis or necrosis in the epidermis [3]. On occasion, treponemes are visible on silver stain, as in Figure 7.
 While the pathogenesis of lues maligna is still unclear, host factors likely play an important role; patients are characteristically malnourished, cachectic and, increasingly, HIV-positive [Kumar and Muralidhar 1998, Don et al 1995]. Untreated or incompletely treated patients may have a recurrence of constitutional symptoms and severe, scarring ulcers, leading to the description of such lesions as “malignant”.
 In this case, the patient’s RPR was positive at 1:8 dilutions and FTA-Abs was reactive. He received benzathine penicillin (2.4 million units) intramuscularly weekly for three weeks, and had complete resolution of his symptoms immediately after treatment. His HIV viral load became undetectable on highly active antiretroviral therapy (HAART). He was transiently lost to follow-up. Ten months after treatment, the RPR was non-reactive.
 Final Diagnosis
-Lues maligna (secondary syphilis) caused by in a patient with HIV infection and AIDS.
+Lues maligna (secondary syphilis) caused by Treponema pallidum in a patient with HIV infection and AIDS.
 References
 Baughn, R.E., and Musher, D.M. (2005). Secondary syphilitic lesions. Clin Microbiol Rev 18, 205-216.
-PMID:15653827 ( PubMed abstract )
+PMID:15653827(PubMed abstract) Don, P.C., Rubinstein, R., and Christie, S. (1995). Malignant syphilis (lues maligna) and concurrent infection with HIV. Int J Dermatol 34, 403-407.
+PMID:7657439(PubMed abstract) Dubac LA. Des syphilides malignes. Prococes [Thesis]. Paris,1864. Kumar, B., and Muralidhar, S. (1998). Malignant syphilis: a review. AIDS Patient Care STDS 12, 921-925.
+PMID:11362063(PubMed abstract)
+Baughn, R.E., and Musher, D.M. (2005). Secondary syphilitic lesions. Clin Microbiol Rev 18, 205-216.
+PMID:15653827(PubMed abstract)
 Don, P.C., Rubinstein, R., and Christie, S. (1995). Malignant syphilis (lues maligna) and concurrent infection with HIV. Int J Dermatol 34, 403-407.
-PMID:7657439 ( PubMed abstract )
+PMID:7657439(PubMed abstract)
 Dubac LA. Des syphilides malignes. Prococes [Thesis]. Paris,1864.
 Kumar, B., and Muralidhar, S. (1998). Malignant syphilis: a review. AIDS Patient Care STDS 12, 921-925.
-PMID:11362063 ( PubMed abstract )
+PMID:11362063(PubMed abstract)
