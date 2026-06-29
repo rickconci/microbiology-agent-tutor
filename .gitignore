@@ -50,3 +50,5 @@ V4_refactor/src/microtutor/api/static/react/
 # ─── Large static assets (copy locally — see FRONTEND_README.md) ─────────────
 V4_refactor/frontend/public/case-images/   # 127 MB — copy from data/cases/ID_Images/All_cases/
 V4_refactor/frontend/public/case_library.json  # copy from data/cases/case_library.json
+V4_refactor/frontend/public/case-images
+V4_refactor/frontend/public/case_library.json
