@@ -1,17 +1,52 @@
+# ─── macOS ────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+env/
+venv/
+
+# ─── Environment & secrets ────────────────────────────────────────────────────
 **/.env
 **/env.dev
-**/__pycache__/
-__pycache__/
-*.pyc
+dot_env_microtutor.txt     # LLM API credentials — never commit
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
 case_feedback.log
 feedback.log
-dot_env_microtutor.txt
 debug_log.log
 llm_interactions.log
-Datasets/
+
+# ─── Legacy conversation artefacts ───────────────────────────────────────────
 conversation_history.txt
 patient_convo_history.txt
 patient_tool_called.txt
 case.txt
+
+# ─── Datasets & docs (large / auto-generated) ────────────────────────────────
+Datasets/
 docs/
 tests/
+
+# ─── Frontend (Node / Vite) ───────────────────────────────────────────────────
+V4_refactor/frontend/node_modules/
+V4_refactor/frontend/.vite/
+
+# ─── Frontend build output ────────────────────────────────────────────────────
+V4_refactor/src/microtutor/api/static/react/
+
+# ─── Large static assets (copy locally — see FRONTEND_README.md) ─────────────
+V4_refactor/frontend/public/case-images/   # 127 MB — copy from data/cases/ID_Images/All_cases/
+V4_refactor/frontend/public/case_library.json  # copy from data/cases/case_library.json
