@@ -10,8 +10,12 @@ import logging
 
 from microtutor.services.case.case_generator_rag import CaseGeneratorRAGAgent
 
-# Initialize the case generator
-case_generator = CaseGeneratorRAGAgent()
+# Initialize the case generator — wrapped so the server starts even without API credentials
+try:
+    case_generator = CaseGeneratorRAGAgent()
+except Exception as e:
+    logging.warning(f"CaseGeneratorRAGAgent could not be initialised (missing credentials?): {e}")
+    case_generator = None
 
 def get_case(organism: str) -> str:
     """
@@ -41,5 +45,7 @@ def get_case(organism: str) -> str:
     # Generate or retrieve case for the specified organism
     # Priority: HPI_per_organism.json -> case_cache.json -> QDRANT RAG generation
     logging.info(f"[BACKEND_START_CASE]   - Calling case_generator.generate_case for '{organism}'.")
+    if case_generator is None:
+        raise RuntimeError("Case generator is not available — API credentials are missing. Add them to dot_env_microtutor.txt to enable case generation.")
     return case_generator.generate_case(organism)
     

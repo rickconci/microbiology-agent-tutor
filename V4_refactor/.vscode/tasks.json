@@ -1,0 +1,64 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Start backend (FastAPI)",
+      "type": "shell",
+      "command": "python run.py",
+      "options": {
+        "cwd": "${workspaceFolder}/V4_refactor"
+      },
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "tabName": "Backend :5001"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Start frontend (Vite dev)",
+      "type": "shell",
+      "command": "npm run dev",
+      "options": {
+        "cwd": "${workspaceFolder}/V4_refactor/frontend"
+      },
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "tabName": "Frontend :5173"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Start docent.ID (backend + frontend)",
+      "dependsOn": ["Start backend (FastAPI)", "Start frontend (Vite dev)"],
+      "dependsOrder": "parallel",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    },
+    {
+      "label": "Build frontend for production",
+      "type": "shell",
+      "command": "npm run build",
+      "options": {
+        "cwd": "${workspaceFolder}/V4_refactor/frontend"
+      },
+      "group": "build",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "tabName": "Frontend build"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

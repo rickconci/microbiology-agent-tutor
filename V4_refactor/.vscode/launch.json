@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Debug backend (FastAPI)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/V4_refactor/run.py",
+      "cwd": "${workspaceFolder}/V4_refactor",
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}/V4_refactor/src"
+      }
+    }
+  ]
+}

@@ -25,7 +25,7 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.templating import Jinja2Templates
 
 from microtutor.schemas.api.responses import ErrorResponse
-from microtutor.api.routes import chat, voice, mcq, assessment
+from microtutor.api.routes import chat, voice, mcq, assessment, cases as cases_router
 from microtutor.api.routes.admin import analytics, monitoring, config
 from microtutor.api.routes.data import database, faiss_management
 from microtutor.api.startup import get_lifespan
@@ -94,6 +94,13 @@ if static_dir.exists():
 else:
     logger.warning(f"⚠️ Static directory not found: {static_dir}")
 
+# Mount case images directory as static
+_case_images_dir = BASE_DIR.parent.parent.parent.parent / "data" / "cases" / "ID_Images" / "All_cases"
+if _case_images_dir.exists():
+    app.mount("/case-images", StaticFiles(directory=str(_case_images_dir)), name="case-images")
+    logger.info(f"✅ Case images mounted from: {_case_images_dir}")
+else:
+    logger.warning(f"⚠️ Case images directory not found: {_case_images_dir}")
 
 # Exception handlers
 # Define custom exception handlers for different types of errors
@@ -145,6 +152,7 @@ app.include_router(chat.router, prefix="/api/v1", tags=["chat"])
 app.include_router(voice.router, prefix="/api/v1", tags=["voice"])
 app.include_router(mcq.router, prefix="/api/v1", tags=["mcq"])
 app.include_router(assessment.router, prefix="/api/v1", tags=["assessment"])
+app.include_router(cases_router.router, prefix="/api/v1", tags=["cases"])
 
 # Admin routes
 app.include_router(monitoring.router, prefix="/api/v1", tags=["monitoring"])
