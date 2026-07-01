@@ -52,3 +52,4 @@ V4_refactor/frontend/public/case-images/   # 127 MB — copy from data/cases/ID_
 V4_refactor/frontend/public/case_library.json  # copy from data/cases/case_library.json
 V4_refactor/frontend/public/case-images
 V4_refactor/frontend/public/case_library.json
+*.zip
